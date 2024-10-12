@@ -7,7 +7,16 @@ export default defineNuxtConfig({
   future: { compatibilityVersion: 4 },
 
   // https://nuxt.com/modules
-  modules: ['@nuxthub/core', '@nuxt/eslint', '@vueuse/nuxt', '@nuxt/content', '@unocss/nuxt', '@nuxtjs/color-mode', '@nuxt/image'],
+  modules: [
+    '@nuxthub/core',
+    '@nuxt/eslint',
+    '@vueuse/nuxt',
+    '@nuxt/content',
+    '@unocss/nuxt',
+    '@nuxtjs/color-mode',
+    '@nuxt/image',
+    'nuxt-auth-utils',
+  ],
 
   css: [
     '@unocss/reset/tailwind-compat.css',
