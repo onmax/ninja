@@ -6,7 +6,8 @@
 - [x] Scrapper
 - [x] /blog
 - [x] /blog/XX
-- [ ] Login system
+- [x] Login system
 - [ ] Chatt
 - [ ] Vectors
 - [ ] medium zoon
+- [ ] Better design header

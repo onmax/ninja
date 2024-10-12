@@ -20,7 +20,8 @@
     "@nuxthub/core": "^0.7.27",
     "@nuxtjs/color-mode": "^3.5.1",
     "@unocss/reset": "^0.63.4",
-    "jsdom": "^25.0.1",
+    "css-select": "^5.1.0",
+    "htmlparser2": "^9.1.0",
     "nuxt": "^3.13.2",
     "nuxt-auth-utils": "^0.4.4",
     "turndown": "^7.2.0",
@@ -30,7 +31,6 @@
   "devDependencies": {
     "@antfu/eslint-config": "^3.7.3",
     "@nuxt/eslint-config": "^0.5.7",
-    "@types/jsdom": "^21.1.7",
     "@types/turndown": "^5.0.5",
     "@unocss/eslint-plugin": "^0.62.4",
     "@unocss/nuxt": "^0.63.4",
