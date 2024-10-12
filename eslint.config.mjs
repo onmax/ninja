@@ -9,6 +9,6 @@ export default withNuxt(
     vue: true,
     rules: {
     },
-    ignores: ['content'],
+    ignores: ['content', 'auth.d.ts'],
   }),
 )
