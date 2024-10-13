@@ -23,13 +23,17 @@ export default defineNuxtConfig({
   ],
 
   // https://hub.nuxt.com/docs/getting-started/installation#options
-  hub: {},
+  hub: {
+    ai: true,
+  },
 
   nitro: {
     experimental: {
       tasks: true,
     },
   },
+
+  watch: ['server/**/*'],
 
   colorMode: {
     classSuffix: '',
