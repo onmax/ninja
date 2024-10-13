@@ -6,25 +6,30 @@ const { loggedIn, user } = useUserSession()
 </script>
 
 <template>
-  <div flex="~ col">
-    <header w-full bg-slate-800 py-12 text-white>
+  <div flex="~ col" min-h-screen bg-background text-foreground font-sans>
+    <header bg="background/80" border="b border" sticky top-0 z-40 w-full py-12 backdrop-blur-lg>
       <div flex="~ items-center justify-between">
         <div>
           Ninja
         </div>
-        <div v-if="loggedIn" flex="~ gap-16 items-center">
-          <NuxtLink to="/chat">
-            Chat
+        <nav v-if="loggedIn" flex="md:~ gap-24 items-center gap-20 lg:gap-24" hidden text-14 font-500>
+          <NuxtLink to="/blog">
+            Blog
           </NuxtLink>
-          <NuxtImg v-if="user?.avatar" :src="user?.avatar" size-40 rounded-full />
-        </div>
-        <div v-else>
-          <a href="/auth/discord">Login with Discord</a>
-        </div>
+          <template v-if="loggedIn">
+            <NuxtLink to="/chat">
+              Chat
+            </NuxtLink>
+            <NuxtImg v-if="user?.avatar" :src="user?.avatar" size-40 rounded-full />
+          </template>
+          <NuxtLink v-else to="/auth/discord" text-foreground transition-colors>
+            Login with Discord
+          </NuxtLink>
+        </nav>
       </div>
     </header>
 
-    <main v-bind="$attrs">
+    <main v-bind="$attrs" mt-auto h-full>
       <slot />
     </main>
   </div>
@@ -32,8 +37,6 @@ const { loggedIn, user } = useUserSession()
 
 <style>
 body {
-  --uno: 'bg-slate-900';
-
   main,
   header > div {
     width: clamp(calc(100vh - 64px), 74ch, 1280px);

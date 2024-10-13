@@ -7,7 +7,9 @@
 - [x] /blog
 - [x] /blog/XX
 - [x] Login system
-- [ ] Chatt
+- [x] Chatt
 - [ ] Vectors
+- [ ] Add
 - [ ] medium zoon
-- [ ] Better design header
+- [ ] Better design
+- [ ] Improve design blog

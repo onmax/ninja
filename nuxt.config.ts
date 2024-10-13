@@ -1,3 +1,4 @@
+import { env } from 'node:process'
 import { defineNuxtConfig } from 'nuxt/config'
 
 // https://nuxt.com/docs/api/configuration/nuxt-config
@@ -16,6 +17,7 @@ export default defineNuxtConfig({
     '@nuxtjs/color-mode',
     '@nuxt/image',
     'nuxt-auth-utils',
+    '@nuxt/fonts',
   ],
 
   css: [
@@ -46,10 +48,7 @@ export default defineNuxtConfig({
 
   // Env variables - https://nuxt.com/docs/getting-started/configuration#environment-variables-and-private-tokens
   runtimeConfig: {
-    public: {
-      // Can be overridden by NUXT_PUBLIC_HELLO_TEXT environment variable
-      helloText: 'Hello from the Edge 👋',
-    },
+    openaiApiKey: env.NUXT_OPENAI_API_KEY,
   },
 
   // https://eslint.nuxt.com
