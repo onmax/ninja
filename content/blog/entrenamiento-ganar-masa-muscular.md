@@ -2,17 +2,17 @@
 title: "Mi plan para ganar músculo"
 url: https://pau.ninja/entrenamiento-ganar-masa-muscular
 slug: entrenamiento-ganar-masa-muscular
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: hombre-entrenando.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2020/01/hombre-entrenando.jpg
 published: 2020-01-06T12:29:46+00:00
 modified: 2023-11-13T10:13:04+00:00
-scrappedAt: 2024-10-14T09:21:38.178Z
+scrappedAt: 2024-10-14T16:20:41.918Z
 audioLink: https://www.ivoox.com/mi-plan-para-ganar-musculo_md_62586134_wp_1.mp3
 bibliography: ["minuto","Movimiento excéntrico (negativo)","High-frequency resistance training is not more effective than low-frequency resistance training in increasing muscle mass and strength in well-trained men. Gomes GK, Franco CM, Nunes PRP, Orsatti FL. J Strength Cond Res. 2018 Feb 27. doi: 10.1519/JSC.0000000000002559.","Maganaris, Constantinos & Collins, Dave & Sharp, Martin. (1999). Expectancy Effects and Strength Training: Do Steroids Make a Difference?. Sport Psychologist. 14. 10.1123/tsp.14.3.272.","Schoenfeld BJ, Ogborn D, Krieger JW. Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Med. 2016 Nov;46(11):1689-1697. doi: 10.1007/s40279-016-0543-8. PMID: 27102172.","Damas F, Phillips S, Vechin FC, Ugrinowitsch C. A review of resistance training-induced changes in skeletal muscle protein synthesis and their contribution to hypertrophy. Sports Med. 2015 Jun;45(6):801-7. doi: 10.1007/s40279-015-0320-0. PMID: 25739559.","Training Volume, Not Frequency, Indicative of Maximal Strength Adaptations to Resistance Training. Colquhoun RJ, Gai CM, Aguilar D, Bove D, Dolan J, Vargas A, Couvillion K, Jenkins NDM, Campbell BI. J Strength Cond Res. 2018 Jan 5. doi: 10.1519/JSC.0000000000002414.","Thomas MH, Burns SP. Increasing Lean Mass and Strength: A Comparison of High Frequency Strength Training to Lower Frequency Strength Training. Int J Exerc Sci. 2016 Apr 1;9(2):159-167. PMID: 27182422; PMCID: PMC4836564.","McHugh MP. Recent advances in the understanding of the repeated bout effect: the protective effect against muscle damage from a single bout of eccentric exercise. Scand J Med Sci Sports. 2003 Apr;13(2):88-97. doi: 10.1034/j.1600-0838.2003.02477.x. PMID: 12641640.","Schoenfeld BJ, Pope ZK, Benik FM, Hester GM, Sellers J, Nooner JL, Schnaiter JA, Bond-Williams KE, Carter AS, Ross CL, Just BL, Henselmans M, Krieger JW. Longer Interset Rest Periods Enhance Muscle Strength and Hypertrophy in Resistance-Trained Men. J Strength Cond Res. 2016 Jul;30(7):1805-12. doi: 10.1519/JSC.0000000000001272. PMID: 26605807.","Grgic J, Lazinica B, Mikulic P, Krieger JW, Schoenfeld BJ. The effects of short versus long inter-set rest intervals in resistance training on measures of muscle hypertrophy: A systematic review. Eur J Sport Sci. 2017 Sep;17(8):983-993. doi: 10.1080/17461391.2017.1340524. Epub 2017 Jun 22. PMID: 28641044.","Schoenfeld BJ, Ogborn DI, Krieger JW. Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis. Sports Med. 2015 Apr;45(4):577-85. doi: 10.1007/s40279-015-0304-0. PMID: 25601394.","Ogasawara R, Yasuda T, Sakamaki M, Ozaki H, Abe T. Effects of periodic and continued resistance training on muscle CSA and strength in previously untrained men. Clin Physiol Funct Imaging. 2011 Sep;31(5):399-404. doi: 10.1111/j.1475-097X.2011.01031.x. Epub 2011 May 31. PMID: 21771261.","Wang X, Sparks JR, Bowyer KP, Youngstedt SD. Influence of sleep restriction on weight loss outcomes associated with caloric restriction. Sleep. 2018 May 1;41(5):10.1093/sleep/zsy027. doi: 10.1093/sleep/zsy027. PMID: 29438540; PMCID: PMC8591680."]
 ---
+[https://www.ivoox.com/mi-plan-para-ganar-musculo\_md\_62586134\_wp\_1.mp3](https://www.ivoox.com/mi-plan-para-ganar-musculo_md_62586134_wp_1.mp3)
+
 Hoy vamos a hablar del mejor plan de plan de entrenamiento para ganar masa muscular… según la ciencia, claro.
 
 Bueno más que el mejor plan, la mejor **estructura**. Qué pilares y fundamentos necesitamos para asegurarnos de que el entrenamiento que sigamos, los cumpla.
@@ -356,7 +356,7 @@ Pero no fue hasta que empecé a mirar su ciencia que vi que necesitamos dormir p
 
 Ahora mismo rebajado
 
-[![Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMGVqRllhalJhZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1OTg1OQ=)](https://www.amazon.es/dp8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
+[![Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMGVqRllhalJhZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc3OQ=)](https://www.amazon.es/dp8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
 
 [Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](https://www.amazon.es/dp/8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
 

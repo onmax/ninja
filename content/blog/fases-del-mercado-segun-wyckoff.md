@@ -2,16 +2,12 @@
 title: "Fases del mercado"
 url: https://pau.ninja/fases-del-mercado-segun-wyckoff
 slug: fases-del-mercado-segun-wyckoff
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: fases-del-mercado-segun-wyckoff.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/06/fases-del-mercado-segun-wyckoff.jpeg
 published: 2024-06-12T07:29:10+00:00
 modified: 2024-06-20T12:16:59+00:00
-scrappedAt: 2024-10-14T09:19:11.594Z
+scrappedAt: 2024-10-14T16:13:30.351Z
 audioLink: 
 bibliography: []
 ---

@@ -2,19 +2,17 @@
 title: "Adiós exchange, hola monedero"
 url: https://pau.ninja/bitcoin-wallet
 slug: bitcoin-wallet
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: bitcoin
-    label: Bitcoin
+categories: ["inversion","bitcoin"]
 image: monedero-bitcoin.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/01/monedero-bitcoin.jpg
 published: 2021-01-23T08:36:36+00:00
 modified: 2024-02-11T06:34:30+00:00
-scrappedAt: 2024-10-14T09:21:25.759Z
+scrappedAt: 2024-10-14T16:20:05.846Z
 audioLink: https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/adios-exchange-hola-monedero\_md\_68748509\_wp\_1.mp3](https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3)
+
 Calvo, narizota, pálido, espárrago… Hay mil maneras de llamarme, pero no soy el único que tiene motes.
 
 El lugar donde «almacenamos» nuestros bitcoin le pasa lo mismo. Como si no fuera suficiente con el componente tecnológico que tiene BTC que encima tenemos que aprendernos tecnicismos… pero tranquilos que es un espejismo.

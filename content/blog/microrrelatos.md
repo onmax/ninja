@@ -2,14 +2,12 @@
 title: "Mis 100 microrrelatos de 100 palabras en 100 días"
 url: https://pau.ninja/microrrelatos
 slug: microrrelatos
-categories: 
-- slug: desarrollo-personal
-    label: Desarrollo personal
+categories: ["desarrollo-personal"]
 image: hombre-escribiendo-relatos.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2020/11/hombre-escribiendo-relatos.jpg
 published: 2020-11-07T11:59:50+00:00
 modified: 2023-08-13T08:16:18+00:00
-scrappedAt: 2024-10-14T09:21:32.258Z
+scrappedAt: 2024-10-14T16:20:30.000Z
 audioLink: 
 bibliography: []
 ---

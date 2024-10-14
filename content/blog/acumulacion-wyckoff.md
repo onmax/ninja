@@ -2,16 +2,12 @@
 title: "Acumulación Wyckoff"
 url: https://pau.ninja/acumulacion-wyckoff
 slug: acumulacion-wyckoff
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: metodo-wyckoff-acumulacion.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/06/metodo-wyckoff-acumulacion.jpg
 published: 2024-06-11T06:54:49+00:00
 modified: 2024-06-14T04:56:28+00:00
-scrappedAt: 2024-10-14T09:19:12.166Z
+scrappedAt: 2024-10-14T16:13:31.091Z
 audioLink: 
 bibliography: []
 ---

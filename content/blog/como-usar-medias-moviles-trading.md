@@ -2,16 +2,12 @@
 title: "Medias móviles"
 url: https://pau.ninja/como-usar-medias-moviles-trading
 slug: como-usar-medias-moviles-trading
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: trader-usa-medias-moviles.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/05/trader-usa-medias-moviles.jpeg
 published: 2024-05-16T08:27:19+00:00
 modified: 
-scrappedAt: 2024-10-14T09:19:19.752Z
+scrappedAt: 2024-10-14T16:13:37.326Z
 audioLink: 
 bibliography: ["SMA","EMA","SMA","EMA","EMA"]
 ---

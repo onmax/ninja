@@ -2,16 +2,12 @@
 title: "El algoritmo que manipula la bolsa"
 url: https://pau.ninja/manipulacion-del-mercado
 slug: manipulacion-del-mercado
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: manipulacion-del-mercado.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/06/manipulacion-del-mercado.jpg
 published: 2024-06-20T05:39:11+00:00
 modified: 2024-06-20T12:55:37+00:00
-scrappedAt: 2024-10-14T09:19:08.537Z
+scrappedAt: 2024-10-14T16:13:27.034Z
 audioLink: 
 bibliography: []
 ---

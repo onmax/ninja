@@ -2,19 +2,17 @@
 title: "Bitcoin nos devuelve la libertad"
 url: https://pau.ninja/comprar-bitcoins-anonimamente
 slug: comprar-bitcoins-anonimamente
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: bitcoin
-    label: Bitcoin
+categories: ["inversion","bitcoin"]
 image: anonimo-con-bitcoin.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2020/11/anonimo-con-bitcoin.jpg
 published: 2020-11-23T09:12:48+00:00
 modified: 2024-02-11T06:34:48+00:00
-scrappedAt: 2024-10-14T09:21:29.481Z
+scrappedAt: 2024-10-14T16:20:22.511Z
 audioLink: https://www.ivoox.com/bitcoin-nos-devuelve-libertad_md_61438528_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/bitcoin-nos-devuelve-libertad\_md\_61438528\_wp\_1.mp3](https://www.ivoox.com/bitcoin-nos-devuelve-libertad_md_61438528_wp_1.mp3)
+
 Comprar Bitcoin en Coinbase es como comprar una **camiseta del Zara**.
 
 Sabes que estás pagando de los precios más bajos en el mercado y que lo tienes super próximo. A la palma de tu mano. Pero en el fondo también sabes que **estás pagando** por otro sitio.
@@ -57,7 +55,7 @@ No es casualidad pues que saliéramos del [patrón oro y que un retorno sea inev
 
 Por eso digo que un retorno es inevitable. Porque se trata de un esquema piramidal ponzi de toda la vida, y en algún momento **petará**. Cuando esto suceda, no nos quedará otra que volver a otro activo como apoyo, como patrón. Tal vez será el oro, tal vez Bitcoin, tal vez los dos.
 
-[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGR2JWQjRUemR0ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc2OQ=)](https://www.amazon.es/dp8423429717?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
+[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGR2JWQjRUemR0ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NzIzMQ=)](https://www.amazon.es/dp8423429717?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 
 [El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](https://www.amazon.es/dp/8423429717?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 

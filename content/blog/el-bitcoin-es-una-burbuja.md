@@ -2,19 +2,17 @@
 title: "¿Es Bitcoin una burbuja… o un tren que se te escapa?"
 url: https://pau.ninja/el-bitcoin-es-una-burbuja
 slug: el-bitcoin-es-una-burbuja
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: bitcoin
-    label: Bitcoin
+categories: ["inversion","bitcoin"]
 image: haciendo-burbuja-con-bitcoins.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/06/haciendo-burbuja-con-bitcoins.jpeg
 published: 2022-06-05T08:51:51+00:00
 modified: 2024-05-21T19:48:06+00:00
-scrappedAt: 2024-10-14T09:20:38.062Z
+scrappedAt: 2024-10-14T16:17:53.604Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83567338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-4%2F369721186-44100-2-c676255a77711.mp3
 bibliography: ["Wikipedia Contributors. 2024. “Tulip Mania.” Wikipedia. ‌","de, Colaboradores. 2007. “Fiebre de Compra-Venta Especulativa Neerlandesa Que Resultó En Un Crack Económico Severo, En El Siglo XVII.” Wikipedia.org","Moha Gerehou. 2016. “La Gran Burbuja Española: Los Casos Más Allá de La Construcción.” ElDiario.es","Interactive, Nikkei Net. 2024. “Access to Internet in Japan Increased by 74% in 2000 – WSJ.”","Paramount Pictures Spain. 2015. “La Gran Apuesta | Tráiler | 22 de Enero En Cines | Paramount Pictures Spain.” YouTube Video.","“Who Was to Blame for the Subprime Crisis?” 2024. Investopedia. ‌","“Who’s to Blame for the Bubble?” 2001. Harvard Business Review. ‌","Muela, Daniel. 2017. “Fórum Filatélico: Cronología de La Enorme Estafa Piramidal En España.” El País."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/83567338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-4%2F369721186-44100-2-c676255a77711.mp3](https://anchor.fm/s/98566448/podcast/play/83567338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-4%2F369721186-44100-2-c676255a77711.mp3)
+
 Bitcoin, como cualquier otro activo del mercado (y como tu ex), tiene ciclos. Subidas y bajadas.
 
 Pero de alguna manera los medios en vez de llamarlo ciclos lo llaman «burbuja».

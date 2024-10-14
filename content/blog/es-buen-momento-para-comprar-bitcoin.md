@@ -2,19 +2,17 @@
 title: "El timing en Bitcoin"
 url: https://pau.ninja/es-buen-momento-para-comprar-bitcoin
 slug: es-buen-momento-para-comprar-bitcoin
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: bitcoin
-    label: Bitcoin
+categories: ["inversion","bitcoin"]
 image: esperando-el-mejor-momento-para-comprar-bitcoin.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/11/esperando-el-mejor-momento-para-comprar-bitcoin.jpeg
 published: 2023-11-20T07:11:34+00:00
 modified: 2024-04-28T11:30:09+00:00
-scrappedAt: 2024-10-14T09:19:46.424Z
+scrappedAt: 2024-10-14T16:14:54.422Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/81437575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363921594-44100-2-ba7e8db9a2dda.mp3
 bibliography: ["Shtekhman, Anatoly, Christos Tasopoulos, and Brian Wimmer. 2012. Dollar-Cost Averaging Just Means Taking Risk Later.","Callahan, Sam, and Rapha Zagury. 2023. Running the Numbers Dollar Cost Averaging vs. Lump-Sum Investing. Accessed November 12.‌"]
 ---
+[https://anchor.fm/s/98566448/podcast/play/81437575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363921594-44100-2-ba7e8db9a2dda.mp3](https://anchor.fm/s/98566448/podcast/play/81437575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363921594-44100-2-ba7e8db9a2dda.mp3)
+
 Ya sabéis que desde hace años **usé todo mi patrimonio (el 100%)** para comprar bitcoins.
 
 Que de hecho sigo haciéndolo. Sigo comprando bitcoin siempre que tengo ahorros extras porqué sabemos que [el colapso del sistema monetario actual](./sistema-monetario-actual) (#428) es un hecho inevitable.

@@ -2,19 +2,17 @@
 title: "Mentiras de la Vitamina C: menos naranjas… más carne roja"
 url: https://pau.ninja/la-carne-tiene-vitamina-c
 slug: la-carne-tiene-vitamina-c
-categories: 
-- slug: nutricion
-    label: Nutrición
-  - slug: mitos-nutricionales
-    label: Mentiras nutricionales
+categories: ["nutricion","mitos-nutricionales"]
 image: hombre-consume-vitamina-c.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/03/hombre-consume-vitamina-c.jpeg
 published: 2023-03-30T11:27:39+00:00
 modified: 2023-04-04T18:17:52+00:00
-scrappedAt: 2024-10-14T09:20:06.763Z
+scrappedAt: 2024-10-14T16:16:09.511Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/67875803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321953930-44100-2-1b650a5332624.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/67875803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321953930-44100-2-1b650a5332624.mp3](https://anchor.fm/s/98566448/podcast/play/67875803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321953930-44100-2-1b650a5332624.mp3)
+
 No es que las frutas y las verduras tengan vitamina C por ser frutas y verduras, sino que la contienen por ser comidas **frescas**.
 
 Prueba deshidratar una naranja o un kiwi (los alimentos más populares con vitamina C), los analizas en un laboratorio y me dices si tienen vitamina C. Esto sucede porque esta vitamina es hidrosoluble. Hidro, de agua.
@@ -89,7 +87,7 @@ Al contrario de lo que se piensa, de hecho la carne tiene **cantidades significa
 
 Un autor al que se hace mucha referencia en los círculos donde seguimos el carnísimo es Vilhjalmur Stefansson, un explorador ártico que murió a los 82 años que pasó toda su vida estudiando las civilizaciones árticas y copiando su dieta.
 
-[![The Fat of the Land](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaVdpdGxUVzB0Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTYyNQ=)](https://www.amazon.es/dp8829534234?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land")
+[![The Fat of the Land](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaVdpdGxUVzB0Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3MzYyMQ=)](https://www.amazon.es/dp8829534234?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land")
 
 [The Fat of the Land](https://www.amazon.es/dp/8829534234?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land")
 

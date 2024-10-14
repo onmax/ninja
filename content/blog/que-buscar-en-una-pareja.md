@@ -2,19 +2,17 @@
 title: "Pareja ideal"
 url: https://pau.ninja/que-buscar-en-una-pareja
 slug: que-buscar-en-una-pareja
-categories: 
-- slug: relaciones
-    label: Relaciones
-  - slug: relaciones-de-pareja
-    label: Relaciones de pareja
+categories: ["relaciones","relaciones-de-pareja"]
 image: la-pareja-ideal.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/09/la-pareja-ideal.jpeg
 published: 2023-09-05T07:55:08+00:00
 modified: 2023-12-22T21:18:45+00:00
-scrappedAt: 2024-10-14T09:19:53.127Z
+scrappedAt: 2024-10-14T16:15:25.474Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/76663707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F349408395-44100-2-66e6ecea55775.mp3
 bibliography: ["Cell Press. «Is beauty really in the ‘eye of the beholder’? Yes, and here’s why.» ScienceDaily. ScienceDaily, 1 October 2015.","Schenk, Leslie, and Martin Tucker. 2015. “Attention Spans.” World Literature Today 72 (1): 141. doi:https://doi.org/10.2307/40153617. ‌","Harburg, Ernest & Kaciroti, Niko & Gleiberman, Lillian & Julius, Mara & Schork, M.. (2008). Marital Pair Anger-Coping Types May Act as an Entity to Affect Mortality: Preliminary Findings from a Prospective Study (Tecumseh, Michigan, 1971–1988). Journal of Family Communication. 8. 44-61. 10.1080/15267430701779485.","“A Life Without Lies: How Living Honestly Can Affect Health,” Anita E Kelly, Session 3189, 12 to 12:50 p.m., Saturday, Aug. 4, Room W303C, Level III, Orange County Convention Center.","Hendrick, Clyde & Hendrick, Susan & Zacchilli, Tammy. (2011). Respect and Love in Romantic Relationships. Acta de investigación psicológica. 1. 316-329. 10.22201/fpsi.20074719e.2011.2.209."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/76663707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F349408395-44100-2-66e6ecea55775.mp3](https://anchor.fm/s/98566448/podcast/play/76663707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F349408395-44100-2-66e6ecea55775.mp3)
+
 Si te dieran la posibilidad de manifestar a tu pareja perfecta con el físico ideal que siempre te ha atraído, pero a cambio esa persona tuviera que tener (sí o sí) tu mente y personalidad… ¿lo harías?
 
 ¿Saldrías contigo?

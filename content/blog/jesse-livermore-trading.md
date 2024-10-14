@@ -2,17 +2,17 @@
 title: "Rey de la especulación"
 url: https://pau.ninja/jesse-livermore-trading
 slug: jesse-livermore-trading
-categories: 
-- slug: inversion
-    label: Inversión
+categories: ["inversion"]
 image: Jesse-Lauriston-Livermore.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/03/Jesse-Lauriston-Livermore.jpeg
 published: 2024-03-20T09:40:46+00:00
 modified: 2024-08-10T19:20:10+00:00
-scrappedAt: 2024-10-14T09:19:32.026Z
+scrappedAt: 2024-10-14T16:13:54.968Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85270934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F373948402-44100-2-4e3bcee12a7e4.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/85270934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F373948402-44100-2-4e3bcee12a7e4.mp3](https://anchor.fm/s/98566448/podcast/play/85270934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F373948402-44100-2-4e3bcee12a7e4.mp3)
+
 Imagina haber llegado a amasar 100 millones de euros en los años 20-30.
 
 El poder de compra traducido al valor de hoy sería de casi 2.000 millones (2 billions en EEUU).
@@ -77,7 +77,7 @@ El libro más mítico no sólo sobre su vida sino del trading en general es una 
 
 Ahora mismo rebajado
 
-[![Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMk5reE9iRTA1ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDI3MA=)](https://www.amazon.es/dp8423427366?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...")
+[![Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMk5reE9iRTA1ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3MzQ3OA=)](https://www.amazon.es/dp8423427366?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...")
 
 [Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...](https://www.amazon.es/dp/8423427366?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...")
 
@@ -87,7 +87,7 @@ En español.
 
 [Comprar en Amazon](https://www.amazon.es/dp/8423427366?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Reminiscences of a Stock Operator: Wiley Investment Classic Series: 31](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSVNuVlRXa1ZxTTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDI3MA=)](https://www.amazon.es/dp0471770884?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Reminiscences of a Stock Operator: Wiley Investment Classic Series: 31")
+[![Reminiscences of a Stock Operator: Wiley Investment Classic Series: 31](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSVNuVlRXa1ZxTTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3MzQ3OA=)](https://www.amazon.es/dp0471770884?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Reminiscences of a Stock Operator: Wiley Investment Classic Series: 31")
 
 [Reminiscences of a Stock Operator: Wiley Investment Classic Series: 31](https://www.amazon.es/dp/0471770884?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Reminiscences of a Stock Operator: Wiley Investment Classic Series: 31")
 
@@ -115,7 +115,7 @@ Pero si lo que quieres es ir al grano sobre sus estrategias de operar, no sería
 
 Dónde tienes las pepitas de oro ya filtradas de Jesse Livermore es en el otro libro. Ahora ya sí, sin ficción.
 
-[![How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUE5qZEtZbTkwTUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDI3MA=)](https://www.amazon.es/dp0071469796?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...")
+[![How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUE5qZEtZbTkwTUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3MzQ3OA=)](https://www.amazon.es/dp0071469796?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...")
 
 [How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...](https://www.amazon.es/dp/0071469796?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...")
 

@@ -2,14 +2,12 @@
 title: "Ponerse en forma"
 url: https://pau.ninja/ponerse-en-forma-desde-cero
 slug: ponerse-en-forma-desde-cero
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: hombre-en-forma-en-casa-desde-cero-a-los-40.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/09/hombre-en-forma-en-casa-desde-cero-a-los-40.jpg
 published: 2024-09-28T09:14:01+00:00
 modified: 2024-10-08T07:22:53+00:00
-scrappedAt: 2024-10-14T09:18:53.279Z
+scrappedAt: 2024-10-14T16:13:02.642Z
 audioLink: 
 bibliography: ["Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their application to resistance training.» Journal of Strength and Conditioning Research, 24(10), 2857-2872.","Wackerhage, H., Schoenfeld, B. J., Hamilton, D. L., Lehti, M., & Hulmi, J. J. (2019). «Stimuli and sensors that initiate skeletal muscle hypertrophy following resistance exercise.» Journal of Applied Physiology, 126(1), 30-43.","Ma, H., & Yu, H. (2019). «The effects of mechanical tension on protein synthesis and muscle growth in different resistance training protocols.» Sports Medicine and Health Science, 1(3), 138-144."]
 ---

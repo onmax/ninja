@@ -2,17 +2,17 @@
 title: "Dieta perfecta: los 5 alimentos más sanos del mundo"
 url: https://pau.ninja/alimentos-mas-sanos-del-mundo
 slug: alimentos-mas-sanos-del-mundo
-categories: 
-- slug: nutricion
-    label: Nutrición
+categories: ["nutricion"]
 image: ofreciendo-comida-perfecta.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/ofreciendo-comida-perfecta.jpeg
 published: 2021-10-05T07:26:37+00:00
 modified: 2023-04-26T17:02:31+00:00
-scrappedAt: 2024-10-14T09:21:05.332Z
+scrappedAt: 2024-10-14T16:19:20.582Z
 audioLink: https://www.ivoox.com/dieta-perfecta-5-alimentos-mas-sanos_md_72381216_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/dieta-perfecta-5-alimentos-mas-sanos\_md\_72381216\_wp\_1.mp3](https://www.ivoox.com/dieta-perfecta-5-alimentos-mas-sanos_md_72381216_wp_1.mp3)
+
 > «Muy bonita todas estas evidencias e hipótesis que nos cuentas Pau pero dame una lista de qué alimentos comer y en qué momento hacerlo.»
 
 La vida no viene con un manual de instrucciones. Sería lo ideal para no cagarla pero entonces aquellos a las que nos encanta investigar nos moriríamos de asco.
@@ -190,7 +190,7 @@ La última opción siempre puede ser comprar algo online pero entonces considera
 
 Ahora mismo rebajado
 
-[![Salmón Shikrán® en esferas, tarro de 340 g](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSmRGTjBOVnAyZDB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY4MA=)](https://www.amazon.es/dpB086SW4BBQ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Salmón Shikrán® en esferas, tarro de 340 g")
+[![Salmón Shikrán® en esferas, tarro de 340 g](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSmRGTjBOVnAyZDB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NjY1NA=)](https://www.amazon.es/dpB086SW4BBQ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Salmón Shikrán® en esferas, tarro de 340 g")
 
 [Salmón Shikrán® en esferas, tarro de 340 g](https://www.amazon.es/dp/B086SW4BBQ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Salmón Shikrán® en esferas, tarro de 340 g")
 
@@ -210,7 +210,7 @@ En distintas regiones de la costa comer mariscos a diaria era de lo más normal 
 
 La evidencia nos dice pues que nuestros antepasados y grupos indígenas valoraban mucho los mariscos. Los apreciaban tanto que también los usaban como comida principal para las mujeres preñadas y niños juntántolo con hueva de salmón, hígado y todas estas comidas animales al top de la lista nutricional.
 
-[![The Fat of the Land (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGNWJVODVXbTVPWVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY4MA=)](https://www.amazon.es/dpB01M6A2WTF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land (English Edition)")
+[![The Fat of the Land (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGNWJVODVXbTVPWVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NjY1NA=)](https://www.amazon.es/dpB01M6A2WTF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land (English Edition)")
 
 [The Fat of the Land (English Edition)](https://www.amazon.es/dp/B01M6A2WTF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land (English Edition)")
 
@@ -252,7 +252,7 @@ Y en la misma línea marítima vamos a mencionar el último alimento, que bueno,
 
 No pude encontrar agua de mar en Estonia de ninguna manera así que me quedé atascado comprando agua mineral en el supermercado, pero si tenemos la oportunidad de comprar agua de mar es la mejor fuente de minerales que nos podemos meter en el cuerpo.
 
-[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY4MA=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
+[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NjY1NA=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 
 [Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 

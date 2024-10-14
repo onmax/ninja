@@ -2,14 +2,12 @@
 title: "Equipo básico"
 url: https://pau.ninja/equipo-para-grabar-podcast
 slug: equipo-para-grabar-podcast
-categories: 
-- slug: negocios
-    label: Negocios
+categories: ["negocios"]
 image: mesa-de-podcast.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2020/11/mesa-de-podcast.jpg
 published: 2022-05-17T06:45:44+00:00
 modified: 2023-04-10T08:12:02+00:00
-scrappedAt: 2024-10-14T09:20:39.788Z
+scrappedAt: 2024-10-14T16:18:01.283Z
 audioLink: 
 bibliography: []
 ---
@@ -47,7 +45,7 @@ En esto toda la comunidad podcastera esta de acuerdo con que el _Blue Yeti_ es e
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Logitech for Creators Blue Yeti Micrófono USB para Grabación, Streaming, Gaming, Podcasting en PC...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGeGNIcE9VM0F3VEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Ng=)](https://www.amazon.es/dpB00N1YPXW2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=microfono%20blue%20yeti "Logitech for Creators Blue Yeti Micrófono USB para Grabación, Streaming, Gaming, Podcasting en PC...")
+[![Logitech for Creators Blue Yeti Micrófono USB para Grabación, Streaming, Gaming, Podcasting en PC...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGeGNIcE9VM0F3VEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OA=)](https://www.amazon.es/dpB00N1YPXW2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=microfono%20blue%20yeti "Logitech for Creators Blue Yeti Micrófono USB para Grabación, Streaming, Gaming, Podcasting en PC...")
 
 [Logitech for Creators Blue Yeti Micrófono USB para Grabación, Streaming, Gaming, Podcasting en PC...](https://www.amazon.es/dp/B00N1YPXW2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=microfono%20blue%20yeti "Logitech for Creators Blue Yeti Micrófono USB para Grabación, Streaming, Gaming, Podcasting en PC...")
 
@@ -77,7 +75,7 @@ Aquí no nos valdría lo del Yeti como navaja suiza que lo plantamos en el medio
 
 Ahora mismo rebajado
 
-[![Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRWVWSkdXbGszVVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Ng=)](https://www.amazon.es/dpB0002E4Z8M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...")
+[![Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRWVWSkdXbGszVVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OA=)](https://www.amazon.es/dpB0002E4Z8M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...")
 
 [Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...](https://www.amazon.es/dp/B0002E4Z8M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...")
 
@@ -105,7 +103,7 @@ Pero claro, un Shure solo, poca cosa podemos hacer.
 
 Amigos ninjas del podcasting, no se puede enchufar directamente al portátil. Necesitamos una «caja negra» que procese ese audio, y aquí entra en juego… la interfaz de audio que mencionaba antes.
 
-[![Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdVFXSXpRM2cwYWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Ng=)](https://www.amazon.es/dpB07QR73T66?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...")
+[![Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdVFXSXpRM2cwYWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OA=)](https://www.amazon.es/dpB07QR73T66?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...")
 
 [Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...](https://www.amazon.es/dp/B07QR73T66?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...")
 
@@ -125,7 +123,7 @@ Lo necesitamos comprar a parte y por suerte cuesta menos de 10€. Pero si compr
 
 Porque sí. Ya que me adentré en las arenas movedizas de los héroes del podcasting, no iba a empezar a escatimar. Quería la experiencia completa. Mover el brazo como si fuera el rabo, la cola de Goku.
 
-[![K&M - 23860 - Soporte para micrófono de sobremesa - negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelZHWnNXRVJ3V1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Ng=)](https://www.amazon.es/dpB00AXMM0L2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "K&M - 23860 - Soporte para micrófono de sobremesa - negro")
+[![K&M - 23860 - Soporte para micrófono de sobremesa - negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelZHWnNXRVJ3V1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OA=)](https://www.amazon.es/dpB00AXMM0L2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "K&M - 23860 - Soporte para micrófono de sobremesa - negro")
 
 [K&M - 23860 - Soporte para micrófono de sobremesa - negro](https://www.amazon.es/dp/B00AXMM0L2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "K&M - 23860 - Soporte para micrófono de sobremesa - negro")
 
@@ -153,7 +151,7 @@ Y pum.
 
 Ahora mismo rebajado
 
-[![Cloud Microphones - CL-1 - Preamplificador para guitarra](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVE1rNU5VbTlCTmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Ng=)](https://www.amazon.es/dpB004MQSV04?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cloud Microphones - CL-1 - Preamplificador para guitarra")
+[![Cloud Microphones - CL-1 - Preamplificador para guitarra](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVE1rNU5VbTlCTmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OA=)](https://www.amazon.es/dpB004MQSV04?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cloud Microphones - CL-1 - Preamplificador para guitarra")
 
 [Cloud Microphones - CL-1 - Preamplificador para guitarra](https://www.amazon.es/dp/B004MQSV04?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cloud Microphones - CL-1 - Preamplificador para guitarra")
 
@@ -177,7 +175,7 @@ A ver yo no haría ninguna de estas cosas, pero ya me entendéis…
 
 Vale llegados a este punto teníamos nuestra cajita de interfaz de audio, y ahora esta otra cajita, el preamplificador. Pero claro, lo enchufamos… Y resulta que nos falta **otro cable** XLR macho-hembra. Por suerte esta vez sale más baratito.
 
-[![Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMFpqSjZiUzF1UWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Ng=)](https://www.amazon.es/dpB009T7Z5UK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m")
+[![Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMFpqSjZiUzF1UWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OA=)](https://www.amazon.es/dpB009T7Z5UK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m")
 
 [Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m](https://www.amazon.es/dp/B009T7Z5UK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m")
 
@@ -225,7 +223,7 @@ Como si fuera una webcam pero de buena calidad. Rollo como para hacer streaming 
 
 Ahora mismo rebajado
 
-[![Sony A6000 - Cámara EVIL de 24 MP (pantalla de 3', estabilizador óptico, vídeo Full HD, WiFi,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGemJuWllibU5NYWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Nw=)](https://www.amazon.es/dpB00IE9XHE0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sony A6000 - Cámara EVIL de 24 MP (pantalla de 3', estabilizador óptico, vídeo Full HD, WiFi,...")
+[![Sony A6000 - Cámara EVIL de 24 MP (pantalla de 3', estabilizador óptico, vídeo Full HD, WiFi,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGemJuWllibU5NYWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OQ=)](https://www.amazon.es/dpB00IE9XHE0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sony A6000 - Cámara EVIL de 24 MP (pantalla de 3', estabilizador óptico, vídeo Full HD, WiFi,...")
 
 [Sony A6000 - Cámara EVIL de 24 MP (pantalla de 3", estabilizador óptico, vídeo Full HD, WiFi,...](https://www.amazon.es/dp/B00IE9XHE0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sony A6000 - Cámara EVIL de 24 MP (pantalla de 3', estabilizador óptico, vídeo Full HD, WiFi,...")
 
@@ -243,7 +241,7 @@ La capturadora de vídeo USB no deja de ser un pequeño USB, parecido a un lápi
 
 Ahora mismo rebajado
 
-[![Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGbFZ6bFllSGx2ZDB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Nw=)](https://www.amazon.es/dpB07K3FN5MR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...")
+[![Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGbFZ6bFllSGx2ZDB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OQ=)](https://www.amazon.es/dpB07K3FN5MR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...")
 
 [Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...](https://www.amazon.es/dp/B07K3FN5MR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...")
 
@@ -257,7 +255,7 @@ Y esto lógicamente va enchufado al portátil pero hace que tengamos que comprar
 
 Sólo lo suficiente para conectar de la capturadora a la cámara.
 
-[![Rankie Cable Micro HDMI a HDMI, Alta Velocidad con Ethernet, 3D, 1080P, 2160P, 4K y Canal de Retorno...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGYU9UTXhTRTlYVDB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU4Nw=)](https://www.amazon.es/dpB00Z07JYLE?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Rankie Cable Micro HDMI a HDMI, Alta Velocidad con Ethernet, 3D, 1080P, 2160P, 4K y Canal de Retorno...")
+[![Rankie Cable Micro HDMI a HDMI, Alta Velocidad con Ethernet, 3D, 1080P, 2160P, 4K y Canal de Retorno...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGYU9UTXhTRTlYVDB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3Mzc2OQ=)](https://www.amazon.es/dpB00Z07JYLE?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Rankie Cable Micro HDMI a HDMI, Alta Velocidad con Ethernet, 3D, 1080P, 2160P, 4K y Canal de Retorno...")
 
 [Rankie Cable Micro HDMI a HDMI, Alta Velocidad con Ethernet, 3D, 1080P, 2160P, 4K y Canal de Retorno...](https://www.amazon.es/dp/B00Z07JYLE?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Rankie Cable Micro HDMI a HDMI, Alta Velocidad con Ethernet, 3D, 1080P, 2160P, 4K y Canal de Retorno...")
 

@@ -2,17 +2,17 @@
 title: "Valores alineados"
 url: https://pau.ninja/valores-personales
 slug: valores-personales
-categories: 
-- slug: desarrollo-personal
-    label: Desarrollo personal
+categories: ["desarrollo-personal"]
 image: persona-con-valores.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2023/07/persona-con-valores.jpg
 published: 2023-07-31T05:06:48+00:00
 modified: 2023-09-23T10:52:25+00:00
-scrappedAt: 2024-10-14T09:19:57.727Z
+scrappedAt: 2024-10-14T16:15:44.361Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75058598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344417874-44100-2-644025656e174.mp3
 bibliography: ["Mikulak, Anna. 2023. “The Heart of the Matter.” APS Observer 29.‌","Beach MC, Duggan PS, Cassel CK, Geller G. What does ‘respect’ mean? Exploring the moral obligation of health professionals to respect patients. J Gen Intern Med. 2007 May;22(5):692-5. doi: 10.1007/s11606-006-0054-7. PMID: 17443381; PMCID: PMC1852905.","Browne AJ. The meaning of respect: a First Nations perspective. Can J Nurs Res. 1995 Winter;27(4):95-109. PMID: 8697278.","Simon B, Lücken M, Stürmer S. The added value of respect: reaching across inequality. Br J Soc Psychol. 2006 Sep;45(Pt 3):535-46. doi: 10.1348/014466605X57637. PMID: 16984719.","Rolbiecki A, Subramanian R, Crenshaw B, Albright DL, Perreault M, Mehr D. A Qualitative Exploration of Resilience among Patients Living with Chronic Pain. Traumatology (Tallahass Fla). 2017 Mar;23(1):89-94. doi: 10.1037/trm0000095. Epub 2016 Sep 22. PMID: 33500683; PMCID: PMC7833082.","KIM, E.Y., CHANG, S.O. Exploring nurse perceptions and experiences of resilience: a meta-synthesis study. BMC Nurs 21, 26 (2022)."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/75058598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344417874-44100-2-644025656e174.mp3](https://anchor.fm/s/98566448/podcast/play/75058598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344417874-44100-2-644025656e174.mp3)
+
 Neuroscientíficos, psicólogos y sociólogos están de acuerdo en que nuestros valores personales determinarán si tenemos más o menos números para sentirnos felices con nuestras vida.
 
 Igual que el valor de un producto está directamente relacionado con la necesidad que soluciona…

@@ -16,8 +16,10 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     '@nuxtjs/color-mode',
     '@nuxt/image',
+    'radix-vue/nuxt',
     'nuxt-auth-utils',
     '@nuxt/fonts',
+    '@nuxt/icon',
   ],
 
   css: [

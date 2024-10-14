@@ -2,17 +2,17 @@
 title: "Mi rutina de gym para volverme un Dios griego"
 url: https://pau.ninja/rutina-empuje-tiron-pierna
 slug: rutina-empuje-tiron-pierna
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: dominando-cuerpo.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/04/dominando-cuerpo.jpg
 published: 2021-05-28T09:35:36+00:00
 modified: 2023-06-27T17:46:18+00:00
-scrappedAt: 2024-10-14T09:21:17.286Z
+scrappedAt: 2024-10-14T16:19:43.971Z
 audioLink: https://www.ivoox.com/mi-rutina-gym-para-volverme-dios_md_78674320_wp_1.mp3
 bibliography: ["repeticiones a 10kg","repeticiones a 10kg","repeticiones a 10kg","repeticiones a 10kg","repeticiones a 10kg","repeticiones a 11kg","Radaelli R, Fleck SJ, Leite T, Leite RD, Pinto RS, Fernandes L, Simão R. Dose-response of 1, 3, and 5 sets of resistance exercise on strength, local muscular endurance, and hypertrophy. J Strength Cond Res. 2015 May;29(5):1349-58. doi: 10.1519/JSC.0000000000000758. PMID: 25546444.","Schoenfeld BJ, Ogborn D, Krieger JW. Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Med. 2016 Nov;46(11):1689-1697. doi: 10.1007/s40279-016-0543-8. PMID: 27102172."]
 ---
+[https://www.ivoox.com/mi-rutina-gym-para-volverme-dios\_md\_78674320\_wp\_1.mp3](https://www.ivoox.com/mi-rutina-gym-para-volverme-dios_md_78674320_wp_1.mp3)
+
 De los tipos de rutina de gimnasio que existen, mi favorita es la que distribuye los días de entrenamiento según la biomecánica de los músculos (según su función). Es decir: **empuje, tirón y pierna**.
 
 No importa si he estado en gimnasios comerciales o en mi gym casero, me encanta porque me da **libertad** sin igual. Libertad de días en los que entreno y de inclusión de ejercicios.

@@ -2,16 +2,12 @@
 title: "Cambio de tendencia"
 url: https://pau.ninja/patrones-velas-cambio-tendencia
 slug: patrones-velas-cambio-tendencia
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/04/patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 published: 2024-04-02T04:40:41+00:00
 modified: 2024-06-23T05:27:14+00:00
-scrappedAt: 2024-10-14T09:19:31.048Z
+scrappedAt: 2024-10-14T16:13:52.322Z
 audioLink: 
 bibliography: []
 ---
@@ -409,7 +405,7 @@ Ha sido una aventura muy divertida sumergirme en estos datos y sin duda os recom
 
 Ahora mismo rebajado
 
-[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDI2NQ=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
+[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NzY5Mw=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 [Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 

@@ -2,16 +2,12 @@
 title: "Soporte y resistencia en trading"
 url: https://pau.ninja/soporte-y-resistencia-trading
 slug: soporte-y-resistencia-trading
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: trader-dando-soporte-y-resistencia.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/05/trader-dando-soporte-y-resistencia.jpeg
 published: 2024-05-28T12:49:13+00:00
 modified: 2024-05-30T05:51:39+00:00
-scrappedAt: 2024-10-14T09:19:12.643Z
+scrappedAt: 2024-10-14T16:13:31.851Z
 audioLink: 
 bibliography: []
 ---

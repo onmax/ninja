@@ -2,16 +2,12 @@
 title: "Método Wyckoff"
 url: https://pau.ninja/metodo-wyckoff
 slug: metodo-wyckoff
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: richard-wyckoff-metodo.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/06/richard-wyckoff-metodo.jpeg
 published: 2024-06-14T04:53:51+00:00
 modified: 2024-07-08T05:14:01+00:00
-scrappedAt: 2024-10-14T09:19:10.834Z
+scrappedAt: 2024-10-14T16:13:29.164Z
 audioLink: 
 bibliography: []
 ---

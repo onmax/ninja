@@ -6,7 +6,7 @@ import { presetShadcn } from 'unocss-preset-shadcn'
 
 export default defineConfig({
   presets: [
-    presetUno(),
+    presetUno({ attributifyPseudo: true }),
     presetIcons(),
     presetRemToPx({ baseFontSize: 4 }),
     presetAttributify(),

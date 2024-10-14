@@ -2,14 +2,12 @@
 title: "Deltoides de dios griego… pero sólo con peso corporal"
 url: https://pau.ninja/ejercicios-hombros-calistenia
 slug: ejercicios-hombros-calistenia
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: hombre-con-buenos-hombros.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/05/hombre-con-buenos-hombros.jpeg
 published: 2022-05-03T07:40:01+00:00
 modified: 2024-02-05T06:33:03+00:00
-scrappedAt: 2024-10-14T09:20:43.985Z
+scrappedAt: 2024-10-14T16:18:12.048Z
 audioLink: 
 bibliography: ["Thomas, Ewan & Bianco, Antonino & Mancuso, Esamuela & Patti, Antonino & Tabacchi, Garden & Paoli, Antonio & Messina, Giuseppe & Palma, Antonio. (2017). The effects of a calisthenics training intervention on posture, strength and body composition. Isokinetics and Exercise Science. 25. 1-8. 10.3233/IES-170001."]
 ---

@@ -2,19 +2,17 @@
 title: "De vegano a carnívoro: salud, animales y medio ambiente"
 url: https://pau.ninja/razones-para-no-ser-vegano
 slug: razones-para-no-ser-vegano
-categories: 
-- slug: nutricion
-    label: Nutrición
-  - slug: antiveganismo
-    label: Antiveganismo
+categories: ["nutricion","antiveganismo"]
 image: medio-vegano-medio-carnivoro.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/medio-vegano-medio-carnivoro.jpeg
 published: 2021-10-05T07:25:53+00:00
 modified: 2024-02-06T10:57:39+00:00
-scrappedAt: 2024-10-14T09:21:09.281Z
+scrappedAt: 2024-10-14T16:19:23.928Z
 audioLink: https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio\_md\_70322533\_wp\_1.mp3](https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3)
+
 Estos últimos 6 años he estado probando todo tipo de dietas: vegana, vegetariana y pescetariana hasta llegar al otro extremo del veganismo: la carnívora.
 
 Después de todos estos experimentos ya puedo decir que para mí, [la dieta carnívora (comer exclusivamente carne)](./dieta-carnivora) es la **mejor** dieta que he probado, para mí. Tanto por salud, fuerza, recomposición corporal, sueño, inflamación…

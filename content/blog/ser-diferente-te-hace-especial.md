@@ -2,17 +2,17 @@
 title: "El factor contrarian"
 url: https://pau.ninja/ser-diferente-te-hace-especial
 slug: ser-diferente-te-hace-especial
-categories: 
-- slug: desarrollo-personal
-    label: Desarrollo personal
+categories: ["desarrollo-personal"]
 image: persona-diferente-al-resto.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/05/persona-diferente-al-resto.jpg
 published: 2024-05-24T04:29:49+00:00
 modified: 2024-08-10T19:39:46+00:00
-scrappedAt: 2024-10-14T09:19:15.936Z
+scrappedAt: 2024-10-14T16:13:34.930Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/87258205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-27%2F378884494-44100-2-f4d93901ea44b.mp3
 bibliography: ["https://x.com/paulkrugman","“Business Professor’s Investment Firm Loses $100 Billion | News | the Harvard Crimson.” 2024. Thecrimson.com."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/87258205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-27%2F378884494-44100-2-f4d93901ea44b.mp3](https://anchor.fm/s/98566448/podcast/play/87258205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-27%2F378884494-44100-2-f4d93901ea44b.mp3)
+
 Ser contrario al resto no es ser diferente _por serlo_, sino que se trata de…
 
 > Tener razón en momentos cuando todo el mundo está convencido de que estás equivocado.

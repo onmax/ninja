@@ -2,17 +2,17 @@
 title: "Mi blog es el primero en Google"
 url: https://pau.ninja/posicionar-un-blog
 slug: posicionar-un-blog
-categories: 
-- slug: negocios
-    label: Negocios
+categories: ["negocios"]
 image: posicionando-blog.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/posicionando-blog.jpeg
 published: 2021-10-04T04:53:28+00:00
 modified: 2023-10-06T05:58:38+00:00
-scrappedAt: 2024-10-14T09:21:11.619Z
+scrappedAt: 2024-10-14T16:19:33.391Z
 audioLink: https://www.ivoox.com/mi-blog-es-primero-google_md_56352260_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/mi-blog-es-primero-google\_md\_56352260\_wp\_1.mp3](https://www.ivoox.com/mi-blog-es-primero-google_md_56352260_wp_1.mp3)
+
 Los factores exactos que utiliza Google para decidir si un blog saldrá en los resultados de búsqueda por encima de otro son factores similares a los ingredientes de la Coca-Cola. No los conocemos exactamente pero sabemos a ciencia cierta que gran parte del contenido es **azúcar puro**.
 
 Lo mismo pasa cuando nos preguntamos cómo posicionar un blog en los primeros lugares de Google.

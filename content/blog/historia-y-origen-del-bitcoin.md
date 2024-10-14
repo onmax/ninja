@@ -2,19 +2,17 @@
 title: "Adiós, Satoshi Nakamoto"
 url: https://pau.ninja/historia-y-origen-del-bitcoin
 slug: historia-y-origen-del-bitcoin
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: bitcoin
-    label: Bitcoin
+categories: ["inversion","bitcoin"]
 image: satoshi-nakamoto-en-el-ordenador.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/05/satoshi-nakamoto-en-el-ordenador.jpeg
 published: 2021-05-07T10:15:46+00:00
 modified: 2024-02-11T06:34:12+00:00
-scrappedAt: 2024-10-14T09:21:17.469Z
+scrappedAt: 2024-10-14T16:19:45.485Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/74514823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F342718019-44100-2-f8f568f8ae8cf.mp3
 bibliography: ["“Stats – Satoshi Nakamoto.” 2023. Satoshinakamoto.me.‌","“The Cryptography Archives.” 2023. Metzdowd.com.‌","“¿Quién Es Nick Szabo?” 2019. Bit2Me Academy.","Szabo, Nick. 2023. “Bitcoin, What Took Ye so Long?” Blogspot.com.‌","“Re: Minimalistic Bitcoin Client on D Language? | Satoshi Nakamoto Institute.” 2023. Nakamotoinstitute.org. ‌","“Latest Posts Of: Satoshi.” 2023. Bitcointalk.org.‌","Huang, Roger. 2019. “How Bitcoin and WikiLeaks Saved Each Other.” Forbes, April 26.","Francesc Peirón. 2021. “Tesla Compra 1.250 Millones En Bitcoins Y Dispara La Criptomoneda.” La Vanguardia. La Vanguardia.‌","“How Many Spaces Should I Leave after a Period? | MLA Style Center.” 2016.‌","“Nakamoto: Name Meaning, Origin, Popularity, & Inspiration – FamilyEducation.” 2019. FamilyEducation.‌","“Top 100 Richest Bitcoin Addresses and Bitcoin Distribution.” 2023. BitInfoCharts.‌","Forbes. 2023. “Real Time Billionaires.”‌","Vigna, Paul, and Michael J Casey. 2014. “Hacker Claims to Crack Email of Bitcoin Creator Satoshi Nakamoto.” WSJ. The Wall Street Journal.‌"]
 ---
+[https://anchor.fm/s/98566448/podcast/play/74514823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F342718019-44100-2-f8f568f8ae8cf.mp3](https://anchor.fm/s/98566448/podcast/play/74514823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F342718019-44100-2-f8f568f8ae8cf.mp3)
+
 Por cada persona que le gusta lo misterioso (lo desconocido), hay dos que fantasean con lo opuesto: la fama.
 
 El antagonista de ser famoso es ser anónimo, pero ¿y si pudieras ser las dos cosas a la vez?

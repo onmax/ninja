@@ -1,11 +1,11 @@
 <script setup lang="ts">
 const { loggedIn } = useUserSession()
-if (!loggedIn)
+if (!loggedIn.value)
   navigateTo('/')
 </script>
 
 <template>
-  <NuxtLayout>
+  <NuxtLayout mt-auto>
     <ChatPanel />
   </NuxtLayout>
 </template>

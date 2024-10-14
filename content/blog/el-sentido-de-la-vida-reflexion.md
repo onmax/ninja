@@ -2,14 +2,12 @@
 title: "¿Por qué es tan difícil encontrar sentido a la vida?"
 url: https://pau.ninja/el-sentido-de-la-vida-reflexion
 slug: el-sentido-de-la-vida-reflexion
-categories: 
-- slug: desarrollo-personal
-    label: Desarrollo personal
+categories: ["desarrollo-personal"]
 image: persona-buscando-el-sentido-de-la-vida.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/08/persona-buscando-el-sentido-de-la-vida.jpg
 published: 2024-08-30T05:52:03+00:00
 modified: 2024-10-02T15:16:59+00:00
-scrappedAt: 2024-10-14T09:18:58.051Z
+scrappedAt: 2024-10-14T16:13:07.629Z
 audioLink: 
 bibliography: []
 ---

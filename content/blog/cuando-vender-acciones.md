@@ -2,19 +2,17 @@
 title: "¿Cuando vender acciones?"
 url: https://pau.ninja/cuando-vender-acciones
 slug: cuando-vender-acciones
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: persona-vende-acciones-de-bolsa.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/02/persona-vende-acciones-de-bolsa.jpeg
 published: 2024-05-05T05:08:52+00:00
 modified: 2024-08-10T19:46:41+00:00
-scrappedAt: 2024-10-14T09:19:22.712Z
+scrappedAt: 2024-10-14T16:13:41.770Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/89329433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F383349567-44100-2-56d590ff378ce.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/89329433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F383349567-44100-2-56d590ff378ce.mp3](https://anchor.fm/s/98566448/podcast/play/89329433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F383349567-44100-2-56d590ff378ce.mp3)
+
 Saber cuando vender acciones es mucho más difícil que saber cuando comprar.
 
 Pensadlo.

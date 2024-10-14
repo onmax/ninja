@@ -2,16 +2,12 @@
 title: "NoFap: el arte de dejar de masturbarse"
 url: https://pau.ninja/beneficios-nofap
 slug: beneficios-nofap
-categories: 
-- slug: desarrollo-personal
-    label: Desarrollo personal
-  - slug: masculinidad
-    label: Masculinidad
+categories: ["desarrollo-personal","masculinidad"]
 image: hombre-evitando-masturbacion.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/11/hombre-evitando-masturbacion.jpeg
 published: 2022-11-21T10:19:11+00:00
 modified: 2024-10-03T06:49:08+00:00
-scrappedAt: 2024-10-14T09:20:21.778Z
+scrappedAt: 2024-10-14T16:16:50.590Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61321538/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2F299679733-44100-2-06f973d4e39e4.mp3
 bibliography: []
 ---

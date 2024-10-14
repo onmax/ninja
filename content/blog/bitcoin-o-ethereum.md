@@ -2,19 +2,17 @@
 title: "Si no es Bitcoin… ¿es shitcoin?"
 url: https://pau.ninja/bitcoin-o-ethereum
 slug: bitcoin-o-ethereum
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: bitcoin
-    label: Bitcoin
+categories: ["inversion","bitcoin"]
 image: grafico-bitcoin-ethereum.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/01/grafico-bitcoin-ethereum.jpg
 published: 2021-11-30T08:30:28+00:00
 modified: 2024-02-11T06:33:51+00:00
-scrappedAt: 2024-10-14T09:20:57.300Z
+scrappedAt: 2024-10-14T16:18:47.803Z
 audioLink: https://www.ivoox.com/si-no-es-bitcoin-es-shitcoin_md_80707456_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/si-no-es-bitcoin-es-shitcoin\_md\_80707456\_wp\_1.mp3](https://www.ivoox.com/si-no-es-bitcoin-es-shitcoin_md_80707456_wp_1.mp3)
+
 Cuando digo que soy un maximialista Bitcoin, no me refiero a que Bitcoin va a ser la única criptomoneda que valga la pena. Me refiero a que es **la única que cumple la función de reserva de valor**. De oro digital.
 
 Claro que en este ecosistema tan nuevo como es el mercado de las criptomonedas, pueden haber varios jugadores que cumplan con funciones que aporten valor en sectores que hasta ahora ni nos habíamos podido imaginar, pero…

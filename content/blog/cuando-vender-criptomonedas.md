@@ -2,16 +2,12 @@
 title: "Adiós, criptomonedas"
 url: https://pau.ninja/cuando-vender-criptomonedas
 slug: cuando-vender-criptomonedas
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: criptomonedas
-    label: Criptomonedas
+categories: ["inversion","criptomonedas"]
 image: persona-vende-criptomonedas.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/05/persona-vende-criptomonedas.jpeg
 published: 2024-05-23T02:49:47+00:00
 modified: 2024-08-17T15:20:24+00:00
-scrappedAt: 2024-10-14T09:19:16.419Z
+scrappedAt: 2024-10-14T16:13:35.690Z
 audioLink: 
 bibliography: []
 ---

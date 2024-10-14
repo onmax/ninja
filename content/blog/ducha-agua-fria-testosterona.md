@@ -2,17 +2,17 @@
 title: "Duchas frías para vivir 100 años"
 url: https://pau.ninja/ducha-agua-fria-testosterona
 slug: ducha-agua-fria-testosterona
-categories: 
-- slug: desarrollo-personal
-    label: Desarrollo personal
+categories: ["desarrollo-personal"]
 image: persona-pasando-frio-en-ducha.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/11/persona-pasando-frio-en-ducha.jpeg
 published: 2021-01-13T11:25:21+00:00
 modified: 2023-07-06T12:27:53+00:00
-scrappedAt: 2024-10-14T09:21:27.056Z
+scrappedAt: 2024-10-14T16:20:10.929Z
 audioLink: https://www.ivoox.com/duchas-frias-para-vivir-100-anos_md_64651583_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/duchas-frias-para-vivir-100-anos\_md\_64651583\_wp\_1.mp3](https://www.ivoox.com/duchas-frias-para-vivir-100-anos_md_64651583_wp_1.mp3)
+
 Uno de los hábitos para vivir 100 años que mencioné, y que todos cruzamos los dedos para que no fuera muy relevante para ser inmortales fue… la **exposición al frío**.
 
 Pero no sólo nos mejora la longevidad. Con duchas a agua fría olvídate del café porque tendrás **foco y disciplina**. Dicen que incluso **aumenta la testosterona** pero… ¿es verdad?
@@ -33,7 +33,7 @@ Mejorar la vida en un montón de indicadores bien respaldados por la ciencia.
 
 Si no eres un pingüino pero ya te suena el fascinante mundo del frío, seguro que te suena el holandés Win Hof, con el sobrenombre de «el hombre de hielo».
 
-[![El hombre de hielo. The IceMan. El método Wim Hof de control de la respiración y exposición al...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGd1QzWjRhMnBPWVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc1NQ=)](https://www.amazon.es/dp8484456722?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El hombre de hielo. The IceMan. El método Wim Hof de control de la respiración y exposición al...")
+[![El hombre de hielo. The IceMan. El método Wim Hof de control de la respiración y exposición al...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGd1QzWjRhMnBPWVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NjYzMg=)](https://www.amazon.es/dp8484456722?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El hombre de hielo. The IceMan. El método Wim Hof de control de la respiración y exposición al...")
 
 [El hombre de hielo. The IceMan. El método Wim Hof de control de la respiración y exposición al...](https://www.amazon.es/dp/8484456722?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El hombre de hielo. The IceMan. El método Wim Hof de control de la respiración y exposición al...")
 

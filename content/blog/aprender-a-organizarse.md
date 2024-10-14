@@ -2,17 +2,17 @@
 title: "Organízate mejor"
 url: https://pau.ninja/aprender-a-organizarse
 slug: aprender-a-organizarse
-categories: 
-- slug: productividad
-    label: Productividad
+categories: ["productividad"]
 image: persona-aprende-a-organizarse.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/07/persona-aprende-a-organizarse.jpg
 published: 2024-07-11T05:35:06+00:00
 modified: 2024-10-08T17:16:27+00:00
-scrappedAt: 2024-10-14T09:19:06.462Z
+scrappedAt: 2024-10-14T16:13:23.258Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/91321502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385858398-44100-2-4a51197bac833.mp3
 bibliography: ["Zhu, Meng & yang, yang & Hsee, Christopher. (2018). The Mere Urgency Effect.","Meng Zhu, Yang Yang, Christopher K Hsee, The Mere Urgency Effect, Journal of Consumer Research, Volume 45, Issue 3, October 2018, Pages 673–690, https://doi.org/10.1093/jcr/ucy008","Habbert, Rachel & Schroeder, Juliana. (2020). To build efficacy, eat the frog first: People misunderstand how the difficulty-ordering of tasks influences efficacy. Journal of Experimental Social Psychology. 91. 104032. 10.1016/j.jesp.2020.104032.","Katahira K, Yamazaki Y, Yamaoka C, Ozaki H, Nakagawa S, Nagata N. EEG Correlates of the Flow State: A Combination of Increased Frontal Theta and Moderate Frontocentral Alpha Rhythm in the Mental Arithmetic Task. Front Psychol. 2018 Mar 9;9:300.","What it’s like to have a brain in permanent flow state — a qEEG report. Oksana Andreiuk, Canadian Biohacker, May 7, 2019","Locke, E. A., & Latham, G. P. (1991). A theory of goal setting & task performance. The Academy of Management Review, 16(2), 212-247.","Locke, E. A., & Latham, G. P. (2002). Building a practically useful theory of goal setting and task motivation. American Psychologist, 57(9), 705-717.","Amabile, T. & Kramer, S. J. The Power of Small Wins. Retrieved from https://hbr.org/2011/05/the-power-of-small-wins","Brulé, G., & Morgan, R. (2018). Working with stress: can we turn distress into eustress? Journal of Neuropsychology & Stress Management, 3, 1-3.","Snyder, C. R. (2002). Hope theory: Rainbows in the mind. Psychological Inquiry, 13(4), 249-275."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/91321502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385858398-44100-2-4a51197bac833.mp3](https://anchor.fm/s/98566448/podcast/play/91321502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385858398-44100-2-4a51197bac833.mp3)
+
 Cuando alguien decide que va a organizarse mejor, termina cayendo en una en una de estas dos cestas…
 
 O bien no organizan nada y es puro caos, o quieren organizarlo todo al milímetro.

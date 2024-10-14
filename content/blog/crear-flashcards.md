@@ -2,17 +2,17 @@
 title: "Memorízalo todo"
 url: https://pau.ninja/crear-flashcards
 slug: crear-flashcards
-categories: 
-- slug: productividad
-    label: Productividad
+categories: ["productividad"]
 image: hacer-flashcards.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/02/hacer-flashcards.jpeg
 published: 2024-02-27T10:36:51+00:00
 modified: 2024-08-10T19:22:26+00:00
-scrappedAt: 2024-10-14T09:19:34.067Z
+scrappedAt: 2024-10-14T16:14:00.043Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85538643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-17%2F374625181-44100-2-17ce517ad03f9.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/85538643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-17%2F374625181-44100-2-17ce517ad03f9.mp3](https://anchor.fm/s/98566448/podcast/play/85538643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-17%2F374625181-44100-2-17ce517ad03f9.mp3)
+
 Ninjas de la vida, libros, vídeos y podcast están genial para aprender, pero seguro que os ha pasado que meses o incluso años más tarde te das cuenta que has olvidado un dato importante que _antes sabías_.
 
 Vamos, que con el paso del tiempo tu cerebro lo ha echado del salón de tu memoria…

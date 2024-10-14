@@ -2,16 +2,12 @@
 title: "Qué es la liquidez en trading"
 url: https://pau.ninja/que-es-la-liquidez-en-trading
 slug: que-es-la-liquidez-en-trading
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: trader-con-liquidez.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/06/trader-con-liquidez.jpeg
 published: 2024-07-03T04:39:00+00:00
 modified: 2024-07-08T08:57:15+00:00
-scrappedAt: 2024-10-14T09:19:07.629Z
+scrappedAt: 2024-10-14T16:13:25.858Z
 audioLink: 
 bibliography: ["día","horas","hora"]
 ---

@@ -2,16 +2,12 @@
 title: "Cuentas de fondeo"
 url: https://pau.ninja/que-son-las-cuentas-de-fondeo
 slug: que-son-las-cuentas-de-fondeo
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: trader-con-cuentas-fondeadas.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/07/trader-con-cuentas-fondeadas.jpg
 published: 2024-07-05T06:39:51+00:00
 modified: 2024-07-09T03:39:48+00:00
-scrappedAt: 2024-10-14T09:19:07.166Z
+scrappedAt: 2024-10-14T16:13:24.540Z
 audioLink: 
 bibliography: []
 ---

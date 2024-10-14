@@ -2,21 +2,17 @@
 title: "Mercado sexual"
 url: https://pau.ninja/que-busca-una-mujer-en-un-hombre
 slug: que-busca-una-mujer-en-un-hombre
-categories: 
-- slug: relaciones
-    label: Relaciones
-  - slug: masculinidad
-    label: Masculinidad
-  - slug: seduccion
-    label: Seducción
+categories: ["relaciones","masculinidad","seduccion"]
 image: hombre-seduciendo-a-mujer.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/03/hombre-seduciendo-a-mujer.jpeg
 published: 2024-01-26T07:32:19+00:00
 modified: 2024-01-26T08:10:53+00:00
-scrappedAt: 2024-10-14T09:19:39.217Z
+scrappedAt: 2024-10-14T16:14:14.750Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3](https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3)
+
 Aunque nos digan lo contrario, el mercado sexual está completamente guiado por nuestros instintos evolutivos.
 
 Actualmente las sociedad moderna nos está dictando, casi obligando cómo tenemos que pensar (algo que tenemos claro con temas como nutrición, economía, etc), también hace lo mismo **dictándonos qué nos tiene que gustar sexualmente**. Cómo tenemos que cortejar, cómo tenemos que interactuar, yendo en contra de la biología.

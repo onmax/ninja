@@ -2,14 +2,12 @@
 title: "La torso-pierna con la que Hércules entrenaría en el gym"
 url: https://pau.ninja/mejor-rutina-torso-pierna
 slug: mejor-rutina-torso-pierna
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: hombre-entrena-torso-y-pierna.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/04/hombre-entrena-torso-y-pierna.jpeg
 published: 2022-04-04T17:00:24+00:00
 modified: 2023-06-27T17:41:57+00:00
-scrappedAt: 2024-10-14T09:20:46.146Z
+scrappedAt: 2024-10-14T16:18:19.572Z
 audioLink: 
 bibliography: ["Yang Y, Bay PB, Wang YR, Huang J, Teo HWJ, Goh J. Effects of Consecutive Versus Non-consecutive Days of Resistance Training on Strength, Body Composition, and Red Blood Cells. Front Physiol. 2018 Jun 18;9:725. doi: 10.3389/fphys.2018.00725. PMID: 29967584; PMCID: PMC6015912.","Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.","Radaelli R, Fleck SJ, Leite T, Leite RD, Pinto RS, Fernandes L, Simão R. Dose-response of 1, 3, and 5 sets of resistance exercise on strength, local muscular endurance, and hypertrophy. J Strength Cond Res. 2015 May;29(5):1349-58. doi: 10.1519/JSC.0000000000000758. PMID: 25546444.","McHugh, M.P., Connolly, D.A.J., Eston, R.G. et al. Exercise-Induced Muscle Damage and Potential Mechanisms for the Repeated Bout Effect. Sports Med 27, 157–170 (1999).","Rhea, Matthew & Phillips, Wayne & Burkett, Lee & Stone, William & Ball, Stephen & Alvar, Brent & Thomas, Aaron. (2003). A Comparison of Linear and Daily Undulating Periodized Programs With Equated Volume and Intensity for Local Muscular Endurance. Journal of strength and conditioning research / National Strength & Conditioning Association. 17. 82-7. 10.1519/1533-4287(2003)017<0082:ACOLAD>2.0.CO;2.","Quantification of fiber type differences in human gluteus medius muscle Dissertation zum Erwerb des Doktorgrades der Medizin an der Medizinischen Fakultät der Ludwig-Maximilians-Universität zu München","Sĭrca A, Susec-Michieli M. Selective type II fibre muscular atrophy in patients with osteoarthritis of the hip. J Neurol Sci. 1980 Jan;44(2-3):149-59. doi: 10.1016/0022-510x(80)90123-9. PMID: 6444440."]
 ---

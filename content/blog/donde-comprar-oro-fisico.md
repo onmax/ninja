@@ -2,17 +2,17 @@
 title: "La única manera de comprar ORO"
 url: https://pau.ninja/donde-comprar-oro-fisico
 slug: donde-comprar-oro-fisico
-categories: 
-- slug: dinero
-    label: 💰 Dinero
+categories: ["dinero"]
 image: persona-comprando-oro.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2020/11/persona-comprando-oro.jpeg
 published: 2024-02-01T12:28:49+00:00
 modified: 2024-02-02T09:01:15+00:00
-scrappedAt: 2024-10-14T09:19:36.642Z
+scrappedAt: 2024-10-14T16:14:10.754Z
 audioLink: https://www.ivoox.com/unica-manera-comprar-oro_md_54011646_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/unica-manera-comprar-oro\_md\_54011646\_wp\_1.mp3](https://www.ivoox.com/unica-manera-comprar-oro_md_54011646_wp_1.mp3)
+
 De los valores refugio que hay, el oro ha sido el más popular durante miles de años.
 
 Sabemos porque es una protección para el largo plazo, pero una vez la teoría queda clara de por qué es necesario comprar oro, entonces salen las **dudas de la parte práctica**.

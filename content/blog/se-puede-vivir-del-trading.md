@@ -2,16 +2,12 @@
 title: "¿Se puede vivir del trading?"
 url: https://pau.ninja/se-puede-vivir-del-trading
 slug: se-puede-vivir-del-trading
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: persona-vive-del-trading.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/04/persona-vive-del-trading.jpeg
 published: 2024-05-01T09:07:37+00:00
 modified: 2024-07-08T09:02:29+00:00
-scrappedAt: 2024-10-14T09:19:23.620Z
+scrappedAt: 2024-10-14T16:13:43.179Z
 audioLink: 
 bibliography: []
 ---

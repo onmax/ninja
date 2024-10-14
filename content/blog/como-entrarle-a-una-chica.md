@@ -2,21 +2,17 @@
 title: "Sin milongas: entrarle a una chica (en frío)"
 url: https://pau.ninja/como-entrarle-a-una-chica
 slug: como-entrarle-a-una-chica
-categories: 
-- slug: relaciones
-    label: Relaciones
-  - slug: masculinidad
-    label: Masculinidad
-  - slug: seduccion
-    label: Seducción
+categories: ["relaciones","masculinidad","seduccion"]
 image: entrarle-a-una-chica.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/10/entrarle-a-una-chica.jpeg
 published: 2021-09-28T06:19:27+00:00
 modified: 2023-08-29T05:20:00+00:00
-scrappedAt: 2024-10-14T09:21:16.119Z
+scrappedAt: 2024-10-14T16:19:40.097Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3](https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3)
+
 Esta publicación cubre los **10 primeros segundos de la interacción**. Desde que ves a la chica, sientes que quieres conocerla y cómo hacerlo para ir a hablar con ella.
 
 Aprender a entrarle a un chica que me guste por la calle, en el parque, en la biblioteca o la playa ha sido una de las herramientas más potentes que he aprendido nunca para desarrollar mi habilidad social.
@@ -77,7 +73,7 @@ Toda la miiierda teórica que leamos en libros sobre desarrollo personal no nos 
 
 Ahora mismo rebajado
 
-[![Todo está j*dido: Un libro sobre la esperanza (No ficción)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQ1YyTlZObXR5V0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjM0MQ=)](https://www.amazon.es/dp8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está j*dido: Un libro sobre la esperanza (No ficción)")
+[![Todo está j*dido: Un libro sobre la esperanza (No ficción)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQ1YyTlZObXR5V0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NTIyMA=)](https://www.amazon.es/dp8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está j*dido: Un libro sobre la esperanza (No ficción)")
 
 [Todo está j\*dido: Un libro sobre la esperanza (No ficción)](https://www.amazon.es/dp/8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está j*dido: Un libro sobre la esperanza (No ficción)")
 

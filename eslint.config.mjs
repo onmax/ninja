@@ -7,8 +7,7 @@ export default withNuxt(
     formatters: true,
     unocss: true,
     vue: true,
-    rules: {
-    },
+    typescript: true,
     ignores: ['content', 'auth.d.ts'],
   }),
 )

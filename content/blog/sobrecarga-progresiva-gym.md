@@ -2,17 +2,17 @@
 title: "Sobrecarga progresiva"
 url: https://pau.ninja/sobrecarga-progresiva-gym
 slug: sobrecarga-progresiva-gym
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: resultados-de-sobrecarga-progresiva-en-gym.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/03/resultados-de-sobrecarga-progresiva-en-gym.jpeg
 published: 2024-08-02T00:33:06+00:00
 modified: 2024-08-12T04:08:55+00:00
-scrappedAt: 2024-10-14T09:19:02.363Z
+scrappedAt: 2024-10-14T16:13:19.393Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283854-44100-2-106d546d0279e7ba.mp3
 bibliography: ["Ahtiainen, J. P., Pakarinen, A., Alen, M., Kraemer, W. J., & Häkkinen, K. (2003). Muscle hypertrophy, hormonal adaptations and strength development during strength training in strength-trained and untrained men. European journal of applied physiology, 89(6), 555-563.","Kraemer, W. J., & Ratamess, N. A. (2004). Fundamentals of resistance training: progression and exercise prescription. _Medicine and science in sports and exercise_, 36(4), 674-688.","Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. _Journal of strength and conditioning research_, 24(10), 2857-2872.","Kohrt, W. M., Ehsani, A. A., & Birge, S. J. (1997). Effects of exercise involving predominantly either joint-reaction or ground-reaction forces on bone mineral density in older women. _Journal of Bone and Mineral Research_, 12(8), 1253-1261.","Hunter, G. R., Byrne, N. M., Sirikul, B., Fernandez, J. R., Zuckerman, P. A., Darnell, B. E., & Gower, B. A. (2008). Resistance training conserves fat-free mass and resting energy expenditure following weight loss. _Obesity_, 16(5), 1045-1051.","Garber, C. E., Blissmer, B., Deschenes, M. R., Franklin, B. A., Lamonte, M. J., Lee, I. M., … & Swain, D. P. (2011). Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. _Medicine & Science in Sports & Exercise_, 43(7), 1334-1359.","Shrier, I. (2004). Does stretching improve performance? A systematic and critical review of the literature. _Clinical Journal of Sport Medicine_, 14(5), 267-273.","“What Is Homeostasis?” 2000. Scientific American.","Nelson DL, Cox MM. Lehninger. Principios de Bioquímica. 5ª Ed. Ediciones Omega. 2007, Barcelona.","Wackerhage, H., & Rennie, M. J. (1996). How nutrition and exercise maintain the human musculoskeletal mass. Journal of Anatomy, 189(Pt 4), 515-526.","Schoenfeld, B. J. (2013). Potential mechanisms for a role of metabolic stress in hypertrophic adaptations to resistance training. Sports Medicine, 43(3), 179-194.","Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872.","Enoka, R. M. (2008). Neuromechanics of Human Movement. Human Kinetics.","Henneman, E., & Olson, C. B. (1965). Relations between Structure and Function in the Design of Skeletal Muscles. Journal of Neurophysiology, 28(3), 581-598.","Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872.","Wernbom, M., Augustsson, J., & Thomeé, R. (2007). The influence of frequency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Medicine, 37(3), 225-264."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/52171670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283854-44100-2-106d546d0279e7ba.mp3](https://anchor.fm/s/98566448/podcast/play/52171670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283854-44100-2-106d546d0279e7ba.mp3)
+
 Dice la leyenda que hace unos 2.500 años, en las praderas montañosas del sur de Italia, existió un hombre con un atletismo y una fuerza increíble.
 
 Milón de Crotona era el luchador con más éxito de su época.

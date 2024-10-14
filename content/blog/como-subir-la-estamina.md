@@ -2,17 +2,17 @@
 title: "Adiós, cansancio físico"
 url: https://pau.ninja/como-subir-la-estamina
 slug: como-subir-la-estamina
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: persona-necesita-subir-la-estamina.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/12/persona-necesita-subir-la-estamina.jpeg
 published: 2024-01-16T07:49:05+00:00
 modified: 2024-05-21T19:50:00+00:00
-scrappedAt: 2024-10-14T09:19:40.603Z
+scrappedAt: 2024-10-14T16:14:19.643Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83968135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370749236-44100-2-470cb6cae956d.mp3
 bibliography: ["Rantanen T, Masaki K, He Q, Ross GW, Willcox BJ, White L. Midlife muscle strength and human longevity up to age 100 years: a 44-year prospective study among a decedent cohort. Age (Dordr). 2012 Jun;34(3):563-70. doi: 10.1007/s11357-011-9256-y. Epub 2011 May 4. PMID: 21541735; PMCID: PMC3337929.","Coleman CJ, McDonough DJ, Pope ZC, Pope CA. Dose-response association of aerobic and muscle-strengthening physical activity with mortality: a national cohort study of 416 420 US adults. Br J Sports Med. 2022 Aug 11:bjsports-2022-105519. doi: 10.1136/bjsports-2022-105519. Epub ahead of print. PMID: 35953241; PMCID: PMC10064988.","Hörder H, Johansson L, Guo X, Grimby G, Kern S, Östling S, Skoog I. Midlife cardiovascular fitness and dementia: A 44-year longitudinal population study in women. Neurology. 2018 Apr 10;90(15):e1298-e1305. doi: 10.1212/WNL.0000000000005290. Epub 2018 Mar 14. PMID: 29540588; PMCID: PMC5894933.","Thomas CB. Stamina: the thread of human life. J Chronic Dis. 1981;34(2-3):41-4. doi: 10.1016/0021-9681(81)90049-7. PMID: 7462379.","Coe, Sebastian (2013). Running My Life. Hodder. pp. 38, 39. ISBN 978-1-444-73253-5.","Yuri Verkhoshansky. 2023. SPORT STRENGTH TRAINING METHODOLOGY©. Accessed December 5."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/83968135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370749236-44100-2-470cb6cae956d.mp3](https://anchor.fm/s/98566448/podcast/play/83968135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-13%2F370749236-44100-2-470cb6cae956d.mp3)
+
 _En esta publicación te contaré qué es la estamina, por qué decidí incrementarla y cómo lo conseguí._
 
 Ninja de la vida, debe ser el hecho de haber pasado los 30 años de edad, pero a medida que pasa el tiempo me encuentro dando más importancia a cosas que antes no valoraba tanto.

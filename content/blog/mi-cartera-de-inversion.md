@@ -2,17 +2,17 @@
 title: "Patrimonio personal"
 url: https://pau.ninja/mi-cartera-de-inversion
 slug: mi-cartera-de-inversion
-categories: 
-- slug: dinero
-    label: 💰 Dinero
+categories: ["dinero"]
 image: viviendo-de-cartera-de-inversion.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/03/viviendo-de-cartera-de-inversion.jpeg
 published: 2024-01-20T05:27:43+00:00
 modified: 2024-05-21T19:46:05+00:00
-scrappedAt: 2024-10-14T09:19:40.337Z
+scrappedAt: 2024-10-14T16:14:17.789Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/82702332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F367531084-44100-2-a31b3d2d30d83.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/82702332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F367531084-44100-2-a31b3d2d30d83.mp3](https://anchor.fm/s/98566448/podcast/play/82702332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F367531084-44100-2-a31b3d2d30d83.mp3)
+
 _Cartera actualizada: enero 2024_
 
 Más abajo tienes mi cartera ([pulsa para bajar](#Mis_activos_personales)) pero primero déjame darte un poco de contexto…

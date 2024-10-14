@@ -2,19 +2,17 @@
 title: "Mama, así hay que comprar Bitcoin"
 url: https://pau.ninja/invertir-en-bitcoins-forma-segura
 slug: invertir-en-bitcoins-forma-segura
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: bitcoin
-    label: Bitcoin
+categories: ["inversion","bitcoin"]
 image: persona-con-bitcoin.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/01/persona-con-bitcoin.jpeg
 published: 2021-01-19T12:17:20+00:00
 modified: 2024-02-11T06:34:36+00:00
-scrappedAt: 2024-10-14T09:21:26.180Z
+scrappedAt: 2024-10-14T16:20:06.606Z
 audioLink: https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3
 bibliography: []
 ---
+[https://www.ivoox.com/mama-asi-hay-comprar-bitcoin\_md\_65854394\_wp\_1.mp3](https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3)
+
 Sigue habiendo miedos de comprar Bitcoin porque algunas plataformas que **sí** son esquemas ponzi, han utilizado a bitcoin como caballo de Troya. ¿Quien se ha llevado la mala fama? Bitcoin.
 
 Por culpa de estos estafadores bitcoin se ha llevado los insultos. El pobre no se puede defender porque **no hay nadie arriba**. Es más neutral que Marco Aurelio.
@@ -43,7 +41,7 @@ Pero sea cual sea el perfil y el motivo para meterse, todos lo único que querem
 
 Por esto recomiendo mi explicación de [bitcoin para tontos](./que-es-bitcoin-para-tontos) donde cuento la idea desde un punto de vista básico.
 
-[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVRHbFhkRzlQWWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc0OA=)](https://www.amazon.es/dpB07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
+[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVRHbFhkRzlQWWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3MzE0OQ=)](https://www.amazon.es/dpB07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 
 [El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](https://www.amazon.es/dp/B07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 

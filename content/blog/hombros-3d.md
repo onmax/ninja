@@ -2,17 +2,17 @@
 title: "Hombros 3D"
 url: https://pau.ninja/hombros-3d
 slug: hombros-3d
-categories: 
-- slug: fitness
-    label: Fitness
+categories: ["fitness"]
 image: persona-con-hombros-3D-en-el-gym.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/04/persona-con-hombros-3D-en-el-gym.jpeg
 published: 2024-04-28T06:33:57+00:00
 modified: 2024-08-16T04:35:49+00:00
-scrappedAt: 2024-10-14T09:19:23.783Z
+scrappedAt: 2024-10-14T16:13:43.579Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86059358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375936066-44100-2-1b42d557595d2.mp3
 bibliography: ["“Ritmo Escapulohumeral | Evaluación de La Discinesia Escapular |SICK Scapula.” 2021. Fisiotutores.","Alpert SW, Pink MM, Jobe FW, McMahon PJ, Mathiyakom W. Electromyographic analysis of deltoid and rotator cuff function under varying loads and speeds. J Shoulder Elbow Surg. 2000 Jan-Feb;9(1):47-58. doi: 10.1016/s1058-2746(00)90009-0. PMID: 10717862.","“Figure 13. The Lateral Raise to 908 of Abduction. Raising the Arms To…” 2016. ResearchGate.","T Nation LLC. 2010. “Inside the Muscles: Best Shoulders and Trap Exercises.” COMMUNITY – T NATION.","Jorge Fernández Bosch. 2022. “Músculos Grandes Y Pequeños.” AD Fisioterapia Valencia. AD Fisioterapia Valencia."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/86059358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375936066-44100-2-1b42d557595d2.mp3](https://anchor.fm/s/98566448/podcast/play/86059358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375936066-44100-2-1b42d557595d2.mp3)
+
 Los hombros son el músculo más estético en un cuerpo masculino, o si más no, el músculo que creará el mayor impacto visual para darnos un _look_ en forma de V.
 
 Una forma corporal que como vimos en el episodio #258 son [las medidas más estéticas en un cuerpo de hombre](./cuerpo-estetico-hombre-medidas) según el ideal griego de la época.

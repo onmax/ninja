@@ -2,17 +2,17 @@
 title: "Atención deliberada"
 url: https://pau.ninja/practica-deliberada
 slug: practica-deliberada
-categories: 
-- slug: desarrollo-personal
-    label: Desarrollo personal
+categories: ["desarrollo-personal"]
 image: practica-deliberada.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/04/practica-deliberada.jpg
 published: 2024-04-02T04:53:42+00:00
 modified: 2024-08-10T19:41:25+00:00
-scrappedAt: 2024-10-14T09:19:30.198Z
+scrappedAt: 2024-10-14T16:13:47.894Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86774742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693696-44100-2-f4b383200498a.mp3
 bibliography: ["“Ben Franklin Taught Himself to Write with a Few Clever Tricks | the Freelancer, by Contently.” 2014.","KueppersStaff, Alfred. 2001. “Blindfolded Monkey Beats Humans with Stock Picks.” WSJ. The Wall Street Journal."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/86774742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693696-44100-2-f4b383200498a.mp3](https://anchor.fm/s/98566448/podcast/play/86774742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693696-44100-2-f4b383200498a.mp3)
+
 En el libro Outliers (fuera de serie, en español) de Malcolm Gladwell, se popularizó la idea de que necesitas 10.000 horas para convertirte en el amo y señor de lo que quieras.
 
 En el libro de _Peak_ en el que se indaga [si el talento es innato o adquirido](./el-talento-es-innato-o-adquirido) (#600), lo desmiente.

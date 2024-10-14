@@ -2,17 +2,17 @@
 title: "Flow"
 url: https://pau.ninja/estado-de-flow
 slug: estado-de-flow
-categories: 
-- slug: productividad
-    label: Productividad
+categories: ["productividad"]
 image: persona-en-estado-de-flow.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/05/persona-en-estado-de-flow.jpeg
 published: 2024-01-13T05:48:07+00:00
 modified: 2024-01-13T15:33:42+00:00
-scrappedAt: 2024-10-14T09:19:41.066Z
+scrappedAt: 2024-10-14T16:14:20.587Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/72019608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334701782-44100-2-8b4821ed35e8.mp3
 bibliography: ["Nolen-Hoeksema, S.; Wisco, B. E.; Lyubomirsky, S. (2008). «Rethinking Rumination». Perspectives on Psychological Science 3 (5): 400-424.","Fox, M. D.; Snyder, A. Z.; Vincent, J. L.; Corbetta, M.; Van Essen, D. C.; Raichle, M. E. (2005). «From The Cover: The human brain is intrinsically organized into dynamic, anticorrelated functional networks». Proceedings of the National Academy of Sciences 102 (27): 9673-9678.","pp. 44-51 The Book of Rest: The Odd Psychology of Doing Nothing","Neuroscience of Happiness – Scientific American https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/Kringelbach-Berridge-2012-Joyful-mind-Sci-Am.pdf","Rauwolf, P., et al. (2021) Reward uncertainty – as a ‘psychological salt’- Journal of Experimental Psychology: General https://doi.apa.org/doiLanding?doi=10.1037%2Fxge0001029","Loh HH, Tseng LF, Wei E, Li CH. beta-endorphin is a potent analgesic agent. Proc Natl Acad Sci U S A. 1976 Aug;73(8):2895-8. doi: 10.1073/pnas.73.8.2895. PMID: 8780; PMCID: PMC430793.","Solingen, Rini & Berghout, Egon & Latum, Frank. (1998). Interrupts: Just a Minute Never Is.. IEEE Software. 15. 97-103. 10.1109/52.714843.","Leroy, Sophie. (2009). Why is it so Hard to do My Work? The Challenge of Attention Residue when Switching Between Work Tasks. Organizational Behavior and Human Decision Processes. 109. 168-181. 10.1016/j.obhdp.2009.04.002.","Gopher, D., Armony, L. & Greenspan, Y. (2000). Switching tasks and attention policies. Journal of Experimental Psychology: General, 129, 308-229.","Mayr, U. & Kliegl, R. (2000). Task-set switching and long-term memory retrieval. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26, 1124-1140.","Meuter, R. F. I. & Allport, A. (1999). Bilingual language switching in naming: Asymmetrical costs of language selection. Journal of Memory and Language, 40(1), 25-40.","Meyer, D. E. & Kieras, D. E. (1997a). A computational theory of executive cognitive processes and multiple-task performance: Part 1. Basic mechanisms. Psychological Review, 104, 3-65.","Meyer, D. E. & Kieras, D. E. (1997b). A computational theory of executive cognitive processes and multiple-task performance: Part 2. Accounts of psychological refractory-period phenomena. Psychological Review, 104, 749-791.","Schmidt C, Collette F, Cajochen C, Peigneux P. A time to think: circadian rhythms in human cognition. Cogn Neuropsychol. 2007 Oct;24(7):755-89. doi: 10.1080/02643290701754158. PMID: 18066734.","Katahira K, Yamazaki Y, Yamaoka C, Ozaki H, Nakagawa S, Nagata N. EEG Correlates of the Flow State: A Combination of Increased Frontal Theta and Moderate Frontocentral Alpha Rhythm in the Mental Arithmetic Task. Front Psychol. 2018 Mar 9;9:300. doi: 10.3389/fpsyg.2018.00300. PMID: 29593605; PMCID: PMC5855042.","What it’s like to have a brain in permanent flow state — a qEEG report. Oksana Andreiuk, Canadian Biohacker, May 7, 2019","Lesiuk, Teresa. (2005). The effect of music listening on work performance. Psychology of Music – PSYCHOL MUSIC. 33. 173-191. 10.1177/0305735605050650."]
 ---
+[https://anchor.fm/s/98566448/podcast/play/72019608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334701782-44100-2-8b4821ed35e8.mp3](https://anchor.fm/s/98566448/podcast/play/72019608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334701782-44100-2-8b4821ed35e8.mp3)
+
 ¿Alguna vez habéis tenido esa sensación de estar haciendo algo, de una forma tan concentrada que te **pasa el tiempo volando**?
 
 Seguro que lo habéis vivido.
@@ -753,7 +753,7 @@ Cuando vuelvo a estar en la cafetería, me pido el segundo café y ahí puedo vo
 
 ## Libros sobre entrar en estado de _flow_
 
-[![Fluir (Flow): Una psicología de la felicidad (Clave)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeFNqZEZWVVpoVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dp8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Fluir (Flow): Una psicología de la felicidad (Clave)")
+[![Fluir (Flow): Una psicología de la felicidad (Clave)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeFNqZEZWVVpoVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NzY5MA=)](https://www.amazon.es/dp8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Fluir (Flow): Una psicología de la felicidad (Clave)")
 
 [Fluir (Flow): Una psicología de la felicidad (Clave)](https://www.amazon.es/dp/8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Fluir (Flow): Una psicología de la felicidad (Clave)")
 
@@ -761,7 +761,7 @@ Cuando vuelvo a estar en la cafetería, me pido el segundo café y ahí puedo vo
 
 [Comprar en Amazon](https://www.amazon.es/dp/8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGVU4xWnRlSFZqWjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar A Visionary New...")
+[![Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGVU4xWnRlSFZqWjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NzY5MA=)](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar A Visionary New...")
 
 [Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...")
 
@@ -769,7 +769,7 @@ Cuando vuelvo a estar en la cafetería, me pido el segundo café y ahí puedo vo
 
 [Comprar en Amazon](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![The Art of Learning: An Inner Journey to Optimal Performance (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFdrMUZaVEpwUmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dpB000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art of Learning: An Inner Journey to Optimal Performance (English Edition)")
+[![The Art of Learning: An Inner Journey to Optimal Performance (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFdrMUZaVEpwUmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NzY5MA=)](https://www.amazon.es/dpB000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art of Learning: An Inner Journey to Optimal Performance (English Edition)")
 
 [The Art of Learning: An Inner Journey to Optimal Performance (English Edition)](https://www.amazon.es/dp/B000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art of Learning: An Inner Journey to Optimal Performance (English Edition)")
 
@@ -777,7 +777,7 @@ Cuando vuelvo a estar en la cafetería, me pido el segundo café y ahí puedo vo
 
 [Comprar en Amazon](https://www.amazon.es/dp/B000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Effortless Mastery: Liberating the Master Musician Within](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMlRrVXljbVJVUjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dp156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Effortless Mastery: Liberating the Master Musician Within")
+[![Effortless Mastery: Liberating the Master Musician Within](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMlRrVXljbVJVUjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NzY5MA=)](https://www.amazon.es/dp156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Effortless Mastery: Liberating the Master Musician Within")
 
 [Effortless Mastery: Liberating the Master Musician Within](https://www.amazon.es/dp/156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Effortless Mastery: Liberating the Master Musician Within")
 

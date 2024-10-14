@@ -2,14 +2,12 @@
 title: "¿Dónde comprar carne de pasto online en España?"
 url: https://pau.ninja/donde-comprar-carne-de-pasto
 slug: donde-comprar-carne-de-pasto
-categories: 
-- slug: habitos-saludables
-    label: Hábitos saludables
+categories: ["habitos-saludables"]
 image: persona-compra-carne-de-pasto.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/04/persona-compra-carne-de-pasto.jpeg
 published: 2024-05-07T15:19:31+00:00
 modified: 2024-08-10T19:23:48+00:00
-scrappedAt: 2024-10-14T09:19:20.650Z
+scrappedAt: 2024-10-14T16:13:38.892Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86671854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-13%2F377441926-44100-2-ddb437618b99b.mp3
 bibliography: []
 ---

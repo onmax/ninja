@@ -8,7 +8,7 @@ const { messages, input, handleSubmit } = useChat()
 <template>
   <div flex="~ col" mt-auto h-full py-24>
     <div v-for="m in messages" :key="m.id" mt-16 :class="{ 'self-end': m.role === 'user' }" flex-1 whitespace-pre-wrap>
-      <div v-if="m.role === 'assistant'" relative max-w-100ch flex="~ items-end self-start gap-8">
+      <div v-if="m.role === 'assistant'" relative max-w-100ch max-w="[calc(100vw-16px)]" flex="~ items-end self-start gap-8">
         <div flex="~ items-center justify-center" relative size-40 shrink-0 of-hidden rounded-full bg-secondary text-14>
           🤖
         </div>

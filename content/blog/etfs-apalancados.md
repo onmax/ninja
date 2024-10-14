@@ -2,16 +2,12 @@
 title: "ETFs apalancados"
 url: https://pau.ninja/etfs-apalancados
 slug: etfs-apalancados
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: etfs-apalancados.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/06/etfs-apalancados.jpg
 published: 2024-06-28T06:10:41+00:00
 modified: 2024-06-28T06:25:28+00:00
-scrappedAt: 2024-10-14T09:19:08.092Z
+scrappedAt: 2024-10-14T16:13:26.504Z
 audioLink: 
 bibliography: []
 ---

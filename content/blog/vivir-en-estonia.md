@@ -2,17 +2,17 @@
 title: "3 años en Estonia: ¿es el mejor país del mundo para vivir?"
 url: https://pau.ninja/vivir-en-estonia
 slug: vivir-en-estonia
-categories: 
-- slug: estilo-de-vida
-    label: Estilo de vida
+categories: ["estilo-de-vida"]
 image: persona-viviendo-en-estonia.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/02/persona-viviendo-en-estonia.jpeg
 published: 2023-02-08T08:54:48+00:00
 modified: 2023-11-08T07:36:36+00:00
-scrappedAt: 2024-10-14T09:20:12.972Z
+scrappedAt: 2024-10-14T16:16:25.689Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64994427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312658517-44100-2-22a179e3ec3b3.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/64994427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312658517-44100-2-22a179e3ec3b3.mp3](https://anchor.fm/s/98566448/podcast/play/64994427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312658517-44100-2-22a179e3ec3b3.mp3)
+
 ¿Alguna vez os ha pasado que sales con alguien y no te das cuenta de que te has enamorado hasta que ha pasado bastante tiempo? Te viene de golpe. Te levantas un día diciéndote «h0stia. Estoy enamorado», pues es lo que me ha pasado últimamente con… **Estonia**.
 
 Soy un exiliado (fiscal) en Estonia, pero aunque me mudé por los impuestos, ha sido el país donde más tiempo he vivido en los 7 años de nómada digital y donde considero un **hogar**.

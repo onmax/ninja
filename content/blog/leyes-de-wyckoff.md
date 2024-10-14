@@ -2,19 +2,17 @@
 title: "Leyes de Wyckoff"
 url: https://pau.ninja/leyes-de-wyckoff
 slug: leyes-de-wyckoff
-categories: 
-- slug: inversion
-    label: Inversión
-  - slug: analisis-tecnico
-    label: Análisis técnico
+categories: ["inversion","analisis-tecnico"]
 image: leyes-de-wyckoff.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/04/leyes-de-wyckoff.jpg
 published: 2024-04-06T04:20:01+00:00
 modified: 2024-08-10T19:43:54+00:00
-scrappedAt: 2024-10-14T09:19:29.352Z
+scrappedAt: 2024-10-14T16:13:46.673Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/88395083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-24%2F381510929-44100-2-8978773c4d59c.mp3
 bibliography: []
 ---
+[https://anchor.fm/s/98566448/podcast/play/88395083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-24%2F381510929-44100-2-8978773c4d59c.mp3](https://anchor.fm/s/98566448/podcast/play/88395083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-24%2F381510929-44100-2-8978773c4d59c.mp3)
+
 El señor Wyckoff vivió durnate la misma época que el [trader Jesse Livermore](./jesse-livermore-trading) pero a diferencia de él, en vez de dedicarse exclusivamente a entender para hacer pasta en la bolsa, decidió terminar gravitando hacia la educación.
 
 Y gracias al dios del dinero que lo hizo…
@@ -41,7 +39,7 @@ Explicaciones maravillosas pero debe ser por mi necesidad de que me lo expliquen
 
 Por esto recurrí a… explicármelo a mi mismo. Y a vosotros.
 
-[![La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWlZ6VjBNRTR6TTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDI1Nw=)](https://www.amazon.es/dp1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
+[![La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWlZ6VjBNRTR6TTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NzY4Ng=)](https://www.amazon.es/dp1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
 
 [La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](https://www.amazon.es/dp/1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
 
