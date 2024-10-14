@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:27.415Z
 audioLink: https://www.ivoox.com/lenguaje-del-dinero_md_67471018_wp_1.mp3
 bibliography: ["pepitas = 1 buey","libras = 1 buey","pepitas = 1 oveja","pepita = 10 libras de bronce"]
 ---
-[https://www.ivoox.com/lenguaje-del-dinero\_md\_67471018\_wp\_1.mp3](https://www.ivoox.com/lenguaje-del-dinero_md_67471018_wp_1.mp3)
-
 ¿Por qué deberíamos conocer el origen del dinero si estamos interesados en finanzas personales? ¿no entra esto en la historia universal?
 
 Veréis, los humanos tenemos esa tendencia a corromper todas las cosas buenas donde metemos las manos. Por ejemplo aunque el capitalismo funcione, muchas veces giramos la cara a la ética a cambio de maximizar los beneficios a corto plazo.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:28.809Z
 audioLink: https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad_md_80277705_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad\_md\_80277705\_wp\_1.mp3](https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad_md_80277705_wp_1.mp3)
-
 _Te recomiendo leer esta primera introducción. Me la he trabajado mucho, pero si lo prefieres, puedes saltar más abajo a [la lista de drogas psicodélicas](#Lista_de_tipos_de_drogas_psicodelicas) directamente._
 
 Si de bote pronto le digo a mis padres que dentro de unos años tengo pensado irme a un retiro psicodélico espiritual… me **desheredan**.

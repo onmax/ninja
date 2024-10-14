@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:36.294Z
 audioLink: https://www.ivoox.com/2-anos-empresa-estonia_md_56856194_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/2-anos-empresa-estonia\_md\_56856194\_wp\_1.mp3](https://www.ivoox.com/2-anos-empresa-estonia_md_56856194_wp_1.mp3)
-
 Han pasado ya algunos años desde que decidí abrir empresa en Estonia.
 
 El proceso de decisión fue parecido a la mayoría de emprendedores con negocios por internet. Hay un momento que después de pagar un **porrón de impuestos** a un Estado en el que no vivimos y con clientes que ni siquiera son españoles, decimos «basta».

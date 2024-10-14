@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:01.840Z
 audioLink: https://www.ivoox.com/anti-lista-compra-del-mercadona_md_77222342_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/anti-lista-compra-del-mercadona\_md\_77222342\_wp\_1.mp3](https://www.ivoox.com/anti-lista-compra-del-mercadona_md_77222342_wp_1.mp3)
-
 Si utilizáis el buscador para sacar una lista de los alimentos malos para la salud, os encontraréis con artículos que enlazan a menos referencias científicas que pelo tengo en mi cabeza.
 
 Es decir, **cero fuentes**.

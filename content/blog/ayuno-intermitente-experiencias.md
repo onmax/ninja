@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:02.965Z
 audioLink: https://www.ivoox.com/ayuno-intermitente-arte-no-comer_md_68860481_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/ayuno-intermitente-arte-no-comer\_md\_68860481\_wp\_1.mp3](https://www.ivoox.com/ayuno-intermitente-arte-no-comer_md_68860481_wp_1.mp3)
-
 Hablé del santo grial del fitness (#173) y de cómo entrenar nuestro metabolismo podría ser la respuesta a tener unos cuerpos _buenorros_. Ah. Y también sanos…
 
 Es por esto (por lo de buenorros) que desde hace unos meses la [flexibilidad metabólica](./flexibilidad-metabolica) es uno de mis objetivos fitness principales y tal como comenté, existen dos herramientas muy poderosas de entrenar a nuestro metabolismo.

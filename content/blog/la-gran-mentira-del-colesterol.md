@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:00.885Z
 audioLink: https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una_md_77075885_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una\_md\_77075885\_wp\_1.mp3](https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una_md_77075885_wp_1.mp3)
-
 Si cuando vas al médico para que te presente el resultado de tu análisis de sangre y te dice que tienes el «colesterol malo muy alto» y que «te tienes que tomar una pastilla para bajarlo» o tienes que «comer bajo en grasa» entonces…
 
 Cambia de médico.

@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:26.180Z
 audioLink: https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/mama-asi-hay-comprar-bitcoin\_md\_65854394\_wp\_1.mp3](https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3)
-
 Sigue habiendo miedos de comprar Bitcoin porque algunas plataformas que **sí** son esquemas ponzi, han utilizado a bitcoin como caballo de Troya. ¿Quien se ha llevado la mala fama? Bitcoin.
 
 Por culpa de estos estafadores bitcoin se ha llevado los insultos. El pobre no se puede defender porque **no hay nadie arriba**. Es más neutral que Marco Aurelio.

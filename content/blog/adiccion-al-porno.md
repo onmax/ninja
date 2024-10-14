@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:35.443Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/57010921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283754504-44100-2-0e0011ff1bd95.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/57010921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283754504-44100-2-0e0011ff1bd95.mp3](https://anchor.fm/s/98566448/podcast/play/57010921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283754504-44100-2-0e0011ff1bd95.mp3)
-
 ¿Crees que no eres adicto al porno? vale, te creo. Pero hazte un favor con un experimento: déjalo. Déjalo durante 30 días. No te estoy diciendo que dejes de tocarte la zambomba, pero deja de ver pornografía durante 30 días y me mandas un privado a ver que tal ha ido el experimento (sin _fotopolla_, gracias).
 
 Cuidado si estás pensando eso «ya sé que no soy adicto porque lo puedo dejar cuando quiera», porque es lo mismo que dicen los adictos a cualquier otra substancia.

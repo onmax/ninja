@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:52.144Z
 audioLink: https://www.ivoox.com/_md_83427909_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/\_md\_83427909\_wp\_1.mp3](https://www.ivoox.com/_md_83427909_wp_1.mp3)
-
 Ninjas de la vida… he abierto una empresa en Estados Unidos.
 
 Ahora tengo una LLC, que no es otra cosa que una sociedad limitada, online, creada en pocos días, **sin contabilidad, sin impuestos** y… sin tocadas de pelotas.

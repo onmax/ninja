@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:31.431Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59423067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-22%2F292497117-44100-2-7871bf48bb76.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/59423067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-22%2F292497117-44100-2-7871bf48bb76.mp3](https://anchor.fm/s/98566448/podcast/play/59423067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-22%2F292497117-44100-2-7871bf48bb76.mp3)
-
 Vi un documental donde una señora india (de plumas, no de puntos) le dijo al invitado que estaba entrando en su tienda «quítate los zapatos o te pondrás malo».
 
 Igual cuando le preguntaron al artista indio MF Husain (de puntos, no de plumas) cuál era el secreto de la longevidad, el tipo dijo «[comer menos](./comer-una-vez-al-dia)… y caminar descalzo». El pintor murió a los 95 años de juventud acumulada.

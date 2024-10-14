@@ -21,8 +21,6 @@ scrappedAt: 2024-10-14T09:21:00.451Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283926-44100-2-53b9e925a2201e30.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283926-44100-2-53b9e925a2201e30.mp3](https://anchor.fm/s/98566448/podcast/play/52171703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283926-44100-2-53b9e925a2201e30.mp3)
-
 Hay un motivo por el que no preparo preguntas para mis invitados desde que decidí crear el podcast.
 
 El motivo es que… soy un vago.

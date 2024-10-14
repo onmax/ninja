@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:32.621Z
 audioLink: https://www.ivoox.com/mintio-platon-leyenda-atlantida_md_80892754_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/mintio-platon-leyenda-atlantida\_md\_80892754\_wp\_1.mp3](https://www.ivoox.com/mintio-platon-leyenda-atlantida_md_80892754_wp_1.mp3)
-
 Troya era el nombre de la ciudad de la Edad de Bronce que fue atacada en la Guerra de Troya. Todos conocemos el famoso caballo de Troya.
 
 Una estructura gigante de madera que usaron los soldados para colarse en la ciudad y atacarla desde dentro.

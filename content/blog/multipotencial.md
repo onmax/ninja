@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:17.015Z
 audioLink: https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada_md_58084475_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada\_md\_58084475\_wp\_1.mp3](https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada_md_58084475_wp_1.mp3)
-
 Un **multipotencial** es una persona con multitud de intereses ya sean artísticos o intelectuales. Culos de mal asiento que no pueden casarse con una sola pasión. Existen dos tipos de multipotenciales:
 
 - **Secuencial:** el foco de ese interés cambia según la época. Después de semanas/meses estando obsesionado por algo, te levantas un día y has pasado a otra cosa que tomas con las mismas ganas.

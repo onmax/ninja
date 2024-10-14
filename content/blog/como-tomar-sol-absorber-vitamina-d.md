@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:36.511Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/55350914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-26%2F278166816-44100-2-22580132829fb.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/55350914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-26%2F278166816-44100-2-22580132829fb.mp3](https://anchor.fm/s/98566448/podcast/play/55350914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-26%2F278166816-44100-2-22580132829fb.mp3)
-
 Confirmamos con estudios y evidencia como la recomendación oficial de los gobiernos de 600 IU de vitamina D **no son suficientes** (ni de lejos) para cubrir las necesidades fisiológicas que nuestro cuerpo serrano necesita. Necesitaríamos (al menos) diez veces más que esto.
 
 ¿Cómo no vamos a necesitar mucho más que 2 minutos de sol al día si nuestros ancestros vivieron bajo el sol? normal que estar fuera nos haga felices. Al fin y al cabo:

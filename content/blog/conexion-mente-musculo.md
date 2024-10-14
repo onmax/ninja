@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:24.757Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59918177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294398909-44100-2-5f601b8e9d72b.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/59918177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294398909-44100-2-5f601b8e9d72b.mp3](https://anchor.fm/s/98566448/podcast/play/59918177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294398909-44100-2-5f601b8e9d72b.mp3)
-
 Hace unos meses mi madre me pidió que le enseñara algunos ejercicios con unas pequeñas mancuernas de 2kg que se había comprado en el Decathlon.
 
 En cada movimiento básico que hacía, ya fuera una extensión de tríceps detrás de la cabeza como un curl de bíceps, era muy claro ver lo que sucede a todo novato cuando empezamos en el gimnasio. El hecho de sólo **preocuparnos de mover el peso del punto A al punto B**.

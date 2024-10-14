@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:06.763Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/67875803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321953930-44100-2-1b650a5332624.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/67875803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321953930-44100-2-1b650a5332624.mp3](https://anchor.fm/s/98566448/podcast/play/67875803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321953930-44100-2-1b650a5332624.mp3)
-
 No es que las frutas y las verduras tengan vitamina C por ser frutas y verduras, sino que la contienen por ser comidas **frescas**.
 
 Prueba deshidratar una naranja o un kiwi (los alimentos más populares con vitamina C), los analizas en un laboratorio y me dices si tienen vitamina C. Esto sucede porque esta vitamina es hidrosoluble. Hidro, de agua.

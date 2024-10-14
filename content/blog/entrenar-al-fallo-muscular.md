@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:22.813Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61322666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2F299683323-44100-2-a60a35126ee1c.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/61322666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2F299683323-44100-2-a60a35126ee1c.mp3](https://anchor.fm/s/98566448/podcast/play/61322666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2F299683323-44100-2-a60a35126ee1c.mp3)
-
 Veréis, este último año me había obsesionado con el gimnasio. No tanto con los resultados (que también, porque para mí es importante estar buenorro delante del espejo), sino con el hábito de estar allí. A modo de práctica de la atención plena (#404).
 
 Pero recientemente hice un cálculo rápido del tiempo que estaba pasando levantando pesas y dije, «c0ñ0. ¿Paso 9 horas semanales levantando pesas? Por mi [transformación de ectomorfo](https://pau.ninja/) nadie lo diría…»

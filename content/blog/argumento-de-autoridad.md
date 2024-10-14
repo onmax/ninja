@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:11.433Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/66320524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-10%2F317270824-44100-2-da2c73f1ebc86.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/66320524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-10%2F317270824-44100-2-da2c73f1ebc86.mp3](https://anchor.fm/s/98566448/podcast/play/66320524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-10%2F317270824-44100-2-da2c73f1ebc86.mp3)
-
 Siempre había querido empezar un episodio diciendo algo tipo: «la persona que te ha mandado este episodio lo ha compartido porque piensa que estás usando un _Ad verecundiam_ en tu argumento.»
 
 Porque esto es exactamente lo que están haciendo algunos que no están de acuerdo en mi conclusiones. Y no me malinterpretes. Quizás no tengo la verdad absoluta, pero muchos apelan a argumentos insostenibles.

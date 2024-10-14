@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:53.469Z
 audioLink: https://www.ivoox.com/_md_82069813_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/\_md\_82069813\_wp\_1.mp3](https://www.ivoox.com/_md_82069813_wp_1.mp3)
-
 Un proverbio chino dice que «de las 36 maneras de salir de un apuro, **la mejor manera es irse**«.
 
 Hace unos años ya había escrito sobre **no pagar impuestos de forma legal** en ningún sitio. Es la figura del «viajero perpetuo» que pasa **menos** de medio año en todos los sitios donde «vive».

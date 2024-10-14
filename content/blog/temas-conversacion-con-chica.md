@@ -17,8 +17,6 @@ scrappedAt: 2024-10-14T09:21:12.497Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283735-44100-2-61cf915b81117bf8.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283735-44100-2-61cf915b81117bf8.mp3](https://anchor.fm/s/98566448/podcast/play/52171562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283735-44100-2-61cf915b81117bf8.mp3)
-
 Ay… que rebuscada es la psicología social, ¿eh?
 
 Para los que no hemos nacido con esta habilidad social, al principio cada paso que damos es como darlo descalzo sobre un camino de brasas.

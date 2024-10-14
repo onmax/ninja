@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:05.332Z
 audioLink: https://www.ivoox.com/dieta-perfecta-5-alimentos-mas-sanos_md_72381216_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/dieta-perfecta-5-alimentos-mas-sanos\_md\_72381216\_wp\_1.mp3](https://www.ivoox.com/dieta-perfecta-5-alimentos-mas-sanos_md_72381216_wp_1.mp3)
-
 > «Muy bonita todas estas evidencias e hipótesis que nos cuentas Pau pero dame una lista de qué alimentos comer y en qué momento hacerlo.»
 
 La vida no viene con un manual de instrucciones. Sería lo ideal para no cagarla pero entonces aquellos a las que nos encanta investigar nos moriríamos de asco.

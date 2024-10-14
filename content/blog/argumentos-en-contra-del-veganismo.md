@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:54.630Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283775-44100-2-241f64ce1f3484e4.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283775-44100-2-241f64ce1f3484e4.mp3](https://anchor.fm/s/98566448/podcast/play/52171578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283775-44100-2-241f64ce1f3484e4.mp3)
-
 El otro día me escribió un amigo mío. Este amigo de toda la vida, de la infancia, me comentó que llevaba un par de meses con niebla mental. Que no se podía concentrar y que pensar con claridad se le hacía muy difícil.
 
 Se fue a hacer un análisis de sangre y cuando le presentaron los resultados, el médico le comentó que **le faltaban casi todas las vitaminas**. Le dijo (textualmente) que su «sangre era de mala calidad».

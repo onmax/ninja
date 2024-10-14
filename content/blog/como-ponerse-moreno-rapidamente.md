@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:38.726Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52965052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-3%2F54521fc3-22a8-740d-c9bf-fe0ecd43cda2.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52965052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-3%2F54521fc3-22a8-740d-c9bf-fe0ecd43cda2.mp3](https://anchor.fm/s/98566448/podcast/play/52965052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-3%2F54521fc3-22a8-740d-c9bf-fe0ecd43cda2.mp3)
-
 Ponerse moreno es s3xy por las mismas razones que tener una buena mandíbula o estar fuerte: es un signo de salud y utilidad social.
 
 Un hombre moreno en la prehistoria era sinónimo de pasar horas al sol buscando comida para proveer para la tribu. Claro, los recolectores de fruta estarían bajo la sombra de los árboles y hubieran tenido una piel más clara que la corrupción española.

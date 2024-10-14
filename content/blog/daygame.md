@@ -17,8 +17,6 @@ scrappedAt: 2024-10-14T09:21:11.950Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284045-44100-2-7f633063561d8c86.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284045-44100-2-7f633063561d8c86.mp3](https://anchor.fm/s/98566448/podcast/play/52171893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284045-44100-2-7f633063561d8c86.mp3)
-
 ¿Qué hombres no ha vivido la «contradicción del infierno»?
 
 Eso de que aquellas tías que te molan pasan de ti, pero las que te dan igual terminan loquitas por ti.

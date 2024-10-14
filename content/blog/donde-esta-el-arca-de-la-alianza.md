@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:37.015Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58609594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289416258-44100-2-876ce7351f366.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/58609594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289416258-44100-2-876ce7351f366.mp3](https://anchor.fm/s/98566448/podcast/play/58609594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289416258-44100-2-876ce7351f366.mp3)
-
 El Arca de la Alianza te sonará por haber aparecido en la película de Indiana Jones y «el arca perdida». Lo que quizás no sabías, es que se dice que el Arca parece existió de verdad… y sigue estando en algún lugar remoto de la Tierra.
 
 No sólo nos aparece en Indiana Jones, sino también en la Biblia donde hay **más de 200 referencias** al Arca. Un objeto pre-biblico con un montón de hipótesis que la rodean de misterios.

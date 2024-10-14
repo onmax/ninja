@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:58.293Z
 audioLink: https://www.ivoox.com/bitcoin-gana-al-oro-como-reserva-valor_md_78782196_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/bitcoin-gana-al-oro-como-reserva-valor\_md\_78782196\_wp\_1.mp3](https://www.ivoox.com/bitcoin-gana-al-oro-como-reserva-valor_md_78782196_wp_1.mp3)
-
 Desde tiempo inmemoriales los inversores nos hemos volcado al oro para protegernos de la inflación pero sobretodo para sobrevivir a la devaluación de la moneda. Una ladrona mucho más efectiva (y sigilosa) que la inflación.
 
 Hemos confiado en el oro durante miles de años, así que crisis tras crisis le hemos colgado la medalla (medalla de oro, claro) como el **activo refugio** al que gravitar para proteger nuestro patrimonio personal…

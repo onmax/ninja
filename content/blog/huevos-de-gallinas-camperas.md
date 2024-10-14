@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:59.194Z
 audioLink: https://www.ivoox.com/con-par-huevos-de-gallinas-camperas_md_77907451_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/con-par-huevos-de-gallinas-camperas\_md\_77907451\_wp\_1.mp3](https://www.ivoox.com/con-par-huevos-de-gallinas-camperas_md_77907451_wp_1.mp3)
-
 Echando la vista atrás, durante esos 6 años en los que no comía carne, si pude mantener mi salud fue por la burrada de huevos que comía.
 
 Después me hacía vegano un tiempo, entonces [notaba malas consecuencias para la salud](./consecuencias-del-veganismo) (algo empezaba a no funcionar) y me veía forzado a volver a la dieta vegetariana.

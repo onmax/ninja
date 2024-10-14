@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:09.281Z
 audioLink: https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio\_md\_70322533\_wp\_1.mp3](https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3)
-
 Estos últimos 6 años he estado probando todo tipo de dietas: vegana, vegetariana y pescetariana hasta llegar al otro extremo del veganismo: la carnívora.
 
 Después de todos estos experimentos ya puedo decir que para mí, [la dieta carnívora (comer exclusivamente carne)](./dieta-carnivora) es la **mejor** dieta que he probado, para mí. Tanto por salud, fuerza, recomposición corporal, sueño, inflamación…

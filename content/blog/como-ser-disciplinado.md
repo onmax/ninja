@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:47.055Z
 audioLink: https://www.ivoox.com/motivacion-esta-sobrevalorada-heackea-entorno_md_82348518_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/motivacion-esta-sobrevalorada-heackea-entorno\_md\_82348518\_wp\_1.mp3](https://www.ivoox.com/motivacion-esta-sobrevalorada-heackea-entorno_md_82348518_wp_1.mp3)
-
 Si no tienes motivación para hacer nada… si no tienes motivación ni para estudiar, para vivir, para hacer ejercicio, para adelgazar, para ir al gym o para levantarte de la cama entonces… si te gustaría ser disciplinado y vencer a la pereza de una vez por todo, entonces…
 
 **Céntrate en el entorno**. En tus alrededores.

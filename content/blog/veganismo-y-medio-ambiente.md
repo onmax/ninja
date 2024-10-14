@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:08.850Z
 audioLink: https://www.ivoox.com/veganismo-no-es-sostenible-para-medio_md_72626160_wp_1.mp3
 bibliography: ["dieta vegana","dietas vegetarianas (una con lácteos y la otra con lácteos y huevos)","omnívoras (con varios grados de influencia vegetariana)","baja en grasas y azúcares"]
 ---
-[https://www.ivoox.com/veganismo-no-es-sostenible-para-medio\_md\_72626160\_wp\_1.mp3](https://www.ivoox.com/veganismo-no-es-sostenible-para-medio_md_72626160_wp_1.mp3)
-
 Después de pasarme años gravitando entre dietas veganas y vegetarianas pensando que estaba haciendo el bien tanto para mi salud como para el medio ambiente, hoy expongo las razones por las que **estaba equivocado**.
 
 Completamente equivocado.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:19:34.881Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/84288722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F371567579-44100-2-c983a696a732a.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/84288722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F371567579-44100-2-c983a696a732a.mp3](https://anchor.fm/s/98566448/podcast/play/84288722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F371567579-44100-2-c983a696a732a.mp3)
-
 Ninjas de la vida, leer el libro de Stan Weinstein dónde explica su método de inversión, ha sido una de las **mejores decisiones que he podido tomar para mi capital**, patrimonio, futuro y por lo tanto también para mi vida.
 
 Weinstein ha sido el catalizador de: pensamientos, contactos, estrategias y lógicamente ganancias y revalorización de capital que espero ir potenciando en el futuro.

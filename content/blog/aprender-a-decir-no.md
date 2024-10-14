@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:20.289Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63304264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F306844703-44100-2-3658fe700ae4a.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/63304264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F306844703-44100-2-3658fe700ae4a.mp3](https://anchor.fm/s/98566448/podcast/play/63304264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F306844703-44100-2-3658fe700ae4a.mp3)
-
 No saber decir que no es el **error número 1 de cualquier aspirante a emprendedor de éxito**. Es el error que más daño hace y es el error del que más tiempo cuesta salir.
 
 Si os lo cuento ahora es porque más que nunca es relevante para mí, porque durante este año tendré que tomar una decisión.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:21.008Z
 audioLink: https://www.ivoox.com/teoria-del-mono-drogado_md_66427511_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/teoria-del-mono-drogado\_md\_66427511\_wp\_1.mp3](https://www.ivoox.com/teoria-del-mono-drogado_md_66427511_wp_1.mp3)
-
 Cuando estuve viviendo en Nueva Zelanda quedé fascinado por todo lo relacionado con el país. La política de sentido común, las leyes de protecciones de animales (o hasta criptomonedas), del medio ambiente, de corrupción, pero lo que más me flipó…
 
 Fueron sus árboles.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:12.568Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/66363938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317405844-44100-2-b337293adad16.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/66363938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317405844-44100-2-b337293adad16.mp3](https://anchor.fm/s/98566448/podcast/play/66363938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317405844-44100-2-b337293adad16.mp3)
-
 Todo empezó cuando a finales de septiembre me abrí [mi cuenta de TikTok](https://www.tiktok.com/@pau_ninja) y le dije a Juan (mi amigo y editor audiovisual) que ahora haríamos vídeos cortos como estrategia para llegar a más audiencia al podcast.
 
 Después Jose Pascual me picó en un episodio privado ([#90](https://sociedad.ninja/episodio-90/)) para ver quien ganaba más seguidores en un periodo de 3 meses y esto fue la nitro que necesitaba para apretar el acelerador.

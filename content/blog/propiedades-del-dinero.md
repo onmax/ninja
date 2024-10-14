@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:28.434Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283903-44100-2-71ba56335532bd91.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283903-44100-2-71ba56335532bd91.mp3](https://anchor.fm/s/98566448/podcast/play/52171676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283903-44100-2-71ba56335532bd91.mp3)
-
 Siempre nos han dicho que el dinero **no** crece de los árboles. Pero yo hasta hace poco siempre me había preguntado, «¿cómo que no?» al fin y al cabo los Euros están hechos de papel, y el papel sí crece de los árboles, ¿no?
 
 Nunca había querido dedicar energía a responder este pregunta hasta que en plena crisis de la pandemia, la Reserva Federal de Estados Unidos imprimió de la nada **3 trillones de dólares** (billones en español) para [inyectarlos](https://www.nytimes.com/2020/03/23/upshot/coronavirus-fed-extraordinary-response.html) en su economía.

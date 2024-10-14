@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:08.958Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/66788371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-17%2F318701447-44100-2-0480030ef7f0f.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/66788371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-17%2F318701447-44100-2-0480030ef7f0f.mp3](https://anchor.fm/s/98566448/podcast/play/66788371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-17%2F318701447-44100-2-0480030ef7f0f.mp3)
-
 Ha llegado el momento que estábamos esperando. El momento que llevamos avisando desde hace un año, ninjas de la vida.
 
 Acabamos de empezar la época perfecta (la primavera) para iniciarnos a tomar el sol de forma gradual, **sin crema**. ¿Con qué objetivo? Para absorber el máximo de vitamina D3, lo cual **no podríamos hacer si usáramos bloqueador**… porque bloquea la absorción de esta vitamina, que no es una vitamina (aunque cuando la descubrieron pensaban que sí lo era), sino que es una maldita hormona.

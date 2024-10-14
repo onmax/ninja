@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:39.268Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/56252104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-16%2F281126765-44100-2-a3f410de208af.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/56252104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-16%2F281126765-44100-2-a3f410de208af.mp3](https://anchor.fm/s/98566448/podcast/play/56252104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-16%2F281126765-44100-2-a3f410de208af.mp3)
-
 Tener oro en la caja fuerte parece tener sentido cuando no lo tienes que vender, pero cuando te toca usarlo de verdad… estás h0dido.
 
 No puedes huir de una guerra o de un país corrupto con 100.000€ en monedas de oro o lingotes, pero **sí en bitcoin**.

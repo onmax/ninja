@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:40.861Z
 audioLink: https://www.ivoox.com/activo-cama-pero-pasivo-la_md_60836174_wp_1.mp3
 bibliography: ["– edad que tengo = **% de renta variable**"]
 ---
-[https://www.ivoox.com/activo-cama-pero-pasivo-la\_md\_60836174\_wp\_1.mp3](https://www.ivoox.com/activo-cama-pero-pasivo-la_md_60836174_wp_1.mp3)
-
 Vamos a ver como invertir en fondos indexados **de 0 a 100**.
 
 Dejé claro por qué en mi cartera de inversión el 30% lo tengo en refugio con oro y Bitcoin. Así que hoy vengo a hablar del 70% restante que destino a **fondos indexados**.

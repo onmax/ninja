@@ -17,8 +17,6 @@ scrappedAt: 2024-10-14T09:21:16.432Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283959-44100-2-d79463e2bd31bb95.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283959-44100-2-d79463e2bd31bb95.mp3](https://anchor.fm/s/98566448/podcast/play/52171736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283959-44100-2-d79463e2bd31bb95.mp3)
-
 Siempre he dicho que **entreno para «estar bueno» desnudo**. Y lo sigo reiterando.
 
 ¿Es saludable? claro. Pero si ir al gimnasio nos hiciera más sanos pero nos volviéramos más feos muchos de nosotros no iríamos.

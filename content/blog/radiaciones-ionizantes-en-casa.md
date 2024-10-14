@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:34.058Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/57009778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283750559-44100-2-d80e6a97d5adf.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/57009778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283750559-44100-2-d80e6a97d5adf.mp3](https://anchor.fm/s/98566448/podcast/play/57009778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283750559-44100-2-d80e6a97d5adf.mp3)
-
 En las casas de la gente podemos encontrar 15, 20, algunas veces hasta 30 distintos transmisores generando radiaciones de radiofrecuencia de forma constante.
 
 A esto le sumamos la radiación de antenas de telefonía que puede haber por la zona, el contador de electricidad, los aparatos del vecino… y todos estos pequeños _gadgets_ han aumentado nuestra exposición a las radiaciones de manera incuestionable.

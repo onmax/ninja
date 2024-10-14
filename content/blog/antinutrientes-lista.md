@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:02.180Z
 audioLink: https://www.ivoox.com/antinutrientes-ladronas-silenciosas-tu-verdura_md_77464476_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/antinutrientes-ladronas-silenciosas-tu-verdura\_md\_77464476\_wp\_1.mp3](https://www.ivoox.com/antinutrientes-ladronas-silenciosas-tu-verdura_md_77464476_wp_1.mp3)
-
 Si buscamos imágenes de unas gachas de avena lo primero que nos aparecerá será un bol listo para ser fotografiado para Insta.
 
 Un bol con una cantidad de avena perfectamente nivelada. Justo debajo de rodajas de plátano en forma de arco iris intentando ser coloreado con el rojo y azul de las fresas y arándanos que se disponen alrededor.

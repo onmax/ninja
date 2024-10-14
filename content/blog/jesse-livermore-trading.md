@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:19:32.026Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85270934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F373948402-44100-2-4e3bcee12a7e4.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/85270934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F373948402-44100-2-4e3bcee12a7e4.mp3](https://anchor.fm/s/98566448/podcast/play/85270934/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-11%2F373948402-44100-2-4e3bcee12a7e4.mp3)
-
 Imagina haber llegado a amasar 100 millones de euros en los años 20-30.
 
 El poder de compra traducido al valor de hoy sería de casi 2.000 millones (2 billions en EEUU).

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:27.346Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63453994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F307384875-44100-2-8aa84e0874e7d.mp3
 bibliography: ["gr de testículos","manojos de limoncillo","juego de mezcla de hierbas sibot","piezas de chile tailandés opcional","cucharadas de cebolla verde picada","pulgares de jengibre en juliana","piezas cebollas en rodajas","dientes de ajo machacados y picados","litros de agua","cucharaditas de maicena","cucharaditas de azúcar blanca granulada","cucharadita de pimienta negra molida","cucharadas de salsa de pescado patis","cucharadas de aceite de cocina","mg"]
 ---
-[https://anchor.fm/s/98566448/podcast/play/63453994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F307384875-44100-2-8aa84e0874e7d.mp3](https://anchor.fm/s/98566448/podcast/play/63453994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F307384875-44100-2-8aa84e0874e7d.mp3)
-
 Hoy empezaré con un poquito de drama…
 
 Y no es que esté orgulloso, pero a veces los trolls, los haters que hay por internet también te pueden servir para crear _storytelling_ y enfocar mejor lo que quieres explicar.

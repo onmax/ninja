@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:19.979Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63963736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2F309130843-44100-2-463d66df1e90f.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/63963736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2F309130843-44100-2-463d66df1e90f.mp3](https://anchor.fm/s/98566448/podcast/play/63963736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2F309130843-44100-2-463d66df1e90f.mp3)
-
 Los ingresos pasivos no son otra cosa que los resultados de esfuerzos pasados.
 
 Hoy decides invertir tiempo (o dinero) en una acción que de buenas a primeras harás gratis, pero con la que esperas que tenga un retorno en el futuro.

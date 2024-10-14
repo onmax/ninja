@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:19:23.093Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/89238588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-15%2F383209450-44100-2-41143d38c8d4d.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/89238588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-15%2F383209450-44100-2-41143d38c8d4d.mp3](https://anchor.fm/s/98566448/podcast/play/89238588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-15%2F383209450-44100-2-41143d38c8d4d.mp3)
-
 ¿Cuál es el mejor momento para comprar acciones? ¿Cómo sabemos que justo al comprarlas no se irán al garete?
 
 Uno de los conceptos en los que más nos machacan las leyendas de la bolsa en sus [libros de _trading_](./mejores-libros-de-trading) es, antes que nada, seguir la tendencia del mercado.

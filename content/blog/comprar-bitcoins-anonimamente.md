@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:29.481Z
 audioLink: https://www.ivoox.com/bitcoin-nos-devuelve-libertad_md_61438528_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/bitcoin-nos-devuelve-libertad\_md\_61438528\_wp\_1.mp3](https://www.ivoox.com/bitcoin-nos-devuelve-libertad_md_61438528_wp_1.mp3)
-
 Comprar Bitcoin en Coinbase es como comprar una **camiseta del Zara**.
 
 Sabes que estás pagando de los precios más bajos en el mercado y que lo tienes super próximo. A la palma de tu mano. Pero en el fondo también sabes que **estás pagando** por otro sitio.

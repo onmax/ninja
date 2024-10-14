@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:26.627Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61686434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301146823-44100-2-20dd220a8d022.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/61686434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301146823-44100-2-20dd220a8d022.mp3](https://anchor.fm/s/98566448/podcast/play/61686434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301146823-44100-2-20dd220a8d022.mp3)
-
 No importa con quien hables… la mayoría te dirá que «viven cansada». Les falta capacidad de concentración, memoria, energía y se sienten letárgicos.
 
 A mí también me pasa en algunas ocasiones (depende de lo que haga y mi entorno, claro), pero la mayoría **vive así**. Lo peor es que en el 80% de los casos se piensan que su falta de concentración y memoria es por culpa de agentes completamente externos a ellos…

@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:26.504Z
 audioLink: https://www.ivoox.com/bitcoin-es-estafa-piramidal_md_65072506_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/bitcoin-es-estafa-piramidal\_md\_65072506\_wp\_1.mp3](https://www.ivoox.com/bitcoin-es-estafa-piramidal_md_65072506_wp_1.mp3)
-
 Ya sabéis que todo mi capital está en bitcoin, y hasta mis padres lo saben.
 
 Ellos no están muy puestos en tecnología pero después de escuchar una y otra vez por la radio que es un esquema ponzi que promete hacerte rico en 2 días para después sacarte todo tu dinero, los tendré que sentar en el sofá, sacar el rotulador y explicarles a fondo lo que os contaré hoy aquí.

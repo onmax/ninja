@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:19.627Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64238251/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F310119409-44100-2-f09dc7ac7c755.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/64238251/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F310119409-44100-2-f09dc7ac7c755.mp3](https://anchor.fm/s/98566448/podcast/play/64238251/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F310119409-44100-2-f09dc7ac7c755.mp3)
-
 Es de lógica decir que cuanto más racionales sean las decisiones que tomamos, más mejorará nuestra vida.
 
 El problema es que muchas de las decisiones que hemos tomado en el pasado no estaban basadas en lógica sino en emociones. Decisiones que terminan volviendo para apuñalarte en la espalda.

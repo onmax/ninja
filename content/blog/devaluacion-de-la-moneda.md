@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:21.857Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/62151381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2F302903440-44100-2-3551a25eca264.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/62151381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2F302903440-44100-2-3551a25eca264.mp3](https://anchor.fm/s/98566448/podcast/play/62151381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2F302903440-44100-2-3551a25eca264.mp3)
-
 Hoy os cuento el cambio de paradigma que sufrió mi cabeza en términos de inversión.
 
 Cuando me enteré del [funcionamiento del sistema monetario](./sistema-monetario-actual/) claro que me impacto y quedé horrorizado de cómo funcionan estas políticas, pero este **no** fue el detonante que me hizo dar un giro de 180º a [mi estrategia de inversión](https://pau.ninja/mi-cartera-de-inversion).

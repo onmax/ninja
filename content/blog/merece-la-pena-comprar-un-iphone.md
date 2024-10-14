@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:17.085Z
 audioLink: https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android_md_74696099_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android\_md\_74696099\_wp\_1.mp3](https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android_md_74696099_wp_1.mp3)
-
 «¿Has visto el último modelo? cuesta más de 1.000€. ¿Crees que vale la pena comprar un iPhone?» fueron las palabras que salieron de mi boca mientras miraba en el navegador de mi Android ese primer smartphone de más de 1.000€ hace no tantos años.
 
 «Si tuviera a estos de Apple delante les diría que ya se lo pueden meter por el culo». La respuesta de mi amigo Sergio no me sorprendió. Yo pensaba exactamente lo mismo pero…

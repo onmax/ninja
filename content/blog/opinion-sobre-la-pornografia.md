@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:35.805Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/55378029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F278257953-44100-2-5062ed0b902e5.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/55378029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F278257953-44100-2-5062ed0b902e5.mp3](https://anchor.fm/s/98566448/podcast/play/55378029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F278257953-44100-2-5062ed0b902e5.mp3)
-
 Nada malo en ver pornografía, ¿no? al fin y al cabo es lo más normal del mundo… la mayoría de mi audiencia sois hombres y por [estadística](https://es.statista.com/estadisticas/856366/paises-segun-el-porcentaje-de-visitantes-de-pornhub-por-genero/) somos los que miramos más porno, o sea que decir que el porno es malo sería tirarme piedras en mi propio tejado…
 
 Vaya.

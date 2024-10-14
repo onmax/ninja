@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:15.309Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65711050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315134945-44100-2-90d3fd601a5ad.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/65711050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315134945-44100-2-90d3fd601a5ad.mp3](https://anchor.fm/s/98566448/podcast/play/65711050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315134945-44100-2-90d3fd601a5ad.mp3)
-
 La sal ha sido otra de estas mentiras nutricionales que nos ha colado la industria alimentaria.
 
 Como vimos (#450) los [beneficios de la sal](./beneficios-de-la-sal) para el cuerpo y nuestra salud no son pocos. Siendo el sodio uno de tantos minerales necesarios para estar sanos, para algunas personas poner sal en las comida les subirá automáticamente el nivel de salud.

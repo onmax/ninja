@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:20.856Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/62333536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-17%2F303590745-44100-2-2912962ca8449.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/62333536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-17%2F303590745-44100-2-2912962ca8449.mp3](https://anchor.fm/s/98566448/podcast/play/62333536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-17%2F303590745-44100-2-2912962ca8449.mp3)
-
 Los tatuajes son malos para la salud. El daño que te hacen son directamente proporcionales a la cantidad de tinta con la que te hayas tatuado.
 
 A más grande el tatuaje, más lo sufrirás a largo plazo.

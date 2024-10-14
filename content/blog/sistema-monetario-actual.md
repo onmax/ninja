@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:28.076Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61682785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301134837-44100-2-d76f2f35b3e7a.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/61682785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301134837-44100-2-d76f2f35b3e7a.mp3](https://anchor.fm/s/98566448/podcast/play/61682785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301134837-44100-2-d76f2f35b3e7a.mp3)
-
 Después de ver [las propiedades del dinero](./propiedades-del-dinero) hemos entendido que lo que estamos usando en nuestro día a día no es dinero duro, pero fiduciario. Es decir, dinero que «sólo» se respalda por la confianza y el control de los gobiernos y que como la historia nos ha demostrado una y otra vez… tiene fecha de caducidad.
 
 Además, este dinero fiduciario tiene otro secreto sucio. Lo veremos hoy, pero antes tendremos que entender un poco cómo funciona el circuito del dinero.

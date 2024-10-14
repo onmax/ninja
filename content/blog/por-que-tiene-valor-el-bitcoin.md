@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:21.444Z
 audioLink: https://www.ivoox.com/bitcoin-no-tiene-valor_md_65687700_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/bitcoin-no-tiene-valor\_md\_65687700\_wp\_1.mp3](https://www.ivoox.com/bitcoin-no-tiene-valor_md_65687700_wp_1.mp3)
-
 > «Es que Pau, ¿cómo voy a depositar mis ahorros o invertir en algo que no puedo sujetar con las manos igual que puedo hacer con el oro?»
 
 Esperad que también hay otra.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:38.411Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54211312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F74525de3-8dd2-b174-c2be-a1ce3c0db746.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/54211312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F74525de3-8dd2-b174-c2be-a1ce3c0db746.mp3](https://anchor.fm/s/98566448/podcast/play/54211312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F74525de3-8dd2-b174-c2be-a1ce3c0db746.mp3)
-
 Cuando empezó la pandemia al inicio de 2020 ya nos empezamos a oler la tostada. No estoy hablando de la recesión inminente temporal que supuso el cisne negro de la pandemia, sino a las **consecuencias nefastas** que tendrían más adelante para los ciudadanos las acciones que tomaron los Bancos Centrales y Estados para «controlar» la crisis.
 
 Por esto muchos decidimos [comprar oro](./donde-comprar-oro-fisico) como protección.

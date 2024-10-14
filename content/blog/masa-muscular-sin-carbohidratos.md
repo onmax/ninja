@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:26.272Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60613301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296930307-44100-2-0dff647d0fd36.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/60613301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296930307-44100-2-0dff647d0fd36.mp3](https://anchor.fm/s/98566448/podcast/play/60613301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296930307-44100-2-0dff647d0fd36.mp3)
-
 Las probabilidades de que alguien que sigue una dieta carnívora (o si más no cetogénica, que no consume carbohidratos) y que además también haga deporte son muy altas.
 
 Has estado buscando la manera más óptima de comer bien para estar sano y sabes que, el hecho de hacer aunque sea un poquito de ejercicio, el movimiento, es otro pilar en tu vida.

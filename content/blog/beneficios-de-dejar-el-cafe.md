@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:06.035Z
 audioLink: https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al_md_74168896_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al\_md\_74168896\_wp\_1.mp3](https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al_md_74168896_wp_1.mp3)
-
 Al igual que el alcohol, el café es una de esas drogas aceptadas por la sociedad.
 
 Una droga que me encanta, pero que al igual que mi ex he tenido que empezar a poner más distancia con el tiempo. Como esa relación familiar tóxica de la que sabes que nunca te podrás desprender del todo pero que quieres al menos controlar un poco.

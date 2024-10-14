@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:04.348Z
 audioLink: https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia_md_70911893_wp_1.mp3
 bibliography: ["– 0,4 mmol/L"]
 ---
-[https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia\_md\_70911893\_wp\_1.mp3](https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia_md_70911893_wp_1.mp3)
-
 Nos encanta repetir que no todos los carbohidratos son iguales… Que mientras nos alejemos de los refinados no tiene que haber ningún problema.
 
 Y yo me pregunto: ¿por qué? es lo mismo que repetir esas frases como que:

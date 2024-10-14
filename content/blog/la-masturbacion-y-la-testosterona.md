@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:29.728Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60342135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F295911381-44100-2-597ecd4719d42.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/60342135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F295911381-44100-2-597ecd4719d42.mp3](https://anchor.fm/s/98566448/podcast/play/60342135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F295911381-44100-2-597ecd4719d42.mp3)
-
 «Pau ya nos dijiste [lo malo que es el porno](./es-malo-ver-porno), ahora seguro que nos vienes a quitar la masturbación.»
 
 Pues queridos ninjas de la vida… hoy os voy a sorprender.

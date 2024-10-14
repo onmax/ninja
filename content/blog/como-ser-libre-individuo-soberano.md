@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:53.110Z
 audioLink: https://www.ivoox.com/_md_82541614_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/\_md\_82541614\_wp\_1.mp3](https://www.ivoox.com/_md_82541614_wp_1.mp3)
-
 Del mismo modo que pensar que eres un helicóptero Boeing AH-64 Apache no te convierte en uno, pensar que tienes libertad no te convierte en una persona libre.
 
 La mayoría de gente que conozco no es soberana **no se puede tener libertad sin soberanía**.

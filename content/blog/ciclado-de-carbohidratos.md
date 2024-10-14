@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:02.597Z
 audioLink: https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos_md_78541950_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos\_md\_78541950\_wp\_1.mp3](https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos_md_78541950_wp_1.mp3)
-
 Aquí va mi confesión: **sigo comiendo carbohidratos**.
 
 Ya está. Ya lo he dicho.

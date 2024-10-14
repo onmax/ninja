@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:29.842Z
 audioLink: https://www.ivoox.com/impacto-meteorito-restablecio-historia_md_79259295_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/impacto-meteorito-restablecio-historia\_md\_79259295\_wp\_1.mp3](https://www.ivoox.com/impacto-meteorito-restablecio-historia_md_79259295_wp_1.mp3)
-
 Los libros de historia nos explican que el proceso en como nuestra civilización ha evolucionado, ha sido de manera lineal. Una línea recta ligeramente inclinada hacia arriba que va sin prisa pero sin pausa hasta llegar al día de hoy.
 
 ![expectativa histórica](./wp-content/uploads/2020/11expectativa-historica.jpg)

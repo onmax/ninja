@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:22.990Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61025379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-22%2F298558147-44100-2-7bbaaae66cd7.mp3
 bibliography: ["Mitchell, Cameron & Churchward-Venne, Tyler & West, Daniel & Burd, Nicholas & Breen, Leigh & Baker, Steven & Phillips, Stuart. (2012). Resistance exercise load does not determine training-mediated hypertrophic gains in young men. Journal of applied physiology (Bethesda, Md. : 1985). 113. 71-7. 10.1152/japplphysiol.00307.2012."]
 ---
-[https://anchor.fm/s/98566448/podcast/play/61025379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-22%2F298558147-44100-2-7bbaaae66cd7.mp3](https://anchor.fm/s/98566448/podcast/play/61025379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-22%2F298558147-44100-2-7bbaaae66cd7.mp3)
-
 ¿Es lo mismo entrenar para ganar fuerza que [entrenar para ganar músculo](./como-ganar-masa-muscular-rapido) (hipertrofia muscular)?
 
 La mayoría en algún momento hemos pensado que sí porque en el 90% de los casos, los tíos que están mazaos también son tíos fuertes, pero… volved a pensarlo. Seguro que conocéis a más de un individuo que:

@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:47.383Z
 audioLink: https://www.ivoox.com/_md_84907091_wp_1.mp3
 bibliography: ["días gratuitos y además te avisan: «eh, que se te acaba el periodo gratuito y tocará apoquinar dinerete».","libros, porque entonces es muy obvio. Seguro que en el momento de contaros esto, alguien ya está programando un robot para buscar cuentas de Goodreads con sólo 24 libros."]
 ---
-[https://www.ivoox.com/\_md\_84907091\_wp\_1.mp3](https://www.ivoox.com/_md_84907091_wp_1.mp3)
-
 El auge de Bitcoin está siendo proporcional al auge de personas extorsionadas por haber dicho a los cuatro vientos que tienen Bitcoin.
 
 Hace unos meses el fundador de Tuenti era [secuestrado](https://hipertextual.com/2021/11/fundador-de-tuenti-zaryn-dentzel-secuestrado-para-robarle-sus-bitcoins) y torturado en su propia casa por unos delincuentes de Europa del Este que le metieron de palos para extraerle el acceso a sus Bitcoin.

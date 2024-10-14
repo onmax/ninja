@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:20.687Z
 audioLink: https://www.ivoox.com/bitcoin-para-tontos_md_66797636_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/bitcoin-para-tontos\_md\_66797636\_wp\_1.mp3](https://www.ivoox.com/bitcoin-para-tontos_md_66797636_wp_1.mp3)
-
 Dicen que cuando la abuela o el carpintero preguntan por la bolsa (o en este caso por Bitcoin), que es hora de vender y pasar a otra cosa.
 
 Yo digo que cuando esto sucede… es momento de aguantar porque esta empezando el «efecto red», es decir: se está volviendo tendencia.

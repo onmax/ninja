@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:00.033Z
 audioLink: https://www.ivoox.com/eyaculacion-vs-kegels-batalla-del-placer_md_77488919_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/eyaculacion-vs-kegels-batalla-del-placer\_md\_77488919\_wp\_1.mp3](https://www.ivoox.com/eyaculacion-vs-kegels-batalla-del-placer_md_77488919_wp_1.mp3)
-
 Hace mucho, mucho tiempo… en la prehistoria, había dos hombres. Los dos tipos eran unos casanova que se ligaban a todas las tías de las tribus.
 
 La diferencia en su manera de ligar es que uno tardaba 2 horas en eyacular y el otro terminaba en 1 minuto. ¿Cuál creéis que tuvo más descendencia?

@@ -17,8 +17,6 @@ scrappedAt: 2024-10-14T09:21:16.119Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3](https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3)
-
 Esta publicación cubre los **10 primeros segundos de la interacción**. Desde que ves a la chica, sientes que quieres conocerla y cómo hacerlo para ir a hablar con ella.
 
 Aprender a entrarle a un chica que me guste por la calle, en el parque, en la biblioteca o la playa ha sido una de las herramientas más potentes que he aprendido nunca para desarrollar mi habilidad social.

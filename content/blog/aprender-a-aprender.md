@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:16.603Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65810913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F315517692-44100-2-5dd6f3cb55487.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/65810913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F315517692-44100-2-5dd6f3cb55487.mp3](https://anchor.fm/s/98566448/podcast/play/65810913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F315517692-44100-2-5dd6f3cb55487.mp3)
-
 En los 16 años que dura la educación obligatoria, la forma de enseñar a penas ha cambiado desde que se implementó durante la Revolución Industrial.
 
 Un sistema que se implementó para, no sólo porque los niños tuvieran un sitio dónde ir cuando sus padres trabajaban 14 horas al día, sino también para prepararlos para ser como sus padres.

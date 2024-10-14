@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:03.286Z
 audioLink: https://www.ivoox.com/santo-grial-del-fitness_md_68401661_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/santo-grial-del-fitness\_md\_68401661\_wp\_1.mp3](https://www.ivoox.com/santo-grial-del-fitness_md_68401661_wp_1.mp3)
-
 Ninjas de la vida creo que lo hemos encontrado.
 
 La manera de cómo tener unos cuerpos sanos, definidos, pero sobretodo _buenorros_.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:22.784Z
 audioLink: https://www.ivoox.com/energias-renovables-futuras-civilizaciones_md_65293983_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/energias-renovables-futuras-civilizaciones\_md\_65293983\_wp\_1.mp3](https://www.ivoox.com/energias-renovables-futuras-civilizaciones_md_65293983_wp_1.mp3)
-
 Decir que estamos solos en el universo me parecen de un egocentrismo de manual.
 
 Imaginad a una tribu de cazadores y recolectores africanos. La idea de un animal que se ponga a sus crías en una bolsa biológica delante como si fuera Doraemon es algo que ni les pasaría por la cabeza.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:14.876Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63606047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-17%2F307901389-44100-2-113ae5979acf4.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/63606047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-17%2F307901389-44100-2-113ae5979acf4.mp3](https://anchor.fm/s/98566448/podcast/play/63606047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-17%2F307901389-44100-2-113ae5979acf4.mp3)
-
 Hace cosa de un par de años que dejé de leer libros.
 
 Sí. No leo libros.

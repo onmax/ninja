@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:30.710Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/57806569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-19%2F286545095-44100-2-a31b760688c88.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/57806569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-19%2F286545095-44100-2-a31b760688c88.mp3](https://anchor.fm/s/98566448/podcast/play/57806569/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-19%2F286545095-44100-2-a31b760688c88.mp3)
-
 Si estabas pensando en concebir, en hacer crecer la población de humanos (alguien tendrá que pegar las pensiones españolas), que sepas que se te está cerrando la mejor ventana del año para dejar a tu mujer embarazada.
 
 Lógicamente no significa que no puedas intentarlo en cualquier momento, pero octubre está a la vuelta de la esquina y aunque se dice que el pico de fertilidad humano es en noviembre… no es exactamente cierto. Más bien es una verdad a medias.

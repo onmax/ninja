@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:15.788Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284127-44100-2-45b5e130e2d3c27f.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284127-44100-2-45b5e130e2d3c27f.mp3](https://anchor.fm/s/98566448/podcast/play/52171881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284127-44100-2-45b5e130e2d3c27f.mp3)
-
 ¿Trucos Tinder que había usado y que mis amigos dicen que les siguen funcionado? Aquí están.
 
 Antes de **enseñarte a petarlo** con la aplicación, tengo que dar un pequeño aviso.

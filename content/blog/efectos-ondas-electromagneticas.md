@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:34.458Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/56791762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-29%2F283015865-44100-2-866850de4824.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/56791762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-29%2F283015865-44100-2-866850de4824.mp3](https://anchor.fm/s/98566448/podcast/play/56791762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-29%2F283015865-44100-2-866850de4824.mp3)
-
 Las radiaciones electromagnéticas ocurren de manera natural en nuestro mundo.
 
 La Tierra tiene su propio campo electromagnético. El sol también nos está echando frecuencias electromagnéticas constantemente. Y hasta somos bombardeados con esta radiación desde el espacio exterior en distintos niveles dependiendo de los eventos que estén ocurriendo.

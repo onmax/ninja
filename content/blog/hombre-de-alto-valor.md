@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:19.231Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283876-44100-2-0ce6fbfa9aba7ce3.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283876-44100-2-0ce6fbfa9aba7ce3.mp3](https://anchor.fm/s/98566448/podcast/play/52171673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283876-44100-2-0ce6fbfa9aba7ce3.mp3)
-
 ## Qué es la masculinidad
 
 El otro día busqué la definición de masculinidad en Google y me salieron varias páginas oficiales de distintos gobiernos. Páginas donde justo debajo de «que es la masculinidad» empezaba con la frase: «Las raíces de la violencia contra la mujer…»

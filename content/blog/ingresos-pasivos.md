@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:11.264Z
 audioLink: https://www.ivoox.com/mis-ingresos-pasivos-6-negocios_md_44345770_wp_1.mp3
 bibliography: ["inicialmente","**Inversión de tiempo**"]
 ---
-[https://www.ivoox.com/mis-ingresos-pasivos-6-negocios\_md\_44345770\_wp\_1.mp3](https://www.ivoox.com/mis-ingresos-pasivos-6-negocios_md_44345770_wp_1.mp3)
-
 Generar ingresos pasivos viene de recoger los beneficios de un **esfuerzo pasado**.
 
 Y dejo esto claro desde un buen inicio porque la idea de tener un negocio pasivo, un _business_ que nos genere pasta sin mover un dedo se ha prostituido más que la política española.

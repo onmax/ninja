@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:13.374Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64344070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-1%2F310494786-44100-2-aa1cb966c0c2c.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/64344070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-1%2F310494786-44100-2-aa1cb966c0c2c.mp3](https://anchor.fm/s/98566448/podcast/play/64344070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-1%2F310494786-44100-2-aa1cb966c0c2c.mp3)
-
 Occidente se está yendo poco a poco a la mi3rda.
 
 Empezando por las crisis de valores que nos destrozan la sociedad desde dentro. Hasta las tribus indígenas o incluso las manadas de lobos, hienas o animales que cazan juntos tienen una estructura de valores que no varía.

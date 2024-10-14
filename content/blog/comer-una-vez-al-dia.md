@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:04.946Z
 audioLink: https://www.ivoox.com/omad-arte-hacer-comida-al_md_72046999_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/omad-arte-hacer-comida-al\_md\_72046999\_wp\_1.mp3](https://www.ivoox.com/omad-arte-hacer-comida-al_md_72046999_wp_1.mp3)
-
 Varias semanas atrás me di cuenta que había empezado a comer con **menos frecuencia**, y hago énfasis en la palabra «frecuencia» porque esto no significa (para nada) que comiera menos. Ni en cantidad, ni en calorías, ni en nutrientes.
 
 No hace mucho que me encontré comiendo sólo un par de veces al día, y a medida que iban pasando las semanas se me iban juntando más y más estas dos comidas. Hasta el punto que dije, «no tiene sentido comer ahora si la siguiente comida la haré al cabo de dos horas y ya estoy llenísimo…»

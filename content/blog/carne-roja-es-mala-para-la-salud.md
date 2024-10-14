@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:15.706Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58844457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290305378-44100-2-a61fd94469876.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/58844457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290305378-44100-2-a61fd94469876.mp3](https://anchor.fm/s/98566448/podcast/play/58844457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290305378-44100-2-a61fd94469876.mp3)
-
 Hace pocos meses el gobierno canadiense y californiano consideraban poner etiquetas de advertencia en los paquetes de carne roja del supermercado.
 
 Al mismo nivel que el tabaco, vamos.

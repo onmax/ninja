@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:45.549Z
 audioLink: https://www.ivoox.com/_md_87080658_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/\_md\_87080658\_wp\_1.mp3](https://www.ivoox.com/_md_87080658_wp_1.mp3)
-
 Hace unos 100.000 años el ser humano empezó a desarrollar el lenguaje.
 
 Probablemente por nuestras necesidad de enseñarle a las crías la manera más eficiente de actuar en grupo. Un grupo cada vez más creciente aunque seguro que esas tribus ni se imaginaron la aberración de comunidad que terminaríamos creando.

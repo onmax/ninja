@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:54.216Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283754-44100-2-3dcf9777bdc3425b.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283754-44100-2-3dcf9777bdc3425b.mp3](https://anchor.fm/s/98566448/podcast/play/52171582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283754-44100-2-3dcf9777bdc3425b.mp3)
-
 ¿Cuál es el país del mundo en el que puedes abrir una cuenta bancaria offshore con cero problemas, anonimatos y barata?
 
 La respuesta (en el día de hoy) es: **Georgia.**

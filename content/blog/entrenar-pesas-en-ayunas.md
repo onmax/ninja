@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:17.854Z
 audioLink: https://www.ivoox.com/entrenar-pesas-ayunas_md_69057724_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/entrenar-pesas-ayunas\_md\_69057724\_wp\_1.mp3](https://www.ivoox.com/entrenar-pesas-ayunas_md_69057724_wp_1.mp3)
-
 No hace mucho os comentaba mis experiencias con el ayuno intermitente. Ya sabéis que en internet hay que creerse todas las anécdotas de los que escriben como si fueran verdades irrefutables…
 
 No.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:22.204Z
 audioLink: https://www.ivoox.com/adios-inversion-hola-refugio_md_68309112_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/adios-inversion-hola-refugio\_md\_68309112\_wp\_1.mp3](https://www.ivoox.com/adios-inversion-hola-refugio_md_68309112_wp_1.mp3)
-
 Una reserva de valor es un activo que mantiene su poder adquisitivo a lo largo del tiempo.
 
 ¿Y por qué querríamos algo así?

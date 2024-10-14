@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:27.753Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54937984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-17%2F276780104-44100-2-ebefb1be9de33.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/54937984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-17%2F276780104-44100-2-ebefb1be9de33.mp3](https://anchor.fm/s/98566448/podcast/play/54937984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-17%2F276780104-44100-2-ebefb1be9de33.mp3)
-
 La historia se repite, y ya os puedo adelantar que en la política monetaria no es una excepción.
 
 Tenemos el pasado bien documentado (o al menos parte de él) y aún así **no** aprendemos de lo que hicieron bien y mal nuestros antepasados.

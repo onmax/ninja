@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:33.254Z
 audioLink: https://www.ivoox.com/enigma-civilizaciones-perdidas_md_63473251_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/enigma-civilizaciones-perdidas\_md\_63473251\_wp\_1.mp3](https://www.ivoox.com/enigma-civilizaciones-perdidas_md_63473251_wp_1.mp3)
-
 Hay una hipótesis que pondría de manifiesto que hace unos 12.800 años hubo un evento que cambiaría el rumbo de la vida en la Tierra.
 
 Si en los próximos años se confirmara, podríamos explicar muchas de las **preguntas de la historia** que hoy en día seguimos sin poder responder.

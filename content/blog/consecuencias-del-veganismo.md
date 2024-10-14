@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:09.880Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284109-44100-2-089192c40d80cc2c.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284109-44100-2-089192c40d80cc2c.mp3](https://anchor.fm/s/98566448/podcast/play/52171869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284109-44100-2-089192c40d80cc2c.mp3)
-
 Para decir algo tan pedante como que ser vegano es malo para la salud no hace faltar que elija estudios que soporten mi narrativa o que marque mi opinión como hechos.
 
 Sólo hace falta mirar lo que el cuerpo necesita: a las dietas veganas les faltan +20 nutrientes esenciales para la vida humana. Ya sea porque **no existen** en las plantas o porque no hay suficiente **biodisponibilidad** (que el cuerpo no pueda absorberlos).

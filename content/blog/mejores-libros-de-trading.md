@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:19:24.250Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86422102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2F376822825-44100-2-8535cedf0c134.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/86422102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2F376822825-44100-2-8535cedf0c134.mp3](https://anchor.fm/s/98566448/podcast/play/86422102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2F376822825-44100-2-8535cedf0c134.mp3)
-
 Ninja de la vida, hace unos pocos meses me dio fuerte por el _trading_.
 
 Muchas personas también han pasado por esta etapa, pero algo que me sucedió a mí, que sucede poco a los interesados en el _trading_ es que en pocas semanas **ya estaba siendo rentable**.

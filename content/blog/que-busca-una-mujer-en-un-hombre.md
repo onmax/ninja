@@ -17,8 +17,6 @@ scrappedAt: 2024-10-14T09:19:39.217Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3](https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3)
-
 Aunque nos digan lo contrario, el mercado sexual está completamente guiado por nuestros instintos evolutivos.
 
 Actualmente las sociedad moderna nos está dictando, casi obligando cómo tenemos que pensar (algo que tenemos claro con temas como nutrición, economía, etc), también hace lo mismo **dictándonos qué nos tiene que gustar sexualmente**. Cómo tenemos que cortejar, cómo tenemos que interactuar, yendo en contra de la biología.

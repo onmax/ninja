@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:18.995Z
 audioLink: https://www.ivoox.com/codigo-secreto-gran-piramide_md_67097244_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/codigo-secreto-gran-piramide\_md\_67097244\_wp\_1.mp3](https://www.ivoox.com/codigo-secreto-gran-piramide_md_67097244_wp_1.mp3)
-
 Hoy hablamos de los misterios de una de las construcciones más antiguas del planeta. Una construcción que ha perdurado milenios y que en línea del tiempo está a la par con la estructura megalítica más vieja que hemos encontrado nunca: [Göbekli Tepe](./civilizaciones-perdidas#Gobekli_Tepe) en Turquía.
 
 ¿De qué construcción antigua estoy hablando? pues de La Gran Pirámide de Guiza, claro.

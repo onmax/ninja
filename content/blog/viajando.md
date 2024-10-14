@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:53.904Z
 audioLink: https://www.ivoox.com/_md_82541931_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/\_md\_82541931\_wp\_1.mp3](https://www.ivoox.com/_md_82541931_wp_1.mp3)
-
 Desde 2016 he vivido viajando gracias a los negocios online.
 
 Unos viajes que han tomado distintas velocidades según lo que sentía en ese momento. Eso sí, confieso que algunas veces (sobretodo el primer par de años) por culpa de auto-etiquetarme nómada digital, había momentos en los que tal vez no tenía muchas ganas de ir a otro país pero **me forzaba a ir**.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:10.338Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283891-44100-2-99af76e1026e81b7.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283891-44100-2-99af76e1026e81b7.mp3](https://anchor.fm/s/98566448/podcast/play/52171680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283891-44100-2-99af76e1026e81b7.mp3)
-
 Después de 6 años con dietas veganas y vegetarianas, nunca me hubiera imaginado que hoy os estaría contando mi experiencia (y la ciencia) de comer **carne exclusivamente**.
 
 Y ya no sólo como experimento o reto, sino que estaría **totalmente a favor** de basar nuestra manera de comer, en la carne. ¿Por qué? porque a parte de investigarlo, he vivido los beneficios en mis carnes (literalmente y figuradamente).

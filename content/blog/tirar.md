@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:31.366Z
 audioLink: https://www.ivoox.com/tirar-cosas-primer-paso-al-minimalismo_md_62378536_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/tirar-cosas-primer-paso-al-minimalismo\_md\_62378536\_wp\_1.mp3](https://www.ivoox.com/tirar-cosas-primer-paso-al-minimalismo_md_62378536_wp_1.mp3)
-
 Hay muchas personas que escuchan mis episodios del podcast sobre minimalismo y me comentan que les encanta lo que es la teoría o la mentalidad.
 
 Pero claro, cuando toca ponerse en ello cuesta lo suyo porque no sabes por dónde empezar.

@@ -19,8 +19,6 @@ scrappedAt: 2024-10-14T09:21:15.416Z
 audioLink: https://www.ivoox.com/hola-rechazo-adios-miedo_md_76032891_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/hola-rechazo-adios-miedo\_md\_76032891\_wp\_1.mp3](https://www.ivoox.com/hola-rechazo-adios-miedo_md_76032891_wp_1.mp3)
-
 Una de las veces que viví en Suecia hice un reto de psicología social.
 
 Decidí que durante 10 días hablaría «en frío» a algún desconocido por la calle.

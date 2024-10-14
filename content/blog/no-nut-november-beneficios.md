@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:29.341Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59424701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-22%2F292501870-44100-2-5453cd18b142d.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/59424701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-22%2F292501870-44100-2-5453cd18b142d.mp3](https://anchor.fm/s/98566448/podcast/play/59424701/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-22%2F292501870-44100-2-5453cd18b142d.mp3)
-
 El día 1 de Noviembre empieza dos retos para los hombres.
 
 El primero quizás lo conozcáis más. Es «Movember», en el que los hombres (y alguna mujer) se dejan bigote durante todo el mes de Noviembre para crear conciencia, para que se hable abiertamente de temas de salud masculinos como el cáncer de próstata, el testicular y también el suicidio.

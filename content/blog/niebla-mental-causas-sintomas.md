@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:31.804Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58363138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2F288517358-44100-2-13599aa06c1a2.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/58363138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2F288517358-44100-2-13599aa06c1a2.mp3](https://anchor.fm/s/98566448/podcast/play/58363138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2F288517358-44100-2-13599aa06c1a2.mp3)
-
 A ver si te ha pasado.
 
 Nada más levantarte te pones a trabajar en tus proyectos. Te pones algo de música _lofi_, empiezas a petarlo durante un par de horas… pero de pronto tienes hambre. Decides comer algo, vuelves al ordenador y… pum. Ya no sirves para nada en todo el día.

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:22.155Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61232410/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-26%2F299336114-44100-2-df33067e2a397.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/61232410/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-26%2F299336114-44100-2-df33067e2a397.mp3](https://anchor.fm/s/98566448/podcast/play/61232410/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-26%2F299336114-44100-2-df33067e2a397.mp3)
-
 Los que podemos comer lácteos es porque tenemos una **mutación genética** que originalmente los humanos no teníamos. Por esto se llama mutación.
 
 Los que dicen que les sienta mal la leche, quizás no es que sean intolerantes a la lactosa, sino que su cuerpo se inflama a la pasteurización y procesos industriales a los que sometemos a los lácteos de mala calidad que nos cuelan en el supermercado.

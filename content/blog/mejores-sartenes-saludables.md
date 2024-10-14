@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:54.976Z
 audioLink: https://www.ivoox.com/tu-sarten-es-mas-toxica-tu-exnovia_md_79214596_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/tu-sarten-es-mas-toxica-tu-exnovia\_md\_79214596\_wp\_1.mp3](https://www.ivoox.com/tu-sarten-es-mas-toxica-tu-exnovia_md_79214596_wp_1.mp3)
-
 La desconexión que tenemos con nuestra salud y biología ancestral no sólo es evidente en la nutrición. También lo es en mucho de nuestros hábitos diarios.
 
 Lo poco que nos movemos, dormir mal, pantallas azules, radiaciones de todo tipo de frecuencias en todas direcciones, ritmos circadianos menos consistentes que mis relaciones amorosas…

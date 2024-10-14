@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:37.130Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54626959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F308783cb-11c0-2c96-7fe2-e8bdb3314d13.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/54626959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F308783cb-11c0-2c96-7fe2-e8bdb3314d13.mp3](https://anchor.fm/s/98566448/podcast/play/54626959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F308783cb-11c0-2c96-7fe2-e8bdb3314d13.mp3)
-
 El entorno en el que nos movemos, este entorno creado por esa mezcla de sociedad, cultura y medios, es perfecto para ponernos enfermos.
 
 Pasando la mayor parte del día encerrados, sin movernos demasiado, con comida de mi3rda, siendo fulminados con exposición constante a radiaciones, con exposición al sol casi nula, es decir, sin vitamina D, que es crucial por funciones inmunitarias y la prevención de enfermedades.

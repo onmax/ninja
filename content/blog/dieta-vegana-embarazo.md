@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:30.086Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58846698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290313978-44100-2-c2486bebe06ba.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/58846698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290313978-44100-2-c2486bebe06ba.mp3](https://anchor.fm/s/98566448/podcast/play/58846698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290313978-44100-2-c2486bebe06ba.mp3)
-
 ¿Por qué cada vez hay más cesáreas y infertilidad? Ya son 1 de cada 4 de parejas las que no pueden engendrar. Por esto las clínicas de reproducción asistida crecen a un 5-10% **cada año**.
 
 Muchas cosas nos desconectan de la naturaleza, pero hoy me centro en uno de los peores: **la dieta vegana**.

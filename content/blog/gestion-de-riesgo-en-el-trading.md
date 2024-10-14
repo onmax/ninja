@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:19:20.044Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/87199273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-25%2F378734438-44100-2-10fe563bf6ece.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/87199273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-25%2F378734438-44100-2-10fe563bf6ece.mp3](https://anchor.fm/s/98566448/podcast/play/87199273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-25%2F378734438-44100-2-10fe563bf6ece.mp3)
-
 Si realmente nos interesa el trading, la gestión del riesgo nos debería interesar con la misma intensidad que el hecho de saber _cuando_ comprar o _qué_ comprar.
 
 Es por esto que _todas_ las leyendas de la especulación (sin excepción) han estado dándonos la tabarra durante décadas en sus libros. Repitiendo todos el mismo mantra:

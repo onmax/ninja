@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:01.288Z
 audioLink: https://www.ivoox.com/4-super-vitaminas-solo-productos-animales_md_77670290_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/4-super-vitaminas-solo-productos-animales\_md\_77670290\_wp\_1.mp3](https://www.ivoox.com/4-super-vitaminas-solo-productos-animales_md_77670290_wp_1.mp3)
-
 Si eres un ser humano tu cuerpo te pide 13 vitaminas. Si eres un _trolls_ (como algunos de los comentarios) ya no sé cuantas necesitas.
 
 Pero si eres humano, trece.

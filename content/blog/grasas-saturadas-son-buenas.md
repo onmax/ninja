@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:05.694Z
 audioLink: https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas_md_70083343_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas\_md\_70083343\_wp\_1.mp3](https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas_md_70083343_wp_1.mp3)
-
 Hace poco anunciaba por las redes sociales que llevo un tiempo comiendo **sólo carne**. Que en pocas semanas había empezado a ver beneficios físicos y mentales y como no… un grupillo me saltó a la yugular.
 
 Hablaban sobre la «mortalidad» de las grasas saturada, las carnes rojas «asociadas» al cáncer y falacias que **hoy vamos a desmentir**, analizando estudios científicos y sentido común para que podamos dejar de repetir como loros los mismos dogmas de siempre que hemos aceptado como verdades.

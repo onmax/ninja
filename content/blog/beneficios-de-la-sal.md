@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:13.687Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64974007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312578440-44100-2-c63ba332859d4.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/64974007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312578440-44100-2-c63ba332859d4.mp3](https://anchor.fm/s/98566448/podcast/play/64974007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312578440-44100-2-c63ba332859d4.mp3)
-
 > «La cura para todo es la sal: sudor, lágrimas o el mar» – proverbio sueco
 
 Estaba hablando con un invitado (#444) y me dijo que había incrementado el consumo de sal y esto le hacía no necesitar carbohidratos.

@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:57.976Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52642799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-27%2Fc1652368-ad9a-dd3e-1991-62967a5faa53.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52642799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-27%2Fc1652368-ad9a-dd3e-1991-62967a5faa53.mp3](https://anchor.fm/s/98566448/podcast/play/52642799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-27%2Fc1652368-ad9a-dd3e-1991-62967a5faa53.mp3)
-
 Holdear criptomonedas significa **aguantar** hasta el final. Aguantar lo que tenemos **sin vender**. ¿Que el mercado baja? aguantamos. ¿Que el mercado sube? también aguantamos. ¿Que nos deja la novia? también aguantamos.
 
 Pero…

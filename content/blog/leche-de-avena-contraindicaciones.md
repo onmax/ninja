@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:27.694Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59916591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294392681-44100-2-a0a50b60c40a9.mp3
 bibliography: ["gramos de proteína","gramos de fibra"]
 ---
-[https://anchor.fm/s/98566448/podcast/play/59916591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294392681-44100-2-a0a50b60c40a9.mp3](https://anchor.fm/s/98566448/podcast/play/59916591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294392681-44100-2-a0a50b60c40a9.mp3)
-
 No sólo has escuchado sobre las leches vegetal como la de avena, de soja o almendras. Seguramente hasta incluso la estás bebiendo.
 
 Seguramente tienes leche de avena en la nevera, lista para ser usada con tus cereales, en el café, la merienda y en definitiva, como substituto a la leche de vaca fresca que tu abuela usaba en las recetas.

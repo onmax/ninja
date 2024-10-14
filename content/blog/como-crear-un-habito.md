@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:07.558Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68406742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-11%2F323346818-44100-2-27d481b6cd09a.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/68406742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-11%2F323346818-44100-2-27d481b6cd09a.mp3](https://anchor.fm/s/98566448/podcast/play/68406742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-11%2F323346818-44100-2-27d481b6cd09a.mp3)
-
 > Un hábito no deja de ser un comportamiento que terminas repitiendo tantas veces que se convierte en algo automático.
 
 Lo que ha formado la mayoría de los hábitos diarios ha sido una necesidad. Desayunar o ayunar. El café. Lavarte los dientes. Ir al trabajo a la misma hora…

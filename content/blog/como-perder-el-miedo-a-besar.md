@@ -17,8 +17,6 @@ scrappedAt: 2024-10-14T09:20:37.821Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61842337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F301700236-44100-2-0b78475f1b6e7.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/61842337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F301700236-44100-2-0b78475f1b6e7.mp3](https://anchor.fm/s/98566448/podcast/play/61842337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F301700236-44100-2-0b78475f1b6e7.mp3)
-
 Tanto si te encuentras delante la oportunidad de besar a alguien por **primera vez** en toda tu vida, como si estás pensando en lanzarte por primera vez a esa chica que has estado viendo…
 
 En ambos casos es una primera vez. Es una primera vez con **una** chica, o la primera vez con **esa** chica.

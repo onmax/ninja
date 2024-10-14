@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:19:53.466Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75800040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-12%2F346727594-44100-2-c4503655b62f.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/75800040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-12%2F346727594-44100-2-c4503655b62f.mp3](https://anchor.fm/s/98566448/podcast/play/75800040/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-12%2F346727594-44100-2-c4503655b62f.mp3)
-
 Cuando la gente me ve comiendo mantequilla a cucharadas (literalmente) para acompañar a mi carne y órganos, me miran como si estuviera engullendo las cabezas de mis enemigos.
 
 Los que me miran raro son los mismos que en su lugar comprarán margarina.

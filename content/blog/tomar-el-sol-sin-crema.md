@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:37.488Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/53788698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F769ce87b-afce-ec79-59a0-cb8648882df9.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/53788698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F769ce87b-afce-ec79-59a0-cb8648882df9.mp3](https://anchor.fm/s/98566448/podcast/play/53788698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F769ce87b-afce-ec79-59a0-cb8648882df9.mp3)
-
 Cada vez que salgo sin crema solar de casa mis padres durante el verano, mi madre se pone las manos a la cabeza. Llevo años sin usar protector y no tengo ninguna intención de empezar a usarlo.
 
 Para entender el por qué, tenemos que hacer nuestro querido _zoom out_, la vista de pájaro… lo que nos viene perfecto porque vamos a empezar mencionando a Ra. El Dios egipcio del sol que parece que tiene cara de pájaro pero en verdad es un babuino porque los babuinos gritan al amanecer.

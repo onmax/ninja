@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:50.916Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284080-44100-2-2a4ed6c8dd005214.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284080-44100-2-2a4ed6c8dd005214.mp3](https://anchor.fm/s/98566448/podcast/play/52171870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284080-44100-2-2a4ed6c8dd005214.mp3)
-
 Mi madre ha dejado de preocuparse tanto por mí porque le he dicho que después de **casi 1 año siguiendo una dieta de sólo carne**… he empezado a incorporar fruta.
 
 No fue por necesidad sino por experimento.

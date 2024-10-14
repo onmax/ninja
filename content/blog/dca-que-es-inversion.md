@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:57.633Z
 audioLink: https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito_md_78916889_wp_1.mp3
 bibliography: ["de junio","de febrero"]
 ---
-[https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito\_md\_78916889\_wp\_1.mp3](https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito_md_78916889_wp_1.mp3)
-
 Si la inversión fuera un juego, sería un juego de rol. Uno de esos largo en el que tienes que calcular cada paso que vas dando para que después no tengas que arrepentirte con un: «joeer, ¿por qué elegí el camino de la derecha y no el de la izquierda? ¡ahora ya es demasiado tarde para ir hacia atrás!».
 
 Pero al igual que en los juegos de rol, no todo depende de nosotros al 100%.

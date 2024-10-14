@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:19:29.352Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/88395083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-24%2F381510929-44100-2-8978773c4d59c.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/88395083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-24%2F381510929-44100-2-8978773c4d59c.mp3](https://anchor.fm/s/98566448/podcast/play/88395083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-24%2F381510929-44100-2-8978773c4d59c.mp3)
-
 El señor Wyckoff vivió durnate la misma época que el [trader Jesse Livermore](./jesse-livermore-trading) pero a diferencia de él, en vez de dedicarse exclusivamente a entender para hacer pasta en la bolsa, decidió terminar gravitando hacia la educación.
 
 Y gracias al dios del dinero que lo hizo…

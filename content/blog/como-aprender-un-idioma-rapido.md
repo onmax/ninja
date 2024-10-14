@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:19:35.449Z
 audioLink: https://www.ivoox.com/idiomas-metodo-ninja-para-aprenderlos-sin-remilgos_md_73301958_wp_1.mp3
 bibliography: ["palabras comunes del idioma objetivo"]
 ---
-[https://www.ivoox.com/idiomas-metodo-ninja-para-aprenderlos-sin-remilgos\_md\_73301958\_wp\_1.mp3](https://www.ivoox.com/idiomas-metodo-ninja-para-aprenderlos-sin-remilgos_md_73301958_wp_1.mp3)
-
 Hay muchos métodos para aprender idiomas rápido que prometen fluidez inmediata. La realidad es que estas grandes empresas **no harían mucho dinero** si nosotros (los alumnos), pudiéramos aprender una lengua en tiempo récord.
 
 Pero, **se puede hacer**.

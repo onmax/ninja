@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:27.056Z
 audioLink: https://www.ivoox.com/duchas-frias-para-vivir-100-anos_md_64651583_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/duchas-frias-para-vivir-100-anos\_md\_64651583\_wp\_1.mp3](https://www.ivoox.com/duchas-frias-para-vivir-100-anos_md_64651583_wp_1.mp3)
-
 Uno de los hábitos para vivir 100 años que mencioné, y que todos cruzamos los dedos para que no fuera muy relevante para ser inmortales fue… la **exposición al frío**.
 
 Pero no sólo nos mejora la longevidad. Con duchas a agua fría olvídate del café porque tendrás **foco y disciplina**. Dicen que incluso **aumenta la testosterona** pero… ¿es verdad?

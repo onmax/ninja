@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:57.300Z
 audioLink: https://www.ivoox.com/si-no-es-bitcoin-es-shitcoin_md_80707456_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/si-no-es-bitcoin-es-shitcoin\_md\_80707456\_wp\_1.mp3](https://www.ivoox.com/si-no-es-bitcoin-es-shitcoin_md_80707456_wp_1.mp3)
-
 Cuando digo que soy un maximialista Bitcoin, no me refiero a que Bitcoin va a ser la única criptomoneda que valga la pena. Me refiero a que es **la única que cumple la función de reserva de valor**. De oro digital.
 
 Claro que en este ecosistema tan nuevo como es el mercado de las criptomonedas, pueden haber varios jugadores que cumplan con funciones que aporten valor en sectores que hasta ahora ni nos habíamos podido imaginar, pero…

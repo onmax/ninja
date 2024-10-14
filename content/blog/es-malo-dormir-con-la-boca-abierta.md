@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:21:25.322Z
 audioLink: https://www.ivoox.com/cierra-maldita-boca_md_66060104_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/cierra-maldita-boca\_md\_66060104\_wp\_1.mp3](https://www.ivoox.com/cierra-maldita-boca_md_66060104_wp_1.mp3)
-
 Hace poco publicaba un tweet en el que listaba las cosas que, cuando las cumplo, hacen que duerma como un bebé.
 
 Bueno. La comparación del bebé nunca me ha parecido acertada porque los jodidos se levantan cada hora llorando. Vale. Digamos que un bebé no es la mejor analogía de un sueño profundo. Pero ya me entendéis.

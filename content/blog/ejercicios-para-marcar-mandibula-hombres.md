@@ -17,8 +17,6 @@ scrappedAt: 2024-10-14T09:19:40.008Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284012-44100-2-beb7046d72344291.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/52171781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284012-44100-2-beb7046d72344291.mp3](https://anchor.fm/s/98566448/podcast/play/52171781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284012-44100-2-beb7046d72344291.mp3)
-
 La mandíbula es seguramente el aspecto más importante de nuestro rostro por muchos motivos.
 
 El primero es que juega un papel clave como uno de los **estándares de belleza universal**, es decir, rasgos que las personas de todas las culturas y razas encuentran atractivos porque son indicadores de salud genética básica.

@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:25.759Z
 audioLink: https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/adios-exchange-hola-monedero\_md\_68748509\_wp\_1.mp3](https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3)
-
 Calvo, narizota, pálido, espárrago… Hay mil maneras de llamarme, pero no soy el único que tiene motes.
 
 El lugar donde «almacenamos» nuestros bitcoin le pasa lo mismo. Como si no fuera suficiente con el componente tecnológico que tiene BTC que encima tenemos que aprendernos tecnicismos… pero tranquilos que es un espejismo.

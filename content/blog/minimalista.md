@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:21:31.779Z
 audioLink: https://www.ivoox.com/mi-filosofi-769-a-minimalista_md_54287537_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/mi-filosofi-769-a-minimalista\_md\_54287537\_wp\_1.mp3](https://www.ivoox.com/mi-filosofi-769-a-minimalista_md_54287537_wp_1.mp3)
-
 La filosofía minimalista es saber identificar aquello que **realmente necesitamos y despojarnos de todo lo demás**.
 
 Así de simple.

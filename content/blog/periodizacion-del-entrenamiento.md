@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:25.295Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60618994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296952318-44100-2-f1fb4330acccb.mp3
 bibliography: ["Stone, M. H. PhD; O’Bryant, H. S.; Schilling, B. K.; Johnson, R. L.; Pierce, K. C. EdD, CSCS; Haff, G. Greg; Koch, A. J. MegStone, CSCS. Periodization: Effects Of Manipulating Volume And Intensity. Part 1. Strength and Conditioning Journal 21(2):p 56, April 1999.","Differences between natural training vs enhanced training Coach Christian Thibaudeau – Thibarmy"]
 ---
-[https://anchor.fm/s/98566448/podcast/play/60618994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296952318-44100-2-f1fb4330acccb.mp3](https://anchor.fm/s/98566448/podcast/play/60618994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296952318-44100-2-f1fb4330acccb.mp3)
-
 El otro día encontré unos vídeos en mi disco duro de mi progreso en el gimnasio de hace un año. Dije «c0ñ0, ¿tenía más músculo hace un año que ahora?»
 
 Al apuntármelo todo y documentarlo bien, fui a mirar rápidamente el tipo de entrenamiento que había estado siguiendo durante ese periodo antes de tomar las fotos y me quedé sorprendido de lo que vi.

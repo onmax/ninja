@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:19:41.443Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/81073527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F362901356-44100-2-c3716b27031dc.mp3
 bibliography: ["Seligman, M., Steen, T.A., Park, N., & Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. American Psychologist, 60(5), 410–421.","Peters, M. L., Flink, I. K., Boersma, K., & Linton, S. J. (2010). Manipulating optimism: Can imagining a best possible self be used to increase positive future expectancies? The Journal of Positive Psychology, 5(3), 204–211."]
 ---
-[https://anchor.fm/s/98566448/podcast/play/81073527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F362901356-44100-2-c3716b27031dc.mp3](https://anchor.fm/s/98566448/podcast/play/81073527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F362901356-44100-2-c3716b27031dc.mp3)
-
 Antes de pasar a ver cuáles son las mejores agendas minimalistas del mercado déjame decirte cuál es el mayor problema de los modelos que existen.
 
 La mayoría de agendas de productividad del mercado **son lo opuesto al minimalismo**.

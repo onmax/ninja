@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:09.322Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/67183159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-23%2F319905920-44100-2-a44c7f0d534ce.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/67183159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-23%2F319905920-44100-2-a44c7f0d534ce.mp3](https://anchor.fm/s/98566448/podcast/play/67183159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-23%2F319905920-44100-2-a44c7f0d534ce.mp3)
-
 ¿Roncas un poquito por la noche? ¿Te levantas cansado por la mañana? ¿Tienes ganas de dormir en el momento que subes en el transporte público o al detenerte en un semáforo cuando conduces?
 
 Todos estos (y algunos más que veremos) son [síntomas de la apnea del sueño](#Sintomas_de_que_tienes_apnea_del_sueno): no sólo una de las asesinas más silenciosas y mortales para la salud (especialmente de hombres), sino también de las enfermedades más **sutiles, descuidadas y incomprendidas** que existen.

@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:09.698Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68537269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F323710425-44100-2-e99a083daeafe.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/68537269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F323710425-44100-2-e99a083daeafe.mp3](https://anchor.fm/s/98566448/podcast/play/68537269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F323710425-44100-2-e99a083daeafe.mp3)
-
 No hay a penas (buen) material de cómo ligar en el gimnasio por la red, así que he decidido crearlo yo. Masticándolo y dároslo cual mamá pájaro en forma de pastilla de pura sabiduría.
 
 La sabiduría viene de la combinación de **teoría con experiencia** en la vida real, y sin que sea bueno o malo, de los hombres que conozco, incluso de los que conozco que hacen _daygame_, creo que soy el que más se ha centrado a entrar en frío en el gimnasio.

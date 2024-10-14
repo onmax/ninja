@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:00.303Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/71402979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-1%2F332787039-44100-2-62a26253df252.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/71402979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-1%2F332787039-44100-2-62a26253df252.mp3](https://anchor.fm/s/98566448/podcast/play/71402979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-1%2F332787039-44100-2-62a26253df252.mp3)
-
 Si estás metidos en el desarrollo personal seguro que te suena la palabra «ikigai». Un concepto japonés que occidente ha traducido **erróneamente** como «propósito».
 
 Desde 2014 circula un diagrama todo chulo que es una «verdad absoluta» entre los círculos de autoayuda. Haciendo que todo apasionado de la mejora personal salga al mundo a buscar su _ikigai_ como si fuera el One Piece.

@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:19:31.650Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86774471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693121-44100-2-203818239eff1.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/86774471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693121-44100-2-203818239eff1.mp3](https://anchor.fm/s/98566448/podcast/play/86774471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693121-44100-2-203818239eff1.mp3)
-
 Ninja de al vida, si eres un inversor te voy a volar la mente con una curiosidad.
 
 Y es que si coges un candelabro de los de antaño, lo pones a contraluz y miras su sombra, verás que la silueta que forma es muy similar a las velas que hay en los gráficos de análisis técnico.

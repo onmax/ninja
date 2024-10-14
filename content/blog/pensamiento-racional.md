@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:00.619Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/70595216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-18%2F330217663-44100-2-bc074d7792f78.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/70595216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-18%2F330217663-44100-2-bc074d7792f78.mp3](https://anchor.fm/s/98566448/podcast/play/70595216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-18%2F330217663-44100-2-bc074d7792f78.mp3)
-
 En occidente estamos viviendo una crisis.
 
 Una crisis economico-social que en mi opinión está fundamentada en una crisis de valores.

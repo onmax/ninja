@@ -15,8 +15,6 @@ scrappedAt: 2024-10-14T09:20:25.111Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59920593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294408616-44100-2-36bf43d0eea.mp3
 bibliography: []
 ---
-[https://anchor.fm/s/98566448/podcast/play/59920593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294408616-44100-2-36bf43d0eea.mp3](https://anchor.fm/s/98566448/podcast/play/59920593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294408616-44100-2-36bf43d0eea.mp3)
-
 Lo tengo todo a Bitcoin. Cuando he mencionado esta estrategia en las entrevistas que me han hecho otros creadores de contenido o incluso cuando lo dije en Televisión Nacional Española, me tacharon automáticamente de loco.
 
 Bueno. Cuando Bitcoin estaba arriba era un genio y cuando baja soy un kamikaze. La opinión de la gente es más volátil que el precio de Bitcoin, pero **yo soy impasible** y tengo la convicción que estoy haciendo lo correcto (de lo contrario no lo haría).

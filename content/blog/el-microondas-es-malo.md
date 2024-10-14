@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:58.636Z
 audioLink: https://www.ivoox.com/adios-microondas-ataque-radiaciones-emf_md_78275949_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/adios-microondas-ataque-radiaciones-emf\_md\_78275949\_wp\_1.mp3](https://www.ivoox.com/adios-microondas-ataque-radiaciones-emf_md_78275949_wp_1.mp3)
-
 Deja de usar tu maldito microondas.
 
 Voy a ir un paso más lejos.

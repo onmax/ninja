@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:51.797Z
 audioLink: https://www.ivoox.com/_md_83438303_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/\_md\_83438303\_wp\_1.mp3](https://www.ivoox.com/_md_83438303_wp_1.mp3)
-
 Más que un emprendedor siempre me había considerado un _wantrepreneur_. Un emprendedor _wanna-be_. Que quieres serlo, que tienes el gusanillo, que lo piensas constantemente, que tienes mil ideas… pero **nunca tomas acción**.
 
 Esto cambió en 2014 porque fue, no sólo cuando empecé a generar dinero online, sino a seguir una estrategia. Me pregunto si tendrá algo que ver \[ironía\].

@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:55.668Z
 audioLink: https://www.ivoox.com/nina-denny-madre-neandertal-pero-padre-denisovano_md_79110698_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/nina-denny-madre-neandertal-pero-padre-denisovano\_md\_79110698\_wp\_1.mp3](https://www.ivoox.com/nina-denny-madre-neandertal-pero-padre-denisovano_md_79110698_wp_1.mp3)
-
 Durante mucho tiempo pensamos que los neandertales eran humanos inferiores. Prrimitivos. Totalmente estúpidos. Que se movían como un mono o una girafa acabada de nacer.
 
 Criaturas sin ningún tipo de simbolismo, arte o casi emoción. Que sólo querían cazar.

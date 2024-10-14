@@ -13,8 +13,6 @@ scrappedAt: 2024-10-14T09:20:52.491Z
 audioLink: https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal_md_82811786_wp_1.mp3
 bibliography: []
 ---
-[https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal\_md\_82811786\_wp\_1.mp3](https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal_md_82811786_wp_1.mp3)
-
 Durante el verano de 2017 compré un dominio que cambió mi vida para siempre.
 
 Sin que la originalidad estuviera de mi lado a esas horas de la mañana, escribí mi nombre y le di al _enter_ después de poner mi nombre en el [buscador de dominios](https://pau.me/namecheap).
