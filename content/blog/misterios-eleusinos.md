@@ -1,34 +1,39 @@
 ---
-title: "Misterios eleusinos: la Biblia (no) mintió… fue mal interpretada Los milagros bíblicos son una copia de Eleusis"
+title: "Misterios eleusinos: la Biblia (no) mintió… fue mal interpretada"
+url: https://pau.ninja/misterios-eleusinos
+slug: misterios-eleusinos
+categories: 
+- slug: enigmas-de-la-historia
+    label: Enigmas de la historia
 image: misterios-eleusinos.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2022/08/misterios-eleusinos.jpg
 published: 2022-08-29T07:40:33+00:00
 modified: 2023-09-21T05:58:06+00:00
+scrappedAt: 2024-10-14T09:20:31.097Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/57011267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283756430-44100-2-d5b3ec0e2b5f3.mp3
-slug: misterios-eleusinos
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/57011267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283756430-44100-2-d5b3ec0e2b5f3.mp3](https://anchor.fm/s/98566448/podcast/play/57011267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283756430-44100-2-d5b3ec0e2b5f3.mp3)
 
 En el Antiguo Testamento el bueno de Moisés se encuentra con un arbusto ardiente. Es en ese lugar donde «es nombrado por Dios» para guiar los israelitas a la tierra prometida.
 
 Si no sois religioso pensaréis que esto nunca sucedió. ¿Cómo va a ser real que a un señor con barba se le aparezca un ser divino que le dice que tenía que hacer una locura?
 
-![Moisés y Zarza ardiente](https://pau.ninja/wp-content/uploads/2020/11/Moises-y-Zarza-ardiente.jpg)
+![Moisés y Zarza ardiente](./wp-content/uploads/2020/11Moises-y-Zarza-ardiente.jpg)
 
 Pero es que resulta que este arbusto ardiente era un [zarza](https://es.wikipedia.org/wiki/Zarza_ardiente). Una planta rica en DMT (dimetiltriptamina). La molécula psicodélica más potente que te pega un viaje de fuera de este mundo si inhales sus humos (recordemos que el arbusto estaba ardiendo).
 
 El DMT produce unas sensaciones y visiones increíblemente parecidas a las llamadas «experiencias cercanas a la muerte».
 
-![efectos psicodélicos](https://pau.ninja/wp-content/uploads/2020/11/efectos-psicodelicos.jpg)
+![efectos psicodélicos](./wp-content/uploads/2020/11efectos-psicodelicos.jpg)
 
 La llamada «molécula de Dios» también es [producida](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5021697/) **de forma natural** por la glándula pineal.
 
 Cuando estás a punto de palmarla es la producción natural de DMT que, no sólo nos haría flipar en colores y ver seres mágicos, sino que es lo que mantiene en vida a nuestras células en un último intento de aumentar su protección.
 
-Moisés no estaba muriendo, pero sí que estaba inhalando humos de DMT. Pues claro que vio un ser divino que le hablaba. Igual que cualquiera que tome [psicodélicos](https://pau.ninja/psicodelicos/).
+Moisés no estaba muriendo, pero sí que estaba inhalando humos de DMT. Pues claro que vio un ser divino que le hablaba. Igual que cualquiera que tome [psicodélicos](./psicodelicos).
 
-![religión y setas](https://pau.ninja/wp-content/uploads/2020/11/religion-y-setas.jpg)
+![religión y setas](./wp-content/uploads/2020/11religion-y-setas.jpg)
 
 Vamos a ver por qué los milagros de la Biblia son casualmente tan parecidos, a los que ya sucedían en Eleusis, Grecia, en el siglo 5 antes de Cristo.
 
@@ -40,33 +45,6 @@ Es decir, ¿estaba Moisés alucinando? ¿O los humos ricos en DMT le permitieron
 
 La conexión a otra «sintonía de realidad» es una teoría física plausible (#168), de que existen universos paralelos u otras realidades más allá de lo que podemos ver que además suceden al mismo tiempo, y los que bebieron la poción mágica de Eleusis sabían algo que nosotros no sabíamos.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué son los misterios eleusinos](#Que_son_los_misterios_eleusinos 'Qué son los misterios eleusinos')
-- [Libros sobre la teoría de Eleusis](#Libros_sobre_la_teoria_de_Eleusis 'Libros sobre la teoría de Eleusis')
-  - [The Immortality Key: The Secret History of the Religion with No Name](#The_Immortality_Key_The_Secret_History_of_the_Religion_with_No_Name 'The Immortality Key: The Secret History of the Religion with No Name')
-  - [The Sacred Mushroom and The Cross](#The_Sacred_Mushroom_and_The_Cross 'The Sacred Mushroom and The Cross')
-  - [The Road to Eleusis: Unveiling the Secret of the Mysteries](#The_Road_to_Eleusis_Unveiling_the_Secret_of_the_Mysteries 'The Road to Eleusis: Unveiling the Secret of the Mysteries')
-  - [Soma: el divino de la inmortalidad](#Soma_el_divino_de_la_inmortalidad 'Soma: el divino de la inmortalidad')
-- [Conexión de la Biblia con los misterios eleusinos](#Conexion_de_la_Biblia_con_los_misterios_eleusinos 'Conexión de la Biblia con los misterios eleusinos')
-  - [Símbolos de la eucaristia](#Simbolos_de_la_eucaristia 'Símbolos de la eucaristia')
-  - [Fresco medieval de Adán y Eva](#Fresco_medieval_de_Adan_y_Eva 'Fresco medieval de Adán y Eva')
-  - [Piñón del Vaticano](#Pinon_del_Vaticano 'Piñón del Vaticano')
-  - [Dionisio y Jesús](#Dionisio_y_Jesus 'Dionisio y Jesús')
-  - [Los milagros bíblicos](#Los_milagros_biblicos 'Los milagros bíblicos')
-- [Yacimientos históricos a favor de la teoría](#Yacimientos_historicos_a_favor_de_la_teoria 'Yacimientos históricos a favor de la teoría')
-  - [Bodega de vinos más antigua del mundo](#Bodega_de_vinos_mas_antigua_del_mundo 'Bodega de vinos más antigua del mundo')
-  - [Restos de psicoactivos en incienso](#Restos_de_psicoactivos_en_incienso 'Restos de psicoactivos en incienso')
-  - [Restos de Pompeya](#Restos_de_Pompeya 'Restos de Pompeya')
-  - [Kernos en la Necrópolis de Las Ruedas](#Kernos_en_la_Necropolis_de_Las_Ruedas 'Kernos en la Necrópolis de Las Ruedas')
-  - [Kernos en las ruinas de Ampurias](#Kernos_en_las_ruinas_de_Ampurias 'Kernos en las ruinas de Ampurias')
-  - [Cerámica para ritual en Mas Castellar de Pontós](#Ceramica_para_ritual_en_Mas_Castellar_de_Pontos 'Cerámica para ritual en Mas Castellar de Pontós')
-  - [Triptólemo encontrado en cerámica](#Triptolemo_encontrado_en_ceramica 'Triptólemo encontrado en cerámica')
-  - [Cáliz analizado en capilla doméstica](#Caliz_analizado_en_capilla_domestica 'Cáliz analizado en capilla doméstica')
-- [Misterios eleusinos como orígenes del cristianismo](#Misterios_eleusinos_como_origenes_del_cristianismo 'Misterios eleusinos como orígenes del cristianismo')
-
 ## Qué son los misterios eleusinos
 
 Platón, Marco Aurelio, Cicerón, **todos** visitaban Eleusis para **beber una poción mágica** y citando las palabras que Platón usó en su obra [Fedro](https://www.filosofia.org/cla/pla/img/azf02257.pdf) tener «una bendita vista y visión».
@@ -75,7 +53,7 @@ Eleusis fue el sitio donde las mentes más brillantes de Atenas y Roma iban a «
 
 Eleusis estaba allí mucho antes que Jerusalem. Antes que Roma. Antes que la Meca. Eleusis fue la capital espiritual del mundo antiguo donde todos estos personajes que tanto admiramos aseguran haber tenido encuentros directos con la diosa y «erradicar por completo su miedo a la muerte».
 
-![ritos Eleusis](https://pau.ninja/wp-content/uploads/2022/08/ritos-Eleusis.jpeg)
+![ritos Eleusis](./wp-content/uploads/2022/08ritos-Eleusis.jpeg)
 
 Eleusis era como el club de la lucha del mundo antiguo porque la primera regla de Eleusis era no hablar de Eleusis. Todo ocurría en secretismo, es por esto que hay poco más que testimonios fragmentados, pero a medida que las teorías van cogiendo fuerza, va saliendo más evidencia de lo que era, lo que no era y lo que terminó siendo.
 
@@ -101,13 +79,13 @@ Pulsa aquí para desplegar: en este apartado recomiendo libros que indagan en es
 
 Antes tengo que agradecer a los autores y expertos que me han iluminado, empezando por Brian Muraresku con su libro The Immortality Key que ha tardado más de una década en escribir.
 
-[![The Immortality Key: The Secret History of the Religion with No Name](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFelMxTldkR2RVTkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NjUxNQ=)](https://www.amazon.es/dp/1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Immortality Key: The Secret History of the Religion with No Name')
+[![The Immortality Key: The Secret History of the Religion with No Name](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFelMxTldkR2RVTkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU0OQ=)](https://www.amazon.es/dp1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Immortality Key: The Secret History of the Religion with No Name")
 
-[The Immortality Key: The Secret History of the Religion with No Name](https://www.amazon.es/dp/1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Immortality Key: The Secret History of the Religion with No Name')
+[The Immortality Key: The Secret History of the Religion with No Name](https://www.amazon.es/dp/1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Immortality Key: The Secret History of the Religion with No Name")
 
-29,44 €
+26,07 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 _Comparto el libro completo en la [comunidad](#unirse) en todos los formatos._
 
@@ -117,13 +95,13 @@ Ha sido gracias a Brian, su libro y sus entrevistas que he sacado montones de pu
 
 Pero los libros de Allegro son difíciles de leer porque está hecho para lingüistas. Por suerte para nosotros Brian lo es, y en su libro The Immortality Key lo hace en un lenguaje para ninjas de la vida de lo contrario sería difícil para nosotros leer el mejor libro de Allegro..
 
-[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NjUxNQ=)](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...')
+[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU0OQ=)](https://www.amazon.es/dp0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
-[The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...')
+[The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
-23,03 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+23,03 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Tras 14 años analizando la Biblia, Allegro concluyó que el cristianismo no es «verdad o mentira», sino una **mala** interpretación de los textos originales.
 
@@ -141,21 +119,21 @@ Pero uno de los argumentos que da el lingüista clásico americano [Carl Ruck](h
 
 Ahora mismo rebajado
 
-[![The Road to Eleusis: Unveiling the Secret of the Mysteries](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFNU5GbEtiMkp3YjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NjUxNQ=)](https://www.amazon.es/dp/1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Road to Eleusis: Unveiling the Secret of the Mysteries')
+[![The Road to Eleusis: Unveiling the Secret of the Mysteries](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFNU5GbEtiMkp3YjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU0OQ=)](https://www.amazon.es/dp1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Road to Eleusis: Unveiling the Secret of the Mysteries")
 
-[The Road to Eleusis: Unveiling the Secret of the Mysteries](https://www.amazon.es/dp/1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Road to Eleusis: Unveiling the Secret of the Mysteries')
+[The Road to Eleusis: Unveiling the Secret of the Mysteries](https://www.amazon.es/dp/1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Road to Eleusis: Unveiling the Secret of the Mysteries")
 
-17,02 €
+16,92 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-Por ejemplo en [Corintios 1:22](http://obispadodetenerife.es/nosotros-predicamos-a-cristo-crucificado/) que dice: «predicamos a cristo crucificado es un *escándalo* para los judíos y una _locura_ para los griegos».
+Por ejemplo en [Corintios 1:22](http://obispadodetenerife.es/nosotros-predicamos-a-cristo-crucificado/) que dice: «predicamos a cristo crucificado es un _escándalo_ para los judíos y una _locura_ para los griegos».
 
 En griego «skandalon» como una trampa, que pasado a arameo es una seta psicodélica. Y esa «locura para los griegos», la palabra locura se ha traducido de «moira» en griego es mandrágora. Otra planta psicodélica.
 
 ### Soma: el divino de la inmortalidad
 
-También en 1968 Robert Gordon Wasson publicaba el libro «Soma: Divine Mushroom of Immortality» después de consumir [psilocibina](https://pau.ninja/psicodelicos/#Psilocibina_o_setas_magicas) (el componente psicoactivo de las setas) en México.
+También en 1968 Robert Gordon Wasson publicaba el libro «Soma: Divine Mushroom of Immortality» después de consumir [psilocibina](./psicodelicos#Psilocibina_o_setas_magicas) (el componente psicoactivo de las setas) en México.
 
 Robert es catapultado al cielo con lo que describe como «la experiencia más real que ha tenido nunca». Con esto tiene una epifanía:
 
@@ -165,7 +143,7 @@ Justo después de esto, ¿sabéis con quien se pone en contacto? con [Albert Hof
 
 Los dos están en contacto y empiezan a hablar de cornezuelo (o ergot), un hongo parasítico muy común en la sociedad que afecta a los cereales y las plantas y que además… **es psicodélico**.
 
-De hecho el ergot es lo que usó [Albert Hoffman para crear LSD por error](https://pau.ninja/psicodelicos/#Acido_o_LSD). Un error afortunado. Otras personas que consumieron ergot por error no fueron tan afortunadas porque murieron intoxicadas.
+De hecho el ergot es lo que usó [Albert Hoffman para crear LSD por error](./psicodelicos#Acido_o_LSD). Un error afortunado. Otras personas que consumieron ergot por error no fueron tan afortunadas porque murieron intoxicadas.
 
 El ergot es responsable de episodios de delirio masivo en la historia europea porque claro, si eres un campesino (como la mayoría hace unos pocos cientos o miles de años), tienes un año extremadamente lluvioso, mojado, y el ergot te crece en los cereales.
 
@@ -181,7 +159,7 @@ Pensad en la versión más temprana de la iglesia. Pablo escribe básicamente la
 
 Escribe a los colosenses, a los gálatas, a los romanos, que lo que todos tienen en común es que hablan griego.
 
-La lingüística es importante porque es en griego las palabras que usa San Pablo y los demás para hablar de vino. Todos usan el griego para referirse al vino durante más de 1.000 años antes, durante, y después de Jesús. La palabra es… [_farmacon_](<https://en.wikipedia.org/wiki/Pharmakon_(philosophy)>). Que significa «droga», que es lo que usaría cualquier hablante de griego.
+La lingüística es importante porque es en griego las palabras que usa San Pablo y los demás para hablar de vino. Todos usan el griego para referirse al vino durante más de 1.000 años antes, durante, y después de Jesús. La palabra es… [_farmacon_](https://en.wikipedia.org/wiki/Pharmakon_\(philosophy\)). Que significa «droga», que es lo que usaría cualquier hablante de griego.
 
 El académico Ruth Scodel concluyó que se usaba el vino como una bebida con ciertos componentes. Como una **droga contra el dolor**. Un elixir medicinal que puede tanto curar como dañar. O simplemente un **sacramento** para ponerte en contacto con los «dioses del vino».
 
@@ -201,7 +179,7 @@ El fresco más antiguo que se conoce sobre Adán y Eva que harían nacer a toda 
 
 Ojo porque esta fruta está representada como **una seta** que si algunos micólogos dicen representar Amanita muscaria. Una seta alucinógena.
 
-![fresco adán eva](https://pau.ninja/wp-content/uploads/2022/08/fresco-adan-eva.jpeg)
+![fresco adán eva](./wp-content/uploads/2022/08fresco-adan-eva.jpeg)
 
 Incluso la famosa serpiente «astuta» de la historia [tiene similitudes](https://www.atlasobscura.com/articles/muscaria-hallucinogenic-mushroom-fresco) con el mundo psicodélico, porque por ejemplo en la Ayahuasca es común que los que experimentan con ella les aparezca una diosa. Esta diosa aparece o bien en cuerpo humano, o en cuerpo de un animal. Adivinad cuál. De serpiente.
 
@@ -209,7 +187,7 @@ Podéis buscar estas imágenes tempranas del cristianismo y veréis que la forma
 
 Por esto se ve a las obras tempranas se ven muchísimas más setas, pero va pasando el tiempo y estos objetos se convierten en cosas más tangibles para los que no consumen psicodélicos.
 
-![religión y setas](https://pau.ninja/wp-content/uploads/2020/11/religion-y-setas.jpg)
+![religión y setas](./wp-content/uploads/2020/11religion-y-setas.jpg)
 
 Del rollo una puerta detrás de alguien en forma de seta, o la aureolas de los santos y Jesús, que derivarían de la forma circular de la seta, etc.
 
@@ -221,7 +199,7 @@ Si somos capaces de crear DMT en el cerebro de forma natural, quizás no sea coi
 
 Un monumento que parece que no pinte nada porque sin comerlo ni beberlo tienen una estatua de una maldita piña plantada allí en medio. Es tan antigua que no hay nadie que este vivo para asegurar para qué representa.
 
-![vaticano monumento glándula pineal](https://pau.ninja/wp-content/uploads/2022/08/vaticano-monumento-glandula-pineal.jpeg)
+![vaticano monumento glándula pineal](./wp-content/uploads/2022/08vaticano-monumento-glandula-pineal.jpeg)
 
 ¿La especulación? que representa la glándula pineal, protegida por pavos reales que representan la vida eterna. Se cree que la glándula pineal es la entrada del alma y es el lugar donde el cerebro produce DMT (la molécula psicodélica) de forma natural cuando estás a punto de morir (cuando las células tienen menos de 0,5% de oxígeno).
 
@@ -237,7 +215,7 @@ Vamos, que la historia de Jesús es una copia de Dionisio que ya se contaba desd
 
 En la historia de Dionisio **su sangre** está asociada a su vino. No como una bebida alcohólica, sino como una bebida en la que se **consume al propio dios**.
 
-![comiendo y bebiendo a Dioniso](https://pau.ninja/wp-content/uploads/2022/08/comiendo-y-bebiendo-a-Dioniso.jpeg)
+![comiendo y bebiendo a Dioniso](./wp-content/uploads/2022/08comiendo-y-bebiendo-a-Dioniso.jpeg)
 
 Imagen: personas comiendo la carne y la sangre de Dionisio… esta historia me suena.
 
@@ -264,7 +242,7 @@ Una de las primeras iglesias del mundo está a solo 1 hora de Eleusis porque los
 
 En uno de los escritos que San Pablo manda a esa iglesia en particular, está [enfadado](https://wol.jw.org/es/wol/l/r4/lp-s?q=it-1+459%3B+it-2+523%3B+w16.01+23%3B+w15+15%2F1+15%2C+16%3B+w03+15%2F2+17-19%3B+w96+1%2F4+6-8) por consumen la **eucaristía equivocada** y esta es la razón por la que están «mentalmente y espiritualmente dormidos» como él dice.
 
-![texto bíblico en griego](https://pau.ninja/wp-content/uploads/2022/08/texto-biblico-en-griego.jpg)
+![texto bíblico en griego](./wp-content/uploads/2022/08texto-biblico-en-griego.jpg)
 
 Lo interesante es que Brian Muraresku nos muestra que la palabra en griego que se utiliza para deicr «dormirse», koimao (κοιμάω) **no significa dormirse**, sino que significa **morir**.
 
@@ -293,7 +271,7 @@ Los primeros autores simplemente especularon de que contuviera esto, pero ya no 
 
 Hace muy pocos años (sólo en 2007), [descubrían](https://www.sci.news/archaeology/science-wine-cellar-israel-01568.html#:~:text=Archaeologists%20digging%20at%20the%20archaeological,cellar%20in%20the%20Near%20East.) la bodega de vinos más antigua del mundo en Tel Kabri. El norte de Israel.
 
-![vino enterrado](https://pau.ninja/wp-content/uploads/2022/08/vino-enterrado.jpg)
+![vino enterrado](./wp-content/uploads/2022/08vino-enterrado.jpg)
 
 Además es que estas recetas se mandaban a Egipto donde algunos ya especularon que desde las primeras dinastías usaban psicodélicos y por esto hay esta fascinación por la muerte y seres medio animales medio humanos. Unas entes que te aparecen en estas visiones psicodélicas.
 
@@ -311,7 +289,7 @@ Los resultados devolvieron restos de THC, CBD y CBN. Siglas que se traducen en m
 
 Dicen que es el primer ejemplo de substancias psicoactivas que se ha encontrado en la historia por ahora. Así que imaginaros estar en un templo haciendo un ritual, y quien dirige el rito va esparciendo humos psicodélicos con un incensario… **la misma rutina que los curas** siguen hoy en día.
 
-![ritual con incensario](https://pau.ninja/wp-content/uploads/2022/08/ritual-con-incensario.jpeg)
+![ritual con incensario](./wp-content/uploads/2022/08ritual-con-incensario.jpeg)
 
 Igual que la eucaristía, aunque ahora los productos usados sean puramente placebos no es difícil especular que vienen de ritos con substancias muchas más fuertes y que te harían ver seres divinos.
 
@@ -335,7 +313,7 @@ La gente no es consciente de hasta donde se extendió la cultura griega en esta 
 
 Es en la [Necrópolis de Las Ruedas](https://pintiavaccea.es/seccion/la-necropolis-de-las-ruedas-estelas-y-tumbas), en Valladolid, que encuentran no hace mucho kernos **griegas** (como vasijas) del siglo II antes de Cristo. Teniendo en cuenta que era una sociedad pre-romana (la civilización vaccea). ¿Qué hacen allí kernos griegas?
 
-![kernos en iberia](https://pau.ninja/wp-content/uploads/2022/08/kernos-en-iberia.jpeg)
+![kernos en iberia](./wp-content/uploads/2022/08kernos-en-iberia.jpeg)
 
 Lo interesante es que esta especie de cántaros encontrados, tienen como un mini cántaro adjuntado a la misma pieza.
 
@@ -355,7 +333,7 @@ Si viajamos hacia mi tierra natal, Cataluña, encontramos otro yacimiento que no
 
 Allí también encuentran otro de [estos](http://www.macempuries.cat/ca/Col-leccions/Col-leccio-en-3D/Mon-grec/Kernos) kernos, cántaros griegos con la particularidad de mini-recipientes en uno supuestamente para controlar las proporciones.
 
-![kernos griego Emporion](https://pau.ninja/wp-content/uploads/2022/08/kernos-griego-emporion.jpeg)
+![kernos griego Emporion](./wp-content/uploads/2022/08kernos-griego-emporion.jpeg)
 
 De nuevo, ¿qué hacen ahí kernos griegos para rendir culto espiritual con substancias raras?
 
@@ -363,7 +341,7 @@ Emporion en griego significa «[lugar de intercambio](https://www.jstor.org/stab
 
 Si miráis fotos de lo que son las rutinas de Ampurias de hoy, se podrían confundir perfectamente con cualquier isla griega. De hecho sigue presente una estatua del siglo 5 antes de Cristo de [Asclepio](https://es.wikipedia.org/wiki/Asclepio): el dios griego de la «medicina».
 
-![Asclepio en Empúries](https://pau.ninja/wp-content/uploads/2022/08/Asclepio-en-empuries.jpg)
+![Asclepio en Empúries](./wp-content/uploads/2022/08Asclepio-en-empuries.jpg)
 
 En estos yacimientos se encuentran monedas y arte de Perséfone: la diosa del inframundo. La misma diosa que los que se iniciaban en Eleusis se «encontraban» cuando bebían la poción mágica.
 
@@ -379,7 +357,7 @@ Es en una pequeña granja en un pueblecito de poco más de 200 habitantes llamad
 
 En Mas Castellar encuentran montones de instrumentos de rituales, como para incenso psicodélicos, o komos (una especie de cántaro) con arte representando a la veneración del dios Dionisio en un desfile de griegos borrachos.
 
-![komos griego](https://pau.ninja/wp-content/uploads/2022/08/komos-griego.jpeg)
+![komos griego](./wp-content/uploads/2022/08komos-griego.jpeg)
 
 Por si no fueran pocas las cosas que apuntaban a los ritos con psicodélicos, todo se vuelve más raro aún.
 
@@ -391,7 +369,7 @@ Pero es que este señor es originario de Eleusis, ¿qué hace en España? Segú
 
 La teoría que seguimos diría que estaba allí no para enseñar **a cultivar** los cereales, sino para enseñar a cultivar **lo que crece** en los cereales: el ergot. El cornezuelo del centeno.
 
-![triptólemo en alt empordà](https://pau.ninja/wp-content/uploads/2022/08/triptolemo-en-alt-emporda.jpeg)
+![triptólemo en alt empordà](./wp-content/uploads/2022/08triptolemo-en-alt-emporda.jpeg)
 
 Si algo nos dice este misionero, es que los misterios eleusinos siguieron su curso hacia el oeste. Lo que es medio raro porque celebrar los misterios elusinos fuera de Eleusis estaba muy penado. Era un sacrilegio. Se llamaba «la profanación de los misterios».
 
@@ -409,7 +387,7 @@ Aún tenemos más confirmaciones cuando vemos todo lo que los arqueólogos encue
 
 También encuentran como 10 cántaros griegos asociados al uso **exclusivo** del dios Dionisio para beber su «poción mágica».
 
-![cáliz Dionisio](https://pau.ninja/wp-content/uploads/2022/08/caliz-Dionisio.jpeg)
+![cáliz Dionisio](./wp-content/uploads/2022/08caliz-Dionisio.jpeg)
 
 Foto: el tamaño del cáliz es pequeño para que no te pases…
 
@@ -420,8 +398,6 @@ A mitad de los 90 cuando descubrieron esto, Enriqueta llama a un arqueobotánico
 Estos autores han creído con convicción que fue la experiencia de psicodélicos, que han sido parte de la cultura durante miles de años en virtualmente todas las culturas (no importa si es en el Amazonas o en África), que han nutrido los impulsos de vivir, las experiencias.
 
 Desde el arte de las cavernas (extrañamente psicodélico y todo parecido sea donde sea la cueva que lo encuentras), hasta las ideas místicas de las religiones desde los antiguos Egiptos pasando por el cristianismo actual.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 ¿De dónde obtienes la idea de «el más allá»? ¿De dónde sacas la idea de un cielo o infierno si no es de un estado alterado de consciencia?
 
@@ -436,3 +412,93 @@ Los mismos griegos usaron el [ciceón](https://es.wikipedia.org/wiki/Cice%C3%B3n
 El hongo ergot es muy tóxico por si solo. Hasta el punto que si lo consumes en tu cosecha húmeda te puede pillar gangrena o cosas peores, y aunque el bueno de Hoffman lo aisló por pura coincidencia para crear LSD, se especula que los griegos también encontraron una manera de aislar la partícula psicodélica del ergo en su vino.
 
 Por esto pienso que es más que plausible que estas substancias hayan participado en el desarrollo y transcurso de la religión.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Enigmas de la historia](./enigmas-de-la-historia)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/misterios-eleusinos/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":15867,"title":"%E3%80%90Misterios%20eleusinos%E3%80%91%20%C2%BFEl%20origen%20del%20cristianismo%3F","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/08\\/misterios-eleusinos.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,13 +1,18 @@
 ---
-title: "Cómo hacer un podcast 8 consejos que me llevaron a los 2 millones"
+title: "Cómo hacer un podcast"
+url: https://pau.ninja/como-hacer-un-podcast
+slug: como-hacer-un-podcast
+categories: 
+- slug: negocios
+    label: Negocios
 image: persona-grabando-podcast.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/05/persona-grabando-podcast.jpeg
 published: 2022-05-17T06:39:01+00:00
 modified: 2023-10-06T05:29:32+00:00
-audioLink:
-slug: como-hacer-un-podcast
+scrappedAt: 2024-10-14T09:20:40.344Z
+audioLink: 
+bibliography: []
 ---
-
 Para celebrar que el podcast ha pasado los **dos millones de escuchas** he decidido explicar un poco de las entrañas del funcionamiento.
 
 Un día le di a «grabar» a la aplicación de mi móvil de 170€ y dejé que mi mente de mono saltara con lo que quisiera.
@@ -24,7 +29,7 @@ Y eso sin contar la dislexia que tengo leyendo o soltando mil palabras tan inút
 
 ¿Me ves aquí tan contento en un estudio de podcast como Dios manda?
 
-![grabando podcast](https://pau.ninja/wp-content/uploads/2021/02/grabando-podcast.jpeg)
+![grabando podcast](./wp-content/uploads/2021/02grabando-podcast.jpeg)
 
 Pues bien hoy me sigo grabando con ese móvil de 170€ porque nunca estoy más de unos pocos meses en un sitio.
 
@@ -48,25 +53,11 @@ Crear un podcast premium…
 
 O seguir ofreciéndolo **100% gratis gracias a ti**.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Pasos para crear un podcast desde cero](#Pasos_para_crear_un_podcast_desde_cero 'Pasos para crear un podcast desde cero')
-  - [Elegir la temática del podcast](#Elegir_la_tematica_del_podcast 'Elegir la temática del podcast')
-  - [Definir la audiencia objetivo](#Definir_la_audiencia_objetivo 'Definir la audiencia objetivo')
-  - [Comprar el equipo necesario](#Comprar_el_equipo_necesario 'Comprar el equipo necesario')
-  - [Definir la estructura del podcast](#Definir_la_estructura_del_podcast 'Definir la estructura del podcast')
-  - [Grabar y editar episodios](#Grabar_y_editar_episodios 'Grabar y editar episodios')
-  - [Subir capítulos en plataformas](#Subir_capitulos_en_plataformas 'Subir capítulos en plataformas')
-  - [Crecimiento de audiencia](#Crecimiento_de_audiencia 'Crecimiento de audiencia')
-  - [Monetizar el podcast](#Monetizar_el_podcast 'Monetizar el podcast')
-
 ## Pasos para crear un podcast desde cero
 
 Hay muchas maneras de hacer un podcast, pero sólo una para hacerlo de la forma ninja más auténtica. Como siempre he dicho, para despuntar en algo sólo hay tres maneras de hacerlo: ser el primero, el mejor o hacerlo notablemente diferente.
 
-![tweet sobre éxito](https://pau.ninja/wp-content/uploads/2021/02/tweet-exito.png)
+![tweet sobre éxito](./wp-content/uploads/2021/02tweet-exito.png)
 
 Ser el primero o el mejor es la parte chunga, pero darle nuestro toque, esto ya si es más fácil porque nos sale de dentro.
 
@@ -82,7 +73,7 @@ Podríamos intentar tirar por un podcast de comedia porque según las [estadíst
 
 O podríais hacer como yo.
 
-![cómic podcast](https://pau.ninja/wp-content/uploads/2021/02/comic-podcast.png)
+![cómic podcast](./wp-content/uploads/2021/02comic-podcast.png)
 
 Que al principio creé un podcast que trataba sólo de finanzas, empezó a tener una tracción importante, con interés de audiencia y patrocinadores y… lo cerré para abrir el de Pau Ninja.
 
@@ -116,7 +107,7 @@ Es tentador perderse en las armas: micrófonos, programas de suscripción, inter
 
 ¿Sabéis cuál es mi teoría? que todo esto es procrastinación. Tonterías que substituyen la verdadera esencia del podcast: **creación de contenido**.
 
-![grabando podcast de pau ninja](https://pau.ninja/wp-content/uploads/2021/02/grabando-podcast-de-pau-ninja.jpeg)
+![grabando podcast de pau ninja](./wp-content/uploads/2021/02grabando-podcast-de-pau-ninja.jpeg)
 
 Foto: grabando en Croacia uno de los primeros episodios con mi gestor de Estonia. Pero no os dejéis engañar por las apariencias. El equipo no era nuestro y ni siquiera nos dejaron usarlo (sólo hacer una foto). Grabamos el episodio con un móvil de 170€, como todos mis otros episodios hasta que llegué a las 270.000 escuchas.
 
@@ -131,7 +122,7 @@ Personalmente grabé **más de 130 episodios** con:
 - Conexión a internet.
 - Un ordenador con software de edición.
 
-🎙 Si te interesa saber el material que utilizo, [aquí tienes mi equipo de podcast](https://pau.ninja/equipo-para-grabar-podcast/) actual.
+🎙 Si te interesa saber el material que utilizo, [aquí tienes mi equipo de podcast](./equipo-para-grabar-podcast) actual.
 
 Y me diréis, «pero Pau, esto no es gratis». Claro, pero todo el mundo tiene este equipo sin necesidad de tener un podcast, así que virtualmente son cero euros.
 
@@ -171,7 +162,7 @@ Por esto, cuando hagamos un episodio piloto o una semana, lo que grabamos tiene 
 
 Los podcast que hagamos podrían ser fáciles de crear, largos y buenos, pero el truco está en que **sólo podemos elegir dos** de estas características para poderlo hacer sostenible.
 
-![estructura de podcast](https://pau.ninja/wp-content/uploads/2021/02/estructura-de-podcast.png)
+![estructura de podcast](./wp-content/uploads/2021/02estructura-de-podcast.png)
 
 Podemos tener episodios buenos y largos pero difícil de crear. O rápidos de crear y largos pero que no sean muy buenos. O finalmente Fáciles de crear, buenos pero no podrán ser largos.
 
@@ -203,7 +194,7 @@ Aún así, sí que tengo que decir que utilizo mayoritariamente Zoom porque tamb
 
 Una vez en invitado está en la reunión, en las opciones selecciono «Vista > Galería» porqué así se ven las dos cámaras **a la vez** y no sólo de la persona que está hablando (como hacía yo antes). Me gusta mucho más si voy a [grabarlo en vídeo](#Bonus_equipo_de_videopodcast) para YouTube porque se sigue mucho mejor la conversación.
 
-![ver galería en Zoom](https://pau.ninja/wp-content/uploads/2021/02/ver-galeria-en-zoom.jpg)
+![ver galería en Zoom](./wp-content/uploads/2021/02ver-galeria-en-zoom.jpg)
 
 En mi charla con Mario Luna fue una de las primeras veces que utilicé la vista de galería.
 
@@ -214,7 +205,7 @@ A parte de esto les pido dos cosas a los invitados:
 
 Para hacer este trabajo más fácil lo que hago es seleccionar «grabar un archivo de audio separado por participante» que se encuentra en la opción de «Grabando» dentro de «configuración» en Zoom.
 
-![grabar audio separado](https://pau.ninja/wp-content/uploads/2021/02/grabar-audio-separado.png)
+![grabar audio separado](./wp-content/uploads/2021/02grabar-audio-separado.png)
 
 Lógicamente esta opción tiene que estar seleccionada antes de darle al botón de grabar a la charla.
 
@@ -233,7 +224,7 @@ Aunque como muchos sabéis, la mitad de mis episodios son en solitario. Así que
 
 Y a parte de grabar directamente con el micrófono al ordenador, también nos servirán para editar nuestros episodios.
 
-![audacity edición podcast](https://pau.ninja/wp-content/uploads/2021/02/audacity-edicion-podcast.png)
+![audacity edición podcast](./wp-content/uploads/2021/02audacity-edicion-podcast.png)
 
 Audacity es muy intuitivo de usar, y como todo Dios lo tiene hay montones de tutoriales y vídeos explicativos en el caso de que tengamos dudas.
 
@@ -260,7 +251,7 @@ Pos claro.
 
 Escrito y youtube, claro.
 
-![estadísticas podcast](https://pau.ninja/wp-content/uploads/2021/02/estadisticas-podcast.png)
+![estadísticas podcast](./wp-content/uploads/2021/02estadisticas-podcast.png)
 
 Comor.
 
@@ -290,3 +281,83 @@ Y no hace falta decir que podemos combinar estas formas de monetizar. No sólo t
 Tal vez lo que hemos ganado monetizando el podcast lo podemos **reinvertir** en [delegar la edición](#edicion), los guiones o comprando (por fin) un equipo para grabar el podcast de una forma más profesional.
 
 Pudiendo dejar por fin de grabar con nuestro con nuestra grabadora del teléfono. Pero ya sea antes o después, algo de pasta nos tendremos que dejar en el material para crear y grabar el podcast.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Negocios](./negocios)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/como-hacer-un-podcast/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14339,"title":"8%20pasos%20%2B%203%20consejos%20para%20hacer%20un%20podcast%20de%20%C3%89XITO","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/05\\/persona-grabando-podcast.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

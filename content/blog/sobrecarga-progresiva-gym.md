@@ -1,13 +1,18 @@
 ---
-title: "Sobrecarga progresiva grandes mejoras, pequeños pasos (+15 estudios)"
+title: "Sobrecarga progresiva"
+url: https://pau.ninja/sobrecarga-progresiva-gym
+slug: sobrecarga-progresiva-gym
+categories: 
+- slug: fitness
+    label: Fitness
 image: resultados-de-sobrecarga-progresiva-en-gym.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/03/resultados-de-sobrecarga-progresiva-en-gym.jpeg
 published: 2024-08-02T00:33:06+00:00
 modified: 2024-08-12T04:08:55+00:00
+scrappedAt: 2024-10-14T09:19:02.363Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283854-44100-2-106d546d0279e7ba.mp3
-slug: sobrecarga-progresiva-gym
+bibliography: ["Ahtiainen, J. P., Pakarinen, A., Alen, M., Kraemer, W. J., & Häkkinen, K. (2003). Muscle hypertrophy, hormonal adaptations and strength development during strength training in strength-trained and untrained men. European journal of applied physiology, 89(6), 555-563.","Kraemer, W. J., & Ratamess, N. A. (2004). Fundamentals of resistance training: progression and exercise prescription. _Medicine and science in sports and exercise_, 36(4), 674-688.","Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. _Journal of strength and conditioning research_, 24(10), 2857-2872.","Kohrt, W. M., Ehsani, A. A., & Birge, S. J. (1997). Effects of exercise involving predominantly either joint-reaction or ground-reaction forces on bone mineral density in older women. _Journal of Bone and Mineral Research_, 12(8), 1253-1261.","Hunter, G. R., Byrne, N. M., Sirikul, B., Fernandez, J. R., Zuckerman, P. A., Darnell, B. E., & Gower, B. A. (2008). Resistance training conserves fat-free mass and resting energy expenditure following weight loss. _Obesity_, 16(5), 1045-1051.","Garber, C. E., Blissmer, B., Deschenes, M. R., Franklin, B. A., Lamonte, M. J., Lee, I. M., … & Swain, D. P. (2011). Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. _Medicine & Science in Sports & Exercise_, 43(7), 1334-1359.","Shrier, I. (2004). Does stretching improve performance? A systematic and critical review of the literature. _Clinical Journal of Sport Medicine_, 14(5), 267-273.","“What Is Homeostasis?” 2000. Scientific American.","Nelson DL, Cox MM. Lehninger. Principios de Bioquímica. 5ª Ed. Ediciones Omega. 2007, Barcelona.","Wackerhage, H., & Rennie, M. J. (1996). How nutrition and exercise maintain the human musculoskeletal mass. Journal of Anatomy, 189(Pt 4), 515-526.","Schoenfeld, B. J. (2013). Potential mechanisms for a role of metabolic stress in hypertrophic adaptations to resistance training. Sports Medicine, 43(3), 179-194.","Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872.","Enoka, R. M. (2008). Neuromechanics of Human Movement. Human Kinetics.","Henneman, E., & Olson, C. B. (1965). Relations between Structure and Function in the Design of Skeletal Muscles. Journal of Neurophysiology, 28(3), 581-598.","Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872.","Wernbom, M., Augustsson, J., & Thomeé, R. (2007). The influence of frequency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Medicine, 37(3), 225-264."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283854-44100-2-106d546d0279e7ba.mp3](https://anchor.fm/s/98566448/podcast/play/52171670/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283854-44100-2-106d546d0279e7ba.mp3)
 
 Dice la leyenda que hace unos 2.500 años, en las praderas montañosas del sur de Italia, existió un hombre con un atletismo y una fuerza increíble.
@@ -18,7 +23,7 @@ Había ganado montones de competiciones, incluyendo seis veces los Juegos Olímp
 
 Aunque creo que lo más sorprendente es el hecho que no muriera devorado por lobos un día que se le enganchó la mano en un tronco en el bosque…
 
-![milón y los lobos](https://pau.ninja/wp-content/uploads/2022/03/milon-y-los-lobos.jpg)
+![milón y los lobos](./wp-content/uploads/2022/03milon-y-los-lobos.jpg)
 
 Pero si Milón de Crotona es hoy leyenda, no es por su historia con los lobos, sino por su cuerpo y filosofía de entreno.
 
@@ -30,7 +35,7 @@ No creo que de aquí salga el ejercicio de»el paseo del granjero», pero deber�
 
 El caso es que Milón lo transportó de casa su vecino a su casa. El día siguiente hizo lo mismo, y el siguiente, y el siguiente.
 
-![milón de crotona](https://pau.ninja/wp-content/uploads/2022/03/milon-de-crotona.jpeg)
+![milón de crotona](./wp-content/uploads/2022/03milon-de-crotona.jpeg)
 
 Milón levantó al ternero diariamente durante cuatro años, pero lógicamente con el paso del tiempo es ternero se había convertido en un toro.
 
@@ -42,29 +47,7 @@ Esta leyenda ilustra el componente que nos hace mejorar en el gimnasio o en la c
 
 En ir, poco a poco, paso a paso, adaptando los músculos a mejoras de forma sutil.
 
-Aunque hoy no tiraremos por leyendas sino de estudios, en esta fábula se encapsulan los pilares de la progresión en el entrenamiento y de [cómo ganar masa muscular](https://pau.ninja/como-ganar-masa-muscular-rapido/) y fuerza.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es la sobrecarga progresiva](#Que_es_la_sobrecarga_progresiva 'Qué es la sobrecarga progresiva')
-  - [Por qué necesitamos sobrecarga progresiva](#Por_que_necesitamos_sobrecarga_progresiva 'Por qué necesitamos sobrecarga progresiva')
-  - [Beneficios de la sobrecarga progresiva](#Beneficios_de_la_sobrecarga_progresiva 'Beneficios de la sobrecarga progresiva')
-  - [Considera la curva SRA](#Considera_la_curva_SRA 'Considera la curva SRA')
-  - [Progresión de cargas en hipertrofia](#Progresion_de_cargas_en_hipertrofia 'Progresión de cargas en hipertrofia')
-- [Cómo hacer sobrecarga progresiva](#Como_hacer_sobrecarga_progresiva 'Cómo hacer sobrecarga progresiva')
-  - [Aumentar el peso](#Aumentar_el_peso 'Aumentar el peso')
-  - [Aumentar las repeticiones](#Aumentar_las_repeticiones 'Aumentar las repeticiones')
-  - [Aumentar las series](#Aumentar_las_series 'Aumentar las series')
-- [Ejemplos de sobrecarga progresiva](#Ejemplos_de_sobrecarga_progresiva 'Ejemplos de sobrecarga progresiva')
-  - [Progresión simple](#Progresion_simple 'Progresión simple')
-  - [Progresión doble](#Progresion_doble 'Progresión doble')
-  - [Progresión triple](#Progresion_triple 'Progresión triple')
-  - [Subiendo una repetición](#Subiendo_una_repeticion 'Subiendo una repetición')
-  - [Aplicando la regla 2x2](#Aplicando_la_regla_2x2 'Aplicando la regla 2x2')
-  - [Subiendo series y repeticiones](#Subiendo_series_y_repeticiones 'Subiendo series y repeticiones')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
+Aunque hoy no tiraremos por leyendas sino de estudios, en esta fábula se encapsulan los pilares de la progresión en el entrenamiento y de [cómo ganar masa muscular](./como-ganar-masa-muscular-rapido) y fuerza.
 
 ## Qué es la sobrecarga progresiva
 
@@ -78,13 +61,13 @@ Sin un estimulo que sea pequeño (para que sea manejable para el cuerpo para cre
 - **Frecuencia**: entrenar más veces a la semana.
 - **Tensión continua**: aumentar el tiempo bajo tensión, como reducir el tiempo de descanso entre series.
 
-Mira mi artículo sobre si deberíamos [entrenar por tiempo o por repeticiones](https://pau.ninja/entrenar-por-tiempo-o-por-repeticiones/) según varios estudios. Verás que ir a contra reloj es una fórmula muy válida (e infravalorada) para progresar.
+Mira mi artículo sobre si deberíamos [entrenar por tiempo o por repeticiones](./entrenar-por-tiempo-o-por-repeticiones) según varios estudios. Verás que ir a contra reloj es una fórmula muy válida (e infravalorada) para progresar.
 
 El objetivo es evitar el estancamiento y seguir desafiando al cuerpo. Es como subir una escalera, donde cada peldaño es un pequeño incremento en la intensidad de entreno.
 
 No puedes subir 10 escaleras de golpe, sino que tienes que ir una a una para que el cuerpo no le suponga un desafío tan brutal que pueda ir adaptándose.
 
-La sobrecarga progresiva es un principio respaldado por la ciencia. Con estudios demostrando que para seguir mejorando, necesitamos hacer los entrenamiento más difíciles _progresivamente_.[1](<javascript:void(0)>)Ahtiainen, J. P., Pakarinen, A., Alen, M., Kraemer, W. J., & Häkkinen, K. (2003). Muscle hypertrophy, hormonal adaptations and strength development during strength training in strength-trained and untrained men. European journal of applied physiology, 89(6), 555-563.
+La sobrecarga progresiva es un principio respaldado por la ciencia. Con estudios demostrando que para seguir mejorando, necesitamos hacer los entrenamiento más difíciles _progresivamente_.[ref-1](#ref-1){.ref}
 
 ### Por qué necesitamos sobrecarga progresiva
 
@@ -104,12 +87,12 @@ La sobrecarga progresiva no se trata sólo de poner un poquito más de peso en l
 
 O sea que la progresión de Milón de Crotona no era debido únicamente a que su ternero iba aumentando de peso a diario, si no porque aumentaba esa tensión y resistencia.
 
-- **Aumento de fuerza:** con esto al añadir peso o aumentar la intensidad los músculos tienen que trabajar más.[2](<javascript:void(0)>)Kraemer, W. J., & Ratamess, N. A. (2004). Fundamentals of resistance training: progression and exercise prescription. _Medicine and science in sports and exercise_, 36(4), 674-688.
-- **Mejora de masa muscular:** porque [estimulamos la síntesis proteica muscular](https://pau.ninja/sintesis-proteica-muscular/) (#579).[3](<javascript:void(0)>)Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. _Journal of strength and conditioning research_, 24(10), 2857-2872.
-- **Aumento de densidad ósea**.[4](<javascript:void(0)>)Kohrt, W. M., Ehsani, A. A., & Birge, S. J. (1997). Effects of exercise involving predominantly either joint-reaction or ground-reaction forces on bone mineral density in older women. _Journal of Bone and Mineral Research_, 12(8), 1253-1261.
-- **Mejora del metabolismo**.[5](<javascript:void(0)>)Hunter, G. R., Byrne, N. M., Sirikul, B., Fernandez, J. R., Zuckerman, P. A., Darnell, B. E., & Gower, B. A. (2008). Resistance training conserves fat-free mass and resting energy expenditure following weight loss. _Obesity_, 16(5), 1045-1051.
-- **Mejora de la resistencia y la capacidad cardiovascular**.[6](<javascript:void(0)>)Garber, C. E., Blissmer, B., Deschenes, M. R., Franklin, B. A., Lamonte, M. J., Lee, I. M., … & Swain, D. P. (2011). Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. _Medicine & Science in Sports & Exercise_, 43(7), 1334-1359.
-- **Prevención de lesiones**.[7](<javascript:void(0)>)Shrier, I. (2004). Does stretching improve performance? A systematic and critical review of the literature. _Clinical Journal of Sport Medicine_, 14(5), 267-273.
+- **Aumento de fuerza:** con esto al añadir peso o aumentar la intensidad los músculos tienen que trabajar más.[ref-2](#ref-2){.ref}
+- **Mejora de masa muscular:** porque [estimulamos la síntesis proteica muscular](./sintesis-proteica-muscular) (#579).[ref-3](#ref-3){.ref}
+- **Aumento de densidad ósea**.[ref-4](#ref-4){.ref}
+- **Mejora del metabolismo**.[ref-5](#ref-5){.ref}
+- **Mejora de la resistencia y la capacidad cardiovascular**.[ref-6](#ref-6){.ref}
+- **Prevención de lesiones**.[ref-7](#ref-7){.ref}
 
 ### Considera la curva SRA
 
@@ -125,37 +108,37 @@ Lo que pasa es que el estímulo de las dominadas al entrenar tiene que ser más 
 
 Me refiero a una disrupción que tiene que ser suficientemente potente para retar a los sistemas del cuerpo: la musculatura, el sistema nervioso, las hormonas, el sistema inmune…
 
-![adaptación entreno](https://pau.ninja/wp-content/uploads/2022/03/adaptacion-entreno.png)
+![adaptación entreno](./wp-content/uploads/2022/03adaptacion-entreno.png)
 
 Pero que a la vez no lo sea tanto como para que nos dañe a la recuperación y adaptación.
 
 En el fondo cada vez que entrenamos estamos atacando el cuerpo.
 
-Lo que queremos a posteriori es crear esa respuesta hormética. La «homeostasis» que es lo de «lo que no te mata te hace más fuerte».[8](<javascript:void(0)>)“What Is Homeostasis?” 2000. Scientific American.
+Lo que queremos a posteriori es crear esa respuesta hormética. La «homeostasis» que es lo de «lo que no te mata te hace más fuerte».[ref-8](#ref-8){.ref}
 
 Por eso si entrenamos exactamente igual que la última vez, el cuerpo no hará ningún cambio. Porque ya está acostumbrado, ya está adaptado.
 
 Que vayamos añadiendo 1,25kg por lado en nuestra banca no significa necesariamente que vaya a ser disruptivo. Disruptivo sería: **duro y estresante** para causar esta adaptación, porque si no es disruptivo, lo que sucederá es que con el tiempo te recuperarás, pero sólo te recuperarás hasta tu base. Hasta donde estabas antes.
 
-La pregunta es, ¿qué necesitamos para que este estímulo sea disruptivo y el cuerpo *chupe* esta sobrecarga progresiva?
+La pregunta es, ¿qué necesitamos para que este estímulo sea disruptivo y el cuerpo _chupe_ esta sobrecarga progresiva?
 
 ### Progresión de cargas en hipertrofia
 
 Desde un punto de vista mecánico conocemos que **dos factores** primordiales que conducen a que nos pongamos mamados, a la hipertrofia:
 
 - **Tensión mecánica:** es la fuerza o la resistencia del estímulo en el entrenamiento.
-- **Estrés metabólico:** que es simplemente producción energética por la glucolisis anaeróbica como el ácido láctico, y estas cosas que van incrementando el monto de estrés en la célula.[9](<javascript:void(0)>)Nelson DL, Cox MM. Lehninger. Principios de Bioquímica. 5ª Ed. Ediciones Omega. 2007, Barcelona.
+- **Estrés metabólico:** que es simplemente producción energética por la glucolisis anaeróbica como el ácido láctico, y estas cosas que van incrementando el monto de estrés en la célula.[ref-9](#ref-9){.ref}
 - **Daño muscular:** es el último, pero el daño muscular.
 
 Fijaros que he dicho dos factores pero he mencionado tres, porque el daño muscular ya se ha desestimado como uno de los factores que nos hace crecer.
 
-Ahora se sabe que el daño muscular no tiene una correlación directa con más fuerza ni hipertrofia.[10](<javascript:void(0)>)Wackerhage, H., & Rennie, M. J. (1996). How nutrition and exercise maintain the human musculoskeletal mass. Journal of Anatomy, 189(Pt 4), 515-526.[11](<javascript:void(0)>)Schoenfeld, B. J. (2013). Potential mechanisms for a role of metabolic stress in hypertrophic adaptations to resistance training. Sports Medicine, 43(3), 179-194.[12](<javascript:void(0)>)Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872.
+Ahora se sabe que el daño muscular no tiene una correlación directa con más fuerza ni hipertrofia.[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}[ref-12](#ref-12){.ref}
 
 No es algo por lo que deberíamos entrenar como objetivo sino que es un subproducto de lo anterior.
 
 Entonces si como el bueno de Milón, con el tiempo vamos incrementando tanto la tensión como el estrés, veremos un incremento de balance de proteínas.
 
-Esa síntesis de proteína, que lógicamente tiene que ir [acompañada de una dieta de volumen](https://pau.ninja/dieta-2500-calorias-volumen/) (vamos, más calorías que las que necesitamos).
+Esa síntesis de proteína, que lógicamente tiene que ir [acompañada de una dieta de volumen](./dieta-2500-calorias-volumen) (vamos, más calorías que las que necesitamos).
 
 ¿Y cómo aplicamos esta tensión y este estrés? pues estamos mirando a dos variables muy importantes:
 
@@ -171,13 +154,13 @@ Empezamos comentando un poco la intensidad, que se puede dividir en dos maneras 
 - **Carga de pesos**: será el primero. Subiendo el peso en nuestra barra, tu barriga o lo que sea que estés cargando.
 - **Intensidad de esfuerzo**: que será lo cerca que estaremos del fallo haciendo repeticiones.
 
-Ambas son muy importantes y los *gym bros* se acostumbran a centrar sólo en la primera, en la carga de pesos, pero lo que veo muchas veces es que terminan sacrificando la forma a cambio de ello.
+Ambas son muy importantes y los _gym bros_ se acostumbran a centrar sólo en la primera, en la carga de pesos, pero lo que veo muchas veces es que terminan sacrificando la forma a cambio de ello.
 
-Ahora también hay un movimiento bastante grande para aumentar el volumen, la cantidad de series y repeticiones en los entrenamiento porque la ciencia ha concluido que sí, que es esto, las [series y repeticiones de hipertrofia](https://pau.ninja/series-y-repeticiones-hipertrofia/) (el volumen) las que conducen a aumentar masa muscular, **pero**…
+Ahora también hay un movimiento bastante grande para aumentar el volumen, la cantidad de series y repeticiones en los entrenamiento porque la ciencia ha concluido que sí, que es esto, las [series y repeticiones de hipertrofia](./series-y-repeticiones-hipertrofia) (el volumen) las que conducen a aumentar masa muscular, **pero**…
 
 Recordemos que hace nada habíamos visto como va a ser el volumen de entreno que va a definir la magnitud del entrenamiento y hacernos asegurar que hay suficiente estímulo de entrenamiento, pero nos falta el otro.
 
-Para *gainz* largoplacistas, necesitaremos un estímulo de entrenamiento que progresivamente es más difícil en forma de **tensión o estrés metabólico con suficiente volumen**.
+Para _gainz_ largoplacistas, necesitaremos un estímulo de entrenamiento que progresivamente es más difícil en forma de **tensión o estrés metabólico con suficiente volumen**.
 
 ¿Y cómo se aplica esto a nivel práctico?
 
@@ -185,15 +168,15 @@ Para *gainz* largoplacistas, necesitaremos un estímulo de entrenamiento que pr
 
 Si empezamos añadiendo peso a la barra cada semana, estamos incrementando la cantidad de tensión.
 
-También estamos reduciendo la duración en la que exponemos los músculos a esa tensión porque como hemos incrementado peso, ahora podemos hacer menos repeticiones, lo que bueno, tampoco es necesariamente algo malo porque sabemos que el estímulo de alta tensión puede llevar a un máximo reclute de unidades motoras.[13](<javascript:void(0)>)Enoka, R. M. (2008). Neuromechanics of Human Movement. Human Kinetics.[14](<javascript:void(0)>)Henneman, E., & Olson, C. B. (1965). Relations between Structure and Function in the Design of Skeletal Muscles. Journal of Neurophysiology, 28(3), 581-598.
+También estamos reduciendo la duración en la que exponemos los músculos a esa tensión porque como hemos incrementado peso, ahora podemos hacer menos repeticiones, lo que bueno, tampoco es necesariamente algo malo porque sabemos que el estímulo de alta tensión puede llevar a un máximo reclute de unidades motoras.[ref-13](#ref-13){.ref}[ref-14](#ref-14){.ref}
 
 Alguien que intenta simplemente añadir más peso cada semana está divino, pero no podemos obviar que nuestra habilidad de poder ir añadiendo más peso en la barra se irá reduciendo con el tiempo, porque no es sólo cuestión de peso.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/09/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/09comic-masa-muscular.png)
 
 Además de que más peso en la barra no tiene porque ser un indicador de músculos más grandes porque puede simplemente decir que hemos mejorado la calidad neuronal. Rollo que hemos pasado a tener un sistema nervioso mejor adaptado.
 
-En el fondo esto es en lo que [se basa el método Grease the Groove](https://pau.ninja/metodo-grease-the-groove/) (#362).
+En el fondo esto es en lo que [se basa el método Grease the Groove](./metodo-grease-the-groove) (#362).
 
 No es necesariamente los músculos haciéndose más grandes y permitiéndonos mover más peso. Muchos de vosotros habréis visto en el gym tanques que parecen mucho más fuertes de lo que realmente son cuando los ves moviendo peso.
 
@@ -203,7 +186,7 @@ Realmente cuando llevas ya cierto tiempo levantando pesas, hay un momento en que
 
 Una métrica que podemos editar por ejemplo es olvidarnos de poner más peso y **añadir 1 repetición más** en comparación con el entrenamiento anterior.
 
-Si estamos haciendo 80kg de sentadillas a 8 repeticiones y la siguiente semana hacemos 9 repeticiones, no estamos necesariamente aumentando la **magnitud de la tensión** sino que lo que estamos aumentando es la **duración de la tensión**.[15](<javascript:void(0)>)Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872. [16](<javascript:void(0)>)Wernbom, M., Augustsson, J., & Thomeé, R. (2007). The influence of frequency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Medicine, 37(3), 225-264.
+Si estamos haciendo 80kg de sentadillas a 8 repeticiones y la siguiente semana hacemos 9 repeticiones, no estamos necesariamente aumentando la **magnitud de la tensión** sino que lo que estamos aumentando es la **duración de la tensión**.[ref-15](#ref-15){.ref} [ref-16](#ref-16){.ref}
 
 Esto es importante porque ahora estamos moviendo peso un poco más cerca del fallo, creando más estímulo de entrenamiento.
 
@@ -215,11 +198,9 @@ Después también hay el incremento de series que no necesariamente nos hace ace
 
 Sinceramente prefiero esta acumulación inteligente y paulatina de la fatiga, que unas pocas series al fallo.
 
-En el fondo esto es en lo que se basa [el entrenamiento con el método EMOM](https://pau.ninja/emom-que-es/) (#577).
+En el fondo esto es en lo que se basa [el entrenamiento con el método EMOM](./emom-que-es) (#577).
 
 Así estamos aumentando nuestra capacidad y total de trabajo de una forma total y controlada.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Algo que bueno, tampoco tiene porque significar que cause hipertrofia pero sí que nos asegurará que **hay suficiente exposición a esa estimulación por tensión**.
 
@@ -341,9 +322,7 @@ Semana 10
 
 Es un esquema de progresión que parece que sea muy lenta (y lo es), pero en verdad es ideal para esos **músculos pequeños** en los que el próximo incremento de peso es demasiado.
 
-Si te estás sacando 12 repeticiones a 5kg de elevaciones laterales para sacar [buenos hombros 3D](https://pau.ninja/hombros-3d/) de Hercules, pues cuando subas 6kg realmente estás subiendo un porcentaje de peso importante para un grupo de músculos que es pequeñito.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Si te estás sacando 12 repeticiones a 5kg de elevaciones laterales para sacar [buenos hombros 3D](./hombros-3d) de Hercules, pues cuando subas 6kg realmente estás subiendo un porcentaje de peso importante para un grupo de músculos que es pequeñito.
 
 Así que ir manipulando las 3 variables es una buena manera de manipular el cuerpo y esta sobrecarga progresiva.
 
@@ -455,72 +434,4 @@ Entreno 7
 
 En el fondo cada músculo y persona verá que progresa más de una forma que con otra.
 
-Por ejemplo personalmente en las elevaciones laterales me va mucho mejor hacer [una serie del método Bilbo](https://pau.ninja/metodo-bilbo-press-banca/) (#490) y después aumentar el volumen con muy, muy, muy poco peso, pero la primera haciéndola pesada y a máximas repeticiones.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Ahtiainen, J. P., Pakarinen, A., Alen, M., Kraemer, W. J., & Häkkinen, K. (2003). Muscle hypertrophy, hormonal adaptations and strength development during strength training in strength-trained and untrained men. European journal of applied physiology, 89(6), 555-563.
-
-- 2
-
-  Kraemer, W. J., & Ratamess, N. A. (2004). Fundamentals of resistance training: progression and exercise prescription. _Medicine and science in sports and exercise_, 36(4), 674-688.
-
-- 3
-
-  Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. _Journal of strength and conditioning research_, 24(10), 2857-2872.
-
-- 4
-
-  Kohrt, W. M., Ehsani, A. A., & Birge, S. J. (1997). Effects of exercise involving predominantly either joint-reaction or ground-reaction forces on bone mineral density in older women. _Journal of Bone and Mineral Research_, 12(8), 1253-1261.
-
-- 5
-
-  Hunter, G. R., Byrne, N. M., Sirikul, B., Fernandez, J. R., Zuckerman, P. A., Darnell, B. E., & Gower, B. A. (2008). Resistance training conserves fat-free mass and resting energy expenditure following weight loss. _Obesity_, 16(5), 1045-1051.
-
-- 6
-
-  Garber, C. E., Blissmer, B., Deschenes, M. R., Franklin, B. A., Lamonte, M. J., Lee, I. M., … & Swain, D. P. (2011). Quantity and quality of exercise for developing and maintaining cardiorespiratory, musculoskeletal, and neuromotor fitness in apparently healthy adults: guidance for prescribing exercise. _Medicine & Science in Sports & Exercise_, 43(7), 1334-1359.
-
-- 7
-
-  Shrier, I. (2004). Does stretching improve performance? A systematic and critical review of the literature. _Clinical Journal of Sport Medicine_, 14(5), 267-273.
-
-- 8
-
-  “What Is Homeostasis?” 2000. Scientific American.
-
-- 9
-
-  Nelson DL, Cox MM. Lehninger. Principios de Bioquímica. 5ª Ed. Ediciones Omega. 2007, Barcelona.
-
-- 10
-
-  Wackerhage, H., & Rennie, M. J. (1996). How nutrition and exercise maintain the human musculoskeletal mass. Journal of Anatomy, 189(Pt 4), 515-526.
-
-- 11
-
-  Schoenfeld, B. J. (2013). Potential mechanisms for a role of metabolic stress in hypertrophic adaptations to resistance training. Sports Medicine, 43(3), 179-194.
-
-- 12
-
-  Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872.
-
-- 13
-
-  Enoka, R. M. (2008). Neuromechanics of Human Movement. Human Kinetics.
-
-- 14
-
-  Henneman, E., & Olson, C. B. (1965). Relations between Structure and Function in the Design of Skeletal Muscles. Journal of Neurophysiology, 28(3), 581-598.
-
-- 15
-
-  Schoenfeld, B. J. (2010). The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 24(10), 2857-2872.
-
-- 16
-
-  Wernbom, M., Augustsson, J., & Thomeé, R. (2007). The influence of frequency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Medicine, 37(3), 225-264.
+Por ejemplo personalmente en las elevaciones laterales me va mucho mejor hacer [una serie del método Bilbo](./metodo-bilbo-press-banca) (#490) y después aumentar el volumen con muy, muy, muy poco peso, pero la primera haciéndola pesada y a máximas repeticiones.

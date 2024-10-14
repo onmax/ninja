@@ -1,13 +1,18 @@
 ---
-title: "Miedo de pobre, sabiduría de rico… o cómo perdí decenas de miles de euros"
+title: "Miedo de pobre, sabiduría de rico…"
+url: https://pau.ninja/perder-dinero
+slug: perder-dinero
+categories: 
+- slug: dinero
+    label: 💰 Dinero
 image: persona-que-pierde-dinero.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2023/12/persona-que-pierde-dinero.jpg
 published: 2023-12-14T08:22:45+00:00
 modified: 2024-04-28T11:22:56+00:00
+scrappedAt: 2024-10-14T09:19:45.207Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/80056312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2F360049086-44100-2-b7fccd93ead02.mp3
-slug: perder-dinero
+bibliography: ["Association of a Negative Wealth Shock With All-Cause Mortality in Middle-aged and Older Adults in the United States. Lindsay R. Pool,; Sarah A. Burgard; Belinda L. Needham. JAMA. 2018;319(13):1341-1350. doi:10.1001/jama.2018.2055","2020\\. “La CNMV Interviene Esfera Capital Por Un Agujero Que Podría Alcanzar Los Seis Millones de Euros.” El Mundo.‌","Loveland, K. K., & Olley, J. G. (1979). The effect of external reward on interest and quality of task performance in children of high and low intrinsic motivation. Child Development, 50(4), 1207–1210."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/80056312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2F360049086-44100-2-b7fccd93ead02.mp3](https://anchor.fm/s/98566448/podcast/play/80056312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2F360049086-44100-2-b7fccd93ead02.mp3)
 
 Empecé a invertir en 2016, cuando me di cuenta que mi negocio de SEO había rellenado las arcas de mi empresa búlgara.
@@ -28,7 +33,7 @@ Un año más tarde, cuando fui consciente del _montón_ de pasta que había en m
 
 Cuando nunca has tenido dinero, la relación que tienes con él, es que se te va a escapar en cualquier momento.
 
-Por esto empecé a buscar las mejores formas de invertir para el largo plazo, porque de nuevo, mi vida minimalista me ha hecho [vivir con menos](https://pau.ninja/minimalista/) y en aquel entonces ya sabía que no iba a necesitar este dinero hasta décadas vista.
+Por esto empecé a buscar las mejores formas de invertir para el largo plazo, porque de nuevo, mi vida minimalista me ha hecho [vivir con menos](./minimalista) y en aquel entonces ya sabía que no iba a necesitar este dinero hasta décadas vista.
 
 Cuando quisiera comprarme un castillo y un triciclo.
 
@@ -44,7 +49,7 @@ No sólo económicamente sino también emocionalmente.
 
 Quizás hasta de salud.
 
-Esto dice un estudio que recolectó datos de casi 10.000 adultos durante 50 años de su vida para concluir que aquellos que perdían parte de sus ahorros tenían un 50% de posibilidades de morir en los próximos 20 años.[1](<javascript:void(0)>)Association of a Negative Wealth Shock With All-Cause Mortality in Middle-aged and Older Adults in the United States. Lindsay R. Pool,; Sarah A. Burgard; Belinda L. Needham. JAMA. 2018;319(13):1341-1350. doi:10.1001/jama.2018.2055
+Esto dice un estudio que recolectó datos de casi 10.000 adultos durante 50 años de su vida para concluir que aquellos que perdían parte de sus ahorros tenían un 50% de posibilidades de morir en los próximos 20 años.[ref-1](#ref-1){.ref}
 
 Sé que «perder parte de los ahorros» suena ambiguo, pero los investigadores lo clasificaron como perder al menos el 75% del patrimonio durante 2 años.
 
@@ -56,30 +61,15 @@ Eventos como grandes recesiones o cisnes negros económicos pueden ocurrir, pero
 
 Por esto hay que separar «aprender» de «tener sabiduría».
 
-Son esas experiencias *personales* que me han vuelto más sabido haciendo que esté tan tranquilo [sin diversificar inversiones](https://pau.ninja/diversificar-inversiones/): teniendo el 100% de mi patrimonio en Bitcoin (#412).
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Son esas experiencias _personales_ que me han vuelto más sabido haciendo que esté tan tranquilo [sin diversificar inversiones](./diversificar-inversiones): teniendo el 100% de mi patrimonio en Bitcoin (#412).
 
 Es la sabiduría (juntar teoría esotérica con experiencia real, física) lo que me ha llevado a concluir lo que va mejor _para mí_.
 
-Un ejemplo es aprender sobre la _teoría_ del oro y construir [la opinión de que invertir en oro físico](https://pau.ninja/invertir-en-oro-opiniones/) es buena idea… en teoría.
+Un ejemplo es aprender sobre la _teoría_ del oro y construir [la opinión de que invertir en oro físico](./invertir-en-oro-opiniones) es buena idea… en teoría.
 
-Cuando lo vives, cuando lo tienes en las manos y tienes que venderlo o salvaguardarlo de ladrones, el paradigma cambia completamente y lo que _creías que pensabas_ choca con lo que *piensas de verdad* en esa situación auténtica.
+Cuando lo vives, cuando lo tienes en las manos y tienes que venderlo o salvaguardarlo de ladrones, el paradigma cambia completamente y lo que _creías que pensabas_ choca con lo que _piensas de verdad_ en esa situación auténtica.
 
 Eso es lo que me sucedió a mí y hoy, junto con otras lecciones comparto con vosotros momentos en los que perdí dinero que me hicieron moldear mi estrategia personal.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Mis formas favoritas de perder dinero](#Mis_formas_favoritas_de_perder_dinero 'Mis formas favoritas de perder dinero')
-  - [Forex](#Forex 'Forex')
-  - [Fondos de inversión](#Fondos_de_inversion 'Fondos de inversión')
-  - [Oro físico](#Oro_fisico 'Oro físico')
-  - [Dejarlo en el banco](#Dejarlo_en_el_banco 'Dejarlo en el banco')
-  - [Dejar de hacer HODL](#Dejar_de_hacer_HODL 'Dejar de hacer HODL')
-- [Mi secreto: me centro en el plan ₿](#Mi_secreto_me_centro_en_el_plan_%E2%82%BF 'Mi secreto: me centro en el plan ₿')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Mis formas favoritas de perder dinero
 
@@ -91,7 +81,7 @@ A cambio de un riesgo, tienes más recompensa. La clave está cuál es ese riego
 
 Y sí.
 
-Ahora tenga claro que sólo hay [un par de valores refugio](https://pau.ninja/valores-refugio/) que valgan la pena. Tengo claro que no quiero ni bancos, ni ahorros, ni efectivo en dinero fiduciario (euros, dólares…), no siempre fue así.
+Ahora tenga claro que sólo hay [un par de valores refugio](./valores-refugio) que valgan la pena. Tengo claro que no quiero ni bancos, ni ahorros, ni efectivo en dinero fiduciario (euros, dólares…), no siempre fue así.
 
 ### Forex
 
@@ -111,7 +101,7 @@ En vez de esto, lo que sucedió es que yo pagué una lección muy cara.
 
 Una lección de más de 20.000 euros.
 
-Pero mi mala suerte con el *timing* no se detuvo aquí.
+Pero mi mala suerte con el _timing_ no se detuvo aquí.
 
 ### Fondos de inversión
 
@@ -121,7 +111,7 @@ Después de informarme mucho puse otras decenas de miles en un fondo de inversi
 
 Todo me cuadraba a la perfección… Pero se avecinaba otra tormenta impredecible.
 
-Abro una cuenta de empresa, invierto en el fondo desde [mi empresa de Estonia](https://pau.ninja/crear-empresa-en-estonia/) y unos pocos meses más tarde la gestora con la que estaba este fondo (Esfera Capital) resulta que… quiebra.[2](<javascript:void(0)>)2020\. “La CNMV Interviene Esfera Capital Por Un Agujero Que Podría Alcanzar Los Seis Millones de Euros.” El Mundo.‌
+Abro una cuenta de empresa, invierto en el fondo desde [mi empresa de Estonia](./crear-empresa-en-estonia) y unos pocos meses más tarde la gestora con la que estaba este fondo (Esfera Capital) resulta que… quiebra.[ref-2](#ref-2){.ref}
 
 En teoría el dinero que teníamos los clientes estaba protegido por Fondo General de Garantía de Inversiones ([FOGAIN](https://www.fogain.com/)), pero con un ligero problema que sólo me afectaba a mí.
 
@@ -151,17 +141,15 @@ Algo que pensaba que el oro físico también cubría como hipotético «valor re
 
 De nuevo. Es un valor refugio _teórico_. A la práctica nada más lejos de la realidad.
 
-Perder esta cantidad de dinero por culpa de terceros me hizo empezar a mirar las mejores opciones de valor refugio, así que termino [comprando oro físico en una tienda](https://pau.ninja/donde-comprar-oro-fisico/).
+Perder esta cantidad de dinero por culpa de terceros me hizo empezar a mirar las mejores opciones de valor refugio, así que termino [comprando oro físico en una tienda](./donde-comprar-oro-fisico).
 
-Hasta aquí todo sin problema. Estaba siguiendo la maldita *teoría* (que no la práctica) al pie del cañón.
+Hasta aquí todo sin problema. Estaba siguiendo la maldita _teoría_ (que no la práctica) al pie del cañón.
 
-La liada surge, cuando empiezo a informarme a fondo sobre [qué es Bitcoin realmente](https://pau.ninja/que-es-bitcoin-para-tontos/) (#158), y decido que si un día quisiera vender mi oro físico por necesidad, podría suponer un lastre importante tanto mental como monetario.
+La liada surge, cuando empiezo a informarme a fondo sobre [qué es Bitcoin realmente](./que-es-bitcoin-para-tontos) (#158), y decido que si un día quisiera vender mi oro físico por necesidad, podría suponer un lastre importante tanto mental como monetario.
 
 Aquí la paradoja: querer deshacerme de mi oro físico por «los problemas que podría suponer vender mi oro físico» si algún día decido deshacerme de él, resulta que me lleva a problemas por vender mi oro físico al querer deshacerme de él.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Decido vender todo mi oro para [invertir en Bitcoin](https://pau.ninja/invertir-en-bitcoins-forma-segura/) todo ese dinero (como hice con lo finalmente me devolvió FOGAIN).
+Decido vender todo mi oro para [invertir en Bitcoin](./invertir-en-bitcoins-forma-segura) todo ese dinero (como hice con lo finalmente me devolvió FOGAIN).
 
 Empiezo a preguntar a varias tiendas de mi localidad y a otras de internet, con diferencias de precio abismales por lo que me pagarían por mi oro, así que decido vendérselo a la misma tienda que me lo vendió.
 
@@ -183,9 +171,9 @@ Lección aprendida, con algo físico que da muchísimos problemas de transporte 
 
 Ahora llegamos a este mismo año. Un año que me brinda otra lección sobre la soberanía.
 
-Después de haber estado usando [el método de inversión DCA](https://pau.ninja/dca-que-es-inversion/) (#307) en el que uno va comprando Bitcoin recurrentemente decidí seguir 100% invertido en Bitcoin, pero cambiar la manera en el _timing_. En el momento.
+Después de haber estado usando [el método de inversión DCA](./dca-que-es-inversion) (#307) en el que uno va comprando Bitcoin recurrentemente decidí seguir 100% invertido en Bitcoin, pero cambiar la manera en el _timing_. En el momento.
 
-Por esto he estado buscando [cuando es buen momento para comprar Bitcoin](https://pau.ninja/es-buen-momento-para-comprar-bitcoin/), y creo que tengo la respuesta (ya hablaré de ello).
+Por esto he estado buscando [cuando es buen momento para comprar Bitcoin](./es-buen-momento-para-comprar-bitcoin), y creo que tengo la respuesta (ya hablaré de ello).
 
 Invertir poca poco con DCA lo hacía porque no sabía cuando era buen momento para invertir, pero…
 
@@ -197,9 +185,9 @@ No hace falta decir que estos recursos son sólo para miembros. Para ninjas de l
 
 El caso es que para meter estos cañonazos, este año había estado acumulando pólvora y balas en el banco.
 
-Cuando tuve la señal que había que hacer cañonazo, como era una cantidad considerable, el banco no me dejó mandar la pólvora al *exchange*.
+Cuando tuve la señal que había que hacer cañonazo, como era una cantidad considerable, el banco no me dejó mandar la pólvora al _exchange_.
 
-Me retuvo la pasta *fiat*, y ese indicador para meter cañonazo que había sido perfecto, perdió potencia. Perdió efectividad por tener que dar papeles e información al banco.
+Me retuvo la pasta _fiat_, y ese indicador para meter cañonazo que había sido perfecto, perdió potencia. Perdió efectividad por tener que dar papeles e información al banco.
 
 Me retuvieron la pasta un par de días que fueron determinantes para que ese cañonazo terminara siendo menos efectivo (pudiendo comprar Bitcoin más bajo).
 
@@ -215,7 +203,7 @@ Llamadas. Visitas a la oficina. Emails…
 
 A mí me h0de mucho más el primero porque rozó mis bonitas manos y dejé que se escapara.
 
-Y lo mismo cuando tienes la oportunidad, y *quieres* ejercer esta oportunidad, pero un tercero te lo impide.
+Y lo mismo cuando tienes la oportunidad, y _quieres_ ejercer esta oportunidad, pero un tercero te lo impide.
 
 Es entonces cuando dejar de ganarlo, también duele muchísimo más.
 
@@ -225,17 +213,17 @@ Y finalmente el último error que me ha hecho más sabio, es intentar pasarme de
 
 Comprometer una estrategia largoplacista, haciendo cambios cortoplacistas, que afectan a mi largo plazo.
 
-Desde que decidí poner todo mi patrimonio a Bitcoin, he estado [holeando](https://pau.ninja/que-es-holdear-criptomonedas/) (#360).
+Desde que decidí poner todo mi patrimonio a Bitcoin, he estado [holeando](./que-es-holdear-criptomonedas) (#360).
 
-El *buy & hold*, que lo llaman.
+El _buy & hold_, que lo llaman.
 
 Pero parece ser que me pasé de listo, y este año, vendí para volver a comprar.
 
-No tengo ningún problema en decirlo aunque sé que para algunas personas, ser *HODLER* es casi como un estatus social, pero a mí esto me la suda.
+No tengo ningún problema en decirlo aunque sé que para algunas personas, ser _HODLER_ es casi como un estatus social, pero a mí esto me la suda.
 
 Lo único que quiero es la máxima rentabilidad para mis ahorros a largo plazo.
 
-En vez de *buy & hold*, hice un *buy & bold* (_bold_ = audaz, listillo), pero me salió el tiro por la culata aunque considero que pude salvarlo a tiempo.
+En vez de _buy & hold_, hice un _buy & bold_ (_bold_ = audaz, listillo), pero me salió el tiro por la culata aunque considero que pude salvarlo a tiempo.
 
 Básicamente quería aprovechar las herramientas que tenemos en Sociedad Ninja, no sólo para saber cuando poner el cañonazo, sino también incluso, para sacármela y metérmela.
 
@@ -257,7 +245,7 @@ No exagero.
 
 > Sólo las tormentas son capaces de hacernos buenos marineros.
 
-No fue hasta la pandemia que quise aprender sobre [las características y propiedades del dinero](https://pau.ninja/propiedades-del-dinero/).
+No fue hasta la pandemia que quise aprender sobre [las características y propiedades del dinero](./propiedades-del-dinero).
 
 Sin pandemia no hubiera aprendido lo que sé ahora sobre el dinero y Sociedad Ninja no existiría.
 
@@ -269,11 +257,11 @@ No hay una segunda mejor opción (como dice el bueno de Michael Sailor, ahora qu
 
 Hay un estudio de los años 80 que relata esto de maravilla.
 
-Se hicieron dos grupos en los que se les pidió a los participantes que hicieran un puzzle bastante complejo y que si eran capaces de resolverlo, como recompensa tendrían un aperitivo.[3](<javascript:void(0)>)Loveland, K. K., & Olley, J. G. (1979). The effect of external reward on interest and quality of task performance in children of high and low intrinsic motivation. Child Development, 50(4), 1207–1210.
+Se hicieron dos grupos en los que se les pidió a los participantes que hicieran un puzzle bastante complejo y que si eran capaces de resolverlo, como recompensa tendrían un aperitivo.[ref-3](#ref-3){.ref}
 
 Lo interesante es que en uno de los grupos se les dijo que podían obtener el mismo aperitivo en la cafeteria del edificio donde se hacía el estudio, pagando lo que sea que costara.
 
-Es increíble ver como a este grupo, a los que les dijeron que podían comprar el *snack* a la vuelta de la esquina (y no sólo resolviendo el puzzle) tuvieron **una bajada dramática en la motivación + rendimiento del puzzle**.
+Es increíble ver como a este grupo, a los que les dijeron que podían comprar el _snack_ a la vuelta de la esquina (y no sólo resolviendo el puzzle) tuvieron **una bajada dramática en la motivación + rendimiento del puzzle**.
 
 > Lo que nos enseña que tener un plan B, sólo es contraproducente para nuestros objetivos, la energía, la motivación, la perseverancia y el empeño que ponemos en las cosas.
 
@@ -283,7 +271,7 @@ En términos de inversión estoy convencido que es lo mismo.
 
 Es parte de la psicología humana.
 
-Y por esto he decidido aceptar que no soy alguien con capacidades mentales fuera de la media o con un *toque de oro*, pero esto no significa que no pueda obtener resultado extraordinarios de fuera de la media.
+Y por esto he decidido aceptar que no soy alguien con capacidades mentales fuera de la media o con un _toque de oro_, pero esto no significa que no pueda obtener resultado extraordinarios de fuera de la media.
 
 > Los resultados extraordinarios se consiguen repitiendo acciones absolutamente aburridas sin encanto (twitéalo).
 
@@ -291,30 +279,14 @@ Por esto este año he decidido hackearme a mi mismo.
 
 Quizás es mi psicología que me hace siempre querer tocar algo de dinero para tener la sensación que más acción significará mejores resultados aunque la experiencia de perder dinero me haya enseñado que no es así.
 
-Voy a seguir manteniendo el monto de la cuestión en Bitcoin haciendo HODL a muerte [en mi cartera de inversiones](https://pau.ninja/mi-cartera-de-inversion/), pero ahora tengo una cuenta más pequeñita para especular.
+Voy a seguir manteniendo el monto de la cuestión en Bitcoin haciendo HODL a muerte [en mi cartera de inversiones](./mi-cartera-de-inversion), pero ahora tengo una cuenta más pequeñita para especular.
 
 No me malinterpretéis.
 
-Si perdiera toda la pasta de esta cartera especuladora igualmente me _h0dería_ mucho, pero estoy convencido de que puedo convertir estas decenas de miles en cientos de miles en *fiat* para mi día a día usando las herramientas y conocimientos de Sociedad Ninja.
+Si perdiera toda la pasta de esta cartera especuladora igualmente me _h0dería_ mucho, pero estoy convencido de que puedo convertir estas decenas de miles en cientos de miles en _fiat_ para mi día a día usando las herramientas y conocimientos de Sociedad Ninja.
 
 Además como excusa, esto me da pie a crear contenido extra para vosotros explicando que movimientos estoy haciendo con esta cuenta.
 
 Eso sí.
 
 La jubilación a largo plazo sigue estando al 100% en Bitcoin.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Association of a Negative Wealth Shock With All-Cause Mortality in Middle-aged and Older Adults in the United States. Lindsay R. Pool,; Sarah A. Burgard; Belinda L. Needham. JAMA. 2018;319(13):1341-1350. doi:10.1001/jama.2018.2055
-
-- 2
-
-  2020\. “La CNMV Interviene Esfera Capital Por Un Agujero Que Podría Alcanzar Los Seis Millones de Euros.” El Mundo.‌
-
-- 3
-
-  Loveland, K. K., & Olley, J. G. (1979). The effect of external reward on interest and quality of task performance in children of high and low intrinsic motivation. Child Development, 50(4), 1207–1210.

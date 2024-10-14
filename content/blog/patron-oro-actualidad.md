@@ -1,14 +1,19 @@
 ---
-title: "Patrón oro: la historia económica «es el futuro» (qué es y por qué habrá un retorno en la actualidad)"
+title: "Patrón oro: la historia económica «es el futuro»"
+url: https://pau.ninja/patron-oro-actualidad
+slug: patron-oro-actualidad
+categories: 
+- slug: dinero
+    label: 💰 Dinero
 image: dolar-con-oro.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2020/11/dolar-con-oro.jpg
 published: 2020-11-04T12:39:24+00:00
 modified: 2023-06-08T15:00:23+00:00
+scrappedAt: 2024-10-14T09:21:36.664Z
 audioLink: https://www.ivoox.com/patron-oro-historia-economica-es-futuro_md_53827313_wp_1.mp3
-slug: patron-oro-actualidad
+bibliography: []
 ---
-
-[https://www.ivoox.com/patron-oro-historia-economica-es-futuro_md_53827313_wp_1.mp3](https://www.ivoox.com/patron-oro-historia-economica-es-futuro_md_53827313_wp_1.mp3)
+[https://www.ivoox.com/patron-oro-historia-economica-es-futuro\_md\_53827313\_wp\_1.mp3](https://www.ivoox.com/patron-oro-historia-economica-es-futuro_md_53827313_wp_1.mp3)
 
 Nos ha quedado claro por qué el oro es un valor refugio, pero lo que muchos de los que me siguen no saben es que **el oro, pasó a ser refugio porque dejó de ser dinero** y nunca se perdió su confianza en él.
 
@@ -16,33 +21,11 @@ Pues sí.
 
 Ya habíamos usado el oro en el pasado como dinero de verdad, y no es que dejáramos de utilizarlo para pagar porque no funcionara, si no que fue todo lo contrario.
 
-Fue la avaricia de los Estados que nos hizo hacer tener [el sistema monetario que tenemos actualmente](https://pau.ninja/sistema-monetario-actual/).
+Fue la avaricia de los Estados que nos hizo hacer tener [el sistema monetario que tenemos actualmente](./sistema-monetario-actual).
 
 Se pagaba con papel moneda pero su valor estaba atado a un **patrón oro**.
 
 Pero, empecemos por donde debemos empezar en todo esto: el principio.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [¿Qué es el patrón oro?](#%C2%BFQue_es_el_patron_oro '¿Qué es el patrón oro?')
-- [Ventaja del patrón oro](#Ventaja_del_patron_oro 'Ventaja del patrón oro')
-  - [Controlar la inflación](#Controlar_la_inflacion 'Controlar la inflación')
-  - [Controlar el cambio de divisa](#Controlar_el_cambio_de_divisa 'Controlar el cambio de divisa')
-  - [Quitar poder a los bancos centrales](#Quitar_poder_a_los_bancos_centrales 'Quitar poder a los bancos centrales')
-- [Cuando empezamos a usar oro](#Cuando_empezamos_a_usar_oro 'Cuando empezamos a usar oro')
-- [Historia económica del patrón oro](#Historia_economica_del_patron_oro 'Historia económica del patrón oro')
-  - [Trampeando un buen sistema](#Trampeando_un_buen_sistema 'Trampeando un buen sistema')
-  - [Primera Guerra Mundial](#Primera_Guerra_Mundial 'Primera Guerra Mundial')
-  - [Segunda Guerra Mundial](#Segunda_Guerra_Mundial 'Segunda Guerra Mundial')
-  - [Post-guerra](#Post-guerra 'Post-guerra')
-  - [El problema del sistema Bretton Woods](#El_problema_del_sistema_Bretton_Woods 'El problema del sistema Bretton Woods')
-  - [Detectando la farsa](#Detectando_la_farsa 'Detectando la farsa')
-  - [La salida del patrón oro](#La_salida_del_patron_oro 'La salida del patrón oro')
-- [Patrón oro en la actualidad](#Patron_oro_en_la_actualidad 'Patrón oro en la actualidad')
-  - [Algunos ya se preparan](#Algunos_ya_se_preparan 'Algunos ya se preparan')
-  - [Preparando el retorno al oro](#Preparando_el_retorno_al_oro 'Preparando el retorno al oro')
 
 ## ¿Qué es el patrón oro?
 
@@ -80,7 +63,7 @@ El patrón oro **soluciona este problema**.
 
 Antes lo que se hacía era **pesar las monedas de oro** del otro país en el comercio, y así sabían **cuál era su valor**.
 
-![pesando monedas de oro](https://pau.ninja/wp-content/uploads/2020/11/pesando-monedas-de-oro.jpg)
+![pesando monedas de oro](./wp-content/uploads/2020/11pesando-monedas-de-oro.jpg)
 
 Dos tipos de dos países distintos. Con dos monedas diferentes pero bajo el estándar del oro.
 
@@ -90,11 +73,11 @@ Ahora como los dos **estamos de acuerdo en lo que valen dos tipos de papeles** 
 
 ### Quitar poder a los bancos centrales
 
-No nos veo [volviendo al patrón oro en la actualidad](https://pau.ninja/patron-oro-actualidad/) tal como lo conocimos hasta 1971. El objetivo de un patrón oro es quitarle el poder a los Bancos Centrales porque bajo el sistema monetario actual, la FED (Reserva Federal) tiene el poder de la oferta monetaria.
+No nos veo [volviendo al patrón oro en la actualidad](./patron-oro-actualidad) tal como lo conocimos hasta 1971. El objetivo de un patrón oro es quitarle el poder a los Bancos Centrales porque bajo el sistema monetario actual, la FED (Reserva Federal) tiene el poder de la oferta monetaria.
 
 Esto significa que ellos esencialmente pueden decidir cuánto dinero hay o deja de haber en la economía. Toman decisiones a placer como la que se tomó en 2020. Imprimir dinero a punta pala.
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 Se terminó con 8 trillones de dólares americanos sacados [de la nada](https://eu.usatoday.com/story/news/factcheck/2022/04/14/fact-check-federal-reserve-has-balance-sheet-9-trillion/7198368001/).
 
@@ -118,7 +101,7 @@ Cuando el paro es alto, bajan los tipos de interés, esto provoca un aumento del
 
 Digamos que esto es una manera simplificada de la política monetaria actual que como os podéis imaginar, no tiene ni pies ni cabeza porque tanto el desempleo como la inflación hacen que los ciudadanos tengan una peor vida.
 
-![ciclo reserva federal](https://pau.ninja/wp-content/uploads/2020/11/ciclo-reserva-federal.jpeg)
+![ciclo reserva federal](./wp-content/uploads/2020/11ciclo-reserva-federal.jpeg)
 
 Ah. No olvidemos además de la relación Bancos Centrales y gobiernos. Nos venden que son independientes, pero nada que ver.
 
@@ -158,7 +141,7 @@ Hasta entonces se usaban los sistemas monetarios mundiales que se remontaban a 1
 
 De esta forma, cada una de las unidades de divisa **estaban respaldadas por una cantidad igual o más bien equivalente de oro**.
 
-![valor de patrón oro](https://pau.ninja/wp-content/uploads/2020/11/valor-de-patron-oro.jpg)
+![valor de patrón oro](./wp-content/uploads/2020/11valor-de-patron-oro.jpg)
 
 En Estados Unidos, un billete de 20 dólares era lo mismo que ese mismo valor en oro depositado en una cámara acorazada.
 
@@ -238,13 +221,13 @@ El patrón dólar empezó a tener problemas porque Estados Unidos seguía imprim
 
 El motivo es que bajo el sistema de Bretton Woods **no se fijaba un coeficiente de reserva que obligara a Estados Unidos a tener determinada cantidad de oro** por los dólares que imprimían.
 
-Además que los colegas americanos estaban empezando a tener gastos importantes y necesitaban más *cash*.
+Además que los colegas americanos estaban empezando a tener gastos importantes y necesitaban más _cash_.
 
 Por ejemplo se encontraban de lleno en las guerras de Corea y Vietnam.
 
 Como ves, no tuvieron ningún problema en expandir la oferta monetaria, dandole a la máquina de imprimir sin parar, pero no sólo esto… También exportando esos dólares por todo el mundo.
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 Por lo tanto, expandió la oferta monetaria, la cantidad de dólares de papel en circulación, y los exportó por todo el mundo.
 
@@ -276,7 +259,7 @@ Recordar que el dólar para aquel entonces era la divisa por excelencia, así qu
 
 Así que Nixon anunció la suspensión de poder convertir dólares en oro y otros activos de reserva.
 
-¿Qué fecha le ponemos a este desastre? Pues el 15 de agosto de 1971. Ese fue el día en que todas las divisas del mundo [perdieron sus propiedades de dinero duro](https://pau.ninja/propiedades-del-dinero/) y se convirtieron en **dinero fiduciario**. Es decir, respaldado por nada.
+¿Qué fecha le ponemos a este desastre? Pues el 15 de agosto de 1971. Ese fue el día en que todas las divisas del mundo [perdieron sus propiedades de dinero duro](./propiedades-del-dinero) y se convirtieron en **dinero fiduciario**. Es decir, respaldado por nada.
 
 Muchos no entendemos porque el resto de países no fueron a por Nixon, tal vez pensaron que ya crearían su propio sistema, o tal vez fue el ver que a partir de ahora ellos también eran capaces de crear tanta moneda como quisieran.
 
@@ -290,7 +273,7 @@ Tal vez a lo largo de esta década o la siguiente **acabaremos teniendo un nuev
 
 Algo que hemos visto especialmente en la última crisis económica, donde los bancos centrales han dado **máxima prioridad a salvar los mercados**. Para hacerlo se ha creado más dinero de la nada que nunca.
 
-![impresión billetes EEUU](https://pau.ninja/wp-content/uploads/2020/11/impresion-billetes-EEUU.gif)
+![impresión billetes EEUU](./wp-content/uploads/2020/11impresion-billetes-EEUU.gif)
 
 Lo que muchos pensamos es que la gente perderá su confianza en **todas** las divisas que hay.
 
@@ -318,7 +301,7 @@ Pero aquellos que son un poco más conscientes de lo que se viene, ¿qué hacen 
 
 Hoy en día, **el dinero vale lo que la gente piensa que vale**. Y eso puede ser peligroso.
 
-![estándar del dinero](https://pau.ninja/wp-content/uploads/2020/11/estandar-del-dinero.jpg)
+![estándar del dinero](./wp-content/uploads/2020/11estandar-del-dinero.jpg)
 
 Se trata de nuestro medio para comprar, pero no es que tenga valor por él mismo.
 
@@ -352,8 +335,93 @@ Hemos visto que nuestro sistema se aguanta de puntillas.
 
 A opinión personal creo que la manera más sana de tener un sistema monetario que funcione sería volver a un patrón oro con una ley que exigiera **no poder crear recibos de oro que no existen**, para evitar que algún Estado hiciera lo que hizo Estados Unidos en el pasado.
 
-Incluso si tiramos un poco por ahí, hasta podríamos decir que un «patrón Bitcoin» también podría funcionar y por esto mi estrategia [es invertir todo en Bitcoin](https://pau.ninja/invertir-en-bitcoins-forma-segura/).
+Incluso si tiramos un poco por ahí, hasta podríamos decir que un «patrón Bitcoin» también podría funcionar y por esto mi estrategia [es invertir todo en Bitcoin](./invertir-en-bitcoins-forma-segura).
 
 Primero quiero dejar cerrado el tema del oro y para verlo, tocará ver **qué** maneras existen de invertir y porque para tener una protección/refugio real, sólo existe una.
 
 Lo vemos.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [💰 Dinero](./dinero)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/patron-oro-actualidad/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":8825,"title":"%E3%80%90Patr%C3%B3n%20oro%E3%80%91%20Qu%C3%A9%20es%20%2B%207%20motivos%20por%20los%20que%20volveremos","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2020\\/11\\/dolar-con-oro.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

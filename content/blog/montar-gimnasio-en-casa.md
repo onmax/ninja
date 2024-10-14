@@ -1,18 +1,23 @@
 ---
-title: "Montar un gimnasio en casa Mi lista de material, precio y ejercicios"
+title: "Montar un gimnasio en casa"
+url: https://pau.ninja/montar-gimnasio-en-casa
+slug: montar-gimnasio-en-casa
+categories: 
+- slug: fitness
+    label: Fitness
 image: gimnasio-casero.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/03/gimnasio-casero.jpg
 published: 2021-03-25T11:59:03+00:00
 modified: 2024-02-03T06:23:20+00:00
-audioLink:
-slug: montar-gimnasio-en-casa
+scrappedAt: 2024-10-14T09:21:18.485Z
+audioLink: 
+bibliography: []
 ---
-
 Estoy seguro que durante la pandemia las tiendas online de fitness se forraron.
 
 Todos los viciados al gimnasio intentamos hacer apaños en casa para poder seguir entrenando, y aunque con menos proyecciones de mejorar, fue para al menos de no perder las _gainz_.
 
-En la primera oleada yo lo pasé fatal porque llevaba viviendo en Croacia medio año, estaba teniendo una muy buena progresión en el gimnasio de allí, siguiendo [mi plan de entrenamiento basado en ciencia](https://pau.ninja/entrenamiento-ganar-masa-muscular/) y… pum. Cisne negro.
+En la primera oleada yo lo pasé fatal porque llevaba viviendo en Croacia medio año, estaba teniendo una muy buena progresión en el gimnasio de allí, siguiendo [mi plan de entrenamiento basado en ciencia](./entrenamiento-ganar-masa-muscular) y… pum. Cisne negro.
 
 Como lo del bichito iba para largo, en las próximas oleadas me fui yendo a países donde la cosa estaba más controlada (Hungría, Austria, Chequia…). Y para controlado me refiero a que no mintieran con los números y que los gimnasios estuvieron abiertos.
 
@@ -26,9 +31,9 @@ Dejándolo montado **para siempre**.
 
 Por cierto cuando digo «volver» es porque en 2010 monté un gimnasio en el piso de abajo de casa de mis abuelos. Por unos 1.200€ compré una máquina todo en uno (Wider C700 que ya no se fabrica), unos discos olímpicos y con esto diré un par de años bien buenos.
 
-![mi primer gym en casa](https://pau.ninja/wp-content/uploads/2021/03/mi-primer-gym-en-casa.jpg)
+![mi primer gym en casa](./wp-content/uploads/2021/03mi-primer-gym-en-casa.jpg)
 
-Foto: mis amigos me ayudaron a montar la *All-in-one*. Estuvimos unas 2 horas bien buenas.
+Foto: mis amigos me ayudaron a montar la _All-in-one_. Estuvimos unas 2 horas bien buenas.
 
 Más tarde me fui a vivir a Canadá así que económicamente tuvo más sentido deshacerme de ella.
 
@@ -42,41 +47,11 @@ Así que después de que Estonia me cerrara, decidí montar un gimnasio en casa 
 
 Este fue este proceso.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Precio de mi gimnasio en casa](#Precio_de_mi_gimnasio_en_casa 'Precio de mi gimnasio en casa')
-- [Material básico para montar gimnasio en casa](#Material_basico_para_montar_gimnasio_en_casa 'Material básico para montar gimnasio en casa')
-  - [Mancuernas ajustables de hasta 40kg](#Mancuernas_ajustables_de_hasta_40kg 'Mancuernas ajustables de hasta 40kg')
-  - [Banco de pesas ajustable](#Banco_de_pesas_ajustable 'Banco de pesas ajustable')
-  - [Barra olímpica, discos de goma y soporte](#Barra_olimpica_discos_de_goma_y_soporte 'Barra olímpica, discos de goma y soporte')
-  - [Kettlebell y barra de dominadas de pared](#Kettlebell_y_barra_de_dominadas_de_pared 'Kettlebell y barra de dominadas de pared')
-- [Gimnasio profesional en casa](#Gimnasio_profesional_en_casa 'Gimnasio profesional en casa')
-  - [Rack de sentadillas o jaula de potencia con poleas](#Rack_de_sentadillas_o_jaula_de_potencia_con_poleas 'Rack de sentadillas o jaula de potencia con poleas')
-  - [Barras paralelas regulables](#Barras_paralelas_regulables 'Barras paralelas regulables')
-  - [Mancuernas hexagonales](#Mancuernas_hexagonales 'Mancuernas hexagonales')
-  - [Pesas rusas](#Pesas_rusas 'Pesas rusas')
-  - [Banco de pesas compelto](#Banco_de_pesas_compelto 'Banco de pesas compelto')
-- [Accesorios para gimnasio en casa](#Accesorios_para_gimnasio_en_casa 'Accesorios para gimnasio en casa')
-  - [Straps de gimnasio](#Straps_de_gimnasio 'Straps de gimnasio')
-  - [Bandas elásticas de resistencia](#Bandas_elasticas_de_resistencia 'Bandas elásticas de resistencia')
-  - [Cierres de barra olímpica](#Cierres_de_barra_olimpica 'Cierres de barra olímpica')
-  - [Almohadilla para barra de pesas](#Almohadilla_para_barra_de_pesas 'Almohadilla para barra de pesas')
-  - [Cinturón de lastre para dominadas](#Cinturon_de_lastre_para_dominadas 'Cinturón de lastre para dominadas')
-  - [Suelo de goma tipo puzzle](#Suelo_de_goma_tipo_puzzle 'Suelo de goma tipo puzzle')
-  - [Comba de fitness](#Comba_de_fitness 'Comba de fitness')
-  - [Anillas de madera](#Anillas_de_madera 'Anillas de madera')
-  - [Espejo para gimnasio casero](#Espejo_para_gimnasio_casero 'Espejo para gimnasio casero')
-- [¿Gimnasio o ejercicios en casa?](#%C2%BFGimnasio_o_ejercicios_en_casa '¿Gimnasio o ejercicios en casa?')
-  - [Ventajas de montar un gimnasio en casa](#Ventajas_de_montar_un_gimnasio_en_casa 'Ventajas de montar un gimnasio en casa')
-  - [Básicos para entrenar en casa](#Basicos_para_entrenar_en_casa 'Básicos para entrenar en casa')
-
 ## Precio de mi gimnasio en casa
 
 ¿Cuál es el precio de montar un gimnasio en casa? o más bien, ¿cuánto me ha costado el mío? pues esta es la lista completa de lo que tengo hasta ahora y el coste total.
 
-**💪🏼
+**💪🏼  
 Indispensables para mí**
 
 - **3x sets de [mancuernas ajustables](#Mancuernas_ajustables_de_hasta_40kg) con 80kg totales:** 490€
@@ -85,7 +60,7 @@ Indispensables para mí**
 - **Barra [de dominadas](#Barra_de_dominadas_de_pared) de pared:** 50€
 - **Banco multiposición:** 460€
 
-**👍
+**👍  
 Accesorios**
 
 - **[Bandas](#Bandas_elasticas_de_resistencia) elásticas:** 30€
@@ -95,7 +70,7 @@ Accesorios**
 - **[Almohadilla](#Almohadilla_para_barra_de_pesas) para el hip trust:** 17€
 - **[Comba](#Comba_de_fitness):** 9€
 
-**💁🏻‍♂️
+**💁🏻‍♂️  
 Sobradas**
 
 - **305kg en mancuernas [hexagonales](#Mancuernas_hexagonales):** 1.021€
@@ -152,23 +127,23 @@ Si sólo pudiera comprarme una sola cosa para mi gimnasio en casa, serían unas 
 
 Los discos se van poniendo y sacando como mi…s ganas de entrenar y lo bueno es que a medida que progresamos en pesos, podemos ir comprando más discos según vemos que nos hacen falta.
 
-![mancuernas ajustables en casa](https://pau.ninja/wp-content/uploads/2021/03/mancuernas-ajustables-en-casa.jpg)
+![mancuernas ajustables en casa](./wp-content/uploads/2021/03mancuernas-ajustables-en-casa.jpg)
 
 Para mí son indispensables pero cuando los pesos empiezan a subir considerablemente, es un engorro de ir quitando y poniendo, además que hacen de muy mal apoyar encima de la pierna, por esto también terminé comprando [hexagonales](#Mancuernas_hexagonales).
 
 Miré por bastantes webs de fitness y las mancuernas ajustables que me salían mejor eran las de Amazon aunque me tardaron una semana bien buena en mandármelas.
 
-[![RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFRWUlZjMEpDY0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...')
+[![RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFRWUlZjMEpDY0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...")
 
-[RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...](https://www.amazon.es/dp/B097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...')
+[RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...](https://www.amazon.es/dp/B097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...")
 
 Compré dos pares de 30kg y una de 20kg intercambiables y con esto ya pude tirar bien para empezar.
 
 84,99 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-Si tuviera metas de powerlifter, la cosa cambia, pero para estar sano, buenorro y poder hacer un montón de ejercicios en casa las mancuernas ajustables son el *gadget* más polivalente para un gimnasio casero.
+Si tuviera metas de powerlifter, la cosa cambia, pero para estar sano, buenorro y poder hacer un montón de ejercicios en casa las mancuernas ajustables son el _gadget_ más polivalente para un gimnasio casero.
 
 He visto bastantes mancuernas ajustables que terminan con oxido. De momento no me ha pasado pero cuando este momento llegue tendrá sentido comprarse unos guantes que vayan a juego con el color de mi bolso…
 
@@ -178,19 +153,19 @@ Y hablando de «extras» existe la opción del ricachón que prefiere pagar algo
 
 Son esas mancuernas que girando una ruedecita del extremo, elegimos el peso, y la cantidad que no se necesita se queda en la base de la mancuerna.
 
-![Bowflex SelectTech](https://pau.ninja/wp-content/uploads/2021/03/Bowflex-SelectTech.jpg)
+![Bowflex SelectTech](./wp-content/uploads/2021/03Bowflex-SelectTech.jpg)
 
 Es un concepto muy chulo, y como buen concepto chulo se tiene que pagar bien.
 
 Ahora mismo rebajado
 
-[![Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGYU4xaFRUbEIxT0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...')
+[![Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGYU4xaFRUbEIxT0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...")
 
-[Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...](https://www.amazon.es/dp/B078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...')
+[Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...](https://www.amazon.es/dp/B078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...")
 
-165,07 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+165,07 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Lo único que no me gusta es que son bastante anchas, así que para hacer algunos ejercicios de pecho (por ejemplo) tengo la sensación que no me permitirían de hacer mucho recorrido o se llegarían a tocar muy pronto.
 
@@ -238,17 +213,17 @@ Sólo subiendo un poco nuestro presupuesto podemos comprar un banco que multipli
 
 Una cosa en la que sí acerté y recomiendo, es hacerse con un banco que en las especificaciones diga explícitamente que permite varios cientos de quilos.
 
-No es para hacerme el fuertote diciendo que me saco un montón de press de banca, pero lo compré ya así con mucha resistencia pensando en que el ejercicio donde me saco más peso necesito un banco: el *hip thrust* para glúteos.
+No es para hacerme el fuertote diciendo que me saco un montón de press de banca, pero lo compré ya así con mucha resistencia pensando en que el ejercicio donde me saco más peso necesito un banco: el _hip thrust_ para glúteos.
 
 Yo busqué uno que se pudiera también declinar (no sólo inclinar) y eso, que aguantara mucho peso. Compré uno por poco más de 110€ y lo usé durante varias semanas.
 
-[![ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdU1GSndSa2hoVTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...')
+[![ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdU1GSndSa2hoVTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...")
 
-[ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...](https://www.amazon.es/dp/B071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...')
+[ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...](https://www.amazon.es/dp/B071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...")
 
-78,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+78,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Hay personas que no hacen en press de banca declinado pero a mi me encanta hacerlo, lo que pasa que claro como este banco (aunque aguante los quilos) no tiene soporte para las piernas, se lo vendí a mi amigo Sinici que también se estaba montando un gimnasio en casa, y decidí comprarme otro.
 
@@ -258,7 +233,7 @@ Tiré por uno de 460€… me picó un poco, y aunque no fue tan fácil como los
 
 El banco Multiposición Body-Solid GFID71 es de esos modelos semiprofesionales que tiene soporte en las piernas para que cuando lo declinamos, se aguante bien.
 
-![banco soporte piernas](https://pau.ninja/wp-content/uploads/2021/03/banco-soporte-piernas.jpg)
+![banco soporte piernas](./wp-content/uploads/2021/03banco-soporte-piernas.jpg)
 
 Foto: ella no venía con el pedido. Compré el banco en [FitnessDigital](https://www.fitnessdigital.com/banco-multiposicion-body-solid-gfid71/p/10001655/).
 
@@ -316,7 +291,7 @@ La barra y los discos son olímpicos, que significa que el diámetro del agujero
 
 En verdad los queremos de 50mm porque estos materiales son de más calidad, más duraderos, pero sobretodo, a la larga podemos cargar más peso sin necesitar tanto espacio en la barra.
 
-![](https://pau.ninja/wp-content/uploads/2021/03/hip-thrust-con-banco.jpg)
+![](./wp-content/uploads/2021/03hip-thrust-con-banco.jpg)
 
 Foto: yo haciendo un hip thrust de 125kg x6 sin olvidar un buen estilo de calcetines. Banco contra la pared, que aguante y sin una barra olímpica no podría cargar tanto mis glúteos.
 
@@ -324,7 +299,7 @@ Me explico. Los discos de 20kg olímpicos son más altos que los convencionales 
 
 Pero para mí y por mi experiencia también he visto como los convencionales en general son discos y barras de menor calidad que los olímpicos. Es por esto que **son más caros**, pero yo recomiendo pagarlo.
 
-![set discos olímpicos de goma](https://pau.ninja/wp-content/uploads/2021/03/set-discos-olimpicos-de-goma.png)
+![set discos olímpicos de goma](./wp-content/uploads/2021/03set-discos-olimpicos-de-goma.png)
 
 Personalmente compré los discos por separado uno por uno y de distintas marcas según me salían más barato por peso. Después compré 2 discos olímpicos de goma adicionales de 20kg para darle bien al glúteo, así que el total me salió a unos 600€ sólo en discos vía [PureFitness](https://www.purefitness.es/discos-olimpicos?en-stock=1).
 
@@ -340,7 +315,7 @@ Una vez tenemos barras y discos, no tienen demasiado sentido a menos que la quer
 
 Me refiero a que con solo 150€ más podemos tener un soporte de barra para sentadillas y banca que nos **multiplica exponencialmente** la cantidad de ejercicios pesados que podemos hacer.
 
-![sentadilla paralela](https://pau.ninja/wp-content/uploads/2021/03/sentadilla-paralela.jpg)
+![sentadilla paralela](./wp-content/uploads/2021/03sentadilla-paralela.jpg)
 
 Foto: yo haciendo una sentadilla paralela con mi camiseta motivadora de Freezer «This isn’t even my final form».
 
@@ -348,21 +323,21 @@ Si ya nos dejamos unos 700€ en barra y discos, tiene todo el sentido del mundo
 
 Cuando me cerraron Estonia y volé rápido y corriendo entré en pánico y compré el mejor soporte en relación calidad-precio que encontré por internet.
 
-[![ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGSFNHTllUbWhvYUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...')
+[![ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGSFNHTllUbWhvYUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...")
 
-[ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...](https://www.amazon.es/dp/B07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...')
+[ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...](https://www.amazon.es/dp/B07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...")
 
 El soporte que compré yo.
 
-99,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+99,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Cuando se tienen las mancuernas, la barra, los discos y el soporte ya podemos empezar a decir que tenemos un gimnasio montado en casa y podemos hacer **todos los básicos** para ir creciendo muscularmente hablando.
 
 La verdad es que en este aspecto se cumplieron sus propósitos a la perfección.
 
-![press banca en casa](https://pau.ninja/wp-content/uploads/2021/03/press-banca-en-casa.jpg)
+![press banca en casa](./wp-content/uploads/2021/03press-banca-en-casa.jpg)
 
 Pulsa aquí para desplegar los ejercicios que podemos hacer con el material que tenemos ahora.
 
@@ -415,15 +390,15 @@ Para los que tienen un presupuesto de hasta 1.000€ con esto podemos hacer ya d
 
 Sale mucho más a cuenta comprar una kettlebell ajustable que un juego entero.
 
-[![Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelVtdG1WVVV5ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única')
+[![Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelVtdG1WVVV5ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negrorojo, Talla Única")
 
-[Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única')
+[Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única")
 
 La mejor kettlebell ajustable que existe.
 
-229,00 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+229,00 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Yo fui un poco tonto y terminé con un juego entero desde los 4kg a los 20kg. Pero mi excusa es que tienen la «forma correcta» de kettlebells aunque supongo que es lo que me digo para no sentirme mal de que me terminara gastando más pasta de la que debía…
 
@@ -431,11 +406,11 @@ A este extra hay que añadirlo algo que para mí es vital: la **barra de dominad
 
 Ya sabéis que hay un montón de modelos: de puerta, de pared y hasta de árbol. Yo compré una de pared porque siempre he sido de tener muchos dorsales y de terminar pareciendo un murciélago sin camiseta.
 
-[![ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGUE9EQjRPR2hXVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...')
+[![ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGUE9EQjRPR2hXVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...")
 
-[ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...](https://www.amazon.es/dp/B07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...')
+[ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...](https://www.amazon.es/dp/B07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Claro para mí que esté bien sujeta es esencial porque acostumbro a lastrarme y poner más peso para que lo arrastre mi cuerpo.
 
@@ -443,15 +418,15 @@ Claro para mí que esté bien sujeta es esencial porque acostumbro a lastrarme y
 
 Siempre hay esos a los que le da cosa meter cuatro agujeros en la pared así que habría también la opción de ricachón para comprar una de esas estaciones «power tower» que es una estructura donde se pueden hacer dominadas y fondos.
 
-[![Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGT2JISkljREYxVGt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...')
+[![Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGT2JISkljREYxVGt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...")
 
-[Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...](https://www.amazon.es/dp/B07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...')
+[Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...](https://www.amazon.es/dp/B07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...")
 
 La mejor alternativa calidad-precio para los que no pueden clavar nada en la pared.
 
 249,99 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Yo antes que dejarme 200 pavos en esto, combinaría unas paralelas + barra de dominadas que es mucho más polivalente.
 
@@ -510,11 +485,11 @@ Tuve la suerte que en el último momento vi una empresa alemana en Amazon llamad
 
 El nombre engaña un poco la vista porque parece que dice Amazon y piensas que es la marca blanca de Amazon, pero no lo es y encontré un rack guapísimo, con Multipower (máquina guiada), poleas e incluso estante para ordenar los discos.
 
-[![CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRE0yazFiR2xIT0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...')
+[![CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRE0yazFiR2xIT0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...")
 
-[CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...](https://www.amazon.es/dp/B09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...')
+[CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...](https://www.amazon.es/dp/B09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pagué 1.400€ por ello pero después de ver algunos modelos como la Force USA Monster Commercial G3 [a 2.300€](https://www.titaniumstrength.es/force-usa-monster-g3-rack-maquina-smith-y-multifuncion-poleas.html) o de similares con exactamente las mismas cosas, no dudé.
 
@@ -524,17 +499,17 @@ Al fin y al cabo es un gimnasio para toda la vida. No quiero ser el tonto que ga
 
 Aún así también hay la opción intermedia, lógicamente de la misma casa y confieso que estuve a punte de tirar por este, porque por poco más de 600€ sale muy a cuenta.
 
-[![Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV2RWbFJZbVp4V2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...')
+[![Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV2RWbFJZbVp4V2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...")
 
-[Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...](https://www.amazon.es/dp/B08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...')
+[Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...](https://www.amazon.es/dp/B08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...")
 
 716,99 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Se trata de la jaula de potencia en si. Sin poleas ni máquina Smith, pero con esto y unas [bandas elásticas](#Bandas_elasticas_de_resistencia) todos los trabajos accesorios ya están cubiertos si tenemos las mancuernas y lo anterior.
 
-Si os soy sincero, el *look* del rack me gusta mucho más que de la máquina guiada con poleas, y me gusta la sensación de entrenar dentro de una jaula.
+Si os soy sincero, el _look_ del rack me gusta mucho más que de la máquina guiada con poleas, y me gusta la sensación de entrenar dentro de una jaula.
 
 ### Barras paralelas regulables
 
@@ -542,13 +517,13 @@ Uno de los extras más polivalentes que me gustan más son las barras paralelas 
 
 No son nada más ni nada menos que dos barras a unos 90cm del suelo con muchas resistencia para hacer fondos, que es ese ejercicio donde flexionamos los brazos y nuestro cuerpo se va al fondo del infierno.
 
-[![Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFMGEwRnpVekJ3YkZNdVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...')
+[![Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFMGEwRnpVekJ3YkZNdVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasiadip station, calistenia,...")
 
-[Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...')
+[Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...")
 
 Estas barras paralelas de madera ofrecían la mejor relación calidad-precio que he visto.
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pero no sólo sirven para hacer fondos, pero también para empezarle a dar a ciertos ejercicios de calistenia como [_front lever_](https://i.ytimg.com/vi/vXef4preKY4/maxresdefault.jpg), o empujes de triceps y otros ejercicios.
 
@@ -560,7 +535,7 @@ Como el rango de pesos entre hombros, pecho y espalda que tiro de pesas oscila m
 
 ¿Por qué hexagonales? pues porque por algún motivo son más baratas que las redondas aunque yo encantado, así puedo hacer más estable algunos ejercicios donde las mancuernas se juntan, como en un press cerrado para tríceps.
 
-![press cerrado mancuernas](https://pau.ninja/wp-content/uploads/2021/03/press-cerrado-mancuernas.jpg)
+![press cerrado mancuernas](./wp-content/uploads/2021/03press-cerrado-mancuernas.jpg)
 
 Foto: yo y mi calvo usando las hexagonales en la primera versión del gym casero.
 
@@ -578,15 +553,15 @@ Finalmente ya sabéis que yo me dejé pasta en una serie de pesas rusas de las d
 
 FOTOOO
 
-Personalmente no me importó dejarme +400 pavos en un conjunto de *kettlebells* para hacer movilidad o para hacer un buen *finisher* al terminar una sesión de entreno.
+Personalmente no me importó dejarme +400 pavos en un conjunto de _kettlebells_ para hacer movilidad o para hacer un buen _finisher_ al terminar una sesión de entreno.
 
-Creo que hay diferencia en tener que pasar un rato preparando las mancuernas o *kettlebells* ajustables para hacer un ratito extra porque nos apetece.
+Creo que hay diferencia en tener que pasar un rato preparando las mancuernas o _kettlebells_ ajustables para hacer un ratito extra porque nos apetece.
 
 Yo terminaba de montarlo y ya estaba cansado y sin ganas de dar un último empujón, por eso me cundió dejarme pasta en las [hexagonales](#Mancuernas_hexagonales) y las pesas rusas.
 
 ### Banco de pesas compelto
 
-Decidí venderle el banco a mi amigo *Sinji* que me había dejado entrenar con él la primera semana de mi regreso a España porque le faltaba uno.
+Decidí venderle el banco a mi amigo _Sinji_ que me había dejado entrenar con él la primera semana de mi regreso a España porque le faltaba uno.
 
 El caso es que yo estaba contento con [este banco ajustable](#Banco_de_pesas_ajustable) por todo el peso que aguanta, la movilidad y lo barato que es. Pero… no podía hacer press declinado pesado, porque no tenía soporte para piernas.
 
@@ -596,19 +571,19 @@ En comparación con los 120€ de antes, desembolsé 460€ pero lo hice content
 
 ## Accesorios para gimnasio en casa
 
-Dejándonos un poquito más de *dineros* nos acercamos a un gimnasio casero cada vez más profesional.
+Dejándonos un poquito más de _dineros_ nos acercamos a un gimnasio casero cada vez más profesional.
 
 ### Straps de gimnasio
 
 Y ahora voy a sonar un hipócrita porque lo que se me hizo inevitable que comprara fueron los straps, que son unas correas para las muñecas para que no nos falle el agarre.
 
-También se les llama «agarraderas de levantamiento acolchadas», pero lo dejamos con *straps* que suena más molón.
+También se les llama «agarraderas de levantamiento acolchadas», pero lo dejamos con _straps_ que suena más molón.
 
 Ya he explicado algunas veces que tengo una muñeca pequeña (fatal para relojes), y aunque en mi primer año de gimnasio me creció un poco, al final se interponía entre mis entrenos de espalda.
 
-Como el músculo de espalda tiene tirar mucho más que lo que puede aguantar mi muñeca y agarre, lo terminaba soltando antes de quemarme de espalda, así que fue inevitable que me comprara unos *straps* para esto.
+Como el músculo de espalda tiene tirar mucho más que lo que puede aguantar mi muñeca y agarre, lo terminaba soltando antes de quemarme de espalda, así que fue inevitable que me comprara unos _straps_ para esto.
 
-![usando straps](https://pau.ninja/wp-content/uploads/2021/03/usando-straps.jpg)
+![usando straps](./wp-content/uploads/2021/03usando-straps.jpg)
 
 Para mí a partir de +20kg por mano, los straps son tan necesarios como hacer caretos en cada repetición.
 
@@ -618,8 +593,8 @@ Las que tengo yo son de MyProtein que estaban baratas comparando con las de Amaz
 
 El accesorio para gimnasio en casa que creo que está más infravalorado para todos los hombres que creen que es un adhitivo de mujer, son las bandas elásticas de resistencia.
 
-[![bandas elásticas de resistencia](https://pau.ninja/wp-content/uploads/2024/02/bandas-elasticas-de-resistencia.jpg)](https://pau.ninja/tienda/gomas-calistenia/)
-[Comprar aquí](https://pau.ninja/tienda/gomas-calistenia/)
+[![bandas elásticas de resistencia](./wp-content/uploads/2024/02/bandas-elasticas-de-resistencia.jpg)](https://pau.ninja/tienda/gomas-calistenia)  
+[Comprar aquí](./tienda/gomas-calistenia)
 
 - **Precio:** 65€ aprox (sin aplicar cupón)
 - **Cupón descuento:** _RECURSOS_
@@ -635,25 +610,25 @@ No importa, porque el trabajo de poleas (o bandas en este caso) se tendría que 
 
 Entrenando la fuerza es 100% necesario que compremos unos cierros para la barra olímpica y no se nos mueva.
 
-[![tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGblYzaHBkbkpHYmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...')
+[![tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGblYzaHBkbkpHYmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...")
 
-[tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...](https://www.amazon.es/dp/B08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...')
+[tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...](https://www.amazon.es/dp/B08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 No importa si hacemos press banca, sentadillas o hip thrust, no hay nada peor que un disco se empiece a decantar para jdernos el ejercicio.
 
 ### Almohadilla para barra de pesas
 
-Y precisamente para el *hip thrust* (el empuje de cadera para el culo) es cuando se hace totalmente necesario comprar una almohadilla para cuando nos lo pongamos en la entrepierna/cadera para empujar la barra ([foto](#Barra_olimpica_discos_de_goma_y_soporte)).
+Y precisamente para el _hip thrust_ (el empuje de cadera para el culo) es cuando se hace totalmente necesario comprar una almohadilla para cuando nos lo pongamos en la entrepierna/cadera para empujar la barra ([foto](#Barra_olimpica_discos_de_goma_y_soporte)).
 
-[![Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeGJHZzRibWh0SzB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...')
+[![Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeGJHZzRibWh0SzB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...")
 
-[Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...](https://www.amazon.es/dp/B082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...')
+[Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...](https://www.amazon.es/dp/B082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...")
 
-15,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+15,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 He visto muchos que se lo ponen en la espalda para hacer sentadillas pero yo recomendaría aprender a sentir el tacto de la barra como antes mejor porque de lo contrario estamos en una posición muy rara para la espalda.
 
@@ -663,13 +638,13 @@ Un accesorio que para mí es imprescindible es el cinturón de lastre para las d
 
 Básicamente es un cinturón abierto con una cadena y mosquetón.
 
-[![HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV1EzaDZSRTFIVmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...')
+[![HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV1EzaDZSRTFIVmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...")
 
-[HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...](https://www.amazon.es/dp/B06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...')
+[HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...](https://www.amazon.es/dp/B06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...")
 
-20,98 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+20,98 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 En mi primer gimnasio casero había utilizado el típico cinturón lumbar con una cadena y mosquetón que compré por 4€ a la cafetería, pero ya me dije que no quería más cinturón lumbar en los ejercicios porque de lo contrario tengo la sensación que estoy desbalanceando mi cuerpo.
 
@@ -679,21 +654,21 @@ Si la espalda baja tiene que trabajar. Que lo haga.
 
 Para los que no tienen una habitación vieja como la mía, el suelo de goma es una buena adición a los discos de goma. Así doblamos la imposibilidad de romper el suelo.
 
-[![Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGS1ZqZHVaa280WjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...')
+[![Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGS1ZqZHVaa280WjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...")
 
-[Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...](https://www.amazon.es/dp/B088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...')
+[Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...](https://www.amazon.es/dp/B088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 ### Comba de fitness
 
 Cuando decido descansar, paso de correr totalmente. Es el tipo de cardio que más odio y realmente noto que a mis rodillas no le gusta. Así que tiro siempre de un salto a la cuerda y de combinar tipos de salto, intensidades y demás.
 
-[![Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUk1sQnVVamhLVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...')
+[![Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUk1sQnVVamhLVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...")
 
-[Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...](https://www.amazon.es/dp/B08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...')
+[Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...](https://www.amazon.es/dp/B08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Nada como hacer saltos a una pierna, cruzando brazos, _double unders_ y lo que sea que me ocurra según lo motivado que esté.
 
@@ -701,15 +676,15 @@ Nada como hacer saltos a una pierna, cruzando brazos, _double unders_ y lo que s
 
 Pero si hay algo realmente polivalente en los extras son las anillas de madera.
 
-De hecho si os dais cuenta todo lo que son *gadgets* de gimnasio de calistenia, son los que acostumbran a ser más polivalentes y las anillas de gimnasia dan para mucho.
+De hecho si os dais cuenta todo lo que son _gadgets_ de gimnasio de calistenia, son los que acostumbran a ser más polivalentes y las anillas de gimnasia dan para mucho.
 
-[![BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGT1dEbFBOMmRhVEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...')
+[![BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGT1dEbFBOMmRhVEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...")
 
-[BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...](https://www.amazon.es/dp/B01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...')
+[BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...](https://www.amazon.es/dp/B01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...")
 
-47,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+47,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Claro que en este caso necesitaríamos una estructura alta como una [jaula de potencia](#Rack_de_sentadillas_o_jaula_de_potencia_con_poleas), o en mi caso atado desde la barra de dominada .
 
@@ -719,17 +694,17 @@ Y como último accesorio el **más importante de todos…** un espejo para gimn
 
 El espejo es indispensable para hacer en esa habitación las cosas que no nos atrevemos a hacer en el gym comercial. Poses, en vez de ejercicios.
 
-![pose frente al espejo](https://pau.ninja/wp-content/uploads/2020/01/comic-masa-muscular.png)
+![pose frente al espejo](./wp-content/uploads/2020/01comic-masa-muscular.png)
 
 Yo le dije a mis padres que era para mirar lo correctamente que hago los ejercicios básicos, pero la realidad es que lo uso para sacarme la camiseta durante ejercicios.
 
-[![Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGV2VVTjZOMjVOUWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwOTQzNQ=)](https://www.amazon.es/dp/B01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm')
+[![Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGV2VVTjZOMjVOUWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTM1Ng=)](https://www.amazon.es/dpB01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm")
 
-[Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm](https://www.amazon.es/dp/B01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm')
+[Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm](https://www.amazon.es/dp/B01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm")
 
-116,67 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+116,67 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Potencialmente quiero que todas las paredes estén llenas de espejos pero esto me lo quedo para el «ultimatum gym».
 
@@ -779,8 +754,88 @@ Con 1.000€ ya podemos incorporar un par de mancuernas ajustables, barras y ban
 
 Como comentaba [Tom MacCormick](https://breakingmuscle.com/fitness/the-benefit-of-increasing-training-volume-for-hypertrophy) y otros entrenadores personales titulados, cuando el aumento de la hipertrofia (volumen muscular) es el objetivo, tendríamos también que centrarnos en **aumentar el volumen de trabajo**.
 
-Es decir, aumentar la duración de nuestras sesiones. Poco a poco y sin centrarnos **sólo** en aumentar la **carga progresiva** de los ejercicios compuestos que hacen aumentar la fuerza[1](<javascript:void(0)>)Lorenz D, Morrison S. CURRENT CONCEPTS IN PERIODIZATION OF STRENGTH AND CONDITIONING FOR THE SPORTS PHYSICAL THERAPIST. Int J Sports Phys Ther. 2015 Nov;10(6):734-47. PMID: 26618056; PMCID: PMC4637911., pero también en el número de repeticiones y series totales.
+Es decir, aumentar la duración de nuestras sesiones. Poco a poco y sin centrarnos **sólo** en aumentar la **carga progresiva** de los ejercicios compuestos que hacen aumentar la fuerza[ref-1](#ref-1){.ref}Lorenz D, Morrison S. CURRENT CONCEPTS IN PERIODIZATION OF STRENGTH AND CONDITIONING FOR THE SPORTS PHYSICAL THERAPIST. Int J Sports Phys Ther. 2015 Nov;10(6):734-47. PMID: 26618056; PMCID: PMC4637911., pero también en el número de repeticiones y series totales.
 
 Progresivamente y sin pasar nuestra capacidad de recuperación, claro.
 
 Algo que ya tocaré cuando hable de mis rutinas ninja.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Fitness](./fitness)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/montar-gimnasio-en-casa/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":11125,"title":"7%20materiales%20%2B%204%20pasos%20que%20segu%C3%AD%20al%20montar%20mi%20GYM%20casero","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/03\\/gimnasio-casero.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

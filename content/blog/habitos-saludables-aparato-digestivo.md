@@ -1,13 +1,18 @@
 ---
-title: "Súper digestión el adiós al papel higiénico gracias a la dieta carnívora"
+title: "Súper digestión"
+url: https://pau.ninja/habitos-saludables-aparato-digestivo
+slug: habitos-saludables-aparato-digestivo
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: persona-estrenida-por-la-digestion-de-la-carne.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/persona-estrenida-por-la-digestion-de-la-carne.jpeg
 published: 2023-08-28T14:28:19+00:00
 modified: 2023-12-22T21:08:29+00:00
+scrappedAt: 2024-10-14T09:19:53.811Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75355178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F345343048-44100-2-6f10ac9734f88.mp3
-slug: habitos-saludables-aparato-digestivo
+bibliography: ["Daley CA, Abbott A, Doyle PS, Nader GA, Larson S. A review of fatty acid profiles and antioxidant content in grass-fed and grain-fed beef. Nutr J. 2010 Mar 10;9:10. doi: 10.1186/1475-2891-9-10. PMID: 20219103; PMCID: PMC2846864.","“Eat Wild – Super Natural.” 2019. Eatwild.com.‌","Ghosh S, DeCoffe D, Brown K, Rajendiran E, Estaki M, Dai C, Yip A, Gibson DL. Fish oil attenuates omega-6 polyunsaturated fatty acid-induced dysbiosis and infectious colitis but impairs LPS dephosphorylation activity causing sepsis. PLoS One. 2013;8(2):e55468. doi: 10.1371/journal.pone.0055468. Epub 2013 Feb 6. PMID: 23405155; PMCID: PMC3566198.","Patterson E, Wall R, Fitzgerald GF, Ross RP, Stanton C. Health implications of high dietary omega-6 polyunsaturated Fatty acids. J Nutr Metab. 2012;2012:539426. doi: 10.1155/2012/539426. Epub 2012 Apr 5. PMID: 22570770; PMCID: PMC3335257.","“Are You Getting Enough Calcium? (¿Estás Consumiendo Suficiente Cantidad de Calcio?).” 2022. Mayo Clinic.‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/75355178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F345343048-44100-2-6f10ac9734f88.mp3](https://anchor.fm/s/98566448/podcast/play/75355178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F345343048-44100-2-6f10ac9734f88.mp3)
 
 Imagina que cada vez que cagas, tu culo te manda un mensaje de texto sobre lo bien o mal que has digerido la comida. Que tu única forma de contestar será limpiándote con papel higiénico.
@@ -45,7 +50,7 @@ O en lenguaje ninja: la única manera de saber estás teniendo una digestión pe
 
 Que no necesitas hacerte otra pasada.
 
-> Unas digestiones perfectas que los que seguimos una [dieta basada en sólo carne (carnívora)](https://pau.ninja/dieta-carnivora/) conocemos a dedo.
+> Unas digestiones perfectas que los que seguimos una [dieta basada en sólo carne (carnívora)](./dieta-carnivora) conocemos a dedo.
 
 Donde no necesitar limpiarte el culo es el pan de cada día. (irónicamente, porque no comemos cereales)
 
@@ -65,27 +70,6 @@ Si no lo haces bien, prepárate por unos buenos estreñimiento y diarreas.
 
 Por suerte para ti, hoy hablamos de cómo evitarlas para conseguir unos hábitos tan saludables que tu aparato digestivo sólo querrá mandarte mensajes de buen rollo.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [El proceso de digestión de la carne](#El_proceso_de_digestion_de_la_carne 'El proceso de digestión de la carne')
-  - [Por qué la carne tarda tanto tiempo en digerirse](#Por_que_la_carne_tarda_tanto_tiempo_en_digerirse 'Por qué la carne tarda tanto tiempo en digerirse')
-  - [Por esto los veganos necesitan enzimas digestivas](#Por_esto_los_veganos_necesitan_enzimas_digestivas 'Por esto los veganos necesitan enzimas digestivas')
-  - [Digestiones en la dieta carnívora](#Digestiones_en_la_dieta_carnivora 'Digestiones en la dieta carnívora')
-  - [Cómo cocinar la carne para que sea más saludable](#Como_cocinar_la_carne_para_que_sea_mas_saludable 'Cómo cocinar la carne para que sea más saludable')
-  - [Problemas de la carne muy hecha](#Problemas_de_la_carne_muy_hecha 'Problemas de la carne muy hecha')
-  - [Beneficios de comer carne poco hecha](#Beneficios_de_comer_carne_poco_hecha 'Beneficios de comer carne poco hecha')
-- [Hábitos saludables para cuidar a tu aparato digestivo](#Habitos_saludables_para_cuidar_a_tu_aparato_digestivo 'Hábitos saludables para cuidar a tu aparato digestivo')
-  - [Ayunar a menudo](#Ayunar_a_menudo 'Ayunar a menudo')
-  - [Reducir el omega 6](#Reducir_el_omega_6 'Reducir el omega 6')
-  - [Vigilar con las grasas extraídas](#Vigilar_con_las_grasas_extraidas 'Vigilar con las grasas extraídas')
-  - [Consumir suficiente grasas](#Consumir_suficiente_grasas 'Consumir suficiente grasas')
-  - [Hidratarse con agua de buena calidad](#Hidratarse_con_agua_de_buena_calidad 'Hidratarse con agua de buena calidad')
-  - [Asegurar buen balance de electrolitos](#Asegurar_buen_balance_de_electrolitos 'Asegurar buen balance de electrolitos')
-  - [Utilizar suplementos sabiamente](#Utilizar_suplementos_sabiamente 'Utilizar suplementos sabiamente')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## El proceso de digestión de la carne
 
 Te lo digo claro: la carne, órganos y productos animales son la mejor manera de tratar con amor y dulzura a tu aparato digestivo.
@@ -93,8 +77,6 @@ Te lo digo claro: la carne, órganos y productos animales son la mejor manera de
 A pesar de que el proceso digestivo es lento, **estás extrayendo el máximo de nutrición**. Estás siendo eficiente tanto a nivel energético como nutricional de todo lo que estás extrayendo.
 
 Lo sé, lo sé. Comer mucha verdura, fruta y fibra te hace ir al baño con regularidad… Pero simplemente mírate las veces que tienes que pasar el papel para limpiarte. Tu cuerpo te está intentando decir algo.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Consumiendo ese montón de volumen de comida baja en calorías y bajos nutrientes como son las plantas, frutas y verduras, que tienen poco tiempo de tránsito (1-2 días como máximo en el estómago), irás muchas veces al baño.
 
@@ -134,13 +116,11 @@ Algo que con las plantas no podemos hacer.
 
 ### Por esto los veganos necesitan enzimas digestivas
 
-Aunque ahora [ya no consumo verduras](https://pau.ninja/no-comer-verduras/) por seguir la dieta carnívora, me acuerdo perfectamente de lo fácil que era ir al baño comiendo plantas…
+Aunque ahora [ya no consumo verduras](./no-comer-verduras) por seguir la dieta carnívora, me acuerdo perfectamente de lo fácil que era ir al baño comiendo plantas…
 
 Claro, las plantas tienen un tiempo de tránsito muy corto. Nos lo enseñan los amigos veganos que van al baño cuatro veces al día, pero a un precio bien caro: **más deshecho, menos absorción**.
 
 La fibra aumenta el tamaño del ñordo y las veces que se visita al señor váter pueden ser de múltiples veces al día.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 En cambio la proteína y la grasa pasan mucho más tiempo en el intestino delgado.
 
@@ -154,7 +134,7 @@ Mira la cantidad de comida que una persona que sigue la dieta carnívora está c
 
 > Yo mismo consumo +1kg de carne al día, y cuando voy al baño saco bolitas pequeñas que hacen que ni me tenga que limpiar el trasero.
 
-Hago *perfects*.
+Hago _perfects_.
 
 Mi cuerpo está **absorbiendo y aprovechando mucha más cantidad de nutrientes y minerales**.
 
@@ -175,7 +155,7 @@ Es bien común en el primer par de semanas, es ver a personas con:
 
 Pero son situaciones temporales que terminan pasando. Al fin y al cabo hemos estado maltratando a nuestro aparato digestivo durante épocas.
 
-Es normal que haya una época de ajuste, además de que muchos *carnívoros* necesitan ajustar mejor sus dietas de carne con [hábitos para cuidar a tu aparato digestivo](#Habitos_saludables_para_cuidar_a_tu_aparato_digestivo) que veremos en un rato.
+Es normal que haya una época de ajuste, además de que muchos _carnívoros_ necesitan ajustar mejor sus dietas de carne con [hábitos para cuidar a tu aparato digestivo](#Habitos_saludables_para_cuidar_a_tu_aparato_digestivo) que veremos en un rato.
 
 Personalmente tuve una buena diarrea los primeros cinco días, pero ya había asimilado que me podía tocar.
 
@@ -225,8 +205,6 @@ No sé si se entiende la comparación.
 
 Por esto llegas a estar saciado (recordemos que la saciedad es puramente hormonal, no física) con mucha menos carne que esté poco hecha. En cambio puedes meterte 2kg de carne muy hecha y aún sentir hambre.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Sí. Llegarás a meterte muchas calorías, pero tu cuerpo te pedirá que comas más porque aún no lo has abastecido de micronutrientes.
 
 Tiene sentido que reduzcamos entonces el punto de cocción al mínimo posible, hasta que nos sintamos cómodos, para incrementar los nutrientes.
@@ -245,9 +223,9 @@ Del mismo modo que habría hábitos que nunca volvería a repetir ahora que los 
 
 - **Problema:** comemos demasiado a menudo, algunas personas 5 veces al día o incluso más, esto hace que el aparato digestivo no tenga suficiente tiempo para limpiarse
 - **Síntoma:** malas digestiones
-- **Solución:** no hace falta [comer una vez al día](https://pau.ninja/comer-una-vez-al-dia/) como yo a veces, sino que con 2 o 3 veces al día como máximo ya es una buena manera de ayudar al cuerpo a digerir mejor
+- **Solución:** no hace falta [comer una vez al día](./comer-una-vez-al-dia) como yo a veces, sino que con 2 o 3 veces al día como máximo ya es una buena manera de ayudar al cuerpo a digerir mejor
 
-Lo primero que no repetiría es volver a creerme toda la narrativa ya no culturista [para ganar masa muscular](https://pau.ninja/como-ganar-masa-muscular-rapido/), sino incluso nutricional del Estado, asegurándonos que necesitamos comer cuatro o cinco veces al día, o incluso más.
+Lo primero que no repetiría es volver a creerme toda la narrativa ya no culturista [para ganar masa muscular](./como-ganar-masa-muscular-rapido), sino incluso nutricional del Estado, asegurándonos que necesitamos comer cuatro o cinco veces al día, o incluso más.
 
 ¿Me podéis decir en qué momento de nuestra evolución teníamos tanta abundancia de comida que podíamos hacer pequeños picotazos a lo Rubiales?
 
@@ -255,9 +233,7 @@ Que se lo pregunten a los indígenas. A ver cuantos poblados del Amazonas comen 
 
 Tampoco hace falta hacer ayunos de 24 horas como hago yo los días de avión (prefiero no comer nada que antes que meterme eso que llaman _comida_ en los aeropuertos), pero si tener dos dedos de frente al ayunar e ir ajustándonos.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Cómo regla general empezaría ayunando 15-16 horas e ir subiendo 1 horita diaria del [ayuno intermitente que según mi experienci](https://pau.ninja/ayuno-intermitente-experiencias/)a es una de las mejores herramientas.
+Cómo regla general empezaría ayunando 15-16 horas e ir subiendo 1 horita diaria del [ayuno intermitente que según mi experienci](./ayuno-intermitente-experiencias)a es una de las mejores herramientas.
 
 Ya no sólo para no sentirte un esclavo de la comida, sino para tener una claridad mental y productividad como nunca antes.
 
@@ -271,21 +247,19 @@ Una de las cosas que he aprendido gracias mis digestiones y a experimentar con l
 
 O mejor dicho, a un ratio de omega 3 y omega 6 totalmente antinatural.
 
-Por esto hacemos tanto hincapié en que comprar carne e pasto siempre será mejor opción que la del supermercado[1](<javascript:void(0)>)Daley CA, Abbott A, Doyle PS, Nader GA, Larson S. A review of fatty acid profiles and antioxidant content in grass-fed and grain-fed beef. Nutr J. 2010 Mar 10;9:10. doi: 10.1186/1475-2891-9-10. PMID: 20219103; PMCID: PMC2846864.[2](<javascript:void(0)>)“Eat Wild – Super Natural.” 2019. Eatwild.com.‌.
+Por esto hacemos tanto hincapié en que comprar carne e pasto siempre será mejor opción que la del supermercado[ref-1](#ref-1){.ref}[ref-2](#ref-2){.ref}.
 
-![omega3 animales pasto](https://pau.ninja/wp-content/uploads/2021/10/omega3-animales-pasto.jpeg)
+![omega3 animales pasto](./wp-content/uploads/2021/10omega3-animales-pasto.jpeg)
 
 El perfil, el ratio de omega-3 y omega-6 será 1:1 (el correcto), cuando es de pasto. Cuanto más cereal se le da al ganado, más se dispara el omega-6.
 
-Esto lo menciono porque consumir exceso de omega-6 es totalmente inflamatorio y contribuye a peores digestiones[3](<javascript:void(0)>)Ghosh S, DeCoffe D, Brown K, Rajendiran E, Estaki M, Dai C, Yip A, Gibson DL. Fish oil attenuates omega-6 polyunsaturated fatty acid-induced dysbiosis and infectious colitis but impairs LPS dephosphorylation activity causing sepsis. PLoS One. 2013;8(2):e55468. doi: 10.1371/journal.pone.0055468. Epub 2013 Feb 6. PMID: 23405155; PMCID: PMC3566198.[4](<javascript:void(0)>)Patterson E, Wall R, Fitzgerald GF, Ross RP, Stanton C. Health implications of high dietary omega-6 polyunsaturated Fatty acids. J Nutr Metab. 2012;2012:539426. doi: 10.1155/2012/539426. Epub 2012 Apr 5. PMID: 22570770; PMCID: PMC3335257..
+Esto lo menciono porque consumir exceso de omega-6 es totalmente inflamatorio y contribuye a peores digestiones[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}.
 
 Por esto en la dieta carnívora se recomienda al máximo la carne de rumiantes y no de animales monogástricos como el cerdo, gallina, pato… que tienen un perfil de Omega 6 bastante más elevado.
 
 De hecho aquí en Estonia cambié una de mis fuentes de grasa por grasa de pato criado en libertad, y pude comprobar en mis propias carnes (nunca mejor dicho) que me fui por la pata abajo (o por la pato a abajo).
 
 Diarrea durante un par de días.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Comía los mismos alimentos cada día y lo único que hice fue cambiar la fuente de mantequilla por unas cucharadas de grasa de pato.
 
@@ -294,8 +268,6 @@ Por esto me hace gracia ver a personas que se han pasado a consumir más carne y
 Si puedes encontrar un ganado local, ya os puedo decir que no hay mucha diferencia en el precio.
 
 Aunque el alimento tenga el mismo nombre, vale mucho la pena.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Si a todo el mundo le siente tan bien la carne (a nadie le sienta mal), os juro que siendo de pasto aún sienta mejor.
 
@@ -325,7 +297,7 @@ Cuando calentamos esta grasa a altas temperaturas durante periodos muy largos pa
 
 Aquí estamos diciendo que incluso si este tipo de grasa en el pote es de la más alta calidad que puedes encontrar… con animales alimentados de pasto 100% de la mano del ganadera, con nombres de humano y se les ha tocado música para acostarse… no importa.
 
-![cómic carne de pasto y bienestar animal](https://pau.ninja/wp-content/uploads/2023/08/comic-carne-de-pasto.png)
+![cómic carne de pasto y bienestar animal](./wp-content/uploads/2023/08comic-carne-de-pasto.png)
 
 Igualmente se oxidará una locura si se extrae de su entorno natural.
 
@@ -353,9 +325,7 @@ Algo muy común para los que piensan que la carnívora es una dieta alta en prot
 
 Si no consumes suficientes grasas (tu única fuente de energía) prepárate para una buena sesión de estreñimiento.
 
-Algo mucho más común de lo que parece porque los que empiezan por estos lares, a pesar de saber que la carnívora va contra [todos los mitos nutricionales](https://pau.ninja/mitos-nutricionales/)… le siguen teniendo [miedo a las grasas saturadas a pesar de ser buenas](https://pau.ninja/grasas-saturadas-son-buenas/).
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Algo mucho más común de lo que parece porque los que empiezan por estos lares, a pesar de saber que la carnívora va contra [todos los mitos nutricionales](./mitos-nutricionales/)… le siguen teniendo [miedo a las grasas saturadas a pesar de ser buenas](https://pau.ninja/grasas-saturadas-son-buenas).
 
 ¿Y qué sucede? Pues que mientras que una grasa de mala calidad (por ejemplo la extraída o con mucho omega 6) puede dar una buena diarrea, el hecho de no consumir suficiente grasa en una carnívora puede provocar estreñimiento.
 
@@ -375,23 +345,23 @@ Y es que puede que simplemente necesites beber más agua y si esto no funciona,
 
 Simplemente porque hay montones de fuentes de agua con ratios de partes por million antinaturales o varios químicos que afectan a la microbiota intestinal.
 
-Personalmente he notado que bebiendo cierto tipo de agua puede llevarme al estreñimiento, por esto uno de [los principales beneficios del agua con gas](https://pau.ninja/beneficios-del-agua-con-gas/) con es precisamente elegir que vengan de fuentes naturales.
+Personalmente he notado que bebiendo cierto tipo de agua puede llevarme al estreñimiento, por esto uno de [los principales beneficios del agua con gas](./beneficios-del-agua-con-gas) con es precisamente elegir que vengan de fuentes naturales.
 
 ### Asegurar buen balance de electrolitos
 
-- **Problema:** la falta de algunos minerales es lo que hace que muchos piensen que [la fibra es mano de santo para el estreñimiento](https://pau.ninja/mano-de-santo-para-el-estrenimiento/) cuando en realidad no lo es
+- **Problema:** la falta de algunos minerales es lo que hace que muchos piensen que [la fibra es mano de santo para el estreñimiento](./mano-de-santo-para-el-estrenimiento) cuando en realidad no lo es
 - **Síntoma:** estreñimiento
 - **Solución:** incrementar el potasio y bajar la ingesta de calcio
 
 O elegir aguas que no sean de origen humano con gas añadido, que acostumbran a llevar montones de calcio. Otro de los problemas que da estreñimiento en una dieta carnívora (un problema común para los que deciden meter mucho queso aprovechando que no les sienta mal).
 
-La falta de potasio causa estreñimiento. El exceso de calcio también, el cual muchas personas tienen por las (malas) recomendaciones del Estado, recomendando burradas de calcio antinatural… 1 gramo al día nos piden[5](<javascript:void(0)>)“Are You Getting Enough Calcium? (¿Estás Consumiendo Suficiente Cantidad de Calcio?).” 2022. Mayo Clinic.‌. Una maldita animalada.
+La falta de potasio causa estreñimiento. El exceso de calcio también, el cual muchas personas tienen por las (malas) recomendaciones del Estado, recomendando burradas de calcio antinatural… 1 gramo al día nos piden[ref-5](#ref-5){.ref}. Una maldita animalada.
 
 Además, si fallas con esto, estarás vaciando el magnesio.
 
 El sodio, potasio, calcio y magnesio tiene distintas funciones en el cuerpo y ya no es sólo el hecho de consumirlos, sino de hacerlo con los ratios adecuados.
 
-O si ahora que ya sabes [lo beneficiosa que es la sal para la salud](https://pau.ninja/beneficios-de-la-sal/) (#450), puedes terminar metiéndote demasiado en tu carne, lo que a la vez vaciará la reservas de potasio que a la vez vaciará las reservas de magnesio.
+O si ahora que ya sabes [lo beneficiosa que es la sal para la salud](./beneficios-de-la-sal) (#450), puedes terminar metiéndote demasiado en tu carne, lo que a la vez vaciará la reservas de potasio que a la vez vaciará las reservas de magnesio.
 
 En este departamento como podéis ver es un poquito jodido y con lo que la gente tiene que experimentar un poco más.
 
@@ -409,13 +379,13 @@ Este es el suplemento por excelencia para ir al baño.
 
 Ahora mismo rebajado
 
-[![Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVWEyOUhiblZJUmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxMjk3Mw=)](https://www.amazon.es/dp/B004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...')
+[![Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVWEyOUhiblZJUmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MjYyOA=)](https://www.amazon.es/dpB004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...")
 
-[Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...](https://www.amazon.es/dp/B004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...')
+[Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...](https://www.amazon.es/dp/B004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...")
 
-27,63 €
+30,70 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 En cambio el suplemento de glicinato de magnesio, que es magnesio adjuntado a una molécula de glicina, no tiene casi un efecto llamémoslo «laxante» pero sí puede ayudar a ir al baño.
 
@@ -424,27 +394,3 @@ La última cosa que recomendaría, eso sí, es un suplemento de fibra… Que no 
 Muchos problemas de estreñimiento se podrían solucionar con un suplemento de magnesio pero esto lo tomaría como último recurso.
 
 Realmente lo que querrás hacer antes que nada es analizar cuál es el problema, haciendo pruebas para ver como puedes adaptar tu dieta para que puedas conseguir las súper digestiones carnívoras que te mereces.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Daley CA, Abbott A, Doyle PS, Nader GA, Larson S. A review of fatty acid profiles and antioxidant content in grass-fed and grain-fed beef. Nutr J. 2010 Mar 10;9:10. doi: 10.1186/1475-2891-9-10. PMID: 20219103; PMCID: PMC2846864.
-
-- 2
-
-  “Eat Wild – Super Natural.” 2019. Eatwild.com.‌
-
-- 3
-
-  Ghosh S, DeCoffe D, Brown K, Rajendiran E, Estaki M, Dai C, Yip A, Gibson DL. Fish oil attenuates omega-6 polyunsaturated fatty acid-induced dysbiosis and infectious colitis but impairs LPS dephosphorylation activity causing sepsis. PLoS One. 2013;8(2):e55468. doi: 10.1371/journal.pone.0055468. Epub 2013 Feb 6. PMID: 23405155; PMCID: PMC3566198.
-
-- 4
-
-  Patterson E, Wall R, Fitzgerald GF, Ross RP, Stanton C. Health implications of high dietary omega-6 polyunsaturated Fatty acids. J Nutr Metab. 2012;2012:539426. doi: 10.1155/2012/539426. Epub 2012 Apr 5. PMID: 22570770; PMCID: PMC3335257.
-
-- 5
-
-  “Are You Getting Enough Calcium? (¿Estás Consumiendo Suficiente Cantidad de Calcio?).” 2022. Mayo Clinic.‌

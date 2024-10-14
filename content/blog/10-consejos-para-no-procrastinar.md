@@ -1,13 +1,18 @@
 ---
-title: "Adiós, procrastinación una cura para tu mente dispersa"
+title: "Adiós, procrastinación"
+url: https://pau.ninja/10-consejos-para-no-procrastinar
+slug: 10-consejos-para-no-procrastinar
+categories: 
+- slug: productividad
+    label: Productividad
 image: persona-que-no-procrastina.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/07/persona-que-no-procrastina.jpeg
 published: 2024-05-17T04:30:16+00:00
 modified: 2024-08-10T19:43:02+00:00
+scrappedAt: 2024-10-14T09:19:19.208Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/87403434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-30%2F379232421-44100-2-c2b9e522b7d91.mp3
-slug: 10-consejos-para-no-procrastinar
+bibliography: ["2002, CubeSmart, Inc, «‌Social Interruption and the Loss of Productivity».","Wohl, Michael & Pychyl, Timothy & Bennett, Shannon. (2010). I forgive myself, now I can study: How self-forgiveness for procrastinating can reduce future procrastination. Personality and Individual Differences. 48. 803-808. 10.1016/j.paid.2010.01.029.","Daniel TO, Stanton CM, Epstein LH. The future is now: reducing impulsivity and energy intake using episodic future thinking. Psychol Sci. 2013 Nov 1;24(11):2339-42. doi: 10.1177/0956797613488780. Epub 2013 Sep 10. PMID: 24022653; PMCID: PMC4049444.","“This Is Why Our Brain Loves Pictures | International Forum of Visual Practitioners.” 2023. Ifvp.org.","“Neural Pathways: How Your Mind Stores the Info and Thoughts That Affect Your Behaviour.” 2015. Lifexchangesolutions.com.‌‌","Ranganathan VK, Siemionow V, Liu JZ, Sahgal V, Yue GH. From mental power to muscle power–gaining strength by using the mind. Neuropsychologia. 2004;42(7):944-56. doi: 10.1016/j.neuropsychologia.2003.11.018. PMID: 14998709.","Thompson, Derek. 2014. “The Procrastination Doom Loop—and How to Break It” The Atlantic","Ferrari, Joseph & Tice, Dianne. (2000). Procrastination as a Self-Handicap for Men and Women: A Task-Avoidance Strategy in a Laboratory Setting. Journal of Research in Personality. 34. 73-83. 10.1006/jrpe.1999.2261.","“Perfectionism, Procrastination and Panic: Finishing Essay under Pressure.” 2015. Metafilter.com. MetaFilter.‌","USC Marshall School of Business. «Two stressed people equals less stress: Sharing nervous feelings helps reduce stress.» ScienceDaily. ScienceDaily, 29 January 2014.","Ozbay F, Johnson DC, Dimoulas E, Morgan CA, Charney D, Southwick S. Social support and resilience to stress: from neurobiology to clinical practice. Psychiatry (Edgmont). 2007 May;4(5):35-40. PMID: 20806028; PMCID: PMC2921311."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/87403434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-30%2F379232421-44100-2-c2b9e522b7d91.mp3](https://anchor.fm/s/98566448/podcast/play/87403434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-30%2F379232421-44100-2-c2b9e522b7d91.mp3)
 
 ¿Os daría rabia que una persona se quejara de no ganar músculo en el gimnasio cuando en su día a día no come bien, no duerme y sale de fiesta los findes?
@@ -22,7 +27,7 @@ Y también me dan rabia los procrastinadores que se quejan de no poderse concent
 - Relaciones
 - Sol
 
-Fallar en los básicos de la salud humana significa inevitablemente tener [síntomas de niebla mental](https://pau.ninja/niebla-mental-causas-sintomas/), ¿y cómo demonios vas a concentrarte si no puedes pensar con claridad?
+Fallar en los básicos de la salud humana significa inevitablemente tener [síntomas de niebla mental](./niebla-mental-causas-sintomas), ¿y cómo demonios vas a concentrarte si no puedes pensar con claridad?
 
 Ahora bien.
 
@@ -30,9 +35,9 @@ Como eres un ninja de la vida vamos a asumir que tienes todo esto un 80% bajo co
 
 Entonces hoy saldrás de aquí pensando que es pan comido (o carne comida) pasar de ser un procrastinador casi crónico a un ninja de la productividad.
 
-![procrastinación crónica vs adicción al trabajo](https://pau.ninja/wp-content/uploads/2023/07/procrastinacion-cronica-vs-adiccion-al-trabajo.png)
+![procrastinación crónica vs adicción al trabajo](./wp-content/uploads/2023/07procrastinacion-cronica-vs-adiccion-al-trabajo.png)
 
-Conozco algunas personas que [pueden estar en estado de _flow_](https://pau.ninja/estado-de-flow/) durante horas, pero para la mayoría de mentes multipotenciales (esos a los que nos interesan tantas cosas) veo que es lo más normal del mundo que una curiosidad orgánica se apodere de nosotros y nos haga empezar a divagar a montones de rincones insospechados.
+Conozco algunas personas que [pueden estar en estado de _flow_](./estado-de-flow) durante horas, pero para la mayoría de mentes multipotenciales (esos a los que nos interesan tantas cosas) veo que es lo más normal del mundo que una curiosidad orgánica se apodere de nosotros y nos haga empezar a divagar a montones de rincones insospechados.
 
 > Miro a la procrastinación no como un comportamiento negativo sino como una expresión natural humana por ese deseo de curiosidad insaciable.
 
@@ -51,30 +56,13 @@ Es el mejor símil de la historia pero ya entendéis a que me refiero.
 
 De la misma manera que no coges los vasos de agua y los tiras para volverlos a llenar sino que te los bebes, los buenos procrastinadores hacen exactamente lo mismo.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [10 consejos para eliminar la procrastinación](#10_consejos_para_eliminar_la_procrastinacion '10 consejos para eliminar la procrastinación')
-  - [Deja de ser reactivo](#Deja_de_ser_reactivo 'Deja de ser reactivo')
-  - [Procrastina estrategicamente](#Procrastina_estrategicamente 'Procrastina estrategicamente')
-  - [Haz lo correcto por la razón equivocada](#Haz_lo_correcto_por_la_razon_equivocada 'Haz lo correcto por la razón equivocada')
-  - [Haz que el inicio sea increíblemente fácil](#Haz_que_el_inicio_sea_increiblemente_facil 'Haz que el inicio sea increíblemente fácil')
-  - [Observa la tarea desde fuera](#Observa_la_tarea_desde_fuera 'Observa la tarea desde fuera')
-  - [Imagina el futuro](#Imagina_el_futuro 'Imagina el futuro')
-  - [Redefine la tarea en vez de la fecha límite](#Redefine_la_tarea_en_vez_de_la_fecha_limite 'Redefine la tarea en vez de la fecha límite')
-  - [Compártelo con otros para disiparlo](#Compartelo_con_otros_para_disiparlo 'Compártelo con otros para disiparlo')
-  - [Se consciente de que lo estás haciendo](#Se_consciente_de_que_lo_estas_haciendo 'Se consciente de que lo estás haciendo')
-  - [Elimina tus distracciones proactivamente](#Elimina_tus_distracciones_proactivamente 'Elimina tus distracciones proactivamente')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## 10 consejos para eliminar la procrastinación
 
 Por esto vamos a ver unos cuantos consejos científicos para batir a la procrastinación. Para darle el espacio que se merece, cuando se lo merezca, pero que nosotros tengamos el control.
 
 ### Deja de ser reactivo
 
-Según la evidencia el 73% de nosotros actuamos de inmediato cuando hay una interrupción.[1](<javascript:void(0)>)2002, CubeSmart, Inc, «‌Social Interruption and the Loss of Productivity».
+Según la evidencia el 73% de nosotros actuamos de inmediato cuando hay una interrupción.[ref-1](#ref-1){.ref}
 
 Sin importar lo importante que sea la tarea que estemos haciendo ese momento.
 
@@ -82,7 +70,7 @@ O sea los datos nos están diciendo que la mayoría somos **reactivos**.
 
 Esta reactividad instantánea a todo lo que ocurre en nuestro entorno es lo que nos hace ser procrastinadores crónicos. El no poder avanzar a dirigir toda esta energía en un solo foco.
 
-![hacer muchas cosas a la vez](https://pau.ninja/wp-content/uploads/2023/06/hacer-muchas-cosas-a-la-vez.jpeg)
+![hacer muchas cosas a la vez](./wp-content/uploads/2023/06hacer-muchas-cosas-a-la-vez.jpeg)
 
 Nos van saliendo ideas constantes lo que hace que tengamos miedo a olvidarnos.
 
@@ -92,7 +80,7 @@ Para ir añadiendo lo que vaya saliendo en una lista secundaria y **permitirme n
 
 Fijaros como son las cosas.
 
-Esto de no ser reactivo, ¿no os suena mucho a [las características de un hombre de alto valor](https://pau.ninja/hombre-de-alto-valor/)?
+Esto de no ser reactivo, ¿no os suena mucho a [las características de un hombre de alto valor](./hombre-de-alto-valor)?
 
 Uno de los valores del estoicismo en la masculinidad es no ser reactivo. Que cuando suceda algo podamos canalizar la energía. Mantener la sangre fría para poder actuar como debemos…
 
@@ -108,17 +96,17 @@ Por esto tiene sentido hacerlo estratégicamente, mirad.
 
 ### Procrastina estrategicamente
 
-Un estudio de hace una década encontró que los estudiantes que «se perdonaron» a si mismos por procrastinar, fueron más propensos a **no** procrastinar para estudiar por sus exámenes[2](<javascript:void(0)>)Wohl, Michael & Pychyl, Timothy & Bennett, Shannon. (2010). I forgive myself, now I can study: How self-forgiveness for procrastinating can reduce future procrastination. Personality and Individual Differences. 48. 803-808. 10.1016/j.paid.2010.01.029. .
+Un estudio de hace una década encontró que los estudiantes que «se perdonaron» a si mismos por procrastinar, fueron más propensos a **no** procrastinar para estudiar por sus exámenes[ref-2](#ref-2){.ref} .
 
 O en lenguaje ninja:
 
 Esto sucede porque cuando nos sentimos culpables por no haber hecho lo que tenía que hacer, señal que nos importa. Y si nos importa, acostumbramos a acompañar esa procrastinación de una autopromesa para cambiar.
 
-![paso para dejar de procrastinar](https://pau.ninja/wp-content/uploads/2023/07/paso-para-dejar-de-procrastinar.jpeg)
+![paso para dejar de procrastinar](./wp-content/uploads/2023/07paso-para-dejar-de-procrastinar.jpeg)
 
 Nos juramos que la próxima vez, nuestro comportamiento será mejor y **estaremos a la altura**.
 
-Claro que [existen distintas causas de la procrastinación](https://pau.ninja/causas-de-la-procrastinacion/) y es por esto que no hay un libro de instrucciones paso a paso para tratarla, sino distintas estrategias para abordarla según cuál sea el problema que nos impide hacer foco.
+Claro que [existen distintas causas de la procrastinación](./causas-de-la-procrastinacion) y es por esto que no hay un libro de instrucciones paso a paso para tratarla, sino distintas estrategias para abordarla según cuál sea el problema que nos impide hacer foco.
 
 Lo que me funciona a mí no tiene porque funcionarte a ti. Y al revés.
 
@@ -136,11 +124,11 @@ Podemos aceptar estos sentimientos y ganas de procrastinar, pero los redirigemos
 
 Quizás tienes que escribir un artículo o picar unas cuantas líneas de código, pero sientes que la mente te empieza a divagar.
 
-Si eres de esas personas que [necesitan aprender a decir que no](https://pau.ninja/aprender-a-decir-no/), ¿qué haces? Pues te pones a leer, o a mirar vídeos de YouTube de cosas que te interesen en vez de mirar pr0n o jugar a videojuegos.
+Si eres de esas personas que [necesitan aprender a decir que no](./aprender-a-decir-no), ¿qué haces? Pues te pones a leer, o a mirar vídeos de YouTube de cosas que te interesen en vez de mirar pr0n o jugar a videojuegos.
 
 Claro que leer o mirar vídeos no te hará avanzar en ese artículo o código, pero estarás creando esa pausa mental de la que ya he hablado algunas veces que después te hace más productivo.
 
-![procrastinar para ser productivo](https://pau.ninja/wp-content/uploads/2023/07/procrastinar-para-ser-productivo.jpeg)
+![procrastinar para ser productivo](./wp-content/uploads/2023/07procrastinar-para-ser-productivo.jpeg)
 
 En cambio un mal procrastinador usa su procrastinación con Netflix, series, o no hacer nada de provecho.
 
@@ -148,7 +136,7 @@ En cambio un mal procrastinador usa su procrastinación con Netflix, series, o n
 
 Cuando nos permitimos procrastinar en las cosas pequeñas, dejaremos de tener tendencia en procrastinar en las cosas grandes.
 
-Será algo de los cerebros de [las personas multipotenciales](https://pau.ninja/multipotencial/) pero no podemos centrarnos en una sola cosa tanto como un especialista porque necesitamos el chute de las otras cosas que nos interesan.
+Será algo de los cerebros de [las personas multipotenciales](./multipotencial) pero no podemos centrarnos en una sola cosa tanto como un especialista porque necesitamos el chute de las otras cosas que nos interesan.
 
 Por esto miro a la procrastinación no como un defecto personal, sino como un recurso expresivo de la naturaleza curiosa del cerebro humano.
 
@@ -168,7 +156,7 @@ Un truco es haciendo lo correcto (lo que debemos hacer) pero **por la razón equ
 
 ¿Os suena de algo esta estrategia?
 
-En el fondo estos ejemplos [ilustran la panacea para crear nuevos hábitos](https://pau.ninja/como-crear-un-habito/) (#469). Los famosos «hábitos apalancados».
+En el fondo estos ejemplos [ilustran la panacea para crear nuevos hábitos](./como-crear-un-habito) (#469). Los famosos «hábitos apalancados».
 
 ¿Qué es lo correcto? Ir al gimnasio. ¿Cuál es la razón correcta? Estar sano o buenorro sin ropa, el problema es que como esto es a largo plazo, nuestro cerebro no le dará la importancia que se merece, así que incorporamos un elemento de ahora mismo placentero como es escuchar música.
 
@@ -200,7 +188,7 @@ Los que procrastino más.
 
 O los que al menos me cuesta mucho más ponerme. ¿Sabéis por qué?
 
-Una de las razones podría ser que cuando dormimos el cerebro desprende ondas theta y delta, que son las mismas que el momento de [llegar al estado de *flow*](https://pau.ninja/como-alcanzar-el-estado-de-flow/) (#486).
+Una de las razones podría ser que cuando dormimos el cerebro desprende ondas theta y delta, que son las mismas que el momento de [llegar al estado de _flow_](./como-alcanzar-el-estado-de-flow) (#486).
 
 Otro motivo es que estas acciones insignificantes pero que a la vez te alejan más de ser productivo como es mirar el móvil un rato o no saber qué hacer, en el fondo nos aleja un poco más de tener la opción de tomar pequeñas acciones con recompensa.
 
@@ -228,7 +216,7 @@ El tío dice que «oficialmente no he empezado el libro» así que no tiene ning
 
 ### Imagina el futuro
 
-Otra forma que va en una línea distinta para no procrastinar es entender más *para qué* está cableado nuestro cerebro.
+Otra forma que va en una línea distinta para no procrastinar es entender más _para qué_ está cableado nuestro cerebro.
 
 Sabemos que nuestro cerebro está cableado para sobrevivir el _aquí_ y el _ahora_. Es por esto que nos metemos atracones de comida basura, o tomamos acciones que nos repercutirán negativamente en el futuro.
 
@@ -240,9 +228,9 @@ Pero nosotros, con nuestro intelecto consciente modern, queremos hacer bajar del
 
 Que tomar las decisiones difíciles _ahora_ nos llevarán a una mejor vida _luego_.
 
-![decisiones difíciles en la vida](https://pau.ninja/wp-content/uploads/2023/06/decisiones-dificiles-en-la-vida.png)
+![decisiones difíciles en la vida](./wp-content/uploads/2023/06decisiones-dificiles-en-la-vida.png)
 
-Algo de hackeo podemos hacer porque algunos estudios han visto como incentivar a los sujetos a imaginarse su futuro hace que tengan más posibilidades de tomar mejores decisiones durante «el ahora»[3](<javascript:void(0)>)Daniel TO, Stanton CM, Epstein LH. The future is now: reducing impulsivity and energy intake using episodic future thinking. Psychol Sci. 2013 Nov 1;24(11):2339-42. doi: 10.1177/0956797613488780. Epub 2013 Sep 10. PMID: 24022653; PMCID: PMC4049444..
+Algo de hackeo podemos hacer porque algunos estudios han visto como incentivar a los sujetos a imaginarse su futuro hace que tengan más posibilidades de tomar mejores decisiones durante «el ahora»[ref-3](#ref-3){.ref}.
 
 Los científicos lo llaman «la estrategia del viaje en el tiempo».
 
@@ -252,9 +240,9 @@ A ver.
 
 Sí y no…
 
-Es verdad que somos criaturas visuales. Nuestro cerebro puede procesar imágenes 60.000 veces más rápido que lo que procesa texto[4](<javascript:void(0)>)“This Is Why Our Brain Loves Pictures | International Forum of Visual Practitioners.” 2023. Ifvp.org.,
+Es verdad que somos criaturas visuales. Nuestro cerebro puede procesar imágenes 60.000 veces más rápido que lo que procesa texto[ref-4](#ref-4){.ref},
 
-La evidencia sugiere que sí. Si te ves a ti mismo en un escenario (aunque sea imaginario) constante, en el que [alcanzas metas personales](https://pau.ninja/como-alcanzar-metas-personales/), hay más probabilidades de que la consigas[5](<javascript:void(0)>)“Neural Pathways: How Your Mind Stores the Info and Thoughts That Affect Your Behaviour.” 2015. Lifexchangesolutions.com.‌‌.
+La evidencia sugiere que sí. Si te ves a ti mismo en un escenario (aunque sea imaginario) constante, en el que [alcanzas metas personales](./como-alcanzar-metas-personales), hay más probabilidades de que la consigas[ref-5](#ref-5){.ref}.
 
 > El cerebro empieza a crear conexiones neuronales para crear el propio comportamiento que necesitas para conseguir esta meta.
 
@@ -266,7 +254,7 @@ Absolutamente ninguno.
 
 El 99% de los tableros de visión se hacen mal precisamente por esto. Porque la peña se pone fotos del final del camino, no de los hábitos que tienen que adoptar para llegar ahí.
 
-En un estudio se vio como aquellos que se visualizaron levantando pesas antes de ir al gimnasio terminaron levantando más[6](<javascript:void(0)>)Ranganathan VK, Siemionow V, Liu JZ, Sahgal V, Yue GH. From mental power to muscle power–gaining strength by using the mind. Neuropsychologia. 2004;42(7):944-56. doi: 10.1016/j.neuropsychologia.2003.11.018. PMID: 14998709..
+En un estudio se vio como aquellos que se visualizaron levantando pesas antes de ir al gimnasio terminaron levantando más[ref-6](#ref-6){.ref}.
 
 O sea que para aprovechar estas conexiones del cerebro imaginándose el futuro, sería mucho más efectivo poner imágenes de todas esas acciones peliagudas, duras, difíciles pero que **sabes al 100% por las que tienes que pasar** para llegar a tus metas.
 
@@ -285,7 +273,7 @@ Es decir, que si tienes 2 semanas para hacer algo, seguramente tardarás 2 seman
 
 Que tenemos esa mala tendencia a dejar las cosas para el último momento, porque nuestro cerebro está cableado así.
 
-![ley de parkinson](https://pau.ninja/wp-content/uploads/2023/07/ley-de-parkinson.jpeg)
+![ley de parkinson](./wp-content/uploads/2023/07ley-de-parkinson.jpeg)
 
 Cuanto más tiempo tengamos para completar una tarea, más tiempo perderemos porque la fecha nos queda lejos.
 
@@ -293,9 +281,9 @@ Así funciona la mente, ninjas de la vida.
 
 Sabiendo esto, muchos nos hemos intentado engañar autoimponiéndonos una fecha de entrega o finalización más temprana. Porque somos unos zorrudos… pero esta estrategia ninja nunca termina funcionando.
 
-Esto es porque las fuerzas externas funcionan mejor que las internas (las que nos imponemos nosotros mismos).[7](<javascript:void(0)>)Thompson, Derek. 2014. “The Procrastination Doom Loop—and How to Break It” The Atlantic
+Esto es porque las fuerzas externas funcionan mejor que las internas (las que nos imponemos nosotros mismos).[ref-7](#ref-7){.ref}
 
-Hubo un estudio muy interesante que enseñaba porque «redefinir» la tarea tenía más sentido que redefinir la fecha límite.[8](<javascript:void(0)>)Ferrari, Joseph & Tice, Dianne. (2000). Procrastination as a Self-Handicap for Men and Women: A Task-Avoidance Strategy in a Laboratory Setting. Journal of Research in Personality. 34. 73-83. 10.1006/jrpe.1999.2261.
+Hubo un estudio muy interesante que enseñaba porque «redefinir» la tarea tenía más sentido que redefinir la fecha límite.[ref-8](#ref-8){.ref}
 
 El objetivo de los participantes era hacer un puzzle, pero antes de hacerlo se les permitía que jugaran un rato al Tetris.
 
@@ -313,7 +301,7 @@ Pero sí podemos redefinirlo hasta cierto punto.
 
 Por ejemplo… con retos. Retos que pueden tomar muchas formas:
 
-- Poniéndote un cronómetro para ver quien si puedes vencer tu último record de concentración.[9](<javascript:void(0)>)“Perfectionism, Procrastination and Panic: Finishing Essay under Pressure.” 2015. Metafilter.com. MetaFilter.‌
+- Poniéndote un cronómetro para ver quien si puedes vencer tu último record de concentración.[ref-9](#ref-9){.ref}
 - Lo que a mí me va muy bien por ejemplo es tener un entorno específico sólo para el trabajo profundo. Tener más de un entorno en el que trabajas.
 
 Porque es difícil hacer el trabajo en el que necesito estar concentración estando en el sofá con el portátil, pero el sofá es un buen sitio para hacer esas tareas mecánicas mientras escucho música.
@@ -330,7 +318,7 @@ Una paradoja como la copa de un pino.
 
 Pero lo que les va muy bien a estos procrastinadores ansiosos es el hecho de **compartir lo que tienen que hacer**.
 
-Los estudios demuestran que discutir un estado emocional negativo (como es la procrastinación) con otros que también lo están viviendo, hace que el sentimiento se disipe de forma substancial.[10](<javascript:void(0)>)USC Marshall School of Business. «Two stressed people equals less stress: Sharing nervous feelings helps reduce stress.» ScienceDaily. ScienceDaily, 29 January 2014.[11](<javascript:void(0)>)Ozbay F, Johnson DC, Dimoulas E, Morgan CA, Charney D, Southwick S. Social support and resilience to stress: from neurobiology to clinical practice. Psychiatry (Edgmont). 2007 May;4(5):35-40. PMID: 20806028; PMCID: PMC2921311.
+Los estudios demuestran que discutir un estado emocional negativo (como es la procrastinación) con otros que también lo están viviendo, hace que el sentimiento se disipe de forma substancial.[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}
 
 Así que si estás en una comunidad molona ([como la nuestra](#unirse)) una buena idea puede ser usar los chats con otros procrastinadores para hacer reducir este sentimiento.
 
@@ -350,7 +338,7 @@ Ser consciente de cómo te sientes en el momento presente no deja de ser una pr�
 
 ### Elimina tus distracciones proactivamente
 
-Por esto los procrastinadores tienen un problema enorme con la tecnología de hoy en día, y es lo que llamamos *cambios de contexto*.
+Por esto los procrastinadores tienen un problema enorme con la tecnología de hoy en día, y es lo que llamamos _cambios de contexto_.
 
 Piensa que incluso aunque te digas que sólo vas a leer un triste email, en el fondoes difícil no perderte en tu bandeja una vez la hayas abierto.
 
@@ -370,13 +358,13 @@ Sí, a veces es el propio uso de la tecnología que nos ayuda a ser más product
 
 Pero siempre hay un punto en el que el remedio es peor que la enfermedad.
 
-![ser mas productivo con tecnología](https://pau.ninja/wp-content/uploads/2023/07/ser-mas-productivo-con-tecnologia.jpeg)
+![ser mas productivo con tecnología](./wp-content/uploads/2023/07ser-mas-productivo-con-tecnologia.jpeg)
 
 Un punto de rendimiento decreciente que hace que la pipa que usábamos para cazar ahora nos dispare en el pie y nos haga perder el tiempo (pestañas abiertas, videos abiertos sin darte cuenta, emails con notificaciones que se te cuelan en la pantalla…).
 
 Por esto el uso de la tecnología puede ser tanto bueno como mal hábito.
 
-Si consideramos que procrastinar es un hábito (mal hábito en este caso), entonces también podemos ser capaces de romperlo de la misma manera en la que rompemos excusas [cuando queremos entrarle a una desconocida](https://pau.ninja/como-entrarle-a-una-chica/).
+Si consideramos que procrastinar es un hábito (mal hábito en este caso), entonces también podemos ser capaces de romperlo de la misma manera en la que rompemos excusas [cuando queremos entrarle a una desconocida](./como-entrarle-a-una-chica).
 
 - Ser consciente que estás procrastinando o usando excusas.
 - Entonces contar «5, 3, 2, 1, ya» **en voz alta** porque al hacerlo despertamos el Sistema 2 de nuestra mente (la cabeza prefrontal ventrolateral) que nos frenan lo que sea que estábamos inmersos haciendo.
@@ -386,51 +374,3 @@ Para mí, mezclando tanto lo pragmático tipo truquitos, pero también lo teóri
 Pero creo que siempre lo vital es el entorno, y cómo hackearlo.
 
 El entorno y nuestra identidad, juegan en el mismo equipo. ¿Juegas tú en el mío? Pues [únete a la comunidad](#unirse).
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  2002, CubeSmart, Inc, «‌Social Interruption and the Loss of Productivity».
-
-- 2
-
-  Wohl, Michael & Pychyl, Timothy & Bennett, Shannon. (2010). I forgive myself, now I can study: How self-forgiveness for procrastinating can reduce future procrastination. Personality and Individual Differences. 48. 803-808. 10.1016/j.paid.2010.01.029.
-
-- 3
-
-  Daniel TO, Stanton CM, Epstein LH. The future is now: reducing impulsivity and energy intake using episodic future thinking. Psychol Sci. 2013 Nov 1;24(11):2339-42. doi: 10.1177/0956797613488780. Epub 2013 Sep 10. PMID: 24022653; PMCID: PMC4049444.
-
-- 4
-
-  “This Is Why Our Brain Loves Pictures | International Forum of Visual Practitioners.” 2023. Ifvp.org.
-
-- 5
-
-  “Neural Pathways: How Your Mind Stores the Info and Thoughts That Affect Your Behaviour.” 2015. Lifexchangesolutions.com.‌‌
-
-- 6
-
-  Ranganathan VK, Siemionow V, Liu JZ, Sahgal V, Yue GH. From mental power to muscle power–gaining strength by using the mind. Neuropsychologia. 2004;42(7):944-56. doi: 10.1016/j.neuropsychologia.2003.11.018. PMID: 14998709.
-
-- 7
-
-  Thompson, Derek. 2014. “The Procrastination Doom Loop—and How to Break It” The Atlantic
-
-- 8
-
-  Ferrari, Joseph & Tice, Dianne. (2000). Procrastination as a Self-Handicap for Men and Women: A Task-Avoidance Strategy in a Laboratory Setting. Journal of Research in Personality. 34. 73-83. 10.1006/jrpe.1999.2261.
-
-- 9
-
-  “Perfectionism, Procrastination and Panic: Finishing Essay under Pressure.” 2015. Metafilter.com. MetaFilter.‌
-
-- 10
-
-  USC Marshall School of Business. «Two stressed people equals less stress: Sharing nervous feelings helps reduce stress.» ScienceDaily. ScienceDaily, 29 January 2014.
-
-- 11
-
-  Ozbay F, Johnson DC, Dimoulas E, Morgan CA, Charney D, Southwick S. Social support and resilience to stress: from neurobiology to clinical practice. Psychiatry (Edgmont). 2007 May;4(5):35-40. PMID: 20806028; PMCID: PMC2921311.

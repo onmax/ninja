@@ -1,13 +1,18 @@
 ---
-title: "El carnívoro culturista: menos carbohidratos, más músculo (en cetosis) (aumentar masa muscular con la dieta cetogénica)"
+title: "El carnívoro culturista: menos carbohidratos, más músculo (en cetosis)"
+url: https://pau.ninja/masa-muscular-sin-carbohidratos
+slug: masa-muscular-sin-carbohidratos
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: culturista-en-cetosis.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/10/culturista-en-cetosis.jpeg
 published: 2022-10-07T10:14:33+00:00
 modified: 2023-12-15T08:47:50+00:00
+scrappedAt: 2024-10-14T09:20:26.272Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60613301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296930307-44100-2-0dff647d0fd36.mp3
-slug: masa-muscular-sin-carbohidratos
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/60613301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296930307-44100-2-0dff647d0fd36.mp3](https://anchor.fm/s/98566448/podcast/play/60613301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296930307-44100-2-0dff647d0fd36.mp3)
 
 Las probabilidades de que alguien que sigue una dieta carnívora (o si más no cetogénica, que no consume carbohidratos) y que además también haga deporte son muy altas.
@@ -16,36 +21,15 @@ Has estado buscando la manera más óptima de comer bien para estar sano y sabes
 
 Te vas haciendo más fuerte, vas ganando longevidad, pero no te engañes… Lo que más nos inspira para seguir este estilo de vida no es sentirnos con más energía y foco mental… Lo que más nos inspira es ir viéndonos cada vez más buenorros delante del espejo.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
-Pasa algo de tiempo y dices, «un momento… ¿me estoy empezando a ver los abdominales?» [empiezas a ir al gimnasio](https://pau.ninja/como-empezar-a-ir-al-gimnasio/) y sin darte cuenta llega un momento en que dices, quiero **ganar más masa muscular**. Hipertrofia muscular.
+Pasa algo de tiempo y dices, «un momento… ¿me estoy empezando a ver los abdominales?» [empiezas a ir al gimnasio](./como-empezar-a-ir-al-gimnasio) y sin darte cuenta llega un momento en que dices, quiero **ganar más masa muscular**. Hipertrofia muscular.
 
-Me has seguido un tiempo, por esto sabes cuáles son los pilares del [entrenamiento para ganar músculo](https://pau.ninja/entrenamiento-ganar-masa-muscular/), pero en todos los foros de fitness de internet no dejan de repetir como los carbohidratos son esenciales para la hipertrofia muscular.
+Me has seguido un tiempo, por esto sabes cuáles son los pilares del [entrenamiento para ganar músculo](./entrenamiento-ganar-masa-muscular), pero en todos los foros de fitness de internet no dejan de repetir como los carbohidratos son esenciales para la hipertrofia muscular.
 
-Quizás te sientes muy bien en tu dieta cetogénica. Quizás hasta sigues una [dieta de sólo carne como la mía](https://pau.ninja/dieta-carnivora/). ¿Entonces qué? **¿Hay que incorporar carbohidratos para hipertrofiar?**
+Quizás te sientes muy bien en tu dieta cetogénica. Quizás hasta sigues una [dieta de sólo carne como la mía](./dieta-carnivora). ¿Entonces qué? **¿Hay que incorporar carbohidratos para hipertrofiar?**
 
 Lo primero que pensaremos es que es verdad porque bueno. Si miramos el 99% de los atletas profesionales están consumiendo una dieta que tiene una presencia enorme de hidratos de carbono. Pero es que el 99% de la población mundial que **no es atleta** también está siguiendo una dieta mayoritaria en hidratos… O sea que hoy vamos a poner las coincidencias debajo de la alfombra y pasamos a responder usando un poquito de ciencia **si realmente es posible ganar masa muscular en una dieta cetogénica**.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [El punto de mira es el glucógeno muscular](#El_punto_de_mira_es_el_glucogeno_muscular 'El punto de mira es el glucógeno muscular')
-  - [Glucosa vía gluconeogénesis](#Glucosa_via_gluconeogenesis 'Glucosa vía gluconeogénesis')
-  - [Aumentar masa muscular sin carbohidratos](#Aumentar_masa_muscular_sin_carbohidratos 'Aumentar masa muscular sin carbohidratos')
-  - [Usar la dieta keto para ganar masa muscular](#Usar_la_dieta_keto_para_ganar_masa_muscular 'Usar la dieta keto para ganar masa muscular')
-- [La clave está en la digestión de los carbohidratos](#La_clave_esta_en_la_digestion_de_los_carbohidratos 'La clave está en la digestión de los carbohidratos')
-  - [Índice glucémico](#Indice_glucemico 'Índice glucémico')
-  - [Glucosa para entrenar](#Glucosa_para_entrenar 'Glucosa para entrenar')
-  - [Digestión de almidón](#Digestion_de_almidon 'Digestión de almidón')
-- [Pasos para ganar masa muscular con dieta cetogénica](#Pasos_para_ganar_masa_muscular_con_dieta_cetogenica 'Pasos para ganar masa muscular con dieta cetogénica')
-  - [No pasar de los 50gr de carbohidratos](#No_pasar_de_los_50gr_de_carbohidratos 'No pasar de los 50gr de carbohidratos')
-  - [Consumir miel antes de entrenar](#Consumir_miel_antes_de_entrenar 'Consumir miel antes de entrenar')
-  - [Incluir fruta después de entrenar](#Incluir_fruta_despues_de_entrenar 'Incluir fruta después de entrenar')
-  - [Separar azúcares de grasas y proteínas](#Separar_azucares_de_grasas_y_proteinas 'Separar azúcares de grasas y proteínas')
-  - [No consumir almidones](#No_consumir_almidones 'No consumir almidones')
-  - [Ciclar los carbohidratos](#Ciclar_los_carbohidratos 'Ciclar los carbohidratos')
-  - [Comer varias veces al día](#Comer_varias_veces_al_dia 'Comer varias veces al día')
 
 ## El punto de mira es el glucógeno muscular
 
@@ -66,7 +50,7 @@ Hacer una dieta sin hidratos implica estar en lo que se conoce como «cetosis nu
 
 Este es el motivo por el que los músculos tienen un aspecto más plano, menos llenos cuando entramos en el estado de cestosis.
 
-![meme glucógeno muscular](https://pau.ninja/wp-content/uploads/2022/10/meme-glucogeno-muscular.jpeg)
+![meme glucógeno muscular](./wp-content/uploads/2022/10meme-glucogeno-muscular.jpeg)
 
 Especialmente la primera semana de entrar en cetosis os encontraréis que mearéis mucho, especialmente por la noche. Es bastante molesto. Encima empiezas a perder un montón de peso muy rápido.
 
@@ -90,7 +74,7 @@ Es decir en la típica situación del ciudadano moderno que se atiborra de pan, 
 
 Por el contrario, la gluconeogénesis se basa en la demanda más que en la oferta. Está cogiendo la cantidad de **proteínas que necesita** para convertirlo en glucosa.
 
-![gluconeogenesis](https://pau.ninja/wp-content/uploads/2021/10/gluconeogenesis.jpg)
+![gluconeogenesis](./wp-content/uploads/2021/10gluconeogenesis.jpg)
 
 Pensad que la gluconeogénesis vía hígado no sucede tantas veces como algunos piensan, y realmente es sólo una función que sirve como soporte a la necesidad del cerebro de glucosa. Porque sí. Por mucha cetosis en la que estés, **el cerebro siempre necesita al menos un 20-30% de glucosa**.
 
@@ -100,17 +84,17 @@ Porque si el cuerpo sólo tiene cetonas y el cerebro necesita glucosa, pues la m
 
 Vamos, que la intención principal de la gluconeogénesis **no es suplir a los músculos, sino al cerebro**. El hígado no tendría tanta capacidad para producir tanta glucosa para los músculos.
 
-[![The Art and Science of Low Carbohydrate Performance](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcVozWmhZbVV6TWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTk3MA=)](https://www.amazon.es/dp/0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Art and Science of Low Carbohydrate Performance')
+[![The Art and Science of Low Carbohydrate Performance](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcVozWmhZbVV6TWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDUyOA=)](https://www.amazon.es/dp0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art and Science of Low Carbohydrate Performance")
 
-[The Art and Science of Low Carbohydrate Performance](https://www.amazon.es/dp/0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Art and Science of Low Carbohydrate Performance')
+[The Art and Science of Low Carbohydrate Performance](https://www.amazon.es/dp/0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art and Science of Low Carbohydrate Performance")
 
 Se puede expandir en el trabajo de los doctorados Volek & Phinney y también del Dr. Peter Attia. Científicos a la vez que atletas de resistencia e incluso de fuerza.
 
-7,27 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+7,27 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-El consenso parece ser que para los atletas de resistencia es que el hecho que haya menos glucógeno en los músculos cuando estamos en cetosis, no es un problema mientras estemos [cetoadaptados, ketoadaptados, adaptados a las grasas](https://pau.ninja/cetoadaptacion/).
+El consenso parece ser que para los atletas de resistencia es que el hecho que haya menos glucógeno en los músculos cuando estamos en cetosis, no es un problema mientras estemos [cetoadaptados, ketoadaptados, adaptados a las grasas](./cetoadaptacion).
 
 Es decir, aunque en las primeras semanas hayamos pasado por esa pérdida de agua y de glucógeno que nos ha molestado tanto por ir tantas veces a mear durante la noche, **hay un motivo por el que paramos**. Y es el hecho de que el cuerpo ya ha entrado en cetosis, y si va a crear glucógeno a largo plazo lo hará con la buena de la gluconeogénesis.
 
@@ -140,9 +124,9 @@ La meta haciendo una dieta basada en grasas (cetogénica, como puede ser la carn
 
 No se trata de vivir siempre, siempre y siempre en cetosis. Si el cuerpo no usa algo, acostumbra a descartarlo. Es lo que se llama el «use it or lose it», y se han visto casos donde la peña se vuelve intolerante a los carbohidratos durante un tiempo por culpa de estar tanto tiempo en cetosis.
 
-Hipotéticamente, aunque en la prehistoria basáramos nuestra dieta en carne como buenos [humanos carnívoros](https://pau.ninja/el-ser-humano-es-carnivoro/), de modo esporádico encontraríamos fruta o miel y nos atiborraríamos a más no poder. Recargando las reservas de glucógeno y de grasa corporal.
+Hipotéticamente, aunque en la prehistoria basáramos nuestra dieta en carne como buenos [humanos carnívoros](./el-ser-humano-es-carnivoro), de modo esporádico encontraríamos fruta o miel y nos atiborraríamos a más no poder. Recargando las reservas de glucógeno y de grasa corporal.
 
-Por aquí va la cosa. Por esto hace más de 1 año convertí la dieta carnívora que seguía en una [dieta de fruta y carne](https://pau.ninja/dieta-carne-y-fruta-beneficios/).
+Por aquí va la cosa. Por esto hace más de 1 año convertí la dieta carnívora que seguía en una [dieta de fruta y carne](./dieta-carne-y-fruta-beneficios).
 
 ## La clave está en la digestión de los carbohidratos
 
@@ -150,7 +134,7 @@ Me voy a poner técnico un momento pero es importante ponerlo todo en contexto p
 
 ### Índice glucémico
 
-El cuerpo sólo es capaz de digerir una cantidad limitada de macronutrientes (hidratos, grasas, proteína) de una sentada. Por esto hacer [OMAD: comer una vez al día](https://pau.ninja/comer-una-vez-al-dia/), es más recomendable para bajar de peso con calorías reducidas, que no para subir de peso. Porque de bien seguro no absorberíamos muchos de estos macronutrientes.
+El cuerpo sólo es capaz de digerir una cantidad limitada de macronutrientes (hidratos, grasas, proteína) de una sentada. Por esto hacer [OMAD: comer una vez al día](./comer-una-vez-al-dia), es más recomendable para bajar de peso con calorías reducidas, que no para subir de peso. Porque de bien seguro no absorberíamos muchos de estos macronutrientes.
 
 Es verdad que producimos enzimas digestivas y jugos para digerir, pero **estas cantidades no son ilimitadas**. O sea que cuando estamos pensando en el máximo rendimiento, lo que tenemos que hipotetizar es: ¿cuál es la cantidad que puede absorber nuestro cuerpo de cada uno de estos macronutrientes de una sola sentada? ¿Hay capacidad digestiva de carbohidratos que no se utiliza cuando se eliminan los carbohidratos de la dieta?
 
@@ -175,7 +159,7 @@ Los almidones están compuestos de moléculas de azúcar (porque son [polisacár
 
 Hay [tablas](https://nutritiondata.self.com/foods-020138000000000000000-1.html) por internet que se ve la diferencia abismal en cuanto al contenido de azúcar que tienen los hidratos.
 
-![contenido azúcar almidones](https://pau.ninja/wp-content/uploads/2022/09/contenido-azucar-almidones.png)
+![contenido azúcar almidones](./wp-content/uploads/2022/09contenido-azucar-almidones.png)
 
 O sea que lo consumimos, y después desglosado por distintas enzimas digestivas. Secretado con la saliva, el páncreas y también el intestino pequeño.
 
@@ -216,8 +200,6 @@ Gente que se obsesiona de contar micronutrientes para ver si están en el rango 
 
 Si sugiero fruta o miel antes de entrenar lo van a pesar para ver si pasan de este rango, y parte de mí lo entiende porque yo mismo había estado mirándome constantemente las cetonas en sangre y a ver… mirarlo un tiempo puede tener sentido para ver que esto de las cetonas existe de verdad y no se lo ha inventado un calvo en internet.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Pero la gracia de comer así es omitir tantos medidores. Omitir el control de micronutrientes, de macronutrientes y de cetonas para comer según el apetito.
 
 El cuerpo es muy sabio, es por esto que la saciedad es hormonal. La salciedad no es el acto de tener la barriga llena, si no que es mental, porque las hormonas del cuerpo mandan señales al cerebro de que ya estás lleno y no quieres comer más.
@@ -236,11 +218,9 @@ Por esto hay que tener en cuenta que la miel es mucho mejor que sea consumida co
 
 Lo que queremos es cargar el cuerpo con los nutrientes que necesitemos y… pum. Inmediatamente quemarlos en un entreno.
 
-Hablando de *timing* lo que me he dado cuenta es que la miel tardará unos 10-15-20 minutos a digerirse (con estómago más bien vacío, claro). ¿Y cómo sabemos la cantidad de miel que tenemos que comer?
+Hablando de _timing_ lo que me he dado cuenta es que la miel tardará unos 10-15-20 minutos a digerirse (con estómago más bien vacío, claro). ¿Y cómo sabemos la cantidad de miel que tenemos que comer?
 
-No sé si os acordáis cuando hablamos de [comer una vez al día y la saciedad](https://pau.ninja/comer-una-vez-al-dia/) (#211), os expliqué el truco para saber cuanto tener suficiente grasa…
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+No sé si os acordáis cuando hablamos de [comer una vez al día y la saciedad](./comer-una-vez-al-dia) (#211), os expliqué el truco para saber cuanto tener suficiente grasa…
 
 Con la miel es similar. Tenemos suficiente cantidad de miel en el cuerpo **en el momento en el que deja de tener un sabor dulce**.
 
@@ -254,13 +234,13 @@ Pensad que la miel es uno de los pocos alimentos que existen que **aún sigue e
 
 ### Incluir fruta después de entrenar
 
-Por ejemplo por las mañanas me hago una tortilla de 5 [huevos de gallinas camperas](https://pau.ninja/huevos-de-gallinas-camperas/) con un buen trozo de manteca (de pasto). He ido a trabajar un poquito más y al cabo de 1 hora-hora y media me pongo o bien la miel, o bien una pieza de fruta contundente. Muchas veces las dos cosas.
+Por ejemplo por las mañanas me hago una tortilla de 5 [huevos de gallinas camperas](./huevos-de-gallinas-camperas) con un buen trozo de manteca (de pasto). He ido a trabajar un poquito más y al cabo de 1 hora-hora y media me pongo o bien la miel, o bien una pieza de fruta contundente. Muchas veces las dos cosas.
 
 Hay otros días que hago lo mismo pero sin la miel. Eso en el caso de que el entrenamiento es más de volumen: a más repeticiones, más series pero menos intensidad.
 
 La gente le tiene **miedo a la fruta por la fructosa**, y es verdad que demasiada fructosa sería problemático (hígado graso, por ejemplo) pero tendrías que consumir mucha fruta porque pensad que las frutas están **50/50 hechas de fructosa y glucosa**, lo que por una parte recargará las reservas de glucógeno del músculo, y la fructosa irá al hígado que suplirá las necesidades del cerebro de glucosa.
 
-![glucosa y fructosa en fruta](https://pau.ninja/wp-content/uploads/2022/10/glucosa-y-fructosa-en-fruta.png)
+![glucosa y fructosa en fruta](./wp-content/uploads/2022/10glucosa-y-fructosa-en-fruta.png)
 
 Un cuarto de melón de piel de sapo sin la cáscara sólo tiene 15 gramos de carbohidratos que además son 50/50 glucosa-fructosa, así que sería muy difícil meterte mucha fructosa a tutiplén.
 
@@ -294,7 +274,7 @@ Quiero dejar claro aquí también, como siempre, igual que en las finanzas se di
 
 Es vuestra responsabilidad probar que funciona mejor para vosotros. En mi caso esto es lo que funciona mejor, la fruta o la miel, y después de investigar para el episodio ahora entiendo exactamente el por qué y cómo sacarle el máximo partido.
 
-Como siempre, usando sentido común si miramos tribus indígenas con dietas ancestrales, vemos que tiene todo el sentido del mundo, en el *timing* donde cazarían, y cuando encontrían miel o fruta.
+Como siempre, usando sentido común si miramos tribus indígenas con dietas ancestrales, vemos que tiene todo el sentido del mundo, en el _timing_ donde cazarían, y cuando encontrían miel o fruta.
 
 Se comería de forma separada de la proteína y la grasa porque estos macronutrientes los encontrarían antes o después de hacer ejercicio intenso para cazar y transportar las presas.
 
@@ -307,21 +287,19 @@ Un método llamado «la dieta anabólica» que popularizó el Dr. DiPasquale en 
 - **5 días** a la semana (de lunes a viernes) seguir una dieta cetogénica. Sin fruta ni nada. Puramente grasas y proteína.
 - **2 días** (los fines de semana) se revierte la dieta, bajas las grasas y te metes un porrón de hidratos en las formas que quieras: azúcares, fruta, almidones, etc. Una buena excusa para trampear.
 
-Esta manera de incorporar hidratos de carbono puntualmente y volver a restringirlos durante periodos más largos, es lo que se llama hacer un [ciclado de carbohidratos](https://pau.ninja/ciclado-de-carbohidratos/). Básicamente situar los hidratos **estratégicamente** para crear un entorno en el que el cuerpo quema grasas (está en cetosis) pero se le enseña a usar hidratos cuando los tienes para construir músculo.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Esta manera de incorporar hidratos de carbono puntualmente y volver a restringirlos durante periodos más largos, es lo que se llama hacer un [ciclado de carbohidratos](./ciclado-de-carbohidratos). Básicamente situar los hidratos **estratégicamente** para crear un entorno en el que el cuerpo quema grasas (está en cetosis) pero se le enseña a usar hidratos cuando los tienes para construir músculo.
 
 Por esto se le llama dieta anabólica, pero fijaros quetambién se la llama «la dieta metabólica» por una buena razón. Porque estamos separando claramente los hidratos de las grasas en las comidas.
 
 La dieta occidental típica se come **alto en hidratos y alto en grasas**. Todo junto. Algo que raramente ocurriría en la naturaleza.
 
-Con una dieta en la que combines días altos en grasa (la mayoría), y unos pocos días bajos en grasa pero altos en hidratos, estás haciendo que el cuerpo gane [más flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/) (#172). Que el cuerpo sepa diferenciar y no se confunda cuando le demos **o grasas o hidratos**.
+Con una dieta en la que combines días altos en grasa (la mayoría), y unos pocos días bajos en grasa pero altos en hidratos, estás haciendo que el cuerpo gane [más flexibilidad metabólica](./flexibilidad-metabolica) (#172). Que el cuerpo sepa diferenciar y no se confunda cuando le demos **o grasas o hidratos**.
 
 ### Comer varias veces al día
 
 No podemos omitir que queremos dar al cuerpo una sensación de anabolismo para que cree tejido nuevo y más fuerte.
 
-Por esto, yo sólo [hago una comida al día](https://pau.ninja/comer-una-vez-al-dia/) **exclusivamente si quiero bajar algo de peso** (OMAD #214). Está demostrado que sí. Si comemos una vez al día exclusivamente (ayuno de 24 horas) se crean unas condiciones para **preservar** músculo porque al fin y al cabo, en la naturaleza es la única arma que necesitamos y el cuerpo lo último que va a querer destruir es músculo.
+Por esto, yo sólo [hago una comida al día](./comer-una-vez-al-dia) **exclusivamente si quiero bajar algo de peso** (OMAD #214). Está demostrado que sí. Si comemos una vez al día exclusivamente (ayuno de 24 horas) se crean unas condiciones para **preservar** músculo porque al fin y al cabo, en la naturaleza es la única arma que necesitamos y el cuerpo lo último que va a querer destruir es músculo.
 
 Ahora bien, cuando se trata de crear nueva masa muscular, esto sólo sucederá si hay exceso de calorías y en abundancia. Es decir, varias veces al día.
 
@@ -329,7 +307,7 @@ De nuevo podemos emplear la lógica de la naturaleza. En un estado salvaje si co
 
 Si hay abundancia comes más veces, si hay menos abundancia comerás más esporádicamente.
 
-Es por esto que aquí lo que buscamos es [la llamada síntesis proteica muscular](https://pau.ninja/sintesis-proteica-muscular/): el santo grial del fitness. Lo único que los culturistas saben repetir porque están obsesionados con la proteína.
+Es por esto que aquí lo que buscamos es [la llamada síntesis proteica muscular](./sintesis-proteica-muscular): el santo grial del fitness. Lo único que los culturistas saben repetir porque están obsesionados con la proteína.
 
 La síntesis proteica es cuando el cuerpo ensambla nuevas proteínas por sí mismo. Cuando repara el tejido que has destrozado en el entreno para crear más y más fuerte, pero para esto necesita alimento.
 
@@ -346,3 +324,93 @@ Si comes una sola vez, sólo habrá una. Si comes x3 veces al día, habrá x3 ve
 Hay que priorizar cómo de bien digerimos. Si comes cada hora aún tendrás mi3rda nadando en el estómago. Quieres absorberlo. Por esto cuando estoy en proceso de ganar algún quilo/gramo de músculo, **3 veces al día es la cantidad óptima de comer** (personalmente). No quiero comer más tampoco porque siento que estoy cocinando todo el pt0 día y me siento un esclavo de la comida y mis hábitos.
 
 Son mis hábitos los que tienen que ser mis esclavos y no al revés.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/masa-muscular-sin-carbohidratos/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14095,"title":"7%20pasos%20para%20ganar%20m%C3%BAsculo%20con%20dieta%20CETOG%C3%89NICA","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/10\\/culturista-en-cetosis.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

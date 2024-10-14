@@ -1,13 +1,20 @@
 ---
-title: "Teoría del apego ¿tu infancia está dictando tus relaciones?"
+title: "Teoría del apego"
+url: https://pau.ninja/tipos-de-apego-adulto
+slug: tipos-de-apego-adulto
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: relaciones-de-pareja
+    label: Relaciones de pareja
 image: pareja-con-tipos-de-apego.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/10/pareja-con-tipos-de-apego.jpeg
 published: 2023-11-16T10:10:53+00:00
 modified: 2024-04-28T11:23:52+00:00
+scrappedAt: 2024-10-14T09:19:46.675Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/80164185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-18%2F360385230-44100-2-6fe96b58602a1.mp3
-slug: tipos-de-apego-adulto
+bibliography: ["van der Horst FC, Leroy HA, van der Veer R. «When strangers meet»: John Bowlby and Harry Harlow on attachment behavior. Integr Psychol Behav Sci. 2008 Dec;42(4):370-88. doi: 10.1007/s12124-008-9079-2. Epub 2008 Sep 3. PMID: 18766423.","Hu TY, Li J, Jia H, Xie X. Helping others, warming yourself: altruistic behaviors increase warmth feelings of the ambient environment. Front Psychol. 2016;7:1349. doi:10.3389/fpsyg.2016.01349","Bowlby, J. (1956). Mother-child separation. Mental Health and Infant Development, 1, 117-122.","Bowlby, J. (1988). Attachment, communication, and the therapeutic process. A secure base: Parent-child attachment and healthy human development, 137-157.","Borkowski JG, Whitman TL, Passino AW, Rellinger EA, Sommer K, Keogh D. Unraveling the «new morbidity»: adolescent parenting and developmental delays. Int Rev Res Ment Retard. 1992;18:159-96. PMID: 12319317.","Hazan, C., & Shaver, P. R. (1994). Attachment as an organizational framework for research on close relationships. Psychological Inquiry, 5(1), 1–22.","Henderson, Antonia & Bartholomew, Kim & Trinke, Shanna & Kwong, Marilyn. (2005). When Loving Means Hurting: An Exploration of Attachment and Intimate Abuse In a Community Sample. Journal of Family Violence. 20. 219-230. 10.1007/s10896-005-5985-y.","Punyanunt-Carter NM. Father-daughter relationships: Examining family communication patterns and interpersonal communication satisfaction. Commun Res Rep. 2008;25:23–33.","Öztürk A, Mutlu T. The relationship between attachment style, subjective well-being, happiness and social anxiety among university students. Procedia Soc Behav Sci. 2010;9:1772–6.","Crittenden, Patricia. (2001). Transformations in Attachment Relationships in Adolescence: Adaptation Versus Need for Psychotherapy.","Crittenden, Patricia M.. “Molding Clay: The Process of Constructing the Self and Its Relation to Psychotherapy.” (2005).","Levine, A., & Heller, R. (2011). Attached: The new science of adult attachment and how it can help you find–and keep–love. TarcherPerigee.","Mcleod, S. (2023, June 4). Attachment theory: Bowlby and Ainsworth’s theory explained. Simply Psychology.","Mikulincer M, Shaver PR. Attachment in Adulthood: Structure, Dynamics, and Change. New York: Guilford; 2007.","Chopik WJ, Edelstein RS, Grimm KJ. Longitudinal changes in attachment orientation over a 59-year period. J Pers Soc Psychol. 2019 Apr;116(4):598-611. doi: 10.1037/pspp0000167. Epub 2017 Aug 3. PMID: 28771022.","Waldinger RJ, Cohen S, Schulz MS, Crowell JA. Security of attachment to spouses in late life: Concurrent and prospective links with cognitive and emotional wellbeing. Clin Psychol Sci. 2015 Jun 1;3(4):516-529. doi: 10.1177/2167702614541261. PMID: 26413428; PMCID: PMC4579537."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/80164185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-18%2F360385230-44100-2-6fe96b58602a1.mp3](https://anchor.fm/s/98566448/podcast/play/80164185/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-18%2F360385230-44100-2-6fe96b58602a1.mp3)
 
 La teoría del apego es una área de la psicología que lleva estudiándose desde hace ya casi 100 años.
@@ -42,9 +49,9 @@ Los humanos llevamos poniendo etiquetas y categoría a todo lo que podemos desde
 
 Es más fácil ordenarlo en cajitas y el ámbito de la psicología de las relaciones no es una excepción.
 
-Poder etiquetar nuestro estilo de apego nos permite entender cómo actuamos *normalmente* con la gente o las parejas, para poder así actuar mejor a posteriori cuando somos conscientes de cuál es nuestro papel en las relaciones.
+Poder etiquetar nuestro estilo de apego nos permite entender cómo actuamos _normalmente_ con la gente o las parejas, para poder así actuar mejor a posteriori cuando somos conscientes de cuál es nuestro papel en las relaciones.
 
-De hecho el apego es un rasgo de nuestra psicología que dictará las probabilidades que vamos a tener de [encontrarnos en una relación sana de pareja](https://pau.ninja/relacion-de-pareja-sana/) (#513).
+De hecho el apego es un rasgo de nuestra psicología que dictará las probabilidades que vamos a tener de [encontrarnos en una relación sana de pareja](./relacion-de-pareja-sana) (#513).
 
 > Entender como funcionan los distintos [tipos de apego en la pareja](#Tipos_de_apego_en_la_pareja) es un punto de partida ideal para poder predecir, guiar y corregir (si fuera necesario) la conducta que alguien tendrá en un contexto romántico.
 
@@ -60,23 +67,6 @@ Que tanto la pareja como nosotros _entendamos_ (y comuniquemos a la otra parte) 
 
 Como decía el casi desconocido filósofo Jackson Kiddard, «todo lo que no puedes controlar, te está enseñando y dando la oportunidad de dejar ir».
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el apego emocional](#Que_es_el_apego_emocional 'Qué es el apego emocional')
-  - [Tipos de apego infantil](#Tipos_de_apego_infantil 'Tipos de apego infantil')
-  - [Tipos de apego adulto](#Tipos_de_apego_adulto 'Tipos de apego adulto')
-- [Tipos de apego en la pareja](#Tipos_de_apego_en_la_pareja 'Tipos de apego en la pareja')
-  - [Apego seguro](#Apego_seguro 'Apego seguro')
-  - [Apego evitativo](#Apego_evitativo 'Apego evitativo')
-  - [Apego ansioso](#Apego_ansioso 'Apego ansioso')
-  - [Apego desorganizado](#Apego_desorganizado 'Apego desorganizado')
-- [¿Cómo saber cuál es mi tipo de apego?](#%C2%BFComo_saber_cual_es_mi_tipo_de_apego '¿Cómo saber cuál es mi tipo de apego?')
-- [Apego evitativo y ansioso a la vez](#Apego_evitativo_y_ansioso_a_la_vez 'Apego evitativo y ansioso a la vez')
-- [¿Se puede cambiar el estilo de apego?](#%C2%BFSe_puede_cambiar_el_estilo_de_apego '¿Se puede cambiar el estilo de apego?')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Qué es el apego emocional
 
 El apego emocional es un vínculo de afecto entre los bebés y sus padres que los mamíferos desarrollan en los primeros años de vida. Un apego proactivamente desarrollado dan seguridad a los hijos en situaciones de amenaza o relaciones sociales para darles herramientas de confianza para explorar su entorno.
@@ -85,11 +75,11 @@ Los tipos de apego emocional describen como percibimos nuestro rol dentro de nue
 
 Responden a la pregunta de cómo nos comportamos y pensamos nosotros, y cómo se comportan y piensan los demás hacia nosotros. Y ojo porque algunas veces, según el estilo de apego, es la imagen que tienes, porque no tiene que ser la realidad.
 
-El apego emocional es una área ya muy estudiada en la psicología. De hecho desde los años 30 la teoría empezó a tomar fuerza cuando Harry Harlow hizo unos experimentos con monos.[1](<javascript:void(0)>)van der Horst FC, Leroy HA, van der Veer R. «When strangers meet»: John Bowlby and Harry Harlow on attachment behavior. Integr Psychol Behav Sci. 2008 Dec;42(4):370-88. doi: 10.1007/s12124-008-9079-2. Epub 2008 Sep 3. PMID: 18766423.
+El apego emocional es una área ya muy estudiada en la psicología. De hecho desde los años 30 la teoría empezó a tomar fuerza cuando Harry Harlow hizo unos experimentos con monos.[ref-1](#ref-1){.ref}
 
 En estos experimentos para estudiar el amor y el apego infantil se separaba la madre del bebé, que se ponía en otro entorno donde había dos monigotes (madres falsas). Uno hecho de rejas con comida dentro para que el monito pudiera comer y tuviera las necesidades básicas cubiertas, mientras que el otro monigote no tenía comida sino que simplemente era de tela, pero calentito y blando.
 
-![mono con apego a la madre](https://pau.ninja/wp-content/uploads/2023/11/mono-con-apego-a-la-madre.jpg)
+![mono con apego a la madre](./wp-content/uploads/2023/11mono-con-apego-a-la-madre.jpg)
 
 El bueno de Harlow asumió que el bebé mono se quedaría al cobijo del monigote que tenía comida porqué hasta entonces se creía que los niños desarrollan los apegos hacia aquellos que les dan un cuidado primario. De supervivencia. Y sin embargo…
 
@@ -101,11 +91,11 @@ Un vínculo socioemocional que es vital desarrollar adecuadamente en la infancia
 
 > Este experimento refutó la creencia que el amor se basa únicamente en necesidades físicas, al verse como los monos se apegaban a la madre de tela que en realidad no satisfacía ninguna necesidad física. Viendo como el amor y la comodidad eran necesidades emocionales. No físicas.
 
-Siendo el apego, el afecto y estos vínculos emocionales (tempranos) una parte vital de un desarrollo saludable de un niño. Con rasgos que arrastrará hasta la adultez e incorporará en sus relaciones.[2](<javascript:void(0)>)Hu TY, Li J, Jia H, Xie X. Helping others, warming yourself: altruistic behaviors increase warmth feelings of the ambient environment. Front Psychol. 2016;7:1349. doi:10.3389/fpsyg.2016.01349
+Siendo el apego, el afecto y estos vínculos emocionales (tempranos) una parte vital de un desarrollo saludable de un niño. Con rasgos que arrastrará hasta la adultez e incorporará en sus relaciones.[ref-2](#ref-2){.ref}
 
 Sé que dicho así suena a algo lógico o hasta intuitivo por los tiempos que corren, pero fue un descubrimiento innovador, rompedor para la época.
 
-Pensemos que en aquellas décadas [el papel del hombre en la familia](https://pau.ninja/el-papel-del-hombre-en-la-familia/) era puramente de proveedor. De dejar solventados las necesidades más primarias de los hijos. Esto era lo que se etiquetaba como _amor_. Pero este experimento abría la puerta a que quizás esto no era lo más necesario para el desarrollo de los hijos.
+Pensemos que en aquellas décadas [el papel del hombre en la familia](./el-papel-del-hombre-en-la-familia) era puramente de proveedor. De dejar solventados las necesidades más primarias de los hijos. Esto era lo que se etiquetaba como _amor_. Pero este experimento abría la puerta a que quizás esto no era lo más necesario para el desarrollo de los hijos.
 
 ### Tipos de apego infantil
 
@@ -119,7 +109,7 @@ Lo que explica los vínculos sociales que desarrollamos desde que somos niños (
 
 Así lo confirmaron las investigaciones del psicólogo que desde esos experimentos con monos, tomó el timón de las teorías del apego, ya haciéndola con bebés humanos: fue el bueno de John Bowlby.
 
-Durante los 60 este psicólogo le dijo a unas madres de traer a sus bebés en un laboratorio y ahí, las madres sentaban a sus hijos y ellas salían de la habitación para que los investigadores pudieran ver cómo los peques reaccionaban.[3](<javascript:void(0)>)Bowlby, J. (1956). Mother-child separation. Mental Health and Infant Development, 1, 117-122.[4](<javascript:void(0)>)Bowlby, J. (1988). Attachment, communication, and the therapeutic process. A secure base: Parent-child attachment and healthy human development, 137-157.
+Durante los 60 este psicólogo le dijo a unas madres de traer a sus bebés en un laboratorio y ahí, las madres sentaban a sus hijos y ellas salían de la habitación para que los investigadores pudieran ver cómo los peques reaccionaban.[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}
 
 Se dieron cuenta que había tres tipos de bebé según sus reacciones.
 
@@ -145,11 +135,11 @@ Se dieron cuenta que había tres tipos de bebé según sus reacciones.
 
 🫤 La ignora
 
-Lo que es interesante de este experimento es que aunque los porcentajes varíen de país a país y de generación a generación, la mayoría de bebés (un 60-65%) acostumbran a ser clasificados como niños con apego seguro.[5](<javascript:void(0)>)Borkowski JG, Whitman TL, Passino AW, Rellinger EA, Sommer K, Keogh D. Unraveling the «new morbidity»: adolescent parenting and developmental delays. Int Rev Res Ment Retard. 1992;18:159-96. PMID: 12319317.
+Lo que es interesante de este experimento es que aunque los porcentajes varíen de país a país y de generación a generación, la mayoría de bebés (un 60-65%) acostumbran a ser clasificados como niños con apego seguro.[ref-5](#ref-5){.ref}
 
 También es verdad es que los últimos datos que he encontrado es de los estudios de los 90 donde esta área de la psicología se estaba tomando tan en serio.
 
-![tipos de apego infantil](https://pau.ninja/wp-content/uploads/2023/11/tipos-de-apego-infantil.jpeg)
+![tipos de apego infantil](./wp-content/uploads/2023/11tipos-de-apego-infantil.jpeg)
 
 Me gustaría ver ahora si ha habido cambios en el tipo de apego que los bebés tienen con las nuevas generaciones de padres donde hay una influencia enorme de las redes sociales y los teléfonos móviles.
 
@@ -159,29 +149,29 @@ Creo que de alguna manera tiene que influenciar.
 
 Con los datos de las mismas épocas se ve como los adultos han perdido parte de ese apego seguro para que aumenten los porcentajes de personas con apego ansioso y evasivo.
 
-![tipos de apego adulto](https://pau.ninja/wp-content/uploads/2023/11/tipos-de-apego-adulto.jpeg)
+![tipos de apego adulto](./wp-content/uploads/2023/11tipos-de-apego-adulto.jpeg)
 
 Algo que al final también nos da una pisa de que (como veremos) tenemos la opción de cambiar nuestro estilo de apego.
 
-De *trabajarlo* para que todos nos volvamos con un apego un tanto más seguro.
+De _trabajarlo_ para que todos nos volvamos con un apego un tanto más seguro.
 
-Sobretodo en relaciones interpersonales de adulto que es donde la teoría del apego nos pasa factura a todo como demostraban ya los estudios de los 90 y que desde entonces no se han desmentido.[6](<javascript:void(0)>)Hazan, C., & Shaver, P. R. (1994). Attachment as an organizational framework for research on close relationships. Psychological Inquiry, 5(1), 1–22.
+Sobretodo en relaciones interpersonales de adulto que es donde la teoría del apego nos pasa factura a todo como demostraban ya los estudios de los 90 y que desde entonces no se han desmentido.[ref-6](#ref-6){.ref}
 
 ### Tipos de apego adulto
 
 Esto dio raíz a más décadas de investigación, y con montones de estudios más tarde, ahora podemos decir que cada adulto se puede etiquetar en un espectro.
 
-Un cuadrante en el que tenemos un adulto con una escala de grises alta-baja evitación (haciendo referencia a la \_in_seguridad en los demás) o alta-baja ansiedad en sus relaciones (haciendo referencia a la \_in_seguridad en la imagen de él mismo hacia los demás).
+Un cuadrante en el que tenemos un adulto con una escala de grises alta-baja evitación (haciendo referencia a la _in_seguridad en los demás) o alta-baja ansiedad en sus relaciones (haciendo referencia a la _in_seguridad en la imagen de él mismo hacia los demás).
 
-![tipos de apego adulto](https://pau.ninja/wp-content/uploads/2023/10/tipos-de-apego-adulto.jpeg)
+![tipos de apego adulto](./wp-content/uploads/2023/10tipos-de-apego-adulto.jpeg)
 
-A raíz de esta cuadrante, este Modelo Bidireccional que Kim Bartholomew estudiaría y crearía en 1991, podemos encasillarnos todos nosotros.[7](<javascript:void(0)>)Henderson, Antonia & Bartholomew, Kim & Trinke, Shanna & Kwong, Marilyn. (2005). When Loving Means Hurting: An Exploration of Attachment and Intimate Abuse In a Community Sample. Journal of Family Violence. 20. 219-230. 10.1007/s10896-005-5985-y.
+A raíz de esta cuadrante, este Modelo Bidireccional que Kim Bartholomew estudiaría y crearía en 1991, podemos encasillarnos todos nosotros.[ref-7](#ref-7){.ref}
 
 ## Tipos de apego en la pareja
 
 Nunca me había parado a pensar con el estilo de apego que tenía hasta que lo puse en el contexto de pareja.
 
-Claro que afecta a todas las relaciones personales pero para la familia y hasta en la mayoría de amigos, nunca nos paramos a pensar de como podemos ser mejor amigo, hijo, primo… Es con la pareja (porque nos eligen, y elegimos nosotros) que la gente se toma los tipos de apego de forma seria para *trabajar en ellos*.
+Claro que afecta a todas las relaciones personales pero para la familia y hasta en la mayoría de amigos, nunca nos paramos a pensar de como podemos ser mejor amigo, hijo, primo… Es con la pareja (porque nos eligen, y elegimos nosotros) que la gente se toma los tipos de apego de forma seria para _trabajar en ellos_.
 
 Ser de apego seguro, ansioso o evitativo no es más malo o más bueno, sino que es como comunicamos e interactuamos en las relaciones. A veces nos puede sabotear y a veces no. Pensad que:
 
@@ -191,13 +181,13 @@ O sea que estos estilos de apego con los que hemos crecido, los desarrollamos pa
 
 No porque haya algo mal cableado en nuestra cabeza.
 
-![tipos de apego en la pareja](https://pau.ninja/wp-content/uploads/2023/11/tipos-de-apego-en-la-pareja.jpeg)
+![tipos de apego en la pareja](./wp-content/uploads/2023/11tipos-de-apego-en-la-pareja.jpeg)
 
 Dentro de una pareja los distintos tipos de apego harán que cada persona actúe de forma distinta en áreas importantes de la relación.
 
-Bueno, de hecho en las áreas *más importantes* de la relación.
+Bueno, de hecho en las áreas _más importantes_ de la relación.
 
-Desde cómo actúa en [la intimidad en pareja](https://pau.ninja/intimidad-en-pareja-con-karezza/), cómo responde delante los conflictos, cómo expresa sus necesidades, cuáles son las expectativas…
+Desde cómo actúa en [la intimidad en pareja](./intimidad-en-pareja-con-karezza), cómo responde delante los conflictos, cómo expresa sus necesidades, cuáles son las expectativas…
 
 > En el fondo los estilos de apego hacen referencia a como de calibrados somos en las expectativas de los demás y sobre nuestra propia imagen.
 
@@ -253,11 +243,11 @@ Son este tipo de adultos los que tienden a desarrollar relaciones estables.
 
 Creen que son dignos del amor, que el amor es abundantes y que ambas partes se lo merecen.
 
-Además las personas que tienen apegos seguros generalmente son felices y exitosas en sus relaciones.[8](<javascript:void(0)>)Punyanunt-Carter NM. Father-daughter relationships: Examining family communication patterns and interpersonal communication satisfaction. Commun Res Rep. 2008;25:23–33.[9](<javascript:void(0)>)Öztürk A, Mutlu T. The relationship between attachment style, subjective well-being, happiness and social anxiety among university students. Procedia Soc Behav Sci. 2010;9:1772–6.
+Además las personas que tienen apegos seguros generalmente son felices y exitosas en sus relaciones.[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}
 
 Como ha llovido mucho desde el estudio de la teoría del apego, la psicología se ha encargado de explorarlo aún más para ser aún más quisquilloso. Más detallista que nos permitirá entender mejor la teoría con modelos que resumen mejor cada grupo con distintos subgrupos.
 
-Por ejemplo la psicóloga Patricia Crittenden propuesto su Modelo Dinámico Maduracional, que vino 10 años más tarde al Modelo Bidimensional de Kim Bartholomew de la década de los 90.[10](<javascript:void(0)>)Crittenden, Patricia. (2001). Transformations in Attachment Relationships in Adolescence: Adaptation Versus Need for Psychotherapy.
+Por ejemplo la psicóloga Patricia Crittenden propuesto su Modelo Dinámico Maduracional, que vino 10 años más tarde al Modelo Bidimensional de Kim Bartholomew de la década de los 90.[ref-10](#ref-10){.ref}
 
 #### Ejemplos de apego seguro
 
@@ -274,7 +264,7 @@ Son esas personas que siempre están empujando a los demás. Seguro que conoces 
 
 Por esto en el experimento, el bebé no lloraba y parecía no importarle que la madre se fuera o volviera, pero los signos demostraban que estaba preocupado aunque no lo mostrara abiertamente con el lloro.
 
-> En adultos con apego evitativo su tendencia es en ir aplazando [la intimidad en pareja](https://pau.ninja/intimidad-en-pareja-con-karezza/), o sobretodo a aplazar formalizar relaciones porque tienen miedo a que la otra persona les va a sofocar.
+> En adultos con apego evitativo su tendencia es en ir aplazando [la intimidad en pareja](./intimidad-en-pareja-con-karezza), o sobretodo a aplazar formalizar relaciones porque tienen miedo a que la otra persona les va a sofocar.
 
 A modo observacional lo que he visto es que parece ser que los hombres acostumbramos a tener más apego evitativo que las mujeres, que tienen más de lo siguiente que vamos a ver.
 
@@ -314,7 +304,7 @@ En el Modelo Dinámico Maduracional dela psicología, también tenemos estrategi
 - **El compulsivo complaciente:** son los que quieren prevenir el peligro a toda costa. ¿Y cómo lo hacen? Pues evitando ponerse en entornos donde podría haber sentimientos negativos. Son personas que están en guardia en todo momento para así anticiparse. Para hacerlo hacen lo que los demás dicen en todo momento. Claro. Así evitarán la confrontación a toda costa.
 - **El compulsivamente promiscuo:** son los que evitan acercarse (de forma honesta, genuina) emocionalmente a alguien. El mismo nombre lo indica. Parece que tengan afección a los demás pero en realidad es una afección totalmente falsa que enmascaran aún más fingiendo que están bien en todo momento cuando en realidad están ocultando sentimientos tipo rabia, pena, frustración, etc. En el fondo es su manera de defenderse de ser rechazados y lo hacen así, sólo comprometiéndose de forma superficial.
 - **El autoconfiado compulsivo:** son los que sólo confían en ellos mismos porque se dicen (o se venden la historia) de que los demás nunca podrán ofrecerle lo que él necesita.
-- **El ilusionista:** son similares al anterior hasta el punto de poner a los demás en un pedestal. Idealizándolos.[11](<javascript:void(0)>)Crittenden, Patricia M.. “Molding Clay: The Process of Constructing the Self and Its Relation to Psychotherapy.” (2005). Una tendencia que viene dada por la desesperación, porque creen falsamente que hay una forma de seguridad cuando en realidad no importa lo que hagan porque esta seguridad _es la que es_ y punto. Sin que puedan hacer nada al respecto. Se les llama _lusorios_ pero yo lo llamo *ilusionista* porque aparentan que son agradables, sin traumas ni miedos para proyectar una imagen de agrado pero después bajo ciertos entornos se rompen esta máscara y vemos quienes son realmente. Como yo digo: es muy fácil ser estoico cuando no es necesario serlo (twitéalo).
+- **El ilusionista:** son similares al anterior hasta el punto de poner a los demás en un pedestal. Idealizándolos.[ref-11](#ref-11){.ref} Una tendencia que viene dada por la desesperación, porque creen falsamente que hay una forma de seguridad cuando en realidad no importa lo que hagan porque esta seguridad _es la que es_ y punto. Sin que puedan hacer nada al respecto. Se les llama _lusorios_ pero yo lo llamo _ilusionista_ porque aparentan que son agradables, sin traumas ni miedos para proyectar una imagen de agrado pero después bajo ciertos entornos se rompen esta máscara y vemos quienes son realmente. Como yo digo: es muy fácil ser estoico cuando no es necesario serlo (twitéalo).
 - **El ensamblado:** este sería el más extremo y acostumbra a estar relacionado con haber recibido abusos en los primeros años de vida, haciendo que esa persona ya no pueda crearse una imagen de si misma. Por esto cuando son adultos a penas tienen sentimientos propios. O sea que su manera de protegerse es ser un camaleón: copiar lo que hacen los demás.
 
 Mirad como todos estos subgrupos propuestos por Patricia, lo que caracteriza las personas evitativas es que de algún modo predicen información para defenderse emocionalmente, cuando no dejan de hacer _overthinkings_.
@@ -325,7 +315,7 @@ Mientras que las personas con apego evitativo no se acercan emocionalmente, a lo
 
 > Las personas con apego ansioso (o ambivalente) siempre sienten que te perderán. Que les vas a abandonar.
 
-Por esto las de apego evitativo se caracterizan por intentar recuperar la cercanía contigo. O querer ejercerla en todo momento como modo de validación de que no les has abandonado *aún*.
+Por esto las de apego evitativo se caracterizan por intentar recuperar la cercanía contigo. O querer ejercerla en todo momento como modo de validación de que no les has abandonado _aún_.
 
 Por esto en el experimento de los bebés, cuando la madre volvía los niños seguían llorando. Porque se había hecho realidad el miedo de que la madre iba a abandonarlos y tenían miedo de que volviera a suceder.
 
@@ -423,13 +413,13 @@ Acostumbran a ser personas evitativas que se distancian de sus relaciones como m
 
 Es muy fácil entender en qué espectro del cuadrante de apego nos encontramos si nos lo imaginamos con dos cosas: lo que pensamos sobre nosotros cuando estamos en pareja, y qué piensa la pareja de nosotros.
 
-Es decir, que si tu imagen de ti mismo en pareja es positiva, por ejemplo pensando que eres *la leche* de novio, pero además piensas que tu pareja también es la *h0stia* y que puedes confiar o comunicarte con ella en todo momento, entonces eres de apego seguro.
+Es decir, que si tu imagen de ti mismo en pareja es positiva, por ejemplo pensando que eres _la leche_ de novio, pero además piensas que tu pareja también es la _h0stia_ y que puedes confiar o comunicarte con ella en todo momento, entonces eres de apego seguro.
 
 Ahora bien, gravitarás más hacia apego ansioso si te mantienes seguro sobre tu pareja, pero las inseguridades que tienes son sobre ti mismo.
 
-![estilos de apego adulto](https://pau.ninja/wp-content/uploads/2023/11/estilos-de-apego-adulto.jpeg)
+![estilos de apego adulto](./wp-content/uploads/2023/11estilos-de-apego-adulto.jpeg)
 
-En cambio gravitarás más hacia el apego evitativo si te mantienes seguro sobre ti, sobre si por ejemplo piensas que [eres un hombre de los de alto valor](https://pau.ninja/hombre-de-alto-valor/) (…), pero las inseguridades vienen sobre como se comportarán los demás hacia ti…
+En cambio gravitarás más hacia el apego evitativo si te mantienes seguro sobre ti, sobre si por ejemplo piensas que [eres un hombre de los de alto valor](./hombre-de-alto-valor) (…), pero las inseguridades vienen sobre como se comportarán los demás hacia ti…
 
 Por esto evitas acercarte emocionalmente.
 
@@ -443,7 +433,7 @@ Está muy bien pensar en todo esto cuando ya tienes pareja para trabajar la rela
 
 Lógicamente todo Dios sabe que en un mundo ideal sólo saldríamos con personas con apego seguro, pero a la práctica se pone algo más difícil, y es que…
 
-> Según los datos el 50% de la población tienen apego seguro. Hasta aquí todo genial. El «problema» es que esta gente no sólo son los que ya están en relaciones románticas, sino que se quedan en ellas… porque su apego es seguro.[12](<javascript:void(0)>)Levine, A., & Heller, R. (2011). Attached: The new science of adult attachment and how it can help you find–and keep–love. TarcherPerigee.[13](<javascript:void(0)>)Mcleod, S. (2023, June 4). Attachment theory: Bowlby and Ainsworth’s theory explained. Simply Psychology.
+> Según los datos el 50% de la población tienen apego seguro. Hasta aquí todo genial. El «problema» es que esta gente no sólo son los que ya están en relaciones románticas, sino que se quedan en ellas… porque su apego es seguro.[ref-12](#ref-12){.ref}[ref-13](#ref-13){.ref}
 
 Esto significa que la piscina, el pozo de las personas que están libres para que salgamos con ellas en verdad **es escaso de personas con apego seguro**.
 
@@ -455,9 +445,9 @@ Por esto la mayoría de nuevas relaciones se basan en un bucle de ansiedad y evi
 
 Un bucle que me gustaría indagar en el futuro para vosotros, porque es muy, muy, muy común. Al ser el mercado de citas mayoritariamente evitativo y ansioso. Parejas construidas así.
 
-![apego evitativo y ansioso a la vez](https://pau.ninja/wp-content/uploads/2023/11/apego-evitativo-y-ansioso-a-la-vez.jpeg)
+![apego evitativo y ansioso a la vez](./wp-content/uploads/2023/11apego-evitativo-y-ansioso-a-la-vez.jpeg)
 
-En este bucle para el ansioso su versión del amor es que *vas a abandonarme así que tiro me apego a ti* mientras que para la parte evitativa su versión de amor es que _vas a sufocarme_.
+En este bucle para el ansioso su versión del amor es que _vas a abandonarme así que tiro me apego a ti_ mientras que para la parte evitativa su versión de amor es que _vas a sufocarme_.
 
 Lo que termina siendo una profecía autocumplida: el ansioso empuja (va) hacia el evitativo porque piensa que se irá, y en efecto el evitativo _se va_ porque le están sufocando.
 
@@ -467,90 +457,22 @@ Porque, sí.
 
 ## ¿Se puede cambiar el estilo de apego?
 
-Las buenas noticias es que los estudios han demostrado que todos podemos cambiar nuestro estilo de apego.[14](<javascript:void(0)>)Mikulincer M, Shaver PR. Attachment in Adulthood: Structure, Dynamics, and Change. New York: Guilford; 2007.
+Las buenas noticias es que los estudios han demostrado que todos podemos cambiar nuestro estilo de apego.[ref-14](#ref-14){.ref}
 
-Mira cómo trabajar el [apego seguro en adultos](https://pau.ninja/apego-seguro-en-adultos/).
+Mira cómo trabajar el [apego seguro en adultos](./apego-seguro-en-adultos).
 
 En esta publicación hablo de cómo superar tanto el apego **ansioso** como **evitativo**.
 
-En algunos casos sucede de forma natural, por ejemplo en aquellos que han tenido suerte de empezar una relación con alguien de apego seguro. Son personas que verán como sus tendencias ansiosas y evasivas se van pronunciando cada vez menos gracias a sus [neuronas espejo y la empatía](https://pau.ninja/neuronas-espejo-y-la-empatia/).
+En algunos casos sucede de forma natural, por ejemplo en aquellos que han tenido suerte de empezar una relación con alguien de apego seguro. Son personas que verán como sus tendencias ansiosas y evasivas se van pronunciando cada vez menos gracias a sus [neuronas espejo y la empatía](./neuronas-espejo-y-la-empatia).
 
-Algunas personas que quizás hasta etiquetaremos de *tóxicas* efatizan rasgos malos de nosotros, pero otras, enfatizan los buenos. Nos dan paz mental y tranquilidad, y moldean la confianza hacia nosotros, y hacia la propia pareja.
+Algunas personas que quizás hasta etiquetaremos de _tóxicas_ efatizan rasgos malos de nosotros, pero otras, enfatizan los buenos. Nos dan paz mental y tranquilidad, y moldean la confianza hacia nosotros, y hacia la propia pareja.
 
 Porque nos está demostrando con evidencia, que no hay nada que temer.
 
 Y lógicamente factores como la edad también puede jugar un rol en cambiar nuestro estilo de apego.
 
-Lo confirmaba un estudio que duró 59 años (veis, ya os decía que esto lleva casi 100 años tomándose en serio en el campo de la psicología). El caso es que este estudio veía como la mayoría de sujetos se van volviendo más seguros con el tiempo simplemente por el hecho de ir haciéndose mayores. Porqué a más edad, menos queremos estar en relaciones que no nos hacen más felices.[15](<javascript:void(0)>)Chopik WJ, Edelstein RS, Grimm KJ. Longitudinal changes in attachment orientation over a 59-year period. J Pers Soc Psychol. 2019 Apr;116(4):598-611. doi: 10.1037/pspp0000167. Epub 2017 Aug 3. PMID: 28771022.[16](<javascript:void(0)>)Waldinger RJ, Cohen S, Schulz MS, Crowell JA. Security of attachment to spouses in late life: Concurrent and prospective links with cognitive and emotional wellbeing. Clin Psychol Sci. 2015 Jun 1;3(4):516-529. doi: 10.1177/2167702614541261. PMID: 26413428; PMCID: PMC4579537.
+Lo confirmaba un estudio que duró 59 años (veis, ya os decía que esto lleva casi 100 años tomándose en serio en el campo de la psicología). El caso es que este estudio veía como la mayoría de sujetos se van volviendo más seguros con el tiempo simplemente por el hecho de ir haciéndose mayores. Porqué a más edad, menos queremos estar en relaciones que no nos hacen más felices.[ref-15](#ref-15){.ref}[ref-16](#ref-16){.ref}
 
 Todo dios quiere tener un estilo de apego más seguro por razones lógicas. Significa no sólo tener más seguridad en nosotros mismos, sino también en los demás.
 
 La preguntas es… ¿cómo cambiamos nuestro estilo de apego a uno más seguro? Fácil: sólo hace falta [suscribirte](#unirse) para cuando hable de ello (jeje).
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  van der Horst FC, Leroy HA, van der Veer R. «When strangers meet»: John Bowlby and Harry Harlow on attachment behavior. Integr Psychol Behav Sci. 2008 Dec;42(4):370-88. doi: 10.1007/s12124-008-9079-2. Epub 2008 Sep 3. PMID: 18766423.
-
-- 2
-
-  Hu TY, Li J, Jia H, Xie X. Helping others, warming yourself: altruistic behaviors increase warmth feelings of the ambient environment. Front Psychol. 2016;7:1349. doi:10.3389/fpsyg.2016.01349
-
-- 3
-
-  Bowlby, J. (1956). Mother-child separation. Mental Health and Infant Development, 1, 117-122.
-
-- 4
-
-  Bowlby, J. (1988). Attachment, communication, and the therapeutic process. A secure base: Parent-child attachment and healthy human development, 137-157.
-
-- 5
-
-  Borkowski JG, Whitman TL, Passino AW, Rellinger EA, Sommer K, Keogh D. Unraveling the «new morbidity»: adolescent parenting and developmental delays. Int Rev Res Ment Retard. 1992;18:159-96. PMID: 12319317.
-
-- 6
-
-  Hazan, C., & Shaver, P. R. (1994). Attachment as an organizational framework for research on close relationships. Psychological Inquiry, 5(1), 1–22.
-
-- 7
-
-  Henderson, Antonia & Bartholomew, Kim & Trinke, Shanna & Kwong, Marilyn. (2005). When Loving Means Hurting: An Exploration of Attachment and Intimate Abuse In a Community Sample. Journal of Family Violence. 20. 219-230. 10.1007/s10896-005-5985-y.
-
-- 8
-
-  Punyanunt-Carter NM. Father-daughter relationships: Examining family communication patterns and interpersonal communication satisfaction. Commun Res Rep. 2008;25:23–33.
-
-- 9
-
-  Öztürk A, Mutlu T. The relationship between attachment style, subjective well-being, happiness and social anxiety among university students. Procedia Soc Behav Sci. 2010;9:1772–6.
-
-- 10
-
-  Crittenden, Patricia. (2001). Transformations in Attachment Relationships in Adolescence: Adaptation Versus Need for Psychotherapy.
-
-- 11
-
-  Crittenden, Patricia M.. “Molding Clay: The Process of Constructing the Self and Its Relation to Psychotherapy.” (2005).
-
-- 12
-
-  Levine, A., & Heller, R. (2011). Attached: The new science of adult attachment and how it can help you find–and keep–love. TarcherPerigee.
-
-- 13
-
-  Mcleod, S. (2023, June 4). Attachment theory: Bowlby and Ainsworth’s theory explained. Simply Psychology.
-
-- 14
-
-  Mikulincer M, Shaver PR. Attachment in Adulthood: Structure, Dynamics, and Change. New York: Guilford; 2007.
-
-- 15
-
-  Chopik WJ, Edelstein RS, Grimm KJ. Longitudinal changes in attachment orientation over a 59-year period. J Pers Soc Psychol. 2019 Apr;116(4):598-611. doi: 10.1037/pspp0000167. Epub 2017 Aug 3. PMID: 28771022.
-
-- 16
-
-  Waldinger RJ, Cohen S, Schulz MS, Crowell JA. Security of attachment to spouses in late life: Concurrent and prospective links with cognitive and emotional wellbeing. Clin Psychol Sci. 2015 Jun 1;3(4):516-529. doi: 10.1177/2167702614541261. PMID: 26413428; PMCID: PMC4579537.

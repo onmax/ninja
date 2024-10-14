@@ -1,26 +1,33 @@
 ---
-title: "El veganismo NO es sostenible para el medio ambiente (por qué es malo para la Tierra)"
+title: "El veganismo NO es sostenible para el medio ambiente"
+url: https://pau.ninja/veganismo-y-medio-ambiente
+slug: veganismo-y-medio-ambiente
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: antiveganismo
+    label: Antiveganismo
 image: con-verduras-contaminadas.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/con-verduras-contaminadas.jpeg
 published: 2021-10-05T07:26:01+00:00
 modified: 2023-04-28T17:19:31+00:00
+scrappedAt: 2024-10-14T09:21:08.850Z
 audioLink: https://www.ivoox.com/veganismo-no-es-sostenible-para-medio_md_72626160_wp_1.mp3
-slug: veganismo-y-medio-ambiente
+bibliography: ["dieta vegana","dietas vegetarianas (una con lácteos y la otra con lácteos y huevos)","omnívoras (con varios grados de influencia vegetariana)","baja en grasas y azúcares"]
 ---
-
-[https://www.ivoox.com/veganismo-no-es-sostenible-para-medio_md_72626160_wp_1.mp3](https://www.ivoox.com/veganismo-no-es-sostenible-para-medio_md_72626160_wp_1.mp3)
+[https://www.ivoox.com/veganismo-no-es-sostenible-para-medio\_md\_72626160\_wp\_1.mp3](https://www.ivoox.com/veganismo-no-es-sostenible-para-medio_md_72626160_wp_1.mp3)
 
 Después de pasarme años gravitando entre dietas veganas y vegetarianas pensando que estaba haciendo el bien tanto para mi salud como para el medio ambiente, hoy expongo las razones por las que **estaba equivocado**.
 
 Completamente equivocado.
 
-En vez de datos y lógica, me dejé llevar por una narrativa romántica, por un sentimiento… Lo cuál es irónico porque la dieta vegana no contiene ninguna parte animal y a la vez su evidencia no tiene ni pies ni cabeza. Así que lo voy a decir…
+En vez de datos y lógica, me dejé llevar por una narrativa romántica, por un sentimiento… Lo cuál es irónico porque la  no contiene ninguna parte animal y a la vez su evidencia no tiene ni pies ni cabeza. Así que lo voy a decir…
 
 > El veganismo es **insostenible** para el medio ambiente.
 
-Toqué todas las [razones para no ser vegano](https://pau.ninja/razones-para-no-ser-vegano/) pero lo hice a nivel (más o menos) superficial. Se me quedó la espinilla de profundizar en los peligroso que es para el planeta seguir una dieta basada en plantas, así que este es el plan de hoy.
+Toqué todas las [razones para no ser vegano](./razones-para-no-ser-vegano) pero lo hice a nivel (más o menos) superficial. Se me quedó la espinilla de profundizar en los peligroso que es para el planeta seguir una dieta basada en plantas, así que este es el plan de hoy.
 
-Antes de que os tiréis a mi yugular sin dejarme continuar con los [argumentos contra el veganismo](https://pau.ninja/argumentos-en-contra-del-veganismo/) (ya os digo que el veganismo es sentimental, no lógico) quiero remarcar que **también** creo que la ganadería industrial es igual de insostenible a parte de una aberración.
+Antes de que os tiréis a mi yugular sin dejarme continuar con los [argumentos contra el veganismo](./argumentos-en-contra-del-veganismo) (ya os digo que el veganismo es sentimental, no lógico) quiero remarcar que **también** creo que la ganadería industrial es igual de insostenible a parte de una aberración.
 
 > Para mí, tanto veganismo como ganadería industrial deberían ser erradicados por igual.
 
@@ -31,24 +38,6 @@ Creo en una práctica, la única práctica que deberíamos adoptar a largo plazo
 Animaros a mirar fuentes y evidencia que utilizaré hoy, pero también os animo por igual a contrastar los datos que os dan estos documentales veganos tan chocantes. La mayoría se toman los vídeos o infografías románticas como «la última palabra» sin ni siquiera contrastar de si los datos son verídicos, o de si han mostrado sólo una parte de la verdad. Que para mí, es otra manera de mentir.
 
 Hablando de datos, vamos a ver los que he usado yo para afirmar que el veganismo no es sostenible para el medio ambiente.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Es una hipocresía medioambiental](#Es_una_hipocresia_medioambiental 'Es una hipocresía medioambiental')
-- [Contaminación en nombre de "nutrición"](#Contaminacion_en_nombre_de_%22nutricion%22 'Contaminación en nombre de "nutrición"')
-- [Los cereales no son para el ganado](#Los_cereales_no_son_para_el_ganado 'Los cereales no son para el ganado')
-- [Provoca más emisiones que del ganado](#Provoca_mas_emisiones_que_del_ganado 'Provoca más emisiones que del ganado')
-- [Se destruye la vida animal](#Se_destruye_la_vida_animal 'Se destruye la vida animal')
-- [Provoca desertificación](#Provoca_desertificacion 'Provoca desertificación')
-- [Menor densidad nutricional por recurso](#Menor_densidad_nutricional_por_recurso 'Menor densidad nutricional por recurso')
-- [Se alimentan menos personas](#Se_alimentan_menos_personas 'Se alimentan menos personas')
-- [Hay más intoxicación por comida](#Hay_mas_intoxicacion_por_comida 'Hay más intoxicación por comida')
-- [Las plantas gastan más agua por caloría](#Las_plantas_gastan_mas_agua_por_caloria 'Las plantas gastan más agua por caloría')
-- [Más vegetales no significa más nutrición](#Mas_vegetales_no_significa_mas_nutricion 'Más vegetales no significa más nutrición')
-- [Sigue una agenda comercial](#Sigue_una_agenda_comercial 'Sigue una agenda comercial')
-- [Sólo desperdiciamos comida vegana](#Solo_desperdiciamos_comida_vegana 'Sólo desperdiciamos comida vegana')
 
 ## Es una hipocresía medioambiental
 
@@ -63,11 +52,11 @@ Todo esto combinado = ser vegano.
 
 Pues bien, evitar tomar un vuelo transatlántico es el **doble** de efectivo que hacerse vegano. No tener coche es **tres veces** más efectivo que hacerse vegano. Incluso **tener un hijo es lo peor que podemos hacer para el medio ambiente**.
 
-Los que eligen tener un hijo menos es el equivalente a 60 personas haciendo una dieta vegana para el planeta.
+Los que eligen tener un hijo menos es el equivalente a 60 personas haciendo una  para el planeta.
 
 O en otras palabras: una persona no vegana, no teniendo 1 hijo es 60 veces más sostenible que un vegano. Así que… tenemos que empezar a apreciar más a los feos.
 
-![acciones-sostenibles](https://pau.ninja/wp-content/uploads/2021/10/acciones-sostenibles.jpg)
+![acciones-sostenibles](./wp-content/uploads/2021/10acciones-sostenibles.jpg)
 
 Foto: [infografía](https://www.arborday.org/carbon/reduce.cfm) de acciones para reducir el cambio climático.
 
@@ -91,7 +80,7 @@ Las fotos que vemos en las redes sociales son de comidas hechas con **15 aliment
 
 Vemos esa foto de una ensalada riquísima con tomates, moniato, abocado, garbanzos y ya pensamos que con todos esos colores, ¿como no va a ser natural, orgánico y nutritivo?
 
-![plato-vegano](https://pau.ninja/wp-content/uploads/2021/10/plato-vegano.jpeg)
+![plato-vegano](./wp-content/uploads/2021/10plato-vegano.jpeg)
 
 Adivinanza: ¿qué hay de malo en este plato vegano tan colorido?
 
@@ -138,7 +127,7 @@ Pero con **datos oficiales** en la mano vemos que esto es simplemente **mentira*
 
 En vez de tomarnos las infografías y estadísticas falsas de documentales como Cowspiracy o Game Changers como si estuviera escrito en piedra, validemos la evidencia antes de saltar a comprar suplementos veganos.
 
-![alimento-del-ganado](https://pau.ninja/wp-content/uploads/2021/10/alimento-del-ganado.png)
+![alimento-del-ganado](./wp-content/uploads/2021/10alimento-del-ganado.png)
 
 Gráfico: ¿cuánta «comida» de aquí puedes digerir? respuesta: un 13% de grano. Fuente: FAO, Naciones Unidas.
 
@@ -172,7 +161,7 @@ Deben ser los mismos que dicen que un saltamontes saltando es el causante de un 
 
 Ciencia en su máximo esplendor, amigos.
 
-El sector de la agricultura (donde se incluye toda la agricultura pero también la ganadería) fue la [responsable](<https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/651922/EPRS_BRI(2020)651922_EN.pdf>) de **sólo el 10%** de las emisiones totales del gas de efecto invernadero ([GEI](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/Inventario-GEI.aspx)).
+El sector de la agricultura (donde se incluye toda la agricultura pero también la ganadería) fue la [responsable](https://www.europarl.europa.eu/RegData/etudes/BRIE/2020/651922/EPRS_BRI\(2020\)651922_EN.pdf) de **sólo el 10%** de las emisiones totales del gas de efecto invernadero ([GEI](https://www.miteco.gob.es/es/calidad-y-evaluacion-ambiental/temas/sistema-espanol-de-inventario-sei-/Inventario-GEI.aspx)).
 
 Empiezo a pensar que estos porcentajes que se tiran por ahí diciendo que el 20-30-40% de los gases se reducirían si dejáramos de comer carne, son sacados de documentales bonitos impactantes o infografías que se ven por Instagram o Pinterest.
 
@@ -188,7 +177,7 @@ Lo pregunto porque en los informes oficiales no sale.
 
 Aunque ha habido una **bajada substancial de ganadería** en todo el mundo, las emisiones de metano **han ido aumentado** año tras año desde el año 2006.
 
-![inventario-ganaderia](https://pau.ninja/wp-content/uploads/2021/10/inventario-ganaderia.jpg)
+![inventario-ganaderia](./wp-content/uploads/2021/10inventario-ganaderia.jpg)
 
 Gráfico: el total entre países sale a casi -4 millones de inventario de ganadería.
 
@@ -208,7 +197,7 @@ Aunque esté de acuerdo que la ganadería industrial se debería erradicar por c
 
 ## Se destruye la vida animal
 
-¿Cómo puedo afirmar que los monocultivos provocan incluso más contaminación (y muertes) que la ganadería industrial de los *cojonez*?
+¿Cómo puedo afirmar que los monocultivos provocan incluso más contaminación (y muertes) que la ganadería industrial de los _cojonez_?
 
 En 2015 la FAO (Organización de Comida y Agricultura) de las Naciones Unidas [afirmó](http://www.fao.org/soils-2015/events/detail/es/c/338738/) que nos quedaban sólo 60 años de tierras fértiles y cosechas.
 
@@ -226,7 +215,7 @@ Esto tiene un impacto directo en la [disminución](https://www.epa.gov/pollinato
 
 Los desechos de estos productos físicos empiezan a filtrarse libremente por fuera de las zonas de cultivo y, ¿qué sucede? lo podemos ver claramente en la [zona muerta](https://www.courthousenews.com/gulf-of-mexico-dead-zone-nearly-the-size-of-connecticut/) que ha quedado en el Golf de México.
 
-![muerte-golfo-mexico](https://pau.ninja/wp-content/uploads/2021/10/muerte-golfo-mexico.jpg)
+![muerte-golfo-mexico](./wp-content/uploads/2021/10muerte-golfo-mexico.jpg)
 
 Fotos: filtro de polución al Golfo con la muerte de toda su vida marítima.
 
@@ -290,9 +279,9 @@ Claro que la tierra necesita energía pero ni de lejos es lo único que le hace 
 
 > Es como alguien que sólo se alimenta de pan. Tendrá mucha energía, muchos carbohidratos, pero no podremos decir que esa persona esté bien alimentada.
 
-Que se lo digan al ciudadano medio de hace 10.000 años cuando se descubrió la agricultura y nuestra [dieta pasó a ser de carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/) exclusivamente.
+Que se lo digan al ciudadano medio de hace 10.000 años cuando se descubrió la agricultura y nuestra [dieta pasó a ser de carbohidratos](./la-verdad-sobre-los-carbohidratos) exclusivamente.
 
-![hombre-agricultura](https://pau.ninja/wp-content/uploads/2021/10/hombre-agricultura.jpg)
+![hombre-agricultura](./wp-content/uploads/2021/10hombre-agricultura.jpg)
 
 Con los monocultivos para crear plantas hacemos exactamente lo mismo. Le damos nitrógeno, fósforo y potasio para que crezcan cosas, pero esto es el equivalente a sólo darle pan. Energía.
 
@@ -304,7 +293,7 @@ Lo que necesitamos son **micronutrientes que estos monocultivos no nos proporci
 
 En otras palabras, nos llenamos la barriga de comida y energía vacía terminando con enfermedades y deficiencias nutricionales.
 
-Normal que los que pasamos a una carnívora terminemos haciendo tres, dos o hasta [una sola comida al día](https://pau.ninja/comer-una-vez-al-dia/). Porque nuestras [hormonas de hambre y saciedad](https://pau.ninja/comer-una-vez-al-dia/#Sensacion_de_saciedad) vuelven a normalizarse.
+Normal que los que pasamos a una carnívora terminemos haciendo tres, dos o hasta [una sola comida al día](./comer-una-vez-al-dia/). Porque nuestras [hormonas de hambre y saciedad](https://pau.ninja/comer-una-vez-al-dia#Sensacion_de_saciedad) vuelven a normalizarse.
 
 ## Se alimentan menos personas
 
@@ -312,17 +301,17 @@ Todo esto no son opiniones e hipótesis porque ha sido comprobado una y otra vez
 
 Los científicos [encontraron](https://www.elementascience.org/articles/116) que eliminar por completo los productos animales **no** es la mejor manera de maximizar el uso sostenible de la tierra. Una conclusión a la que llegaron comparando:
 
-- 1 dieta vegana
-- 2 dietas vegetarianas (una con lácteos y la otra con lácteos y huevos)
-- 4 omnívoras (con varios grados de influencia vegetariana)
-- 1 baja en grasas y azúcares
+- 1 
+- 2 
+- 4 
+- 1 
 - Y la típica dieta amerciana
 
-Después de hacer correr los modelos encontraron que **la dieta vegana alimentaría a menos personas** que todas las demás.
+Después de hacer correr los modelos encontraron que **la  alimentaría a menos personas** que todas las demás.
 
 ¿Por qué?
 
-Pues porque **la dieta vegana desperdicia tierra** disponible que de otra manera podrían usarse para alimentar a más personas.
+Pues porque **la  desperdicia tierra** disponible que de otra manera podrían usarse para alimentar a más personas.
 
 > Me refiero a que hay ciertas partes donde no se puede crear un monocultivo pero en cambio los animales pueden pastar libremente, convirtiendo las malas hierbas para los humanos en proteína animal.
 
@@ -347,8 +336,6 @@ Y estos no son los únicos pequeños que están en peligro.
 Las abejas son extremadamente [susceptibles](http://www.scielo.org.co/pdf/entra/v14n1/1900-3803-entra-14-01-232.pdf) a las neurotoxinas en estos químicos.
 
 Estamos hablando del animal más imprescindible por la función que tienen en nuestro ecosistema. Por culpa de estos productos que usamos en los monocultivos ya hemos [aniquilado más del 90%](https://www.fundacionaquae.org/la-abeja-en-peligro-de-extincion/) de las especies de estos animales «menos achuchables».
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Este es el dilema medioambiental vegano, amigos ninjas de la vida.
 
@@ -386,7 +373,7 @@ Menos del 3% de agua que se usa en la ganadería se va a desperdicio.
 
 ¿Podemos llamarlo desperdició si 1kg de ternera nos está dando muchísimas más calorías y densidad nutricional que 1kg de lechuga?
 
-![fuente-agua-carne-de-pasto](https://pau.ninja/wp-content/uploads/2021/10/fuente-agua-carne-de-pasto.png)
+![fuente-agua-carne-de-pasto](./wp-content/uploads/2021/10fuente-agua-carne-de-pasto.png)
 
 Infografía: fuente de agua que se usa (twitéalo). Fuentes en la imagen.
 
@@ -418,13 +405,13 @@ En comparación con las miles de muertes que provocamos en cada cosecha, esta «
 
 > Lo digo porque 1kg de carne no equivale a 1kg de arroz a nivel nutricional.
 
-Un quilo de carne nos aporta mucha más [energía con grasas saturadas buenas](https://pau.ninja/grasas-saturadas-son-buenas/), proteína, calorías y tiene un perfil vitamínico y mineral más completo que el cuerpo absorberá sin remilgos.
+Un quilo de carne nos aporta mucha más [energía con grasas saturadas buenas](./grasas-saturadas-son-buenas), proteína, calorías y tiene un perfil vitamínico y mineral más completo que el cuerpo absorberá sin remilgos.
 
-Una persona puede vivir toda una vida sólo con carne, pero una que viva sólo con arroz morirá por malnutrición. Que se lo digan a las primeras generaciones agrícolas [sobreviviendo con carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/) del trigo.
+Una persona puede vivir toda una vida sólo con carne, pero una que viva sólo con arroz morirá por malnutrición. Que se lo digan a las primeras generaciones agrícolas [sobreviviendo con carbohidratos](./la-verdad-sobre-los-carbohidratos) del trigo.
 
 Eso ya no sale tanto en las noticias porque entonces se venderían menos suplementos veganos.
 
-Y hablando de suplementos veganos (que se tienen que comprar sí o sí si se sigue una dieta vegana), los suplementos de algas que se venden como «indispensables» de omega 3 (aunque no sirvan para nada porque tienen un [estrés oxidativo](https://www.omega3galil.com/wp-content/uploads/2019/12/Oxidation-of-fish-oil-supplements-in-Australia.pdf) de la hostia), son suplementos totalmente [insostenibles](https://www.barebiology.com/pages/krill-oil-vs-fish-oil-vs-cod-liver-oil-vs-algae-oil) como comentaba el Professor Napier por temas de infraestructura a escala global.
+Y hablando de suplementos veganos (que se tienen que comprar sí o sí si se sigue una ), los suplementos de algas que se venden como «indispensables» de omega 3 (aunque no sirvan para nada porque tienen un [estrés oxidativo](https://www.omega3galil.com/wp-content/uploads/2019/12/Oxidation-of-fish-oil-supplements-in-Australia.pdf) de la hostia), son suplementos totalmente [insostenibles](https://www.barebiology.com/pages/krill-oil-vs-fish-oil-vs-cod-liver-oil-vs-algae-oil) como comentaba el Professor Napier por temas de infraestructura a escala global.
 
 No sólo eso sino que para extraer este omega 3 de las algas y ponerlo en un suplemento se necesita hexano. ¿Qué es este [hexano](https://www.atsdr.cdc.gov/es/phs/es_phs113.html#)? una sustancia elaborada a base de petróleo. ¿Petróleo? básicamente animales muertos. No muy vegano que digamos.
 
@@ -463,3 +450,89 @@ Vamos, que a penas se tira nada de carne pero en cambio la mitad de los vegetale
 Como bien me comentaron por Twitter, nos sabe a poco tirar unas zanahorias que se están pudriendo pero  nos aseguraremos que el entrecot lo congelamos o nos lo comemos sí o sí.
 
 Si los monocultivos serán nuestra perdición, somos unos malditos hipócritas por encima tirar el 50% de lo que nos llega a los hogares.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Antiveganismo](./antiveganismo)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/veganismo-y-medio-ambiente/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14954,"title":"13%20razones%20por%20las%20que%20el%20veganismo%20es%20INSOSTENIBLE","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/con-verduras-contaminadas.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

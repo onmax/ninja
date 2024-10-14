@@ -1,16 +1,21 @@
 ---
-title: "El código secreto de la Gran Pirámide Secretos, misterios y curiosidades de Giza"
+title: "El código secreto de la Gran Pirámide"
+url: https://pau.ninja/piramides-de-giza-curiosidades
+slug: piramides-de-giza-curiosidades
+categories: 
+- slug: enigmas-de-la-historia
+    label: Enigmas de la historia
 image: gran-piramide-de-guiza.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/02/gran-piramide-de-guiza.jpg
 published: 2021-03-03T11:11:09+00:00
 modified: 2023-06-26T19:30:21+00:00
+scrappedAt: 2024-10-14T09:21:18.995Z
 audioLink: https://www.ivoox.com/codigo-secreto-gran-piramide_md_67097244_wp_1.mp3
-slug: piramides-de-giza-curiosidades
+bibliography: []
 ---
+[https://www.ivoox.com/codigo-secreto-gran-piramide\_md\_67097244\_wp\_1.mp3](https://www.ivoox.com/codigo-secreto-gran-piramide_md_67097244_wp_1.mp3)
 
-[https://www.ivoox.com/codigo-secreto-gran-piramide_md_67097244_wp_1.mp3](https://www.ivoox.com/codigo-secreto-gran-piramide_md_67097244_wp_1.mp3)
-
-Hoy hablamos de los misterios de una de las construcciones más antiguas del planeta. Una construcción que ha perdurado milenios y que en línea del tiempo está a la par con la estructura megalítica más vieja que hemos encontrado nunca: [Göbekli Tepe](https://pau.ninja/civilizaciones-perdidas/#Gobekli_Tepe) en Turquía.
+Hoy hablamos de los misterios de una de las construcciones más antiguas del planeta. Una construcción que ha perdurado milenios y que en línea del tiempo está a la par con la estructura megalítica más vieja que hemos encontrado nunca: [Göbekli Tepe](./civilizaciones-perdidas#Gobekli_Tepe) en Turquía.
 
 ¿De qué construcción antigua estoy hablando? pues de La Gran Pirámide de Guiza, claro.
 
@@ -24,13 +29,13 @@ Quizás podría ser la única explicación de que a medida que pasan las generac
 
 Y esto no sería ni mucho menos la punta del iceberg… O más bien, la punta de la pirámide.
 
-![estudiando historia](https://pau.ninja/wp-content/uploads/2020/11/estudiando-historia.png)
+![estudiando historia](./wp-content/uploads/2020/11estudiando-historia.png)
 
 Pero cuidado.
 
 ¿Sabéis cuando te cuentan una historia, la vamos repitiendo y al final tiene poco que ver con lo que nos contaron inicialmente? esto siempre sucede con estos monumentos históricos con explicaciones oficiales que se tambalean (al contrario que sus estructuras milenarias).
 
-Ojalá que cada uno de los cuentos fueran ciertos, porque sabéis que [el misterio de las civilizaciones antiguas y perdidas](https://pau.ninja/civilizaciones-perdidas/) me pueden. Pero, ¿cómo no nos van a tachar de conspiranoicos si no comprobamos los datos?
+Ojalá que cada uno de los cuentos fueran ciertos, porque sabéis que [el misterio de las civilizaciones antiguas y perdidas](./civilizaciones-perdidas) me pueden. Pero, ¿cómo no nos van a tachar de conspiranoicos si no comprobamos los datos?
 
 A día de hoy hay cosas que **sí** podemos comprobar con datos y que por suerte (o por desgracia, según cómo se mire) hace que las curiosidades, los secretos, los misterios de Guiza sean aún mayores.
 
@@ -43,34 +48,6 @@ Aunque los arqueólogos mediáticos se queden en su narrativa de confort y quier
 
 Pero hoy no nos quedamos aquí. Hoy entramos de lleno en algunos de los secretos más sorprendentes de La Gran Pirámide de Guiza.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [La Cámara del Rey de la Gran Pirámide](#La_Camara_del_Rey_de_la_Gran_Piramide 'La Cámara del Rey de la Gran Pirámide')
-  - [No fue la tumba de Keops](#No_fue_la_tumba_de_Keops 'No fue la tumba de Keops')
-  - [No fue para disuadir intrusos](#No_fue_para_disuadir_intrusos 'No fue para disuadir intrusos')
-  - [Es una cámara independiente](#Es_una_camara_independiente 'Es una cámara independiente')
-  - [Podría canalizar energía](#Podria_canalizar_energia 'Podría canalizar energía')
-  - [Tesla, pirámides y electricidad](#Tesla_piramides_y_electricidad 'Tesla, pirámides y electricidad')
-- [Curiosidades de la pirámide de Guiza](#Curiosidades_de_la_piramide_de_Guiza 'Curiosidades de la pirámide de Guiza')
-  - [Por dentro hay cámaras secretas](#Por_dentro_hay_camaras_secretas 'Por dentro hay cámaras secretas')
-  - [Es un enigma como se construyó](#Es_un_enigma_como_se_construyo 'Es un enigma como se construyó')
-  - [Precisión en las piedras](#Precision_en_las_piedras 'Precisión en las piedras')
-  - [Tiene 8 lados, no 4](#Tiene_8_lados_no_4 'Tiene 8 lados, no 4')
-  - [Contiene los números áureo y pi](#Contiene_los_numeros_aureo_y_pi 'Contiene los números áureo y pi')
-  - [Sus medidas son un misterio](#Sus_medidas_son_un_misterio 'Sus medidas son un misterio')
-- [Coordenadas de la Gran Pirámide de Guiza](#Coordenadas_de_la_Gran_Piramide_de_Guiza 'Coordenadas de la Gran Pirámide de Guiza')
-  - [Órbita elíptica de la Tierra](#Orbita_eliptica_de_la_Tierra 'Órbita elíptica de la Tierra')
-  - [Constelación de Orión](#Constelacion_de_Orion 'Constelación de Orión')
-  - [Apunta al norte geográfico](#Apunta_al_norte_geografico 'Apunta al norte geográfico')
-  - [Latitud y longitud](#Latitud_y_longitud 'Latitud y longitud')
-  - [Estrellas](#Estrellas 'Estrellas')
-  - [Orientación](#Orientacion 'Orientación')
-  - [Dimensiones](#Dimensiones 'Dimensiones')
-  - [Akhet](#Akhet 'Akhet')
-- [Historia real de la pirámide de Guiza](#Historia_real_de_la_piramide_de_Guiza 'Historia real de la pirámide de Guiza')
-
 ## La Cámara del Rey de la Gran Pirámide
 
 Antes de entrar a las [curiosidades](#Curiosidades_de_la_piramide_de_Guiza) y misterios de la Pirámide como global, empecemos por la sala más emblemática y que para mí es lo que hace que empiece a tener tantos enigmas.
@@ -81,7 +58,7 @@ Aunque la pirámide albergue muchos secretos, lo que **nunca** albergó fue una 
 
 La egiptología clásica siempre ha dicho que la Gran Pirámide de Giza fue la tumba de Keops, pero **nunca** se ha aportado evidencia que lo confirmara.
 
-![faraón Keops](https://pau.ninja/wp-content/uploads/2021/03/faraon-keops.jpg)
+![faraón Keops](./wp-content/uploads/2021/03faraon-keops.jpg)
 
 Foto: escultura de el faraón Keops.
 
@@ -95,15 +72,15 @@ Por eso, lo que se encontró en la cámara del rey… es algo raro.
 
 Hay algo raro porqué se encontró un cofre de piedra pero **sin tapa ni decoración** y además **vacío**. Y fijaros que digo «cofre» y no «sarcófago» porque aunque tuviera la típica forma alargada, **nunca** se encontró ningún cuerpo en el interior.
 
-![sarcófago pirámide de guiza](https://pau.ninja/wp-content/uploads/2021/03/sarcofago-piramide-de-guiza.jpg)
+![sarcófago pirámide de guiza](./wp-content/uploads/2021/03sarcofago-piramide-de-guiza.jpg)
 
-Los antiguos egipcios le dijeron al historiador griego Heródoto (el mismo que [puso la Atlántida en un mapa](https://pau.ninja/ciudad-perdida-atlantida-ubicacion/)), de que Keops no fue ni enterrado ni momificado en la Pirámide de Guiza, pero en otro lugar. Un lugar que por cierto [nunca](https://es.wikipedia.org/wiki/Keops) fue encontrado y aún se [especula](https://www.smh.com.au/world/here-lies-the-body-of-cheops-or-maybe-not-20040901-gdjnp0.html) dónde podría estar el faraón.
+Los antiguos egipcios le dijeron al historiador griego Heródoto (el mismo que [puso la Atlántida en un mapa](./ciudad-perdida-atlantida-ubicacion/)), de que Keops no fue ni enterrado ni momificado en la Pirámide de Guiza, pero en otro lugar. Un lugar que por cierto [nunca](https://es.wikipedia.org/wiki/Keops) fue encontrado y aún se [especula](https://www.smh.com.au/worldhere-lies-the-body-of-cheops-or-maybe-not-20040901-gdjnp0.html) dónde podría estar el faraón.
 
 Algunos dicen que en otras de las cámaras que se han ido encontrando en Guiza, donde no hemos podido acceder, pero según lo que nos dice Heródoto, parece que en la Gran Pirámide, no.
 
 De hecho si comparamos la habitación que se llama «La Cámara del Rey» con las otras pirámides más nuevas donde **sí** hemos demostrado y hemos sido testigo de que había momias de faraones o no faraones, vemos que la cámara de la Pirámide de Guiza no se parece en nada a una sepultura de un gran rey.
 
-![pirámide Guiza vs tumba](https://pau.ninja/wp-content/uploads/2021/03/piramide-guiza-vs-tumba.jpg)
+![pirámide Guiza vs tumba](./wp-content/uploads/2021/03piramide-guiza-vs-tumba.jpg)
 
 Foto: izquierda La Cámara del Rey en la Gran Pirámide de Guiza VS una tumba encontrada.
 
@@ -133,7 +110,7 @@ Otra teoría era que esta cámara estaba hecha únicamente para aliviar un poqui
 
 Aunque el señor Howard Vyse [propuso](https://www.abebooks.com/first-edition/Operations-Carried-Pyramids-Gizeh-1837-account/7620936948/bd) esta idea en 1840, una publicación tan reciente como enero de 2020 nos demostraba que el peso sobre la cámara del Rey se lleva a cabo a través de las alas (que son las partes que salen de la estructura de la habitación).
 
-![peso cámara del rey](https://pau.ninja/wp-content/uploads/2021/03/peso-camara-del-rey.jpeg)
+![peso cámara del rey](./wp-content/uploads/2021/03peso-camara-del-rey.jpeg)
 
 O en lenguaje ninja, que la estructura del techo de esta sala está como flotando de forma independiente.
 
@@ -189,7 +166,7 @@ Sin duda Elon es el más mediático pero pienso que ni siquiera le pisa los talo
 
 Tesla buscaba la energía infinita e inalámbrica, y es normal que se obsesionara con La Gran Pirámide de Guiza por esa teoría de que fuera una especie de canalizador de energía.
 
-![teoría Tesla pirámide](https://pau.ninja/wp-content/uploads/2021/03/teoria-tesla-piramide.jpg)
+![teoría Tesla pirámide](./wp-content/uploads/2021/03teoria-tesla-piramide.jpg)
 
 Pero hay mucho más.
 
@@ -213,7 +190,7 @@ Si juntamos todas las superficies terrestres (como si tratáramos cada continent
 
 Claro, la Tierra es redonda (aunque hay mucho loco en internet que lo niega), y el centro como tal sería el centro de la bola, pero el centro geográfico es teniendo en cuenta sólo la área terrestre. Como puesta en un mapa.
 
-![mapa centro geográfico Tierra](https://pau.ninja/wp-content/uploads/2021/03/mapa-centro-geografico-tierra.gif)
+![mapa centro geográfico Tierra](./wp-content/uploads/2021/03mapa-centro-geografico-tierra.gif)
 
 Pues bien, la idea de que la pirámide estaba en este centro, fue sacada de alrededor del año 1860s, cuando un [geógrafo](https://en.wikipedia.org/wiki/Geographical_centre_of_Earth) dijo que sí lo estaba. Claro un cálculo en el Siglo XIX es difícil de hacer con precisión cuando englobas todo el mundo.
 
@@ -253,7 +230,7 @@ Vale ya vemos que el método es veraz, y ¿qué descubrieron? nada más ni nada
 
 Y esto que 2 años atrás de este descubrimiento también encontraron un nuevo corredor. Aunque una habitación tan grande es bastante más emocionante.
 
-![cámara secreta en pirámide](https://pau.ninja/wp-content/uploads/2021/03/camara-secreta-en-piramide.jpg)
+![cámara secreta en pirámide](./wp-content/uploads/2021/03camara-secreta-en-piramide.jpg)
 
 Lo que más me flipa de este [descubrimiento](https://www.youtube.com/watch?v=p4SrdfnZhnA) es que aún no se ha podido acceder.
 
@@ -265,11 +242,11 @@ Y claro, ¿cómo se puede acceder a ella? eso es lo que quiero saber.
 
 Lo que también quiero saber es **cómo** se construyó. A parte del por qué, claro. Que después entraremos en eso.
 
-Hay que entender que por extraño que parezca, las pirámides más recientes son peores y más rudimentarias que La Gran Pirámide. Es decir, que con el tiempo **la tecnología parece empeorar**, y esto nadie se lo explica. Por esto soy firme defensor de [la hipótesis del meteorito](https://pau.ninja/teoria-del-meteorito/) y las supuesta civilizaciones supervivientes.
+Hay que entender que por extraño que parezca, las pirámides más recientes son peores y más rudimentarias que La Gran Pirámide. Es decir, que con el tiempo **la tecnología parece empeorar**, y esto nadie se lo explica. Por esto soy firme defensor de [la hipótesis del meteorito](./teoria-del-meteorito) y las supuesta civilizaciones supervivientes.
 
 Por esto **cómo** se construyó la gran pirámide podría ser muy diferente de cómo se construyeron las más nuevas. Pequeñas y peores, que al fin y al cabo no dejarían de ser otra cosa que un intento de copiar a «la pirámide original».
 
-![pirámides antiguas vs nuevas](https://pau.ninja/wp-content/uploads/2021/03/piramides-antiguas-vs-nuevas.jpg)
+![pirámides antiguas vs nuevas](./wp-content/uploads/2021/03piramides-antiguas-vs-nuevas.jpg)
 
 Una de las formas de construcción con las que se ha teorizado es «la teoría de la rampa» que fue propuesta por el Instituto Francés de Arqueología Oriental en El Cairo y la Universidad de Liverpool a raíz de descubrir restos de un supuesto sistema de [rampas](http://www.touregypt.net/featurestories/pyramidlifts.htm).
 
@@ -291,7 +268,7 @@ En vez de utilizar pulgadas o metros, lo que utilizaron fue como un cubo para me
 
 Lo interesante es que las medidas de este cubo, sale de coger la distancia entre el polo norte y el polo sur de la Tierra y dividirlo **exactamente** por 28 millones.
 
-![medidas Tierra](https://pau.ninja/wp-content/uploads/2021/03/medidas-tierra.jpg)
+![medidas Tierra](./wp-content/uploads/2021/03medidas-tierra.jpg)
 
 O sea que si trazamos una línea recta de polo norte a polo sur y cortamos la medida por 28 millones exactas de trozos, ese es la medida del cubo.
 
@@ -313,7 +290,7 @@ A simple vista no se puede ver, pero…
 
 Si nos ponemos en vista aérea podemos ver que la Gran Pirámide de Guiza de hecho **tiene 8 caras**.
 
-![pirámide 8 caras](https://pau.ninja/wp-content/uploads/2021/02/piramide-8-caras.jpg)
+![pirámide 8 caras](./wp-content/uploads/2021/02piramide-8-caras.jpg)
 
 Esto no sólo complica el diseño enormemente, pero produce una geometría bizarra que cuando la analizamos produce números. Números que según la arqueología dominante no deberían estar allí…
 
@@ -330,7 +307,7 @@ Hay más números que fascinan. Por ejemplo la Pirámide también contiene 2 nú
 
 Hay leyenda de que el arquitecto que diseñó la Gran Pirámide incorporó intencionalmente la Media Áurea (que es este número φ) en las proporciones del pedrusco.
 
-Aunque se tiene que este mito tiene sus bases en un malentendido de los escritos de Herodoto. ¿Os acordáis de Herodoto? es considerado el «padre de la historia» y ya lo mencioné cuando [hablé sobre la Atlántida](https://pau.ninja/ciudad-perdida-atlantida-ubicacion/) porque la incorporó en su mapa oficial.
+Aunque se tiene que este mito tiene sus bases en un malentendido de los escritos de Herodoto. ¿Os acordáis de Herodoto? es considerado el «padre de la historia» y ya lo mencioné cuando [hablé sobre la Atlántida](./ciudad-perdida-atlantida-ubicacion) porque la incorporó en su mapa oficial.
 
 El caso es que Herodoto aprendió de los sacerdotes egipcios que:
 
@@ -384,7 +361,7 @@ Con esto empezamos a entender esta fascinación que comentábamos sobre la Gran 
 
 ¿Por qué la localización de la pirámide más antigua del mundo es relevante? pues tiene que ver con la órbita elíptica de la Tierra.
 
-![orbita elíptica Tierra](https://pau.ninja/wp-content/uploads/2021/02/orbita-eliptica-tierra.gif)
+![orbita elíptica Tierra](./wp-content/uploads/2021/02orbita-eliptica-tierra.gif)
 
 Si volvemos a la ubicación, parece que esta tampoco fue dejada a la casualidad.
 
@@ -394,7 +371,7 @@ La Gran Pirámide fue construida en consonancia con las otras dos pirámides má
 
 Hay la hipótesis de que en conjunto con las otras dos pirámides, las tres representan la Constelación de Orión en las arenas de Egipto.
 
-![pirámides y constelación Orión](https://pau.ninja/wp-content/uploads/2021/03/piramides-y-constelacion-orion.jpg)
+![pirámides y constelación Orión](./wp-content/uploads/2021/03piramides-y-constelacion-orion.jpg)
 
 Sabemos que los egipcios creían que los dioses descendían del cinturón de Orión y que Sirio (la estrella más brillante del cielo) y los dioses tomaron forma de humanos.
 
@@ -408,7 +385,7 @@ Sería mucha casualidad que apuntara a una constelación así por que sí, pero 
 
 El norte verdadero no es el que sale en las brújulas. Ese es el norte magnético. El norte verdadero es el que señala la dirección exacta en línea recta donde está ubicado el Polo Norte.
 
-![norte verdadero](https://pau.ninja/wp-content/uploads/2021/03/norte-verdadero.jpg)
+![norte verdadero](./wp-content/uploads/2021/03norte-verdadero.jpg)
 
 Este concepto fue descubierto en el siglo XI por el chino Shen Kuo, así que de nuevo, demostración de conocimientos que no nos podemos explicar.
 
@@ -444,7 +421,7 @@ Este número sale de un movimiento que hace nuestro Planeta Tierra de forma natu
 
 La Tierra tiene un movimiento de precesión, que es similar al de una peonza cuando está perdiendo algo de fuerza. ¿Sabéis cuando la peonza empieza a bajar la velocidad y tiembla un poquito?
 
-![precesión Tierra peonza](https://pau.ninja/wp-content/uploads/2021/02/precesion-tierra-peonza.jpg)
+![precesión Tierra peonza](./wp-content/uploads/2021/02precesion-tierra-peonza.jpg)
 
 Sigue rotando, pero tiene este «tambaleo» independiente del movimiento de rotación. Pues bien la Tierra es como una peonza en este estado.
 
@@ -466,7 +443,7 @@ Sabemos que las civilizaciones antiguas estaban obsesionadas con los equinoccios
 
 Pues esos momentos del año en el que las horas de luz y de noche son **exactamente las mismas**.
 
-![Solsticio Equinox](https://pau.ninja/wp-content/uploads/2021/03/Solsticio-Equinox.jpg)
+![Solsticio Equinox](./wp-content/uploads/2021/03Solsticio-Equinox.jpg)
 
 Es cuando el Sol está formando un eje imaginario totalmente perpendicular con el ecuador y con esto la duración del día y la noche son las mismas.
 
@@ -502,7 +479,7 @@ La escala que hemos usado para que nos salgan las dimensiones de la Tierra.
 
 Además fijaros con este grado cada 72 años. No sólo es un múltiplo de 43.200, pero además es un número que no sólo aparece en La Pirámide, pero que vemos una importancia [tremenda](https://circumsolatious.blogspot.com/2019/11/the-sacred-measure-of-432000-part-4.html) en toda la historia egipcia.
 
-![asesinato Osiris](https://pau.ninja/wp-content/uploads/2021/03/asesinato-Osiris.jpeg)
+![asesinato Osiris](./wp-content/uploads/2021/03asesinato-Osiris.jpeg)
 
 - El dios Osiris fue asesinado por Seth, su hermano pequeño que también era el dios egipcios, en este caso de la guerra. Pero Seth no mató a Osiris sólo. Lo hizo con [72](https://books.google.fi/books?id=CrkHGF9kVuAC&pg=PA129&lpg=PA129&dq=seth+mato+osiris+%2272%22&source=bl&ots=XRFaMDkKFq&sig=ACfU3U0pQ81gr9-Z1MfK9relfbQy_AYZxg&hl=es&sa=X&ved=2ahUKEwi_sdzZ9I7vAhVJzKQKHQViAGUQ6AEwDHoECBEQAw#v=onepage&q=seth%20mato%20osiris%20%2272%22&f=false) conspiradores.
 - [Rigveda](https://es.wikipedia.org/wiki/Rigveda), una colección de himnos dedicados a los Dioses que se usaba en varios rituales ¿cuántas sílabas tiene? **setenta y dos**.
@@ -558,15 +535,15 @@ Actualmente los egiptólogos más modernos están de acuerdo que los primeros eg
 
 Ahora mismo rebajado
 
-[![The Pyramids of Egypt (Penguin archaeology)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTVJGRkZabGt4WTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDExMQ=)](https://www.amazon.es/dp/0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Pyramids of Egypt (Penguin archaeology)')
+[![The Pyramids of Egypt (Penguin archaeology)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTVJGRkZabGt4WTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcyMg=)](https://www.amazon.es/dp0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Pyramids of Egypt (Penguin archaeology)")
 
-[The Pyramids of Egypt (Penguin archaeology)](https://www.amazon.es/dp/0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Pyramids of Egypt (Penguin archaeology)')
+[The Pyramids of Egypt (Penguin archaeology)](https://www.amazon.es/dp/0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Pyramids of Egypt (Penguin archaeology)")
 
 Como si la pirámide fuera un instrumento para la transformación de faraón a la luz del Sol según Edwards en 1947.
 
 6,03 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Una especie de «motor cósmico» que permitiera la transformación en la luz de _akhet_, según [Lehnet](https://www.researchgate.net/publication/249102173_Book_Review_The_Complete_Pyramids_Solving_the_Ancient_Mysteries_Mark_Lehner) en 1998.
 
@@ -576,7 +553,7 @@ Lo que es aún más interesante, como si no tuviéramos suficiente con todas esa
 
 Desde el área frente a la Esfinge se puede ser testigo de como se forma este réplica del jerogríflico Akhet.
 
-![akhet y pirámides](https://pau.ninja/wp-content/uploads/2021/03/akhet-y-piramides.jpg)
+![akhet y pirámides](./wp-content/uploads/2021/03akhet-y-piramides.jpg)
 
 Es lo que se llama hierofanía, una manifestación de la divinidad que ocurre todos los años.
 
@@ -596,12 +573,12 @@ La cámara del Rey se registró en los textos originales como una caverna, la ol
 
 La traducción precisa sigue siendo tan misteriosa como la propia pirámide.
 
-Lo que si vemos es que el proceso de transformación y manifestación de la energía de la luz fue originalmente real y física según los egipcios más antiguos (¿tal vez los descendientes de los [supervivientes](https://pau.ninja/teoria-del-meteorito/)?). Pero, ¿qué pasó? que luego se malinterpretó como alquimia > luego magia > luego misticismo y que finalmente se transformó en religión.
+Lo que si vemos es que el proceso de transformación y manifestación de la energía de la luz fue originalmente real y física según los egipcios más antiguos (¿tal vez los descendientes de los [supervivientes](./teoria-del-meteorito)?). Pero, ¿qué pasó? que luego se malinterpretó como alquimia > luego magia > luego misticismo y que finalmente se transformó en religión.
 
 Así es como lo interpretamos **todo** hoy en día.
 
 > ¿Qué es esta construcción megalítica milenaria? ni idea, debe de ser un templo porque eran unos borregos hace miles de años…
->
+> 
 > ¿Qué es esto que dicen del faraón? y yo que sé, serán cosas de su cuentos o religión. Como eran unos borregos…
 
 ¿Qué puedo decir de todo esto?
@@ -610,7 +587,7 @@ Si fuera, una o dos datos aleatorios en cuanto a números que nos da la pirámid
 
 Así de simple (y de complejo a la vez).
 
-Cada vez que leo estas cosas y veo los nuevos geólogos poniendo **fechas más antiguas** a la pirámide, a Guiza, siendo de más de 10.000 años, cada vez estoy más convencido de la teoría del meteorito que llevaría a [la desaparición de civilizaciones avanzadas](https://pau.ninja/civilizaciones-perdidas/).
+Cada vez que leo estas cosas y veo los nuevos geólogos poniendo **fechas más antiguas** a la pirámide, a Guiza, siendo de más de 10.000 años, cada vez estoy más convencido de la teoría del meteorito que llevaría a [la desaparición de civilizaciones avanzadas](./civilizaciones-perdidas).
 
 Personalmente para mí la teoría que me suena más plausible, es algo relacionado con la energía, y algo dentro de mi está convencido que Tesla estuvo muy cerca de hacer lo que sea que los constructores de la pirámide hicieron.
 
@@ -619,3 +596,88 @@ Pero tal vez nunca lo sabremos.
 De vez en cuando le doy una ojeada a las teorías conspiranoicas a ver si dicen alguna locura, así que me apetece cerrar con un comentario muy graciosos con el que me encontré.
 
 > ¿Y si la Gran Pirámide de Guiza es un código QR para que los Aliens sepan las medidas de la Tierra con una escaneada rápida? 😂
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Enigmas de la historia](./enigmas-de-la-historia)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/piramides-de-giza-curiosidades/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10952,"title":"Los%206%20secretos%20de%20la%20Gran%20Pir%C3%A1mide%20de%20Guiza%20%E3%80%90misterios%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/02\\/gran-piramide-de-guiza.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

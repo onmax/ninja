@@ -1,13 +1,20 @@
 ---
-title: "Adiós, Satoshi Nakamoto La misteriosa desaparición del creador de Bitcoin"
+title: "Adiós, Satoshi Nakamoto"
+url: https://pau.ninja/historia-y-origen-del-bitcoin
+slug: historia-y-origen-del-bitcoin
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: satoshi-nakamoto-en-el-ordenador.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/05/satoshi-nakamoto-en-el-ordenador.jpeg
 published: 2021-05-07T10:15:46+00:00
 modified: 2024-02-11T06:34:12+00:00
+scrappedAt: 2024-10-14T09:21:17.469Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/74514823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F342718019-44100-2-f8f568f8ae8cf.mp3
-slug: historia-y-origen-del-bitcoin
+bibliography: ["“Stats – Satoshi Nakamoto.” 2023. Satoshinakamoto.me.‌","“The Cryptography Archives.” 2023. Metzdowd.com.‌","“¿Quién Es Nick Szabo?” 2019. Bit2Me Academy.","Szabo, Nick. 2023. “Bitcoin, What Took Ye so Long?” Blogspot.com.‌","“Re: Minimalistic Bitcoin Client on D Language? | Satoshi Nakamoto Institute.” 2023. Nakamotoinstitute.org. ‌","“Latest Posts Of: Satoshi.” 2023. Bitcointalk.org.‌","Huang, Roger. 2019. “How Bitcoin and WikiLeaks Saved Each Other.” Forbes, April 26.","Francesc Peirón. 2021. “Tesla Compra 1.250 Millones En Bitcoins Y Dispara La Criptomoneda.” La Vanguardia. La Vanguardia.‌","“How Many Spaces Should I Leave after a Period? | MLA Style Center.” 2016.‌","“Nakamoto: Name Meaning, Origin, Popularity, & Inspiration – FamilyEducation.” 2019. FamilyEducation.‌","“Top 100 Richest Bitcoin Addresses and Bitcoin Distribution.” 2023. BitInfoCharts.‌","Forbes. 2023. “Real Time Billionaires.”‌","Vigna, Paul, and Michael J Casey. 2014. “Hacker Claims to Crack Email of Bitcoin Creator Satoshi Nakamoto.” WSJ. The Wall Street Journal.‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/74514823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F342718019-44100-2-f8f568f8ae8cf.mp3](https://anchor.fm/s/98566448/podcast/play/74514823/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-11%2F342718019-44100-2-f8f568f8ae8cf.mp3)
 
 Por cada persona que le gusta lo misterioso (lo desconocido), hay dos que fantasean con lo opuesto: la fama.
@@ -20,7 +27,7 @@ Así lo decidió con una sola intención: convertir a Bitcoin con el activo má
 
 Pensadlo un momento.
 
-![cómic bitcoin Thanos](https://pau.ninja/wp-content/uploads/2020/11/comic-bitcoin-thanos.png)
+![cómic bitcoin Thanos](./wp-content/uploads/2020/11comic-bitcoin-thanos.png)
 
 Ethereum tiene una cara visible: Vitalik.
 
@@ -34,32 +41,7 @@ El enigma de su identidad real ha ido aumentando en proporción al valor de Bitc
 
 Vamos a mirar teorías sobre quien podría ser, los Bitcoin que tiene y posibles hipótesis sobre lo que sucedería si uno de estos pilares se tambaleara.
 
-Porque a todos los que [hemos comprado Bitcoin](https://pau.ninja/invertir-en-bitcoins-forma-segura/) nos ha pasado por la cabeza: ¿y si moviera sus Bitcoin? ¿y si descubriéramos quien es? ¿y si…?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [La historia y origen del Bitcoin](#La_historia_y_origen_del_Bitcoin 'La historia y origen del Bitcoin')
-  - [David Chaum y la criptografía](#David_Chaum_y_la_criptografia 'David Chaum y la criptografía')
-  - [El movimiento cypherpunk](#El_movimiento_cypherpunk 'El movimiento cypherpunk')
-  - [El White Paper de Satoshi Nakamoto](#El_White_Paper_de_Satoshi_Nakamoto 'El White Paper de Satoshi Nakamoto')
-  - [Wikileaks y Bitcoin](#Wikileaks_y_Bitcoin 'Wikileaks y Bitcoin')
-  - [La desaparición de Satoshi](#La_desaparicion_de_Satoshi 'La desaparición de Satoshi')
-  - [El futuro de Bitcoin y Satoshi](#El_futuro_de_Bitcoin_y_Satoshi 'El futuro de Bitcoin y Satoshi')
-- [El creador de Bitcoin](#El_creador_de_Bitcoin 'El creador de Bitcoin')
-  - [Quien es Satoshi Nakamoto](#Quien_es_Satoshi_Nakamoto 'Quien es Satoshi Nakamoto')
-  - [El significado de "Satoshi Nakamoto"](#El_significado_de_%22Satoshi_Nakamoto%22 'El significado de "Satoshi Nakamoto"')
-  - [Cuantos Bitcoin tiene Satoshi Nakamoto](#Cuantos_Bitcoin_tiene_Satoshi_Nakamoto 'Cuantos Bitcoin tiene Satoshi Nakamoto')
-- [Y sí...](#Y_si 'Y sí...')
-  - [Se moviera la fortuna de Satoshi Nakamoto](#Se_moviera_la_fortuna_de_Satoshi_Nakamoto 'Se moviera la fortuna de Satoshi Nakamoto')
-  - [Satoshi Nakamoto hubiera perdido sus claves](#Satoshi_Nakamoto_hubiera_perdido_sus_claves 'Satoshi Nakamoto hubiera perdido sus claves')
-  - [Si el creador de Bitcoin muere](#Si_el_creador_de_Bitcoin_muere 'Si el creador de Bitcoin muere')
-  - [Se supiera quien es](#Se_supiera_quien_es 'Se supiera quien es')
-- [Teorías sobre quién podría ser](#Teorias_sobre_quien_podria_ser 'Teorías sobre quién podría ser')
-  - [Dorian Nakamoto](#Dorian_Nakamoto 'Dorian Nakamoto')
-  - [Craig Wright y otros farsantes](#Craig_Wright_y_otros_farsantes 'Craig Wright y otros farsantes')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
+Porque a todos los que [hemos comprado Bitcoin](./invertir-en-bitcoins-forma-segura) nos ha pasado por la cabeza: ¿y si moviera sus Bitcoin? ¿y si descubriéramos quien es? ¿y si…?
 
 ## La historia y origen del Bitcoin
 
@@ -89,17 +71,17 @@ Ya intuís por dónde va esto, ¿no?
 
 El _paper_ de David Chaum se convertiría 10 años más tarde en una empresa llamada DigiCash que ofrecía un sistema de pago **totalmente anónimo**.
 
-![trabajo de David Chaum](https://pau.ninja/wp-content/uploads/2021/05/trabajo-de-David-Chaum.jpg)
+![trabajo de David Chaum](./wp-content/uploads/2021/05trabajo-de-David-Chaum.jpg)
 
 Pero la trascendencia de DigiCash no fue tanto a funcionar como empresa (porque terminó quebrando), sino en **inspirar** a los _cypherpunks_.
 
-Lo que suena a una banda de *heavy metal* o una banda de Mad Max, es en verdad un movimiento activista que defiende el uso de la criptografía, de la encriptación con tecnología porque entienden la privacidad como uno de los pilares más importantes de la sociedad.
+Lo que suena a una banda de _heavy metal_ o una banda de Mad Max, es en verdad un movimiento activista que defiende el uso de la criptografía, de la encriptación con tecnología porque entienden la privacidad como uno de los pilares más importantes de la sociedad.
 
 Vamos, que estos activistas ya eran unos avanzados en su tiempo como tal, porque justo se empezaba a usar los ordenadores y no creo que aún hubiera mucha gente que se preocupara por su privacidad.
 
 ### El movimiento _cypherpunk_
 
-Por esto en el mundo Bitcoin se da tanta importancia en [comprar Bitcoin de la forma más anónima](https://pau.ninja/comprar-bitcoins-anonimamente/) posible.
+Por esto en el mundo Bitcoin se da tanta importancia en [comprar Bitcoin de la forma más anónima](./comprar-bitcoins-anonimamente) posible.
 
 La privacidad ha sido una preocupación que hemos incorporado recientemente, cuando hemos adoptado tecnología de forma masiva en nuestras vidas y de pronto nos encontramos que nos hemos quedado sin.
 
@@ -111,7 +93,7 @@ En los 90 los activistas del movimiento _cypherpunks_ eran pocos pero muy activo
 
 Claro que en esa época una lista de correo de este estilo era mucho menos voluminosa (con pocos cientos de personas en vez de miles) y era más parecida a los foros actuales de internet.
 
-![boletín Satoshi](https://pau.ninja/wp-content/uploads/2021/05/boletin-satoshi.jpeg)
+![boletín Satoshi](./wp-content/uploads/2021/05boletin-satoshi.jpeg)
 
 Imagen: Satosi utilizó esas listas para proponer la idea de Bitcoin.
 
@@ -123,7 +105,7 @@ Por esto se ha llegado a especular que lo más probable es que Satoshi Nakamoto 
 
 Que sólo empezar a utilizar el nombre Satoshi cuando quiso lanzar el proyecto Bitcoin.
 
-Los que buscan info sobre él a la desesperada[1](<javascript:void(0)>)“Stats – Satoshi Nakamoto.” 2023. Satoshinakamoto.me.‌, han indagado a fondo en las copias[2](<javascript:void(0)>)“The Cryptography Archives.” 2023. Metzdowd.com.‌ de estos correos que hoy ya tenemos de forma pública, para ver si podían seguir las migas de los participantes para salir con potenciales candidatos a ser el creador de Bitcoin.
+Los que buscan info sobre él a la desesperada[ref-1](#ref-1){.ref}, han indagado a fondo en las copias[ref-2](#ref-2){.ref} de estos correos que hoy ya tenemos de forma pública, para ver si podían seguir las migas de los participantes para salir con potenciales candidatos a ser el creador de Bitcoin.
 
 Pero hasta día de hoy, no se ha sacado agua clara. ¿Y cómo no le van a destinar energía a destapar el enigma del señor Nakamoto?
 
@@ -137,11 +119,11 @@ Hubo todo un equipo de desarrolladores informáticos y de esos _cypherpunks_ que
 
 En 2008 Satoshi Nakamoto lanzaba un documento llamado White Paper.
 
-![white papers de bitcoin](https://pau.ninja/wp-content/uploads/2021/02/white-papers-de-bitcoin.jpg)
+![white papers de bitcoin](./wp-content/uploads/2021/02white-papers-de-bitcoin.jpg)
 
 Imagen: primera página del [White Paper](https://bitcoin.org/bitcoin.pdf).
 
-Este *paper* donde se explicaba el proyecto Bitcoin y que fue compartido por primera vez en una de estas listas de correos de _cypherpunks\_\_._
+Este _paper_ donde se explicaba el proyecto Bitcoin y que fue compartido por primera vez en una de estas listas de correos de _cypherpunks__._
 
 Aunque sabemos que Satoshi tenía contacto con algunos de sus miembros a través de email parece que nunca se sacó la máscara ni dio ninguna pista a nadie de su identidad real.
 
@@ -149,19 +131,19 @@ Ahora bien. Sus influencias están bien marcadas.
 
 - Por ejemplo es una de las referencias que hay en la bibliografía del White Paper, vemos que Satoshi se inspiró en el proyecto llamado [B-money](http://www.weidai.com/bmoney.txt). Una idea de dinero que Wei Dai publicó en 1998, pero nunca terminó siendo nada más que eso… una idea.
 - DigiCash que hemos mencionado antes fue otra de las inspiraciones.
-- Bit Gold que conceptualizó Nick Szabo fue seguramente la semilla más importante[3](<javascript:void(0)>)“¿Quién Es Nick Szabo?” 2019. Bit2Me Academy.. Una idea súper similar a Bitcoin pero que al igual que B-money nunca se materializó en una realidad. Bit Gold quedó escrita en el papel sobre 2005 y nunca vio la luz.
+- Bit Gold que conceptualizó Nick Szabo fue seguramente la semilla más importante[ref-3](#ref-3){.ref}. Una idea súper similar a Bitcoin pero que al igual que B-money nunca se materializó en una realidad. Bit Gold quedó escrita en el papel sobre 2005 y nunca vio la luz.
 
-Nick Szabo publicaba en su blog como el diseño de Bitcoin era superior a su idea de Bit Gold solucionando problemas que el diseño del concepto de Nick no había podido resolver[4](<javascript:void(0)>)Szabo, Nick. 2023. “Bitcoin, What Took Ye so Long?” Blogspot.com.‌.
+Nick Szabo publicaba en su blog como el diseño de Bitcoin era superior a su idea de Bit Gold solucionando problemas que el diseño del concepto de Nick no había podido resolver[ref-4](#ref-4){.ref}.
 
-Tanto Nick Szabo como como Wei Dai habían estado en contacto con [Hal Finney](<https://en.wikipedia.org/wiki/Hal_Finney_(computer_scientist)>), una de las personalidades _cypherpunks_. Un informático que fue, no sólo el **primer colaborador** en ayudar a Nakamoto a desarrollar Bitcoin, sino el impulsor de la **primera transacción de Bitcoin de la historia**.
+Tanto Nick Szabo como como Wei Dai habían estado en contacto con [Hal Finney](https://en.wikipedia.org/wiki/Hal_Finney_\(computer_scientist\)), una de las personalidades _cypherpunks_. Un informático que fue, no sólo el **primer colaborador** en ayudar a Nakamoto a desarrollar Bitcoin, sino el impulsor de la **primera transacción de Bitcoin de la historia**.
 
 Exacto.
 
-El primer intercambio de Bitcoins fue entre Satoshi Nakamoto y Hal Finney. Una persona a la que Satoshi parecía admirar por como interactuó con él en el foro de BitcoinTalk[5](<javascript:void(0)>)“Re: Minimalistic Bitcoin Client on D Language? | Satoshi Nakamoto Institute.” 2023. Nakamotoinstitute.org. ‌[6](<javascript:void(0)>)“Latest Posts Of: Satoshi.” 2023. Bitcointalk.org.‌.
+El primer intercambio de Bitcoins fue entre Satoshi Nakamoto y Hal Finney. Una persona a la que Satoshi parecía admirar por como interactuó con él en el foro de BitcoinTalk[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}.
 
 En enero de 2009 estos dos personajes minaron el primer bloque de Bitcoin… y se aprovechó para grabar un mensaje en la cadena de bloques.
 
-![primer bloque bitcoin](https://pau.ninja/wp-content/uploads/2021/05/primer-bloque-bitcoin.jpg)
+![primer bloque bitcoin](./wp-content/uploads/2021/05primer-bloque-bitcoin.jpg)
 
 Imagen: el primer bloque de Bitcoin minado. En la parte derecha está el mensaje.
 
@@ -171,7 +153,7 @@ Imagen: el primer bloque de Bitcoin minado. En la parte derecha está el mensaje
 
 La traducción: Canciller al borde de un segundo rescate bancario.
 
-Al parecer nosotros no éramos los únicos enfadados al [funcionamiento del sistema monetario](https://pau.ninja/sistema-monetario-actual/) y bancario actual.
+Al parecer nosotros no éramos los únicos enfadados al [funcionamiento del sistema monetario](./sistema-monetario-actual) y bancario actual.
 
 En el mensaje vemos una referencia a un periódico sobre uno de los titulares de la crisis financiera del 2008-2009. The Times es un periódico inglés o sea que podría ser una referencia a que Satoshi era inglés…
 
@@ -181,7 +163,7 @@ Lo que si vemos es que Bitcoin llegó justo en el momento que más falta hacía
 
 Desde que se minó el primer bloque y hasta 2 años más tarde (finales de 2010), Satoshi Nakamoto estaba muy activo en el foro de BitcoinTalks donde hacía aportaciones y mejoraba constantemente el código y la idea de Bitcoin con la ayuda de cada vez más colaboradores.
 
-![publicaciones bitcointalks](https://pau.ninja/wp-content/uploads/2021/05/publicaciones-bitcointalks.png)
+![publicaciones bitcointalks](./wp-content/uploads/2021/05publicaciones-bitcointalks.png)
 
 No hace falta decir que los más detectives hasta han hecho estadísticas de cuáles eran las horas en las que Satoshi estaba más activo. En que momentos del día y de la semana publicaba más.
 
@@ -197,7 +179,7 @@ Mirad lo que pasó con Snowden o Assange.
 
 Así que todo sistema de pagos (Visa, Paypal, lo que sea) dejó de querer ofrecer servicio a WikiLeaks por miedo a consecuencias de los Estados.
 
-Ahí es cuando Bitcoin, la primera cripomoneda de la que nadie había oido a hablar hasta entonces (más allá de unos pocos _frikis_), empezó a [tener valor](https://pau.ninja/por-que-tiene-valor-el-bitcoin/).
+Ahí es cuando Bitcoin, la primera cripomoneda de la que nadie había oido a hablar hasta entonces (más allá de unos pocos _frikis_), empezó a [tener valor](./por-que-tiene-valor-el-bitcoin).
 
 > Bitcoin empezó a aumentar su valor de forma considerable por la necesidad de WikiLeaks de financiarse.
 
@@ -205,7 +187,7 @@ Se creó una sinergía enorme porque WikiLeaks pudo encontrar una financiación 
 
 Pero a la vez, a la otra cara de la moneda (nunca mejor dicho) es que la propia WikiLeaks fue el catalizador que hizo que Bitcoin estuviera en boca de todo el mundo y se empezara a adoptar masivamente.
 
-Y claro, que el precio fuera subiendo y subiendo. Podríamos decir que WikiLeaks y Bitcoin se necesitaban mutuamente[7](<javascript:void(0)>)Huang, Roger. 2019. “How Bitcoin and WikiLeaks Saved Each Other.” Forbes, April 26. .
+Y claro, que el precio fuera subiendo y subiendo. Podríamos decir que WikiLeaks y Bitcoin se necesitaban mutuamente[ref-7](#ref-7){.ref} .
 
 Hubo mucho debate sobre esta sinergía en los medios, pero también en el propio foro de BitcoinTalk donde Satoshi frecuentaba. De hecho respondió algunos mensajes en un hilo del foro donde se debatía el tema de WikiLeaks y el señor Nakamoto dijo textualmente:
 
@@ -241,7 +223,7 @@ Claro, imaginaros que Satoshi nunca ocultar su identidad y se fuera de fiesta, o
 
 Algo que repercutiría directamente en la imagen de Bitcoin. Hay una conexión indirecta.
 
-O sea, no creo que Tesla hubiera puesto 1.500 millones de su capital en BTC en su momento[8](<javascript:void(0)>)Francesc Peirón. 2021. “Tesla Compra 1.250 Millones En Bitcoins Y Dispara La Criptomoneda.” La Vanguardia. La Vanguardia.‌ si Bitcoin hubiera estado asociado a un tío específico, que se va por ahí a liarla (o a que se la líen).
+O sea, no creo que Tesla hubiera puesto 1.500 millones de su capital en BTC en su momento[ref-8](#ref-8){.ref} si Bitcoin hubiera estado asociado a un tío específico, que se va por ahí a liarla (o a que se la líen).
 
 - ¿Quien es la cara del oro? Nadie.
 - ¿Quien es la cara de Bitcoin? Satoshi Nakamoto, pero resulta que Satoshi Nakamoto no tiene cara. Así que, ¿cómo le asociamos una imagen de un tío desaparecido que vaya más allá del misterio?
@@ -254,7 +236,7 @@ Hemos visto una y otra vez inventos que ponen en peligro el _status quo_ de los 
 
 La desaparición de Satoshi se está empezando a estudiar casi como si fuera un profeta.
 
-![cómic secta](https://pau.ninja/wp-content/uploads/2021/01/comic-secta.png)
+![cómic secta](./wp-content/uploads/2021/01comic-secta.png)
 
 Casi de culto, y lógicamente el misterio y la incertidumbre juega un papel muy importante porque entonces le damos bola aún más grande.
 
@@ -268,7 +250,7 @@ Lo que está claro es que no hay muchas personas hoy día que fueran capaces de 
 
 Porque ahora hablaremos de la pasta que tiene este señor…
 
-![comic comprar bitcoin](https://pau.ninja/wp-content/uploads/2021/01/comic-comprar-bitcoin.png)
+![comic comprar bitcoin](./wp-content/uploads/2021/01comic-comprar-bitcoin.png)
 
 Existe el cliché de que el poder corrompe al individuo, pero es chulo ver que (hasta ahora) no ha sido el caso de Satoshi Nakamoto. O que tal vez, se haya forzado a si mismo, a no poder acceder a este poder y riqueza.
 
@@ -300,9 +282,9 @@ Si miramos el gráfico de **grandes invenciones** de nuestra historia, desde el 
 
 ¿Por qué?
 
-Resulta que el año 1971 es el año donde [salimos del patrón oro](https://pau.ninja/patron-oro-actualidad/).
+Resulta que el año 1971 es el año donde [salimos del patrón oro](./patron-oro-actualidad).
 
-![invenciones históricas](https://pau.ninja/wp-content/uploads/2021/05/invenciones-historicas.jpeg)
+![invenciones históricas](./wp-content/uploads/2021/05invenciones-historicas.jpeg)
 
 Gráfico: invenciones (transcendentes) presentadas por año. Hay una disminución importante desde la salida del patrón oro.
 
@@ -312,7 +294,7 @@ Sostenidas en nada.
 
 Quizás el único con potencial para sacarnos de este infierno económico sería el oro pero… ¿una piedra analógica para guiar a una economía digital?
 
-Satoshi Nakamoto era consciente de los fallos que tiene [el oro como valor refugio](https://pau.ninja/valores-refugio/#Oro) y por eso decidió la que ahora algunos consideramos una versión mejorada y digital (en vez de analógica) del oro: Bitcoin.
+Satoshi Nakamoto era consciente de los fallos que tiene [el oro como valor refugio](./valores-refugio#Oro) y por eso decidió la que ahora algunos consideramos una versión mejorada y digital (en vez de analógica) del oro: Bitcoin.
 
 Para crear un activo así, esta (casi) entidad tenía que tener conocimientos de:
 
@@ -356,7 +338,7 @@ Hasta usó la expresión «bloody difficult».
 
 La única agua clara que podemos sacar hasta ahora es que el fundador, el creador de Bitcoin era un maldito **genio.**
 
-¿Por qué? Pues porque creó un activo con [todas las propiedades del dinero duro](https://pau.ninja/propiedades-del-dinero/) sin dejar ningún cabo suelto: ni tecnológico ni económico.
+¿Por qué? Pues porque creó un activo con [todas las propiedades del dinero duro](./propiedades-del-dinero) sin dejar ningún cabo suelto: ni tecnológico ni económico.
 
 Da que pensar si alguien que no quiere revelar su identidad dejaría que supiera tan fácilmente unos supuestos orígenes ingleses.
 
@@ -364,7 +346,7 @@ En las aportaciones públicas que hizo, nunca hizo ningún error gramatical por 
 
 Pero parece ser que la preocupación gramatical era como una segunda naturaleza para Satoshi Nakamoto.
 
-En **cada una** de sus publicaciones en los foros de internet encontramos que después de **cada punto** escribía 2 espacios. Una práctica no sólo común sino también casi obligatoria hace unos años para los escritos académicos[9](<javascript:void(0)>)“How Many Spaces Should I Leave after a Period? | MLA Style Center.” 2016.‌.
+En **cada una** de sus publicaciones en los foros de internet encontramos que después de **cada punto** escribía 2 espacios. Una práctica no sólo común sino también casi obligatoria hace unos años para los escritos académicos[ref-9](#ref-9){.ref}.
 
 > ¿Podría ser que Satoshi hubiera escrito muchos trabajos académicos y poner dos espacios después de cada punto pasara a ser un movimiento involuntario de la barra espaciadora?
 
@@ -382,7 +364,7 @@ Tampoco es casualidad la elección de este alias.
 
 Satoshi Nakamoto tiene varias maneras de interpretarse en japonés. «Satoshi» tiene un [significado](https://en.wikipedia.org/wiki/Satoshi) de inteligencia y sabiduría.
 
-«Nakamoto» quiere decir «el que vive en medio de»[10](<javascript:void(0)>)“Nakamoto: Name Meaning, Origin, Popularity, & Inspiration – FamilyEducation.” 2019. FamilyEducation.‌.
+«Nakamoto» quiere decir «el que vive en medio de»[ref-10](#ref-10){.ref}.
 
 No hay un significado concreto de su pseudónimo, pero ya vemos por donde iban los tiros. Aspiraciones largoplacistas o hasta históricas sobre la transcendencia de su invento.
 
@@ -400,21 +382,21 @@ Pues bien, aunque el total de Bitcoin que existirán en el mundo sea de máximo 
 
 > Una cartera con 1 millón de Bitcoin con valor a miles de millones de dólares que desde su minado **nunca se ha movido**.
 
-Es la cantidad de Bitcoin acumulada más alta que existe entre todos los [tipos de monederos que hay](https://pau.ninja/bitcoin-wallet/) [11](<javascript:void(0)>)“Top 100 Richest Bitcoin Addresses and Bitcoin Distribution.” 2023. BitInfoCharts.‌.
+Es la cantidad de Bitcoin acumulada más alta que existe entre todos los [tipos de monederos que hay](./bitcoin-wallet) [ref-11](#ref-11){.ref}.
 
-Si multiplicamos este millón por el precio de hoy nos sale que este señor se plantaría en el top de la lista Forbes de los más ricos del mundo[12](<javascript:void(0)>)Forbes. 2023. “Real Time Billionaires.”‌.
+Si multiplicamos este millón por el precio de hoy nos sale que este señor se plantaría en el top de la lista Forbes de los más ricos del mundo[ref-12](#ref-12){.ref}.
 
 De todas formas no podemos saber exactamente cuanto tiene, porque podría tener incluso más en otras carteras.
 
 Podría ser que Nakamoto hubiera decidido empezar a comprar Bitcoin como un usuario normal, o quizás que algún día decida vender ese millón y hundir el precio, quien sabe.
 
-No hundirá [el valor de Bitcoin](https://pau.ninja/por-que-tiene-valor-el-bitcoin/) más de lo que ya se ha hundido el valor del dólar creedme…
+No hundirá [el valor de Bitcoin](./por-que-tiene-valor-el-bitcoin) más de lo que ya se ha hundido el valor del dólar creedme…
 
 Pero con esto entramos en el juego de la especulación. El juego de «y si»…
 
 ## Y sí…
 
-Hemos visto posibles motivos que lo podría haber hecho desaparecer. A parte de su propia seguridad también ayuda a crear esta imagen de [un dinero duro de verdad](https://pau.ninja/propiedades-del-dinero/): **neutro**.
+Hemos visto posibles motivos que lo podría haber hecho desaparecer. A parte de su propia seguridad también ayuda a crear esta imagen de [un dinero duro de verdad](./propiedades-del-dinero): **neutro**.
 
 Aquí está la clave, en la palabra «neutro».
 
@@ -432,7 +414,7 @@ Da que pensar la mano que tiene que tener Satoshi Nakamoto en mantener todo ese 
 
 Porque rico en Bitcoin ya lo es…
 
-Aún así los movimientos (o no movimientos) que el creador de Bitcoin ha hecho hasta ahora nos hace pensar que está alineado con los que creemos en Bitcoin como patrón y [como el cambio del sistema monetario de la actualidad](https://pau.ninja/sistema-monetario-actual/).
+Aún así los movimientos (o no movimientos) que el creador de Bitcoin ha hecho hasta ahora nos hace pensar que está alineado con los que creemos en Bitcoin como patrón y [como el cambio del sistema monetario de la actualidad](./sistema-monetario-actual).
 
 O tal vez simplemente ha muerto y toda esa riqueza ha quedado allí.
 
@@ -524,7 +506,7 @@ Se trata de Dorian Satoshi Nakamoto. Una de las personas a las que se ha apuntad
 
 Para empezar este señor vivía sólo unas casas más allá de Hal Finney. Os acordáis, ¿no? Hal fue el primer contribuidor y la primera transacción de la historia fue entre Hal y Satoshi.
 
-![Dorian Nakamoto](https://pau.ninja/wp-content/uploads/2021/05/dorian-nakamoto.jpeg)
+![Dorian Nakamoto](./wp-content/uploads/2021/05dorian-nakamoto.jpeg)
 
 Y además… **ya está. Nada más**.
 
@@ -536,11 +518,11 @@ Es verdad de que en 2014, poco después de que se empezara a especular quien pod
 
 Y aunque esto sería prueba suficiente, da que pensar que también podría ser que se haya entrado en la cuenta de Satoshi y a su Gmail a la fuerza.
 
-Algo que el administrador del foro BitcoinTalk comentaba en un hilo donde decía que había recibido un email de parte de la cuenta de Satoshi, lo que le hacía pensar que el acceso a la cuenta de email de Satoshi Nakamoto habían sido comprometidas[13](<javascript:void(0)>)Vigna, Paul, and Michael J Casey. 2014. “Hacker Claims to Crack Email of Bitcoin Creator Satoshi Nakamoto.” WSJ. The Wall Street Journal.‌.
+Algo que el administrador del foro BitcoinTalk comentaba en un hilo donde decía que había recibido un email de parte de la cuenta de Satoshi, lo que le hacía pensar que el acceso a la cuenta de email de Satoshi Nakamoto habían sido comprometidas[ref-13](#ref-13){.ref}.
 
 Esto lo podemos confirmar por una publicación en ese mismo foro el día 8 de setiembre de 2014. **Desde la cuenta de Satoshi** alguien publicó un mensaje que me pone los pelos de punta (los de mi cabeza no, claro).
 
-![satoshi hackeado](https://pau.ninja/wp-content/uploads/2021/05/satoshi-hackeado.png)
+![satoshi hackeado](./wp-content/uploads/2021/05satoshi-hackeado.png)
 
 «Querido Satoshi, tu contraseñas, dirección IP y demás están siendo vendidas en la Darknet. Parece que no configuraste bien Tor y tu IP se filtró cuando configuraste tu cuenta de email por ahi en 2010. No estás seguro. Necesitas salir donde sea que estés lo antes posible antes de que estas personas te hagan algo. Gracias por inventar Bitcoin.»
 
@@ -571,59 +553,3 @@ Ya está demostrado.
 En vez de esto todo estos farsantes lo único que hacen es ir demandando gente, rodeados de abogados e intentando destrozar la comunidad.
 
 Por esto creo que nunca sabremos quien es, y que esos Bitcoin nunca se moverán. Porque creo que Satoshi lo que quería era precisamente esto: comunidad para desbancar a los bancos.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  “Stats – Satoshi Nakamoto.” 2023. Satoshinakamoto.me.‌
-
-- 2
-
-  “The Cryptography Archives.” 2023. Metzdowd.com.‌
-
-- 3
-
-  “¿Quién Es Nick Szabo?” 2019. Bit2Me Academy.
-
-- 4
-
-  Szabo, Nick. 2023. “Bitcoin, What Took Ye so Long?” Blogspot.com.‌
-
-- 5
-
-  “Re: Minimalistic Bitcoin Client on D Language? | Satoshi Nakamoto Institute.” 2023. Nakamotoinstitute.org. ‌
-
-- 6
-
-  “Latest Posts Of: Satoshi.” 2023. Bitcointalk.org.‌
-
-- 7
-
-  Huang, Roger. 2019. “How Bitcoin and WikiLeaks Saved Each Other.” Forbes, April 26.
-
-- 8
-
-  Francesc Peirón. 2021. “Tesla Compra 1.250 Millones En Bitcoins Y Dispara La Criptomoneda.” La Vanguardia. La Vanguardia.‌
-
-- 9
-
-  “How Many Spaces Should I Leave after a Period? | MLA Style Center.” 2016.‌
-
-- 10
-
-  “Nakamoto: Name Meaning, Origin, Popularity, & Inspiration – FamilyEducation.” 2019. FamilyEducation.‌
-
-- 11
-
-  “Top 100 Richest Bitcoin Addresses and Bitcoin Distribution.” 2023. BitInfoCharts.‌
-
-- 12
-
-  Forbes. 2023. “Real Time Billionaires.”‌
-
-- 13
-
-  Vigna, Paul, and Michael J Casey. 2014. “Hacker Claims to Crack Email of Bitcoin Creator Satoshi Nakamoto.” WSJ. The Wall Street Journal.‌

@@ -1,34 +1,23 @@
 ---
-title: "Súper productividad 9 trucos prácticos demostrados (+20 estudios)"
+title: "Súper productividad"
+url: https://pau.ninja/como-ser-mas-productivo
+slug: como-ser-mas-productivo
+categories: 
+- slug: productividad
+    label: Productividad
 image: persona-mas-productiva.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/06/persona-mas-productiva.jpeg
 published: 2024-06-16T06:04:50+00:00
 modified: 2024-08-11T17:16:08+00:00
+scrappedAt: 2024-10-14T09:19:10.313Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/88779645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-3%2F382318406-44100-2-e5efc1d6b2e7a.mp3
-slug: como-ser-mas-productivo
+bibliography: ["minutillos es todo lo que necesitas","Danziger, Shai & Levav, Jonathan & Avnaim-Pesso, Liora. (2011). Extraneous Factors in Judicial Decisions. Proceedings of the National Academy of Sciences of the United States of America.","When: The Scientific Secrets of Perfect Timing Tapa blanda – 8 Enero 2019 de Daniel H. Pink","Dijksterhuis A, Bos MW, Nordgren LF, van Baaren RB. On making the right choice: the deliberation-without-attention effect. Science. 2006 Feb 17;311(5763):1005-7. doi: 10.1126/science.1121629. PMID: 16484496.","Andrews, L.W. «To Become a Better Writer, Be a Frequent Walker»","McMains S, Kastner S. Interactions of top-down and bottom-up mechanisms in human visual cortex. J Neurosci. 2011 Jan 12;31(2):587-97. doi: 10.1523/JNEUROSCI.3766-10.2011. PMID: 21228167; PMCID: PMC3072218.","DeskTime. The secret of the 10% most productive people? Breaking!","Fast Company, 10-31-17, This Is How Many Minutes Of Breaks You Need Each Day","Stickgold, R., Walker, M. Sleep-dependent memory triage: evolving generalization through selective processing. Nat Neurosci 16, 139–145 (2013).","Berto, R. (2005). Exposure to restorative environments helps restore attentional capacity. Journal of Environmental Psychology, 25, 249-259.","Berto, R. (2014). The role of nature in coping with psycho-physiological stress: A literature review on restorativeness. Behavioral Sciences, 4, 394-409.","Diette, G. B., Lechtzin, N., Haponik, E., Devrotes, A., & Rubin, H. R. (2003). Distraction therapy with nature sights and sounds reduces pain during flexible bronchoscopy: A complementary approach to routine analgesia. Chest, 123, 941-948.","Joye, Y., & Dewitte, S. (2018). Nature’s broken path to restoration: A critical look at Attention Restoration Theory. Journal of Environmental Psychology, 59, 1-8.","Thal, L. (2014). Attention-deficit hyperactivity disorder and exposure to nature in college students. Parks, Recreation, and Tourism Electronic Theses and Dissertations. Retrieved from https://hdl.handle.net/10355/44338","Gable SL, Hopper EA, Schooler JW. When the Muses Strike: Creative Ideas of Physicists and Writers Routinely Occur During Mind Wandering. Psychol Sci. 2019 Mar;30(3):396-404. doi: 10.1177/0956797618820626. Epub 2019 Jan 17. PMID: 30653407.","Berto, Rita. (2005). Exposure to restorative environments helps restore attentional capacity. journal of environmental psychology.","Mantua J, Spencer RMC. Exploring the nap paradox: are mid-day sleep bouts a friend or foe? Sleep Med.","Masicampo EJ, Baumeister RF. Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. J Pers Soc Psychol. 2011 Oct;101(4):667-83. doi: 10.1037/a0024192. PMID: 21688924.","Prescott, Katherine & Milne, Rebecca & Clarke, Jason. (2011). How Effective is the Enhanced Cognitive Interview when Aiding Recall Retrieval of Older Adults including Memory for Conversation?. Journal of Investigative Psychology and Offender Profiling. 8. 10.1002/jip.142."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/88779645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-3%2F382318406-44100-2-e5efc1d6b2e7a.mp3](https://anchor.fm/s/98566448/podcast/play/88779645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-3%2F382318406-44100-2-e5efc1d6b2e7a.mp3)
 
-Más allá de la teórica y [los consejos para no procrastinar](https://pau.ninja/10-consejos-para-no-procrastinar/) (#608) era necesario que fuéramos aún más pragmáticos para hablar de la productividad.
+Más allá de la teórica y [los consejos para no procrastinar](./10-consejos-para-no-procrastinar) (#608) era necesario que fuéramos aún más pragmáticos para hablar de la productividad.
 
-Seguro que muchos tenéis vuestros propios trucos basados en experiencia. Por ejemplo yo uso [la creación de hábitos apalancados](https://pau.ninja/como-crear-un-habito/) (#469), pero también hay estudios que verifican pequeñas metodologías que nos ayudan a ser más productivos y que han basado en ciencia.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Pasos para ser más productivo](#Pasos_para_ser_mas_productivo 'Pasos para ser más productivo')
-  - [Empieza definiendo tu estado de energía](#Empieza_definiendo_tu_estado_de_energia 'Empieza definiendo tu estado de energía')
-  - [Utiliza técnicas de gestión del tiempo](#Utiliza_tecnicas_de_gestion_del_tiempo 'Utiliza técnicas de gestión del tiempo')
-  - [Adopta una filosofía de trabajo profundo](#Adopta_una_filosofia_de_trabajo_profundo 'Adopta una filosofía de trabajo profundo')
-  - [Define un entorno para concentrarte](#Define_un_entorno_para_concentrarte 'Define un entorno para concentrarte')
-  - [Ejecuta un gran gesto](#Ejecuta_un_gran_gesto 'Ejecuta un gran gesto')
-  - [Opera como si fueras una empresa](#Opera_como_si_fueras_una_empresa 'Opera como si fueras una empresa')
-  - [Planifica tus pausas](#Planifica_tus_pausas 'Planifica tus pausas')
-  - [Usa apps para ser más productivo](#Usa_apps_para_ser_mas_productivo 'Usa apps para ser más productivo')
-  - [Cómprate una agenda de productividad](#Comprate_una_agenda_de_productividad 'Cómprate una agenda de productividad')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
+Seguro que muchos tenéis vuestros propios trucos basados en experiencia. Por ejemplo yo uso [la creación de hábitos apalancados](./como-crear-un-habito) (#469), pero también hay estudios que verifican pequeñas metodologías que nos ayudan a ser más productivos y que han basado en ciencia.
 
 ## Pasos para ser más productivo
 
@@ -46,13 +35,13 @@ Aunque como hemos discutido en la comunidad esto no es del todo cierto sino que 
 
 Por esto dicen ser búhos… Lo son, pero porque se han desregulado.
 
-![horario según nivel de energía](https://pau.ninja/wp-content/uploads/2023/06/horario-segun-nivel-de-energia.png)
+![horario según nivel de energía](./wp-content/uploads/2023/06horario-segun-nivel-de-energia.png)
 
 Para los mortales bien regulados (el 80% restante) somos más productivos, tenemos más energía y nos es más fácil concentrarnos durante las primeras horas de la mañana. De hecho:
 
-- Un estudio encontró los jueces pasaron sentencias a favor de los criminales el 65% de las veces si el juicio es durante la primera parte del mediodía, en cambio es casi del 0% al final de la mañana sin importar los hechos del caso.[1](<javascript:void(0)>)Danziger, Shai & Levav, Jonathan & Avnaim-Pesso, Liora. (2011). Extraneous Factors in Judicial Decisions. Proceedings of the National Academy of Sciences of the United States of America.
+- Un estudio encontró los jueces pasaron sentencias a favor de los criminales el 65% de las veces si el juicio es durante la primera parte del mediodía, en cambio es casi del 0% al final de la mañana sin importar los hechos del caso.[ref-1](#ref-1){.ref}
 - Los directivos de empresa usarán más palabras negativas e irritables en las llamadas que se hagan en el mediodía que si lo hacen por la mañana.
-- En entornos hospitalarios era durante el mediodía cuando se veía como los doctores recetaban más antibióticos innecesarios, los trabajadores se lavaban menos las manos, y se encontraban la mitad de polípos en las endoscopistas que si las hacían durante la mañana.[2](<javascript:void(0)>)When: The Scientific Secrets of Perfect Timing Tapa blanda – 8 Enero 2019 de Daniel H. Pink
+- En entornos hospitalarios era durante el mediodía cuando se veía como los doctores recetaban más antibióticos innecesarios, los trabajadores se lavaban menos las manos, y se encontraban la mitad de polípos en las endoscopistas que si las hacían durante la mañana.[ref-2](#ref-2){.ref}
 
 Estos datos son tan aplastantes porque el 80% de la población experimentamos unas fluctuaciones de energía que acostumbran a seguir un mismo patrón.
 
@@ -60,13 +49,13 @@ La energía (y el estado de ánimo) tienda a ir subiendo durante la mañana, baj
 
 Definir en qué momento del día tenemos el pico, la bajada y el rebote es esencial para poder organizarnos de manera que podamos aprovechar ese 20% de productividad en el momento del pico, y hacer esas cosas más calmadas cuando sabemos que hay una bajada natural de rendimiento.
 
-- **Pico:** será vital que nuestro entorno no nos distraiga porque es el momento perfecto para [concentrarte y alcanzar el estado de flow](https://pau.ninja/estado-de-flow/) (#483). Este es el momento más crítico porque si estamos rebozando de energía tendríamos que dirigirla a esa única cosa. Esa única tarea. La más importante del día (seguramente la que más resistencia te esté provocando).
+- **Pico:** será vital que nuestro entorno no nos distraiga porque es el momento perfecto para [concentrarte y alcanzar el estado de flow](./estado-de-flow) (#483). Este es el momento más crítico porque si estamos rebozando de energía tendríamos que dirigirla a esa única cosa. Esa única tarea. La más importante del día (seguramente la que más resistencia te esté provocando).
 - **Bajada:** es ideal para tomarse una pausa del trabajo o bien para hacer esas tareas que son puramente mecánicas, porque ni de lejos vas a poder entrar en _flow_ durante este rato.
-- **Rebote:** en vez de hacer lo mismo que harías en el pico pero hacerlo peor, la evidencia dice que en las horas de rebote el cerebro está preparado para tener sus sesiones de máxima creatividad.[3](<javascript:void(0)>)Dijksterhuis A, Bos MW, Nordgren LF, van Baaren RB. On making the right choice: the deliberation-without-attention effect. Science. 2006 Feb 17;311(5763):1005-7. doi: 10.1126/science.1121629. PMID: 16484496.[4](<javascript:void(0)>)Andrews, L.W. «To Become a Better Writer, Be a Frequent Walker» Aquí es cuando toco cosas de las webs, grabo los episodios incluyendo más freestyle, y en definitiva, todo lo que no es preparar guiones.
+- **Rebote:** en vez de hacer lo mismo que harías en el pico pero hacerlo peor, la evidencia dice que en las horas de rebote el cerebro está preparado para tener sus sesiones de máxima creatividad.[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref} Aquí es cuando toco cosas de las webs, grabo los episodios incluyendo más freestyle, y en definitiva, todo lo que no es preparar guiones.
 
 Nuestro cuerpo ya está equipado para sus sesiones independientes de creatividad, cosas duras y más mecánicas, y de relajación.
 
-![momentos de máxima productividad](https://pau.ninja/wp-content/uploads/2023/06/momentos-de-maxima-productividad.jpeg)
+![momentos de máxima productividad](./wp-content/uploads/2023/06momentos-de-maxima-productividad.jpeg)
 
 Por ejemplo responder emails mejor en la bajada, el trabajo analítico y de concentración durante el pico, y el rebote es el momento perfecto para hacer _brainstorming_ y ser más creativo.
 
@@ -78,9 +67,9 @@ No.
 
 Querremos usar los picos para hacer el trabajo más demandante donde necesitemos estar más concentrados.
 
-El autor del libro *Deep Work* comentaba como 40 horas de tiempo bien bloqueado era lo equivalente a 60 horas de trabajo sin usar este método.
+El autor del libro _Deep Work_ comentaba como 40 horas de tiempo bien bloqueado era lo equivalente a 60 horas de trabajo sin usar este método.
 
-¿Por qué? Porque cuando tienes muy claro que en ese espacio de tiempo sólo puedes hacer **una única cosa**, se vuelve mucho más claro [a qué tienes que decir que no](https://pau.ninja/aprender-a-decir-no/) (#439), por esto tenemos algunas estrategias muy efectivas como:
+¿Por qué? Porque cuando tienes muy claro que en ese espacio de tiempo sólo puedes hacer **una única cosa**, se vuelve mucho más claro [a qué tienes que decir que no](./aprender-a-decir-no) (#439), por esto tenemos algunas estrategias muy efectivas como:
 
 **Método**
 
@@ -88,43 +77,43 @@ El autor del libro *Deep Work* comentaba como 40 horas de tiempo bien bloqueado
 
 **Ejemplo**
 
-Sistema del tiempo bloqueado
+Sistema del tiempo bloqueado  
 _Time blocking_
 
 Divides el día en bloques de tiempo. Cada bloque está dedicado a una actividad concreta y sólo puedes dedicarte a esa cosa.
 
 «Escribo cada mañana de 7 hasta las 9»
 
-Sistema de tiempo por lotes
+Sistema de tiempo por lotes  
 _Time batching_
 
 Cuando tienes tareas que acostumbran a ser pequeñas y de una misma temática, se bloquea una franja de tiempo para completarlas todas. Esto nos permite eliminar los cambios de contexto de nuestra cabeza ahorrándonos tiempo y energía mental. Por ejemplo bloquear dos bloques de 20 minutos cada uno para contestar el correo es más eficiente que mirarlo cada 15 minutos.
 
 «Contesto todas las preguntas de Discord a las 3 y a las 8»
 
-Sistema de tematizar los días
+Sistema de tematizar los días  
 _Day theming_
 
-Ideal para [los multipotenciales](https://pau.ninja/multipotencial/) o los que tienen muchas áreas de responsabilidad donde tienen que vestir distintos sombreros constantemente. Se trata de que cada día tiene un «tema». Dedicar cada día a algo específico crea un patrón de trabajo fiable siendo minimalistas en el uso de nuestro tiempo.
+Ideal para [los multipotenciales](./multipotencial) o los que tienen muchas áreas de responsabilidad donde tienen que vestir distintos sombreros constantemente. Se trata de que cada día tiene un «tema». Dedicar cada día a algo específico crea un patrón de trabajo fiable siendo minimalistas en el uso de nuestro tiempo.
 
 «Los lunes son el día de escribir guiones. Los martes son el día de repaso. Los miércoles es cuando grabo…»
 
-Sistema de bloques de tiempo
+Sistema de bloques de tiempo  
 _Time boxing_
 
 El Sistema del tiempo bloqueado (_time blocking_) y el sistema de bloques de tiempo (_time boxing_) se confunden a menudo. Supongo que por qué suenan similar. La diferencia es que con el de bloques de tiempo, nos autoimponemos un límite de tiempo a una acción que será lo más específica posible.
 
 «Escribiré 1.000 palabras entre las 7 y las 9 mañana»
 
-Un momento del día en el que me parece totalmente infravalorado para hacer *time blocking* es durante la noche **para planificar el día siguiente**.
+Un momento del día en el que me parece totalmente infravalorado para hacer _time blocking_ es durante la noche **para planificar el día siguiente**.
 
-Distribuir nuestro tiempo productivo en bloques nos permite dirigir la atención de forma más eficiente y sobretodo hace que entrenemos esos músculos mentales necesarios para llegar a un estado de _flow_, de *deep work* de trabajo profundo, más a menudo y con más calidad.
+Distribuir nuestro tiempo productivo en bloques nos permite dirigir la atención de forma más eficiente y sobretodo hace que entrenemos esos músculos mentales necesarios para llegar a un estado de _flow_, de _deep work_ de trabajo profundo, más a menudo y con más calidad.
 
 ### Adopta una filosofía de trabajo profundo
 
 Decimos que hemos entrado en «trabajo profundo» o _deep work_ cuando hemos alcanzado el _flow_ mientras trabajábamos (#486), pero…
 
-Es que resulta que hay varias filosofías o formas de alcanzar y *accionar* el *deep work*.
+Es que resulta que hay varias filosofías o formas de alcanzar y _accionar_ el _deep work_.
 
 **Filosofía de adopción**
 
@@ -189,15 +178,15 @@ Sólo me acompañarán un café y una botella de agua mientras escucho música b
 
 No infravalores sólo el poder visual del espacio en el que trabajas.
 
-Sólo por el hecho de tener tu zona de curro desorganizada te hace menos productivo, y aunque pienses que no, en el fondo subconscientemente sí afecta como se ha visto en algunos estudios.[5](<javascript:void(0)>)McMains S, Kastner S. Interactions of top-down and bottom-up mechanisms in human visual cortex. J Neurosci. 2011 Jan 12;31(2):587-97. doi: 10.1523/JNEUROSCI.3766-10.2011. PMID: 21228167; PMCID: PMC3072218.
+Sólo por el hecho de tener tu zona de curro desorganizada te hace menos productivo, y aunque pienses que no, en el fondo subconscientemente sí afecta como se ha visto en algunos estudios.[ref-5](#ref-5){.ref}
 
 ### Ejecuta un gran gesto
 
-Otra forma de ser súper productivo es con algo que va a sonar raro inicialmente pero que veréis que cobra mucho sentido cuando expanda en un momento, y es *ejecutar un gran gesto*.
+Otra forma de ser súper productivo es con algo que va a sonar raro inicialmente pero que veréis que cobra mucho sentido cuando expanda en un momento, y es _ejecutar un gran gesto_.
 
 A veces poco podemos hacer sobre el entorno en el que nos encontramos. A lo mejor estás pasando una época en la que tienes muchas ganas de atacar a tus proyectos paralelos pero todo te recuerda a tu ex. O tu recién nacido no te deja dormir. Lo que sea.
 
-Newport, el autor del libro *Deep Work* sugiere algo que había escuchado hasta el extremo, lo que él llama «hacer**te** un gran gesto». Es decir, hacer un tipo de inversión en ti mismo para ayudarte a entrar en modo trabajo profundo.
+Newport, el autor del libro _Deep Work_ sugiere algo que había escuchado hasta el extremo, lo que él llama «hacer**te** un gran gesto». Es decir, hacer un tipo de inversión en ti mismo para ayudarte a entrar en modo trabajo profundo.
 
 Este gran gesto, esta inversión, es forzar un cambio en tu entorno que te inspirará (o forzará) a hacer lo que tengas que hacer y a tener una sesión de trabajo. Acostumbra a ser cuando tienes que terminar algo sí o sí y por las circunstancias te cuesta entrar en _flow_ de trabajo.
 
@@ -209,7 +198,7 @@ Gratis o bajo
 
 - Pedir trabajar desde casa
 - Cambiar a una ubicación inspiradora como una cafetería específica o una biblioteca
-- Reservar una sala de reuniones en un *coworking* para mí solito
+- Reservar una sala de reuniones en un _coworking_ para mí solito
 
 Medio o alto
 
@@ -231,7 +220,7 @@ Pero un error fácil de cometer cuando estamos mirando semanalmente o mensualmen
 
 En vez de decir: vale he publicado X palabras, o he picado tanto código, o he pintado X, o he organizado tantos Excels (lo que sea), **es más valioso optimizar las horas en trabajo profundo** que el resultado en si.
 
-Por lógica, a más horas de *flow* trabajando, más estarás produciendo porque recordemos que sólo entramos en este estado de consciencia, de trabajo, cuando nos centramos en un objetivo claro y transcendente. Un objetivo que si dejamos hecho, el resto del día viene de bajada.
+Por lógica, a más horas de _flow_ trabajando, más estarás produciendo porque recordemos que sólo entramos en este estado de consciencia, de trabajo, cuando nos centramos en un objetivo claro y transcendente. Un objetivo que si dejamos hecho, el resto del día viene de bajada.
 
 Por esto es importante hacer reseñas semanales, no de los objetivos completados, sino del tiempo que hemos podido estar en trabajo profundo.
 
@@ -239,21 +228,21 @@ Por esto es importante hacer reseñas semanales, no de los objetivos completados
 
 Pero no creas que para ser productivo tiene que ser como un niño chino de hace 2 décadas trabajando sin una pausa de baño.
 
-Lo digo porque distinta evidencia apunta a que las personas altamente productivas tienen sesiones entre hora – hora y media de picos de productividad (como máximo).[6](<javascript:void(0)>)DeskTime. The secret of the 10% most productive people? Breaking![7](<javascript:void(0)>)Fast Company, 10-31-17, This Is How Many Minutes Of Breaks You Need Each Day
+Lo digo porque distinta evidencia apunta a que las personas altamente productivas tienen sesiones entre hora – hora y media de picos de productividad (como máximo).[ref-6](#ref-6){.ref}[ref-7](#ref-7){.ref}
 
 ¿Qué hacen entonces? Pues una **pausa**.
 
 Saber cuando descansar es tan importante como saber qué hacer en cada momento para aprovechar tus niveles de energía. Por esto los estudios avalan como pequeñas pausas nos restaurarán el foco, la motivación, nos harán más creativos y hasta consolidarán nueva información en nuestra memoria para aprender más. Los motivos para ponerles tanta importancia como nuestras sesiones de curro no son pocas:
 
-- **El descanso mejora nuestro pensamiento:** seguro que te ha pasado que tienes un día de frustración absoluta en tu proyecto sin saber qué demonios debes hacer para solucionar un problema, pero te vas a casa, tienes un sueño increíblemente reparador y el día siguiente, cuanto toca volver a atacar el problema te encuentras con la solución de una manera perfectamente fluida. Lo ves todo más claro. Los estudios demuestran que cuando estamos descansando, nuestro subconsciente aprovecha para «ordenar el buzón» de tu email mental.[8](<javascript:void(0)>)Stickgold, R., Walker, M. Sleep-dependent memory triage: evolving generalization through selective processing. Nat Neurosci 16, 139–145 (2013). Es como tener un asistente que trabaja a tus espaldas cuando duermes.
-- **El descanso nos llena el depósito:** la evidencia científica es abrumadora confirmándonos como podemos restaurar la habilidad de dirigir nuestra atención si la dejamos descansar un poco.[9](<javascript:void(0)>)Berto, R. (2005). Exposure to restorative environments helps restore attentional capacity. Journal of Environmental Psychology, 25, 249-259. Necesitamos que la mente pueda ponerse en el modo opuesto al foco. A divagar. Estamos hablando de descanso verdadero (nada de grupos de móvil, emails, etc). De hecho se ha demostrado si algunas pausas las podemos hacer en la naturaleza es aún más efectivo.[10](<javascript:void(0)>)Berto, R. (2014). The role of nature in coping with psycho-physiological stress: A literature review on restorativeness. Behavioral Sciences, 4, 394-409.[11](<javascript:void(0)>)Diette, G. B., Lechtzin, N., Haponik, E., Devrotes, A., & Rubin, H. R. (2003). Distraction therapy with nature sights and sounds reduces pain during flexible bronchoscopy: A complementary approach to routine analgesia. Chest, 123, 941-948.[12](<javascript:void(0)>)Joye, Y., & Dewitte, S. (2018). Nature’s broken path to restoration: A critical look at Attention Restoration Theory. Journal of Environmental Psychology, 59, 1-8.[13](<javascript:void(0)>)Thal, L. (2014). Attention-deficit hyperactivity disorder and exposure to nature in college students. Parks, Recreation, and Tourism Electronic Theses and Dissertations. Retrieved from https://hdl.handle.net/10355/44338
-- **El descanso nos hace más creativos:** porque es en los periodos de divagar, de aburrirse, cuando la mente se pone en modo más creativo.[14](<javascript:void(0)>)Gable SL, Hopper EA, Schooler JW. When the Muses Strike: Creative Ideas of Physicists and Writers Routinely Occur During Mind Wandering. Psychol Sci. 2019 Mar;30(3):396-404. doi: 10.1177/0956797618820626. Epub 2019 Jan 17. PMID: 30653407. Por esto me hago duchas más largas de lo que deberían ser. Porque en mi primera pausa de la mañana, esa ducha caliente me pone en un estado de pensamiento que abarca mil mundos antes de meterme a la segunda sesión de foco.
+- **El descanso mejora nuestro pensamiento:** seguro que te ha pasado que tienes un día de frustración absoluta en tu proyecto sin saber qué demonios debes hacer para solucionar un problema, pero te vas a casa, tienes un sueño increíblemente reparador y el día siguiente, cuanto toca volver a atacar el problema te encuentras con la solución de una manera perfectamente fluida. Lo ves todo más claro. Los estudios demuestran que cuando estamos descansando, nuestro subconsciente aprovecha para «ordenar el buzón» de tu email mental.[ref-8](#ref-8){.ref} Es como tener un asistente que trabaja a tus espaldas cuando duermes.
+- **El descanso nos llena el depósito:** la evidencia científica es abrumadora confirmándonos como podemos restaurar la habilidad de dirigir nuestra atención si la dejamos descansar un poco.[ref-9](#ref-9){.ref} Necesitamos que la mente pueda ponerse en el modo opuesto al foco. A divagar. Estamos hablando de descanso verdadero (nada de grupos de móvil, emails, etc). De hecho se ha demostrado si algunas pausas las podemos hacer en la naturaleza es aún más efectivo.[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}[ref-12](#ref-12){.ref}[ref-13](#ref-13){.ref}
+- **El descanso nos hace más creativos:** porque es en los periodos de divagar, de aburrirse, cuando la mente se pone en modo más creativo.[ref-14](#ref-14){.ref} Por esto me hago duchas más largas de lo que deberían ser. Porque en mi primera pausa de la mañana, esa ducha caliente me pone en un estado de pensamiento que abarca mil mundos antes de meterme a la segunda sesión de foco.
 
-Ojalá el trabajo profundo para ser altamente productivos fuera infinito, pero no lo es. Algunos expertos sugieren que la media de horas en las que podemos trabajar en *flow* es de unas 4 horas.
+Ojalá el trabajo profundo para ser altamente productivos fuera infinito, pero no lo es. Algunos expertos sugieren que la media de horas en las que podemos trabajar en _flow_ es de unas 4 horas.
 
 Una vez hemos vaciado la «batería» nuestro foco disminuye.
 
-![descansos para ser productivo](https://pau.ninja/wp-content/uploads/2023/06/descansos-para-ser-productivo.png)
+![descansos para ser productivo](./wp-content/uploads/2023/06descansos-para-ser-productivo.png)
 
 Este es otro motivo por el que saber elegir correctamente los momentos del día donde nuestra energía y foco son más susceptibles a ser potenciados. Multiplicados.
 
@@ -261,7 +250,7 @@ Es el motivo por el que personalmente sólo trabajo en lo que considero trancend
 
 Vendría a ser una «pausa de cambio de marcha» porque dejo que por la noche se empiece a rellenar la batería para el día siguiente, pero hay muchos otros tipos de descansos muy efectivos para esparcir y potenciar el trabajo profundo:
 
-**Micropausa\***
+**Micropausa\***  
 cada 25-60 minutos
 
 - **Pomodoro:** descansa 5 minutos después de una sesión de 25 minutos
@@ -269,25 +258,25 @@ cada 25-60 minutos
 - **Hidrátate:** la excusa para levantarte a hacer algo de café o beber agua de mar
 - **Levántate:** camina por la sala mientras piensas, haz estiramientos, etc.
 
-**Pausa de movimiento
+**Pausa de movimiento  
 **cada 1-2 horas
 
-- **Camina:** 5 minutillos es todo lo que necesitas
+- **Camina:** 5 
 - **Haz flexiones:** para sacar buenos pectorales nunca hay un momento perfecto
 
-**Pausa de naturaleza
+**Pausa de naturaleza  
 **1-2 veces al día
 
-- **Camina fuera:** saca a pasear el perro y estar en contacto con la naturaleza se ha demostrado que funciona aún mejor.[15](<void(0)>)Berto, Rita. (2005). Exposure to restorative environments helps restore attentional capacity. journal of environmental psychology.
-- **Siéntate fuera:** con [los pies descalzos haciendo _grounding_](https://pau.ninja/earthing-grounding-que-es/) en el césped o la arena de la playa
+- **Camina fuera:** saca a pasear el perro y estar en contacto con la naturaleza se ha demostrado que funciona aún mejor.[15](void\(0\))
+- **Siéntate fuera:** con [los pies descalzos haciendo _grounding_](./earthing-grounding-que-es) en el césped o la arena de la playa
 
-**Pausa social
+**Pausa social  
 **1-2 veces al día
 
-- **Habla con alguien:** con una llamada o visita rápida, aprovecha para expresar gratitud. También puedes aprovechar para salir fuera a hacer una [sesión de _daygame_](https://pau.ninja/daygame/) (ligar de día en la calle)
+- **Habla con alguien:** con una llamada o visita rápida, aprovecha para expresar gratitud. También puedes aprovechar para salir fuera a hacer una [sesión de _daygame_](./daygame) (ligar de día en la calle)
 - **Agenda un café:** con un trabajador, cita o amigo
 
-**Pausa de cambio de marcha
+**Pausa de cambio de marcha  
 **cuando sientas ansiedad
 
 - **Medita:** no tiene por qué ser una sesión larga, puede ser de cinco minutos. Dependerá del rato que puedas tolerarlo. Yo soy fatal en eso.
@@ -295,7 +284,7 @@ cada 25-60 minutos
 
 _\*No hago micropausas durante mis horas más productivas para asegurar un estado de trabajo profundo (flow)._
 
-Recuerda no infravalorar uno de los mejores inventos españoles: **las siestas**.[16](<javascript:void(0)>)Mantua J, Spencer RMC. Exploring the nap paradox: are mid-day sleep bouts a friend or foe? Sleep Med. Pero las bien hechas. No esas que te quedas frito durante 2 horas y después no sabes ni quien eres.
+Recuerda no infravalorar uno de los mejores inventos españoles: **las siestas**.[ref-16](#ref-16){.ref} Pero las bien hechas. No esas que te quedas frito durante 2 horas y después no sabes ni quien eres.
 
 Las siestas de verdad duran 25 minutos como máximo. Es un estado de trance que no estás ni despierto ni dormido. Es un arte en si mismo así que sí aún no lo dominas, haz como hacía yo y te pones alarma.
 
@@ -304,97 +293,21 @@ Las siestas de verdad duran 25 minutos como máximo. Es un estado de trance que 
 - **Notas:** la mejor para ti dependerá en tu manera de tomar notas, pero sea cuál sea la que elijas, asegúrate que cubre funciones como que se sincronice con tu móvil y el ordenador, que puedas acceder a ella sin internet, usabilidad, que puedas poner imágenes y cosas así. Personalmente uso la app de notas del mac mismo.
 - **Calendario:** muy básico aunque yo lo utilizo algo distinto. Para organizar mi día tengo siempre la visión mensual puesta.
 - **[Notion](https://pau.ninja/notion):** donde tengo mi tablero Kanban para clasificar las tareas que son más o menos prioritarias.
-- **[Freedom](https://pau.ninja/freedom):** una app que vale la pena pagar para contrarrestar tecnología adictiva con tecnología antiadictiva. Un software que te bloquea las webs que le digas con temporizador. También utilizo una extensión de Chrome ([Social Media Blocker](https://chrome.google.com/webstore/detail/social-media-blocker/bncdebfejhgcdicndlgalckjkmmhlikp/related)).
+- **[Freedom](./freedom):** una app que vale la pena pagar para contrarrestar tecnología adictiva con tecnología antiadictiva. Un software que te bloquea las webs que le digas con temporizador. También utilizo una extensión de Chrome ([Social Media Blocker](https://chrome.google.com/webstore/detail/social-media-blocker/bncdebfejhgcdicndlgalckjkmmhlikprelated)).
 - **[Marinara, el asistente Pomodoro®](https://chrome.google.com/webstore/detail/marinara-pomodoro%C2%AE-assist/lojgmehidjdhhbmpjfamhpkpodfcodef/related):** que es un temporizador de sesiones Pomodoros para poner en tu propio navegador.
 - **[Jumpcut](https://snark.github.io/jumpcut/):** un programa gratis para Mac con el que puedes recuperar lo que habías copiado anteriormente, porque me pasaba que copiaba algo, volvía a copiar otra cosa, y decía «mierda, necesito lo de antes pero ya tengo otra cosa copiada en el portapapeles». Pues con esto tienes un historial de portapapeles que puede ahorrar un montón de dolores de cabeza dependiendo del trabajo que tengas.
 
 Es muy fácil perderse en montones de aplicación. Lo equivalente a leer montones de libros sobre productividad cuando en realidad tendrías que simplemente estar trabajando. Me acuerdo de mi época de estudiar a saco de idiomas, y pasar días entero leyendo sobre cómo ser efectivo aprendiendo lenguas cuando en verdad… sólo tenía que estar estudiando.
 
-Con las apps para ser más productivo también tienes que seguir [una filosofía minimalista](https://pau.ninja/minimalista/), asegurándote que **cumplen una función que realmente necesitas**. En mi caso me veo abriendo la pestaña de Twitter más de lo que me gustaría, pues me instalo una versión que me lo bloquee.
+Con las apps para ser más productivo también tienes que seguir [una filosofía minimalista](./minimalista), asegurándote que **cumplen una función que realmente necesitas**. En mi caso me veo abriendo la pestaña de Twitter más de lo que me gustaría, pues me instalo una versión que me lo bloquee.
 
 ### Cómprate una agenda de productividad
 
-¿Qué ha sido esencial para [crear mi rutina de mañana productiva](https://pau.ninja/rutina-de-manana-productiva/)?
+¿Qué ha sido esencial para [crear mi rutina de mañana productiva](./rutina-de-manana-productiva)?
 
 Durante años fue una libreta en blanco, pero me fui dando cuenta que las secciones que incluía empezaban a tener la misma estructura en base a lo qué iba aprendiendo de la evidencia científica de la productividad…
 
-Por esto diseñé la mía. [Tener una agenda de productividad ha sido esencial](https://pau.ninja/tienda/agenda-de-productividad/) para tener muy clara la estructura de mi día, además de combinarla con psicología positiva.
+Por esto diseñé la mía. [Tener una agenda de productividad ha sido esencial](./tienda/agenda-de-productividad) para tener muy clara la estructura de mi día, además de combinarla con psicología positiva.
 
-- Los estudios demuestran [los beneficios de escribir a mano y en papel para el cerebro](https://pau.ninja/beneficios-de-escribir-a-mano-para-el-cerebro/), liberándonos de ansiedad y haciéndonos más productivos.[17](<javascript:void(0)>)Masicampo EJ, Baumeister RF. Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. J Pers Soc Psychol. 2011 Oct;101(4):667-83. doi: 10.1037/a0024192. PMID: 21688924.
-- Por esto también se incluyen páginas en blanco, porque los estudios demuestran que volcar ideas en una página alivia la ansiedad y la carga cognitiva que llevamos de tantas cosas en la cabeza.[18](<javascript:void(0)>)Prescott, Katherine & Milne, Rebecca & Clarke, Jason. (2011). How Effective is the Enhanced Cognitive Interview when Aiding Recall Retrieval of Older Adults including Memory for Conversation?. Journal of Investigative Psychology and Offender Profiling. 8. 10.1002/jip.142.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Danziger, Shai & Levav, Jonathan & Avnaim-Pesso, Liora. (2011). Extraneous Factors in Judicial Decisions. Proceedings of the National Academy of Sciences of the United States of America.
-
-- 2
-
-  When: The Scientific Secrets of Perfect Timing Tapa blanda – 8 Enero 2019 de Daniel H. Pink
-
-- 3
-
-  Dijksterhuis A, Bos MW, Nordgren LF, van Baaren RB. On making the right choice: the deliberation-without-attention effect. Science. 2006 Feb 17;311(5763):1005-7. doi: 10.1126/science.1121629. PMID: 16484496.
-
-- 4
-
-  Andrews, L.W. «To Become a Better Writer, Be a Frequent Walker»
-
-- 5
-
-  McMains S, Kastner S. Interactions of top-down and bottom-up mechanisms in human visual cortex. J Neurosci. 2011 Jan 12;31(2):587-97. doi: 10.1523/JNEUROSCI.3766-10.2011. PMID: 21228167; PMCID: PMC3072218.
-
-- 6
-
-  DeskTime. The secret of the 10% most productive people? Breaking!
-
-- 7
-
-  Fast Company, 10-31-17, This Is How Many Minutes Of Breaks You Need Each Day
-
-- 8
-
-  Stickgold, R., Walker, M. Sleep-dependent memory triage: evolving generalization through selective processing. Nat Neurosci 16, 139–145 (2013).
-
-- 9
-
-  Berto, R. (2005). Exposure to restorative environments helps restore attentional capacity. Journal of Environmental Psychology, 25, 249-259.
-
-- 10
-
-  Berto, R. (2014). The role of nature in coping with psycho-physiological stress: A literature review on restorativeness. Behavioral Sciences, 4, 394-409.
-
-- 11
-
-  Diette, G. B., Lechtzin, N., Haponik, E., Devrotes, A., & Rubin, H. R. (2003). Distraction therapy with nature sights and sounds reduces pain during flexible bronchoscopy: A complementary approach to routine analgesia. Chest, 123, 941-948.
-
-- 12
-
-  Joye, Y., & Dewitte, S. (2018). Nature’s broken path to restoration: A critical look at Attention Restoration Theory. Journal of Environmental Psychology, 59, 1-8.
-
-- 13
-
-  Thal, L. (2014). Attention-deficit hyperactivity disorder and exposure to nature in college students. Parks, Recreation, and Tourism Electronic Theses and Dissertations. Retrieved from https://hdl.handle.net/10355/44338
-
-- 14
-
-  Gable SL, Hopper EA, Schooler JW. When the Muses Strike: Creative Ideas of Physicists and Writers Routinely Occur During Mind Wandering. Psychol Sci. 2019 Mar;30(3):396-404. doi: 10.1177/0956797618820626. Epub 2019 Jan 17. PMID: 30653407.
-
-- 15
-
-  Berto, Rita. (2005). Exposure to restorative environments helps restore attentional capacity. journal of environmental psychology.
-
-- 16
-
-  Mantua J, Spencer RMC. Exploring the nap paradox: are mid-day sleep bouts a friend or foe? Sleep Med.
-
-- 17
-
-  Masicampo EJ, Baumeister RF. Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. J Pers Soc Psychol. 2011 Oct;101(4):667-83. doi: 10.1037/a0024192. PMID: 21688924.
-
-- 18
-
-  Prescott, Katherine & Milne, Rebecca & Clarke, Jason. (2011). How Effective is the Enhanced Cognitive Interview when Aiding Recall Retrieval of Older Adults including Memory for Conversation?. Journal of Investigative Psychology and Offender Profiling. 8. 10.1002/jip.142.
+- Los estudios demuestran [los beneficios de escribir a mano y en papel para el cerebro](./beneficios-de-escribir-a-mano-para-el-cerebro), liberándonos de ansiedad y haciéndonos más productivos.[ref-17](#ref-17){.ref}
+- Por esto también se incluyen páginas en blanco, porque los estudios demuestran que volcar ideas en una página alivia la ansiedad y la carga cognitiva que llevamos de tantas cosas en la cabeza.[ref-18](#ref-18){.ref}

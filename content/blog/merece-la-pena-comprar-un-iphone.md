@@ -1,14 +1,19 @@
 ---
-title: "Hola iPhone: le digo adiós a mi Android de 170 euros ¿Mereció la pena comprarlo?"
+title: "Hola iPhone: le digo adiós a mi Android de 170 euros"
+url: https://pau.ninja/merece-la-pena-comprar-un-iphone
+slug: merece-la-pena-comprar-un-iphone
+categories: 
+- slug: negocios
+    label: Negocios
 image: iphone-en-mesa.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/02/iphone-en-mesa.jpg
 published: 2021-08-23T05:32:14+00:00
 modified: 2023-12-05T15:29:01+00:00
+scrappedAt: 2024-10-14T09:21:17.085Z
 audioLink: https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android_md_74696099_wp_1.mp3
-slug: merece-la-pena-comprar-un-iphone
+bibliography: []
 ---
-
-[https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android_md_74696099_wp_1.mp3](https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android_md_74696099_wp_1.mp3)
+[https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android\_md\_74696099\_wp\_1.mp3](https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android_md_74696099_wp_1.mp3)
 
 «¿Has visto el último modelo? cuesta más de 1.000€. ¿Crees que vale la pena comprar un iPhone?» fueron las palabras que salieron de mi boca mientras miraba en el navegador de mi Android ese primer smartphone de más de 1.000€ hace no tantos años.
 
@@ -22,49 +27,25 @@ Pero, ¿quería el mejor iPhone? ¿o cualquier iPhone sin necesidad de que fuera
 
 Antes de pasar a ver las [razones por las que comprar un iPhone](#Razones_para_comprar_un_iPhone) y los motivos para [no hacerlo](#Razones_para_no_comprar_un_iPhone), os comento cuál es mi situación actual para ponerlo en perspectiva.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Mi smartphone actual](#Mi_smartphone_actual 'Mi smartphone actual')
-  - [Cambiar de iPhone a Android](#Cambiar_de_iPhone_a_Android 'Cambiar de iPhone a Android')
-  - [Cambiar de Android a iPhone](#Cambiar_de_Android_a_iPhone 'Cambiar de Android a iPhone')
-- [Estrategia de marketing de Apple](#Estrategia_de_marketing_de_Apple 'Estrategia de marketing de Apple')
-  - [Estrategia de descremado de precios](#Estrategia_de_descremado_de_precios 'Estrategia de descremado de precios')
-  - [Evolución de la tecnología y nuestra percepción](#Evolucion_de_la_tecnologia_y_nuestra_percepcion 'Evolución de la tecnología y nuestra percepción')
-- [Razones para comprar un iPhone](#Razones_para_comprar_un_iPhone 'Razones para comprar un iPhone')
-  - [Todo está optimizado](#Todo_esta_optimizado 'Todo está optimizado')
-  - [Sistema operativo intuitivo](#Sistema_operativo_intuitivo 'Sistema operativo intuitivo')
-  - [Comodidad del ecosistema](#Comodidad_del_ecosistema 'Comodidad del ecosistema')
-  - [Cámara de alta calidad](#Camara_de_alta_calidad 'Cámara de alta calidad')
-  - [Envejecen mejor](#Envejecen_mejor 'Envejecen mejor')
-  - [Factor emocional](#Factor_emocional 'Factor emocional')
-- [Razones para no comprar un iPhone](#Razones_para_no_comprar_un_iPhone 'Razones para no comprar un iPhone')
-  - [Precios caros](#Precios_caros 'Precios caros')
-  - [Políticas monopolísticas](#Politicas_monopolisticas 'Políticas monopolísticas')
-  - [La política de privacidad de Apple](#La_politica_de_privacidad_de_Apple 'La política de privacidad de Apple')
-  - [Reciclar iPhone poco efectivo](#Reciclar_iPhone_poco_efectivo 'Reciclar iPhone poco efectivo')
-- [¿Vale la pena comprar un iPhone?](#%C2%BFVale_la_pena_comprar_un_iPhone '¿Vale la pena comprar un iPhone?')
-
 ## Mi smartphone actual
 
 Fue el año de las segundas y terceras pandemias que terminé comprándome el iPhone que quería, pero durante 3 años había usado un Android de 170€ con el que había estado muy contento.
 
 ¿Caí en la seducción de la publicidad de Apple o las presiones sociales de lujo?
 
-[![Nuevo Apple iPhone 12 Mini (128 GB) - en Negro](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFek5EaDZOVVJUU2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxNzQ1MA=)](https://www.amazon.es/dp/B08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Nuevo Apple iPhone 12 Mini (128 GB) - en Negro')
+[![Nuevo Apple iPhone 12 Mini (128 GB) - en Negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFek5EaDZOVVJUU2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcxNw=)](https://www.amazon.es/dpB08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nuevo Apple iPhone 12 Mini (128 GB) - en Negro")
 
-[Nuevo Apple iPhone 12 Mini (128 GB) - en Negro](https://www.amazon.es/dp/B08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Nuevo Apple iPhone 12 Mini (128 GB) - en Negro')
+[Nuevo Apple iPhone 12 Mini (128 GB) - en Negro](https://www.amazon.es/dp/B08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nuevo Apple iPhone 12 Mini (128 GB) - en Negro")
 
 El que tengo en la actualidad. Para mí los mini son mucho más asequibles por la relación de lo que ofrecen y lo que necesito.
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Resulta me encontré con una necesidad que no había tenido durante esos últimos años con mi Android: **la cámara**.
 
 Un Android de caca, NFC, doble SIM y demás había sido más que suficiente durante años, pero sobretodo este último año había empezado a crear más contenido en vídeo online, a publicar algunas cositas en una cuenta de Instagram que iba creciendo poco a poco, y necesitaba fotos molonas por la marca de ropa que estaba creando.
 
-![cámara de mala calidad](https://pau.ninja/wp-content/uploads/2021/08/camara-mala-calidad.jpg)
+![cámara de mala calidad](./wp-content/uploads/2021/08camara-mala-calidad.jpg)
 
 Imagen: mi marca Armablanda en la foto de la derecha… poco profesional.
 
@@ -80,11 +61,11 @@ En ese momento me daba mucha rabia tener que volver a dejarme tanta pasta en un 
 
 Bestseller No. 1
 
-[![CUBOT Note 50 Teléfono Móvil Libres Android 13 (2024), 16GB + 256GB/1TB TF, 6,56' FHD+, Cámara...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGR1lrSnhUM1Z4T0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxNzQ1MA=)](https://www.amazon.es/dp/B0CC1RNJBP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core "CUBOT Note 50 Teléfono Móvil Libres Android 13 (2024), 16GB + 256GB/1TB TF, 6,56' FHD+, Cámara...")
+[![CUBOT Note 50 Teléfono Móvil Libres Android 13 (2024), 16GB + 256GB/1TB TF, 6,56' FHD+, Cámara...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGR1lrSnhUM1Z4T0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcxNw=)](https://www.amazon.es/dp/B0CC1RNJBP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core "CUBOT Note 50 Teléfono Móvil Libres Android 13 (2024), 16GB + 256GB1TB TF, 6,56' FHD+, Cámara...")
 
 [CUBOT Note 50 Teléfono Móvil Libres Android 13 (2024), 16GB + 256GB/1TB TF, 6,56" FHD+, Cámara...](https://www.amazon.es/dp/B0CC1RNJBP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core "CUBOT Note 50 Teléfono Móvil Libres Android 13 (2024), 16GB + 256GB/1TB TF, 6,56' FHD+, Cámara...")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B0CC1RNJBP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B0CC1RNJBP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core "Comprar en Amazon")
 
 Si os soy sincero, este Android es seguramente la mejor compra que hice por ese precio en relación calidad-precio.
 
@@ -97,8 +78,6 @@ Seguía al pie del cañón. Sin marcas de usa menos en el propio protector.
 Después de 3 años, que por cierto es el [tiempo medio](https://www.elespanol.com/elandroidelibre/moviles-android/20190821/cambias-movil/423208971_0.html) que la gente dice cambiar su teléfono, es cuando empecé querer una mejor cámara para mis canales de YouTube, [Instagram](https://www.instagram.com/pau_ninja/) y esas redes que no tendría si no existiera [Pau Ninja](https://pau.ninja/).
 
 Teniendo **ya un Mac**, un trackpad y un teclado de Apple sabía perfectamente que el iPhone como producto no me iba a decepcionar.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Aquí es cuando empecé a considerar (otra vez) comprar un iPhone, y que no tenía sentido que me diera rabia que el objetivo de Apple fuera que me enganchara a su ecosistema: la sincronización de sus productos y servicios que hacen que sólo quieras producto y servicios de Apple.
 
@@ -120,21 +99,21 @@ En su época Apple fue pionero de nuevas tecnologías y diseños como el primer 
 
 Un fanatismo similar al de grupos de música de pop.
 
-Con *groupies* haciendo cola que te hacen dudar si se esperan para entrar a un concierto, pero no. Resulta que es para comprar un maldito teléfono.
+Con _groupies_ haciendo cola que te hacen dudar si se esperan para entrar a un concierto, pero no. Resulta que es para comprar un maldito teléfono.
 
 Pasaron los años y se empezó a especular de que Apple sin Steve Jobs estaba acabado. Que ya no sacaban nada revolucionario y la empresa estaba en punto muerto. Pero entonces… sonó la flauta.
 
 Apple saco un nuevo producto estrella que las otras empresas ya han copiado cientos de veces… **los Airpods**.
 
-Bestseller No. 1
+Ahora mismo rebajadoBestseller No. 1
 
-[![Apple AirPods con Estuche de Carga con Cable (2.ª generación)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGRmVITkliV0l6VjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxNzQ1MA=)](https://www.amazon.es/dp/B07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods 'Apple AirPods con Estuche de Carga con Cable (2.ª generación)')
+[![Apple AirPods con Estuche de Carga con Cable (2.ª generación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGRmVITkliV0l6VjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcxNw=)](https://www.amazon.es/dpB07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods "Apple AirPods con Estuche de Carga con Cable (2.ª generación)")
 
-[Apple AirPods con Estuche de Carga con Cable (2.ª generación)](https://www.amazon.es/dp/B07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods 'Apple AirPods con Estuche de Carga con Cable (2.ª generación)')
+[Apple AirPods con Estuche de Carga con Cable (2.ª generación)](https://www.amazon.es/dp/B07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods "Apple AirPods con Estuche de Carga con Cable (2.ª generación)")
 
-129,00 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+109,00 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods "Comprar en Amazon")
 
 ¿Sabéis cuánta pasta han hecho sólo con ellos? 12.000 millones ([12 billions](https://www.digitalmusicnews.com/2020/01/09/apple-airpods-more-money-spotify/)) de dólares.
 
@@ -156,7 +135,7 @@ Sin importar el producto que saquen.
 
 Esta táctica que divide a los usuarios que se preguntan si vale la pena comprar un iPhone. Y lo interesante es que tanto los que piensan que sí como los que no… **ambos tienen razón**.
 
-![descramado de precios de Apple](https://pau.ninja/wp-content/uploads/2021/02/descremado-de-precios-de-Apple.jpg)
+![descramado de precios de Apple](./wp-content/uploads/2021/02descremado-de-precios-de-Apple.jpg)
 
 Es fácil de entender: Apple **pone sus precios muy altos durante un periodo de tiempo inicial**. Ahí se aprovecha de todos los seguidores incondicionales que tiene. Estos clientes cegados por su nuevo producto lo comprarán sin importar el precio t que hacen cola durante días sin ir a trabajar.
 
@@ -166,7 +145,7 @@ El último periodo es cuando **la demanda está en su mínimo**.
 
 Aquí es cuando vale la pena comprar un iPhone, porque los precios están como tienen que ser, aunque para entonces ha pasado ya más de 1 año y lo más probable es que hayan sacado una nueva versión de su producto.
 
-![descremamiento del iphone](https://pau.ninja/wp-content/uploads/2021/02/descremamiento-del-iphone.jpg)
+![descremamiento del iphone](./wp-content/uploads/2021/02descremamiento-del-iphone.jpg)
 
 Gráfico: un año de evolución del precio del iPhone SE. He usado un plugin que tengo para ver el historial de un precio de Amazon. Aquí se puede ver como todo o que ha ido bajando en año y medio. Ahora ya si que se ha estabilizado.
 
@@ -222,11 +201,11 @@ En cambio, Android es de código abierto que suena muy bonito. El problema es qu
 
 En el primero hay un poti-poti de ideas y personas que van metiendo cucharada en lo que piensan que es bueno aunque dirigido por una gran empresa como es Google, pero en el segundo hay una idea clara de lo que se quiere conseguir, qué partes se van a usar y cómo se van a comunicar entre ellas.
 
-Es por esto que el sistema operativo iOS no sólo es mucho mejor pero también más intuitivo y sin *lag*.
+Es por esto que el sistema operativo iOS no sólo es mucho mejor pero también más intuitivo y sin _lag_.
 
 Para los que son programadores y llevan años actualizando o mejorando una aplicación, programa o web, terminan con montañas de código desordenado. Funciona, pero no te dejas de preguntar si eso se podría dejar algo más limpio y tal vez mejoraría el rendimiento.
 
-Android empezó como proyecto *open source* (de código abierto) que duró años siendo un software colaborativo, y de pronto vino Google en 2005 y [lo compró](https://www.muycomputer.com/2014/04/25/google-compro-android-samsung-lo-rechazo/) por 50 millones de dólares.
+Android empezó como proyecto _open source_ (de código abierto) que duró años siendo un software colaborativo, y de pronto vino Google en 2005 y [lo compró](https://www.muycomputer.com/2014/04/25/google-compro-android-samsung-lo-rechazo/) por 50 millones de dólares.
 
 No lo compró para empezar ese proyecto de cero.
 
@@ -251,13 +230,11 @@ Pero de nuevo, Android, Huawei, Samsung, etc **intentan hacer lo mismo**, pero 
 
 Otra de las razones para mí, y seguramente la razón principal en el momento de [comprar mi iPhone](#Mi_smartphone_actual) fue la cámara.
 
-Necesitaba (o más bien, quería) hacer fotos chulas en mis viajes para Instagram o para mí marca de [ropa minimalista](https://pau.ninja/ropa-minimalista/) y ya pasaba de ir pidiéndole constantemente a mi amigo con iPhone que me hiciera de fotógrafo.
+Necesitaba (o más bien, quería) hacer fotos chulas en mis viajes para Instagram o para mí marca de [ropa minimalista](./ropa-minimalista) y ya pasaba de ir pidiéndole constantemente a mi amigo con iPhone que me hiciera de fotógrafo.
 
 Y de la misma manera que la fluidez y lo bien que funciona el smartphone depende de la relación software-hardware que Apple hace tan bien, con la cámara pasa exactamente lo mismo.
 
 **No sólo es cuestión de lentes**. El software y cómo se relaciona con la cámara también es importante.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Pensad que hasta se graban vídeos publicitarios con la cámara del iPhone. ¿Quien notaría la diferencia? Yo no, y estoy seguro que tampoco la mayoría de la audiencia a la que intento llegar por YouTube.
 
@@ -360,3 +337,88 @@ Tal vez no por la relación calidad-precio, pero sí por su relación software-h
 
 - **Para creadores:** sin duda recomendaría [comprar un iPhone](#Mi_smartphone_actual). Si es tu herramienta de trabajo y lo utilizas ya sea para crear contenido, para mandar emails constantemente y cosas de este estilo, quieres sacártela del bolsillo (y la maquinita también) y estar ahí inspirado a trabajar.
 - **Para consumidores:** recomendaría comprar un [Android barato](#Cambiar_de_iPhone_a_Android). Si no hay ningún tipo de interés especial, a no ser que el factor emocional personal sea muy grande. Entonces, ¿por qué no un iPhone si le tienes muchas ganas?
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Negocios](./negocios)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/merece-la-pena-comprar-un-iphone/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":12746,"title":"5%20situaciones%20cuando%20vale%20la%20pena%20%28o%20no%29%20comprar%20un%20iPhone","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/02\\/iphone-en-mesa.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

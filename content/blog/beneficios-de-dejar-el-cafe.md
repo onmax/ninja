@@ -1,14 +1,19 @@
 ---
-title: "Deja de beber café (beneficios de dejar el café)"
+title: "Deja de beber café"
+url: https://pau.ninja/beneficios-de-dejar-el-cafe
+slug: beneficios-de-dejar-el-cafe
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: adicto-al-cafe.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/adicto-al-cafe.jpeg
 published: 2021-10-05T07:26:14+00:00
 modified: 2023-02-02T14:43:14+00:00
+scrappedAt: 2024-10-14T09:21:06.035Z
 audioLink: https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al_md_74168896_wp_1.mp3
-slug: beneficios-de-dejar-el-cafe
+bibliography: []
 ---
-
-[https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al_md_74168896_wp_1.mp3](https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al_md_74168896_wp_1.mp3)
+[https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al\_md\_74168896\_wp\_1.mp3](https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al_md_74168896_wp_1.mp3)
 
 Al igual que el alcohol, el café es una de esas drogas aceptadas por la sociedad.
 
@@ -25,7 +30,7 @@ En serio.
 
 Los de Nestlé me engancharon desde los 11 años con unos sobrecitos de Nesquik mezclados con café, y aunque no me los tomaba cada día no me costó nada terminar con una taza de café en mi mano cuando ya de adolescente.
 
-![bebia-cafe-con-leche](https://pau.ninja/wp-content/uploads/2021/10/bebia-cafe-con-leche.jpg)
+![bebia-cafe-con-leche](./wp-content/uploads/2021/10bebia-cafe-con-leche.jpg)
 
 Foto: en Nueva Zelanda la longitud de mi barba era proporcional a la cantidad de café que bebía.
 
@@ -39,48 +44,6 @@ El problema es que claro, entonces si curraba todo el día me iba metiendo café
 Es un círculo vicioso negativo: estamos cansados y en vez de poner remedio lo que hacemos es poner parches. Es como si tienes una piedra en el zapato pero en vez de sacártela (y la piedra también) te vas tomando una pastilla para no notarla.
 
 Hoy vamos a hablar de cómo salir (o al menos a empezar a hacerlo) de este _loop_ del infierno de cuál ha sido mi experiencia dejando, volviendo y reduciendo mis tazas de café.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Café y vitamina D](#Cafe_y_vitamina_D 'Café y vitamina D')
-- [De qué está hecho el café](#De_que_esta_hecho_el_cafe 'De qué está hecho el café')
-  - [Semilla del café](#Semilla_del_cafe 'Semilla del café')
-  - [Antinutrientes del café](#Antinutrientes_del_cafe 'Antinutrientes del café')
-- [Tipos de café según preparación](#Tipos_de_cafe_segun_preparacion 'Tipos de café según preparación')
-  - [Café lavado](#Cafe_lavado 'Café lavado')
-  - [Café natural](#Cafe_natural 'Café natural')
-  - [Honey](#Honey 'Honey')
-- [¿Qué tipo de café es mejor?](#%C2%BFQue_tipo_de_cafe_es_mejor '¿Qué tipo de café es mejor?')
-  - [El café que contiene más antioxidantes](#El_cafe_que_contiene_mas_antioxidantes 'El café que contiene más antioxidantes')
-  - [¿El café es malo?](#%C2%BFEl_cafe_es_malo '¿El café es malo?')
-- [Desventajas de tomar café](#Desventajas_de_tomar_cafe 'Desventajas de tomar café')
-  - [Fatiga suprarrenal](#Fatiga_suprarrenal 'Fatiga suprarrenal')
-  - [Sueño interrumpido](#Sueno_interrumpido 'Sueño interrumpido')
-  - [Histamina](#Histamina 'Histamina')
-  - [El café es un laxante natural](#El_cafe_es_un_laxante_natural 'El café es un laxante natural')
-  - [Incremento triglicéridos](#Incremento_trigliceridos 'Incremento triglicéridos')
-  - [Poca calidad del agua](#Poca_calidad_del_agua 'Poca calidad del agua')
-  - [Presencia de antinutrientes](#Presencia_de_antinutrientes 'Presencia de antinutrientes')
-- [Beneficios de dejar el café](#Beneficios_de_dejar_el_cafe 'Beneficios de dejar el café')
-  - [Mejora del sueño](#Mejora_del_sueno 'Mejora del sueño')
-  - [Menos bajadas de energía](#Menos_bajadas_de_energia 'Menos bajadas de energía')
-  - [Salud hormonal](#Salud_hormonal 'Salud hormonal')
-  - [Más absorción de minerales](#Mas_absorcion_de_minerales 'Más absorción de minerales')
-- [Pasos para dejar el café](#Pasos_para_dejar_el_cafe 'Pasos para dejar el café')
-  - [Pasarse al orgánico](#Pasarse_al_organico 'Pasarse al orgánico')
-  - [Probar preparaciones](#Probar_preparaciones 'Probar preparaciones')
-  - [Tener grano fresco](#Tener_grano_fresco 'Tener grano fresco')
-  - [Beber el café en 10 minutos](#Beber_el_cafe_en_10_minutos 'Beber el café en 10 minutos')
-  - [Dejar el café de filtro](#Dejar_el_cafe_de_filtro 'Dejar el café de filtro')
-  - [Reducir la cantidad de café](#Reducir_la_cantidad_de_cafe 'Reducir la cantidad de café')
-  - [Dejar el café de golpe](#Dejar_el_cafe_de_golpe 'Dejar el café de golpe')
-- [Síntomas de dejar el café](#Sintomas_de_dejar_el_cafe 'Síntomas de dejar el café')
-  - [Dolores de cabeza](#Dolores_de_cabeza 'Dolores de cabeza')
-  - [Ansiedad](#Ansiedad 'Ansiedad')
-  - [Depresión](#Depresion 'Depresión')
-  - [Fatiga](#Fatiga 'Fatiga')
 
 ## Café y vitamina D
 
@@ -102,7 +65,7 @@ Sólo sabemos que el café nos hace estar más despiertos pero, ¿sabemos exacta
 
 El grano de café es la semillas que está dentro de una fruta llamada cereza del café. Que son como una baya de color verde y también rojo cuando está madura.
 
-![granos-de-cafe](https://pau.ninja/wp-content/uploads/2021/10/granos-de-cafe.jpg)
+![granos-de-cafe](./wp-content/uploads/2021/10granos-de-cafe.jpg)
 
 Del tamaño más o menos de la miierda de las cabras que nos encontramos cuando vamos caminando por la montaña.
 
@@ -110,7 +73,7 @@ Del tamaño más o menos de la miierda de las cabras que nos encontramos cuando 
 
 Aquí la palabra clave es **semilla**.
 
-Igual que pasa con los motivos que di para [no comer fruta](https://pau.ninja/no-comer-verduras/#No_comer_fruta), el objetivo y único propósito de una semilla es **sobrevivir** al sistema digestivo de su presa, o sea: nosotros o cualquier animal que se haya comido su fruta.
+Igual que pasa con los motivos que di para [no comer fruta](./no-comer-verduras#No_comer_fruta), el objetivo y único propósito de una semilla es **sobrevivir** al sistema digestivo de su presa, o sea: nosotros o cualquier animal que se haya comido su fruta.
 
 De esta manera sacamos la semilla con nuestra caca, termina en el suelo y es la manera que tiene la planta para reproducirse. De aquí saldría otra planta del café.
 
@@ -120,11 +83,11 @@ Pero resulta que esta semilla necesita ciertos componentes para sobrevivir al tr
 
 ¿Y qué ideó la madre naturaleza para asegurarse que pasa por nuestros intestinos como un político? (intocable). Pues con **antinutrientes**.
 
-Si las [verduras tienen antinutrientes](https://pau.ninja/no-comer-verduras/#Lista_de_antinutrientes_de_las_verduras) porque es su único mecanismo de defensa, lo mismo pasa con las semillas que tienen que sobrevivir sí o sí para que sobreviva la especie de la planta.
+Si las [verduras tienen antinutrientes](./no-comer-verduras#Lista_de_antinutrientes_de_las_verduras) porque es su único mecanismo de defensa, lo mismo pasa con las semillas que tienen que sobrevivir sí o sí para que sobreviva la especie de la planta.
 
 - Fitatos
-- [Oxalatos](https://pau.ninja/no-comer-verduras/#Oxalatos)
-- [Ácido fítico](https://pau.ninja/no-comer-verduras/#Acido_fitico)
+- [Oxalatos](./no-comer-verduras#Oxalatos)
+- [Ácido fítico](./no-comer-verduras#Acido_fitico)
 
 Ayudan a que la semilla sobreviva, adjuntándose a los minerales o «secuestrándolos» como un cartel colombiano. No dejando que se absorban correctamente.
 
@@ -136,7 +99,7 @@ Quizás en pequeñas cantidades no sería preocupante pero nos lo estamos metien
 
 Los animales herbívoros tienen adaptaciones a estos antinutrientes. ¿Os creéis que es casualidad que una vaca tenga cuatro estómagos?
 
-Lo que pasa es que… el humano, por [su condición de carnívoro](https://pau.ninja/el-ser-humano-es-carnivoro/) facultativo (#194) **no está preparado** para procesar estos antinutrientes constantemente.
+Lo que pasa es que… el humano, por [su condición de carnívoro](./el-ser-humano-es-carnivoro) facultativo (#194) **no está preparado** para procesar estos antinutrientes constantemente.
 
 Lo que sí tenemos son ciertos métodos de preparación como la fermentación, con la que podemos rebajar sustancialmente la cantidad de antinutrientes. Aunque tenemos que tener en cuenta que no se eliminan del todo.
 
@@ -183,7 +146,7 @@ Es como sacrificar salud para tener más sabor de café.
 
 En cambio con el café natural y lavado tenemos el café fermentado hasta cierto punto. ¿Hay menos «malignos»? Sí. Son menores, pero no inexistentes.
 
-![fermentacion-cafe](https://pau.ninja/wp-content/uploads/2021/10/fermentacion-cafe.jpeg)
+![fermentacion-cafe](./wp-content/uploads/2021/10fermentacion-cafe.jpeg)
 
 Foto: el café se fermenta durante el proceso de lavado.
 
@@ -232,7 +195,7 @@ Pero este estrés suprarrenal acostumbra a ser un problema más preocupante en m
 
 Normal que tengan **menos** tolerancia a este tipo de estrés. A tipos de estrés de sistemas de glándulas, porque su cuerpo tiene que estar lo más fino posible para que no haya complicaciones.
 
-![glandulas-suprarrenales](https://pau.ninja/wp-content/uploads/2021/10/glandulas-suprarrenales.gif)
+![glandulas-suprarrenales](./wp-content/uploads/2021/10glandulas-suprarrenales.gif)
 
 Las glándulas suprarrenales están justo encima de nuestros riñones y su función es [indispensable](https://www.topdoctors.es/diccionario-medico/glandulas-suprarrenales), porque son como un apoyo hormonal para gestionar las hormonas de nuestro cuerpo.
 
@@ -258,15 +221,15 @@ No afectará nuestra habilidad para quedarnos dormidos, pero sin café la calida
 
 Ahora mismo rebajado
 
-[![Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMGVqRllhalJhZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA4Nw=)](https://www.amazon.es/dp/8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)')
+[![Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMGVqRllhalJhZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY4Mw=)](https://www.amazon.es/dp8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
 
-[Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](https://www.amazon.es/dp/8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)')
+[Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](https://www.amazon.es/dp/8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
 
 El libro de Por qué dormimos es de mis favoritos, pero no podréis dormir en 2 semanas pensando en todas las cosas que hacéis mal.
 
-20,90 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+20,90 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Y me diréis, «pero Pau, si la cafeína es lo que causa estos problemas entonces me puedo tomar un descafeinado y ya está, ¿no?». Pues resulta que la propia bebida del café nos presenta desventajas que lógicamente no evitamos con un descafeinadito.
 
@@ -319,9 +282,9 @@ Hay muchas cosas que pueden estar mal dentro de nuestra agua y la mayoría no no
 
 Y para ponerlo la cereza (en vez de cereza del pastel en este caso es cereza del café), tenemos presentes esos antinutrientes que habíamos comentado.
 
-Los [oxalatos](https://pau.ninja/no-comer-verduras/#Oxalatos) en particular que son conocidos por adjuntarse al calcio como lo hacía Chaos, el novio de Ten Shin Han, con sus enemigos.
+Los [oxalatos](./no-comer-verduras#Oxalatos) en particular que son conocidos por adjuntarse al calcio como lo hacía Chaos, el novio de Ten Shin Han, con sus enemigos.
 
-![Chaoz-salvando-celulas](https://pau.ninja/wp-content/uploads/2021/10/Chaoz-salvando-celulas.jpg)
+![Chaoz-salvando-celulas](./wp-content/uploads/2021/10Chaoz-salvando-celulas.jpg)
 
 Siempre pongo el ejemplo de las espinacas, pero sí. El café también tiene. Nos [secuestra](https://www.webmd.com/diet/what-is-oxalate-oxalic-acid#2) el calcio de nuestro cuerpo pero también al magnesio y potasio hasta cierto punto.
 
@@ -401,7 +364,7 @@ Me gusta el «Pau cafeinado» de las mañanas, trabajando a tope. Qué queréis 
 
 ### Pasarse al orgánico
 
-Entiendo que no todo el mundo va a [seguir una dieta de sólo carne](https://pau.ninja/dieta-carnivora/) como hago yo.
+Entiendo que no todo el mundo va a [seguir una dieta de sólo carne](./dieta-carnivora) como hago yo.
 
 > Pero si se van a consumir verduras y fruta (aquí incluimos el café), es vital comprar el café orgánico.
 
@@ -417,7 +380,7 @@ Es lo más significante que podemos hacer si vamos a beber café.
 
 ### Probar preparaciones
 
-Después tiene sentido que probemos los distintos [tipos de preparación](#Tipos_de_cafe_segun_preparacion). El lavado, el natural o el *honey* para ver cuál tolera mejor nuestro sistema digestivo.
+Después tiene sentido que probemos los distintos [tipos de preparación](#Tipos_de_cafe_segun_preparacion). El lavado, el natural o el _honey_ para ver cuál tolera mejor nuestro sistema digestivo.
 
 ### Tener grano fresco
 
@@ -427,25 +390,25 @@ Nada de comprar paquetes de café ya molido.
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRkxYSXJVV3A1V0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA4Nw=)](https://www.amazon.es/dp/B0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano 'Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...')
+[![Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRkxYSXJVV3A1V0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY4Mw=)](https://www.amazon.es/dpB0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano "Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...")
 
-[Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...](https://www.amazon.es/dp/B0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano 'Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...')
+[Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...](https://www.amazon.es/dp/B0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano "Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...")
 
-21,18 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+21,18 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano "Comprar en Amazon")
 
 Lo mejor es consumir la molienda en un día a dos días como máximo, aunque lo ideal sería tener un molinillo de café para hacerlo cuando lo vayamos a consumir al momento.
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQ2FUaEVValZxT1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA4Nw=)](https://www.amazon.es/dp/B07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe 'Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B')
+[![Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQ2FUaEVValZxT1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY4Mw=)](https://www.amazon.es/dpB07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe "Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B")
 
-[Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B](https://www.amazon.es/dp/B07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe 'Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B')
+[Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B](https://www.amazon.es/dp/B07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe "Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B")
 
-23,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+23,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe "Comprar en Amazon")
 
 ### Beber el café en 10 minutos
 
@@ -521,7 +484,7 @@ Dejar el café es como un espejo porque pensábamos que nuestro «yo por defecto
 
 Dejar el café pasa a ser como otra manera de aceptación.
 
-Cuando bebemos café, la cafeína mejora la energía y nos sentimos menos dormidos porque bloqueamos los receptores de [adenosina](<https://www.news-medical.net/health/What-is-Adenosine-(Spanish).aspx>). Un neurotransmisor que es el encargado de que nos sintamos fatigados.
+Cuando bebemos café, la cafeína mejora la energía y nos sentimos menos dormidos porque bloqueamos los receptores de [adenosina](https://www.news-medical.net/health/What-is-Adenosine-\(Spanish\).aspx). Un neurotransmisor que es el encargado de que nos sintamos fatigados.
 
 Al eliminar la cafeína, ya no hay nada que bloquee estos receptores que son el indicador de que nos sentimos cansados. Por lo tanto olvidarnos de la cafeína al menos por un tiempo haría que nuestros niveles de energía estén más nivelados.
 
@@ -532,3 +495,88 @@ Mi recomendación en el sentido de la fatiga es lo de siempre: **volver a los b
 - Y lo que la mayoría omite, **tomar el sol**
 
 Al menos 30 minutos al día, porque es flipante lo enérgicos que nos podemos sentir teniendo vitamina D en nuestro cuerpo.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/beneficios-de-dejar-el-cafe/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14956,"title":"4%20s%C3%ADntomas%20%2B%207%20pasos%20para%20solucionar%20ADICCI%C3%93N%20al%20caf%C3%A9","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/adicto-al-cafe.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

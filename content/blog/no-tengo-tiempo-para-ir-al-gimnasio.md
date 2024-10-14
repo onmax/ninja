@@ -1,14 +1,19 @@
 ---
-title: "El precio del fitness por qué no tienes tiempo para ir al gimnasio"
+title: "El precio del fitness"
+url: https://pau.ninja/no-tengo-tiempo-para-ir-al-gimnasio
+slug: no-tengo-tiempo-para-ir-al-gimnasio
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-sin-tiempo-para-gimnasio.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/07/persona-sin-tiempo-para-gimnasio.jpg
 published: 2024-07-29T05:53:18+00:00
 modified: 2024-09-24T05:49:30+00:00
-audioLink: https://pau.ninja/metodo-grease-the-groove/
-slug: no-tengo-tiempo-para-ir-al-gimnasio
+scrappedAt: 2024-10-14T09:19:06.039Z
+audioLink: 
+bibliography: ["Thompson, W. R. (2017). Worldwide survey of fitness trends for 2018: The CREP edition. ACSM’s Health & Fitness Journal, 21(6), 10-19.","Kangas, J. L., & Rintala, P. (2008). Physical activity and the environment: A case study of adult people with disabilities. International Journal of Rehabilitation Research, 31(3), 199-206.","Benson, H., & Proctor, W. (2010). Relaxation Revolution: Enhancing Your Personal Health Through the Science and Genetics of Mind Body Healing. Scribner.","Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions and new directions. Contemporary Educational Psychology, 25(1), 54-67.","Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘Engines of growth’?. Journal of Econometrics, 65(1), 83-108.","Misa, T. J. (2011). Leonardo to the Internet: Technology and Culture from the Renaissance to the Present. JHU Press.","Markula, P. (1995). Firm but shapely, fit but sexy, strong but thin: The postmodern aerobicizing female bodies. Sociology of Sport Journal, 12(4), 424-453.","Dishman, R. K., & Sallis, J. F. (1994). Determinants and interventions for physical activity and exercise. Physical Activity, Fitness, and Health, 214-238."]
 ---
-
-Hablé de como el mejor método para las personas que no tienen tiempo de ir al gimnasio es [seguir el método de Greasing The Groove](https://pau.ninja/metodo-grease-the-groove/).
+Hablé de como el mejor método para las personas que no tienen tiempo de ir al gimnasio es [seguir el método de Greasing The Groove](./metodo-grease-the-groove).
 
 Porque lo que evita que muchas personas se pongan a hacer ejercicio, o incluso que continúen haciéndolo, es el coste de mantener un estilo de vida fitness.
 
@@ -20,26 +25,17 @@ Si tenemos la suerte de viciarnos a ello, nuestros planes de dieta, ejercicios p
 
 Nos consumen tiempo, esfuerzo, disciplina, energía y fuerza de voluntad.
 
-De aquí salen [todas las excusas para no ir a entrenar](https://pau.ninja/excusas-para-no-ir-a-entrenar/)…
+De aquí salen [todas las excusas para no ir a entrenar](./excusas-para-no-ir-a-entrenar)…
 
-Que de lo contrario podríamos emplear para otra cosa que nos importe o nos motive mucho más que *simplemente*, mover el cuerpo.
+Que de lo contrario podríamos emplear para otra cosa que nos importe o nos motive mucho más que _simplemente_, mover el cuerpo.
 
 En mi primer año de empezar el camino de cambiar mi cuerpo y mente, me di cuenta que cuando terminó el primer verano estaba mentalmente y físicamente agotado.
 
 No lo entendía en ese momento pero los hábitos de dieta y ejercicio terminaron siendo muy (muy) caros, y no estoy hablando de coste monetario directamente, porque hay mucho más en la vida.
 
-Al tener que (o más bien dicho, *querer*) aprender sobre ejercicios y nutrición, me llevaron a dedicar mucho tiempo a esto, que después tenía que plasmar en el entrenamiento, preparar comidas, etc.
+Al tener que (o más bien dicho, _querer_) aprender sobre ejercicios y nutrición, me llevaron a dedicar mucho tiempo a esto, que después tenía que plasmar en el entrenamiento, preparar comidas, etc.
 
-Pero además, se abría un abanico de cosas a las que [tenía que aprender a decir que no](https://pau.ninja/aprender-a-decir-no/) (#439), para seguir en por el camino correcto en cambiar el cuerpo, hábitos y demás.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [La moneda del fitness con la que pagas](#La_moneda_del_fitness_con_la_que_pagas 'La moneda del fitness con la que pagas')
-- [Haz ejercicio por debajo de tus posibilidades](#Haz_ejercicio_por_debajo_de_tus_posibilidades 'Haz ejercicio por debajo de tus posibilidades')
-- [La batería que te olvidas de cargas](#La_bateria_que_te_olvidas_de_cargas 'La batería que te olvidas de cargas')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
+Pero además, se abría un abanico de cosas a las que [tenía que aprender a decir que no](./aprender-a-decir-no) (#439), para seguir en por el camino correcto en cambiar el cuerpo, hábitos y demás.
 
 ## La moneda del fitness con la que pagas
 
@@ -62,11 +58,11 @@ Una máquina de pesas no solo te cuesta dinero adquirirla, sino que también usa
 
 O incluso el espacio de tu casa que has tenido que «sacrificar» en el que podrías haber puesto un centro de recreaciones en su lugar para jugar a videojuegos (por ejemplo).
 
-Vamos, que aunque la compremos de oferta, pagamos mucho más de lo que nos cuesta en cuanto a dinero.[1](<javascript:void(0)>)Thompson, W. R. (2017). Worldwide survey of fitness trends for 2018: The CREP edition. ACSM’s Health & Fitness Journal, 21(6), 10-19.
+Vamos, que aunque la compremos de oferta, pagamos mucho más de lo que nos cuesta en cuanto a dinero.[ref-1](#ref-1){.ref}
 
 Cuando gestionamos un negocio o un presupuesto personal, es fácil entender el valor de gastar de manera eficiente. Incluso el emprendedor o empresario más despreocupado sabe que no puede gastar demasiado o se irá a la quiebra.
 
-Pero cuando se trata de hacer ejercicio, es muy fácil (y común) gastar, gastar y gastar, con el pretexto de que *muy al largo plazo costará menos que un gimnasio*.
+Pero cuando se trata de hacer ejercicio, es muy fácil (y común) gastar, gastar y gastar, con el pretexto de que _muy al largo plazo costará menos que un gimnasio_.
 
 Porque pensamos erróneamente que al igual que un negocio, al gastar más (en teoría) reportará más beneficios.
 
@@ -86,11 +82,11 @@ Lo que comentaba hace un momento.
 
 No tenemos tiempo ni energía ilimitada para ir al gimnasio y ajustar nuestras dietas (a menos que ya estés retirado).
 
-Por esto cada esfuerzo adicional que le ponemos al _fitness_ aumenta el coste que pagamos con la moneda de «recursos de vida».[2](<javascript:void(0)>)Kangas, J. L., & Rintala, P. (2008). Physical activity and the environment: A case study of adult people with disabilities. International Journal of Rehabilitation Research, 31(3), 199-206.
+Por esto cada esfuerzo adicional que le ponemos al _fitness_ aumenta el coste que pagamos con la moneda de «recursos de vida».[ref-2](#ref-2){.ref}
 
-Que sí… que el *invertir en ti mismo* suena muy bonito, pero muchos lo confunden con un coste monetario y ya está (supongo que porque quien suelta esta frase también tiene muchas cosas que venderte…).
+Que sí… que el _invertir en ti mismo_ suena muy bonito, pero muchos lo confunden con un coste monetario y ya está (supongo que porque quien suelta esta frase también tiene muchas cosas que venderte…).
 
-Yo mismo vendo [buen material de calistenia](https://pau.ninja/material-calistenia/) pero fijaros como es poco, necesario, e incluso alegaría que no te hace falta comprarlo estrictamente.
+Yo mismo vendo [buen material de calistenia](./material-calistenia) pero fijaros como es poco, necesario, e incluso alegaría que no te hace falta comprarlo estrictamente.
 
 > Si hacer ejercicio es tomar el sol, el material de calistenia es la lámpara de luz roja: no es necesario para estar sano, pero es un extra interesante si tienes pasta.
 
@@ -124,15 +120,15 @@ Porque cuando hemos agotado todos los recursos, dejamos de avanzar.
 
 ## La batería que te olvidas de cargas
 
-Gastar esa batería diaria finita es similar a quedarse sin batería del coche.[3](<javascript:void(0)>)Benson, H., & Proctor, W. (2010). Relaxation Revolution: Enhancing Your Personal Health Through the Science and Genetics of Mind Body Healing. Scribner.
+Gastar esa batería diaria finita es similar a quedarse sin batería del coche.[ref-3](#ref-3){.ref}
 
 Si todo lo demás en nuestra vida requiere de estos recursos de estilo de vida: trabajo, familia, amigos, otros intereses… todo lo consume.
 
-[Áreas de la vida](https://pau.ninja/areas-de-la-vida/) que hay que aprender a manejar (#522) y que muchas veces requieren tantos recursos de estilo de vida como simplemente hacer ejercicio.
+[Áreas de la vida](./areas-de-la-vida) que hay que aprender a manejar (#522) y que muchas veces requieren tantos recursos de estilo de vida como simplemente hacer ejercicio.
 
 Áreas que en la mayoría de casos priorizamos más que el entrenamiento, pero que por contra estamos pagando muchos recursos más para mantener el ejercicio. No sé si me explico…
 
-Sería el equivalente a la famosa carrera de la rata con trabajos corporativos de 9 a 5, pero en la cultura del fitness.[4](<javascript:void(0)>)Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions and new directions. Contemporary Educational Psychology, 25(1), 54-67.
+Sería el equivalente a la famosa carrera de la rata con trabajos corporativos de 9 a 5, pero en la cultura del fitness.[ref-4](#ref-4){.ref}
 
 Pero ahora que estamos en plena era de la inteligencia artificial, imagina que te pudieras dar cuenta que has estado teniendo acceso a una IA durante todos estos años, pero que no la has usado para liberarte de tu trabajo de 9 a 5.
 
@@ -148,7 +144,7 @@ Y si en vez de gastar tu batería, tu energía, en encontrar 1 hora diaria para 
 
 Por ejemplo que el peso de nuestro cuerpo es todo el peso que podemos necesitar para autocargarnos, entrenar y evolucionar físicamente.
 
-Porque igual que a medida que los costes de estilo de vida de los ordenadores disminuyeron, más y más personas pudieron usar la tecnología. Esto generó innovación y flexibilidad, permitiendo que la tecnología se convirtiera en el poder que hoy en día podemos usar a nuestro favor.[5](<javascript:void(0)>)Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘Engines of growth’?. Journal of Econometrics, 65(1), 83-108.
+Porque igual que a medida que los costes de estilo de vida de los ordenadores disminuyeron, más y más personas pudieron usar la tecnología. Esto generó innovación y flexibilidad, permitiendo que la tecnología se convirtiera en el poder que hoy en día podemos usar a nuestro favor.[ref-5](#ref-5){.ref}
 
 Justo como la flexibilidad y el bajo coste de poder entrenar con cabeza sólo usando nuestro cuerpo, o sólo unas gomas, o anillas…
 
@@ -156,23 +152,23 @@ Siendo lo más minimalistas, pero reportando el máximo de beneficio.
 
 En época anteriores necesitabas «estar interesado en ordenadores» cuando salieron al mercado, pero en cambio ahora hemos adoptado todos superordenadores que llevamos al bolsillo.
 
-Y ni siquiera te tienen que interesar los ordenadores a nivel técnico, sino que te acompaña a hacer tu día mejor sin que tengas que ser un friki de la informática o del _software_.[6](<javascript:void(0)>)Misa, T. J. (2011). Leonardo to the Internet: Technology and Culture from the Renaissance to the Present. JHU Press.
+Y ni siquiera te tienen que interesar los ordenadores a nivel técnico, sino que te acompaña a hacer tu día mejor sin que tengas que ser un friki de la informática o del _software_.[ref-6](#ref-6){.ref}
 
-Sería exactamente lo mismo con el hacer ejercicio, pero el tener que *estar interesado* en ello hace que no lo *llevemos encima*, sino que tengamos que «hacer espacio» de nuestro día para acomodarlo.
+Sería exactamente lo mismo con el hacer ejercicio, pero el tener que _estar interesado_ en ello hace que no lo _llevemos encima_, sino que tengamos que «hacer espacio» de nuestro día para acomodarlo.
 
-En otras palabras: que si no te gusta o interesa el ejercicio, no lo harás.[7](<javascript:void(0)>)Markula, P. (1995). Firm but shapely, fit but sexy, strong but thin: The postmodern aerobicizing female bodies. Sociology of Sport Journal, 12(4), 424-453.
+En otras palabras: que si no te gusta o interesa el ejercicio, no lo harás.[ref-7](#ref-7){.ref}
 
-Por esto es tan importante acomodarlo alrededor de casa con el mínimo de material posible. Con [métodos de entrenamiento como GtG: Grease The Groove](https://pau.ninja/metodo-grease-the-groove/) (#362) que nos hacen moldear el entreno al día y ni siquiera sientes que te estás reventado, o dedicando mucha energía a hacer el entren.
+Por esto es tan importante acomodarlo alrededor de casa con el mínimo de material posible. Con [métodos de entrenamiento como GtG: Grease The Groove](./metodo-grease-the-groove) (#362) que nos hacen moldear el entreno al día y ni siquiera sientes que te estás reventado, o dedicando mucha energía a hacer el entren.
 
 En el fondo el alto coste del fitness (si dejamos que así sea) no sólo hace que obtener resultados sea más difícil.
 
 También hace que **mantener** estos resultados sea un desafío enorme.
 
-Y a ver tampoco no nos equivoquemos, porque necesitamos pagar *el coste* de mantenernos en forma día tras día, año tras año.
+Y a ver tampoco no nos equivoquemos, porque necesitamos pagar _el coste_ de mantenernos en forma día tras día, año tras año.
 
 No es como comprar un producto material que pagamos una sola vez y después lo poseemos de por vida… O hasta que su obsolescencia programada entra en juego.
 
-Pero una vez que hemos empezado a construir un cuerpo en forma, tenemos que seguir pagando el coste de mantener estos resultados, claro.[8](<javascript:void(0)>)Dishman, R. K., & Sallis, J. F. (1994). Determinants and interventions for physical activity and exercise. Physical Activity, Fitness, and Health, 214-238.
+Pero una vez que hemos empezado a construir un cuerpo en forma, tenemos que seguir pagando el coste de mantener estos resultados, claro.[ref-8](#ref-8){.ref}
 
 La única forma de mantener un nivel decente de fitness es si los costes de estilo de vida, de estos recursos, y de los resultados son asequibles durante un periodo prolongado.
 
@@ -181,39 +177,3 @@ De esta manera la vida, no puede interponerse entre nuestro camino de lograr lo 
 Lo bueno, es que cuanto más tiempo llevemos haciendo ejercicio de forma regular, cada vez gastaremos menos y menos recursos de estilo de vida, para mantener este hábito.
 
 Es como la energía mental que gastas eligiendo qué te pondrás para una boda (mucho), en comparación con elegir lo que te pondrás para una boda, si vas a una boda cada día (porque te dedicas a ello, o lo que sea). En este caso gastarás muy pocos recursos de estilo de vida porque lo automatizarás.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Thompson, W. R. (2017). Worldwide survey of fitness trends for 2018: The CREP edition. ACSM’s Health & Fitness Journal, 21(6), 10-19.
-
-- 2
-
-  Kangas, J. L., & Rintala, P. (2008). Physical activity and the environment: A case study of adult people with disabilities. International Journal of Rehabilitation Research, 31(3), 199-206.
-
-- 3
-
-  Benson, H., & Proctor, W. (2010). Relaxation Revolution: Enhancing Your Personal Health Through the Science and Genetics of Mind Body Healing. Scribner.
-
-- 4
-
-  Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions and new directions. Contemporary Educational Psychology, 25(1), 54-67.
-
-- 5
-
-  Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘Engines of growth’?. Journal of Econometrics, 65(1), 83-108.
-
-- 6
-
-  Misa, T. J. (2011). Leonardo to the Internet: Technology and Culture from the Renaissance to the Present. JHU Press.
-
-- 7
-
-  Markula, P. (1995). Firm but shapely, fit but sexy, strong but thin: The postmodern aerobicizing female bodies. Sociology of Sport Journal, 12(4), 424-453.
-
-- 8
-
-  Dishman, R. K., & Sallis, J. F. (1994). Determinants and interventions for physical activity and exercise. Physical Activity, Fitness, and Health, 214-238.

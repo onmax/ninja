@@ -1,13 +1,18 @@
 ---
-title: "Valores alineados el arte de vivir con integridad"
+title: "Valores alineados"
+url: https://pau.ninja/valores-personales
+slug: valores-personales
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-con-valores.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2023/07/persona-con-valores.jpg
 published: 2023-07-31T05:06:48+00:00
 modified: 2023-09-23T10:52:25+00:00
+scrappedAt: 2024-10-14T09:19:57.727Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75058598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344417874-44100-2-644025656e174.mp3
-slug: valores-personales
+bibliography: ["Mikulak, Anna. 2023. “The Heart of the Matter.” APS Observer 29.‌","Beach MC, Duggan PS, Cassel CK, Geller G. What does ‘respect’ mean? Exploring the moral obligation of health professionals to respect patients. J Gen Intern Med. 2007 May;22(5):692-5. doi: 10.1007/s11606-006-0054-7. PMID: 17443381; PMCID: PMC1852905.","Browne AJ. The meaning of respect: a First Nations perspective. Can J Nurs Res. 1995 Winter;27(4):95-109. PMID: 8697278.","Simon B, Lücken M, Stürmer S. The added value of respect: reaching across inequality. Br J Soc Psychol. 2006 Sep;45(Pt 3):535-46. doi: 10.1348/014466605X57637. PMID: 16984719.","Rolbiecki A, Subramanian R, Crenshaw B, Albright DL, Perreault M, Mehr D. A Qualitative Exploration of Resilience among Patients Living with Chronic Pain. Traumatology (Tallahass Fla). 2017 Mar;23(1):89-94. doi: 10.1037/trm0000095. Epub 2016 Sep 22. PMID: 33500683; PMCID: PMC7833082.","KIM, E.Y., CHANG, S.O. Exploring nurse perceptions and experiences of resilience: a meta-synthesis study. BMC Nurs 21, 26 (2022)."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/75058598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344417874-44100-2-644025656e174.mp3](https://anchor.fm/s/98566448/podcast/play/75058598/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344417874-44100-2-644025656e174.mp3)
 
 Neuroscientíficos, psicólogos y sociólogos están de acuerdo en que nuestros valores personales determinarán si tenemos más o menos números para sentirnos felices con nuestras vida.
@@ -16,7 +21,7 @@ Igual que el valor de un producto está directamente relacionado con la necesida
 
 > Nuestro sentido de lo que importa, de nuestros valores, está directamente relacionado con nuestras necesidades… emocionales.
 
-Por eso tuve la chispa de querer redactar una [lista con mis valores personales](https://pau.ninja/valores-personales/#Lista_de_mis_valores_personales) (que os comparto hoy y que os animo a vosotros a hacer), pero no fue para nada fácil.
+Por eso tuve la chispa de querer redactar una [lista con mis valores personales](./valores-personales#Lista_de_mis_valores_personales) (que os comparto hoy y que os animo a vosotros a hacer), pero no fue para nada fácil.
 
 No sólo porque me di cuenta que valores no sólo significa lo que «importa», sino porque un concepto que pensaba poder explicar en 20 minutos terminó siendo un trabajo de investigación de varios días.
 
@@ -34,38 +39,11 @@ O como la filósofa rusa Ayn Rand dijo:
 
 Lo dudo.
 
-Precisamente por eso se dice que [los valores en una pareja se tienen que alinear](https://pau.ninja/valores-en-una-pareja/) por parte de ambas partes.
+Precisamente por eso se dice que [los valores en una pareja se tienen que alinear](./valores-en-una-pareja) por parte de ambas partes.
 
-Que son uno de los principales factores predictivos en [parejas sanas](https://pau.ninja/relacion-de-pareja-sana/).
+Que son uno de los principales factores predictivos en [parejas sanas](./relacion-de-pareja-sana).
 
 Unas bases que empiezan en nosotros… y estos son los míos. Al menos en papel.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Una persona de valor es una persona con valores](#Una_persona_de_valor_es_una_persona_con_valores 'Una persona de valor es una persona con valores')
-  - [Educar en valores](#Educar_en_valores 'Educar en valores')
-  - [El valor de las personas](#El_valor_de_las_personas 'El valor de las personas')
-  - [Valores en una pareja](#Valores_en_una_pareja 'Valores en una pareja')
-- [Qué son los valores personales](#Que_son_los_valores_personales 'Qué son los valores personales')
-  - [Ejemplos de valores personales](#Ejemplos_de_valores_personales 'Ejemplos de valores personales')
-  - [¿La felicidad es un valor?](#%C2%BFLa_felicidad_es_un_valor '¿La felicidad es un valor?')
-  - [Diferencia entre valores y virtudes](#Diferencia_entre_valores_y_virtudes 'Diferencia entre valores y virtudes')
-- [Lista de valores humanos](#Lista_de_valores_humanos 'Lista de valores humanos')
-- [Lista de mis valores personales](#Lista_de_mis_valores_personales 'Lista de mis valores personales')
-  - [Respeto](#Respeto 'Respeto')
-  - [Crecimiento](#Crecimiento 'Crecimiento')
-  - [Resiliencia](#Resiliencia 'Resiliencia')
-  - [Empatía](#Empatia 'Empatía')
-  - [Responsabilidad](#Responsabilidad 'Responsabilidad')
-  - [Amor](#Amor 'Amor')
-- [Consejos para definir tus valores personales](#Consejos_para_definir_tus_valores_personales 'Consejos para definir tus valores personales')
-  - [¿A quien admiras?](#%C2%BFA_quien_admiras '¿A quien admiras?')
-  - [¿Qué te inspira a tomar acción?](#%C2%BFQue_te_inspira_a_tomar_accion '¿Qué te inspira a tomar acción?')
-  - [¿En qué momento te gustas más?](#%C2%BFEn_que_momento_te_gustas_mas '¿En qué momento te gustas más?')
-- [Pirámide de valores personales](#Piramide_de_valores_personales 'Pirámide de valores personales')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Una persona de valor es una persona con valores
 
@@ -83,7 +61,7 @@ Decir, pensar o hasta creer que eres «alguien» pero que después… tus accion
 
 Toda casa necesita buenos cimientos para estar bien anclada en el suelo. Lo que pasa es que la vida no es un suelo fijo, sino que es como un suelo japonés que de vez en cuando te sacude con terremotos por los que no estabas preparado.
 
-![sistema ser flexible en la vida](https://pau.ninja/wp-content/uploads/2023/07/sistema-ser-flexible-en-la-vida.png)
+![sistema ser flexible en la vida](./wp-content/uploads/2023/07sistema-ser-flexible-en-la-vida.png)
 
 Por esto es importante que estos cimientos, estos valores, estén bien anclados, pero puedan seguir brindando flexibilidad a la vez que robustez.
 
@@ -103,12 +81,12 @@ Por esto es tan importante educar en valores.
 
 Empezando por nosotros mismos.
 
-Educarnos intentando entender qué nos importa de verdad, porque la evidencia ha demostrado que cuando tenemos claros nuestros valores[1](<javascript:void(0)>)Mikulak, Anna. 2023. “The Heart of the Matter.” APS Observer 29.‌:
+Educarnos intentando entender qué nos importa de verdad, porque la evidencia ha demostrado que cuando tenemos claros nuestros valores[ref-1](#ref-1){.ref}:
 
-- Es más sencillo tomar decisiones importantes relacionadas con la búsqueda de propósito y pasiones y también [alcanzar metas personales de largo plazo](https://pau.ninja/como-alcanzar-metas-personales/) tanto en relaciones como profesionales.
+- Es más sencillo tomar decisiones importantes relacionadas con la búsqueda de propósito y pasiones y también [alcanzar metas personales de largo plazo](./como-alcanzar-metas-personales) tanto en relaciones como profesionales.
 - Somos menos propensos en embarcarnos en patrones destructivos o situaciones difíciles en la vida.
 - Podemos tolerar mejor el dolor **físico**.
-- [Podemos ser más disciplinados](https://pau.ninja/como-ser-disciplinado/) para enfocarnos en estudiar o trabajar.
+- [Podemos ser más disciplinados](./como-ser-disciplinado) para enfocarnos en estudiar o trabajar.
 - Los lazos de las relaciones personales son mucho más fuertes.
 
 Acostumbramos a formar nuestros valores de forma subconsciente porque son una combinación de nuestra biología, personalidad y experiencias de vida.
@@ -129,7 +107,7 @@ Que igualmente, claro. No tienen porque lucir igual en cada persona.
 
 ### El valor de las personas
 
-Los valores tiene tanto dimensiones cognitivas (que tanto nosotros como los demás tienen valor) como dimensiones de comportamiento (actuar creyendo en ello)[2](<javascript:void(0)>)Beach MC, Duggan PS, Cassel CK, Geller G. What does ‘respect’ mean? Exploring the moral obligation of health professionals to respect patients. J Gen Intern Med. 2007 May;22(5):692-5. doi: 10.1007/s11606-006-0054-7. PMID: 17443381; PMCID: PMC1852905..
+Los valores tiene tanto dimensiones cognitivas (que tanto nosotros como los demás tienen valor) como dimensiones de comportamiento (actuar creyendo en ello)[ref-2](#ref-2){.ref}.
 
 ¿De dónde creéis que viene la expresión «valorar a alguien»?
 
@@ -137,7 +115,7 @@ Usamos mucho frases tipo «te valoro como persona, o amigo, o pareja».
 
 En el fondo el comportamiento que tenemos, como actuamos y como hacemos sentir a los demás está construido con los cimientos de estos valores… que repito: muchos no saben cuáles son.
 
-O lo saben subconscientemente, pero no pueden identificarlos en [una lista de cientos](https://pau.ninja/valores-personales/#Lista_de_valores_humanos).
+O lo saben subconscientemente, pero no pueden identificarlos en [una lista de cientos](./valores-personales#Lista_de_valores_humanos).
 
 Valoraremos a una persona que siempre está dando (y dando y dando), no porque nos esté dando, sino porque precisamente ese es uno de sus valores fundamentales más intrínsecos.
 
@@ -199,7 +177,7 @@ Por mucho que **valoremos** la felicidad esto no la convierte en un valor.
 
 A unos padres les puede preocupar su hija. Pueden decir que su máximo valor compartido es «el bienestar de su hija» pero como hemos visto, sólo hace falta una fuente externa malintencionada para hacer tambalear esta idea.
 
-Ahora bien, «el deseo de ser padres atentos» ya es otro cantar porque la «atención» ya es un valor en si mismo. La *attentiveness* en inglés.
+Ahora bien, «el deseo de ser padres atentos» ya es otro cantar porque la «atención» ya es un valor en si mismo. La _attentiveness_ en inglés.
 
 > Es diferente tener un valor que valorar algo.
 
@@ -225,7 +203,7 @@ Una regla o comportamiento que dirige a un comportamiento personal.
 
 _Nunca levanto la voz a los mayores (respeto)_
 
-Por esto [las características de un hombre de alto valor](https://pau.ninja/hombre-de-alto-valor/) (#342) no incluyen necesariamente valores o principios específicos, pero si que se incluyen ciertas virtudes que consideramos moralmente deseables a la par que masculinas: conquista, acción, propósito, sabiduría, fuerza bajo control y consciencia emocional.
+Por esto [las características de un hombre de alto valor](./hombre-de-alto-valor) (#342) no incluyen necesariamente valores o principios específicos, pero si que se incluyen ciertas virtudes que consideramos moralmente deseables a la par que masculinas: conquista, acción, propósito, sabiduría, fuerza bajo control y consciencia emocional.
 
 Todas son fácilmente arrebatables (por lo tanto no son valores), pero se necesitan de valores para empuñar estas armas bajo las circunstancias correctas.
 
@@ -436,7 +414,7 @@ Ese es el respeto del que estamos hablando como valor: empieza en nosotros y se 
 
 La palabrita nos viene del latín «respectus» que significa atención o consideración.
 
-Las características del respeto reflejan valores éticos relacionados con la igualdad, el valor inherente, la singularidad y dignidad del individuo[3](<javascript:void(0)>)Browne AJ. The meaning of respect: a First Nations perspective. Can J Nurs Res. 1995 Winter;27(4):95-109. PMID: 8697278..
+Las características del respeto reflejan valores éticos relacionados con la igualdad, el valor inherente, la singularidad y dignidad del individuo[ref-3](#ref-3){.ref}.
 
 > Significa valorar los límites respetando el espacio personal, la privacidad y los límites personales físicos y emocionales.
 
@@ -450,11 +428,11 @@ Pensadlo un momento.
 
 Ni lo que sea que valoremos en la vida.
 
-Por ejemplo se vio que cuando está en juego el dinero, se necesitan garantías formales de igualdad para que el valor del respeto tenga un efecto facilitador sobre los sacrificios individuales por el bien del grupo[4](<javascript:void(0)>)Simon B, Lücken M, Stürmer S. The added value of respect: reaching across inequality. Br J Soc Psychol. 2006 Sep;45(Pt 3):535-46. doi: 10.1348/014466605X57637. PMID: 16984719..
+Por ejemplo se vio que cuando está en juego el dinero, se necesitan garantías formales de igualdad para que el valor del respeto tenga un efecto facilitador sobre los sacrificios individuales por el bien del grupo[ref-4](#ref-4){.ref}.
 
 O dicho en lenguaje ninja: que sin respeto no puede haber todo lo necesario para una comunicación de igual a igual:
 
-- [**Escucha activa**](https://pau.ninja/escucha-activa/): porque si respetas a alguien respetarás lo que tiene que decir. Sus opiniones, sus visiones del mundo.
+- [**Escucha activa**](./escucha-activa): porque si respetas a alguien respetarás lo que tiene que decir. Sus opiniones, sus visiones del mundo.
 - **Receptividad**: que significa tener la mente abierta unas visiones del mundo que llevarán a distintas ideas, opiniones.
 - **Cortesía**: practicar buenos modales, usar un lenguaje respetuoso y en definitiva mostrar cortesía básica.
 - **Gratitud**: reconocer, apreciar, agradecer tanto las cualidades como las contribuciones y logro.
@@ -462,8 +440,6 @@ O dicho en lenguaje ninja: que sin respeto no puede haber todo lo necesario para
 Claro. Vemos alguna serie como Suits en la que Harvey dice «mi respeto no se pide, se gana».
 
 Y dices «buah, tiene todo el sentido del mundo además de que queda muy molón…»
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Pero, ¿realmente el respeto se tiene que ganar?
 
@@ -479,7 +455,7 @@ Que la vida real no funciona así.
 
 Esta idea de que la gente tiene que ganarse tu respeto porque tiene tanto valor que sólo unas personas se lo merecen pierde fuelle por todos los sitio porque entonces, ¿cómo se gana **tú** respeto?
 
-![cómo ser respetado](https://pau.ninja/wp-content/uploads/2023/07/como-ser-respetado.png)
+![cómo ser respetado](./wp-content/uploads/2023/07como-ser-respetado.png)
 
 Por esto el respeto es un valor **fundamental**. Porque tiene trazas de otros valores. Lo considero la base sólida de mi pirámide.
 
@@ -510,9 +486,9 @@ Lo pensé un momento.
 
 «Sí».
 
-Esta fue la respuesta que dije… pensando en mí, porque el crecimiento es un valor que *yo* valoro.
+Esta fue la respuesta que dije… pensando en mí, porque el crecimiento es un valor que _yo_ valoro.
 
-Respondí que sí pensando en el *propósito*. Uno de los pilares fundamentales de mi felicidad (junto con el sol, relaciones, etc.)
+Respondí que sí pensando en el _propósito_. Uno de los pilares fundamentales de mi felicidad (junto con el sol, relaciones, etc.)
 
 Ese propósito es lo que me hace levantarme por las mañanas contento.
 
@@ -520,7 +496,7 @@ Con ganas.
 
 Con ganas incluso de que haya pasado el tiempo (a pesar de que muchos le tengan miedo) para ver qué he llegado a conseguir.
 
-![infografía propósito](https://pau.ninja/wp-content/uploads/2023/03/infografia-proposito.png)
+![infografía propósito](./wp-content/uploads/2023/03infografia-proposito.png)
 
 Es en el crecimiento donde encontramos el valor de la **curiosidad** y del **progreso**, por ejemplo.
 
@@ -585,7 +561,7 @@ La resiliencia es el valor de la «antifragilidad». Lo que ha hecho que el ser 
 
 Por esto la **adaptabilidad** también es un valor intrínseco en la resiliencia.
 
-El que se moldea al entorno y las castañas de la vida, ya sea esquivando o abrazando los malditos golpes pero habiendo construido una mente y un cuerpo que no sucumben a las *H0STIAS* que no esperábamos.
+El que se moldea al entorno y las castañas de la vida, ya sea esquivando o abrazando los malditos golpes pero habiendo construido una mente y un cuerpo que no sucumben a las _H0STIAS_ que no esperábamos.
 
 Por esto en en la resiliencia hay el valor del **estoicismo** que en parte es **aceptación** de lo que está sucediendo.
 
@@ -597,7 +573,7 @@ Y así quiero estar yo: anclado en mis valores y racionalidad para una ola de bo
 
 Aceptar que habrá situaciones en las que no tengo el control. Lo cuál es un reto para mí (en los aviones, por ejemplo).
 
-> Por esto dentro de la resiliencia y estoicismos también tenemos el valor de la **calma**. Una calma que nos permite usar [nuestro pensamiento racional](https://pau.ninja/pensamiento-racional/) (#476), más lógica para [tomar mejores decisiones](https://pau.ninja/tomar-decisiones/) (#445).
+> Por esto dentro de la resiliencia y estoicismos también tenemos el valor de la **calma**. Una calma que nos permite usar [nuestro pensamiento racional](./pensamiento-racional/) (#476), más lógica para [tomar mejores decisiones](https://pau.ninja/tomar-decisiones) (#445).
 
 Una calma indispensable en una vida que, aceptémoslo, es totalmente caótica.
 
@@ -609,7 +585,7 @@ El valor de la **paciencia**, como no.
 
 Si tengo que estar preparado físicamente y mentalmente, significa que tendré que fortalecer mente y cuerpo, y la práctica de la paciencia es una de las herramientas más poderosas que existen para ello.
 
-No es esotérico sino que en estudios se ve como pacientes por ejemplo de cáncer, tienen menos síntomas cuando son más pacientes, porque están equipados para lidiar con el estrés, retos y dolor[5](<javascript:void(0)>)Rolbiecki A, Subramanian R, Crenshaw B, Albright DL, Perreault M, Mehr D. A Qualitative Exploration of Resilience among Patients Living with Chronic Pain. Traumatology (Tallahass Fla). 2017 Mar;23(1):89-94. doi: 10.1037/trm0000095. Epub 2016 Sep 22. PMID: 33500683; PMCID: PMC7833082.[6](<javascript:void(0)>)KIM, E.Y., CHANG, S.O. Exploring nurse perceptions and experiences of resilience: a meta-synthesis study. BMC Nurs 21, 26 (2022)..
+No es esotérico sino que en estudios se ve como pacientes por ejemplo de cáncer, tienen menos síntomas cuando son más pacientes, porque están equipados para lidiar con el estrés, retos y dolor[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}.
 
 Ante el caos de la vida creo que es innegable que la resiliencia tiene que ser uno de los cimientos…
 
@@ -637,7 +613,7 @@ La empatía es ponerse en los zapatos de los demás, y no os voy a engañar, cre
 
 Para nuestra supervivencia, para nuestro propio bien, pero egoísta al fin y al cabo.
 
-Si nos lo paramos a pensar, decimos que «hay que tratar a los demás como nos gustaría que nos tratasen a nosotros», y tiene todo el sentido del mundo porque con cero empatía la sociedad se iría a la *MI3RDA*.
+Si nos lo paramos a pensar, decimos que «hay que tratar a los demás como nos gustaría que nos tratasen a nosotros», y tiene todo el sentido del mundo porque con cero empatía la sociedad se iría a la _MI3RDA_.
 
 Debe ser por esta supervivencia que la mayoría incorporamos la empatía en nuestra pirámide de valores personales, ya sea más o menos alejada de la base.
 
@@ -690,7 +666,7 @@ Esto puede significar creer en nuestro propio juicio, o pedir consejo cuando lo 
 
 > Responsabilidad significa no mentir, no decepcionar a los demás o no hacer promesas en vano.
 
-Significa no ser un *bullsh1tter*.
+Significa no ser un _bullsh1tter_.
 
 ### Amor
 
@@ -714,11 +690,11 @@ Al menos ese de verdad… **el que no se trata de nosotros**.
 
 El que no es sobre nosotros. El que nunca lo será.
 
-Amor no es tener alguien allí como herramienta para hacerte *a ti* feliz, o *a ti* contento. Para recibirlo. Eso es disfrute, es afección.
+Amor no es tener alguien allí como herramienta para hacerte _a ti_ feliz, o _a ti_ contento. Para recibirlo. Eso es disfrute, es afección.
 
-Incluso si hablamos de darse «amor a uno mismo», eso que suena tanto de película, no se trata de la paja que te harás hoy que te hará disfrutar, sino el hecho de limpiar los platos. Ahora. Ahora que no quieres hacerlo, para que mañana te los encuentres hechos *para ti mismo*.
+Incluso si hablamos de darse «amor a uno mismo», eso que suena tanto de película, no se trata de la paja que te harás hoy que te hará disfrutar, sino el hecho de limpiar los platos. Ahora. Ahora que no quieres hacerlo, para que mañana te los encuentres hechos _para ti mismo_.
 
-Anteponer a tu *yo* de ahora mismo para tu *yo* de mañana, es la manera en como yo entiendo dar amor propio.
+Anteponer a tu _yo_ de ahora mismo para tu _yo_ de mañana, es la manera en como yo entiendo dar amor propio.
 
 Porque el disfrute y afección no dejan de ser condicionales, inestables e insostenibles. Es decir, que si fuera un tipo de amor **no pueden ser un valor porque te los pueden arrebatar** en cualquier momento.
 
@@ -822,7 +798,7 @@ Es decir que un valor siempre será más importante que otro y nos pesará más 
 
 Igual que con los lenguajes del amor.
 
-![los 5 lenguajes del amor](https://pau.ninja/wp-content/uploads/2023/08/los-5-lenguajes-del-amor.jpeg)
+![los 5 lenguajes del amor](./wp-content/uploads/2023/08los-5-lenguajes-del-amor.jpeg)
 
 Como pasa con el lenguaje del amor, si esto es lo que más me importa, acostumbra a significar que también me importa que los demás lo compartan.
 
@@ -851,31 +827,3 @@ Si para ti la empatía está por encima de los otros valores quizás sí, pero p
 > Esto significaría que el respeto (o la falta de ello) prima por encima de los demás valores.
 
 Porque para mí no puede haber ni empatía, ni amor, ni responsabilidad ni absolutamente nada si antes en la base de la pirámide no está primando el respeto.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Mikulak, Anna. 2023. “The Heart of the Matter.” APS Observer 29.‌
-
-- 2
-
-  Beach MC, Duggan PS, Cassel CK, Geller G. What does ‘respect’ mean? Exploring the moral obligation of health professionals to respect patients. J Gen Intern Med. 2007 May;22(5):692-5. doi: 10.1007/s11606-006-0054-7. PMID: 17443381; PMCID: PMC1852905.
-
-- 3
-
-  Browne AJ. The meaning of respect: a First Nations perspective. Can J Nurs Res. 1995 Winter;27(4):95-109. PMID: 8697278.
-
-- 4
-
-  Simon B, Lücken M, Stürmer S. The added value of respect: reaching across inequality. Br J Soc Psychol. 2006 Sep;45(Pt 3):535-46. doi: 10.1348/014466605X57637. PMID: 16984719.
-
-- 5
-
-  Rolbiecki A, Subramanian R, Crenshaw B, Albright DL, Perreault M, Mehr D. A Qualitative Exploration of Resilience among Patients Living with Chronic Pain. Traumatology (Tallahass Fla). 2017 Mar;23(1):89-94. doi: 10.1037/trm0000095. Epub 2016 Sep 22. PMID: 33500683; PMCID: PMC7833082.
-
-- 6
-
-  KIM, E.Y., CHANG, S.O. Exploring nurse perceptions and experiences of resilience: a meta-synthesis study. BMC Nurs 21, 26 (2022).

@@ -1,13 +1,18 @@
 ---
 title: "Curiosidad intelectual: el arte de aprender a aprender"
+url: https://pau.ninja/aprender-a-aprender
+slug: aprender-a-aprender
+categories: 
+- slug: productividad
+    label: Productividad
 image: persona-estudiando-mucho.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/12/persona-estudiando-mucho.jpeg
 published: 2022-12-28T08:32:31+00:00
 modified: 2023-12-08T15:33:48+00:00
+scrappedAt: 2024-10-14T09:20:16.603Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65810913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F315517692-44100-2-5dd6f3cb55487.mp3
-slug: aprender-a-aprender
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/65810913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F315517692-44100-2-5dd6f3cb55487.mp3](https://anchor.fm/s/98566448/podcast/play/65810913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F315517692-44100-2-5dd6f3cb55487.mp3)
 
 En los 16 años que dura la educación obligatoria, la forma de enseñar a penas ha cambiado desde que se implementó durante la Revolución Industrial.
@@ -18,7 +23,7 @@ Estos pequeños se tienen que convertir en robots de carne y hueso.
 
 Tenemos que engrasarlos para que sigan haciendo rodar los engranajes de la sociedad. Haciéndoles no aprender, sino memorizar conceptos para después vomitarlos y así premiar a los que tengan, no más conocimientos, sino más memoria a corto plazo y la disciplina de hacer lo que te están mandando en un periodo de semanas.
 
-![cómic educación tradicional](https://pau.ninja/wp-content/uploads/2022/12/comic-educacion-tradicional.jpeg)
+![cómic educación tradicional](./wp-content/uploads/2022/12comic-educacion-tradicional.jpeg)
 
 Os voy a ser totalmente sincero ninjas de la vida, y algunos me tacharéis de tonto. Quizás lo soy bajo los estándares de la educación tradicional y es que… no me acuerdo de algunas de las multiplicaciones de las tablas de multiplicar.
 
@@ -42,24 +47,9 @@ Quizás eres como yo y te interesa «multipotenciar» porque eres un multipotenc
 
 Tanto si lo eres como si no, la habilidad más importante a la que tendrás que dedicar tiempo y que hará que **multipliques** la velocidad con la que aprendes es… aprender a aprender.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Cómo aprendemos](#Como_aprendemos 'Cómo aprendemos')
-- [Guía de autoaprendizaje](#Guia_de_autoaprendizaje 'Guía de autoaprendizaje')
-- [Los hábitos para aprender a aprender](#Los_habitos_para_aprender_a_aprender 'Los hábitos para aprender a aprender')
-  - [Céntrate en el entorno](#Centrate_en_el_entorno 'Céntrate en el entorno')
-  - [Entrar en estado de flow](#Entrar_en_estado_de_flow 'Entrar en estado de flow')
-  - [Usar la repetición espaciada](#Usar_la_repeticion_espaciada 'Usar la repetición espaciada')
-  - [Recordarlo activamente](#Recordarlo_activamente 'Recordarlo activamente')
-  - [Entrelazar temas de interés](#Entrelazar_temas_de_interes 'Entrelazar temas de interés')
-  - [No olvides el pensamiento difuso](#No_olvides_el_pensamiento_difuso 'No olvides el pensamiento difuso')
-- [La mejor habilidad que puedes aprender](#La_mejor_habilidad_que_puedes_aprender 'La mejor habilidad que puedes aprender')
-
 ## Cómo aprendemos
 
-No importa si quieres aprender de todo porque eres un [multipotencial](https://pau.ninja/multipotencial/) con ambición de ser polímata a lo Leonardo DaVici… como si quieres saber de todo porque quieres convertirte en el cuñado de las cenas de navidad que parece saber de todo.
+No importa si quieres aprender de todo porque eres un [multipotencial](./multipotencial) con ambición de ser polímata a lo Leonardo DaVici… como si quieres saber de todo porque quieres convertirte en el cuñado de las cenas de navidad que parece saber de todo.
 
 Saber cómo aprender es la habilidad más importante de todo multipotencial para ganar tiempo. Y necesitamos ganar tiempo para… seguir aprendiendo de las otras cosas, pero sobretodo para **tomar acción**.
 
@@ -80,7 +70,7 @@ Porque un especialista se puede permitir el lujo de empaparse de 50 libros sobre
 
 Lo bonito de la multipotencialidad es que podemos ser **casi** maestros de cualquier disciplina que queramos.
 
-![tiempo de aprendizaje](https://pau.ninja/wp-content/uploads/2020/09/tiempo-de-aprendizaje.jpg)
+![tiempo de aprendizaje](./wp-content/uploads/2020/09tiempo-de-aprendizaje.jpg)
 
 Cuando digo «casi» me refiero a saber el 80% de lo que un maestro sabe, pero requiriendo sólo un 20% del tiempo porque nos volvemos especialistas en aprender a aprender. Es lo que en inglés llaman «_journeyman_«, que es la persona que a nivel de habilidad se encuentra entre Maestro y aprendiz.
 
@@ -92,7 +82,7 @@ Porque aunque cada uno decida el nivel de habilidad que quiera adquirir hasta sa
 
 > No necesitar gente, ni dinero, ni recursos para poder usar la habilidad.
 
-Escribir libros, grabar podcast, programar, [crear contenido](https://pau.ninja/como-ser-creador-de-contenido/)… todas estas actividades son muy comunes entre los multipotenciales porque engloban varias disciplinas y habilidades para satisfacer nuestras mentes pero que además usan apalancamientos (dinero, tiempo, programación…) que nos permiten [ser emprendedores](https://pau.ninja/como-ser-emprendedor/) sin depender de nadie más que nosotros.
+Escribir libros, grabar podcast, programar, [crear contenido](./como-ser-creador-de-contenido/)… todas estas actividades son muy comunes entre los multipotenciales porque engloban varias disciplinas y habilidades para satisfacer nuestras mentes pero que además usan apalancamientos (dinero, tiempo, programación…) que nos permiten [ser emprendedores](https://pau.ninja/como-ser-emprendedor) sin depender de nadie más que nosotros.
 
 Sin pedir permisos.
 
@@ -112,21 +102,21 @@ En vez de centrarnos en lo que estamos haciendo o aprendiendo, pregúntate lo si
 
 Si hoy tienes que escribir 2.000 palabras, o quieres terminar X parte del código, o editar X vídeo, o estudiar lo que sea que tengas que estudiar, quiero que hagas esta vista de pájaro y mires desde fuera cómo lo vas a conseguirlo.
 
-Esto hace referencia a (#322) y en vez de forzar intentar [ser disciplinado](https://pau.ninja/como-ser-disciplinado/), centrarte en el entorno. En cuál es el proceso.
+Esto hace referencia a (#322) y en vez de forzar intentar [ser disciplinado](./como-ser-disciplinado), centrarte en el entorno. En cuál es el proceso.
 
 Porque sabemos que tendremos que hacer foco, centrarnos y para eso el entorno será vital, pero muchos interpretan este foco como otra gran cuesta a la que subir para poder trabajar desde allí, y esto ya saca energía en si mismo.
 
 Por esto, céntrate en el entorno y el proceso para conseguir tu resultado del día, antes que en el foco.
 
-### Entrar en estado de *flow*
+### Entrar en estado de _flow_
 
 Aunque no nos engañemos, el objetivo es poder estar enfocados sin que haya un desgaste de energía por la importancia que tiene en conseguir lo que queremos. Como decía Robert Greene en Maestría.
 
 > En el futuro, la gran división será entre aquellos que pueden adquirir habilidades y disciplinar sus mentes… y aquellos que están irrevocablemente distraídos por todos los medios que los rodean y nunca pueden enfócate lo suficiente para aprender.
 
-¿Cuántas veces os he hablado de este estado de conciencia? [El famoso estado de _flow_](https://pau.ninja/estado-de-flow/).
+¿Cuántas veces os he hablado de este estado de conciencia? [El famoso estado de _flow_](./estado-de-flow).
 
-Yo puedo alcanzar el estado de *flow* (por ejemplo) preparando este contenido.
+Yo puedo alcanzar el estado de _flow_ (por ejemplo) preparando este contenido.
 
 Ese estado en el que te metes a hacer una sola cosa… y el tiempo pasa volando. Cuando te das cuenta, dices «h0stia creo que he estado aguantándome el meado en el último par de horas pero estaba aquí motivado…».
 
@@ -152,13 +142,11 @@ Por esto para mí, el foco si, requiere un entorno adecuado, pero **también es
 
 ### Usar la repetición espaciada
 
-Vale, hemos *hackeado* el entorno y el foco para poder aprender. Toca ponernos un poco más prácticos.
+Vale, hemos _hackeado_ el entorno y el foco para poder aprender. Toca ponernos un poco más prácticos.
 
 Pero aprender no significa estudiar. Aprender es almacenar cierta información para el largo plazo.
 
-Los que me conocéis, sabéis que soy un fan de [aprender idiomas](https://pau.ninja/como-estudiar-idioma-autodidacta/) (según mis multipotencialidades) y tengo un método en el que uso un software de repetición espaciada llamada Anki.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Los que me conocéis, sabéis que soy un fan de [aprender idiomas](./como-estudiar-idioma-autodidacta) (según mis multipotencialidades) y tengo un método en el que uso un software de repetición espaciada llamada Anki.
 
 La repetición espaciada básicamente es estudiar hoy una cosa, volver a estudiar mañana, si la sabes entonces al cabo de un par de días, si te acuerdas al cabo del **doble de días**… ¿y si no te acuerdas? pues te tocará repasar más pronto otra vez (…).
 
@@ -166,7 +154,7 @@ Por esto recomiendo un software como [Anki](https://apps.ankiweb.net/) (gratis) 
 
 No te hace estudiar de forma aleatoria sino que utiliza ciencia en estos algoritmos. usa la llamada curva del aprendizaje que hace que en el momento que nuestra memoria va a olvidar de algo… Pum. Entonces la forzamos a **volverlo** a aprender.
 
-![curva de aprendizaje](https://pau.ninja/wp-content/uploads/2022/12/curva-de-aprendizaje.png)
+![curva de aprendizaje](./wp-content/uploads/2022/12curva-de-aprendizaje.png)
 
 Cuantas más veces repitamos este proceso, más se quedará ese pedazo de información a la memoria para el largo plazo.
 
@@ -174,7 +162,7 @@ Es como ir a hacer repeticiones en el gimnasio.
 
 A medida que hacemos repeticiones a lo largo del tiempo, más vamos a retener este pedazo de información.
 
-![repeticiones aprendizaje](https://pau.ninja/wp-content/uploads/2022/12/repeticiones-aprendizaje.png)
+![repeticiones aprendizaje](./wp-content/uploads/2022/12repeticiones-aprendizaje.png)
 
 Es similar a aprender a ir en bici. O más bien dicho, a aprender a **no desaprender** a ir en bici. Una vez has hecho unas cuantas repeticiones, lo que sucede es que aunque estés años sin tocar una bici, la vuelves a coger y… sigues sabiendo.
 
@@ -238,13 +226,13 @@ Se dice que nuestro querido DaVici tenía un buen físico.  James Clear (autor 
 
 Es normal que los [estudios](https://www.researchgate.net/publication/235914141_Physical_fitness_and_academic_achievement) hayan visto una relación directa entre fitness de los alumnos y sus notas. A mejor nivel de actividad, mejor notas.
 
-![estudio fitness y notas](https://pau.ninja/wp-content/uploads/2022/12/estudio-fitness-y-notas.jpg)
+![estudio fitness y notas](./wp-content/uploads/2022/12estudio-fitness-y-notas.jpg)
 
 Se que dicho así suena a «pues que bien», pero ¿y si os digo que un [estudio](https://pubmed.ncbi.nlm.nih.gov/17185007/) demostró como los que hacían actividad física **intensa** aprendían vocabulario **20% más rápido**?
 
 ¡20%!
 
-Ya sabéis qué hacer si queréis aprender un nuevo idioma o mejorar vocabulario para comunicar: ejercicio intenso. Por esto siempre predico [entrenar al fallo muscular](https://pau.ninja/entrenar-al-fallo-muscular/) o cerca de él.
+Ya sabéis qué hacer si queréis aprender un nuevo idioma o mejorar vocabulario para comunicar: ejercicio intenso. Por esto siempre predico [entrenar al fallo muscular](./entrenar-al-fallo-muscular) o cerca de él.
 
 ¿Sabéis por qué sucede esto?
 
@@ -274,7 +262,7 @@ El primero es **escribir.**
 
 Jordan Peterson dijo que la mejor forma de enseñar a alguien pensamiento crítico es enseñándoles a escribir.
 
-Da igual si eres un ingeniero haciendo excel. Un nómada digital programando _bots._ Un *coach* de seducción. Escribir es el mejor hábito polímata por excelencia.
+Da igual si eres un ingeniero haciendo excel. Un nómada digital programando _bots._ Un _coach_ de seducción. Escribir es el mejor hábito polímata por excelencia.
 
 Normal que todos los famosos polímatas de la historia hubieran escrito toda su vida y pensamientos en diarios personales.
 
@@ -307,3 +295,88 @@ Por esto cuando aprendes a usar Photoshop después resulta mil veces más fácil
 Esto es lo que Tom Musshof llama «el círculo de la adaptación acelerada».
 
 > Cuantas más habilidades aprendamos > más referencias y analogías tenemos para aprender cosas nuevas > lo que nos lleva a aprender nuevas habilidades más rápidas > (vuelta a empezar)
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Productividad](./productividad)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/aprender-a-aprender/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":15069,"title":"6%20pasos%20%2B%201%20secreto%20para%20APRENDER%20a%20APRENDER","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/12\\/persona-estudiando-mucho.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

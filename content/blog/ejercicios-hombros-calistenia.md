@@ -1,13 +1,18 @@
 ---
-title: "Deltoides de dios griego… pero sólo con peso corporal Ejercicios de hombros en calistenia"
+title: "Deltoides de dios griego… pero sólo con peso corporal"
+url: https://pau.ninja/ejercicios-hombros-calistenia
+slug: ejercicios-hombros-calistenia
+categories: 
+- slug: fitness
+    label: Fitness
 image: hombre-con-buenos-hombros.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/05/hombre-con-buenos-hombros.jpeg
 published: 2022-05-03T07:40:01+00:00
 modified: 2024-02-05T06:33:03+00:00
-audioLink:
-slug: ejercicios-hombros-calistenia
+scrappedAt: 2024-10-14T09:20:43.985Z
+audioLink: 
+bibliography: ["Thomas, Ewan & Bianco, Antonino & Mancuso, Esamuela & Patti, Antonino & Tabacchi, Garden & Paoli, Antonio & Messina, Giuseppe & Palma, Antonio. (2017). The effects of a calisthenics training intervention on posture, strength and body composition. Isokinetics and Exercise Science. 25. 1-8. 10.3233/IES-170001."]
 ---
-
 Los hombros son el músculo más estético del cuerpo humano y por una buena razón. Somos el único animal que tiene un deltoide así. Sin igual. Con un manguito rotador para tirar piedras en grupo, cazar y… sobrevivir.
 
 Normal que en la naturaleza, si una característica así es tan apreciada por el grupo, el desarrollo de este músculo se traduzca a más atracción porque significaría que estas siendo efectivo para la tribu.
@@ -15,28 +20,6 @@ Normal que en la naturaleza, si una característica así es tan apreciada por el
 Quizás la mayoría de nosotros ya no le estamos dando a la caza… pero reproducirse (o practicar) sigue estando a la orden del día, o sea que es normal que queramos unos hombros redondos 3D. Como más parecidos a los que lleva el _quarterback_ de las películas americanas, mejor.
 
 Y lo bueno, es que en la calistenia (el entrenamiento funcional del cuerpo con poco material), el hombro es de esos músculos que **no cuesta entrenar**. Supongo que porque está más involucrado que mi ex en nuestra relación. Aunque bueno. No es nada difícil. Igual que los ejercicios de hombros.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Guía para entrenar hombros con calistenia](#Guia_para_entrenar_hombros_con_calistenia 'Guía para entrenar hombros con calistenia')
-  - [Beneficios de entrenarlos con peso corporal](#Beneficios_de_entrenarlos_con_peso_corporal 'Beneficios de entrenarlos con peso corporal')
-  - [Frecuencia, volumen e intensidad](#Frecuencia_volumen_e_intensidad 'Frecuencia, volumen e intensidad')
-  - [Material para entrenar hombros](#Material_para_entrenar_hombros 'Material para entrenar hombros')
-- [Los mejores ejercicios de hombro en calistenia](#Los_mejores_ejercicios_de_hombro_en_calistenia 'Los mejores ejercicios de hombro en calistenia')
-  - [Flexiones de pino en pared](#Flexiones_de_pino_en_pared 'Flexiones de pino en pared')
-  - [Flexiones en pica](#Flexiones_en_pica 'Flexiones en pica')
-  - [Flexiones de plancha](#Flexiones_de_plancha 'Flexiones de plancha')
-  - [Progresión de plancha](#Progresion_de_plancha 'Progresión de plancha')
-  - [Fondos para hombros](#Fondos_para_hombros 'Fondos para hombros')
-  - [Elevaciones laterales](#Elevaciones_laterales 'Elevaciones laterales')
-  - [Remo de hombro posterior](#Remo_de_hombro_posterior 'Remo de hombro posterior')
-  - [Aperturas de hombro posterior](#Aperturas_de_hombro_posterior 'Aperturas de hombro posterior')
-- [Rutina de entrenamiento para hombros](#Rutina_de_entrenamiento_para_hombros 'Rutina de entrenamiento para hombros')
-  - [En casa](#En_casa 'En casa')
-  - [Con anillas](#Con_anillas 'Con anillas')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Guía para entrenar hombros con calistenia
 
@@ -55,7 +38,7 @@ El movimiento que estaremos haciendo el 90% de las veces es llevar los brazos po
 - Añadimos fuerza de espalda y pecho porque los hombros se nos adjuntan al cuello, espalda y pecho. Un poco como esa persona un poco demasiado física en sus muestras de efecto. Pero nada tendrá tanto efecto como unos buenos hombros porque serán indispensables para movimientos de calistenia chulos: dominadas, planchas, pinos, fondos acrobáticos… sin hombros no te aguantas.
 - Unos buenos hombros bien redondillos crean un físico increíbles.  Queremos hombros redondos y llenos, como mis huevos llenos cuando la gente no deja de exigirme cosas por privado.
 - Además los hombros se aplican a los movimientos de la vida real: mover muebles, levantar a tus hijos, jugar a la mayoría de deportes, bofetear a tus amigos en una competición nocturna…
-- Ganamos en salud de hombros y postura gracias a la calistenia[1](<javascript:void(0)>)Thomas, Ewan & Bianco, Antonino & Mancuso, Esamuela & Patti, Antonino & Tabacchi, Garden & Paoli, Antonio & Messina, Giuseppe & Palma, Antonio. (2017). The effects of a calisthenics training intervention on posture, strength and body composition. Isokinetics and Exercise Science. 25. 1-8. 10.3233/IES-170001. . En mi caso entrenaba únicamente fuerza e hipertrofia (volumen muscular) en mis hombros cuando sólo iba al gimnasio, pero claro, en el hecho de buscar poder hacer el pino, vi que la poca movilidad de hombros que tenía me limitaba mucho. Desde entonces empecé a estirar y hacer ejercicios de movilidad para los hombros a menudo para poder conseguir un pino recto de gimnasta. Una motivación que no tenía en el gimnasio porque «sólo» buscaba la estética. Ahora también, pero combinada con funcionalidad.
+- Ganamos en salud de hombros y postura gracias a la calistenia[ref-1](#ref-1){.ref} . En mi caso entrenaba únicamente fuerza e hipertrofia (volumen muscular) en mis hombros cuando sólo iba al gimnasio, pero claro, en el hecho de buscar poder hacer el pino, vi que la poca movilidad de hombros que tenía me limitaba mucho. Desde entonces empecé a estirar y hacer ejercicios de movilidad para los hombros a menudo para poder conseguir un pino recto de gimnasta. Una motivación que no tenía en el gimnasio porque «sólo» buscaba la estética. Ahora también, pero combinada con funcionalidad.
 
 ### Frecuencia, volumen e intensidad
 
@@ -66,21 +49,21 @@ La frecuencia, volumen e intensidad siempre tienen que ir en concordancia. En el
 - Si tengo un día de entreno en la rutina que tiene que ser más intenso, pues hará flexiones de pino o alguna variante que me haga hacer **menos de 6 repeticiones**.
 - Si en cambio hay un día más de hipertrofia, en vez de ese tipo de flexión, haré la versión en pica que me hará hacer **de 8 a 12 repeticiones**.
 
-Lo que quiero decir con esto, es que aunque estemos hablando de calistenia: [los pilares y básicos para ganar músculo con un plan](https://pau.ninja/entrenamiento-ganar-masa-muscular/) seguirán siendo **exactamente los mismos** que si los hiciera en el gimnasio.
+Lo que quiero decir con esto, es que aunque estemos hablando de calistenia: [los pilares y básicos para ganar músculo con un plan](./entrenamiento-ganar-masa-muscular) seguirán siendo **exactamente los mismos** que si los hiciera en el gimnasio.
 
 Por esto sigo los típicos esquemas de **2, 3 o 4 series** por ejercicio, a un rango de 1 a 12 repeticiones según el volumen o intensidad por el objetivo que tenga en ese entrenamiento concreto.
 
 ### Material para entrenar hombros
 
-Y tiene gracia porque toda esa intensidad para trabajar la podemos tener sólo con el cuerpo entero. Eso sí, lo que recomendaría tener al menos son [unas anillas de gimnasia](https://pau.ninja/mejores-anillas-gimnasia/) para hacer calistenia y lógicamente un lugar donde colgarlas.
+Y tiene gracia porque toda esa intensidad para trabajar la podemos tener sólo con el cuerpo entero. Eso sí, lo que recomendaría tener al menos son [unas anillas de gimnasia](./mejores-anillas-gimnasia) para hacer calistenia y lógicamente un lugar donde colgarlas.
 
 En el parque de calistenia mismo se pueden poner en unas dominadas, o si eres un adinerado puedes poner en tu jardín una estructura de barra de dominadas, o si tienes unos padres enrollados puedes pedirles si puedes hacer unos agujeros y soportes en el techo para colgarlas.
 
-![aguantando en anillas parque](https://pau.ninja/wp-content/uploads/2022/05/aguantando-en-anillas-parque.jpeg)
+![aguantando en anillas parque](./wp-content/uploads/2022/05aguantando-en-anillas-parque.jpeg)
 
 Las anillas son el objeto más versátil que existe en este mundo, y por menos de 50€ podrás usarlas en los entrenos de todos los músculos.
 
-Si además eres capaz de hacer flexiones de pino en pared y quieres ser algo más efectivo, también recomendaría unas *paralettes* de 30 cm y hasta un chaleco de lastre si eres un dios vikingo fuertote.
+Si además eres capaz de hacer flexiones de pino en pared y quieres ser algo más efectivo, también recomendaría unas _paralettes_ de 30 cm y hasta un chaleco de lastre si eres un dios vikingo fuertote.
 
 ## Los mejores ejercicios de hombro en calistenia
 
@@ -92,7 +75,7 @@ Algunos trabajan muchos otros músculos, lo que no tiene porque estar mal, pero 
 
 Las flexiones de pino tiene que ser una incorporación sí o sí en nuestra rutina de calistenia cuando hagamos hombro o empuje (_push_). Es cremita en rama.
 
-![flexiones pino](https://pau.ninja/wp-content/uploads/2022/05/flexiones-pino.jpg)
+![flexiones pino](./wp-content/uploads/2022/05flexiones-pino.jpg)
 
 Estamos hablando de flexiones de pino **en pared**, no sin soporte manteniendo el equilibrio. Si fuéramos capaces de hacer el pino tal cual, sin soporte, lo que sucedería es que no sería tanto «trabajar el hombro» como tal, sino que hay mucho más balance y coordinación que se utiliza en la técnica que no fuerza y se involucran otros músculos.
 
@@ -106,7 +89,7 @@ Por eso, una mejor idea es hacer la flexión de pino en pared **un poco más ale
 
 Una posición que siempre me ha hecho mucho respeto, pero como estoy bastante alejado me da mucho menos miedo que no cuando tengo que practicar el pino y estar totalmente recto en pared.
 
-![flexiones reves](https://pau.ninja/wp-content/uploads/2022/05/flexiones-reves.jpg)
+![flexiones reves](./wp-content/uploads/2022/05flexiones-reves.jpg)
 
 Lo que pasa es que claro, hacerlo de cara a la pared se vuelve un reto más grande porque cuestan más aunque es lo más efectivo que hay para entrenar los hombros en calistenia. Si te da miedo y no hay problemas en hacerlo de espaldas de la pared, también lo podemos hacer siempre y cuando
 
@@ -157,15 +140,15 @@ Cuando hagamos este tipos de flexiones bien, sólo recordar igualmente que aunqu
 
 Durante todas estas progresiones, queremos mantener las **repeticiones por debajo de 6** porque es un ejercicio de fuerza para poder progresar.
 
-Cuando ya podemos hacer flexiones de pino en pared al completo, pues buscaremos unas 10-12 repeticiones y aquí, en vez de ir incrementando repeticiones usaremos un soporte que nos de más recorrido, como unas *paralettes*.
+Cuando ya podemos hacer flexiones de pino en pared al completo, pues buscaremos unas 10-12 repeticiones y aquí, en vez de ir incrementando repeticiones usaremos un soporte que nos de más recorrido, como unas _paralettes_.
 
 ¿Y si no podemos hacer ni una flexión en pared o nos salen aún muy pocas en la progresión más fácil?
 
 ### Flexiones en pica
 
-Tengo una guía y explicación entera de [cómo hacer flexiones en pica](https://pau.ninja/flexiones-en-pica/) aquí.
+Tengo una guía y explicación entera de [cómo hacer flexiones en pica](./flexiones-en-pica) aquí.
 
-![flexion pica](https://pau.ninja/wp-content/uploads/2022/05/flexion-pica.jpg)
+![flexion pica](./wp-content/uploads/2022/05flexion-pica.jpg)
 
 Sin dejar de ser súper efectivo, tenemos las flexiones en pica que serían un pasito atrás (María) antes de hacer flexiones de pino. Que vendría a ser como hacer flexiones de pino en pared, con la diferencia que en vez de estar apoyados en la pared haciendo el pino, estamos con los pies en el suelo intentando simular que nos vamos a poner de pie.
 
@@ -177,7 +160,7 @@ El nivel fácil sería con las piernas rectas y pies en el suelo, pero a medida 
 
 Las flexiones en plancha son básicamente ponerse en las barras paralelas, subir las rodillas hasta el pecho o donde podamos, y entonces inclinarnos hacia adelante. Como si hiciéramos flexiones en las barras pero con el tren inferior «plegado».
 
-![plancha en paralelas](https://pau.ninja/wp-content/uploads/2022/05/plancha-en-paralelas.jpg)
+![plancha en paralelas](./wp-content/uploads/2022/05plancha-en-paralelas.jpg)
 
 Claro que es un ejercicio que requiere más balance y técnica, especialmente si avanzamos a la progresión avanzada que sería hacer una plancha con todo el cuerpo y las piernas bien estiradas y abiertas.
 
@@ -197,9 +180,9 @@ Realmente es la versión de calistenia de las elevaciones de mancuerna hacia ade
 
 ### Fondos para hombros
 
-Los [fondos en paralelas para hombros](https://pau.ninja/fondos-en-paralelas/#Para_hombros) son básicamente aguantarnos en barras paralelas, y dejarnos hundir controladamente en las barras hasta abajo. Como esta versión es para hombros, lo que hacemos es bajar hasta la cocina. hasta que los hombros están a la altura de las barras.
+Los [fondos en paralelas para hombros](./fondos-en-paralelas#Para_hombros) son básicamente aguantarnos en barras paralelas, y dejarnos hundir controladamente en las barras hasta abajo. Como esta versión es para hombros, lo que hacemos es bajar hasta la cocina. hasta que los hombros están a la altura de las barras.
 
-![fondos-pecho](https://pau.ninja/wp-content/uploads/2022/05/fondos-pecho.jpg)
+![fondos-pecho](./wp-content/uploads/2022/05fondos-pecho.jpg)
 
 El truco aquí es que a parte de inclinarnos hacia adelante, aunque se nos incline, el cuerpo se tiene que mantener recto en todo momento.
 
@@ -211,17 +194,17 @@ Después tenemos unos de los pocos ejercicios de calistenia que trabajan la part
 
 Es básicamente ponernos al lado de la pared, con el brazo flexionado apoyado en la pared y apretar para hacer mover nuestro cuerpo.
 
-![elevaciones laterales](https://pau.ninja/wp-content/uploads/2022/05/elevaciones-laterales.jpg)
+![elevaciones laterales](./wp-content/uploads/2022/05elevaciones-laterales.jpg)
 
 Es el equivalente a las elevaciones laterales que haríamos en el gimnasio con las mancuernas (poniéndonos de pie con mancuernas de poco peso, manteniendo los brazos rectos y elevándolos al lado como si quisiéramos empezar a volar).
 
-Pero si os soy sincero preferiría tener unas mancuernas o *kettlebells* de no mucho peso porque con este ejercicio cuesta adaptarlo y encontrar la intensidad correcta con una buena curva de progresión. O sea que quizás cerca de la pared puedes hacer 20 pero quizás te mueves un poco y no te sale ni una.
+Pero si os soy sincero preferiría tener unas mancuernas o _kettlebells_ de no mucho peso porque con este ejercicio cuesta adaptarlo y encontrar la intensidad correcta con una buena curva de progresión. O sea que quizás cerca de la pared puedes hacer 20 pero quizás te mueves un poco y no te sale ni una.
 
 ### Remo de hombro posterior
 
 Ahora bien, todo los ejercicios hasta ahora han sido ejercicios de la parte delantera y media del deltoide. Si sólo hiciéramos esto terminaríamos como un buen croissant, que es lo que sucede a los _mach0tes_ del gimnasio: mucha banca, mucho pecho, pero… **poco hombro posterior**.
 
-![remo](https://pau.ninja/wp-content/uploads/2022/05/remo.jpg)
+![remo](./wp-content/uploads/2022/05remo.jpg)
 
 Vamos a incorporar un par de ejercicios para la parte del deltoide que muchos confunden con la espalda. Bueno, de hecho si forma parte de la espalda, pero el músculo siguen siendo los hombros y esta zona queda más olvidada que cuando tu ex te bloquea en las redes sociales.
 
@@ -235,7 +218,7 @@ Lo más importante para que sea un remo de deltoide y no de espalda, es la posic
 
 Una versión más sencilla serían las aperturas de hombro con anillas. ¿Sabéis el ejercicio de pecho que es básicamente abrir los brazos con un poquito de flexión de codo como si fueras a abrazar a tu madre? pues es lo mismo, pero al revés.
 
-![anillas hombros](https://pau.ninja/wp-content/uploads/2022/05/anillas-hombros.jpg)
+![anillas hombros](./wp-content/uploads/2022/05anillas-hombros.jpg)
 
 Necesitamos sí o sí unas anillas. Nos pondremos casi de pie, un poquito inclinados. A más inclinados, más dificultad, o sea que si no lo habéis hecho nunca, poneros casi de pie, coged las anillas, y os dejáis caer un poquito hacia atrás manteniendo el tronco, el cuerpo totalmente recto.
 
@@ -250,11 +233,3 @@ Son ejercicios que tocan los [romboides](https://www.ugr.es/~dlcruz/musculos/mus
 ### En casa
 
 ### Con anillas
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Thomas, Ewan & Bianco, Antonino & Mancuso, Esamuela & Patti, Antonino & Tabacchi, Garden & Paoli, Antonio & Messina, Giuseppe & Palma, Antonio. (2017). The effects of a calisthenics training intervention on posture, strength and body composition. Isokinetics and Exercise Science. 25. 1-8. 10.3233/IES-170001.

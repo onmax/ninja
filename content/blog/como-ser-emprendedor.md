@@ -1,16 +1,21 @@
 ---
-title: "Apaláncate: la clave del éxito emprendedor (cómo ser emprendedor)"
+title: "Apaláncate: la clave del éxito emprendedor"
+url: https://pau.ninja/como-ser-emprendedor
+slug: como-ser-emprendedor
+categories: 
+- slug: negocios
+    label: Negocios
 image: haciendo-dinero-online-en-el-salon.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/02/haciendo-dinero-online-en-el-salon.jpeg
 published: 2022-02-26T14:00:02+00:00
 modified: 2023-09-21T05:02:26+00:00
+scrappedAt: 2024-10-14T09:20:51.797Z
 audioLink: https://www.ivoox.com/_md_83438303_wp_1.mp3
-slug: como-ser-emprendedor
+bibliography: []
 ---
+[https://www.ivoox.com/\_md\_83438303\_wp\_1.mp3](https://www.ivoox.com/_md_83438303_wp_1.mp3)
 
-[https://www.ivoox.com/\_md_83438303_wp_1.mp3](https://www.ivoox.com/_md_83438303_wp_1.mp3)
-
-Más que un emprendedor siempre me había considerado un _wantrepreneur_. Un emprendedor *wanna-be*. Que quieres serlo, que tienes el gusanillo, que lo piensas constantemente, que tienes mil ideas… pero **nunca tomas acción**.
+Más que un emprendedor siempre me había considerado un _wantrepreneur_. Un emprendedor _wanna-be_. Que quieres serlo, que tienes el gusanillo, que lo piensas constantemente, que tienes mil ideas… pero **nunca tomas acción**.
 
 Esto cambió en 2014 porque fue, no sólo cuando empecé a generar dinero online, sino a seguir una estrategia. Me pregunto si tendrá algo que ver \[ironía\].
 
@@ -20,39 +25,11 @@ Para ese entonces llevaba 6 años trabajando en un almacén de Decathlon mientra
 - Nadie quiere que hagas mucho dinero y te hagas rico… excepto tú.
 - Nunca llegas a un destino, a una meta final. A medida que vas cumpliendo objetivos se van generando de nuevos. Lo difícil es no ponerse como objetivo los que son vanidosos los cuáles no llevan a nada que te importe. Tienen que ser objetivos transcendentes para ti a nivel personal.
 - A medida que avanzas, vas entrando a formar parte de clubs cada vez más exclusivos y con menos miembros. No me refiero a que te unas proactivamente, sino que llegas a tener contacto con personas top con muchas más facilidad y eso potencia aún más tus emprendimientos.
-- Los [ingresos de negocios pasivos](https://pau.ninja/ingresos-pasivos/) están sobrevalorados. Claro que buscamos tiempo, pero más que tiempo libre, quien haya conseguido cierto éxito en sus negocios se da cuenta que no está trabajando para no trabajar, está trabajando para **tener opciones**.
+- Los [ingresos de negocios pasivos](./ingresos-pasivos) están sobrevalorados. Claro que buscamos tiempo, pero más que tiempo libre, quien haya conseguido cierto éxito en sus negocios se da cuenta que no está trabajando para no trabajar, está trabajando para **tener opciones**.
 
 Esto es el emprendimiento: opciones. La opción de poder elegir en qué horario trabajar, en qué proyectos trabajar, con quien trabajar…
 
 Lo que pasa es que llegar a tener el mayor número de opciones tiene un precio. Un precio bastante alto llamado «riesgo».
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es ser un emprendedor](#Que_es_ser_un_emprendedor 'Qué es ser un emprendedor')
-  - [Quiero ser emprendedor](#Quiero_ser_emprendedor 'Quiero ser emprendedor')
-  - [La clave del éxito emprendedor](#La_clave_del_exito_emprendedor 'La clave del éxito emprendedor')
-- [Pasos para ser emprendedor de éxito](#Pasos_para_ser_emprendedor_de_exito 'Pasos para ser emprendedor de éxito')
-  - [Ser el mejor en un sector](#Ser_el_mejor_en_un_sector 'Ser el mejor en un sector')
-  - [Entender el nicho](#Entender_el_nicho 'Entender el nicho')
-  - [Solucionar un problema](#Solucionar_un_problema 'Solucionar un problema')
-  - [Encontrar una oportunidad](#Encontrar_una_oportunidad 'Encontrar una oportunidad')
-  - [Dedicarle tiempo](#Dedicarle_tiempo 'Dedicarle tiempo')
-  - [Tener paciencia](#Tener_paciencia 'Tener paciencia')
-  - [Revaluar las decisiones](#Revaluar_las_decisiones 'Revaluar las decisiones')
-  - [Aprender de las lecciones correctas](#Aprender_de_las_lecciones_correctas 'Aprender de las lecciones correctas')
-- [Características del emprendedor](#Caracteristicas_del_emprendedor 'Características del emprendedor')
-  - [Posee creencias](#Posee_creencias 'Posee creencias')
-  - [Su identidad fluye](#Su_identidad_fluye 'Su identidad fluye')
-  - [Tiene habilidades específicas](#Tiene_habilidades_especificas 'Tiene habilidades específicas')
-- [Las aptitudes de un emprendedor](#Las_aptitudes_de_un_emprendedor 'Las aptitudes de un emprendedor')
-  - [Aversión al riesgo](#Aversion_al_riesgo 'Aversión al riesgo')
-  - [Pensamiento a largo plazo](#Pensamiento_a_largo_plazo 'Pensamiento a largo plazo')
-  - [Comportamiento moral](#Comportamiento_moral 'Comportamiento moral')
-- [Consejos para emprendedores](#Consejos_para_emprendedores 'Consejos para emprendedores')
-- [Habilidades del emprendedor](#Habilidades_del_emprendedor 'Habilidades del emprendedor')
-- [Cualidades de un emprendedor](#Cualidades_de_un_emprendedor 'Cualidades de un emprendedor')
 
 ## Qué es ser un emprendedor
 
@@ -159,7 +136,7 @@ No necesitas nada nuevo. **No necesitas una idea innovadora**. No necesitas ser
 
 Con nicho me refiero a los clientes potencialmente interesados. Para que se vea claramente, pensad en las páginas nicho.
 
-Las páginas nichos no son otra cosa que blogs de una temática específica, la llenamos de contenido y nuestro trabajo es [posicionarlo en Google para llevar tráfico](https://pau.ninja/posicionar-un-blog/) a la página. Atraer usuarios a los que después se les pueda vender un servicio o producto.
+Las páginas nichos no son otra cosa que blogs de una temática específica, la llenamos de contenido y nuestro trabajo es [posicionarlo en Google para llevar tráfico](./posicionar-un-blog) a la página. Atraer usuarios a los que después se les pueda vender un servicio o producto.
 
 Para que Google te quiera y te ponga en el Top 1, entre otros factores el que sería el más importante sería el contenido que se crea.
 
@@ -173,7 +150,7 @@ Alguien con sangre emprendedora puede creer que tiene la solución a un problema
 
 Es similar a los que venden humo con sus curso.
 
-![cómic cursos](https://pau.ninja/wp-content/uploads/2021/10/comic-cursos.png)
+![cómic cursos](./wp-content/uploads/2021/10comic-cursos.png)
 
 Personas que han hecho pasta vendiendo cursos de cómo vender pasta, así que antes que nada… **vívelo**. Explora ese sector, ensúciate las manos. Durante años si hace falta.
 
@@ -185,7 +162,7 @@ Los edificios no se pueden construir sin fundamentos del mismo modo que la pirá
 
 No escuches los consejos de alguien que te dice como tienes que jugar, si esa persona siempre ha estado mirando como los demás juegan y nunca se ha ensuciado las manos.
 
-Es como leer libros sobre _storytelling_ sin antes haber intentado explicar historias. No. Intenta explicar historias primero, y después lee y haz cursos sobre *storytelling*, porque entonces cobrarán sentido. Sabrás de lo que te están hablando.
+Es como leer libros sobre _storytelling_ sin antes haber intentado explicar historias. No. Intenta explicar historias primero, y después lee y haz cursos sobre _storytelling_, porque entonces cobrarán sentido. Sabrás de lo que te están hablando.
 
 ### Solucionar un problema
 
@@ -208,13 +185,13 @@ Las decisiones estratégicas que podamos hacer son directamente proporcionales a
 
 Veréis, me leí la biografía de Stephen Schwarzman que es quien fundo Blackstone y para mí, este libro fue como una bofetada celestial.
 
-[![What It Takes: Lessons in the Pursuit of Excellence](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQlFuRndNbmxTTWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDAzNQ=)](https://www.amazon.es/dp/1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'What It Takes: Lessons in the Pursuit of Excellence')
+[![What It Takes: Lessons in the Pursuit of Excellence](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQlFuRndNbmxTTWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDYyNA=)](https://www.amazon.es/dp1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "What It Takes: Lessons in the Pursuit of Excellence")
 
-[What It Takes: Lessons in the Pursuit of Excellence](https://www.amazon.es/dp/1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'What It Takes: Lessons in the Pursuit of Excellence')
+[What It Takes: Lessons in the Pursuit of Excellence](https://www.amazon.es/dp/1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "What It Takes: Lessons in the Pursuit of Excellence")
 
 31,99 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 El bueno de Stephen comentaba que es más difícil construir una negocio pequeño que uno grande porque el talento, los profesionales con talento que tienes que atraer, pues prefieren oportunidades que ya son grandes. Ya han escalado.
 
@@ -241,7 +218,7 @@ Las fortunas que han escalado ha sido porque han estado en uno de los puntos de 
 
 Jeff Bezos, Elon Musk, Bill Gates… todos estos han usado trabajadores, han usado capital, han usado código y automatización, y han usado la creación de contenido. Todo junto. Es como si Gotenks (que ya es una fusión) se fusiona con Vegetto.
 
-![pirámide de apalancamiento](https://pau.ninja/wp-content/uploads/2022/02/piramide-apalancamiento.jpeg)
+![pirámide de apalancamiento](./wp-content/uploads/2022/02piramide-apalancamiento.jpeg)
 
 De ahí sale un monstruo que se lo peta a todo. Por ejemplo:
 
@@ -255,17 +232,17 @@ Es decir, que como más escalamos en esta pirámide, más ceros ponemos detrás 
 
 Pero hay que ponerle horas. Meterle volumen.
 
-Puedes ir al gimnasio y entrenar la forma la sentadilla para que la sentadilla te salga perfecta. *Ass To The Grass*. Mejor que nadie, pero si no le metes la intensidad y el volumen que esa sentadilla perfecta se merece, tus piernas no crecerán.
+Puedes ir al gimnasio y entrenar la forma la sentadilla para que la sentadilla te salga perfecta. _Ass To The Grass_. Mejor que nadie, pero si no le metes la intensidad y el volumen que esa sentadilla perfecta se merece, tus piernas no crecerán.
 
 Pues del mismo modo que la única manera de volverte un guitarrista de la h0stia es ensayando 8 horas al día durante 20 años. No hay más.
 
 Visto desde fuera parecerá un sacrilegio, pero precisamente los que despuntan son los que se **enamoran de las partes aburridas**.
 
-![cómic podcast](https://pau.ninja/wp-content/uploads/2021/02/comic-podcast.png)
+![cómic podcast](./wp-content/uploads/2021/02comic-podcast.png)
 
 Cuando preparo guiones del podcast, visto desde fuera a la mayoría les parecerá que he vuelto al instituto, porque escribir cada put0 día por la mañana no les encaja. Es como tener deberes toda la vida.
 
-Pero me encanta ese entorno. El café, la cafetería, el portátil, el foco, aprender un montón mientras busco información, el sonido de las teclas picando, la música *lofi* de Spotify…
+Pero me encanta ese entorno. El café, la cafetería, el portátil, el foco, aprender un montón mientras busco información, el sonido de las teclas picando, la música _lofi_ de Spotify…
 
 Ha sido enamorarme de estas partes que los demás consideran aburridas que me ha hecho hacer más de 300 episodios sin quemarme.
 
@@ -277,7 +254,7 @@ Todos conocemos al empollón de la clase, del que los padres, compañeros y maes
 
 Claro que tiene que ser una paciencia bien dirigida. Aplicarla cuando se tiene que aplicar.
 
-![persona siendo paciente](https://pau.ninja/wp-content/uploads/2022/02/persona-siendo-paciente.jpeg)
+![persona siendo paciente](./wp-content/uploads/2022/02persona-siendo-paciente.jpeg)
 
 Warren Buffet lo definió muy bien en una cita cuando explicaba la historia de un amigo currante que tenía al colegio. Un tipo que terminó en el negocio del hierro mientras que él, fundó Berkshire Hathaway moviendo miles de millones en inversiones. El bueno de Buffet nos dejo con su cita:
 
@@ -317,7 +294,7 @@ Estás nervioso, no sabes muy bien lo que estás haciendo, y por cosas de la vid
 
 Hay personas que dicen «¡ahhh! las tías son unas cabronas, no vuelvo a salir nunca más con ninguna porque todas te rompen el corazón».
 
-![cómic chico entra a chica](https://pau.ninja/wp-content/uploads/2022/02/comic-chico-entra-a-chica.png)
+![cómic chico entra a chica](./wp-content/uploads/2022/02comic-chico-entra-a-chica.png)
 
 A ver por el amor de Dios. Que te haya salido mal 1 vez, en 1 sector o en 1 producto, no quiere decir que eso específico sea una mi3rda. Lo que sí lo es, es tu interpretación de los hechos.
 
@@ -347,7 +324,7 @@ Pues imaginaros una escalera en la que uno de los palos de 2 metros es una creen
 
 Si nos falta cualquiera de los lados, de los dos palos que forman la escalera, si alguno no está… no importa como de bien dominemos los otros componentes porque estaremos limitados a los peldaños más bajos.
 
-![escalera de negocio](https://pau.ninja/wp-content/uploads/2022/02/escalera-de-negocio.jpeg)
+![escalera de negocio](./wp-content/uploads/2022/02escalera-de-negocio.jpeg)
 
 En 2017 tenía negocios online de los cuáles a día de hoy sólo llevo la mitad (incluyendo las páginas nicho como uno de estos negocios). Y me encontré con que no podía escalarlo.
 
@@ -482,3 +459,93 @@ Es decir, tenemos que crear argumentos, **no afirmaciones**.
 - **Resiliencia:** a lo que hemos dicho antes de tener que empaparte de un sector, el emprendedor por si mismo tiene resiliencia porque está acostumbrado a comer _mi3rda_.
 - **Perseverancia:** si la resiliencia es poder superar problemas y situaciones difíciles, la constancia es la manera de no dejarlo a pesar de lo que pase y es igual de importante. A veces con una fe demasiado ciega, por lo que nos venden por internet con esas citas motivaciones o animes como Black Clover.
 - **Paciencia:** todo el mundo tiene prisa y se terminan saltando montones de pasos, como el de no entender el sector.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en tiktok](./wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Negocios](./negocios)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/como-ser-emprendedor/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14179,"title":"8%20pasos%20%2B%203%20claves%20de%20%C3%89XITO%20para%20ser%20buen%20emprendedor","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/02\\/haciendo-dinero-online-en-el-salon.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,24 +1,31 @@
 ---
-title: "Apego seguro o cómo transformar tu cariño ansioso y evitativo"
+title: "Apego seguro"
+url: https://pau.ninja/apego-seguro-en-adultos
+slug: apego-seguro-en-adultos
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: relaciones-de-pareja
+    label: Relaciones de pareja
 image: pareja-con-apego-seguro.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/11/pareja-con-apego-seguro.jpeg
 published: 2023-11-25T07:37:51+00:00
 modified: 2024-04-28T11:27:39+00:00
+scrappedAt: 2024-10-14T09:19:45.781Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/80539696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-28%2F361441253-44100-2-0159690880ae1.mp3
-slug: apego-seguro-en-adultos
+bibliography: ["Carr D, Freedman VA, Cornman JC, Schwarz N. Happy Marriage, Happy Life? Marital Quality and Subjective Well-Being in Later Life. J Marriage Fam. 2014 Oct 1;76(5):930-948. doi: 10.1111/jomf.12133. PMID: 25221351; PMCID: PMC4158846.","Waldinger RJ, Schulz MS. What’s love got to do with it? Social functioning, perceived health, and daily happiness in married octogenarians. Psychol Aging. 2010 Jun;25(2):422-31. doi: 10.1037/a0019087. PMID: 20545426; PMCID: PMC2896234.","Szabó C, Altmayer A, Lien L, Poot F, Gieler U, Tomas-Aragones L, Kupfer J, Jemec GBE, Misery L, Linder MD, Sampogna F, van Middendorp H, Halvorsen JA, Balieva F, Szepietowski JC, Romanov D, Marron SE, Altunay IK, Finlay AY, Salek SS, Dalgard F. Attachment Styles of Dermatological Patients in Europe: A Multi-centre Study in 13 Countries. Acta Derm Venereol. 2017 Jul 6;97(7):813-818. doi: 10.2340/00015555-2619. PMID: 28119999.","Kitayama S, Markus HR, Matsumoto H, Norasakkunkit V. Individual and collective processes in the construction of the self: self-enhancement in the United States and self-criticism in Japan. J Pers Soc Psychol. 1997 Jun;72(6):1245-67. doi: 10.1037//0022-3514.72.6.1245. PMID: 9177018.","Davila J, Burge D, Hammen C. Why does attachment style change? J Pers Soc Psychol. 1997 Oct;73(4):826-38. doi: 10.1037//0022-3514.73.4.826. PMID: 9325595.","“Can You Cultivate a More Secure Attachment Style?” 2017. Greater Good.","“A Brief Overview of Adult Attachment Theory and Research | R. Chris Fraley.” 2018. Illinois.edu.","Levine, A., & Heller, R. (2011). Attached: The new science of adult attachment and how it can help you find–and keep–love. TarcherPerigee.","Mcleod, S. (2023, June 4). Attachment theory: Bowlby and Ainsworth’s theory explained. Simply Psychology.","Rook K. S. (2014). The health effects of negative social exchanges in later life. Generations, 38, 15–23."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/80539696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-28%2F361441253-44100-2-0159690880ae1.mp3](https://anchor.fm/s/98566448/podcast/play/80539696/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-28%2F361441253-44100-2-0159690880ae1.mp3)
 
-Cada uno de nosotros se puede encasillas en uno de [los tipos de apego adulto](https://pau.ninja/tipos-de-apego-adulto/): seguro, ansioso o evitativo (#544).
+Cada uno de nosotros se puede encasillas en uno de [los tipos de apego adulto](./tipos-de-apego-adulto): seguro, ansioso o evitativo (#544).
 
 Una teoría que explica cómo es la dinámica que tenemos en nuestras relaciones según la (in)seguridad que tenemos tanto con nosotros mismos como con los demás.
 
 Especialmente afectando a las relaciones románticas que es cuando las tendencias de apego salen en todo su esplendor.
 
-Y como no podía ser de otro modo, una vez conocemos esta teoría todos queremos trabajar hacia un *apego seguro*. Para reducir los dramas y los malestares emocionales que vienen de nuestras propias inseguridades.
+Y como no podía ser de otro modo, una vez conocemos esta teoría todos queremos trabajar hacia un _apego seguro_. Para reducir los dramas y los malestares emocionales que vienen de nuestras propias inseguridades.
 
-![tipos de apego en la pareja](https://pau.ninja/wp-content/uploads/2023/11/tipos-de-apego-en-la-pareja.jpeg)
+![tipos de apego en la pareja](./wp-content/uploads/2023/11tipos-de-apego-en-la-pareja.jpeg)
 
 A diferencia de los ansiosos o evitativos, siendo de apego seguro no se trata de ser independiente hasta el punto que para ellos la pareja no existe (así son los evasivos, emocionalmente), sino que seguirá buscando soporte, pero **el _seguro_ buscarán soporte emocional, no validación** emocional.
 
@@ -38,40 +45,11 @@ Veamos pues [cómo superar el apego ansioso](#Como_superar_el_apego_ansioso) par
 
 Para hacer lo mismo que hiciste con tu ex: _cazarnos en el acto_. Y a diferencia de ella, no actuar bajo ciertas tendencias psicológicas que sabemos que se pueden convertir en tóxicas.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el apego seguro](#Que_es_el_apego_seguro 'Qué es el apego seguro')
-  - [Características del apego seguro](#Caracteristicas_del_apego_seguro 'Características del apego seguro')
-  - [Ejemplos de apego seguro](#Ejemplos_de_apego_seguro 'Ejemplos de apego seguro')
-- [Cómo trabajar el apego en adultos](#Como_trabajar_el_apego_en_adultos 'Cómo trabajar el apego en adultos')
-- [Apego seguro en pareja](#Apego_seguro_en_pareja 'Apego seguro en pareja')
-- [Cómo superar el apego emocional](#Como_superar_el_apego_emocional 'Cómo superar el apego emocional')
-- [Cómo superar el apego ansioso](#Como_superar_el_apego_ansioso 'Cómo superar el apego ansioso')
-  - [Ser consciente del activador](#Ser_consciente_del_activador 'Ser consciente del activador')
-  - [Darse cuenta del comportamiento protestante](#Darse_cuenta_del_comportamiento_protestante 'Darse cuenta del comportamiento protestante')
-  - [Distraerse de emociones negativas](#Distraerse_de_emociones_negativas 'Distraerse de emociones negativas')
-  - [Redirigir el comportamiento a amigos](#Redirigir_el_comportamiento_a_amigos 'Redirigir el comportamiento a amigos')
-  - [Encontrar evidencia refutante](#Encontrar_evidencia_refutante 'Encontrar evidencia refutante')
-- [Cómo superar el apego evitativo](#Como_superar_el_apego_evitativo 'Cómo superar el apego evitativo')
-  - [Date cuenta de tus estrategias](#Date_cuenta_de_tus_estrategias 'Date cuenta de tus estrategias')
-  - [Ser muy claro sobre qué necesitas](#Ser_muy_claro_sobre_que_necesitas 'Ser muy claro sobre qué necesitas')
-  - [Sobrescribir las excusas más obvias](#Sobrescribir_las_excusas_mas_obvias 'Sobrescribir las excusas más obvias')
-  - [Buscar lo positivo en los demás](#Buscar_lo_positivo_en_los_demas 'Buscar lo positivo en los demás')
-  - [Autorregularse emocionalmente](#Autorregularse_emocionalmente 'Autorregularse emocionalmente')
-- [Cómo trabajar el apego seguro en adultos](#Como_trabajar_el_apego_seguro_en_adultos 'Cómo trabajar el apego seguro en adultos')
-  - [Etapa 1: inseguridad inconsciente](#Etapa_1_inseguridad_inconsciente 'Etapa 1: inseguridad inconsciente')
-  - [Etapa 2: inseguridad consciente](#Etapa_2_inseguridad_consciente 'Etapa 2: inseguridad consciente')
-  - [Etapa 3: seguridad consciente](#Etapa_3_seguridad_consciente 'Etapa 3: seguridad consciente')
-  - [Etapa 4: seguridad inconsciente](#Etapa_4_seguridad_inconsciente 'Etapa 4: seguridad inconsciente')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Qué es el apego seguro
 
 Las personas con apego seguro son empáticas a la vez que capaces de establecer límites personales. Son personas que se sienten seguras, satisfechas, no temen estar solas y son estables emocionalmente en sus relaciones.
 
-En adultos aquellos que tienen un estilo de apego seguro acostumbran a [tener relaciones de pareja sanas](https://pau.ninja/relacion-de-pareja-sana/) porque su apego emocional está basado en la autoestima, la comunicación y la confianza en la otra parte.
+En adultos aquellos que tienen un estilo de apego seguro acostumbran a [tener relaciones de pareja sanas](./relacion-de-pareja-sana) porque su apego emocional está basado en la autoestima, la comunicación y la confianza en la otra parte.
 
 ### Características del apego seguro
 
@@ -115,23 +93,23 @@ Especialmente en la pareja, que es donde parece que estamos menos dispuestos a t
 
 Simplemente porque nuestras relaciones son un _multiplicador_ para nuestra felicidad. Igual que lo puede ser el dinero.
 
-Según los estudios la decisión de estar románticamente con quien estás es una de las decisiones que más impacto tiene en nuestra felicidad y calidad de vida.[1](<javascript:void(0)>)Carr D, Freedman VA, Cornman JC, Schwarz N. Happy Marriage, Happy Life? Marital Quality and Subjective Well-Being in Later Life. J Marriage Fam. 2014 Oct 1;76(5):930-948. doi: 10.1111/jomf.12133. PMID: 25221351; PMCID: PMC4158846.
+Según los estudios la decisión de estar románticamente con quien estás es una de las decisiones que más impacto tiene en nuestra felicidad y calidad de vida.[ref-1](#ref-1){.ref}
 
-Pues claro. Si las relaciones están directamente relacionadas con nuestra longevidad y felicidad.[2](<javascript:void(0)>)Waldinger RJ, Schulz MS. What’s love got to do with it? Social functioning, perceived health, and daily happiness in married octogenarians. Psychol Aging. 2010 Jun;25(2):422-31. doi: 10.1037/a0019087. PMID: 20545426; PMCID: PMC2896234.
+Pues claro. Si las relaciones están directamente relacionadas con nuestra longevidad y felicidad.[ref-2](#ref-2){.ref}
 
 Y lógicamente tu pareja es la persona que verás más cada día en tu vida. Tiene todo el sentido del mundo que afecte tanto.
 
-Normal entonces que a los que nos interesa el desarrollo personal, una vertiente de este *crecimiento* sea trabajar proactivamente en el uno de los factores que más multiplicará nuestra felicidad.
+Normal entonces que a los que nos interesa el desarrollo personal, una vertiente de este _crecimiento_ sea trabajar proactivamente en el uno de los factores que más multiplicará nuestra felicidad.
 
-Mirad si es importante que en el fondo más del 40% de la población mostramos algún tipo de tendencia insegura en el apego hacia los demás.[3](<javascript:void(0)>)Szabó C, Altmayer A, Lien L, Poot F, Gieler U, Tomas-Aragones L, Kupfer J, Jemec GBE, Misery L, Linder MD, Sampogna F, van Middendorp H, Halvorsen JA, Balieva F, Szepietowski JC, Romanov D, Marron SE, Altunay IK, Finlay AY, Salek SS, Dalgard F. Attachment Styles of Dermatological Patients in Europe: A Multi-centre Study in 13 Countries. Acta Derm Venereol. 2017 Jul 6;97(7):813-818. doi: 10.2340/00015555-2619. PMID: 28119999.
+Mirad si es importante que en el fondo más del 40% de la población mostramos algún tipo de tendencia insegura en el apego hacia los demás.[ref-3](#ref-3){.ref}
 
 Las investigaciones demuestran que cuando las personas con apego ansioso o apego evitativo **activamente trabajan en ello**, en cambiar su estilo a un apego más seguro, aproximadamente un 25% van a conseguirlo (conseguirlo al 100%, no quiere decir que no mejores).
 
 Y los datos muestran como el entorno facilitará más o menos que lo consigamos.
 
-Por ejemplo los estudios veían como los japoneses lo tenían mucho más chungo para cambiar porque tienen más tendencia a un autocriticismo más extremo, en cambio en occidente nuestra tendencia tira más hacia al autodesarrollo.[4](<javascript:void(0)>)Kitayama S, Markus HR, Matsumoto H, Norasakkunkit V. Individual and collective processes in the construction of the self: self-enhancement in the United States and self-criticism in Japan. J Pers Soc Psychol. 1997 Jun;72(6):1245-67. doi: 10.1037//0022-3514.72.6.1245. PMID: 9177018.
+Por ejemplo los estudios veían como los japoneses lo tenían mucho más chungo para cambiar porque tienen más tendencia a un autocriticismo más extremo, en cambio en occidente nuestra tendencia tira más hacia al autodesarrollo.[ref-4](#ref-4){.ref}
 
-O sea que en el fondo en occidente el porcentaje de personas capaces de cambiar su estilo de apego es más grande, porque según los estudios longitudinales nuestra susceptibilidad al cambio dependerá de cuanto de estable sea ya nuestra relación interna.[5](<javascript:void(0)>)Davila J, Burge D, Hammen C. Why does attachment style change? J Pers Soc Psychol. 1997 Oct;73(4):826-38. doi: 10.1037//0022-3514.73.4.826. PMID: 9325595. Me refiero a que si tenemos un modelo mental débil, este será más fácil de cambiar que no si tenemos unas ideas preconcebidas que ya están muy arraigadas en nuestra cabeza. Como en el caso de la cultura japonesa, por ejemplo.
+O sea que en el fondo en occidente el porcentaje de personas capaces de cambiar su estilo de apego es más grande, porque según los estudios longitudinales nuestra susceptibilidad al cambio dependerá de cuanto de estable sea ya nuestra relación interna.[ref-5](#ref-5){.ref} Me refiero a que si tenemos un modelo mental débil, este será más fácil de cambiar que no si tenemos unas ideas preconcebidas que ya están muy arraigadas en nuestra cabeza. Como en el caso de la cultura japonesa, por ejemplo.
 
 Pero este entorno no es sólo cultural, claro. Con un ejemplo se ve más claramente.
 
@@ -145,33 +123,33 @@ En cambio si has tenido relaciones de cualquier tipo con personas tanto seguras,
 
 Durante años los psicólogos han estado investigando como reconfigurar los cerebros para que los estilos de apego sean más seguros.
 
-Los investigadores de la Universidad de Edimburgo confirmaron que sí se pueden cambiar los estilos de apego y las conductas que llevamos de serie.[6](<javascript:void(0)>)“Can You Cultivate a More Secure Attachment Style?” 2017. Greater Good.
+Los investigadores de la Universidad de Edimburgo confirmaron que sí se pueden cambiar los estilos de apego y las conductas que llevamos de serie.[ref-6](#ref-6){.ref}
 
 Al menos para aquellos que hagan ciertas prácticas intencionales que fomentan la intimidad y que reescriben apegos que llevamos arrastrando desde la infancia.
 
-En 2010 un paper de psicología de la Universidad de Illinois determinaba que los estilos de apego son incluso más flexibles de lo que previamente se había especulado y que de hecho, son las propias relaciones que lo potencian más o menos.[7](<javascript:void(0)>)“A Brief Overview of Adult Attachment Theory and Research | R. Chris Fraley.” 2018. Illinois.edu.
+En 2010 un paper de psicología de la Universidad de Illinois determinaba que los estilos de apego son incluso más flexibles de lo que previamente se había especulado y que de hecho, son las propias relaciones que lo potencian más o menos.[ref-7](#ref-7){.ref}
 
-Estamos hablando de que si eres una persona *evitativa*, puedes intensificar las tendencias ansiosas (el polo opuesto).
+Estamos hablando de que si eres una persona _evitativa_, puedes intensificar las tendencias ansiosas (el polo opuesto).
 
-Del mismo modo [si estás en una relación sana de pareja](https://pau.ninja/relacion-de-pareja-sana/) con alguien con un estilo de apego seguro, puede que no exhibas con ella tus tendencias de apego ansioso gracias a que tu pareja es de apego sano.
+Del mismo modo [si estás en una relación sana de pareja](./relacion-de-pareja-sana) con alguien con un estilo de apego seguro, puede que no exhibas con ella tus tendencias de apego ansioso gracias a que tu pareja es de apego sano.
 
 > De hecho el método más efectivo de cambiar nuestro apego a uno más seguro es tener relaciones románticas con alguien con apego seguro. El problema es que…
 
-Sí, el 50% de la población de apego seguro pero por la naturaleza de seguridad en uno mismo y los demás, significa que esta gente **ya está en relaciones… y se quedan en ellas**.[8](<javascript:void(0)>)Levine, A., & Heller, R. (2011). Attached: The new science of adult attachment and how it can help you find–and keep–love. TarcherPerigee.[9](<javascript:void(0)>)Mcleod, S. (2023, June 4). Attachment theory: Bowlby and Ainsworth’s theory explained. Simply Psychology.
+Sí, el 50% de la población de apego seguro pero por la naturaleza de seguridad en uno mismo y los demás, significa que esta gente **ya está en relaciones… y se quedan en ellas**.[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}
 
 Claro que tener la suerte te emparejarse con alguien que ya es de apego seguro ayudará, pero no es el único tipo de relación al que nos podemos apoyar.
 
 Tener amigos que te dan soporte, que son estables y bueno, en definitiva: no tóxicos, puede ayudar perfectamente a desarrollar tendencias de apego seguro.
 
-![estilos de apego adulto](https://pau.ninja/wp-content/uploads/2023/11/estilos-de-apego-adulto.jpeg)
+![estilos de apego adulto](./wp-content/uploads/2023/11estilos-de-apego-adulto.jpeg)
 
 Al fin y al cabo los estilos de apego son la manifestación de nuestro condicionamiento socioemocional en la juventud.
 
 Nuestras interacciones con los padres nos enseñaron a cómo pensar y actuar (de forma subconsciente, claro) en nuestras relaciones. Un conocimiento que continuamos usando en nuestra vida adulta.
 
-Una vez somos conscientes de ello, podemos superarlo. Podemos *mejorar* la inseguridad. Aunque también es verdad de que podemos manifestar estas percepciones subconscientes de distintas maneras y sin darnos cuenta cuando nos ponemos en entornos, en contextos distintos.
+Una vez somos conscientes de ello, podemos superarlo. Podemos _mejorar_ la inseguridad. Aunque también es verdad de que podemos manifestar estas percepciones subconscientes de distintas maneras y sin darnos cuenta cuando nos ponemos en entornos, en contextos distintos.
 
-Por eso acabamos de ver como tener la suerte de estar en una relación con alguien que tiene apego seguro *se contagia*.
+Por eso acabamos de ver como tener la suerte de estar en una relación con alguien que tiene apego seguro _se contagia_.
 
 Entonces si es este condicionamiento de la infancia nos vuelve más ansiosos, evitativo o seguros, tiene sentido que las interacciones de la vida adulta, si son lo suficiente largas o impactantes, también reescriban nuestro subconsciente. Experiencias de vida que sean igual de capaces de hacernos aprender tendencias ansiosas, evasivas o seguras.
 
@@ -186,7 +164,7 @@ Conocer el estilo de apego de esta forma, como algo que se puede modificar si se
 
 Debajo de todas las relaciones que tenemos, y sus únicas dinámicas hay montones de riqueza en forma de sabiduría para llegar a entender qué representa cada una ellas para nuestra mente consciente.
 
-De la misma forma que analizar nuestro propio estilo de apego nos ayuda a explorar *quien somos* y las creencias que nos hemos formado durante nuestra vida, analizar el apego de los demás también ayuda a potenciar estas tendencias y dinamizarlo más.
+De la misma forma que analizar nuestro propio estilo de apego nos ayuda a explorar _quien somos_ y las creencias que nos hemos formado durante nuestra vida, analizar el apego de los demás también ayuda a potenciar estas tendencias y dinamizarlo más.
 
 > En el fondo una relación no puede reforzar una creencia que no tienes.
 
@@ -196,7 +174,7 @@ La primera es esa creencia, pero la segunda es hora de reflexionar sobre si esa 
 
 ¿Está añadiendo valor en tu vida alguna de estas dos cosas?
 
-De todas formas, aunque exhibas distintos estilos de apego con distintas personas y relaciones, esto no significa que no tengamos un apego *base* más arriegado a nuestro ser que es el que llevamos arrastrando desde que somos pequeños.
+De todas formas, aunque exhibas distintos estilos de apego con distintas personas y relaciones, esto no significa que no tengamos un apego _base_ más arriegado a nuestro ser que es el que llevamos arrastrando desde que somos pequeños.
 
 > Nadie puede escapar la influencia de nuestra infancia.
 
@@ -250,7 +228,7 @@ Por ejemplo una persona con apego ansioso manda un mensaje a la persona con la q
 
 A nivel lógico y visto desde fuera todos sabemos que el hecho de que no nos respondan no tiene porque significar nada malo: estarán ocupados, haciendo otras cosas, sin batería en el móvil, lo han visto pero no pueden responder… lo que sea.
 
-Pero una persona con apego ansioso, a pesar de saber todo esto inmediatamente su cerebro subconsciente, como mecanismo de defensa, *apaga* la lógica y enciende emociones que nos ponen en el peor de los casos y a modo de espiral:
+Pero una persona con apego ansioso, a pesar de saber todo esto inmediatamente su cerebro subconsciente, como mecanismo de defensa, _apaga_ la lógica y enciende emociones que nos ponen en el peor de los casos y a modo de espiral:
 
 - No está interesada en mí
 - Ha conocido alguien más
@@ -259,15 +237,15 @@ Pero una persona con apego ansioso, a pesar de saber todo esto inmediatamente su
 
 La persona ansiosa empieza a crear excusas, a ponerse en el peor de los casos, de cómo esa persona les va a abandonar. Que en el fondo es el miedo más grande de un ansioso.
 
-Si eres una persona ansiosa, sólo por el hecho de estar *leyendo* esto, ya tienes mucho ganado porque ahora, cuando te encuentres a ti mismo entrando en esta espiral momentánea de patrones, ya sabrás _por qué_ lo estás haciendo.
+Si eres una persona ansiosa, sólo por el hecho de estar _leyendo_ esto, ya tienes mucho ganado porque ahora, cuando te encuentres a ti mismo entrando en esta espiral momentánea de patrones, ya sabrás _por qué_ lo estás haciendo.
 
 Cuando te encuentras ahí, lo único que tienes que hacer antes que nada es ser consciente de ello. Acepta que tienes todas estas excusas en la cabeza pero date cuenta que son excusas.
 
-Puedes incluso bromear contigo del rollo *ya lo estoy volviendo a hacer*…
+Puedes incluso bromear contigo del rollo _ya lo estoy volviendo a hacer_…
 
 ### Darse cuenta del comportamiento protestante
 
-Los ansiosos que no se dan cuenta de esto, inmediatamente reaccionan a estas excusas con lo que se conoce como *comportamiento de protesta*.
+Los ansiosos que no se dan cuenta de esto, inmediatamente reaccionan a estas excusas con lo que se conoce como _comportamiento de protesta_.
 
 Todos lo hemos vivido. O porqué nos lo han hecho, o porqué lo hemos hecho nosotros. Un comportamiento, una reacción a esta historia que nos hemos creado a la cabeza:
 
@@ -275,7 +253,7 @@ Todos lo hemos vivido. O porqué nos lo han hecho, o porqué lo hemos hecho noso
 - Eliminar tu mensaje mil veces para hacer otro
 - Enviar un audio de 10 minutos cabreados
 
-Lo que acostumbra a pasar después de este comportamiento de protesta es que el ansioso, después de reaccionar, decides *castigar* a la persona y *desaparece*.
+Lo que acostumbra a pasar después de este comportamiento de protesta es que el ansioso, después de reaccionar, decides _castigar_ a la persona y _desaparece_.
 
 Envía todos estos mensajes y… apaga el móvil.
 
@@ -287,7 +265,7 @@ Cuando eres consciente de estos comportamientos de apego ansioso que estás haci
 
 Al ser consciente de las excusas y de que estamos a punto de activar el comportamiento de protesta, tenemos que tener estrategias de distracción a manos.
 
-Por ejemplo ir a dar un paseo, o cosas que sea de fuera de las redes sociales en este caso. Para así *no estar esperando* a que nos respondan el mensaje de vuelta como en este ejemplo.
+Por ejemplo ir a dar un paseo, o cosas que sea de fuera de las redes sociales en este caso. Para así _no estar esperando_ a que nos respondan el mensaje de vuelta como en este ejemplo.
 
 De lo contrario el ansioso sentirá que son los minutos más largos de su vida: esperando que le devuelvan el mensaje.
 
@@ -301,7 +279,7 @@ Ahí el amigo, que está acostumbrado a meterte bofetones de verdad y tiene más
 
 O no.
 
-Quizás simplemente te hace de espejo con un poco de [validación emocional](https://pau.ninja/validacion-emocional/) y ya.
+Quizás simplemente te hace de espejo con un poco de [validación emocional](./validacion-emocional) y ya.
 
 La cuestión es que no has creado el drama con la pareja en ese momento, ha dejado espacio entre reaccionar y no hacerlo.
 
@@ -309,7 +287,7 @@ La cuestión es que no has creado el drama con la pareja en ese momento, ha deja
 
 Y otra forma es si eres muy consciente de que estás metiendo excusas y eso no tiene sentido, es encontrar evidencia que pueda refutar todas estas excusas.
 
-Es como si presentas las excusas en el tribunal que hay en tu cabeza a la que el juez te responde: *pues aquí tienes todas las razones por las que estas excusas son una fantasía tuya y no pueden ser verdad*.
+Es como si presentas las excusas en el tribunal que hay en tu cabeza a la que el juez te responde: _pues aquí tienes todas las razones por las que estas excusas son una fantasía tuya y no pueden ser verdad_.
 
 Si os acordáis del episodio #310 os hablaba del libro de Viktor Frank y «El hombre en busca de sentido». Todo el trabajo de estos psicólogos al fin y al cabo se enfocan en transmitir la idea de **crear más espacio entre un pensamiento y la acción** que tomamos para actuar en ese pensamiento.
 
@@ -321,13 +299,13 @@ El apego evitativo se basa en la confianza de uno mismo pero inseguridad hacia l
 
 El primer paso para pasar de evitativo a más seguro es entender como actuamos para poder detenerlo a tiempo.
 
-Primero hay un disparador, un *trigger*.
+Primero hay un disparador, un _trigger_.
 
 Por ejemplo te acuestas con alguien y cuando te levantas a la mañana siguiente esa persona sigue ahí que no se va y sólo puedes pensar en cómo hacerlo para que se vaya de ahí y te deje tranquilo.
 
 ### Date cuenta de tus estrategias
 
-Entonces empiezas a hacer algo llamado *estrategias de desactivación*. Como si fueras alguien que está desactivando una bomba.
+Entonces empiezas a hacer algo llamado _estrategias de desactivación_. Como si fueras alguien que está desactivando una bomba.
 
 Estas estrategias son pensamientos o sentimientos que te hacen empujar fuera de tu entorno a esa persona (emocionalmente hablando) para autoconvencerte de que la quieres fuera de tu vida, tipo:
 
@@ -362,13 +340,13 @@ Decirnos «c0ñ0 jefe, ya lo estoy volviendo a hacer».
 
 Tener esta conversación con nosotros mismos y entonces sobrescribir estas excusas con algo que tiene sentido.
 
-El primer paso para hacer esto es tener presente que todos, que la psicología humana, tiene un *sesgo de negatividad*.
+El primer paso para hacer esto es tener presente que todos, que la psicología humana, tiene un _sesgo de negatividad_.
 
 Aunque vivamos en un mundo moderno donde este sesgo nos hace más daño que bien, es un sesgo que hemos desarrollado para nuestra superviviencia.
 
 Del rollo que si en tu tribu había 20 personas y uno de ellos quería matarte en secreto, era muy importante saber cuál era el malo. No te ibas a poner a agradecer a los demás. No. Tu energía estaría centrada en lo malo para poder sobrevivir.
 
-Por esto en los estudios se ve como un mal matrimonio tiene mucho más impacto (negativo, lógico) que un buen matrimonio comparativamente.[10](<javascript:void(0)>)Rook K. S. (2014). The health effects of negative social exchanges in later life. Generations, 38, 15–23. Porque siempre tendremos este *sesgo de negatividad* que nos ayuda a sobrevivir en ese entorno.
+Por esto en los estudios se ve como un mal matrimonio tiene mucho más impacto (negativo, lógico) que un buen matrimonio comparativamente.[ref-10](#ref-10){.ref} Porque siempre tendremos este _sesgo de negatividad_ que nos ayuda a sobrevivir en ese entorno.
 
 ### Buscar lo positivo en los demás
 
@@ -382,7 +360,7 @@ Por ejemplo conozco el caso de una chica que se iba a otro país de visita, y el
 
 Le pasó una lista entera y la chica dijo «no volveré a quedar con él. Que desesperado».
 
-En realidad el tío estaba siendo un *buenazo*. El tipo de pavo que seguro que esa misma chica querría como marido, pero alguien con apego evitativo busca cualquier excusa para no acercarse emocionalmente.
+En realidad el tío estaba siendo un _buenazo_. El tipo de pavo que seguro que esa misma chica querría como marido, pero alguien con apego evitativo busca cualquier excusa para no acercarse emocionalmente.
 
 Entonces aquí, si por ejemplo la chica fuera de apego evitativo pero además fuera consciente de ello, puede autorregularse.
 
@@ -392,13 +370,13 @@ Cuando una persona con apego evitativo tiene uno de estos clics, entra en un est
 
 Es un estado en el que piensan que tienen que salir de ahí pitando lo más pronto posible.
 
-Una persona evitativa que no se está trabajando a ella misma lógicamente nunca va a asimilar qué lo que está haciendo es una estrategia evitativa pero alguien que sí es consciente de ello, hará falta que se *autorregule* cuando se de cuenta de lo que está haciendo (querer salir pitando de ahí) es puramente su mecanismo de defensa evitativa.
+Una persona evitativa que no se está trabajando a ella misma lógicamente nunca va a asimilar qué lo que está haciendo es una estrategia evitativa pero alguien que sí es consciente de ello, hará falta que se _autorregule_ cuando se de cuenta de lo que está haciendo (querer salir pitando de ahí) es puramente su mecanismo de defensa evitativa.
 
 Crear este espacio mental entre el pensamiento y la acción para que se pueda usar un poco de lógica entre medias.
 
 ## Cómo trabajar el apego seguro en adultos
 
-Realmente uno de los *hacks* más interesantes que os puedo decir, no importa si eres de apego evitativo o apego seguro es que:
+Realmente uno de los _hacks_ más interesantes que os puedo decir, no importa si eres de apego evitativo o apego seguro es que:
 
 > Una de las mejores maneras de trabajar el apego seguro en adultos es tener relaciones románticas con apego seguro.
 
@@ -414,7 +392,7 @@ Inmediatamente sabrás que estás saliendo con alguien con apego seguro y con su
 - No asumirá y te dirá directamente lo que quiere
 - Compartirá vulnerabilidades e inseguridades
 
-Cuando empieces a salir con alguien con apego seguro verás inmediatamente que todas las [técnicas para lanzarse a entrar a una chica](https://pau.ninja/como-entrarle-a-una-chica/) que te gusta (#252), funcionan increíble para la mayoría de mujeres del mercado… pero difícilmente lo harán con alguien con apego seguro.
+Cuando empieces a salir con alguien con apego seguro verás inmediatamente que todas las [técnicas para lanzarse a entrar a una chica](./como-entrarle-a-una-chica) que te gusta (#252), funcionan increíble para la mayoría de mujeres del mercado… pero difícilmente lo harán con alguien con apego seguro.
 
 ¿Por qué? Pues porqué la mayoría de mujeres que hay en el mercado de citas serán evitativas o ansiosas.
 
@@ -422,7 +400,7 @@ Cuando empieces a salir con alguien con apego seguro verás inmediatamente que t
 
 Pero que en cambio, estas estrategias **dejarán de funcionarte para las mujeres con apego seguro**. Que serán pocas, pero que paradójicamente son con las que te interesaría más estar.
 
-Al menos si estás cazando con [la idea de buscar una pareja](https://pau.ninja/que-buscar-en-una-pareja/)… y encontrarla.
+Al menos si estás cazando con [la idea de buscar una pareja](./que-buscar-en-una-pareja)… y encontrarla.
 
 Si vas por otros temas más instintivos, ya es otra historia.
 
@@ -486,54 +464,10 @@ Son estos resultados positivos que nos hacen empezar a crear confianza en nosotr
 
 ### Etapa 4: seguridad inconsciente
 
-Y finalmente en la etapa de la seguridad inconsciente es cuando el apego seguro se está volviendo una segunda naturaleza porque nos _cazamos_ a nosotros mismos antes que podamos *c4g4rla* y corregimos a tiempo la mayoría de veces.
+Y finalmente en la etapa de la seguridad inconsciente es cuando el apego seguro se está volviendo una segunda naturaleza porque nos _cazamos_ a nosotros mismos antes que podamos _c4g4rla_ y corregimos a tiempo la mayoría de veces.
 
 Es una etapa en la que nos cuidamos y pedimos ayuda cuando lo necesitamos.
 
-Un estado en el que podríamos describir como *balance emocional* pero que las circunstancias, relaciones y entornos de la vida nos empujarán fuera de este balance.
+Un estado en el que podríamos describir como _balance emocional_ pero que las circunstancias, relaciones y entornos de la vida nos empujarán fuera de este balance.
 
 Sin problema, porque nuestro calibre emocional o inteligencia emocional serán recursos ya asimilados que nos ayudarán a volver a estar equilibrados.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Carr D, Freedman VA, Cornman JC, Schwarz N. Happy Marriage, Happy Life? Marital Quality and Subjective Well-Being in Later Life. J Marriage Fam. 2014 Oct 1;76(5):930-948. doi: 10.1111/jomf.12133. PMID: 25221351; PMCID: PMC4158846.
-
-- 2
-
-  Waldinger RJ, Schulz MS. What’s love got to do with it? Social functioning, perceived health, and daily happiness in married octogenarians. Psychol Aging. 2010 Jun;25(2):422-31. doi: 10.1037/a0019087. PMID: 20545426; PMCID: PMC2896234.
-
-- 3
-
-  Szabó C, Altmayer A, Lien L, Poot F, Gieler U, Tomas-Aragones L, Kupfer J, Jemec GBE, Misery L, Linder MD, Sampogna F, van Middendorp H, Halvorsen JA, Balieva F, Szepietowski JC, Romanov D, Marron SE, Altunay IK, Finlay AY, Salek SS, Dalgard F. Attachment Styles of Dermatological Patients in Europe: A Multi-centre Study in 13 Countries. Acta Derm Venereol. 2017 Jul 6;97(7):813-818. doi: 10.2340/00015555-2619. PMID: 28119999.
-
-- 4
-
-  Kitayama S, Markus HR, Matsumoto H, Norasakkunkit V. Individual and collective processes in the construction of the self: self-enhancement in the United States and self-criticism in Japan. J Pers Soc Psychol. 1997 Jun;72(6):1245-67. doi: 10.1037//0022-3514.72.6.1245. PMID: 9177018.
-
-- 5
-
-  Davila J, Burge D, Hammen C. Why does attachment style change? J Pers Soc Psychol. 1997 Oct;73(4):826-38. doi: 10.1037//0022-3514.73.4.826. PMID: 9325595.
-
-- 6
-
-  “Can You Cultivate a More Secure Attachment Style?” 2017. Greater Good.
-
-- 7
-
-  “A Brief Overview of Adult Attachment Theory and Research | R. Chris Fraley.” 2018. Illinois.edu.
-
-- 8
-
-  Levine, A., & Heller, R. (2011). Attached: The new science of adult attachment and how it can help you find–and keep–love. TarcherPerigee.
-
-- 9
-
-  Mcleod, S. (2023, June 4). Attachment theory: Bowlby and Ainsworth’s theory explained. Simply Psychology.
-
-- 10
-
-  Rook K. S. (2014). The health effects of negative social exchanges in later life. Generations, 38, 15–23.

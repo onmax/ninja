@@ -1,13 +1,18 @@
 ---
-title: "Moreno en 3 días: toma el sol desnudo (ni crema ni cáncer) Trucos para ponerse moreno rápido"
+title: "Moreno en 3 días: toma el sol desnudo (ni crema ni cáncer)"
+url: https://pau.ninja/como-ponerse-moreno-rapidamente
+slug: como-ponerse-moreno-rapidamente
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-con-moreno-rapido.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/05/persona-con-moreno-rapido.jpeg
 published: 2022-05-30T10:08:44+00:00
 modified: 2023-09-25T14:13:38+00:00
+scrappedAt: 2024-10-14T09:20:38.726Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52965052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-3%2F54521fc3-22a8-740d-c9bf-fe0ecd43cda2.mp3
-slug: como-ponerse-moreno-rapidamente
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52965052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-3%2F54521fc3-22a8-740d-c9bf-fe0ecd43cda2.mp3](https://anchor.fm/s/98566448/podcast/play/52965052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-3%2F54521fc3-22a8-740d-c9bf-fe0ecd43cda2.mp3)
 
 Ponerse moreno es s3xy por las mismas razones que tener una buena mandíbula o estar fuerte: es un signo de salud y utilidad social.
@@ -28,24 +33,6 @@ Como el moreno es símbolo de _s3x appeal_ (hace 100.000 años, y hace 1 año, a
 Personalmente mi cuerpo podía tardar varias semanas en ponerse moreno, pero el año pasado **me puse moreno en tres días**… y encima en las playas de Tallinn, Estonia. Dónde no hacen precisamente 40 grados como en España.
 
 ¿Cómo lo hice en sólo tres días? apuesto a que nunca habéis escuchado este truco que os contaré hoy.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [El rol de la vitamina D para ponerse moreno](#El_rol_de_la_vitamina_D_para_ponerse_moreno 'El rol de la vitamina D para ponerse moreno')
-  - [Diferencia entre UVA y UVB](#Diferencia_entre_UVA_y_UVB 'Diferencia entre UVA y UVB')
-  - [Mejores horas para tomar el sol y ponerse moreno](#Mejores_horas_para_tomar_el_sol_y_ponerse_moreno 'Mejores horas para tomar el sol y ponerse moreno')
-- [Cómo ponerse moreno sin quemarse](#Como_ponerse_moreno_sin_quemarse 'Cómo ponerse moreno sin quemarse')
-- [Trucos para ponerse morena rápido](#Trucos_para_ponerse_morena_rapido 'Trucos para ponerse morena rápido')
-  - [Usar vitamina D líquida en la piel](#Usar_vitamina_D_liquida_en_la_piel 'Usar vitamina D líquida en la piel')
-  - [Tomar el sol de mayo a agosto](#Tomar_el_sol_de_mayo_a_agosto 'Tomar el sol de mayo a agosto')
-  - [Utilizar el índice de rayos UV](#Utilizar_el_indice_de_rayos_UV 'Utilizar el índice de rayos UV')
-  - [Seguir los principios del grounding](#Seguir_los_principios_del_grounding 'Seguir los principios del grounding')
-  - [Tomar el sol desnudo](#Tomar_el_sol_desnudo 'Tomar el sol desnudo')
-  - [No estar rodeado de radiaciones EMF](#No_estar_rodeado_de_radiaciones_EMF 'No estar rodeado de radiaciones EMF')
-- [Las vitaminas esenciales para ponerse moreno](#Las_vitaminas_esenciales_para_ponerse_moreno 'Las vitaminas esenciales para ponerse moreno')
-- [Alimentos para ponerse moreno](#Alimentos_para_ponerse_moreno 'Alimentos para ponerse moreno')
 
 ## El rol de la vitamina D para ponerse moreno
 
@@ -137,15 +124,15 @@ Lógicamente este año voy a volver a repetir y también en en norte de Europa.
 
 ¿El truco que usé para ponerme moreno rápido? me tacharéis de loco pero me esparcí cuatro gotas de un suplemento **líquido** de vitamina D por el torso y me fui a las playas estonianas a tomar el sol de 25 grados.
 
-[![Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGM1JEaFJXV0pMVUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDAwMA=)](https://www.amazon.es/dp/B07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...')
+[![Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGM1JEaFJXV0pMVUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU3OQ=)](https://www.amazon.es/dpB07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
 
-[Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](https://www.amazon.es/dp/B07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...')
+[Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](https://www.amazon.es/dp/B07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
 
 Mi recomendación porqué 5 gotas equivale a 5000 IU.
 
-9,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+9,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Sólo tardé tres días días en coger color.
 
@@ -153,7 +140,7 @@ Sólo tardé tres días días en coger color.
 
 Lo saqué de un foro americano que leí hace tiempo, donde un chalado explicaba cómo tomaba el sol: en el suelo, desnudo y se ponía vitamina D en las pelotas y en el torso.
 
-Decía que esto le [aumentaba la testosterona de forma natural](https://pau.ninja/alimentos-aumentan-testosterona/) y que la vitamina D líquida por la piel activaba los receptores de melanina, y aunque lo etiqueté de pseudociencia por no encontrar evidencia, decidí probarlo y flipé con los resultados. Quizás el chaval no estaba tan chalado y era yo que me lo miraba todo con ojos escépticos.
+Decía que esto le [aumentaba la testosterona de forma natural](./alimentos-aumentan-testosterona) y que la vitamina D líquida por la piel activaba los receptores de melanina, y aunque lo etiqueté de pseudociencia por no encontrar evidencia, decidí probarlo y flipé con los resultados. Quizás el chaval no estaba tan chalado y era yo que me lo miraba todo con ojos escépticos.
 
 ### Tomar el sol de mayo a agosto
 
@@ -183,19 +170,19 @@ De todas formas existen esos [índices de rayos UV](https://www.tutiempo.net/ind
 
 **Tipo de piel**
 
-**3-5**
+**3-5**  
+**Índice UV** 
+
+**6-7**  
 **Índice UV**
 
-**6-7**
-**Índice UV**
+**8-9**  
+**Índice UV** 
 
-**8-9**
-**Índice UV**
+**+11**  
+**Índice UV** 
 
-**+11**
-**Índice UV**
-
-Siempre quemado.
+Siempre quemado.  
 Nunca moreno.
 
 10-15 minutos
@@ -206,7 +193,7 @@ Nunca moreno.
 
 1-5 minutos
 
-Se quema a menudo.
+Se quema a menudo.  
 Difícil ponerse moreno.
 
 15-20 minutos
@@ -217,7 +204,7 @@ Difícil ponerse moreno.
 
 2-8 minutos
 
-Se quema ocasionalmente.
+Se quema ocasionalmente.  
 Se pone poco moreno.
 
 20-30 minutos
@@ -228,7 +215,7 @@ Se pone poco moreno.
 
 5-10 minutos
 
-Se quema poco.
+Se quema poco.  
 Se pone moreno rápido.
 
 30-40 minutos
@@ -239,7 +226,7 @@ Se pone moreno rápido.
 
 10-15 minutos
 
-Difícil que se queme.
+Difícil que se queme.  
 Se pone moreno fácil.
 
 40-60 minutos
@@ -254,9 +241,9 @@ Tiene sentido que nuestra sesión sea empezando antes de esa hora para maximizar
 
 ### Seguir los principios del _grounding_
 
-Os he hecho esta recomendación de las [gotas de vitamina D líquida](https://pau.ninja/como-ponerse-moreno-rapidamente/#Usar_vitamina_D_liquida_en_la_piel) y la he etiquetado directamente de pseudociencia pero… probadlo.
+Os he hecho esta recomendación de las [gotas de vitamina D líquida](./como-ponerse-moreno-rapidamente#Usar_vitamina_D_liquida_en_la_piel) y la he etiquetado directamente de pseudociencia pero… probadlo.
 
-Pues aquí va otra recomendación pseudocientífica… o quziás no tanto. Por si lo queréis probar: el [_grounding_ o *earthing*](https://pau.ninja/earthing-grounding-que-es/). Estar **en contacto con el suelo**.
+Pues aquí va otra recomendación pseudocientífica… o quziás no tanto. Por si lo queréis probar: el [_grounding_ o _earthing_](./earthing-grounding-que-es). Estar **en contacto con el suelo**.
 
 Quiero indagar más en el tema porque aunque no he sacado una conclusión final, muchos de los «gurús de salud alternativa» promueven la idea de estar en contacto directo con el suelo. Sin zapatos. Con los pies en la tierra o tocando el suelo de forma indirecta (con un material conductor).
 
@@ -272,17 +259,17 @@ Además era un ensayo clínico. Con un grupo de control y uno de intervención. 
 
 Indagaremos más próximamente, pero por el momento tendría sentido en vez de tomar el sol en una terraza de intentar hacerlo en el suelo o al menos cerca del suelo directa o indirectamente. Puede ser con una tumbona de aluminio que nos haría de conductor desde la tierra.
 
-[![LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeldWWTNXbTlOTkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDAwMA=)](https://www.amazon.es/dp/B08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...')
+[![LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeldWWTNXbTlOTkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDU3OQ=)](https://www.amazon.es/dpB08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...")
 
-[LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...](https://www.amazon.es/dp/B08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...')
+[LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...](https://www.amazon.es/dp/B08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...")
 
 Importante que sea de aluminio como esta para que haga de conductor.
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Y bueno, de paso los bichos no nos molestan, que a mí no me mola sentir como las hormigas monopolizan mi espalda cuando me tumbo en una zona de hierba.
 
-Según los defensores del *grounding*, aquí ya no sólo estaríamos obteniendo los beneficios del sol, sino que además estamos en contacto con la tierra, obteniendo sus antioxidantes, estamos obteniendo aire fresco…
+Según los defensores del _grounding_, aquí ya no sólo estaríamos obteniendo los beneficios del sol, sino que además estamos en contacto con la tierra, obteniendo sus antioxidantes, estamos obteniendo aire fresco…
 
 ### Tomar el sol desnudo
 
@@ -311,9 +298,9 @@ Eso es el llamado de la naturaleza.
 
 ### No estar rodeado de radiaciones EMF
 
-Pero lógicamente tanto para tomar el sol en pelotas, como para hacer *grounding*, lo ideal sería que estuviéramos en una área rural en vez de la ciudad.
+Pero lógicamente tanto para tomar el sol en pelotas, como para hacer _grounding_, lo ideal sería que estuviéramos en una área rural en vez de la ciudad.
 
-No sólo por estos motivos, sino también para estar menos rodeado de [ondas electromagnéticas](https://pau.ninja/efectos-ondas-electromagneticas/) que se interpondrían en la reparación del ADN y otros factores que iremos viendo más al detalle a medida que pase el tiempo.
+No sólo por estos motivos, sino también para estar menos rodeado de [ondas electromagnéticas](./efectos-ondas-electromagneticas) que se interpondrían en la reparación del ADN y otros factores que iremos viendo más al detalle a medida que pase el tiempo.
 
 ## Las vitaminas esenciales para ponerse moreno
 
@@ -349,7 +336,7 @@ Estamos hablando de ser **suficiente**. Es decir, de consumir vitamina D **sól
 
 «Pero Pau, el salmón, la leche sin pasteurizar…». Creedme que ni siquiera se acerca a lo que necesitamos de verdad.
 
-Si has tomado muy poco el sol en los últimos años, con un trabajo de oficina o en una ciudad rodeada de sombras de los edificios altos, podemos decir que si te empiezas a tomar en serio lo de tomar el sol, [suplementarte con mucha más vitamina D](https://pau.ninja/como-ponerse-moreno-rapidamente/#Usar_vitamina_D_liquida_en_la_piel) para contrarrestar esa escasez no va a ser suficientes.
+Si has tomado muy poco el sol en los últimos años, con un trabajo de oficina o en una ciudad rodeada de sombras de los edificios altos, podemos decir que si te empiezas a tomar en serio lo de tomar el sol, [suplementarte con mucha más vitamina D](./como-ponerse-moreno-rapidamente#Usar_vitamina_D_liquida_en_la_piel) para contrarrestar esa escasez no va a ser suficientes.
 
 No sólo necesitas sol sino también tiempo.
 
@@ -360,3 +347,93 @@ No estamos hablando ni de días, ni de semanas y en muchos caso ni siquiera de m
 Si tienes 60 años y tu vitamina D ha estado por los suelos toda tu vida, como es el caso de mi padre, puedes tardar 2-3-4 años de ser proactivo en tomar el sol para volver a unos niveles **óptimos.**
 
 Pero que esperas. Te has pasado toda tu vida alejado del sol, no puedes arreglarlo con cuatro gotitas.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Hábitos saludables](./habitos-saludables)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/como-ponerse-moreno-rapidamente/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13148,"title":"1%20truco%20%2B%205%20consejos%20para%20ponerse%20moreno%20%E3%80%90R%C3%81PIDO%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/05\\/persona-con-moreno-rapido.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

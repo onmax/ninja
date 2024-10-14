@@ -1,13 +1,18 @@
 ---
 title: "Protégete de la luz azul (cuidado con las gafas)"
+url: https://pau.ninja/como-protegerse-de-la-luz-azul
+slug: como-protegerse-de-la-luz-azul
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-con-gafas-anti-luz-azul.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/12/persona-con-gafas-anti-luz-azul.jpeg
 published: 2022-12-14T08:39:30+00:00
 modified: 2023-08-11T06:37:41+00:00
+scrappedAt: 2024-10-14T09:20:20.510Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65941417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-3%2F315982667-44100-2-d9c1b477c61e9.mp3
-slug: como-protegerse-de-la-luz-azul
+bibliography: ["Guillermo Infantes Capdevila. 2022. “La Conspiración Sobre Las Luces Azules Del Alumbrado Urbano.” Newtral.‌","Teknautas. 2019. “El Engaño de Las Farolas Led En Las Ciudades: Así Perjudica Tu Salud La Luz Azulada.” Elconfidencial.com.","“Evaluating the Association between Artificial Light-At-Night Exposure and Breast and Prostate Cancer Risk in Spain (MCC-Spain Study) | Environmental Health Perspectives | Vol. 126, No. 4.” 2018. Environmental Health Perspectives.‌","“Literature Review:Final Draft.docx – Bed Time Cell Phone Use and Its Relationship to Sleep Quality/Duration among College Students Title Here up to 12.” 2021. Coursehero.com.‌","Grønli, Janne & Byrkjedal, Kristiansen & Bjorvatn, Bjørn & Nødtvedt, Øystein & Hamre, Børge & Pallesen, Ståle. (2016). Reading from an iPad or from a book in bed: The impact on human sleep. A randomized controlled crossover trial. Sleep Medicine. 21. 10.1016/j.sleep.2016.02.006.","Grønli J, Byrkjedal IK, Bjorvatn B, Nødtvedt Ø, Hamre B, Pallesen S. Reading from an iPad or from a book in bed: the impact on human sleep. A randomized controlled crossover trial. Sleep Med. 2016 May;21:86-92. doi: 10.1016/j.sleep.2016.02.006. Epub 2016 Mar 2. PMID: 27448477.","“Will Blue Light Glasses Improve Your Sleep?” 2020. Harvard Business Review.‌","“IQAir | First in Air Quality.” 2023. Iqair.com. ‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/65941417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-3%2F315982667-44100-2-d9c1b477c61e9.mp3](https://anchor.fm/s/98566448/podcast/play/65941417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-3%2F315982667-44100-2-d9c1b477c61e9.mp3)
 
 Si el sol y la luz fueran tan malos para nuestra salud, la naturaleza nos habría hecho animales nocturnos.
@@ -16,40 +21,17 @@ A pesar de ser animales diurnos, los últimos años hemos adoptado miedo al sol
 
 Ya dejamos claro como este miedo al sol no sólo es **infundado** sino que además evita que obtengamos los beneficios de una hormona como es la vitamina D que se encarga de **todas** las funciones metabólicas del cuerpo (#371, #366).
 
-Pero ¿y la luz azul? ¿Tiene sentido que nos queramos proteger a todo momento de la luz azul? ¿O es otro engaña bobos como [la crema sola](https://pau.ninja/tomar-el-sol-sin-crema/)? ¿Tiene sentido comprar gafas de cristales naranjas para usar por la noche a cambio de parecernos al cantante de U2?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es la luz azul](#Que_es_la_luz_azul 'Qué es la luz azul')
-- [Cómo afecta a la salud la luz azul](#Como_afecta_a_la_salud_la_luz_azul 'Cómo afecta a la salud la luz azul')
-- [¿La luz azul es mala?](#%C2%BFLa_luz_azul_es_mala '¿La luz azul es mala?')
-- [Para que sirve la luz azul](#Para_que_sirve_la_luz_azul 'Para que sirve la luz azul')
-- [Cómo protegerse de la luz azul](#Como_protegerse_de_la_luz_azul 'Cómo protegerse de la luz azul')
-- [¿Funcionan las gafas de luz azul?](#%C2%BFFuncionan_las_gafas_de_luz_azul '¿Funcionan las gafas de luz azul?')
-  - [Qué son las gafas anti luz azul](#Que_son_las_gafas_anti_luz_azul 'Qué son las gafas anti luz azul')
-  - [Tipos de gafas anti luz azul](#Tipos_de_gafas_anti_luz_azul 'Tipos de gafas anti luz azul')
-  - [¿Para qué sirven las gafas de luz azul?](#%C2%BFPara_que_sirven_las_gafas_de_luz_azul '¿Para qué sirven las gafas de luz azul?')
-  - [¿De verdad sirven las gafas de luz azul?](#%C2%BFDe_verdad_sirven_las_gafas_de_luz_azul '¿De verdad sirven las gafas de luz azul?')
-  - [Mejores gafas anti luz azul](#Mejores_gafas_anti_luz_azul 'Mejores gafas anti luz azul')
-- [Hábitos nocturnos para evitar de la luz azul](#Habitos_nocturnos_para_evitar_de_la_luz_azul 'Hábitos nocturnos para evitar de la luz azul')
-  - [Evitar luces brillantes artificiales](#Evitar_luces_brillantes_artificiales 'Evitar luces brillantes artificiales')
-  - [Reducir las luces](#Reducir_las_luces 'Reducir las luces')
-  - [Pon luces bajas](#Pon_luces_bajas 'Pon luces bajas')
-  - [Regula la intensidad](#Regula_la_intensidad 'Regula la intensidad')
-  - [Evitar luces brillantes](#Evitar_luces_brillantes 'Evitar luces brillantes')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
+Pero ¿y la luz azul? ¿Tiene sentido que nos queramos proteger a todo momento de la luz azul? ¿O es otro engaña bobos como [la crema sola](./tomar-el-sol-sin-crema)? ¿Tiene sentido comprar gafas de cristales naranjas para usar por la noche a cambio de parecernos al cantante de U2?
 
 ## Qué es la luz azul
 
 La Tierra está llena de energía electromagnética. Las radiaciones y la electricidad está a nuestro alrededor en todo momento. Incluso recorre nuestros cuerpos. Es por esto que te pueden revivir con una carga eléctrica. Porque somos seres eléctricos.
 
-Las [ondas electromagnéticas](https://pau.ninja/efectos-ondas-electromagneticas/) varían en longitud. Por ejemplo las más largas son las ondas de radio, microondas, ultravioletas, y las más cortas son las que hay en los rayos X, rayos gamma, etc.
+Las [ondas electromagnéticas](./efectos-ondas-electromagneticas) varían en longitud. Por ejemplo las más largas son las ondas de radio, microondas, ultravioletas, y las más cortas son las que hay en los rayos X, rayos gamma, etc.
 
 A estas no las vemos, pero el ojo humano puede detectar un rango de estas ondas que conocemos como **luz visible** que van de 380 nanómetros (luz violeta) hasta 700 nanómetros (luz roja).
 
-![rango luz visible](https://pau.ninja/wp-content/uploads/2022/12/rango-luz-visible.png)
+![rango luz visible](./wp-content/uploads/2022/12rango-luz-visible.png)
 
 A más larga la onda, menos energía transmite. Como la **luz azul está en el rango donde las ondas son muy cortas**, significa que nos da mucha energía.
 
@@ -59,11 +41,9 @@ La luz tiene un impacto tan grande en nuestro cuerpo porque las células están 
 
 Fijaros en algo y entenderéis porque con el tiempo me voy volviendo cada vez más conspiranoico. Hace un tiempo pusieron luces azules y violetas en Miami que se extendieron a más sitios de Estados Unidos.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Hay teorías[ref-1](#ref-1){.ref} que dicen que activan la nanotecnología de los pinchotes y no sé que rollo, pero sabiendo como de malo es para la salud luces azules **de noche** (incluso dicho en los medios convencionales[ref-2](#ref-2){.ref}), esto es un ataque directo a nuestra salud de parte del Estado.
 
-Hay teorías[1](<javascript:void(0)>)Guillermo Infantes Capdevila. 2022. “La Conspiración Sobre Las Luces Azules Del Alumbrado Urbano.” Newtral.‌ que dicen que activan la nanotecnología de los pinchotes y no sé que rollo, pero sabiendo como de malo es para la salud luces azules **de noche** (incluso dicho en los medios convencionales[2](<javascript:void(0)>)Teknautas. 2019. “El Engaño de Las Farolas Led En Las Ciudades: Así Perjudica Tu Salud La Luz Azulada.” Elconfidencial.com.), esto es un ataque directo a nuestra salud de parte del Estado.
-
-De hecho varias investigaciones han visto una correlación directa entre las zonas donde hay más luces de Barcelona y Madrid con el aumento de cierto tipos de cáncer[3](<javascript:void(0)>)“Evaluating the Association between Artificial Light-At-Night Exposure and Breast and Prostate Cancer Risk in Spain (MCC-Spain Study) | Environmental Health Perspectives | Vol. 126, No. 4.” 2018. Environmental Health Perspectives.‌.
+De hecho varias investigaciones han visto una correlación directa entre las zonas donde hay más luces de Barcelona y Madrid con el aumento de cierto tipos de cáncer[ref-3](#ref-3){.ref}.
 
 ## ¿La luz azul es mala?
 
@@ -104,15 +84,15 @@ Es verdad que nuestros móviles y ordenadores tienen opciones en su software par
 
 Nuestros dispositivos (o más bien, los hábitos que tenemos con ellos) generan una ansiedad que a veces en imperceptible y esto muchas veces es incluso peor que la luz azul para quedarnos dormidos o para tener un sueño de calidad.
 
-Por esto nunca miro comentarios o nada lo relacionado con la marca Pau Ninja durante la noche. Para ponerlo en perspectiva, un estudio hecho con adolescentes vio que el mayor problema de tener mal sueño fue la ansiedad que les causaba el teléfono a modo de círculo vicioso[4](<javascript:void(0)>)“Literature Review:Final Draft.docx – Bed Time Cell Phone Use and Its Relationship to Sleep Quality/Duration among College Students Title Here up to 12.” 2021. Coursehero.com.‌.
+Por esto nunca miro comentarios o nada lo relacionado con la marca Pau Ninja durante la noche. Para ponerlo en perspectiva, un estudio hecho con adolescentes vio que el mayor problema de tener mal sueño fue la ansiedad que les causaba el teléfono a modo de círculo vicioso[ref-4](#ref-4){.ref}.
 
-![ansiedad dormir redes sociales](https://pau.ninja/wp-content/uploads/2022/12/ansiedad-dormir-redes-sociales.png)
+![ansiedad dormir redes sociales](./wp-content/uploads/2022/12ansiedad-dormir-redes-sociales.png)
 
 Es decir, tenían ansiedad tipo FoMo (miedo a perderse algo), lo que les hacía coger el teléfono, lo que les exponía a la luz azul, lo que les retrasaba más el sueño, lo que les volvía a hacer venir FoMo.
 
-En un estudio compararon los hábitos de personas que leían con un iPad durante 1 horas con otros que leyeron la misma cantidad de tiempo pero en vez de una tablet usaron un libro de papel[5](<javascript:void(0)>)Grønli, Janne & Byrkjedal, Kristiansen & Bjorvatn, Bjørn & Nødtvedt, Øystein & Hamre, Børge & Pallesen, Ståle. (2016). Reading from an iPad or from a book in bed: The impact on human sleep. A randomized controlled crossover trial. Sleep Medicine. 21. 10.1016/j.sleep.2016.02.006. [6](<javascript:void(0)>)Grønli J, Byrkjedal IK, Bjorvatn B, Nødtvedt Ø, Hamre B, Pallesen S. Reading from an iPad or from a book in bed: the impact on human sleep. A randomized controlled crossover trial. Sleep Med. 2016 May;21:86-92. doi: 10.1016/j.sleep.2016.02.006. Epub 2016 Mar 2. PMID: 27448477..
+En un estudio compararon los hábitos de personas que leían con un iPad durante 1 horas con otros que leyeron la misma cantidad de tiempo pero en vez de una tablet usaron un libro de papel[ref-5](#ref-5){.ref} [ref-6](#ref-6){.ref}.
 
-![estudio leer luz azul](https://pau.ninja/wp-content/uploads/2022/12/estudio-leer-luz-azul.png)
+![estudio leer luz azul](./wp-content/uploads/2022/12estudio-leer-luz-azul.png)
 
 Los que leyeron con el iPad tuvieron una bajada de un 20% de la producción de su melatonina. Eso hizo que el pico de melatonina no llegara hasta 3 horas más tarde que los que leyeron en papel.
 
@@ -122,13 +102,13 @@ Pero lo que más me impactó de este estudio es que incluso cuando los participa
 
 Después de saber esto, muchos deciden comprar unas gafas con los cristales hechos para que filtren la luz azul que tanto nos afecta al sueño.
 
-En un estudio de Hardvard se distribuyó entre los participantes dos gafas idénticas[7](<javascript:void(0)>)“Will Blue Light Glasses Improve Your Sleep?” 2020. Harvard Business Review.‌.
+En un estudio de Hardvard se distribuyó entre los participantes dos gafas idénticas[ref-7](#ref-7){.ref}.
 
 Unas bloqueaban la luz azul y otras no.
 
 Los participantes eran jefes de una empresa y vieron que los que usaban las que bloqueaban la luz azul 2 horas antes de ir a la cama, tuvieron un incremento global de su productividad de +7%.
 
-![estudio gafas luz azul](https://pau.ninja/wp-content/uploads/2022/12/estudio-gafas-luz-azul.png)
+![estudio gafas luz azul](./wp-content/uploads/2022/12estudio-gafas-luz-azul.png)
 
 No porque usaran las gafas directamente, si no porque aparentemente las gafas les hacían dormir mejor y por lo tanto afectó positivamente a la productividad del día siguiente.
 
@@ -140,8 +120,8 @@ Las gafas anti luz azul tienen cristales que bloquean la cantidad de luz que nue
 
 ### Tipos de gafas anti luz azul
 
-- **Gafas de día:** son [estos modelos para fotofobia](https://pau.ninja/tienda/gafas-para-fotofobia/), es decir, ideales para bloquear no toda la luz azul sino el exceso de ella.
-- **Gafas de noche:** son [estos modelos rojas](https://pau.ninja/tienda/gafas-rojas-luz-azul/), bloquean el 100% de la luz azul y se tienen que llevar desde la puesta del sol para bloquear toda la luz azul.
+- **Gafas de día:** son [estos modelos para fotofobia](./tienda/gafas-para-fotofobia), es decir, ideales para bloquear no toda la luz azul sino el exceso de ella.
+- **Gafas de noche:** son [estos modelos rojas](./tienda/gafas-rojas-luz-azul), bloquean el 100% de la luz azul y se tienen que llevar desde la puesta del sol para bloquear toda la luz azul.
 
 ### ¿Para qué sirven las gafas de luz azul?
 
@@ -171,20 +151,18 @@ Es importante remarcar si las quieres para usar durante el día, o durante la no
 
 Las de día son opcionales si las luces LED no te molestan demasiado, pero las de noche las recomendaría a absolutamente todo el mundo porque **bloquean el 100% de luz azul y verde**.
 
-[![gafas luz roja protección luz azul](https://pau.ninja/wp-content/uploads/2023/07/gafas-luz-roja-proteccion-luz-azul.jpeg)](https://pau.ninja/gafas)
+[![gafas luz roja protección luz azul](./wp-content/uploads/2023/07/gafas-luz-roja-proteccion-luz-azul.jpeg)](https://pau.ninjagafas)  
 [Comprar aquí](https://pau.ninja/gafas)
 
 - **Cupón descuento:** _RECURSOS_
 - **Modelo:** Sport de máxima protección (gafas de noche)
-- **Precio:** 55€ aprox (sin aplicar cupón)
+- **Precio:** 55€ aprox (sin aplicar cupón) 
 
 Son ideales para ponerse desde que cae el sol. Desde el amanecer.
 
 Pero, ¿qué hay con el ángulo en el que la luz llega a nuestros ojos? Lo vemos en un rato cuando hablemos sobre los «hábitos luminosos nocturnos».
 
 El caso es que las gafas anti luz azul **sí** protegen pero **no las necesitaríamos** si fuéramos capaces de adoptar los hábitos que ahora comentaré. Realmente son la solución moderna a un problema moderno.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Algunas personas encuentran que los bloqueadores de luz azul les da cierto alivio de dolor de cabeza y también de fatiga visual, tanto si es placebo como si no lo es, el efecto placebo es muy real o sea que no tengo nada en contra de lo que te sirva a ti personalmente.
 
@@ -202,8 +180,6 @@ Lo primero sería evitar las luces brillantes artificiales… del color que sea.
 
 Una buena manera de hacerlo si tienes que estar en oficinas o centros comerciales de día, es tener unas gafas para fotofobia o fotosensibilidad. Que bloquean los picos de luz azul más problemáticos.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 De hecho aunque estés usando gafas protectoras de luz azul o cualquier software que te bloquea estas luces en la pantalla te encontrarás que incluso si las luces que tienes a tu alrededor durante la noche son bien brillantes, son malas. Independientemente del «color».
 
 Cualquier luz del color que sea te despertará el cerebro y por lo tanto el cuerpo. Activarán los mismos mecanismos que se activaron durante la mañana con la luz solar.
@@ -216,7 +192,7 @@ Quizás hay relámpagos cerca. Quizás se ha incendiado el bosque donde tenéis 
 
 ### Reducir las luces
 
-Lo mejor que puedes hacer es cambiar tus bombillas LED de toda la vida y ponerte [luz roja para dormir](https://pau.ninja/luz-roja-para-dormir/) en casa.
+Lo mejor que puedes hacer es cambiar tus bombillas LED de toda la vida y ponerte [luz roja para dormir](./luz-roja-para-dormir) en casa.
 
 Cambiarlas todas. En serio.
 
@@ -224,7 +200,7 @@ En el momento que se pone el sol (o más bien, que el sol se va poniendo gradual
 
 Por esto tiene sentido que en tus hábitos nocturnos te acostumbres a reducir, a bajar las luces una vez se ha puesto el sol.
 
-Esta es una de mis cosas favoritas del norte. He vivido en Estonia, Finlandia, Suecia (x2) y Canadá. Me encanta que tienen esta costumbre muy por la mano. Tanto las luces por la calle como las de sus cases son luces bajas, que lo hace todo *mysig/hygge*.
+Esta es una de mis cosas favoritas del norte. He vivido en Estonia, Finlandia, Suecia (x2) y Canadá. Me encanta que tienen esta costumbre muy por la mano. Tanto las luces por la calle como las de sus cases son luces bajas, que lo hace todo _mysig/hygge_.
 
 ### Pon luces bajas
 
@@ -244,13 +220,13 @@ Hipotéticamente en un contexto ancestral tendría sentido. Una luz arriba signi
 
 En cambio una luz reducida a bajo nivel significaría fuego de campamento. Fuego que se ha hecho porque ha llegado la noche y queremos tener un mínimo de visión pero sobretodo para alejar a los depredadores de nuestra cueva o entorno.
 
-Por esto tiene sentido que pongas las luces bajas pero también que la cantidad de luz que uses sea la mínima posible. Del rollo que si tienes que estudiar por la noche tampoco te quieres volver ciego porque sólo tienes una vela (por cierto, tóxicas según estudios[8](<javascript:void(0)>)“IQAir | First in Air Quality.” 2023. Iqair.com. ‌).
+Por esto tiene sentido que pongas las luces bajas pero también que la cantidad de luz que uses sea la mínima posible. Del rollo que si tienes que estudiar por la noche tampoco te quieres volver ciego porque sólo tienes una vela (por cierto, tóxicas según estudios[ref-8](#ref-8){.ref}).
 
 Yo que me pongo por la noche después de cenar un ratito en el portátil para terminar el día organizándome lo que tengo que hacer el día siguiente antes de estirar, lo que hago es ponerme el brillo de la pantalla a sólo una ralla (como le gusta a Albert Ribera).
 
 Una ralla sería poco si no fuera porque claro, todas mis otras luces ya están muy bajas por lo tanto se ve bien y tampoco siento que fuerzo la vista. Si lo hago es porque la fuente es pequeña así que ya la tengo subida como regla general.
 
-Me encanta cuando hay mucha luna y estoy viviendo en un sitio con ventanas enormes porque entonces puedo hacer estiramientos con un poquito de música *lofi* o podcast mientras estoy estirando.
+Me encanta cuando hay mucha luna y estoy viviendo en un sitio con ventanas enormes porque entonces puedo hacer estiramientos con un poquito de música _lofi_ o podcast mientras estoy estirando.
 
 ### Regula la intensidad
 
@@ -270,7 +246,7 @@ Seguramente los trabajadores de estas cadenas deben tener unos ritmos circadiano
 
 Me vais a tachar de loco, pero sabéis esa peña que cuando sale por la noche se pone gafas de sol en las discotecas y dices «mira el chuloput4s este…», pues aunque este señor por ser el más chulo del carmelo, en verdad es el que lo está haciendo mejor. Seguro que es el que dormirá más fácilmente cuando llegue a casa.
 
-Si algún día tengo que ir al súper de emergencia porque me doy cuenta que no tendré mi más que necesaria [agua con gas](https://pau.ninja/beneficios-del-agua-con-gas/) para mañana, o pastillas para poner una lavadora o lo que sea, lo que he estado haciendo últimamente es ir al supermercado y… **me pongo gafas de sol** o las de luces azules. Lo que tenga a mano.
+Si algún día tengo que ir al súper de emergencia porque me doy cuenta que no tendré mi más que necesaria [agua con gas](./beneficios-del-agua-con-gas) para mañana, o pastillas para poner una lavadora o lo que sea, lo que he estado haciendo últimamente es ir al supermercado y… **me pongo gafas de sol** o las de luces azules. Lo que tenga a mano.
 
 La gente me mira como si fuera un tío que lleva 2 días de fiesta y quizás en su mente me tachan de loco, pero más loco están ellos para estar expuestos a este tipo de luz durante la noche.
 
@@ -289,39 +265,3 @@ Por esto estar expuesto a esas luces LED y fluorescentes cuando ya es de noche, 
 Así que simplemente… evita las luces de cualquier color. Especialmente las de techo porque también son las más potentes. Usando sólo la luz que necesites para hacer tus cosas.
 
 Hazte con unas gafas de estas (las buenas), y si tienes la suerte de vivir en un sitio donde puedes controlar las luces al máximo (te envidio), no necesitas unas gafotas, sino parecer que sigues viviendo en una cueva.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Guillermo Infantes Capdevila. 2022. “La Conspiración Sobre Las Luces Azules Del Alumbrado Urbano.” Newtral.‌
-
-- 2
-
-  Teknautas. 2019. “El Engaño de Las Farolas Led En Las Ciudades: Así Perjudica Tu Salud La Luz Azulada.” Elconfidencial.com.
-
-- 3
-
-  “Evaluating the Association between Artificial Light-At-Night Exposure and Breast and Prostate Cancer Risk in Spain (MCC-Spain Study) | Environmental Health Perspectives | Vol. 126, No. 4.” 2018. Environmental Health Perspectives.‌
-
-- 4
-
-  “Literature Review:Final Draft.docx – Bed Time Cell Phone Use and Its Relationship to Sleep Quality/Duration among College Students Title Here up to 12.” 2021. Coursehero.com.‌
-
-- 5
-
-  Grønli, Janne & Byrkjedal, Kristiansen & Bjorvatn, Bjørn & Nødtvedt, Øystein & Hamre, Børge & Pallesen, Ståle. (2016). Reading from an iPad or from a book in bed: The impact on human sleep. A randomized controlled crossover trial. Sleep Medicine. 21. 10.1016/j.sleep.2016.02.006.
-
-- 6
-
-  Grønli J, Byrkjedal IK, Bjorvatn B, Nødtvedt Ø, Hamre B, Pallesen S. Reading from an iPad or from a book in bed: the impact on human sleep. A randomized controlled crossover trial. Sleep Med. 2016 May;21:86-92. doi: 10.1016/j.sleep.2016.02.006. Epub 2016 Mar 2. PMID: 27448477.
-
-- 7
-
-  “Will Blue Light Glasses Improve Your Sleep?” 2020. Harvard Business Review.‌
-
-- 8
-
-  “IQAir | First in Air Quality.” 2023. Iqair.com. ‌

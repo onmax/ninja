@@ -1,13 +1,18 @@
 ---
-title: "El señor de las anillas (de gimnasia) o cuáles son mejores para comprar en 2024"
+title: "El señor de las anillas (de gimnasia)"
+url: https://pau.ninja/mejores-anillas-gimnasia
+slug: mejores-anillas-gimnasia
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-con-las-mejores-anillas-de-gimnasia.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/01/persona-con-las-mejores-anillas-de-gimnasia.jpeg
 published: 2024-01-30T09:00:46+00:00
 modified: 2024-02-02T08:18:17+00:00
-audioLink:
-slug: mejores-anillas-gimnasia
+scrappedAt: 2024-10-14T09:19:37.175Z
+audioLink: 
+bibliography: []
 ---
-
 Ninja de la vida, las anillas de gimnasia son el mejor accesorio de entrenamiento que puedes comprar.
 
 De verdad lo digo.
@@ -24,29 +29,10 @@ Las anillas son el material más versátil para entrenar tu cuerpo de dios grieg
 
 Tanto si eres un multimillonario con el gimnasio casero más completo del mundo, como un amante de la calistenia en el parque, te recomiendo que _pases por el aro_… Nunca mejor dicho.
 
-🏆
+🏆  
 ¿Quieres ir directo al grano?
 
 Sáltate su historia + consejos de compra [pulsando aquí para bajar](#Las_mejores_anillas_de_gimnasia_que_puedes_comprar) hacia la comparativa de las **mejores anillas de 2024**.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Breve historia de las anillas de gimnasia](#Breve_historia_de_las_anillas_de_gimnasia 'Breve historia de las anillas de gimnasia')
-- [Por qué comprar unas anillas de gimnasia](#Por_que_comprar_unas_anillas_de_gimnasia 'Por qué comprar unas anillas de gimnasia')
-- [Característica de las mejores anillas de gimnasia](#Caracteristica_de_las_mejores_anillas_de_gimnasia 'Característica de las mejores anillas de gimnasia')
-  - [La madera es el mejor material](#La_madera_es_el_mejor_material 'La madera es el mejor material')
-  - [Grosor de 28 milímetros](#Grosor_de_28_milimetros 'Grosor de 28 milímetros')
-  - [Correas con numeración](#Correas_con_numeracion 'Correas con numeración')
-  - [Elige la hebilla más resistente](#Elige_la_hebilla_mas_resistente 'Elige la hebilla más resistente')
-- [Las mejores anillas de gimnasia que puedes comprar](#Las_mejores_anillas_de_gimnasia_que_puedes_comprar 'Las mejores anillas de gimnasia que puedes comprar')
-  - [Anillas ninja: las mejores para calistenia](#Anillas_ninja_las_mejores_para_calistenia 'Anillas ninja: las mejores para calistenia')
-  - [Wild Instincts: las mejores de Amazon](#Wild_Instincts_las_mejores_de_Amazon 'Wild Instincts: las mejores de Amazon')
-  - [Decathlon: las mejores anillas para Crossfit](#Decathlon_las_mejores_anillas_para_Crossfit 'Decathlon: las mejores anillas para Crossfit')
-  - [5BILLION: las más baratas del mercado](#5BILLION_las_mas_baratas_del_mercado '5BILLION: las más baratas del mercado')
-  - [Gornation: las mejores anillas olímpicas](#Gornation_las_mejores_anillas_olimpicas 'Gornation: las mejores anillas olímpicas')
-- [Cómo colocar anillas de gimnasia](#Como_colocar_anillas_de_gimnasia 'Cómo colocar anillas de gimnasia')
 
 ## Breve historia de las anillas de gimnasia
 
@@ -56,17 +42,17 @@ Las anillas aparecieron en el mapa durante el siglo XIX, cuando un señor alemá
 
 A pesar de que las pintas de Friedrich Ludwig hacían pensar que era un intelectual más que un atleta, la realidad es que el bueno de Friedrich era un _multipotencial_ de los pies a la cabeza.
 
-![inventor anillas calistenia](https://pau.ninja/wp-content/uploads/2024/01/inventor-anillas-calistenia.jpeg)
+![inventor anillas calistenia](./wp-content/uploads/2024/01inventor-anillas-calistenia.jpeg)
 
 Foto: Friedrich Ludwig.
 
-Este _Leonardo da Vinci_ del deporte, terminó creando las barras paralelas, las horizontales y un puñado de [material de calistenia](https://pau.ninja/material-calistenia/) que hoy día seguimos viendo en los parques y competiciones.
+Este _Leonardo da Vinci_ del deporte, terminó creando las barras paralelas, las horizontales y un puñado de [material de calistenia](./material-calistenia) que hoy día seguimos viendo en los parques y competiciones.
 
 Pero el invento más transcendente que creó el señor Ludwig, **revolucionó** el entrenamiento de cuerpo entero.
 
-Fijaros que en la actualidad aún se consideran las anillas de gimnasia como el **accesorio más indispensable** para entrenar el cuerpo usando el peso corporal (ejercicios de autocarga).[1](<javascript:void(0)>)“Friedrich Ludwig Jahn | Father of Gymnastics, Physical Education, Nationalism | Britannica.” 2024. Encyclopædia Britannica.
+Fijaros que en la actualidad aún se consideran las anillas de gimnasia como el **accesorio más indispensable** para entrenar el cuerpo usando el peso corporal (ejercicios de autocarga).[ref-1](#ref-1){.ref}“Friedrich Ludwig Jahn | Father of Gymnastics, Physical Education, Nationalism | Britannica.” 2024. Encyclopædia Britannica.
 
-![primeras anillas calistenia de la historia](https://pau.ninja/wp-content/uploads/2024/01/primeras-anillas-calistenia-de-la-historia.jpeg)
+![primeras anillas calistenia de la historia](./wp-content/uploads/2024/01primeras-anillas-calistenia-de-la-historia.jpeg)
 
 Claro que años más tarde el capitalismo se ocupó de crear docenas de versiones menos útiles que las anillas y vendértelas como la panacea.
 
@@ -82,7 +68,7 @@ Hasta el punto de decir que si sólo pudiera comprar una cosa, o tuviera que sal
 
 ## Por qué comprar unas anillas de gimnasia
 
-No creo que sea una exageración decir que son *lo mejor*. Y más después de aprender a fondo [los](https://pau.ninja/beneficios-de-entrenar-con-anillas/) [beneficios de entrenar con anillas](https://pau.ninja/beneficios-de-entrenar-con-anillas/) (#584).
+No creo que sea una exageración decir que son _lo mejor_. Y más después de aprender a fondo [los](./beneficios-de-entrenar-con-anillas/) [beneficios de entrenar con anillas](https://pau.ninja/beneficios-de-entrenar-con-anillas) (#584).
 
 - Nos fortalecen los músculos invisibles pero que acostumbramos a tener más débiles que los que sí podemos ver.
 - Esto nos ayuda a proteger el hombro, manguito rotador, a que haya menos desbalances y por lo tanto que entrenar con anillas sea menos lesivo.
@@ -93,7 +79,7 @@ No creo que sea una exageración decir que son *lo mejor*. Y más después de a
 
 La pregunta es, ¿todas las anillas son iguales? Absolutamente no.
 
-Seguramente en la época de Ludwig se crearon un solo tipo y es el que todo el mundo usó durante generaciones. No había más que hablar. Eran *las* anillas.
+Seguramente en la época de Ludwig se crearon un solo tipo y es el que todo el mundo usó durante generaciones. No había más que hablar. Eran _las_ anillas.
 
 En cambio ahora tenemos montones de materiales, grosores, anillas, correas…
 
@@ -120,9 +106,9 @@ Sí, es algo más barato que la madera pero el problema del plástico (a partes 
 
 Para principiantes con poco presupuesto el plástico puede funcionar, pero dejará de ser efectivo a la que pases a practicar el llamado «agarre falso» para hacer _muscle ups_ y ejercicios más avanzados.
 
-Podrías poner un poco de esparadrapo que ayudaría *algo* pero sin duda no recomiendo ir con plástico.
+Podrías poner un poco de esparadrapo que ayudaría _algo_ pero sin duda no recomiendo ir con plástico.
 
-![material anillas gimnasia](https://pau.ninja/wp-content/uploads/2024/01/material-anillas-gimnasia.jpg)
+![material anillas gimnasia](./wp-content/uploads/2024/01material-anillas-gimnasia.jpg)
 
 Para las anillas de gimnasia el mejor material por su durabilidad, peso y versatilidad **es la madera**.
 
@@ -192,33 +178,33 @@ También cuidado con los diámetros porque los más comunes van de 28 mm a 32 mm
 
 Anillas de 32mm
 
-![anillas calistenia 32mm](https://pau.ninja/wp-content/uploads/2024/01/anillas-calistenia-32mm.jpg)
+![anillas calistenia 32mm](./wp-content/uploads/2024/01anillas-calistenia-32mm.jpg)
 
 - Más superficie = más comodidad de agarre
 - Más cómodas para ejercicios de tirón
 
 Anillas de 28mm
 
-![anillas calistenia 28mm](https://pau.ninja/wp-content/uploads/2024/01/anillas-calistenia-28mm.jpeg)
+![anillas calistenia 28mm](./wp-content/uploads/2024/01anillas-calistenia-28mm.jpeg)
 
 - Para aquellos con manos muy pequeñas
-- Más cómodas para [ejercicios de empuje](https://pau.ninja/ejercicios-de-empuje/)
+- Más cómodas para [ejercicios de empuje](./ejercicios-de-empuje)
 
 A menos que alguien tenga las manos pequeñas, las de 32mm serían un buen estándar para la mayoría de ninjas.
 
-Ojo porque alguien te puede decir que las 28mm son *mejores porque son las medidas olímpicas*.
+Ojo porque alguien te puede decir que las 28mm son _mejores porque son las medidas olímpicas_.
 
 Y aunque es verdad que las de 28mm están bajo el estándar [FIG](https://www.gymnastics.sport/site/) (Fédération Internationale de Gymnastique) porque en el [documento oficial](https://www.gymnastics.sport/publicdir/rules/files/en_Apparatus%20Norms.pdf) se especifica, **no es lo más idóneo** si las compramos para entrenar calistenia.
 
-¿Sabes por qué? Pues fíjate que aunque los gimnastas utilicen anillas olímpicas de 28mm… también **utilizan *grippers***.
+¿Sabes por qué? Pues fíjate que aunque los gimnastas utilicen anillas olímpicas de 28mm… también **utilizan _grippers_**.
 
-![grippers anillas gimnasia](https://pau.ninja/wp-content/uploads/2024/01/grippers-anillas-gimnasia.jpeg)
+![grippers anillas gimnasia](./wp-content/uploads/2024/01grippers-anillas-gimnasia.jpeg)
 
 Esto significa que a efectos prácticos están **sumando milímetros a sus anillas**, lo que terminan sumando 32mm o incluso más.
 
 ¿Por qué te piensas que tienen esos súper brazos?
 
-Por esto en los parques ahora verás [haciendo ejercicios de bíceps de calistenia](https://pau.ninja/ejercicios-biceps-calistenia/) que se *roban* de los gimnastas, en vez de los gimnasios comerciales.
+Por esto en los parques ahora verás [haciendo ejercicios de bíceps de calistenia](./ejercicios-biceps-calistenia) que se _roban_ de los gimnastas, en vez de los gimnasios comerciales.
 
 Claro, el agarre y los antebrazos trabajan más en unas [buenas anillas de gimnasia de 32mm](#Las_mejores_anillas_de_gimnasia_que_puedes_comprar).
 
@@ -226,11 +212,11 @@ Es verdad que si no estamos acostumbrados a entrenar así, inicialmente el agarr
 
 Y créeme que todo quien esté aquí tanto por estética como funcionalidad, quiere unos buenos antebrazos. Al fin y al cabo de ven mucho más que los bíceps o tríceps en nuestro día a día, y si los tuvieras débiles sería tu factor limitante.
 
-Un punto a favor de las de 28mm eso sí, es que hacen el *agarre falso* algo más fácil que las más gordas.
+Un punto a favor de las de 28mm eso sí, es que hacen el _agarre falso_ algo más fácil que las más gordas.
 
 Esto te dice tu novia.
 
-![agarre falso en anillas](https://pau.ninja/wp-content/uploads/2022/05/agarre-falso.jpeg)
+![agarre falso en anillas](./wp-content/uploads/2022/05agarre-falso.jpeg)
 
 Foto: «agarre falso» en anillas de 32mm.
 
@@ -248,9 +234,9 @@ La realidad es que como ahora veremos, tenemos que asegurarnos que hay algo más
 
 Una mala calidad de correas no sólo significa un posible accidente cuando estemos haciendo algo boca abajo, sino también una mala estabilización y desbalances.
 
-![músculos estabilizadores con anillas](https://pau.ninja/wp-content/uploads/2024/01/musculos-estabilizadores-con-anillas.jpeg)
+![músculos estabilizadores con anillas](./wp-content/uploads/2024/01musculos-estabilizadores-con-anillas.jpeg)
 
-Por esto, estos *straps*, estas correas deberían tener algunas características que son las mismas que se usan en los estándares oficiales de gimnasia.
+Por esto, estos _straps_, estas correas deberían tener algunas características que son las mismas que se usan en los estándares oficiales de gimnasia.
 
 - **Longitud:** al menos 70cm
 - **Anchura:** 3,5cm – 4cm
@@ -261,11 +247,11 @@ Tenemos que mirar que estén numeradas.
 
 No estoy hablando sólo de que tengan rallitas, sino también números para poder apuntar bien cómo ajustamos las anillas de un ejercicio o entreno a otro.
 
-![correa anilla números](https://pau.ninja/wp-content/uploads/2022/05/correa-anilla-numeros.jpeg)
+![correa anilla números](./wp-content/uploads/2022/05correa-anilla-numeros.jpeg)
 
 Foto: buenos números, pero mala hebilla. Hablaremos de ellas en un segundo.
 
-Esa numeración representa el número de pies americano y nos será indispensable para asistir en [la sobrecarga progresiva del entrenamiento](https://pau.ninja/sobrecarga-progresiva-gym/).
+Esa numeración representa el número de pies americano y nos será indispensable para asistir en [la sobrecarga progresiva del entrenamiento](./sobrecarga-progresiva-gym).
 
 Es decir: queremos medir para progresar.
 
@@ -273,19 +259,19 @@ Es decir: queremos medir para progresar.
 
 Los números, lógico.
 
-Es por esto que unas buenas bandas de resistencia también tendrán números para progresar con ejercicios. Mira [estas gomas de calistenia](https://pau.ninja/tienda/gomas-calistenia/).
+Es por esto que unas buenas bandas de resistencia también tendrán números para progresar con ejercicios. Mira [estas gomas de calistenia](./tienda/gomas-calistenia).
 
 Si te pones hoy las anillas a la altura «cinco» en la correa haciendo X ejercicio, sabes que en el próximo entrenamiento (siempre y cuando la cuelgues del mismo sitio), estabas en el número 5, y no pasarás al número 6 (más difícil) hasta poder hacer X repeticiones en el número 5.
 
-La cantidad de *correa suelta* que haya desde la barra o hasta al suelo, importa mucho para ese factor de estabilización.
+La cantidad de _correa suelta_ que haya desde la barra o hasta al suelo, importa mucho para ese factor de estabilización.
 
-Porque el esfuerzo que hacemos en el ejercicio cambiará según el ajuste *contra* la fuerza de la gravedad.
+Porque el esfuerzo que hacemos en el ejercicio cambiará según el ajuste _contra_ la fuerza de la gravedad.
 
-![persona con buen soporte en anillas](https://pau.ninja/wp-content/uploads/2024/01/persona-con-buen-soporte-en-anillas.jpeg)
+![persona con buen soporte en anillas](./wp-content/uploads/2024/01persona-con-buen-soporte-en-anillas.jpeg)
 
 Pero no sólo esto, sino que la numeración también importa para colocar cada anilla individualmente.
 
-El hecho de que cada una se mueva de forma *soberana* es una ventaja, pero sólo si las hemos ajustado adecuadamente.
+El hecho de que cada una se mueva de forma _soberana_ es una ventaja, pero sólo si las hemos ajustado adecuadamente.
 
 No quieres intentar «adivinar» que estén bien ajustadas. De lo contrario te crecerá más un brazo que el otro que parecerás un _p4jer0_.
 
@@ -307,7 +293,7 @@ Exacto….
 
 Sólo hay un tipo de hebilla que debas comprar.
 
-![tipos de hebillas para anillas](https://pau.ninja/wp-content/uploads/2024/01/tipos-de-hebillas-para-anillas.jpeg)
+![tipos de hebillas para anillas](./wp-content/uploads/2024/01tipos-de-hebillas-para-anillas.jpeg)
 
 Foto: ¿puedes adivinar cuál es el mejor?
 
@@ -317,11 +303,11 @@ Pues no. Incorrecto, querido ninja de la vida.
 
 O sea, es verdad lo de los escaladores, pero no nos aplica al entrenamiento con anillas.
 
-Piensa que para crear este ajuste tan fácil con el mosquetón, sólo pueden hacerlo creando *espacios predeterminados* en los números de la cuerda. Es decir que si la cuerda tiene 15 números, el mosquetón sólo puede dir a 15 sitios. Esto significa que **no tienes ajuste personalizado**.
+Piensa que para crear este ajuste tan fácil con el mosquetón, sólo pueden hacerlo creando _espacios predeterminados_ en los números de la cuerda. Es decir que si la cuerda tiene 15 números, el mosquetón sólo puede dir a 15 sitios. Esto significa que **no tienes ajuste personalizado**.
 
 Lo que parece irrelevante no lo es tanto cuando quieres ajustas tus anillas a una superficie irregular a un árbol.
 
-![anillas de gimnasia en arbol](https://pau.ninja/wp-content/uploads/2024/01/anillas-de-gimnasia-en-arbol.jpeg)
+![anillas de gimnasia en arbol](./wp-content/uploads/2024/01anillas-de-gimnasia-en-arbol.jpeg)
 
 Foto: es imposible igualar el nivel de dos anillas de mosquetón en un árbol.
 
@@ -341,25 +327,25 @@ Tendrás que comprar o bien las negras, o las chinas (parece un chiste rac1sta�
 
 **❌ Inconvenientes**
 
-🥇Tipo 2
-Hebilla de leva
-![hebilla de leva](https://pau.ninja/wp-content/uploads/2024/01/hebilla-de-leva.png)
+🥇Tipo 2  
+Hebilla de leva  
+![hebilla de leva](./wp-content/uploads/2024/01hebilla-de-leva.png)
 
 Seguras y ajustables
 
 Precio más elevado
 
-🥈Tipo 3
-Mosquetón
-![mosquetón para anillas](https://pau.ninja/wp-content/uploads/2024/01/mosqueton-para-anillas.png)
+🥈Tipo 3  
+Mosquetón  
+![mosquetón para anillas](./wp-content/uploads/2024/01mosqueton-para-anillas.png)
 
 Las más sencillas de poner
 
 No se ajustan a superficies irregulares como árboles
 
-🥉Tipo 1
-Hebilla de leva chino
-![hebilla de leva china](https://pau.ninja/wp-content/uploads/2024/01/hebilla-de-leva-china.png)
+🥉Tipo 1  
+Hebilla de leva chino  
+![hebilla de leva china](./wp-content/uploads/2024/01hebilla-de-leva-china.png)
 
 Las más baratas
 
@@ -375,7 +361,7 @@ Por suerte estaba haciendo posiciones en los que tuve tiempo de reaccionar ya qu
 
 Es común en la calistenia hacer ejercicios en anillas en los que estamos boca abajo o en posiciones raras… ¿Imaginas que se te rompen en alguno de estos momentos?
 
-![ejercicios con anillas](https://pau.ninja/wp-content/uploads/2024/01/ejercicios-con-anillas.jpeg)
+![ejercicios con anillas](./wp-content/uploads/2024/01ejercicios-con-anillas.jpeg)
 
 Hazme un favor y no intentes ahorrar 10 euros por lo que te puede reportar meses de _baja deportiva_.
 
@@ -404,10 +390,10 @@ Incluso he tenido en cuenta en qué tiendas salen más económicas para que pued
 
 Ya que no había ningún modelo de anillas de gimnasia que se ajustaran a las características antes mencionadas de entrenamiento en casa + parque, estoy orgulloso de decir que… ¡he creado mis propias anillas!
 
-Puedes comprar [aquí las anillas de calistenia](https://pau.ninja/tienda/anillas-calistenia/) en la tienda que he abierto recientemente.
+Puedes comprar [aquí las anillas de calistenia](./tienda/anillas-calistenia) en la tienda que he abierto recientemente.
 
-[![anillas gimnasia](https://pau.ninja/wp-content/uploads/2024/02/anillas-gimnasia.jpeg)](https://pau.ninja/tienda/anillas-calistenia/)
-[Comprar aquí](https://pau.ninja/tienda/anillas-calistenia/)
+[![anillas gimnasia](./wp-content/uploads/2024/02/anillas-gimnasia.jpeg)](https://pau.ninja/tienda/anillas-calistenia)  
+[Comprar aquí](./tienda/anillas-calistenia)
 
 - **Precio:** 46€ aprox (sin aplicar cupón)
 - **Cupón descuento:** _RECURSOS_
@@ -429,15 +415,15 @@ Si vas a comprar en Amazon, te recomendaría que tuvieras en cuenta los siguient
 
 Compré distintos modelos en Amazon, y cómo al final decidí quedarme con unas anillas para comprarlas con las mías y me terminé quedando con las de Wild Instincts.
 
-[![Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym Rings/Aros...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRGRtUk5lbEZSWlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTU1OA=)](https://www.amazon.es/dp/B08FR7HX19?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym Rings/Aros...')
+[![Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym Rings/Aros...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRGRtUk5lbEZSWlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDMwOQ=)](https://www.amazon.es/dp/B08FR7HX19?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym RingsAros...")
 
-[Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym Rings/Aros...](https://www.amazon.es/dp/B08FR7HX19?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym Rings/Aros...')
+[Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym Rings/Aros...](https://www.amazon.es/dp/B08FR7HX19?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Wild Instincts Anillas de Gimnasia de Madera 28mm / 32mm para Gimnasia y Calistenia/Gym Rings/Aros...")
 
 Mis favoritas si vas a comprar unas en Amazon.
 
-49,90 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+49,90 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08FR7HX19?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08FR7HX19?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Ventajas
 
@@ -456,7 +442,7 @@ Desgraciadamente no es la mejor tienda para comprar anillas y lo vemos clarament
 
 Son de mala calidad. Fíjate en las anillas. Son de las chinas baratas… Los directivos estarán contentos de sacar tanto beneficio.
 
-![anillas gimnasia decathlon](https://pau.ninja/wp-content/uploads/2024/01/anillas-gimnasia-decathlon.jpg)
+![anillas gimnasia decathlon](./wp-content/uploads/2024/01anillas-gimnasia-decathlon.jpg)
 
 Atención: te venden unas anillas con anillas chinas malas por 100 eurazos.
 
@@ -468,13 +454,13 @@ Resumiendo, que Decathlon lo que está haciendo no es producir unas buenas anill
 
 Y hablando de anillas baratas pero accesibles, antes que las de decathlon, si vas a comprar unas anillas menos seguras, sí que al menos te recomendaría que eligieses esta marca de aquí.
 
-[![5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbmRqbGhRbGxGVmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTU1OA=)](https://www.amazon.es/dp/B01JI8F2OS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 '5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...')
+[![5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbmRqbGhRbGxGVmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDMwOQ=)](https://www.amazon.es/dpB01JI8F2OS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...")
 
-[5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...](https://www.amazon.es/dp/B01JI8F2OS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 '5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...')
+[5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...](https://www.amazon.es/dp/B01JI8F2OS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "5BILLION Anillos de Gimnasia de Madera-Anillos de Gimnasio Olímpico con Hebillas Ajustables...")
 
-37,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+37,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B01JI8F2OS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B01JI8F2OS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Ventajas
 
@@ -483,7 +469,7 @@ Ventajas
 
 Inconvenientes
 
-- Las correas no llevan números, lo que es un impedimento para hacer más fácil y analítica nuestra progresión en ejercicios, pesos y repeticiones. *Actualización 2024: la marca ha numerado las correas*.
+- Las correas no llevan números, lo que es un impedimento para hacer más fácil y analítica nuestra progresión en ejercicios, pesos y repeticiones. _Actualización 2024: la marca ha numerado las correas_.
 - También pecan en que las correas son demasiado delgadas si queremos darles buena durabilidad y longevidad.
 
 ### Gornation: las mejores anillas olímpicas
@@ -496,7 +482,7 @@ Tendría que haber un **balance** entre los agarres de los ejercicios de empuje
 
 Si quieres ese diámetro de 28mm olímpico, ¿cuáles recomendaría comprar que yo también haya probado?
 
-![anillas gornation](https://pau.ninja/wp-content/uploads/2024/01/anillas-gornation.jpg)
+![anillas gornation](./wp-content/uploads/2024/01anillas-gornation.jpg)
 
 [Ver anillas Gornation aquí](https://www.gornation.com/products/workout-rings-set) [Ver mejor modelo](#Anillas_ninja_las_mejores_para_calistenia)
 
@@ -518,3 +504,83 @@ Es decir que si enganchamos las anillas casi pegadas a la barra donde las hemos 
 Por lo tanto a más arriba (más pegadas a la barra), más fáciles que si las colgamos en una barra con mucha altura y hay cuerda más suelta que tu ex.
 
 Recomendaría unos **2 metros sobre el suelo**… Mhmm. Dos metros sobre el suelo. Nombre perfecto para la película antagonista de «A Tres Metros Sobre el Cielo».
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Fitness](./fitness)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/mejores-anillas-gimnasia/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":22489,"title":"%E3%80%90Anillas%20de%20gimnasia%E3%80%91%20Las%205%20mejores%20para%202024","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2024\\/01\\/persona-con-las-mejores-anillas-de-gimnasia.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

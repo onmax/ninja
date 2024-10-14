@@ -1,13 +1,18 @@
 ---
-title: "Organiza así tus objetivos para alcanzarlos (según +20 estudios)"
+title: "Organiza así tus objetivos para alcanzarlos"
+url: https://pau.ninja/llegar-a-una-meta
+slug: llegar-a-una-meta
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-llega-a-sus-metas.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/01/persona-llega-a-sus-metas.jpeg
 published: 2024-02-20T08:31:18+00:00
 modified: 2024-08-10T19:20:47+00:00
+scrappedAt: 2024-10-14T09:19:34.265Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85052835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-6%2F373417062-44100-2-13d258f498b12.mp3
-slug: llegar-a-una-meta
+bibliography: ["Sedaris, D. (2009, August 17). Laugh, Kookaburra. The New Yorker.","Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.","Orbell, S., & Sheeran, P. (1998). “Inclined abstainers”: A problem for predicting health-related behaviour. British Journal of Social Psychology, 37(2), 151–165.)","Sheeran, Paschal and Sheina Orbell. “Implementation intentions and repeated behaviour: augmenting the predictive validity of the theory of planned behaviour.” European Journal of Social Psychology 29 (1999): 349-369.","Smith RE, McConnell Rogers MD, McVay JC, Lopez JA, Loft S. Investigating how implementation intentions improve non-focal prospective memory tasks. Conscious Cogn. 2014 Jul;27:213-30. doi: 10.1016/j.concog.2014.05.003. Epub 2014 Jun 12. PMID: 24929276; PMCID: PMC4113409.","Verplanken, Bas & Faes, Suzanne. (1970). Good Intentions, Bad Habits, and Effects of Forming Implementation Intentions on Healthy Eating. European Journal of Social Psychology. 29. 591-604. 10.1002/(SICI)1099-0992(199908/09)29:5/63.0.CO;2-H.","Gollwitzer, Peter & Keller, Lucas. (2016). Mindset Theory. 10.1007/978-3-319-28099-8\\_1141-1.","American Psychological Association. «Frequently monitoring progress toward goals increases chance of success: Publicly reporting or recording progress has an even greater effect, study says.» ScienceDaily. ScienceDaily, 29 October 2015.","Doran, G. T. (1981). There’s a S.M.A.R.T. way to write management’s goals and objectives. Management Review, Volume 70, Issue 11(AMA FORUM), pp. 35-36.","Matthews, G. (2015). Goal research summary. Paper presented at the 9th Annual International Conference of the Psychology Research Unit of Athens Institute for Education and Research (ATINER), Athens, Greece.","Matthews, Gail. 2007. “The Impact of Commitment, Accountability, and Written Goals on Goal Achievement,” January.","Milne, S., Orbell, S. and Sheeran, P. British Journal of Health Psychology (2002)","Gardner, Sarah and Albee, Dave, «Study focuses on strategies for achieving goals, resolutions» (2015). Press Releases. 266.","Alvarez, J. A., & Emory, E. (2006). Executive function and the frontal lobes: a meta-analytic review. Neuropsychology Review, 16(1), 17-42.","Kappes, Heather & Oettingen, Gabriele. (2011). Positive fantasies about idealized futures sap energy. Journal of Experimental Social Psychology. 47. 719-729. 10.1016/j.jesp.2011.02.003.","Berkman, E. T., & Lieberman, M. D. (2009). Using neuroscience to broaden emotion regulation: Theoretical and methodological considerations. Social and Personality Psychology Compass, 3(4), 475-493.","Berkman, E. T. (2018). The neuroscience of goals and behavior change. Consulting Psychology Journal: Practice and Research, 70(1), 28-44.","Milne S, Orbell S, Sheeran P. Combining motivational and volitional interventions to promote exercise participation: protection motivation theory and implementation intentions. Br J Health Psychol. 2002 May;7(Pt 2):163-84. doi: 10.1348/135910702169420. PMID: 14596707.","Iso-Ahola SE, Dotson CO. Psychological Momentum-A Key to Continued Success. Front Psychol. 2016 Aug 31;7:1328. doi: 10.3389/fpsyg.2016.01328. PMID: 27630603; PMCID: PMC5006010.","VanSonnenberg, E. (2011, January 3). Ready, set, goals! Positive Psychology News.","Ba, Sulin & Wang, Lei. (2013). Digital health communities: The effect of their motivation mechanisms. Decision Support Systems. 55. 941–947. 10.1016/j.dss.2013.01.003.","Cohen Emma E. A., Ejsmond-Frey Robin, Knight Nicola and Dunbar R. I. M. 2010Rowers’ high: behavioural synchrony is correlated with elevated pain thresholdsBiol. Lett.6106–108.","O’Keefe PA, Dweck CS, Walton GM. Implicit Theories of Interest: Finding Your Passion or Developing It? Psychol Sci. 2018 Oct;29(10):1653-1664. doi: 10.1177/0956797618780643. Epub 2018 Sep 6. PMID: 30188804; PMCID: PMC6180666.","J.L. Fannin & R.M. Williams (2012), Leading-Edge Neuroscience Reveals Significant Correlations Between Beliefs, the Whole-Brain State, and Psychotherapy."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/85052835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-6%2F373417062-44100-2-13d258f498b12.mp3](https://anchor.fm/s/98566448/podcast/play/85052835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-6%2F373417062-44100-2-13d258f498b12.mp3)
 
 La teoría del Establecimiento de metas (_goal setting theory_) nos enseña la explicación más simple de por qué algunas personas son más propensas a llegar a sus metas en comparación con otras.
@@ -24,44 +29,29 @@ Esto nos decía Pablo Picasso, pero más allá de las palabras bonitas, citas y 
 
 La psicología ya llevaba estudiando las teorías del establecimiento de metas desde los años 30, y hoy, en vez de hablar tanto de teoría, giramos la página hacia al pragmatismo.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Pasos para llegar a una meta según la psicología](#Pasos_para_llegar_a_una_meta_segun_la_psicologia 'Pasos para llegar a una meta según la psicología')
-  - [Define uno o dos objetivos como máximo](#Define_uno_o_dos_objetivos_como_maximo 'Define uno o dos objetivos como máximo')
-  - [Disecciona tus objetivos en metas pequeñas](#Disecciona_tus_objetivos_en_metas_pequenas 'Disecciona tus objetivos en metas pequeñas')
-  - [Cambia los resultados por intenciones](#Cambia_los_resultados_por_intenciones 'Cambia los resultados por intenciones')
-  - [Define metas específicas para conseguirlas](#Define_metas_especificas_para_conseguirlas 'Define metas específicas para conseguirlas')
-  - [Escríbelo en un papel lo que quieres conseguir](#Escribelo_en_un_papel_lo_que_quieres_conseguir 'Escríbelo en un papel lo que quieres conseguir')
-  - [Céntrate en la acción, no en la motivación](#Centrate_en_la_accion_no_en_la_motivacion 'Céntrate en la acción, no en la motivación')
-  - [Toma responsabilidad haciéndolo público](#Toma_responsabilidad_haciendolo_publico 'Toma responsabilidad haciéndolo público')
-  - [Desarrolla una mentalidad de crecimiento](#Desarrolla_una_mentalidad_de_crecimiento 'Desarrolla una mentalidad de crecimiento')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Pasos para llegar a una meta según la psicología
 
 Ahora que tenemos establecidos los procesos, podemos empezar a ser lo pragmáticos que nos gusta ser a los ninjas de la vida.
 
 ### Define uno o dos objetivos como máximo
 
-Según la «Teoría de los Cuatro Fogones» no podemos dedicarnos al 100% a todas [la áreas de la vida](https://pau.ninja/areas-de-la-vida/) (#522).
+Según la «Teoría de los Cuatro Fogones» no podemos dedicarnos al 100% a todas [la áreas de la vida](./areas-de-la-vida) (#522).
 
-No podemos estar a tope _a la vez_ con la familia, al trabajo, a los amigos o a perfeccionar la salud al mismo tiempo.[1](<javascript:void(0)>)Sedaris, D. (2009, August 17). Laugh, Kookaburra. The New Yorker.
+No podemos estar a tope _a la vez_ con la familia, al trabajo, a los amigos o a perfeccionar la salud al mismo tiempo.[ref-1](#ref-1){.ref}
 
 Tenemos que limitarnos a una o dos opciones si queremos realmente dedicar tiempo y atención a metas que sean largoplacistas.
 
-![hacer muchas cosas a la vez](https://pau.ninja/wp-content/uploads/2023/06/hacer-muchas-cosas-a-la-vez.jpeg)
+![hacer muchas cosas a la vez](./wp-content/uploads/2023/06hacer-muchas-cosas-a-la-vez.jpeg)
 
 Seguro que más de uno lo habréis experimentado, que cuando divides tu atención en 5 proyectos distintos, no terminas ninguno…
 
 En cambio cuando somos capaces de hacer foco en una sola cosa (_eat a frog_), las probabilidades de terminarlas aumentan enormemente.
 
-Así que lo primero es saber poner el foco **en una sola cosa**. Por esto para los que han decidido [comprar la agenda de productividad](https://pau.ninja/tienda/agenda-de-productividad/) veis como esta única cosa, coge un rol centrar en las páginas diarias.
+Así que lo primero es saber poner el foco **en una sola cosa**. Por esto para los que han decidido [comprar la agenda de productividad](./tienda/agenda-de-productividad) veis como esta única cosa, coge un rol centrar en las páginas diarias.
 
 ### Disecciona tus objetivos en metas pequeñas
 
-En los 60 el trabajo del psicólogo Locke se centró en diseccionar las metas. Hacer los objetivos más pequeños para poder conseguirlos.[2](<javascript:void(0)>)Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.
+En los 60 el trabajo del psicólogo Locke se centró en diseccionar las metas. Hacer los objetivos más pequeños para poder conseguirlos.[ref-2](#ref-2){.ref}
 
 Algo que toma mucha relevancia por la dopamina y la corteza porque los hitos adecuados + un nivel de dopamina correcto o el miedo de que no los alcances (la amígdala entra al campo) ayudarán a que seamos más propensos a ejecutar la meta que ahora está dividida en cosas más pequeñas.
 
@@ -71,16 +61,16 @@ Vale. Entonces tenemos que para conseguir una meta somos más probables de alcan
 
 En estudios de los 90 miraron lo que se llama «brecha de intención», que hace referencia a esto.
 
-Separaron los participantes para que dividieron sus objetivo según su intención.[3](<javascript:void(0)>)Orbell, S., & Sheeran, P. (1998). “Inclined abstainers”: A problem for predicting health-related behaviour. British Journal of Social Psychology, 37(2), 151–165.)
+Separaron los participantes para que dividieron sus objetivo según su intención.[ref-3](#ref-3){.ref}
 
 Terminaron con dos grupos según el tipo de intención que tenían que intentar resolver:
 
-- **Intención de meta:** *quiero estar más sano*
-- **Intención de implementación:** *durante la próxima semana comeré x3 veces y en cada plato sólo habrá carne*
+- **Intención de meta:** _quiero estar más sano_
+- **Intención de implementación:** _durante la próxima semana comeré x3 veces y en cada plato sólo habrá carne_
 
 La meta es la misma, pero con la intención de implementación ha sido increíblemente más específico.
 
-La diferencia en los resultados fue enorme.[4](<javascript:void(0)>)Sheeran, Paschal and Sheina Orbell. “Implementation intentions and repeated behaviour: augmenting the predictive validity of the theory of planned behaviour.” European Journal of Social Psychology 29 (1999): 349-369.[5](<javascript:void(0)>)Smith RE, McConnell Rogers MD, McVay JC, Lopez JA, Loft S. Investigating how implementation intentions improve non-focal prospective memory tasks. Conscious Cogn. 2014 Jul;27:213-30. doi: 10.1016/j.concog.2014.05.003. Epub 2014 Jun 12. PMID: 24929276; PMCID: PMC4113409.[6](<javascript:void(0)>)Verplanken, Bas & Faes, Suzanne. (1970). Good Intentions, Bad Habits, and Effects of Forming Implementation Intentions on Healthy Eating. European Journal of Social Psychology. 29. 591-604. 10.1002/(SICI)1099-0992(199908/09)29:5/63.0.CO;2-H.
+La diferencia en los resultados fue enorme.[ref-4](#ref-4){.ref}[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}
 
 Haciendo a los que convirtieron el resultado de la meta su implementación y no su recompensa fueran mucho más propensos a conseguirla.
 
@@ -90,16 +80,16 @@ Haciendo a los que convirtieron el resultado de la meta su implementación y no 
 
 En Stanford vieron que las tareas con instrucciones más específicas, más detalladas eran un 75% más probable de que se completaran.
 
-Lo mismo con otros psicólogos que han estudiado «la teoría de la mentalidad» llegando a porcentajes diferentes pero igualmente altos: si eres específico, tienes más probabilidades de conseguirlo.[7](<javascript:void(0)>)Gollwitzer, Peter & Keller, Lucas. (2016). Mindset Theory. 10.1007/978-3-319-28099-8_1141-1. Un truquito es usar el acrónimo LEMA.
+Lo mismo con otros psicólogos que han estudiado «la teoría de la mentalidad» llegando a porcentajes diferentes pero igualmente altos: si eres específico, tienes más probabilidades de conseguirlo.[ref-7](#ref-7){.ref} Un truquito es usar el acrónimo LEMA.
 
 - **L de limitado en el tiempo:** que responde a la pregunta ¿cuando habré llegado al resultado?
 - **E de específico:** quien está involucrado, qué quiero conseguir, en qué lugar, en qué momento, qué necesito y por qué
-- **M de mesurable:** que responde a la pregunta de: ¿cómo sabré que he alcanzado el objetivo? Y que responderla lleva a más porcentaje de éxito[8](<javascript:void(0)>)American Psychological Association. «Frequently monitoring progress toward goals increases chance of success: Publicly reporting or recording progress has an even greater effect, study says.» ScienceDaily. ScienceDaily, 29 October 2015..
+- **M de mesurable:** que responde a la pregunta de: ¿cómo sabré que he alcanzado el objetivo? Y que responderla lleva a más porcentaje de éxito[ref-8](#ref-8){.ref}.
 - **A de alcanzable:** un objetivo tiene que representar algo por lo que _puedas_ pero también por lo _quieras_ trabajar. Que sea alcanzable no significa que sea fácil pero lógicamente tienes que tener las habilidades para hacerlo.
 
-En realidad el acrónimo original es SMART.[9](<javascript:void(0)>)Doran, G. T. (1981). There’s a S.M.A.R.T. way to write management’s goals and objectives. Management Review, Volume 70, Issue 11(AMA FORUM), pp. 35-36. pero he hecho esta maravillosa adaptación al español.
+En realidad el acrónimo original es SMART.[ref-9](#ref-9){.ref} pero he hecho esta maravillosa adaptación al español.
 
-El bueno del Dr. Gail Matthews decidió hacer un experimento de más de 260 personas para ver si lo que se decía de Stanford era cierto pero además para mirar otros factores.[10](<javascript:void(0)>)Matthews, G. (2015). Goal research summary. Paper presented at the 9th Annual International Conference of the Psychology Research Unit of Athens Institute for Education and Research (ATINER), Athens, Greece.
+El bueno del Dr. Gail Matthews decidió hacer un experimento de más de 260 personas para ver si lo que se decía de Stanford era cierto pero además para mirar otros factores.[ref-10](#ref-10){.ref}
 
 ¿Qué hizo? Puedes dividirlos en 5 grupos.
 
@@ -121,11 +111,11 @@ Hay una pequeña acción que hace que te sea más probable conseguir tus objetiv
 
 Escribirlo en papel.
 
-Cada estudio da un porcentaje distinto sobre cuanto efectivo fue para los participantes escribir sus objetivos en papel en comparación con no hacerlo.[11](<javascript:void(0)>)Matthews, Gail. 2007. “The Impact of Commitment, Accountability, and Written Goals on Goal Achievement,” January.
+Cada estudio da un porcentaje distinto sobre cuanto efectivo fue para los participantes escribir sus objetivos en papel en comparación con no hacerlo.[ref-11](#ref-11){.ref}
 
-En un estudio encontraron que el 91% de los querían hacer ejercicio y escribieron en papel cuándo lo harían, terminaron cumpliéndolo en comparación con los que no lo hicieron.[12](<javascript:void(0)>)Milne, S., Orbell, S. and Sheeran, P. British Journal of Health Psychology (2002)
+En un estudio encontraron que el 91% de los querían hacer ejercicio y escribieron en papel cuándo lo harían, terminaron cumpliéndolo en comparación con los que no lo hicieron.[ref-12](#ref-12){.ref}
 
-Mientras que otros estudios similares dan un 42% del resultado, que no es tan dramático pero igualmente substancial.[13](<javascript:void(0)>)Gardner, Sarah and Albee, Dave, «Study focuses on strategies for achieving goals, resolutions» (2015). Press Releases. 266.
+Mientras que otros estudios similares dan un 42% del resultado, que no es tan dramático pero igualmente substancial.[ref-13](#ref-13){.ref}
 
 ¿Sabéis por qué sucede esto?
 
@@ -133,7 +123,7 @@ Tenemos una parte de nuestro cerebro que se llama Sistema de Activación Reticul
 
 Este grupo de células procesa toda la información y canales sensoriales relacionados con las cosas que necesitan de nuestra atención ahora mismo.
 
-Lo interesante es que el SAR… nos da señales.[14](<javascript:void(0)>)Alvarez, J. A., & Emory, E. (2006). Executive function and the frontal lobes: a meta-analytic review. Neuropsychology Review, 16(1), 17-42.
+Lo interesante es que el SAR… nos da señales.[ref-14](#ref-14){.ref}
 
 Por ejemplo si tu objetivo es comprar un Lamborghini, tu SAR hará que sólo veas Lamborghinis a tus alrededores.
 
@@ -161,9 +151,9 @@ Los que imploran de manera divina La Ley De La Atracción no están hablando con
 
 En realidad lo que están haciendo es hablando con su SAR. No con el universo.
 
-La visualización, el verlo representado, está demostrado que crea una mayor activación cerebral.[15](<javascript:void(0)>)Kappes, Heather & Oettingen, Gabriele. (2011). Positive fantasies about idealized futures sap energy. Journal of Experimental Social Psychology. 47. 719-729. 10.1016/j.jesp.2011.02.003.
+La visualización, el verlo representado, está demostrado que crea una mayor activación cerebral.[ref-15](#ref-15){.ref}
 
-Imaginar el éxito consiguiendo esta meta nos hace acordarnos de nuestra meta estimulando el SAR repetidamente.[16](<javascript:void(0)>)Berkman, E. T., & Lieberman, M. D. (2009). Using neuroscience to broaden emotion regulation: Theoretical and methodological considerations. Social and Personality Psychology Compass, 3(4), 475-493.
+Imaginar el éxito consiguiendo esta meta nos hace acordarnos de nuestra meta estimulando el SAR repetidamente.[ref-16](#ref-16){.ref}
 
 > Los neurólogos ya nos confirmaban como el cerebro no puede distinguir entre realidad e imaginación.
 
@@ -173,19 +163,19 @@ Es como en al anime Kengan Ashura cuando el protagonista en vez de entrenar fís
 
 El notas se sienta y entra en un estado profundo en el que se ve a si mismo luchando contra los oponentes.
 
-Cuando alimentamos a nuestro cerebro de la imagen, de la meta que queremos conseguir, la mente empieza a pensar que es real haciendo que finalmente la cabeza nos lleve a tomar acción.[17](<javascript:void(0)>)Berkman, E. T. (2018). The neuroscience of goals and behavior change. Consulting Psychology Journal: Practice and Research, 70(1), 28-44.
+Cuando alimentamos a nuestro cerebro de la imagen, de la meta que queremos conseguir, la mente empieza a pensar que es real haciendo que finalmente la cabeza nos lleve a tomar acción.[ref-17](#ref-17){.ref}
 
 ### Céntrate en la acción, no en la motivación
 
 Es genial que el 91% de los que escribieron sus metas en papel terminaron siendo un 91% más propensos a cumplir sus metas.
 
-Este es el poder de [los beneficios de escribir a mano para el cerebro](https://pau.ninja/beneficios-de-escribir-a-mano-para-el-cerebro/) (#561), pero lo que más me peta la cabeza, es que en el mismo estudio había dos grupos más: un de control y el grupo de motivación.
+Este es el poder de [los beneficios de escribir a mano para el cerebro](./beneficios-de-escribir-a-mano-para-el-cerebro) (#561), pero lo que más me peta la cabeza, es que en el mismo estudio había dos grupos más: un de control y el grupo de motivación.
 
-![gráfico resultados escribir a mano](https://pau.ninja/wp-content/uploads/2024/01/grafico-resultados-escribir-a-mano.png)
+![gráfico resultados escribir a mano](./wp-content/uploads/2024/01grafico-resultados-escribir-a-mano.png)
 
 Esperarías que al grupo de motivación, al que se «alimentó» de material motivacional para que cumplieran sus metas, fue incluso **menos** propenso a terminar tomando acción en sus metas que el grupo de control.
 
-La diferencia fue mínima pero lo que quiero remarcar es que no hubo virtualmente nada de diferencia en las acciones que tomaron después para hacer ejercicio en comparación con el grupo de control.[18](<javascript:void(0)>)Milne S, Orbell S, Sheeran P. Combining motivational and volitional interventions to promote exercise participation: protection motivation theory and implementation intentions. Br J Health Psychol. 2002 May;7(Pt 2):163-84. doi: 10.1348/135910702169420. PMID: 14596707.
+La diferencia fue mínima pero lo que quiero remarcar es que no hubo virtualmente nada de diferencia en las acciones que tomaron después para hacer ejercicio en comparación con el grupo de control.[ref-18](#ref-18){.ref}
 
 > La motivación (que si incrementó) no tuvo ningún impacto en el resultado al final del estudio.
 
@@ -193,19 +183,19 @@ Algo que remarca lo que muchos ninjas de la vida ya saben.
 
 La motivación procede de la acción.
 
-![fases de la motivación](https://pau.ninja/wp-content/uploads/2023/05/fases-de-la-motivacion.png)
+![fases de la motivación](./wp-content/uploads/2023/05fases-de-la-motivacion.png)
 
 Primero viene la acción (tengas o no ganas), y cuando estás en el meollo de la cuestión, de pronto (y siempre) viene la motivación.
 
 ¿Por qué?
 
-Porque tenemos *feedback* constante.
+Porque tenemos _feedback_ constante.
 
 En estudios se ha visto como las rachas consecutivas de éxito son claves para los que siguen petándolo constantemente.
 
 En realidad, los que tienen éxito sin parar en sus objetivos se centran más en «no cag-gar-la» para no parar la bola de nieve de éxitos que lleva un buen impulso, más que ir subiendo una pendiente de éxito.
 
-Por esto alguien que consigue sus objetivos a menudo es más propenso a seguir cumpliéndolos de forma continuada. Es el *momentum* psicológico.[19](<javascript:void(0)>)Iso-Ahola SE, Dotson CO. Psychological Momentum-A Key to Continued Success. Front Psychol. 2016 Aug 31;7:1328. doi: 10.3389/fpsyg.2016.01328. PMID: 27630603; PMCID: PMC5006010.
+Por esto alguien que consigue sus objetivos a menudo es más propenso a seguir cumpliéndolos de forma continuada. Es el _momentum_ psicológico.[ref-19](#ref-19){.ref}
 
 Como en todo en la vida, el primer paso puede ser súper simple, pero acostumbra ser el que cuesta más, pero es indispensable aunque sea una cuesta.
 
@@ -222,7 +212,7 @@ Esta toma de responsabilidad puede tomar todas las formas que el estudio mostrab
 
 La responsabilidad interna que tomamos a modo personal, individual no es moco de pavo.
 
-La psicóloga Emily VanSonnenberg concluyó en su estudio que los que se preguntaban preguntas del tipo:[20](<javascript:void(0)>)VanSonnenberg, E. (2011, January 3). Ready, set, goals! Positive Psychology News.
+La psicóloga Emily VanSonnenberg concluyó en su estudio que los que se preguntaban preguntas del tipo:[ref-20](#ref-20){.ref}
 
 - ¿Qué tienes intención de hacer hoy?
 - ¿Que quieres conseguir en la vida?
@@ -231,11 +221,11 @@ Compartir la meta con otras personas es como Voldemort separando su alma en 7 ho
 
 Se hace más llevadero.
 
-> Así lo confirman *papers* de investigación se vio correlación positiva entre ser un participante de [una comunidad digital como Sociedad Ninja](#unirse) y cumplir objetivos.[21](<javascript:void(0)>)Ba, Sulin & Wang, Lei. (2013). Digital health communities: The effect of their motivation mechanisms. Decision Support Systems. 55. 941–947. 10.1016/j.dss.2013.01.003.
+> Así lo confirman _papers_ de investigación se vio correlación positiva entre ser un participante de [una comunidad digital como Sociedad Ninja](#unirse) y cumplir objetivos.[ref-21](#ref-21){.ref}
 
 Le mandamos un abrazo a Sahu, un miembro que rema barquitas en equipo, ¿por qué?
 
-Pues porque he pensado en él cuando he visto un estudio con equipos de remo que demuestran como el hecho de tener objetivos en equipo hace que su umbral de dolor se eleve.[22](<javascript:void(0)>)Cohen Emma E. A., Ejsmond-Frey Robin, Knight Nicola and Dunbar R. I. M. 2010Rowers’ high: behavioural synchrony is correlated with elevated pain thresholdsBiol. Lett.6106–108.
+Pues porque he pensado en él cuando he visto un estudio con equipos de remo que demuestran como el hecho de tener objetivos en equipo hace que su umbral de dolor se eleve.[ref-22](#ref-22){.ref}
 
 Que puedan soportar más dolor durante competición que si remaran solos.
 
@@ -248,110 +238,10 @@ Harvard hizo un estudio comparando la mentalidad de dos tipos de personas:
 
 ¿Que vieron los de Harvard preguntando a todas estas personas?
 
-Los de mentalidad fija aseguraban que una vez encuentras tu pasión, debería llegar con facilidad y con una motivación ilimitada.[23](<javascript:void(0)>)O’Keefe PA, Dweck CS, Walton GM. Implicit Theories of Interest: Finding Your Passion or Developing It? Psychol Sci. 2018 Oct;29(10):1653-1664. doi: 10.1177/0956797618780643. Epub 2018 Sep 6. PMID: 30188804; PMCID: PMC6180666.[24](<javascript:void(0)>)J.L. Fannin & R.M. Williams (2012), Leading-Edge Neuroscience Reveals Significant Correlations Between Beliefs, the Whole-Brain State, and Psychotherapy.
+Los de mentalidad fija aseguraban que una vez encuentras tu pasión, debería llegar con facilidad y con una motivación ilimitada.[ref-23](#ref-23){.ref}[ref-24](#ref-24){.ref}
 
 En cambio los de mentalidad de crecimiento eran más propensos a pensar que perseguir una pasión implicaría incomodidades y dificultades.
 
 Si os digo con cuál mentalidad os identificáis más, me apuesto un huevo a que el 100% del ninja medio dirá con mentalidad de crecimiento.
 
 Me gusta pensar que estáis aprendiendo algo con lo que digo.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Sedaris, D. (2009, August 17). Laugh, Kookaburra. The New Yorker.
-
-- 2
-
-  Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.
-
-- 3
-
-  Orbell, S., & Sheeran, P. (1998). “Inclined abstainers”: A problem for predicting health-related behaviour. British Journal of Social Psychology, 37(2), 151–165.)
-
-- 4
-
-  Sheeran, Paschal and Sheina Orbell. “Implementation intentions and repeated behaviour: augmenting the predictive validity of the theory of planned behaviour.” European Journal of Social Psychology 29 (1999): 349-369.
-
-- 5
-
-  Smith RE, McConnell Rogers MD, McVay JC, Lopez JA, Loft S. Investigating how implementation intentions improve non-focal prospective memory tasks. Conscious Cogn. 2014 Jul;27:213-30. doi: 10.1016/j.concog.2014.05.003. Epub 2014 Jun 12. PMID: 24929276; PMCID: PMC4113409.
-
-- 6
-
-  Verplanken, Bas & Faes, Suzanne. (1970). Good Intentions, Bad Habits, and Effects of Forming Implementation Intentions on Healthy Eating. European Journal of Social Psychology. 29. 591-604. 10.1002/(SICI)1099-0992(199908/09)29:5/63.0.CO;2-H.
-
-- 7
-
-  Gollwitzer, Peter & Keller, Lucas. (2016). Mindset Theory. 10.1007/978-3-319-28099-8_1141-1.
-
-- 8
-
-  American Psychological Association. «Frequently monitoring progress toward goals increases chance of success: Publicly reporting or recording progress has an even greater effect, study says.» ScienceDaily. ScienceDaily, 29 October 2015.
-
-- 9
-
-  Doran, G. T. (1981). There’s a S.M.A.R.T. way to write management’s goals and objectives. Management Review, Volume 70, Issue 11(AMA FORUM), pp. 35-36.
-
-- 10
-
-  Matthews, G. (2015). Goal research summary. Paper presented at the 9th Annual International Conference of the Psychology Research Unit of Athens Institute for Education and Research (ATINER), Athens, Greece.
-
-- 11
-
-  Matthews, Gail. 2007. “The Impact of Commitment, Accountability, and Written Goals on Goal Achievement,” January.
-
-- 12
-
-  Milne, S., Orbell, S. and Sheeran, P. British Journal of Health Psychology (2002)
-
-- 13
-
-  Gardner, Sarah and Albee, Dave, «Study focuses on strategies for achieving goals, resolutions» (2015). Press Releases. 266.
-
-- 14
-
-  Alvarez, J. A., & Emory, E. (2006). Executive function and the frontal lobes: a meta-analytic review. Neuropsychology Review, 16(1), 17-42.
-
-- 15
-
-  Kappes, Heather & Oettingen, Gabriele. (2011). Positive fantasies about idealized futures sap energy. Journal of Experimental Social Psychology. 47. 719-729. 10.1016/j.jesp.2011.02.003.
-
-- 16
-
-  Berkman, E. T., & Lieberman, M. D. (2009). Using neuroscience to broaden emotion regulation: Theoretical and methodological considerations. Social and Personality Psychology Compass, 3(4), 475-493.
-
-- 17
-
-  Berkman, E. T. (2018). The neuroscience of goals and behavior change. Consulting Psychology Journal: Practice and Research, 70(1), 28-44.
-
-- 18
-
-  Milne S, Orbell S, Sheeran P. Combining motivational and volitional interventions to promote exercise participation: protection motivation theory and implementation intentions. Br J Health Psychol. 2002 May;7(Pt 2):163-84. doi: 10.1348/135910702169420. PMID: 14596707.
-
-- 19
-
-  Iso-Ahola SE, Dotson CO. Psychological Momentum-A Key to Continued Success. Front Psychol. 2016 Aug 31;7:1328. doi: 10.3389/fpsyg.2016.01328. PMID: 27630603; PMCID: PMC5006010.
-
-- 20
-
-  VanSonnenberg, E. (2011, January 3). Ready, set, goals! Positive Psychology News.
-
-- 21
-
-  Ba, Sulin & Wang, Lei. (2013). Digital health communities: The effect of their motivation mechanisms. Decision Support Systems. 55. 941–947. 10.1016/j.dss.2013.01.003.
-
-- 22
-
-  Cohen Emma E. A., Ejsmond-Frey Robin, Knight Nicola and Dunbar R. I. M. 2010Rowers’ high: behavioural synchrony is correlated with elevated pain thresholdsBiol. Lett.6106–108.
-
-- 23
-
-  O’Keefe PA, Dweck CS, Walton GM. Implicit Theories of Interest: Finding Your Passion or Developing It? Psychol Sci. 2018 Oct;29(10):1653-1664. doi: 10.1177/0956797618780643. Epub 2018 Sep 6. PMID: 30188804; PMCID: PMC6180666.
-
-- 24
-
-  J.L. Fannin & R.M. Williams (2012), Leading-Edge Neuroscience Reveals Significant Correlations Between Beliefs, the Whole-Brain State, and Psychotherapy.

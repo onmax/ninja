@@ -1,14 +1,19 @@
 ---
-title: "Pau Ninja: el nacimiento de mi marca personal Qué es, cómo construirla y mejorarla"
+title: "Pau Ninja: el nacimiento de mi marca personal"
+url: https://pau.ninja/como-crear-una-marca-personal
+slug: como-crear-una-marca-personal
+categories: 
+- slug: negocios
+    label: Negocios
 image: creando-marca-personal.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2022/02/creando-marca-personal.jpg
 published: 2022-02-16T15:27:21+00:00
 modified: 2023-09-25T14:26:30+00:00
+scrappedAt: 2024-10-14T09:20:52.491Z
 audioLink: https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal_md_82811786_wp_1.mp3
-slug: como-crear-una-marca-personal
+bibliography: []
 ---
-
-[https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal_md_82811786_wp_1.mp3](https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal_md_82811786_wp_1.mp3)
+[https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal\_md\_82811786\_wp\_1.mp3](https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal_md_82811786_wp_1.mp3)
 
 Durante el verano de 2017 compré un dominio que cambió mi vida para siempre.
 
@@ -20,7 +25,7 @@ Apareció un listado enorme pero por esto casi todo estaba cogido. De las pocas 
 
 El primero fue pau.me que terminé comprando al dueño por 250€ después de negociarle varias bajadas con la excusa de que «pau» significa «p0lla» en portugués.
 
-Teniendo en mente un blog multitemático donde documentar mis experiencias de mil cosas, la segunda opción me dio buen *feeling*. El dominio pau.ninja quedaba muy «ninja de la vida». Como los miembros de [Sociedad Ninja](#unirse).
+Teniendo en mente un blog multitemático donde documentar mis experiencias de mil cosas, la segunda opción me dio buen _feeling_. El dominio pau.ninja quedaba muy «ninja de la vida». Como los miembros de [Sociedad Ninja](#unirse).
 
 En 2018 un periódico español muy importante hizo un reportaje sobre mí, y así, el apellido Ninja quedó pegado a mí como la chancla de una madre para pegar a su hijo cuando no pela judías.
 
@@ -28,48 +33,17 @@ En este mismo instante hay unas 2.000 personas que buscan en Google «Pau Ninja�
 
 Yo sólo… empecé a escribir. A documentar lo que hacía. Después me pasé al formato audio, que fue más de lo mismo.
 
-![cómic podcast](https://pau.ninja/wp-content/uploads/2021/02/comic-podcast.png)
+![cómic podcast](./wp-content/uploads/2021/02comic-podcast.png)
 
 Empecé a pillar audiencia poco a poco y no lo entendía. «Si yo sólo escribo y hablo».
 
-Como siempre, necesité hacer ese *zoom out*. Verlo con vista de pájaro para darme cuenta que lo que algunas personas han hecho, y lo que he hecho yo en menor medida ha ido más allá de simplemente tener un logo.
+Como siempre, necesité hacer ese _zoom out_. Verlo con vista de pájaro para darme cuenta que lo que algunas personas han hecho, y lo que he hecho yo en menor medida ha ido más allá de simplemente tener un logo.
 
 Un logo que por cierto he cambiado cientos de veces… y no ha importado. Porque la marca personal no es un _putt0_ logo.
 
 La marca personal no son ni logos, ni colores, ni blogs, ni fotos de Instagram más retocadas que los presupuestos del Estado para cobrar en B.
 
 Todo dios tiene una marca personal. Lo quiera o no.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es la marca personal o personal branding](#Que_es_la_marca_personal_o_personal_branding 'Qué es la marca personal o personal branding')
-- [Ejemplos de marca personal](#Ejemplos_de_marca_personal 'Ejemplos de marca personal')
-  - [Dan Bilzerian](#Dan_Bilzerian 'Dan Bilzerian')
-  - [Kim Kardashian](#Kim_Kardashian 'Kim Kardashian')
-  - [Pau Ninja](#Pau_Ninja 'Pau Ninja')
-- [Por qué es importante la marca personal](#Por_que_es_importante_la_marca_personal 'Por qué es importante la marca personal')
-- [Cómo crear una marca personal exitosa](#Como_crear_una_marca_personal_exitosa 'Cómo crear una marca personal exitosa')
-  - [Ser el primero](#Ser_el_primero 'Ser el primero')
-  - [Ser el mejor](#Ser_el_mejor 'Ser el mejor')
-  - [Hacerlo diferente](#Hacerlo_diferente 'Hacerlo diferente')
-  - [Ser notablemente diferente](#Ser_notablemente_diferente 'Ser notablemente diferente')
-- [Pasos para crear una marca personal en internet](#Pasos_para_crear_una_marca_personal_en_internet 'Pasos para crear una marca personal en internet')
-  - [Encontrar tu área de experiencia](#Encontrar_tu_area_de_experiencia 'Encontrar tu área de experiencia')
-  - [No pedir disculpas](#No_pedir_disculpas 'No pedir disculpas')
-  - [Priorizar la reputación](#Priorizar_la_reputacion 'Priorizar la reputación')
-  - [Ser consistente](#Ser_consistente 'Ser consistente')
-- [Cómo crear una marca personal en redes sociales](#Como_crear_una_marca_personal_en_redes_sociales 'Cómo crear una marca personal en redes sociales')
-  - [Socializa menos para crear más](#Socializa_menos_para_crear_mas 'Socializa menos para crear más')
-  - [Comparte contenido de los demás](#Comparte_contenido_de_los_demas 'Comparte contenido de los demás')
-  - [Centrarte en descripción, imágenes y creatividad](#Centrarte_en_descripcion_imagenes_y_creatividad 'Centrarte en descripción, imágenes y creatividad')
-  - [No olvidarse de usar vídeos](#No_olvidarse_de_usar_videos 'No olvidarse de usar vídeos')
-  - [Ser consistente en las publicaciones](#Ser_consistente_en_las_publicaciones 'Ser consistente en las publicaciones')
-  - [Aprender a utilizar los hashtags](#Aprender_a_utilizar_los_hashtags 'Aprender a utilizar los hashtags')
-  - [Etiquetar localizaciones](#Etiquetar_localizaciones 'Etiquetar localizaciones')
-  - [Utilizar las promociones cruzadas](#Utilizar_las_promociones_cruzadas 'Utilizar las promociones cruzadas')
-  - [Mostrar la parte más humana](#Mostrar_la_parte_mas_humana 'Mostrar la parte más humana')
 
 ## Qué es la marca personal o personal branding
 
@@ -81,7 +55,7 @@ Una marca personal no sólo es lo que aparece en Google cuando pones tu nombre, 
 
 Incluso si eres como Wilson-Wilson de Utopia que no tiene ningún rastro de su persona en internet, tanto él como tu (a parte de ser unos frikis de mi3rda), tenéis marca personal lo queráis o no.
 
-Sólo por el hecho de haber nacido y existido, ya tienes *personal branding*. Cuando naces en el momento que te dicen:
+Sólo por el hecho de haber nacido y existido, ya tienes _personal branding_. Cuando naces en el momento que te dicen:
 
 - J0er, que guapo
 - J0er, que feo
@@ -95,7 +69,7 @@ Rampersad la definió en 2008 diciendo que tu marca personal es la síntesis de 
 
 No hace falta tener un Máster vendehumo como los que verás anunciados en Instagram para entender que la relevancia de una marca personal está directamente relacionada por el tamaño de tu… audiencia.
 
-![cómic cursos](https://pau.ninja/wp-content/uploads/2021/10/comic-cursos.png)
+![cómic cursos](./wp-content/uploads/2021/10comic-cursos.png)
 
 Pero incluso cuando eras un adolescente que sólo pensaba en «titar», ya tenías una marca personal. Tus compañeros de clase, amigos, enemigos y tías que querías empotrar tenían una opinión sobre tu persona.
 
@@ -109,7 +83,7 @@ Si te digo el nombre de Cacaolat, Starbucks, Pepsi… son nombres que te sonará
 
 Por esto Warren Buffett no se calla la boca hablando con Coca-Cola. Como su empresa tiene invertidos más de 24 billones de acciones en Coca-Cola, el notas habla de la marca con calzador siempre que puede para aprovechar la influencia que tiene en los inversores.
 
-![meme coca cola](https://pau.ninja/wp-content/uploads/2022/02/meme-coca-cola.jpg)
+![meme coca cola](./wp-content/uploads/2022/02meme-coca-cola.jpg)
 
 Warren es un poco «Warro» vendiéndonos diabetes, pero qué queréis. Este señor con más años, sabiduría e influencia que Legolas sabe la marca personal que tiene.
 
@@ -125,7 +99,7 @@ El millonario de cuna que cuelga fotos en Instagram con las 100 tías que se ha 
 
 La mayoría de mortales en vez de poder ser CEO nos hemos tenido que conformar con hacer algo de pasta haciendo SEO, para compensar ser FEO.
 
-![meme marca personal](https://pau.ninja/wp-content/uploads/2022/02/meme-marca-personal.jpg)
+![meme marca personal](./wp-content/uploads/2022/02meme-marca-personal.jpg)
 
 Pues adivinad qué. A parte de ser el CEO de la «empotración», Dan Bilzerian también es CEO de una empresa «de verdad» llamada Ignite que ha perdido más pasta que dignidad han perdido las chicas que este señor se ha zumbado.
 
@@ -139,7 +113,7 @@ Si te digo Kim Kardashian, la conoces.
 
 Hace un momento os decía que la marca personal era rezar para que en Google no salieran esos vídeo chungos que grabaste de escondidas. Pues las buena de Kim ha creado una marca que mueve millones fallando esta plegaria.
 
-![meme kim kardashian marca personal](https://pau.ninja/wp-content/uploads/2022/02/meme-kim-kardashian-marca-personal.jpg)
+![meme kim kardashian marca personal](./wp-content/uploads/2022/02meme-kim-kardashian-marca-personal.jpg)
 
 Se hizo famosa por vídeo privados (ahora ya públicos) zumbándose a un maromo y aunque la mayoría desearíamos nunca crear un _personal branding_ de esta manera, la pava ahora tiene un _net worth_, un valor neto de **más de 1.000 millones… una sola persona**.
 
@@ -155,7 +129,7 @@ Podéis usar mi marca como ejemplo de lo que sería un primer peldaño. Un paso 
 
 Mi única intención de crear «Pau Ninja» como marca personal fue… **dinero**.
 
-Antes tenía [negocios que no sólo generaban ingresos pasivos y semi-pasivos](https://pau.ninja/ingresos-pasivos/). Otra cosa que generaban eran un estrés increíble. ¿Por qué? porque la estabilidad de ingresos era una ilusión.
+Antes tenía [negocios que no sólo generaban ingresos pasivos y semi-pasivos](./ingresos-pasivos). Otra cosa que generaban eran un estrés increíble. ¿Por qué? porque la estabilidad de ingresos era una ilusión.
 
 Sí. Me hacía ilusión, pero me refiero a que era un espejismo.
 
@@ -167,7 +141,7 @@ Tener una marca personal que arrastra audiencia es como dale la posibilidad a es
 
 Tu audiencia tiene _stock_, acciones de tu marca, tu empresa.
 
-![meme mercado de valores](https://pau.ninja/wp-content/uploads/2022/02/meme-mercado-de-valores.jpg)
+![meme mercado de valores](./wp-content/uploads/2022/02meme-mercado-de-valores.jpg)
 
 Si yo como «Pau Ninja» digo que algo que no gusta a la mayoría (rollo: me gusta la pizza con piña), y provoco _hate_ (odio hacia esa marca), la audiencia virtualmente vendería sus acciones de mi marca personal en masa. «Pau Ninja» perdería la confianza que los lectores y oyentes habrían depositado inicialmente.
 
@@ -258,7 +232,7 @@ Claro que esto es directamente proporcional a la retribución económica. Como m
 
 - Si quieres ser el mejor _youtuber_ del mundo, estás compitiendo con todos los creadores de contenido de YouTube.
 - Si quieres ser el mejor _youtuber_ de habla hispana, la audiencia se reduce, también lo hace la competencia, pero es igualmente difícil.
-- Si quieres ser el mejor *youtuber* **sobre** crear edificios hechos de LEGO en habla hispana, la competencia no sólo se reduce un montón, si no que ser el mejor en este campo es palpable.
+- Si quieres ser el mejor _youtuber_ **sobre** crear edificios hechos de LEGO en habla hispana, la competencia no sólo se reduce un montón, si no que ser el mejor en este campo es palpable.
 
 Ser el primero o ser el mejor… y que **además** el mundo entero lo sepa, es una situación más alejada de la realidad que las posibilidades de arreglar mi relación con mi ex.
 
@@ -350,7 +324,7 @@ Podemos empezar respondiendo cuatro preguntas principales antes de pasar a ser a
 
 ¿Quien soy realmente? (profesionalmente y personalmente)
 
-[Soy un multipotencial](https://pau.ninja/multipotencial/). Alguien que ha aceptado que no se puede dedicar a una sola cosa, por eso me dedico a divulgar y compartir lo que voy aprendiendo.
+[Soy un multipotencial](./multipotencial). Alguien que ha aceptado que no se puede dedicar a una sola cosa, por eso me dedico a divulgar y compartir lo que voy aprendiendo.
 
 ¿Qué legitimiza mi historia?
 
@@ -372,7 +346,7 @@ Tener claro quien es nuestra marca es un primer paso, y ojalá fuera tan fácil 
 
 Al un lado del Muro de Sheahan está el novato. Al otro lado, está el líder, experto o influencer del sector.
 
-![Muro de Sheahan](https://pau.ninja/wp-content/uploads/2022/02/Muro-de-Sheahan.png)
+![Muro de Sheahan](./wp-content/uploads/2022/02Muro-de-Sheahan.png)
 
 La mayoría de novatos intentan romper esta barrera con todo lo que tienen: creando canales de YouTube, de Twitch, Instagram, Blog, etc. Tirando todas la mi3rda que pueden a ver qué se engancha. ¿Y que sucede? que en vez de romper el muro, esos esfuerzos rebotan de vuelta. ¿Por qué? pues porque…
 
@@ -403,7 +377,7 @@ La autenticidad es otra palabra para ser **genuino, real y verdadero**, pero no 
 - Escritores
 - Hasta Donald Trump no creo que sea auténtico del todo
 
-A la mi3rda la autenticidad. En vez de esto lo que queremos es ser, lo que se llama en inglés *unapologetic*, que se traduce a «sin pedir disculpas».
+A la mi3rda la autenticidad. En vez de esto lo que queremos es ser, lo que se llama en inglés _unapologetic_, que se traduce a «sin pedir disculpas».
 
 **No pedir perdón a nadie por hacer lo que haces y cómo** quieras hacerlo. No pedir disculpas por ser quien eres, o incluso por pretender ser como estás actuando.
 
@@ -421,9 +395,9 @@ La reputación se construye con confianza y la marca personal es la marmita de p
 
 Puedes ser el mejor camello del mundo, pero si no te conozco no pienso comprarte tu _chusta_.
 
-![meme reputación online](https://pau.ninja/wp-content/uploads/2022/02/meme-reputacion-online.jpg)
+![meme reputación online](./wp-content/uploads/2022/02meme-reputacion-online.jpg)
 
-¿Que eres el mejor especulador en cripto? bien por ti, pero no me mandes mensajes en *insta* porque **ni te conozco, ni puedo ver tus** ganancias, que es precisamente donde está la fórmula de la reputación:
+¿Que eres el mejor especulador en cripto? bien por ti, pero no me mandes mensajes en _insta_ porque **ni te conozco, ni puedo ver tus** ganancias, que es precisamente donde está la fórmula de la reputación:
 
 > Reputación = resultados X alcance
 
@@ -467,37 +441,37 @@ Todo Dios se puede meter esteroides, pero si no sabes lo que estás haciendo en 
 
 **Cuando usar**
 
-Instagram
-(y TikTok)
-![instagram](https://pau.ninja/wp-content/uploads/2022/02/instagram.png)
+Instagram  
+(y TikTok)  
+![instagram](./wp-content/uploads/2022/02instagram.png)
 
 - Si vas a combinarlo con contenido fotográfico de cierta calidad (o diferenciador).
 - Si el público objetivo es mayoritariamente millennial y Generación Z.
 - Si tienes la oportunidad de compartir vídeos de menos de 1 minuto.
 
-Facebook
-![facebook](https://pau.ninja/wp-content/uploads/2022/02/facebook.png)
+Facebook  
+![facebook](./wp-content/uploads/2022/02facebook.png)
 
 - Si quieres estrechar los vínculos entre la marca y el negocio.
 - Si quieres impulsar productos específicos.
-- Si la audiencia es un poco *boomer*.
+- Si la audiencia es un poco _boomer_.
 
-Twitter
-![twitter](https://pau.ninja/wp-content/uploads/2022/02/twitter.png)
+Twitter  
+![twitter](./wp-content/uploads/2022/02twitter.png)
 
 - Si se te da bien escribir epifanías y textos cortos directos al grano.
 - Si la marca se centra más en entretenimiento y comedia.
 - Si tienes intención de convertirlo en un centro de memes, comentarios políticos y cuentas de comedia.
 
-YouTube
-![youtube](https://pau.ninja/wp-content/uploads/2022/02/youtube.png)
+YouTube  
+![youtube](./wp-content/uploads/2022/02youtube.png)
 
 - Si el contenido de vídeo de formato largo (+1 minuto) es central para tu marca.
 - Si el público es mayoritariamente millennial.
 - Si la marca se centra más en entretenimiento y comedia.
 
-Linkedin
-![linkedin](https://pau.ninja/wp-content/uploads/2022/02/linkedin.png)
+Linkedin  
+![linkedin](./wp-content/uploads/2022/02linkedin.png)
 
 - Si te vas a mover en públicos más bien profesionales.
 - Si los blogs y la redacción de artículos son fundamentales para tus objetivos de marca personal.
@@ -506,7 +480,7 @@ A mí me da una pereza enorme tener perfiles en las redes como si fuera un pollo
 
 Si eres creador, es lo que toca.
 
-El problema es que si todos nos metemos esteroides, nada destaca. Pero hay montones de *chusta* que te puedes inyectar, y entrenar mejor o peor. Esto serían las buenas prácticas de las redes.
+El problema es que si todos nos metemos esteroides, nada destaca. Pero hay montones de _chusta_ que te puedes inyectar, y entrenar mejor o peor. Esto serían las buenas prácticas de las redes.
 
 ### Socializa menos para crear más
 
@@ -532,9 +506,9 @@ Lo que consideramos buen contenido es lo que genera una buena conversación, y b
 
 Otro propósito que se usa en las redes es **consumir contenido rápido**.
 
-No puedes pretender colgar un episodio de 1 hora de podcast en Instagram, donde lo que se consumen son *stories* y *reels* de 15 segundos.
+No puedes pretender colgar un episodio de 1 hora de podcast en Instagram, donde lo que se consumen son _stories_ y _reels_ de 15 segundos.
 
-Lo que hacemos con mi editor de vídeo (hola Juan) es poner *sneak peaks*, pequeños cortes con subtítulos animados para que llamen la atención para captar audiencia de Instagram, que potencialmente también escucha podcast más tranquilamente cuando saca a pasear el perro o los hijos.
+Lo que hacemos con mi editor de vídeo (hola Juan) es poner _sneak peaks_, pequeños cortes con subtítulos animados para que llamen la atención para captar audiencia de Instagram, que potencialmente también escucha podcast más tranquilamente cuando saca a pasear el perro o los hijos.
 
 ### No olvidarse de usar vídeos
 
@@ -552,7 +526,7 @@ Ante habíamos hablado de la «consistencia» de la marca, y como no, si hablamo
 
 Porque nadie sabe cuando una publicación ser hará viral necesitamos seguir publicando. ¿Cuando tiene más sentido hacerlo? lógicamente cuando hay más gente conectada.
 
-![mejor hora de instagram](https://pau.ninja/wp-content/uploads/2022/02/mejor-hora-de-instagram.png)
+![mejor hora de instagram](./wp-content/uploads/2022/02mejor-hora-de-instagram.png)
 
 A más gente conectada, más posibilidades de que interactúen con nuestra publicación y que eso guste a los dioses de los algoritmos.
 
@@ -566,7 +540,7 @@ Encontramos dos tipos de hashtags: micro y macro. Por ejemplo #zapatillas sería
 
 Instagram está beneficiando a la localidad, que no es la locura de la loca de tu pueblo, si no al pueblo en si.
 
-Si organizas un *bootcamp* de cómo aprender a atar los cordones para niños en Uppsala, Suecia, pues etiqueta el sitio. Y como más concreto mejor, así más posibilidades de aparecer bien arriba.
+Si organizas un _bootcamp_ de cómo aprender a atar los cordones para niños en Uppsala, Suecia, pues etiqueta el sitio. Y como más concreto mejor, así más posibilidades de aparecer bien arriba.
 
 Es una estrategia largoplacista, pero ayudará a ser reconocido en los lugares físicos donde frecuentemos. Por eso me conocen en el s3x-shop de mi pueblo.
 
@@ -581,3 +555,93 @@ Lo más probable es que nuestras audiencias se solapen así que es un buen truco
 Tómate el tiempo de responder los comentarios.
 
 Al menos mientras puedas y explotes siguiendo estos maravillosos consejos.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Negocios](./negocios)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/como-crear-una-marca-personal/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13338,"title":"4%20pasos%20%2B%204%20trucos%20que%20segu%C3%AD%20al%20crear%20mi%20marca%20personal","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/02\\/creando-marca-personal.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,14 +1,19 @@
 ---
-title: "Flexibilidad metabólica: el secreto de la salud perdida Qué es la flexibilidad metabólica"
+title: "Flexibilidad metabólica: el secreto de la salud perdida"
+url: https://pau.ninja/flexibilidad-metabolica
+slug: flexibilidad-metabolica
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: persona-con-energia-nueva.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/persona-con-energia-nueva.jpeg
 published: 2021-10-05T07:27:08+00:00
 modified: 2024-02-07T15:43:59+00:00
+scrappedAt: 2024-10-14T09:21:03.286Z
 audioLink: https://www.ivoox.com/santo-grial-del-fitness_md_68401661_wp_1.mp3
-slug: flexibilidad-metabolica
+bibliography: []
 ---
-
-[https://www.ivoox.com/santo-grial-del-fitness_md_68401661_wp_1.mp3](https://www.ivoox.com/santo-grial-del-fitness_md_68401661_wp_1.mp3)
+[https://www.ivoox.com/santo-grial-del-fitness\_md\_68401661\_wp\_1.mp3](https://www.ivoox.com/santo-grial-del-fitness_md_68401661_wp_1.mp3)
 
 Ninjas de la vida creo que lo hemos encontrado.
 
@@ -39,13 +44,13 @@ A raíz de esta idea en los últimos años se ha popularizado mucho la dieta cet
 
 Seguramente habréis escuchado como se ha puesto en un pedestal para bajar grasa o para volver a llevar al cuerpo en un estado óptimo para utilizar grasa como energía **sólo comiendo grasas**.
 
-![meme-cetosis](https://pau.ninja/wp-content/uploads/2021/10/meme-cetosis.jpg)
+![meme-cetosis](./wp-content/uploads/2021/10meme-cetosis.jpg)
 
 Los primeros días se hace duro…
 
 Al fin y al cabo la dieta keto no es otra cosa que eliminar casi por completo los hidratos de carbono de nuestro día a día para que el cuerpo entre en un estado de «cetosis», se generen las cetonas y pum. Somos una maldita máquina de quemar grasa… hasta que deja de ser eficiente.
 
-Porque el problema es que como algunos estudios (que veremos en un rato) muestran, se llega a un punto de *plateau*. ¿Por qué sucede?
+Porque el problema es que como algunos estudios (que veremos en un rato) muestran, se llega a un punto de _plateau_. ¿Por qué sucede?
 
 Es muy fácil de ver si imaginamos las formas de combustible de las que hemos hablado como una autopista y vehículos de transporte.
 
@@ -64,27 +69,7 @@ En este aspecto la flexibilidad metabólica sería coger **uno solo** y encima 
 
 Hoy entramos a ver porque desde hace poco mi objetivo de fitness ya no es sólo estar bueno desnudo, pero conseguir que mi cuerpo sea más flexible metabólicamente para así… poder estar bueno desnudo más fácilmente.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el metabolismo](#Que_es_el_metabolismo 'Qué es el metabolismo')
-  - [Metabolismo basal](#Metabolismo_basal 'Metabolismo basal')
-  - [Metabolismo, anabolismo y catabolismo](#Metabolismo_anabolismo_y_catabolismo 'Metabolismo, anabolismo y catabolismo')
-  - [Tipos de metabolismo](#Tipos_de_metabolismo 'Tipos de metabolismo')
-- [Qué es la flexibilidad metabólica](#Que_es_la_flexibilidad_metabolica 'Qué es la flexibilidad metabólica')
-  - [Estudio con ayuno intermitente](#Estudio_con_ayuno_intermitente 'Estudio con ayuno intermitente')
-  - [Estudio con comida alta en grasas](#Estudio_con_comida_alta_en_grasas 'Estudio con comida alta en grasas')
-  - [Por qué ser metabólicamente flexible](#Por_que_ser_metabolicamente_flexible 'Por qué ser metabólicamente flexible')
-  - [No queremos un metabolismo rápido sino flexible](#No_queremos_un_metabolismo_rapido_sino_flexible 'No queremos un metabolismo rápido sino flexible')
-- [Formas de mejorar flexibilidad metabólica](#Formas_de_mejorar_flexibilidad_metabolica 'Formas de mejorar flexibilidad metabólica')
-  - [No mezclar grasas con carbohidratos](#No_mezclar_grasas_con_carbohidratos 'No mezclar grasas con carbohidratos')
-  - [Rotar una dieta cetogénica](#Rotar_una_dieta_cetogenica 'Rotar una dieta cetogénica')
-  - [Hacer ciclado de carbohidratos](#Hacer_ciclado_de_carbohidratos 'Hacer ciclado de carbohidratos')
-  - [Ayunar de forma intermitente](#Ayunar_de_forma_intermitente 'Ayunar de forma intermitente')
-- [¿Cuánto tiempo se tarda en ser metabólicamente flexible?](#%C2%BFCuanto_tiempo_se_tarda_en_ser_metabolicamente_flexible '¿Cuánto tiempo se tarda en ser metabólicamente flexible?')
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
 ## Qué es el metabolismo
 
@@ -115,7 +100,7 @@ Es decir si ahora Bitcoin bajara a 0€ y del susto nos quedáramos en coma, en 
 
 A algunos culturistas también les tendríamos que susurrar que deberían dejar de tener pesadillas sobre una parte del proceso metabólico: el catabolismo. Porque ellos sólo quieren estar en estado anabólico para crear músculo.
 
-![celula-anabolica](https://pau.ninja/wp-content/uploads/2021/10/celula-anabolica.jpg)
+![celula-anabolica](./wp-content/uploads/2021/10celula-anabolica.jpg)
 
 Si os acordáis cuando hablamos del uso de ayuno para alargar la longevidad (#98), mencionamos que el anabolismo es tan esencial como el catabolismo (que hace limpieza del cuerpo), porque estos dos procesos bioquímicos de nuestro cuerpo son lo que forman el metabolismo y son como el ying y el yang. Dependientes el uno del otro.
 
@@ -128,7 +113,7 @@ Esto es la proliferación celular de la que hablé como ventajas del ayuno, y qu
 
 Y es que la mayoría desearíamos ser tan flexibles que dejáramos atrás nuestro [somatotipo](https://es.wikipedia.org/wiki/Somatotipo).
 
-![somatipos](https://pau.ninja/wp-content/uploads/2021/10/somatipos.jpg)
+![somatipos](./wp-content/uploads/2021/10somatipos.jpg)
 
 O dicho en lenguaje ninja: constitución.
 
@@ -184,7 +169,7 @@ Pues que los sujetos que estaban en forma, usaron **grasa como fuente de energ�
 
 Pero por sí un sólo estudio no nos convence, salió [otro](https://pubmed.ncbi.nlm.nih.gov/23047988/) que dividió otra vez al grupo de estudio entre obesos y los que tenían un cuerpo seco (y serrano).
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2021/10/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2021/10comic-longevidad.png)
 
 En el estudio se les dio a los sujetos una comida muy alta en grasas y justo después les tocó hacer una sesión de entrenamiento aeróbico bastante demandante.
 
@@ -257,7 +242,7 @@ Pues resulta que incluso después de perder peso seguían siendo bastante **infl
 
 Se ve que claro, sus cuerpos empezaron a utilizar grasas durante cierto periodo de tiempo mientras bajaban de peso **pero** después llegaron a un tope en el que el cuerpo se acomodó.
 
-Un *plateau*.
+Un _plateau_.
 
 Con esto lo que podemos ver es que la flexibilidad metabólica no tiene nada que ver con la cantidad de quilos que perdemos, porque esto lo podríamos conseguir bajando las calorías simplemente.
 
@@ -278,7 +263,7 @@ Y os vuelvo a recordar cuándo hablé de ayuno para la longevidad (#98). Allí m
 
 Pues bien, un estudio que [analizaba](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4765362/) inflexibilidad metabólica (la incapacidad del cuerpo de usar un tipo y otro de energía) dio con algo revelador: que las mitocondrias operan en su máximo esplendor cuando se le da **o** grasas, **o** glucógeno. **Exclusivamente**.
 
-![mitocondria](https://pau.ninja/wp-content/uploads/2021/10/mitocondria.jpg)
+![mitocondria](./wp-content/uploads/2021/10mitocondria.jpg)
 
 O sea, que **el motivo** por el que somos metabólicamente flexibles o no, es si las mitocondrias utilizan o un vehículo u otro de forma eficiente para producir energía. O más bien, si saben elegir bien ese vehículo.
 
@@ -345,7 +330,7 @@ Claro el «Gnomo insulínico» es la llave para poder entrar, por eso abre la pu
 
 Pero «Hagrid el grasas» le acompaña, y entra también dentro. Hagrid es medio gigante así que ocupa bastante espacio, pero ya está dentro y Harry piensa «joder, me está ocupando toda la cámara, toda la célula».
 
-![grasas-glucosa-insulina](https://pau.ninja/wp-content/uploads/2021/10/grasas-glucosa-insulina.jpg)
+![grasas-glucosa-insulina](./wp-content/uploads/2021/10grasas-glucosa-insulina.jpg)
 
 © Foto: soy el rey de las metáforas.
 
@@ -361,13 +346,13 @@ Ni con alcohol cuándo se sale de fiesta, pero tampoco ni carbohidratos con gras
 
 Por esto, una buena manera de no mezclar sería «ciclar» la dieta cetogénica.
 
-🥩 Personalmente lo que [me ha ido mejor ha sido la dieta carnívora](https://pau.ninja/dieta-carnivora/) (sí, comiendo **exclusivamente** carne).
+🥩 Personalmente lo que [me ha ido mejor ha sido la dieta carnívora](./dieta-carnivora) (sí, comiendo **exclusivamente** carne).
 
-Lo que os comentaba que muchos piensan que es el santo grial. Pues no. **El santo grial es la flexibilidad metabólica**, y podemos usar la *keto* como herramienta para entrenar nuestro cuerpo a ser más eficientes.
+Lo que os comentaba que muchos piensan que es el santo grial. Pues no. **El santo grial es la flexibilidad metabólica**, y podemos usar la _keto_ como herramienta para entrenar nuestro cuerpo a ser más eficientes.
 
 ¿Cuál es esta otra manera de entrenar al metabolismo? pues sacando **por completo** los hidratos durante un tiempo.
 
-Bueno de hecho es imposible comer con 0 gramos de carbohidratos, pero la consideramos *keto* si en lo que consumimos diariamente hay **menos de 50gr** de carbos.
+Bueno de hecho es imposible comer con 0 gramos de carbohidratos, pero la consideramos _keto_ si en lo que consumimos diariamente hay **menos de 50gr** de carbos.
 
 El estudio que [publicó](https://www.mdpi.com/2072-6643/10/11/1696) The Journal Nutrients encontró que 8 semanas de dieta cetogénica incrementa la expresión de enzimas [lipolíticas](https://revistas.um.es/analesvet/article/view/188711).
 
@@ -377,15 +362,15 @@ Bueno, más o menos, porque son enzimas que resumiendo mucho «funden» la grasa
 
 Bestseller No. 1
 
-[![Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNE1HVlVjR05UU2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwNjE4Mg=)](https://www.amazon.es/dp/B01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio 'Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia')
+[![Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNE1HVlVjR05UU2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY3Mw=)](https://www.amazon.es/dpB01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio "Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia")
 
-[Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia](https://www.amazon.es/dp/B01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio 'Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia')
+[Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia](https://www.amazon.es/dp/B01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio "Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia")
 
 18,57 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio "Comprar en Amazon")
 
-O sea que en este estudio vemos que estas personas obesas, en un par de meses de *keto* hubo algo dentro de su cuerpo, de su expresión genética que empezó a cambiar para bien.
+O sea que en este estudio vemos que estas personas obesas, en un par de meses de _keto_ hubo algo dentro de su cuerpo, de su expresión genética que empezó a cambiar para bien.
 
 Como hemos visto los definidos y buenorros en cuestión de días o hasta horas ya movilizaban todas estas enzimas. O sea que «en-zima» (juego de palabras intencionado) de estar definidos gastan más grasas…
 
@@ -417,21 +402,21 @@ Nuestros ancestros cazaban (altas proteínas y grasas), pero también se encontr
 
 Ahora mismo rebajado
 
-[![Sapiens. De animales a dioses: Breve historia de la humanidad](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdmRGcFRUbGc0UjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwNjE4Mg=)](https://www.amazon.es/dp/8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Sapiens. De animales a dioses: Breve historia de la humanidad')
+[![Sapiens. De animales a dioses: Breve historia de la humanidad](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdmRGcFRUbGc0UjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY3Mw=)](https://www.amazon.es/dp8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sapiens. De animales a dioses: Breve historia de la humanidad")
 
-[Sapiens. De animales a dioses: Breve historia de la humanidad](https://www.amazon.es/dp/8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Sapiens. De animales a dioses: Breve historia de la humanidad')
+[Sapiens. De animales a dioses: Breve historia de la humanidad](https://www.amazon.es/dp/8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sapiens. De animales a dioses: Breve historia de la humanidad")
 
 Cuando el comer era una incertidumbre, lo más sensible en ese momento era pegarse un atracón como dicen en el libro de Sapiens.
 
-18,90 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+18,90 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 O sea que nuestros cuerpo están preparados para comer muchos carbohidratos de vez en cuando.
 
 Ahora que lo pienso esta manera de ciclar los hidratos me recuerda mucho a la «dieta anabólica» que leí en un [foro](https://es.fitness.com/forum/threads/77157-empezando-con-la-dieta-anablica) de fitness por ahí el 2010. De hecho es exactamente esto. Una dieta de keto 5-6- días los fines de semana de cambiándolo por carbohidratos.
 
-Por también explico por qué (exactamente) y cómo hacer un [ciclado de carbohidratos](https://pau.ninja/ciclado-de-carbohidratos/) para ayudar a nuestro cuerpo a adaptarnos a los glucosa.
+Por también explico por qué (exactamente) y cómo hacer un [ciclado de carbohidratos](./ciclado-de-carbohidratos) para ayudar a nuestro cuerpo a adaptarnos a los glucosa.
 
 Así podemos adentrarnos en varios estudios que dan soporte a este «ciclado» que poco tiene que ver con los esteroides para tener bíceps como asteroides.
 
@@ -461,13 +446,13 @@ Lógicamente si estamos acostumbrados a comer de 6am a 10pm, son 16 horas de man
 
 Yo lo que hago es hacer 2 comidas (3 como máximo, depende de la época) durante una ventana de horas. Y no, nada de picadas entre horas porque esto lo contaríamos también como comida.
 
-![insulina-y-glucosa-en-sangre](https://pau.ninja/wp-content/uploads/2021/10/insulina-y-glucosa-en-sangre.png)
+![insulina-y-glucosa-en-sangre](./wp-content/uploads/2021/10insulina-y-glucosa-en-sangre.png)
 
 Esto es importante porque cada vez que comemos el azúcar en sangre va hacia arriba y si seguimos haciéndolo constantemente, no le damos al azúcar y la insulina la posibilidad de volver a base.
 
 O sea que estaremos usando glucosa todo el rato y no quemaremos grasas.
 
-Te he hecho una guía completa de [qué es y **cómo** empezar un ayuno intermitente según experiencias](https://pau.ninja/ayuno-intermitente-experiencias/) (y ciencia, claro).
+Te he hecho una guía completa de [qué es y **cómo** empezar un ayuno intermitente según experiencias](./ayuno-intermitente-experiencias) (y ciencia, claro).
 
 ## ¿Cuánto tiempo se tarda en ser metabólicamente flexible?
 
@@ -490,3 +475,93 @@ Ahora me doy cuenta que los carbohidratos **no son el enemigo**.
 Son una herramienta más para conseguir el balance perfecto para nuestro cuerpo y pienso que se podría resumir en un Principio de Pareto bien guapo: 80% del tiempo en cetosis, y un 20% de ciclado de carbohidratos.
 
 Son como tener pareja. No importa lo inteligente o guapa que sea, si empieza a ser muy necesitada **nos sofocamos**, y pasa lo mismo con los hidratos.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/flexibilidad-metabolica/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14961,"title":"4%20maneras%20de%20ganar%20FLEXIBILIDAD%20metab%C3%B3lica%20%E3%80%90ciencia%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/persona-con-energia-nueva.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

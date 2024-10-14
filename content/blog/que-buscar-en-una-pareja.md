@@ -1,13 +1,20 @@
 ---
-title: "Pareja ideal o con quién (no) vivirías el apocalipsis"
+title: "Pareja ideal"
+url: https://pau.ninja/que-buscar-en-una-pareja
+slug: que-buscar-en-una-pareja
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: relaciones-de-pareja
+    label: Relaciones de pareja
 image: la-pareja-ideal.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/09/la-pareja-ideal.jpeg
 published: 2023-09-05T07:55:08+00:00
 modified: 2023-12-22T21:18:45+00:00
+scrappedAt: 2024-10-14T09:19:53.127Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/76663707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F349408395-44100-2-66e6ecea55775.mp3
-slug: que-buscar-en-una-pareja
+bibliography: ["Cell Press. «Is beauty really in the ‘eye of the beholder’? Yes, and here’s why.» ScienceDaily. ScienceDaily, 1 October 2015.","Schenk, Leslie, and Martin Tucker. 2015. “Attention Spans.” World Literature Today 72 (1): 141. doi:https://doi.org/10.2307/40153617. ‌","Harburg, Ernest & Kaciroti, Niko & Gleiberman, Lillian & Julius, Mara & Schork, M.. (2008). Marital Pair Anger-Coping Types May Act as an Entity to Affect Mortality: Preliminary Findings from a Prospective Study (Tecumseh, Michigan, 1971–1988). Journal of Family Communication. 8. 44-61. 10.1080/15267430701779485.","“A Life Without Lies: How Living Honestly Can Affect Health,” Anita E Kelly, Session 3189, 12 to 12:50 p.m., Saturday, Aug. 4, Room W303C, Level III, Orange County Convention Center.","Hendrick, Clyde & Hendrick, Susan & Zacchilli, Tammy. (2011). Respect and Love in Romantic Relationships. Acta de investigación psicológica. 1. 316-329. 10.22201/fpsi.20074719e.2011.2.209."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/76663707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F349408395-44100-2-66e6ecea55775.mp3](https://anchor.fm/s/98566448/podcast/play/76663707/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-2%2F349408395-44100-2-66e6ecea55775.mp3)
 
 Si te dieran la posibilidad de manifestar a tu pareja perfecta con el físico ideal que siempre te ha atraído, pero a cambio esa persona tuviera que tener (sí o sí) tu mente y personalidad… ¿lo harías?
@@ -24,19 +31,19 @@ Estaba claro que para aquel entonces no estaba preparado para algo así.
 
 Y no lo digo porqué piense que mi desarrollo personal ha superado treguas que me hicieran responder que en la actualidad sí saldría conmigo mismo.
 
-Lo digo porque ahora me doy cuenta que en realidad no hubiera sido buena idea estar con alguien *igual* que yo, pero que en cambio lo tiene estar con alguien _como_ yo.
+Lo digo porque ahora me doy cuenta que en realidad no hubiera sido buena idea estar con alguien _igual_ que yo, pero que en cambio lo tiene estar con alguien _como_ yo.
 
 Muy diferente.
 
 - Alguien no necesariamente con las mismas opiniones que yo, pero sí alguien que esté dispuesta escuchar opiniones distintas a las suyas. A considerar si se le escapa algo, o a aceptar que tanto ella, como yo (o incluso ambos) podemos estar equivocados.
-- Alguien no necesariamente a quien le guste tanto como a mí nadar, ir al gimnasio o que siga una [dieta en la que sólo se come carne](https://pau.ninja/dieta-carnivora/), pero sí alguien que entienda la importancia de mover el cuerpo, nutrirlo o de empoderarlo con hábitos.
+- Alguien no necesariamente a quien le guste tanto como a mí nadar, ir al gimnasio o que siga una [dieta en la que sólo se come carne](./dieta-carnivora), pero sí alguien que entienda la importancia de mover el cuerpo, nutrirlo o de empoderarlo con hábitos.
 - Alguien no necesariamente que entienda la vida o la felicidad de la misma forma que lo hago yo, pero sí alguien que afronte el día con positivismo y se vaya moldeando su entorno y forma de vivir para que estilo de vida sea un reflejo de lo que le importa.
 
-Esto es a lo que me refiero a alguien *como* yo.
+Esto es a lo que me refiero a alguien _como_ yo.
 
-A mi *yo* de hace unos años le respondería que para estar con alguien _igual_ que yo, que empiece a adoptar el hábito de los paseos solitarios sin móvil o música.
+A mi _yo_ de hace unos años le respondería que para estar con alguien _igual_ que yo, que empiece a adoptar el hábito de los paseos solitarios sin móvil o música.
 
-No sólo le ordenarán la mente sino que ahí es cuando se dará cuenta si *se gusta*.
+No sólo le ordenarán la mente sino que ahí es cuando se dará cuenta si _se gusta_.
 
 Si saldría con él mismo.
 
@@ -46,11 +53,11 @@ El cambio más grande pero menos comprendido por el 90% de mis amigos es seguram
 
 Me doy cuenta que mi _yo_ de hace 10 años lo que buscaba no era una pareja, sino una compañera sexual recurrente que no generara mucho drama.
 
-No negaré que esa mentalidad era una señal inequívoca de que mi mente seguía esclava del desconocimiento de [lo malo que es ver porno](https://pau.ninja/es-malo-ver-porno/) (#368).
+No negaré que esa mentalidad era una señal inequívoca de que mi mente seguía esclava del desconocimiento de [lo malo que es ver porno](./es-malo-ver-porno) (#368).
 
-Pero ahora, sin haberme dado cuenta, he cambiado el concepto de sexualidad por [intimidad en pareja](https://pau.ninja/intimidad-en-pareja-con-karezza/).
+Pero ahora, sin haberme dado cuenta, he cambiado el concepto de sexualidad por [intimidad en pareja](./intimidad-en-pareja-con-karezza).
 
-![intimidad en pareja metáfora](https://pau.ninja/wp-content/uploads/2023/08/intimidad-en-pareja-metafora.jpg)
+![intimidad en pareja metáfora](./wp-content/uploads/2023/08intimidad-en-pareja-metafora.jpg)
 
 Gran diferencia.
 
@@ -58,7 +65,7 @@ Y gran cambio de paradigma que me hizo tener una epifanía, y es que:
 
 > No encuentras la persona con la que te casas hasta que sabes que estás preparado para una relación seria. Porque es entonces cuando cambias por completo el orden de las cualidades que buscarás en tu pareja.
 
-Es ahí cuando dejas de mirar el mundo como si fuera un club de *swingers*.
+Es ahí cuando dejas de mirar el mundo como si fuera un club de _swingers_.
 
 ¿Cómo no vas a hacerlo?
 
@@ -70,23 +77,9 @@ Seguramente en el hospital dando a luz.
 
 Me estoy pasando de romanticón pero ya me entendéis: cuando llegas (si llegas) a esta etapa de la vida entiendes que la decisión consciente de estar con esa persona no la puedes dejar al azar o pasividad.
 
-Que será [de las decisiones más importantes de tu vida](https://pau.ninja/tomar-decisiones/).
+Que será [de las decisiones más importantes de tu vida](./tomar-decisiones).
 
 Una decisión que influenciará tu nivel de felicidad, crecimiento y éxito como ninguna otra decisión.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Las cualidades que buscar en una pareja](#Las_cualidades_que_buscar_en_una_pareja 'Las cualidades que buscar en una pareja')
-  - [Belleza abstracta subjetivamente especial](#Belleza_abstracta_subjetivamente_especial 'Belleza abstracta subjetivamente especial')
-  - [Siente una conexión emocional contigo](#Siente_una_conexion_emocional_contigo 'Siente una conexión emocional contigo')
-  - [Aprecia el tiempo que pasáis juntos](#Aprecia_el_tiempo_que_pasais_juntos 'Aprecia el tiempo que pasáis juntos')
-  - [Atiende a tus necesidades emocionales](#Atiende_a_tus_necesidades_emocionales 'Atiende a tus necesidades emocionales')
-  - [Comunica lo que es importante comunicar](#Comunica_lo_que_es_importante_comunicar 'Comunica lo que es importante comunicar')
-  - [Abraza tu forma de ser incluyendo tus rarezas](#Abraza_tu_forma_de_ser_incluyendo_tus_rarezas 'Abraza tu forma de ser incluyendo tus rarezas')
-  - [Sintoniza con tu manera de ver el mundo](#Sintoniza_con_tu_manera_de_ver_el_mundo 'Sintoniza con tu manera de ver el mundo')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Las cualidades que buscar en una pareja
 
@@ -94,7 +87,7 @@ A pesar de que lo que _decimos_ que buscamos en una pareja no siempre es lo que 
 
 Y esto, es lo que me importa _a mí_.
 
-Durante los 6 años de mi vida en los que viví viajando, dejé atrás experiencias pasadas que me han servido para, ahora, dejar atrás cualidades que veo más caducadas que la mentalidad de mi *yo* con mochila.
+Durante los 6 años de mi vida en los que viví viajando, dejé atrás experiencias pasadas que me han servido para, ahora, dejar atrás cualidades que veo más caducadas que la mentalidad de mi _yo_ con mochila.
 
 ### Belleza abstracta subjetivamente especial
 
@@ -114,7 +107,7 @@ Pero lo que ha cambiado ha sido la manera en _cómo_ entiendo el físico. Estas 
 
 Mirad.
 
-Cuando ves una chica que te gusta fisicamente mientras vas de caza para [ligar en la calle haciendo _daygame_](https://pau.ninja/daygame/), sabes (inequívocamente) _por qué_ te gusta.
+Cuando ves una chica que te gusta fisicamente mientras vas de caza para [ligar en la calle haciendo _daygame_](./daygame), sabes (inequívocamente) _por qué_ te gusta.
 
 La cara, el estilo, el culo, su expresión, el pecho, su forma de moverse…
 
@@ -126,7 +119,7 @@ Casi tanto como la dificultad de identificar qué era lo que me atraía de forma
 
 Sinceramente, nunca lo supe.
 
-O podría responder con un simple *todo*… y *nada* al mismo tiempo.
+O podría responder con un simple _todo_… y _nada_ al mismo tiempo.
 
 > Esto es porque la atracción física no es lo mismo que la belleza física. La primera es instintivamente biológica, la segunda es emocional.
 
@@ -134,9 +127,9 @@ Ambas pueden coexistir, pero sentirse atraído por la belleza es más escaso que
 
 Es muy escaso porque la interpretación que hacemos de la belleza depende exclusivamente de nuestras experiencias vividas. De nuestra interpretación de la vida.
 
-Así lo confirman estudios con gemelos, que a pesar de compartir gran parte genética sienten la belleza de una forma totalmente subjetiva.[1](<javascript:void(0)>)Cell Press. «Is beauty really in the ‘eye of the beholder’? Yes, and here’s why.» ScienceDaily. ScienceDaily, 1 October 2015.
+Así lo confirman estudios con gemelos, que a pesar de compartir gran parte genética sienten la belleza de una forma totalmente subjetiva.[ref-1](#ref-1){.ref}
 
-Cualquiera de nosotros puede *ver* simetría en una cara o cuerpo, pero no todo el mundo puede *ver* belleza.
+Cualquiera de nosotros puede _ver_ simetría en una cara o cuerpo, pero no todo el mundo puede _ver_ belleza.
 
 De hecho a veces la confundimos con la mera atracción física, pero en los últimos años me he dado cuenta que he empezado a valorar las apariencias como si fuera un crítico de arte abstracto.
 
@@ -156,7 +149,7 @@ Pero todos los trazos, las capas que hay pintadas por detrás son mucho más dif
 
 No es que uno de estos rasgos te enamoren, sino que es toda la sinergía en conjunto.
 
-> Nos enamoramos sólo de *ciertas* pinturas personas por lo que nos transmite su belleza a nosotros en particular. No porque todo el mundo tenga la misma conexión inicial con esa persona.
+> Nos enamoramos sólo de _ciertas_ pinturas personas por lo que nos transmite su belleza a nosotros en particular. No porque todo el mundo tenga la misma conexión inicial con esa persona.
 
 Todo el mundo puede ver y apreciar un buen culo. Un buen pecho. Una cara extraordinariamente simétrica.
 
@@ -191,7 +184,7 @@ Lo que busco es esa conexión emocional inicial.
 
 ¿Quieres expandir sobre esta conexión inexplicable? Pulsa aquí para desplegar.
 
-A pesar de que biológicamente hablando los hombres buscamos atracción física como primer componente en el emparejamiento, cuando hablamos de una pareja monógama con quien [crear un amor para toda la vida](https://pau.ninja/amor-para-toda-la-vida/), las cosas cambian por completo.
+A pesar de que biológicamente hablando los hombres buscamos atracción física como primer componente en el emparejamiento, cuando hablamos de una pareja monógama con quien [crear un amor para toda la vida](./amor-para-toda-la-vida), las cosas cambian por completo.
 
 Habrá sólo un 1% de parejas que lleven décadas casadas y sigan teniendo una chispa, una conexión visible incluso para los que están fuera de ese círculo a cuatro manos.
 
@@ -199,9 +192,9 @@ Mi cabeza ha hecho un cambio de paradigma al completo cuando he visto que sí…
 
 El amor puede durar más de 3 años pero requiere de amor consciente.
 
-Tiene que ser regado constantemente. Los sentimientos son la tierra nutrida en la que esa relación crece, pero la *gestión* y la *lógica* necesarias para manejar una relación romántica en una sociedad moderna son el agua y el oxígeno para que esa planta no sólo sobreviva, sino que también crezca sana, alta y con raíces fuertes.
+Tiene que ser regado constantemente. Los sentimientos son la tierra nutrida en la que esa relación crece, pero la _gestión_ y la _lógica_ necesarias para manejar una relación romántica en una sociedad moderna son el agua y el oxígeno para que esa planta no sólo sobreviva, sino que también crezca sana, alta y con raíces fuertes.
 
-La conexión emocional que sentimos en la *fase de la luna de miel* puede ser alargada durante décadas.
+La conexión emocional que sentimos en la _fase de la luna de miel_ puede ser alargada durante décadas.
 
 Una conexión que sí, haremos crecer poco a poco pero que tiene que existir desde el principio.
 
@@ -221,7 +214,7 @@ Lo notas.
 
 No es nada lógico pero lo sabes.
 
-Fijaros como esta conexión inicial que después puede crecer (o desaparecer) no existe en apps de citas. Por esto fui tan [tajante en mi opinión sobre Tinder](https://pau.ninja/tinder-opiniones/) (#497), donde el primer indicador es puramente superficial. O a veces llegas a la cita y hay cero conexión, o quizás no nos damos la oportunidad de que salga una cita donde habría existido una conexión mágica.
+Fijaros como esta conexión inicial que después puede crecer (o desaparecer) no existe en apps de citas. Por esto fui tan [tajante en mi opinión sobre Tinder](./tinder-opiniones) (#497), donde el primer indicador es puramente superficial. O a veces llegas a la cita y hay cero conexión, o quizás no nos damos la oportunidad de que salga una cita donde habría existido una conexión mágica.
 
 Una conexión que puedes desaparecer fácilmente si no se riega.
 
@@ -256,7 +249,7 @@ La balanza empieza a pesar demasiado por tu lado y no sabes como nivelarla.
 
 Quizás el primer paso sería tirar de lógica para aceptar que esa persona no está muy interesada en ti. Sólo ha accedido a salir contigo porque… porque sí.
 
-![meme diferencia amor](https://pau.ninja/wp-content/uploads/2023/09/meme-diferencia-amor.jpg)
+![meme diferencia amor](./wp-content/uploads/2023/09meme-diferencia-amor.jpg)
 
 Por esto enfatizaba la importancia de la conexión emocional del principio. Porque es bidireccional. Ambos la sentís. Ambos queréis probar donde va a air.
 
@@ -278,7 +271,7 @@ Si tu haces el esfuerzo para que ella esté en la tuya, ¿no nos merecemos al me
 
 #### Atención
 
-Cuando se empieza a conocer a alguien a nivel romántico, podemos cambiar este *interés* por lo que llamaríamos *atención*.
+Cuando se empieza a conocer a alguien a nivel romántico, podemos cambiar este _interés_ por lo que llamaríamos _atención_.
 
 Una atención que se ha convertido en un bien más escaso que Bitcoin.
 
@@ -294,9 +287,9 @@ Con todas las redes sociales siendo el resultado de décadas de ingeniería psic
 
 El problema es que este grado se va incrementando con el tiempo.
 
-Lo demuestran estudios que ponen de manifiesto que ahora, en la última década nuestra capacidad de atención ha disminuido un 66%, haciendo que estemos al acecho de la capacidad de atención de un pez de colores.[2](<javascript:void(0)>)Schenk, Leslie, and Martin Tucker. 2015. “Attention Spans.” World Literature Today 72 (1): 141. doi:https://doi.org/10.2307/40153617. ‌
+Lo demuestran estudios que ponen de manifiesto que ahora, en la última década nuestra capacidad de atención ha disminuido un 66%, haciendo que estemos al acecho de la capacidad de atención de un pez de colores.[ref-2](#ref-2){.ref}
 
-![capacidad de atención y concentración](https://pau.ninja/wp-content/uploads/2023/09/capacidad-de-atencion-y-concentracion.jpg)
+![capacidad de atención y concentración](./wp-content/uploads/2023/09capacidad-de-atencion-y-concentracion.jpg)
 
 Queremos alguien que entienda que expresar la atención el uno con el otro es un recurso escaso y que si hay interés, esto significará en que esta atención será expresada proactivamente.
 
@@ -308,9 +301,9 @@ Cuando estéis juntos, claro.
 
 No me refiero a que nos volvamos dependientes de que esa persona nos preste atención como un recién nacido, sino que las citas marcadas, son citas para nosotros.
 
-Todos tenemos la misma experiencia: las mejores citas, las personas con las que nos lo pasamos mejor, son esas con las que ambos olvidamos que ni siquiera somos dueños de un *smartphone*.
+Todos tenemos la misma experiencia: las mejores citas, las personas con las que nos lo pasamos mejor, son esas con las que ambos olvidamos que ni siquiera somos dueños de un _smartphone_.
 
-- Alguien que [te escuchará activamente y conscientemente](https://pau.ninja/escucha-activa/) sin medias tintas
+- Alguien que [te escuchará activamente y conscientemente](./escucha-activa) sin medias tintas
 - Alguien que no necesite distracciones para _sobrevivir_ al rato que estáis juntos
 - Alguien que querrá saber genuinamente como te ha ido el día
 
@@ -373,7 +366,7 @@ Lo daría todo.
 
 Daría tanto como ganas tienes que dar tu en una relación cuando ves que alguien puede llegar a ser tan considerada.
 
-Y lo mejor que podemos hacer es decírselo. Expresar esa [gratitud más allá del diario](https://pau.ninja/como-hacer-un-diario-de-gratitud/). Para que decirle lo mucho que apreciamos estas cualidades haga de cimientos sólidos cuando los terremotos de las conversación más duras quieran derrumbar lo que hemos construido.
+Y lo mejor que podemos hacer es decírselo. Expresar esa [gratitud más allá del diario](./como-hacer-un-diario-de-gratitud). Para que decirle lo mucho que apreciamos estas cualidades haga de cimientos sólidos cuando los terremotos de las conversación más duras quieran derrumbar lo que hemos construido.
 
 Algo que sabían bien nuestros abuelos.
 
@@ -404,7 +397,7 @@ Porque en la cultura del materialismo, cuando algo se nos rompe no lo reparamos 
 
 Lo mismo con nuestras relaciones.
 
-En vez de reparar algo que se podría cambiar, nos decimos que «no me gusta X» y automáticamente buscamos a alguien que encaje, que *haya nacido* exactamente como deseamos a nuestra pareja perfecta.
+En vez de reparar algo que se podría cambiar, nos decimos que «no me gusta X» y automáticamente buscamos a alguien que encaje, que _haya nacido_ exactamente como deseamos a nuestra pareja perfecta.
 
 Buena suerte.
 
@@ -422,7 +415,7 @@ Puliendo cada esquina para asegurarte no sólo que queda como quieres, sino que 
 
 O el corazón.
 
-Una pareja *montada artesanalmente* lleva muchas horas de carpintería.
+Una pareja _montada artesanalmente_ lleva muchas horas de carpintería.
 
 #### Sin juegos psicológicos
 
@@ -430,9 +423,9 @@ En esta comunicación me he topado con una cualidad de pareja que pocas veces he
 
 Esta cualidad es… no jugar a juegos psicológicos.
 
-Una persona que ni desde el inicio de conocernos, ni en las primeras citas haya decidido jugar a manipulaciones psicológicas *para ver cómo reacciono* (_shit tests_).
+Una persona que ni desde el inicio de conocernos, ni en las primeras citas haya decidido jugar a manipulaciones psicológicas _para ver cómo reacciono_ (_shit tests_).
 
-He estado con alguien que cuando compartía conmigo, cuando comunicaba algo importante para ella lo acompañaba con una pequeña coletilla que interpreto como de *comunicación orientativa*.
+He estado con alguien que cuando compartía conmigo, cuando comunicaba algo importante para ella lo acompañaba con una pequeña coletilla que interpreto como de _comunicación orientativa_.
 
 - «No te comparto esto para que digas cosas buenas de mí»
 - «No tienes que responder a esto»
@@ -451,7 +444,7 @@ Queremos conflictos porque ayudarán a solucionar situaciones. Lo que no queremo
 
 Para algunos.
 
-Los estudios afirman como una dosis razonable de conflictos hacen que la relación se vuelva más fuerte.[3](<javascript:void(0)>)Harburg, Ernest & Kaciroti, Niko & Gleiberman, Lillian & Julius, Mara & Schork, M.. (2008). Marital Pair Anger-Coping Types May Act as an Entity to Affect Mortality: Preliminary Findings from a Prospective Study (Tecumseh, Michigan, 1971–1988). Journal of Family Communication. 8. 44-61. 10.1080/15267430701779485.
+Los estudios afirman como una dosis razonable de conflictos hacen que la relación se vuelva más fuerte.[ref-3](#ref-3){.ref}
 
 Como cuando podas el árbol que estás haciendo crecer para que centre sus esfuerzos en lo que importa.
 
@@ -469,11 +462,11 @@ Nos lleva a la confianza. A mucha confianza.
 
 Si sabes que no está haciendo jueguecitos contigo, lo más probable es que tampoco los haga con los demás. Que no te esconda cosas que son de vital importancia.
 
-Con su honestidad y transparencia está demostrando unas cualidades de consciencia emocional que implican el manejo de los sentimientos en situaciones dónde para la mayoría lo más fácil es *dejarse ir*.
+Con su honestidad y transparencia está demostrando unas cualidades de consciencia emocional que implican el manejo de los sentimientos en situaciones dónde para la mayoría lo más fácil es _dejarse ir_.
 
-Normal que haya estudios que revelen como las parejas que dicen menos mentiras no sólo tienen *relaciones* sanas sino que simplemente ellas mismas también tienen más *salud*.[4](<javascript:void(0)>)“A Life Without Lies: How Living Honestly Can Affect Health,” Anita E Kelly, Session 3189, 12 to 12:50 p.m., Saturday, Aug. 4, Room W303C, Level III, Orange County Convention Center.
+Normal que haya estudios que revelen como las parejas que dicen menos mentiras no sólo tienen _relaciones_ sanas sino que simplemente ellas mismas también tienen más _salud_.[ref-4](#ref-4){.ref}
 
-Es fácil decir que la comunicación es importante. Es fácil _decir_, *decir* y *decir*. Por esto mi pareja ideal será alguien con la que se pueda confiar porque **sus palabras se alinearán con sus acciones**.
+Es fácil decir que la comunicación es importante. Es fácil _decir_, _decir_ y _decir_. Por esto mi pareja ideal será alguien con la que se pueda confiar porque **sus palabras se alinearán con sus acciones**.
 
 Que no diga que la comunicación es importante, sino que ejerza el derecho de esta comunicación.
 
@@ -495,9 +488,9 @@ No existe app que pueda traducir cero.
 
 Nuestra forma de expresar el afecto también es una forma de comunicación que no tiene porque ser necesariamente con palabras.
 
-Estos *lenguajes del amor* pueden ser expresados con, sí, palabras, pero también con contacto físico, regalos significativos, actos de servicio o pasando tiempo de calidad.
+Estos _lenguajes del amor_ pueden ser expresados con, sí, palabras, pero también con contacto físico, regalos significativos, actos de servicio o pasando tiempo de calidad.
 
-![los 5 lenguajes del amor](https://pau.ninja/wp-content/uploads/2023/08/los-5-lenguajes-del-amor.jpeg)
+![los 5 lenguajes del amor](./wp-content/uploads/2023/08los-5-lenguajes-del-amor.jpeg)
 
 Por esto en mis primeras citas siempre he preguntado de que se tratan, porqué aunque alguien no comparta el mismo idioma que yo, puede hacer el esfuerzo de aprenderlo o de mostrarlo.
 
@@ -516,17 +509,17 @@ Nunca te sentirás amado del todo por tu pareja si no habla tu mismo idioma al m
 - No tienes que reprimir tu sentido del humor
 - Acepta tus perfectas imperfecciones
 
-Como tampoco te sentirás entendido si no *entiende quien eres*.
+Como tampoco te sentirás entendido si no _entiende quien eres_.
 
 Soy un poco raro.
 
 Bueno, seamos sinceros. Todos los somos un poco en cierta medida. O mejor dicho. Todos tenemos ciertas rarezas que algunas veces pueden hacerse difíciles de entender por los demás.
 
-Y no es que crea que [sea un hombre de tan alto valor](https://pau.ninja/hombre-de-alto-valor/) que me haya convertido en alguien totalmente inalcanzable por las mujeres… No.
+Y no es que crea que [sea un hombre de tan alto valor](./hombre-de-alto-valor) que me haya convertido en alguien totalmente inalcanzable por las mujeres… No.
 
 Pero es difícil verme con alguien que entienda por qué sólo como carne. O por qué soy el que sólo invierte en Bitcoin. El que no se cree los bulos de la historia. El que toma el sol sin crema. El que… bueno. La idea no cesa.
 
-Una lista que me hizo pensar que me había convertido en *undatable*.
+Una lista que me hizo pensar que me había convertido en _undatable_.
 
 ¿Quieres expandir sobre la apreciación a tu forma de ser? Pulsa aquí para desplegar.
 
@@ -534,9 +527,9 @@ O en otras palabras: soy raro.
 
 Raro en mis hábitos. Raro en mi manera de pensar. Raro en la cama (no estoy hablando del _delicioso_ sino en mi posición para quedarme dormido).
 
-No busco alguien que comparta las mismas rarezas que yo. Simplemente que las acepte. Que mi *cuadro abstracto* le genere las mismas emociones que lo hago yo cuando la veo a ella.
+No busco alguien que comparta las mismas rarezas que yo. Simplemente que las acepte. Que mi _cuadro abstracto_ le genere las mismas emociones que lo hago yo cuando la veo a ella.
 
-Que me vea usando [las gafas de luz roja](https://pau.ninja/recursos/#Luz) por la noche para soltarme un «eres raro…» mientras me sonríe.
+Que me vea usando [las gafas de luz roja](./recursos#Luz) por la noche para soltarme un «eres raro…» mientras me sonríe.
 
 Que se meta conmigo de forma indirectamente proporcional a las veces que **no me juzga**.
 
@@ -548,9 +541,9 @@ Que me vea en mis distintos entornos y que tenga la curiosidad de entenderda por
 
 #### Forma de ser
 
-La adaptabilidad de comportamiento que usamos en distintas situaciones sociales, a menudo es confundida con *ser un falso*. Llevar una máscara.
+La adaptabilidad de comportamiento que usamos en distintas situaciones sociales, a menudo es confundida con _ser un falso_. Llevar una máscara.
 
-Por ejemplo, soy alguien que en las comidas con los amigos de la infancia de toda la vida hablamos de sexo, *pollas de agua* y _Rock and Roll_.
+Por ejemplo, soy alguien que en las comidas con los amigos de la infancia de toda la vida hablamos de sexo, _pollas de agua_ y _Rock and Roll_.
 
 ¿Significa esto que cuando estoy en la cena de Navidad familiar tendría que hablar con el mismo registro con toda mi familia?
 
@@ -560,7 +553,7 @@ Siga teniendo la misma actitud bromista, fresca, desenfadada, con desparpajo per
 
 Del mismo modo que besaría y abrazaría a mi mujer en casa pero no besaría y abrazaría a otras mujeres.
 
-Es el registro correcto bajo la situación correcta. A esto se le llama ser *socialmente calibrado*.
+Es el registro correcto bajo la situación correcta. A esto se le llama ser _socialmente calibrado_.
 
 No ser un falso.
 
@@ -572,11 +565,11 @@ Quiero a alguien que no tenga que reprimir mis facetas o mi humor.
 
 #### Humor
 
-El humor, o bueno, *mi* tipo de humor es una parte importante de mí.
+El humor, o bueno, _mi_ tipo de humor es una parte importante de mí.
 
 Es una representación de cómo me tomo la vida. Puedo hacer bromas (más buenas o malas) en la mayoría de situaciones para sacar hierro al asunto. Para hacer el entorno más entretenido o simplemente como forma creativa de expresarme.
 
-Imagina estar con una pareja que _no lo pilla_. Que no *te* pilla.
+Imagina estar con una pareja que _no lo pilla_. Que no _te_ pilla.
 
 Lo he vivido.
 
@@ -636,7 +629,7 @@ Pero ellos sólo hablan de un tipo de mujer.
 
 El tipo de mujer diva que vive en Dubai, frecuentando centros comerciales, saliendo con hombres ricos en busca de valores tradicionales.
 
-No entendiendo que *hombre proveedor* no tiene porque significar proveer bolsos Gucci.
+No entendiendo que _hombre proveedor_ no tiene porque significar proveer bolsos Gucci.
 
 Mi atracción por ella está al otro lado de la balanza.
 
@@ -646,7 +639,7 @@ Es esa proactividad de arremangarse cuando se tenga que sacar el lechal de la ca
 
 Una autonomía que se manifiesta tanto de forma individual como en pareja. Me refiero a que dista de ser eso de encontrar _la media naranja_, sino ser una naranja enterita que se encuentra con otra naranja al completo.
 
-![meme relación de dependencia](https://pau.ninja/wp-content/uploads/2023/09/meme-relacion-de-dependencia.jpg)
+![meme relación de dependencia](./wp-content/uploads/2023/09meme-relacion-de-dependencia.jpg)
 
 Hacer una identidad personal totalmente dependiente de la identidad en pareja sólo puede acabar como el Rosario de la Aurora.
 
@@ -666,7 +659,7 @@ Es totalmente bidireccional.
 
 Si interpretamos una relación como una pirámide, lo que hay en las bases es lo que sustenta todo lo que hay por encima.
 
-![pirámide de relación de pareja sana](https://pau.ninja/wp-content/uploads/2023/08/piramide-de-relacion-de-pareja-sana.jpg)
+![pirámide de relación de pareja sana](./wp-content/uploads/2023/08piramide-de-relacion-de-pareja-sana.jpg)
 
 Primero hay valores, después la visión, los objetivos y en la cúspide tenemos los intereses.
 
@@ -674,17 +667,17 @@ Primero hay valores, después la visión, los objetivos y en la cúspide tenemos
 
 Ahora bien.
 
-¿Puedo estar en una relación en la que mi pareja falta al respecto constantemente mientras que para mí el respeto es [uno de los valores personales más importantes](https://pau.ninja/valores-personales/)? (#510)
+¿Puedo estar en una relación en la que mi pareja falta al respecto constantemente mientras que para mí el respeto es [uno de los valores personales más importantes](./valores-personales)? (#510)
 
 Rotundamente, no.
 
-El respeto es el valor que más respeto (válgame la redundancia), no sólo por experiencias pasadas sino porque la evidencia lo respalda, siendo conceptualizado como una de las bases más fundamentales de una relación sana.[5](<javascript:void(0)>)Hendrick, Clyde & Hendrick, Susan & Zacchilli, Tammy. (2011). Respect and Love in Romantic Relationships. Acta de investigación psicológica. 1. 316-329. 10.22201/fpsi.20074719e.2011.2.209.
+El respeto es el valor que más respeto (válgame la redundancia), no sólo por experiencias pasadas sino porque la evidencia lo respalda, siendo conceptualizado como una de las bases más fundamentales de una relación sana.[ref-5](#ref-5){.ref}
 
 Si la base de la pirámide está alineada, si los valores están alineados, los demás niveles se convierten ya en prescindibles, aunque sí que **se vuelven rasgos cada vez más deseables**.
 
 #### Visión de futuro
 
-De hecho podríamos discutir como el segundo nivel, la visión, puede ser una bandera roja para muchos, porque aunque es *pasable*, no todas las parejas tendrán la habilidad de gestionar una visión que no se alinea en la relación.
+De hecho podríamos discutir como el segundo nivel, la visión, puede ser una bandera roja para muchos, porque aunque es _pasable_, no todas las parejas tendrán la habilidad de gestionar una visión que no se alinea en la relación.
 
 Piénsalo.
 
@@ -696,7 +689,7 @@ Quizás en algunos casos donde hay un amor muy profundo puede funcionar, pero si
 
 Tendrá que sacrificarse para que la otra parte cumpla sus deseos.
 
-O esto, o que los dos hagan *medio* sacrificio.
+O esto, o que los dos hagan _medio_ sacrificio.
 
 Se divide como se divide el sacrificio hay un peligro que acechará a esa pareja quizás para siempre.
 
@@ -711,27 +704,3 @@ No quiero un tipo de relación en la que las normas son la norma.
 En la que se tienen que poner palos en la base porque no se sustenta por ella sola. En la que los acuerdos y reglas sean el pan de cada día haciendo que uno siempre se tenga que comprometer para que validar la base de la pirámide del otro.
 
 Una pareja con la que no haya necesidad de hacer contratos.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Cell Press. «Is beauty really in the ‘eye of the beholder’? Yes, and here’s why.» ScienceDaily. ScienceDaily, 1 October 2015.
-
-- 2
-
-  Schenk, Leslie, and Martin Tucker. 2015. “Attention Spans.” World Literature Today 72 (1): 141. doi:https://doi.org/10.2307/40153617. ‌
-
-- 3
-
-  Harburg, Ernest & Kaciroti, Niko & Gleiberman, Lillian & Julius, Mara & Schork, M.. (2008). Marital Pair Anger-Coping Types May Act as an Entity to Affect Mortality: Preliminary Findings from a Prospective Study (Tecumseh, Michigan, 1971–1988). Journal of Family Communication. 8. 44-61. 10.1080/15267430701779485.
-
-- 4
-
-  “A Life Without Lies: How Living Honestly Can Affect Health,” Anita E Kelly, Session 3189, 12 to 12:50 p.m., Saturday, Aug. 4, Room W303C, Level III, Orange County Convention Center.
-
-- 5
-
-  Hendrick, Clyde & Hendrick, Susan & Zacchilli, Tammy. (2011). Respect and Love in Romantic Relationships. Acta de investigación psicológica. 1. 316-329. 10.22201/fpsi.20074719e.2011.2.209.

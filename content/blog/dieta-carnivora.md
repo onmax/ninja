@@ -1,13 +1,18 @@
 ---
-title: "Carnívora: la mejor dieta antiinflamatoria Mi increíble experiencia (científica) de SÓLO comer carne"
+title: "Carnívora: la mejor dieta antiinflamatoria"
+url: https://pau.ninja/dieta-carnivora
+slug: dieta-carnivora
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: comiendo-carne.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/comiendo-carne.jpeg
 published: 2021-10-05T07:23:31+00:00
 modified: 2024-02-28T06:39:27+00:00
+scrappedAt: 2024-10-14T09:21:10.338Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283891-44100-2-99af76e1026e81b7.mp3
-slug: dieta-carnivora
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283891-44100-2-99af76e1026e81b7.mp3](https://anchor.fm/s/98566448/podcast/play/52171680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283891-44100-2-99af76e1026e81b7.mp3)
 
 Después de 6 años con dietas veganas y vegetarianas, nunca me hubiera imaginado que hoy os estaría contando mi experiencia (y la ciencia) de comer **carne exclusivamente**.
@@ -24,14 +29,14 @@ La cantidad de doctores que salen de los dogmas investigando por sí mismos son 
 
 La dieta carnívora se basa en unos **pilares nutricionales y ancestrales**. Unos pilares que os suelto ahora de forma redundante y pedante para que os choquen tanto como a mí. La diferencia es que al contrario que mi ex, no os voy a dejar a medias porque hoy nos metemos dentro de cada una de ellas. Aquí van:
 
-- Es de sentido común seguir [una dieta que probablemente hizo prosperar a nuestros ancestros](https://pau.ninja/el-ser-humano-es-carnivoro/): basada en carne, órganos y aprovechando todas las partes de los animales que cazaban
-- [Las grasas saturadas son buenas](https://pau.ninja/grasas-saturadas-son-buenas/)
-- [El colesterol «malo» en verdad es bueno](https://pau.ninja/la-gran-mentira-del-colesterol/)
-- [Los carbohidratos son malos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/)
+- Es de sentido común seguir [una dieta que probablemente hizo prosperar a nuestros ancestros](./el-ser-humano-es-carnivoro): basada en carne, órganos y aprovechando todas las partes de los animales que cazaban
+- [Las grasas saturadas son buenas](./grasas-saturadas-son-buenas)
+- [El colesterol «malo» en verdad es bueno](./la-gran-mentira-del-colesterol)
+- [Los carbohidratos son malos](./la-verdad-sobre-los-carbohidratos)
 - No necesitamos ni 1gr de fibra para ir al baño con regularidad
 - Usar las grasas como combustible promueve la salud y longevidad
-- Las verduras están llenas de [antinutrientes](https://pau.ninja/antinutrientes-lista/) y toxinas que consumidas a diario son inflamatorias
-- Es más ética tanto para los animales [como el medio ambiente que una dieta vegana](https://pau.ninja/veganismo-y-medio-ambiente/)
+- Las verduras están llenas de [antinutrientes](./antinutrientes-lista) y toxinas que consumidas a diario son inflamatorias
+- Es más ética tanto para los animales [como el medio ambiente que una dieta vegana](./veganismo-y-medio-ambiente)
 
 Lo sé, lo sé. Todo esto suena a que sólo queremos llevar la contraria a los dogmas actuales y sólo buscamos drama, pero ahora que ya hablamos de los hidratos, grasas y colesterol sabemos que estas falacias salieron de lo estudios erróneos de Ancel Keys en los 60. Unos mitos que hemos adoptado como verdades, como cuando todo el mundo creía que la Tierra era plana.
 
@@ -43,60 +48,11 @@ Me equivocaba cuando sólo comía vegano, vegetariano y no sé exactamente cuant
 
 Hoy indagamos en qué es (y que no es) la **dieta carnívora**.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es la dieta carnívora](#Que_es_la_dieta_carnivora 'Qué es la dieta carnívora')
-  - [Por qué seguir la dieta carnívora](#Por_que_seguir_la_dieta_carnivora 'Por qué seguir la dieta carnívora')
-  - [Una dieta de eliminación](#Una_dieta_de_eliminacion 'Una dieta de eliminación')
-  - [La mejor dieta antiinflamatoria](#La_mejor_dieta_antiinflamatoria 'La mejor dieta antiinflamatoria')
-- [Antinutrientes y toxinas de las plantas](#Antinutrientes_y_toxinas_de_las_plantas 'Antinutrientes y toxinas de las plantas')
-  - [Lectinas](#Lectinas 'Lectinas')
-  - [Isotiocianatos](#Isotiocianatos 'Isotiocianatos')
-  - [Polifenoles](#Polifenoles 'Polifenoles')
-  - [Oxalatos](#Oxalatos 'Oxalatos')
-- [Qué comer en la dieta carnívora](#Que_comer_en_la_dieta_carnivora 'Qué comer en la dieta carnívora')
-  - [Carne](#Carne 'Carne')
-  - [Órganos](#Organos 'Órganos')
-  - [Pescado y hueva](#Pescado_y_hueva 'Pescado y hueva')
-  - [Médula del hueso](#Medula_del_hueso 'Médula del hueso')
-  - [Productos de pasto](#Productos_de_pasto 'Productos de pasto')
-  - [Huevos y lácteos](#Huevos_y_lacteos 'Huevos y lácteos')
-  - [Comer hasta la saciedad](#Comer_hasta_la_saciedad 'Comer hasta la saciedad')
-  - [Sin fruta ni fructosa](#Sin_fruta_ni_fructosa 'Sin fruta ni fructosa')
-- [Mitos de los estudios científicos sobre la carne roja](#Mitos_de_los_estudios_cientificos_sobre_la_carne_roja 'Mitos de los estudios científicos sobre la carne roja')
-  - [Colesterol](#Colesterol 'Colesterol')
-  - [Vitamina C](#Vitamina_C 'Vitamina C')
-  - [Microbiota](#Microbiota 'Microbiota')
-  - [Fibra](#Fibra 'Fibra')
-  - [Proteína](#Proteina 'Proteína')
-  - [Carbohidratos](#Carbohidratos 'Carbohidratos')
-  - [Grasas saturadas](#Grasas_saturadas 'Grasas saturadas')
-- [Ventajas de la dieta carnívora](#Ventajas_de_la_dieta_carnivora 'Ventajas de la dieta carnívora')
-  - [Más absorción de los nutrientes](#Mas_absorcion_de_los_nutrientes 'Más absorción de los nutrientes')
-  - [Sin inflamación ni hinchazón](#Sin_inflamacion_ni_hinchazon 'Sin inflamación ni hinchazón')
-  - [Estar en cetosis nutricional](#Estar_en_cetosis_nutricional 'Estar en cetosis nutricional')
-  - [Menos comida pero más saciado](#Menos_comida_pero_mas_saciado 'Menos comida pero más saciado')
-  - [Dientes más sanos](#Dientes_mas_sanos 'Dientes más sanos')
-  - [Dormir mejor](#Dormir_mejor 'Dormir mejor')
-  - [Pérdida de peso](#Perdida_de_peso 'Pérdida de peso')
-- [Desventajas de la dieta carnívora](#Desventajas_de_la_dieta_carnivora 'Desventajas de la dieta carnívora')
-  - [Toxicidad si se hace mal](#Toxicidad_si_se_hace_mal 'Toxicidad si se hace mal')
-  - [Las primeras semanas son difíciles](#Las_primeras_semanas_son_dificiles 'Las primeras semanas son difíciles')
-  - [Estreñimiento](#Estrenimiento 'Estreñimiento')
-  - [Diarrea](#Diarrea 'Diarrea')
-  - [No es para todos los bolsillos](#No_es_para_todos_los_bolsillos 'No es para todos los bolsillos')
-  - [Se hace dura socialmente](#Se_hace_dura_socialmente 'Se hace dura socialmente')
-- [Mis resultados de antes y después](#Mis_resultados_de_antes_y_despues 'Mis resultados de antes y después')
-  - [Ejemplos de menú de dieta carnívora](#Ejemplos_de_menu_de_dieta_carnivora 'Ejemplos de menú de dieta carnívora')
-  - [Reto de 30 días](#Reto_de_30_dias 'Reto de 30 días')
-
 ## Qué es la dieta carnívora
 
 La dieta carnívora es un régimen en el que **sólo** se consumen productos de origen animal. A modo de simplificación es lo opuesto a la dieta vegana en la que sólo se consumen productos de origen vegetal.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
 ### Por qué seguir la dieta carnívora
 
@@ -105,7 +61,7 @@ La mayoría de los que empiezan a seguir una manera de comer en la que **sólo s
 Seguro que alguno la probará porque le gusta mucho la carne, pero la mayoría saltamos a probar la dieta carnívora para mejorar nuestra salud. Yo fui uno de ellos. En la primera oleada de la pandemia, estaba viviendo en Croacia y noté que en cuestión de días:
 
 - Hinchazón severa en la barriga. En serio, cuando respiraba parecía un maldito globo terráqueo.
-- Molestias detrás de la rodilla. No se me recuperaba por mucho que estiraba. Supongo que por esto en comparación me sentía tan bien [experimentando con el ayuno intermitente](https://pau.ninja/ayuno-intermitente-experiencias/). Porque no era hasta que comía que me empezaba a doler.
+- Molestias detrás de la rodilla. No se me recuperaba por mucho que estiraba. Supongo que por esto en comparación me sentía tan bien [experimentando con el ayuno intermitente](./ayuno-intermitente-experiencias). Porque no era hasta que comía que me empezaba a doler.
 - También empecé a dormir peor, a estar menos descansado. Me lo confirmaba mi Oura Ring con las pulsaciones en reposo.
 - Y lo que era incluso peor de todo, después de la primera comida del día, una bajada de energía que me dejaba por los suelos.
 
@@ -127,7 +83,7 @@ Empezó siguiendo una estrategia de dieta de eliminación. Sacando cada vez más
 
 Jordan [comentaba](https://youtu.be/HLF29w6YqXs?t=130) en el podcast de Joe Rogan que su hija radiaba felicidad y salud. Que fue esto lo que le inspiró a probarlo él también durante 30 días. Treinta días que se convirtieron en un par de años de **sólo comer carne**.
 
-![Peterson comiendo carne](https://pau.ninja/wp-content/uploads/2021/10/peterson-comiendo-carne.jpeg)
+![Peterson comiendo carne](./wp-content/uploads/2021/10peterson-comiendo-carne.jpeg)
 
 Foto: los Peterson comiendo (sólo) carne.
 
@@ -155,19 +111,19 @@ En cambio podemos encontrar miles de casos con todo tipos de reacciones y **aler
 
 Ahora mismo rebajado
 
-[![Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeE1WcFhha0pRU2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTk2Mg=)](https://www.amazon.es/dp/8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...')
+[![Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeE1WcFhha0pRU2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NTUyOQ=)](https://www.amazon.es/dp8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
 
-[Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](https://www.amazon.es/dp/8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...')
+[Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](https://www.amazon.es/dp/8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
 
 En el libro Cerebro de Pan, se culpa (con muy buenos argumentos) a los carbohidratos.
 
-10,40 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+10,40 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Alegando a que la mayoría de nuestros problemas de salud son a causa de 1 cosa: la **inflamación**. ¿Y qué causa la mayoría de esta inflamación? los hidratos.
 
-Si «sólo» elimináramos los carbohidratos, estaríamos delante de una [dieta cetogénica](https://pau.ninja/dieta-cetogenica-ciclica/) que en sí misma ya tiene beneficios. Entonces, ¿por qué ser tan radicales y eliminar también los frutos secos, frutas, verdura y en definitiva: todo lo que venga de plantas?
+Si «sólo» elimináramos los carbohidratos, estaríamos delante de una [dieta cetogénica](./dieta-cetogenica-ciclica) que en sí misma ya tiene beneficios. Entonces, ¿por qué ser tan radicales y eliminar también los frutos secos, frutas, verdura y en definitiva: todo lo que venga de plantas?
 
 En la dieta carnívora hay una eliminación total de lo que **no** procede de animales porque ahora veremos como gran parte de esta inflamación es por **culpa de los componentes biológicos de las plantas**.
 
@@ -212,7 +168,7 @@ El problema es que con todo lo que hay en el supermercado cuesta sacarlas de la 
 
 En esto incluimos la mayoría de frutas y vegetales frescos. Y lo siento pero cocinarlos no nos salvará.
 
-Con nuestra perspectiva de pájaro, nuestro *zoom out*, nos damos cuenta que la mayoría de nuestras vidas estaremos consumiendo de forma regular una toxina que ataca tal cual a nuestras células. Por eso una dieta sin lectinas es tan efectiva según la [evidencia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5647120/) pero **muy restrictiva** porque sacamos la mayoría de comida que tenemos en casa.
+Con nuestra perspectiva de pájaro, nuestro _zoom out_, nos damos cuenta que la mayoría de nuestras vidas estaremos consumiendo de forma regular una toxina que ataca tal cual a nuestras células. Por eso una dieta sin lectinas es tan efectiva según la [evidencia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5647120/) pero **muy restrictiva** porque sacamos la mayoría de comida que tenemos en casa.
 
 ### Isotiocianatos
 
@@ -248,7 +204,7 @@ Y no dejamos los estresores ni asesinos silenciosos de las plantas porque si los
 
 > Podemos mirar la cantidad de calcio que tienen las espinacas en el laboratorio, pero esto **no significa que esté biodisponible**.
 
-La evidencia nutricional no sólo nos ha fallado con las [mentira de las grasas](https://pau.ninja/grasas-saturadas-son-buenas/) y [la verdad de los carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/), lo vemos claramente en la famosa «Ingesta Diaria Recomendada» (IDR).
+La evidencia nutricional no sólo nos ha fallado con las [mentira de las grasas](./grasas-saturadas-son-buenas/) y [la verdad de los carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos), lo vemos claramente en la famosa «Ingesta Diaria Recomendada» (IDR).
 
 Si comemos el 100% del calcio recomendado vía espinacas, resulta que como está pegado en oxalato **obtenemos el 0% de este calcio** y lo que es peor es que algunas de estas plantas incluso nos pueden hacer incrementar la cantidad de nutrientes que necesitamos porque ellas mismas nos las van sacando.
 
@@ -278,7 +234,7 @@ Pensad que ahora estamos siguiendo un tipo de dieta keto, es decir, sin carbohid
 
 Es por esto que seleccionar carne roja tiene más sentido que no carne blanca como pollo o pavo: porque a parte de tener más micronutrientes y minerales, la carne roja tiene más grasas y calorías para estar bien fuertes.
 
-Algunos llevaréis tiempo sin comer nada de carne roja porque siempre habíamos escuchado que las [grasas saturadas no eran buenas](https://pau.ninja/grasas-saturadas-son-buenas/)… será una buena novedad ver como os sentís si decidís probarlo.
+Algunos llevaréis tiempo sin comer nada de carne roja porque siempre habíamos escuchado que las [grasas saturadas no eran buenas](./grasas-saturadas-son-buenas)… será una buena novedad ver como os sentís si decidís probarlo.
 
 ### Órganos
 
@@ -309,7 +265,7 @@ Sólo que son una auténtica maravilla en densidad nutricional.
 
 Hablando de Omegas una buena incorporación podría ser el pescado, pero que sea **cazado de forma salvaje y de forma sostenible**. Esto es muy importante para asegurar la calidad nutricional, porque por desgracia hemos dejado ya los océanos contaminados del todo.
 
-![certificado pesca sostenible](https://pau.ninja/wp-content/uploads/2021/10/certificado-pesca-sostenible.jpeg)
+![certificado pesca sostenible](./wp-content/uploads/2021/10certificado-pesca-sostenible.jpeg)
 
 Hay un par de sellos que podemos buscar en el envase aunque lo ideal sería ir al mercado a preguntar.
 
@@ -339,25 +295,25 @@ Tienen que ser animales que están pastando libres y alimentándose con su **die
 
 Comer animales de pasto no sólo nos hace ser más respetuosos con su vida o ayudar a la regeneración nutricional de la tierra, sino que además nos aseguramos que hay **mucha más densidad nutricional** en lo que nos metemos en la boca.
 
-![vegano vs carnívoro](https://pau.ninja/wp-content/uploads/2021/10/vegano-vs-carnivoro.jpeg)
+![vegano vs carnívoro](./wp-content/uploads/2021/10vegano-vs-carnivoro.jpeg)
 
 Esto es vital en la dieta carnívora porque estamos buscando **densidad nutricional y biodisponibilidad** de los micronutrientes para nuestro cuerpo.
 
 ¿Tiene sentido que una vaca en vez de grano y soja esté pastando con el sistema digestivo que la naturaleza le dio para comer?
 
-Es lo mismo que estamos intentamos hacer nosotros comiendo sólo carne: seguir nuestra dieta **ancestral por defecto**. Hipotetizando que [los humanos somos más carnívoros](https://pau.ninja/el-ser-humano-es-carnivoro/) (#194) de lo que pensábamos tanto a nivel evolutivo como biológico.
+Es lo mismo que estamos intentamos hacer nosotros comiendo sólo carne: seguir nuestra dieta **ancestral por defecto**. Hipotetizando que [los humanos somos más carnívoros](./el-ser-humano-es-carnivoro) (#194) de lo que pensábamos tanto a nivel evolutivo como biológico.
 
 La carne industrial VS de pasto **no tiene nada que ver** una con la otra aunque tengan el mismo nombre.
 
-![omega3 animales pasto](https://pau.ninja/wp-content/uploads/2021/10/omega3-animales-pasto.jpeg)
+![omega3 animales pasto](./wp-content/uploads/2021/10omega3-animales-pasto.jpeg)
 
 Varios estudios ya demostraron que la de ganadería industrial tiene mucho más estrés oxidativo que a parte de tirar los nutrientes por la borda, puede incluso ser perjudicial.
 
-Hablaba de ello un poco más al detalle cuando os comentaba [por qué las grasas saturadas (pueden) ser buenas](https://pau.ninja/grasas-saturadas-son-buenas/) si son de buenas fuentes (#189).
+Hablaba de ello un poco más al detalle cuando os comentaba [por qué las grasas saturadas (pueden) ser buenas](./grasas-saturadas-son-buenas) si son de buenas fuentes (#189).
 
 ### Huevos y lácteos
 
-Esta calidad también la tenemos que asegurar si decidimos comer huevos, queso y lácteos, que también estarían permitidos si los podemos tolerar bien y comer sólo carne es aún un *shock* para algunos.
+Esta calidad también la tenemos que asegurar si decidimos comer huevos, queso y lácteos, que también estarían permitidos si los podemos tolerar bien y comer sólo carne es aún un _shock_ para algunos.
 
 Por ejemplo yo los huevos (de gallinas camperas del número 0, claro) les saco la clara porque está llena de lectinas. Como algo de residuo le quedará me acostumbro de no comer huevo (o más bien, yema) muy a menudo por mucho multivitamínico que sea. La carne y los órganos ya hacen esta función.
 
@@ -376,7 +332,7 @@ Los que hay en España y Estonia que cumplen esto son los quesos del tipo Parmig
 
 Como regla general si el queso tiene un sello de protección conforme se ha hecho de forma tradicional, entonces estamos jugando sobre seguro. En el Parmigiano-Reggiano que he comprado en Estonia en el supermercado tenía el [sello](https://www.parmigianoreggiano.com/) conforme se hacía de la forma tradicional.
 
-![certificado queso](https://pau.ninja/wp-content/uploads/2021/10/certificado-queso.jpeg)
+![certificado queso](./wp-content/uploads/2021/10certificado-queso.jpeg)
 
 No hace falta decir que me miré con lupa la web y todo el proceso para confirmarlo. Aunque no soy muy de lácteos porque me parecen poco naturales, si tenemos que incluir alguno que sea este tipo de queso de calidad.
 
@@ -402,7 +358,7 @@ No hay otra porque los pilares de la nutrición siempre nos han enseñado que a 
 
 Calculé que el primer mes de carnívora comí unas 3.000kcal (algunos días más) en sólo 1 o 2 platos diarios y **adelgacé** de la parte del medio mientras aumentaba fuerza en el gimnasio.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
 Sin duda tendré que mirarme con lupa como puede ser que algo así suceda, pero me va genial para hilarlo con los **mitos y mentidas** que nos han estado repitiendo y nos hemos creído.
 
@@ -446,7 +402,7 @@ No lo creo, aunque exista la llamada «industria del azúcar». Fijaros que no e
 
 Podríamos argumentar que una industria como la del azúcar puede haber movido algunos hilos para que tachemos la carne roja como el diablo y puede que haya parte de razón, pero creo que parte de la culpa es que hemos hecho de la nutrición un «juego del teléfono».
 
-![meme juego teléfono](https://pau.ninja/wp-content/uploads/2021/10/meme-juego-telefono.jpeg)
+![meme juego teléfono](./wp-content/uploads/2021/10meme-juego-telefono.jpeg)
 
 Le dices una cosa a la oreja de alguien, esta persona a otra, y así sucesivamente. Cuando te vuelve a llegar a ti, lo que escuchas no tiene **nada que ver** en lo que habías dicho inicialmente.
 
@@ -473,7 +429,7 @@ Esto es un problema enorme para la ciencia y para los ciudadanos de a pie como n
 
 Fijaros si podemos correlacionar datos sin sentido que había un artículo en un [periódico](https://elpais.com/elpais/2016/07/20/buenavida/1469031791_859001.html) que decía «ver pelis de Nicolas Cage aumenta el riesgo de ahogarse en la piscina».
 
-![relación nicolas cage](https://pau.ninja/wp-content/uploads/2021/10/relacion-nicolas-cage.jpeg)
+![relación nicolas cage](./wp-content/uploads/2021/10relacion-nicolas-cage.jpeg)
 
 Claro que el artículo era de mofa, pero hacía hincapié en la peligrosidad de correlacionar gráficos que se parezcan y decir que una cosa causa la otra.
 
@@ -481,15 +437,15 @@ Claro que el artículo era de mofa, pero hacía hincapié en la peligrosidad de 
 
 De lo contrario nos pueden llegar a relacionar que la bajada en una gráfica del consumo de sal concuerda con la bajada de divorcios. ¿Entonces qué? ¿a menos sal en mi comida menos posibilidad de que me divorcie?
 
-Suena a ciencia ficción pero nos cuelan este tipo de datos a diario. La cuestión es tener titulares de *clickbait* en los periódicos online para hacerles clic en los anuncios.
+Suena a ciencia ficción pero nos cuelan este tipo de datos a diario. La cuestión es tener titulares de _clickbait_ en los periódicos online para hacerles clic en los anuncios.
 
-![gasto vs suicidios](https://pau.ninja/wp-content/uploads/2021/10/gasto-vs-suicidios.jpeg)
+![gasto vs suicidios](./wp-content/uploads/2021/10gasto-vs-suicidios.jpeg)
 
 Gráfico: lo que gasta Estados Unidos en ciencia y tecnología es casi idéntico al número de suicidio. Recordemos: correlación [no implica](https://vandalytic.com/la-correlacion-no-implica-causalidad/) causalidad.
 
 Por culpa de estos estudios de poca calidad hay tanto escepticismo con el consumo de carne.
 
-Vemos el típico «estudio» que estudia a un grupo que come sólo _hot dogs_, o pizzas para determinar algo. Después resulta que esas personas tienen una salud pésima y lo culpan a la carne del *hot dog* o pizza que seguramente también es de mala calidad. ¿Por qué? porque lo más probable es que esas personas también estén bebiendo Coca Cola y unas patatas fritas con su hot dog.
+Vemos el típico «estudio» que estudia a un grupo que come sólo _hot dogs_, o pizzas para determinar algo. Después resulta que esas personas tienen una salud pésima y lo culpan a la carne del _hot dog_ o pizza que seguramente también es de mala calidad. ¿Por qué? porque lo más probable es que esas personas también estén bebiendo Coca Cola y unas patatas fritas con su hot dog.
 
 El último acompañamiento que nos pasa por la cabeza cuando pensamos en alguien comiendo pizza es que también lo acompañen con una ensalada.
 
@@ -513,7 +469,7 @@ Hay estudios de la dieta cetogénica que salen [beneficiosos](https://www.ncbi.n
 
 No os preocupéis porque he vuelto a hacer de mamá pájaro. Engullendo información para escupirla con pedazos de información coherente.
 
-![mamá pájaro audiencia](https://pau.ninja/wp-content/uploads/2021/10/mama-pajaro-audiencia.jpeg)
+![mamá pájaro audiencia](./wp-content/uploads/2021/10mama-pajaro-audiencia.jpeg)
 
 Como no tenemos estudios largoplacistas sobre una dieta específica, lo que haremos será desmentir una por una las principales preocupaciones de alguien que se estaría planteando probar la dieta carnívora durante un tiempo, y miraremos que dice la evidencia (real).
 
@@ -535,7 +491,7 @@ LDL es el tipo de colesterol al que (mal) llamamos «malo» porque supuestamente
 
 La mayoría de webs de medicina o de recomendaciones [oficiales](https://medlineplus.gov/spanish/ldlthebadcholesterol.html) le ponen esta etiqueta de villano, pero recordemos que son las [mismas](https://medlineplus.gov/spanish/ldlthebadcholesterol.html) fuentes que en la base de la pirámide alimenticia ponen al trigo y un montón de carbohidratos.
 
-![pirámide nutricional](https://pau.ninja/wp-content/uploads/2021/10/piramide-nutricional.jpeg)
+![pirámide nutricional](./wp-content/uploads/2021/10piramide-nutricional.jpeg)
 
 ¿Por qué se vinculó niveles altos LDL con enfermedades del corazón?
 
@@ -566,11 +522,11 @@ Cuando esto sucede entonces en los análisis de sangre nos saldrá que tenemos u
 
 Exacto. Tener el azúcar alto es malo para nuestro colesterol y la alta oxidación también lo es. ¿Y qué nos da azúcar y oxidación? los malditos carbohidratos de los coj…
 
-Por eso cuando [hablé a fondo de la flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/) comenté que es una mala idea una dieta alta en hidratos, pero aún peor una en la que haya mucha grasa y muchos carbohidratos a la vez.
+Por eso cuando [hablé a fondo de la flexibilidad metabólica](./flexibilidad-metabolica) comenté que es una mala idea una dieta alta en hidratos, pero aún peor una en la que haya mucha grasa y muchos carbohidratos a la vez.
 
 > ¿Por qué culpar a los carbohidratos y no a la carne?
 
-Porque vivir [sin carbohidratos en una dieta cetogénica es sano](https://pau.ninja/dieta-cetogenica-ciclica/) (#198), por todo lo que causan los hidratos en si mismo a largo plazo.
+Porque vivir [sin carbohidratos en una dieta cetogénica es sano](./dieta-cetogenica-ciclica) (#198), por todo lo que causan los hidratos en si mismo a largo plazo.
 
 Personalmente me fijaría más en la proporción de triglicéridos a colesterol HDL y a tener un Patrón B de la subfracción de LDL que indicaría que no hay riesgo cardiovascular.
 
@@ -607,7 +563,7 @@ Con nuevos análisis vemos que **sí** hay [vitamina C en la carne fresca](http
 
 Aquí alguien nos dirá «bueno no importaaaa porque la cantidad de vitamina C en la carne y órganos es muy baja comparada con la naranja o el kiwi».
 
-Aquí va una bofetada iluminadora porque existe una cierta cantidad recomendada de gramos, de porcentaje de vitamina C que tenemos que consumir según estas tablas nutricionales: la famosa «cantidad diaria recomendada». Pero resulta que estas tablas están basadas en dietas más tradicionales que como hablamos en las [mentiras y verdades de los carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/) (#181), son dietas con muy poca carne y mucha glucosa constante.
+Aquí va una bofetada iluminadora porque existe una cierta cantidad recomendada de gramos, de porcentaje de vitamina C que tenemos que consumir según estas tablas nutricionales: la famosa «cantidad diaria recomendada». Pero resulta que estas tablas están basadas en dietas más tradicionales que como hablamos en las [mentiras y verdades de los carbohidratos](./la-verdad-sobre-los-carbohidratos) (#181), son dietas con muy poca carne y mucha glucosa constante.
 
 ¿Os acordáis del caso de las espinacas y [oxalatos](#Oxalatos)? estamos en una situación similar, donde la cantidad diaria recomendada nos importa una mier\*a porque resulta que los carbohidratos, **la glucosa compite con la vitamina C** por respuesta y absorción.
 
@@ -637,15 +593,15 @@ Por la inflamación que tenía me compré un libro que os recomiendo si os inte
 
 Ahora mismo rebajado
 
-[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTk2Mg=)](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'I Contain Multitudes: The Microbes Within Us and a Grander View of Life')
+[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NTUyOQ=)](https://www.amazon.es/dp1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
-[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'I Contain Multitudes: The Microbes Within Us and a Grander View of Life')
+[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
-13,49 €
+13,14 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-La ciencia aún no sabe mucho en general de esta flora, pero lo que **sí** sabemos es que algunas de esas bacterias que tenemos en la barriga están asociadas a la salud metabólica y esa [maravillosa flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/) de la que tanto hablo.
+La ciencia aún no sabe mucho en general de esta flora, pero lo que **sí** sabemos es que algunas de esas bacterias que tenemos en la barriga están asociadas a la salud metabólica y esa [maravillosa flexibilidad metabólica](./flexibilidad-metabolica) de la que tanto hablo.
 
 La clave aquí es que la microbiota está **asociada** pero no es la causante.
 
@@ -657,7 +613,7 @@ Revisaron con lupa muchos hallazgos a lo largo de la literatura científica que 
 
 Pero como os digo, esto el mundo de la investigación en la microbiota es muy nuevo y aunque estos estudios darían soporte a la idea de que el «balance» (otra vez) no es la solución, **no** nos lo podemos tomar como algo concluyente.
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2021/10/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2021/10comic-longevidad.png)
 
 Los investigadores mismos dijeron que antes de empezar a hacer intervenciones en humanos para llegar a una conclusión tenemos que entender más la microbiota en general.
 
@@ -712,7 +668,7 @@ Mi baño ese primer par de semanas parecía Hiroshima y Nagasaki.
 
 Muchos piensan que la verdadera bomba es «tanta» proteína para el hígado.
 
-Tenemos que pensar que si los argumentos antropológicos del [humano prehistórico carnívoro](https://pau.ninja/el-ser-humano-es-carnivoro/) me convencieran, ¿cómo podía tener sentido toda la proteína diaria que de forma natural terminaría consumiendo? ¿en verdad era malo?
+Tenemos que pensar que si los argumentos antropológicos del [humano prehistórico carnívoro](./el-ser-humano-es-carnivoro) me convencieran, ¿cómo podía tener sentido toda la proteína diaria que de forma natural terminaría consumiendo? ¿en verdad era malo?
 
 Fue cuando indagué un poco en la «literatura» que me encontré con la respuesta.
 
@@ -753,11 +709,11 @@ Empezamos comiendo lo que sea más nutricionalmente denso, después a las partes
 
 ### Carbohidratos
 
-[Expandir la verdad sobre los hidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/).
+[Expandir la verdad sobre los hidratos](./la-verdad-sobre-los-carbohidratos).
 
 ### Grasas saturadas
 
-[Expandir las mentiras de las grasas](https://pau.ninja/grasas-saturadas-son-buenas/).
+[Expandir las mentiras de las grasas](./grasas-saturadas-son-buenas).
 
 ## Ventajas de la dieta carnívora
 
@@ -781,7 +737,7 @@ Pero…
 
 Si tenemos inflamación del muro del intestino, lo más probable es que la absorción no sea total.
 
-![célula anabólica](https://pau.ninja/wp-content/uploads/2021/10/celula-anabolica.jpeg)
+![célula anabólica](./wp-content/uploads/2021/10celula-anabolica.jpeg)
 
 Como la transformación de célula de Dragon Ball.
 
@@ -797,13 +753,13 @@ Como cuando coges la mano de un niño y empiezas a hacer que se pegue a si mismo
 
 Si pillamos una infección de cualquier nivel, el cuerpo verá los microbios y los juzgará como si fueran políticos catalanes. Nuestro cuerpo dirá: «no eres parte de mí» y creará lo que se conoce como una respuesta inmune contra estos microbios. Para defenderse suelta una armada de anticuerpos que son como pequeños misiles. Como pequeños asesinos para ese virus.
 
-![anticuerpo vs virus](https://pau.ninja/wp-content/uploads/2021/10/anticuerpo-vs-virus.jpeg)
+![anticuerpo vs virus](./wp-content/uploads/2021/10anticuerpo-vs-virus.jpeg)
 
-El problema es que en alguna ocasión podemos encontrarnos con que esta respuesta inmune se vuelve *to-loca*.
+El problema es que en alguna ocasión podemos encontrarnos con que esta respuesta inmune se vuelve _to-loca_.
 
 En vez de crear anticuerpos que ataquen parásitos, virus, bacteria y todo inmigrante por nuestro cuerpo como si fuera la frontera con Marruecos, lo que puede pasar es que ataque nuestras propias células sanas. Nuestro propio cuerpo.
 
-Hay muy buena evidencia de que estas proteínas que encontramos en abundancia en plantas (lectinas, por ejemplo), pueden apretar el gatillo respuestas autoinmunes a través de algo llamado [mímica molecular](<https://www.news-medical.net/health/Pathogenesis-of-Autoimmunity-(Spanish).aspx>).
+Hay muy buena evidencia de que estas proteínas que encontramos en abundancia en plantas (lectinas, por ejemplo), pueden apretar el gatillo respuestas autoinmunes a través de algo llamado [mímica molecular](https://www.news-medical.net/health/Pathogenesis-of-Autoimmunity-\(Spanish\).aspx).
 
 En esta ráfaga, el cuerpo no se mira la bacteria en particular que ha entrado a nuestro sistema, pero la «firma molecular». O sea, pequeñas secuencias de moléculas en el código de esa bacteria.
 
@@ -849,7 +805,7 @@ Para mí lo peor de esta acumulación de «polución» fue la niebla mental que 
 
 ### Estar en cetosis nutricional
 
-Por suerte otro beneficio de la dieta carnívora es que estamos en [cetosis](https://pau.ninja/dieta-cetogenica-ciclica/#Estar_en_cetosis_nutricional). Al no usar hidratos nuestro cuerpo literalmente coge las grasas, las oxida y las convierte en cetonas que son esa especie de substituto de la glucosa.
+Por suerte otro beneficio de la dieta carnívora es que estamos en [cetosis](./dieta-cetogenica-ciclica#Estar_en_cetosis_nutricional). Al no usar hidratos nuestro cuerpo literalmente coge las grasas, las oxida y las convierte en cetonas que son esa especie de substituto de la glucosa.
 
 ¿En qué se traduce esto? pérdida de peso, más rendimiento atlético y cognitivo. Se ha demostrado que estando en cetosis tenemos efectos:
 
@@ -861,11 +817,11 @@ Por suerte otro beneficio de la dieta carnívora es que estamos en [cetosis](htt
 
 Normal que se haya usado esta manera de comer en prevención de enfermedades del corazón, cáncer, Alzheimer, epilepsia, Parkinson y más.
 
-Vamos, que con la carnívora tenemos todos los [beneficios de la dieta cetogénica](https://pau.ninja/dieta-cetogenica-ciclica/#Beneficios_de_la_dieta_cetogenica_segun_estudios_cientificos) (de tener [cetonas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4414487/) constantemente) pero encima las ventajas de sacar antinutrientes y toxinas de las plantas, y pasamos a comer el alimento que el ser humano comía de forma predilecta durante miles de años.
+Vamos, que con la carnívora tenemos todos los [beneficios de la dieta cetogénica](./dieta-cetogenica-ciclica/#Beneficios_de_la_dieta_cetogenica_segun_estudios_cientificos) (de tener [cetonas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4414487) constantemente) pero encima las ventajas de sacar antinutrientes y toxinas de las plantas, y pasamos a comer el alimento que el ser humano comía de forma predilecta durante miles de años.
 
 ### Menos comida pero más saciado
 
-[El humano prehistórico comía carne](https://pau.ninja/el-ser-humano-es-carnivoro/) en su mayoría precisamente por la sensación de saciedad. La saciedad no es necesariamente llenarse la barriga pero **sentirse saciado a nivel hormonal**. Algo que sucede cuando el cuerpo está completo a nivel de nutrientes.
+[El humano prehistórico comía carne](./el-ser-humano-es-carnivoro) en su mayoría precisamente por la sensación de saciedad. La saciedad no es necesariamente llenarse la barriga pero **sentirse saciado a nivel hormonal**. Algo que sucede cuando el cuerpo está completo a nivel de nutrientes.
 
 La carne es saciante, nos hace sentir llenos. Tiene buen sabor pero a la vez no tendemos a sentirnos tentados de comer de más. En exceso.
 
@@ -901,7 +857,7 @@ También tenemos más muestras poblacionales prehistóricas que nos dicen lo que
 
 Restos de poblaciones hace unos 9.000 años nos mostraban estos problemas dentales precisamente por comer mucha [fruta](#Sin_fruta_ni_fructosa) y miel que hicieron desaparecer a estas civilizaciones.
 
-![caries de ancestros](https://pau.ninja/wp-content/uploads/2021/10/caries-de-ancestros.jpeg)
+![caries de ancestros](./wp-content/uploads/2021/10caries-de-ancestros.jpeg)
 
 De vez en cuando consumían pescado, algo que es súper anti-caries y que incluso se usa en la pasta de dientes de hoy en día, pero ¿cuáles eran los alimentos principales de estas tribus de hace miles de años? fruta y miel.
 
@@ -913,7 +869,7 @@ O sea que sí, otra ventaja de la carnívora: más salud dental.
 
 Pero lo que más me ha flipado de la dieta de sólo carne es **lo bien que duermo**.
 
-Ya sabéis que soy un *freak* de la salud del sueño y por esto de hace unos años tengo un anillo que mide mi calidad del sueño precisamente para analizar lo que me va mejor y peor para mejorar mis métricas y por lo tanto mi sueño.
+Ya sabéis que soy un _freak_ de la salud del sueño y por esto de hace unos años tengo un anillo que mide mi calidad del sueño precisamente para analizar lo que me va mejor y peor para mejorar mis métricas y por lo tanto mi sueño.
 
 Os voy a ser sincero porque por más que he buscado los motivos que me han hecho dormir mejor desde que soy carnívoro no he encontrado nada específico.
 
@@ -922,13 +878,13 @@ Mi teoría es que es todo lo que hemos visto hasta ahora, **combinado**, hace qu
 - Menos inflamación
 - Menos carbohidratos
 - Mejor balance hormonal
-- El hecho de comer muchas menos veces (he terminado [comiendo una vez al día](https://pau.ninja/comer-una-vez-al-dia/)) y no ir a dormir ni con hambre ni con la barriga llena
+- El hecho de comer muchas menos veces (he terminado [comiendo una vez al día](./comer-una-vez-al-dia)) y no ir a dormir ni con hambre ni con la barriga llena
 
 Lógicamente ninguna de estas cosas sería muy relevante si no tuviera cierta «higiene del sueño» como es ir a dormir pronto y a la misma hora cada día, no mirar pantallas azules para aumentar el sueño profundo y demás.
 
 Desde el día 1 de empezar a comer así, lo primero que noté fue una mejora de mis pulsaciones en reposo.
 
-![pulsaciones reposo carne](https://pau.ninja/wp-content/uploads/2021/10/pulsaciones-reposo-carne.png)
+![pulsaciones reposo carne](./wp-content/uploads/2021/10pulsaciones-reposo-carne.png)
 
 ¿Para qué quiero mejores pulsaciones en reposo? es sinónimo de un sueño más reparador y de recuperación para el día siguiente. Foto: día que empecé a comer sólo carne.
 
@@ -956,7 +912,7 @@ Siempre he tenido tendencia a estar delgado o sea que lo de subir volumen muscul
 
 ## Desventajas de la dieta carnívora
 
-Llegados a este punto también nos tenemos que poner el sombrero de la objetividad. Ya sabéis que si me equivoco o cambio de opinión no tengo problema en retractarme. Como cuando [dejé de ser vegano](https://pau.ninja/razones-para-no-ser-vegano/) y pasé a la carnívora.
+Llegados a este punto también nos tenemos que poner el sombrero de la objetividad. Ya sabéis que si me equivoco o cambio de opinión no tengo problema en retractarme. Como cuando [dejé de ser vegano](./razones-para-no-ser-vegano) y pasé a la carnívora.
 
 Si decidí pasarme a la carne fue porque (obvio) consideré que las pros sobrepasaban los contras, pero quien me lea o escuche no tiene porque llegar a la misma conclusión.
 
@@ -980,7 +936,7 @@ Nunca me ha preocupado la toxicidad de una vitamina en la carnívora porque hay 
 
 Digamos que todos los micronutrientes del cuerpo hacen como mi rutina del gimnasio: **hacen tirón-empuje**. Como un balancín de esos para 2 de los niños.
 
-![balance vitaminas](https://pau.ninja/wp-content/uploads/2021/10/balance-vitaminas.jpeg)
+![balance vitaminas](./wp-content/uploads/2021/10balance-vitaminas.jpeg)
 
 También hay el [debate de la vitamina C](#Vitamina_C), que ya os he comentado estoy convencido de que tenemos más que suficiente, pero algunos seguirán escépticos de que necesitamos más. De que tal vez hay suficiente vitamina C para no tener escorbuto pero no para que el cuerpo haga otras funciones.
 
@@ -992,7 +948,7 @@ La falta de balance también puede aparecer por falta de calcio si sólo se come
 
 Si sólo comemos pechuga de pollo o bistec, mal lo vamos a pasar.
 
-Pero también os digo que es **más fácil** es tener [carencias nutricionales en una dieta vegana](https://pau.ninja/razones-para-no-ser-vegano/#Carencias_nutricionales_de_la_dieta_vegana). Dieta en los que necesitarás suplementos sí o sí para no tener deficiencias.
+Pero también os digo que es **más fácil** es tener [carencias nutricionales en una dieta vegana](./razones-para-no-ser-vegano#Carencias_nutricionales_de_la_dieta_vegana). Dieta en los que necesitarás suplementos sí o sí para no tener deficiencias.
 
 Después veis a estos gurús e influencers veganos promocionando montones de suplementos.
 
@@ -1004,7 +960,7 @@ Uno de los motivos por los que algunos que decidan probar la carnívora lo dejar
 
 Primero porque si alguien está comiendo una dieta alta en hidratos y de pronto se pasa a una carnívora, estamos hablando de que estará forzando a que su cuerpo funcione con cetonas (con grasas como fuente principal) y si llevamos décadas usando glucosa como fuente de combustible principal, pues nos estamos poniendo en un pequeño «shock». O en otras palabras: la «gripe keto».
 
-Si somos capaces de no sucumbir y [ceto-adaptarnos](https://pau.ninja/dieta-cetogenica-ciclica/#Pasar_por_la_%C2%ABceto_adaptacion%C2%BB), ya sean 2, 6, 9, 12 semanas, saldremos al otro lado más fuertes que nunca (#198).
+Si somos capaces de no sucumbir y [ceto-adaptarnos](./dieta-cetogenica-ciclica#Pasar_por_la_%C2%ABceto_adaptacion%C2%BB), ya sean 2, 6, 9, 12 semanas, saldremos al otro lado más fuertes que nunca (#198).
 
 Las malas noticias es que no sólo se hace difícil por el cambio de combustible.
 
@@ -1026,13 +982,13 @@ Pueda que sí haya un poco de estreñimiento si no tenemos nuestra carnívora de
 
 Por ejemplo el potasio y magnesio son muy importantes para la contracción muscular, incluidos los músculos de nuestro sistema digestivo.
 
-[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTk2Mg=)](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...')
+[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NTUyOQ=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 
-[Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...')
+[Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 
 6,66 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 ¿Mejor manera de incluirlos? cada uno sabrá, yo nunca pongo sal a mis comidas carnívoras pero nunca me olvido de consumir un cuarto de vaso de agua de mar.
 
@@ -1067,7 +1023,7 @@ Pero en caso de tener un presupuesto bajo de comida, haría esto: el órgano de 
 
 Lo que sí se hace duro es mantener esta dieta a nivel cultural, social.
 
-A mí lo que me gusta hacer es cada 2-4 semanas [hacer un ciclado de carbohidratos](https://pau.ninja/ciclado-de-carbohidratos/) para salir de la carnívora y de cetosis durante 36-48 horas. Lo revierto.
+A mí lo que me gusta hacer es cada 2-4 semanas [hacer un ciclado de carbohidratos](./ciclado-de-carbohidratos) para salir de la carnívora y de cetosis durante 36-48 horas. Lo revierto.
 
 Hay cierta evidencia científica para hacerlo, pero yo lo hago principalmente para **hacerla más llevadera psicológicamente**. Lo hago coincidir con comidas familiares, cenas con amigos o algo por el estilo.
 
@@ -1077,7 +1033,7 @@ Si me permito el capricho, pues hace que tenga más adherencia en mi día a día
 
 ## Mis resultados de antes y después
 
-![resultados dieta carnívora](https://pau.ninja/wp-content/uploads/2021/10/resultados-dieta-carnivora.jpeg)
+![resultados dieta carnívora](./wp-content/uploads/2021/10resultados-dieta-carnivora.jpeg)
 
 Foto: yo con 5 semanas de diferencia siguiendo la carnívora. Antes: mucha inflamación, hinchazón, poca energía… Mejor luz en la derecha pero misma colocación. En ambas estaba apretando, aunque en la izquierda no lo parezca… ([vídeo](https://www.youtube.com/watch?v=4Q-v9rtemE4))
 
@@ -1089,7 +1045,7 @@ Lo maravilloso de la dieta carnívora es que vamos con nuestros **instintos**. L
 - Una vez tenemos todo lo esencial… olvidarse de los menús.
 - **Comer cuando tengamos hambre** y hacerlo hasta la saciedad total. Para hacerlo empezar comiendo lo más nutricionalmente denso: órgano, después las partes más grasientas del animal, y si aún nos sentimos con hambre, la proteína magra al final.
 - Los hidratos los sacaría de un día para otro. De golpe. No veo ventajas en hacer una transición gradual en cuanto a sacar los carbos. Lo que si haría poco a poco es el aumento del consumo de grasa para ir afinando el sistema digestivo.
-- **Inclur ayunos:** como la mayoría de personas estarán funcionando con glucosa y esto es una dieta cetogénica, hay que esperar cierta «gripe keto» las primeras semanas, por esto creo que ayuda en la transición empezar a [incorporar ayunos intermitentes](https://pau.ninja/ayuno-intermitente-experiencias/) y cada semana estirar un poquito más las horas que ayunamos. Primera semana empezar con 14-15-16 horas, a la siguiente hacer 1 hora más diaria y ver que tal nos vamos sintiendo.
+- **Inclur ayunos:** como la mayoría de personas estarán funcionando con glucosa y esto es una dieta cetogénica, hay que esperar cierta «gripe keto» las primeras semanas, por esto creo que ayuda en la transición empezar a [incorporar ayunos intermitentes](./ayuno-intermitente-experiencias) y cada semana estirar un poquito más las horas que ayunamos. Primera semana empezar con 14-15-16 horas, a la siguiente hacer 1 hora más diaria y ver que tal nos vamos sintiendo.
 
 Sé. que algunos llegados a este punto esperan un menú o instrucciones, pero sinceramente esto es lo bueno de la carnívora: que **es liberal**.
 
@@ -1124,3 +1080,93 @@ Los estudios controlados aleatorios que se centren en la dieta carnívora aún t
 No he encontrado ningún estudios que me hiciera pensar que **no se puede** vivir comiendo sólo partes de animales y estar súper bien alimentado.
 
 > Pero como se dice en la comunidad Bitcoin… No me creas. Verifica.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/dieta-carnivora/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14951,"title":"7%20mitos%20%2B%207%20claves%20de%20la%20dieta%20carn%C3%ADvora%20%E3%80%90Estudios%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/comiendo-carne.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

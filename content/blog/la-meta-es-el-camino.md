@@ -1,13 +1,18 @@
 ---
-title: "La meta es el camino o cómo encontrar felicidad en los éxitos"
+title: "La meta es el camino"
+url: https://pau.ninja/la-meta-es-el-camino
+slug: la-meta-es-el-camino
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-siguiendo-un-camino-de-metas.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/06/persona-siguiendo-un-camino-de-metas.jpeg
 published: 2024-01-25T07:07:50+00:00
 modified: 2024-05-21T19:44:56+00:00
+scrappedAt: 2024-10-14T09:19:39.482Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/82253676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-5%2F366311520-44100-2-3c74baeb2b154.mp3
-slug: la-meta-es-el-camino
+bibliography: ["Stuifbergen AK, Becker H, Timmerman GM, Kullberg V. The use of individualized goal setting to facilitate behavior change in women with multiple sclerosis. J Neurosci Nurs. 2003 Apr;35(2):94-9, 106. doi: 10.1097/01376517-200304000-00005. PMID: 12795036.","Carson, P. P., Carson, K. D., & Heady, R. B. (1994). Cecil Alec Mace: The man who discovered goal-setting. International Journal of Public Administration, 17, 1679–1708.","Locke, E. A. (2002). Setting goals for life and happiness. In C. R. Snyder & S. J. Lopez (Eds.), Handbook of positive psychology (pp. 299–312). New York, NY: Oxford University Press.","Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.","Norcross JC, Vangarelli DJ. The resolution solution: longitudinal examination of New Year’s change attempts. J Subst Abuse. 1988-1989;1(2):127-34. doi: 10.1016/s0899-3289(88)80016-6. PMID: 2980864.","Dickson JM, Moberly NJ, Preece D, Dodd A, Huntley CD. Self-Regulatory Goal Motivational Processes in Sustained New Year Resolution Pursuit and Mental Wellbeing. Int J Environ Res Public Health. 2021 Mar 17;18(6):3084. doi: 10.3390/ijerph18063084. PMID: 33802749; PMCID: PMC8002459.","Nowack, K. (2017). Facilitating successful behavior change: Beyond goal setting to goal flourishing. Consulting Psychology Journal: Practice and Research, 69(3), 153-171.","American Psychological Association. (2017, September 27). Beyond goal setting to goal flourishing. Retrieved","Wieber, Frank, Lisa A. Sezer and Peter M. Gollwitzer. “Asking “why” helps action control by goals but not plans.” Motivation and Emotion 38 (2014): 65-78.","Kerns, C. D. (2005). The positive psychology approach to goal management. Graziadio Business Report, 8(3).","Yukl, G. A., & Latham, G. P. (1978). Interrelationships among employee participation, individual differences, goal difficulty, goal acceptance, goal instrumentality, and performance. Personnel Psychology, 31(2), 305-323.","Cole S, Balcetis E, Zhang S. Visual perception and regulatory conflict: motivation and physiology influence distance perception. J Exp Psychol Gen. 2013 Feb;142(1):18-22. doi: 10.1037/a0027882. Epub 2012 Mar 26. PMID: 22449101.","Ranganathan VK, Siemionow V, Liu JZ, Sahgal V, Yue GH. From mental power to muscle power–gaining strength by using the mind. Neuropsychologia. 2004;42(7):944-56. doi: 10.1016/j.neuropsychologia.2003.11.018. PMID: 14998709.","Becker, L. J. (1978). Joint effect of feedback and goal setting on performance: A field study of residential energy conservation. Journal of Applied Psychology, 63(4), 428–433.","Locke, E. A. (1996). Motivation through conscious goal setting. Applied and Preventive Psychology, 5(2), 117-124.","University of California – Riverside. «Ambitious goals equals satisfaction.» ScienceDaily. ScienceDaily, 18 August 2011.","Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational. Behavior and Human Performance, 3, 157-189. Locke, E. A. (1969).","Erez, M. (1986). The congruence of goal-setting strategies with socio-cultural values and its effect on performance. Journal of Management, 12(4), 585-592."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/82253676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-5%2F366311520-44100-2-3c74baeb2b154.mp3](https://anchor.fm/s/98566448/podcast/play/82253676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-5%2F366311520-44100-2-3c74baeb2b154.mp3)
 
 > Ya cumpliste metas que dijiste que te harían feliz. Entonces, ¿por qué no lo eres?
@@ -30,19 +35,6 @@ Esta es la diferencia con, simplemente establecer metas que no tienen más _derr
 
 En cambio cuando todas estas metas se alinean en una sola dirección que apuntan al propósito, ahí es cuando ese estado ebrio de felicidad constante se apodera de ti.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [¿Qué significa que la meta es el camino?](#%C2%BFQue_significa_que_la_meta_es_el_camino '¿Qué significa que la meta es el camino?')
-- [Pasos para convertir una meta en tu camino](#Pasos_para_convertir_una_meta_en_tu_camino 'Pasos para convertir una meta en tu camino')
-  - [Elige objetivos emocionalmente fuertes](#Elige_objetivos_emocionalmente_fuertes 'Elige objetivos emocionalmente fuertes')
-  - [Empieza a cumplir tus propias promesas](#Empieza_a_cumplir_tus_propias_promesas 'Empieza a cumplir tus propias promesas')
-  - [Pregúntate por qué quieres conseguirlo](#Preguntate_por_que_quieres_conseguirlo 'Pregúntate por qué quieres conseguirlo')
-  - [Alinéala con tus valores personales](#Alineala_con_tus_valores_personales 'Alinéala con tus valores personales')
-  - [Apunta alto para definir tus objetivos](#Apunta_alto_para_definir_tus_objetivos 'Apunta alto para definir tus objetivos')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## ¿Qué significa que la meta es el camino?
 
 Esto es lo que significa que «la meta es el camino».
@@ -61,7 +53,7 @@ Miramos hacia al horizonte, para apuntar a una forma de vivir en la que queremos
 
 Es por esto que cuando trabajas por alguien o en algo que _no_ va a ningún sitio, tu sensación de energía mental y física se pone en mínimos.
 
-![energía trabajo vs metas personales](https://pau.ninja/wp-content/uploads/2023/06/energia-trabajo-vs-metas-personales.png)
+![energía trabajo vs metas personales](./wp-content/uploads/2023/06energia-trabajo-vs-metas-personales.png)
 
 En comparación cuando trabajas en algo que te llena el alma, parece que sacas energía de cualquier sitio. De la propia alma.
 
@@ -81,19 +73,19 @@ El propósito de vida es como hacerte submarinista.
 
 ¿Para qué vas a hacerte submarinista sabiendo que sólo el 5% de los océanos han sido explorados por toda la humanidad? Si sabes que nunca llegarás a nada en el submarinismo.
 
-![infografía propósito](https://pau.ninja/wp-content/uploads/2023/03/infografia-proposito.png)
+![infografía propósito](./wp-content/uploads/2023/03infografia-proposito.png)
 
 Pues por la experiencia. Para ver y experimentar lo que puedas. Necesitas ver el fondo del océano, los peces, sentir como flotas, el sonido, el silencio…
 
 Indagaremos más en encontrar propósito, ninjas de la vida, pero hoy me quiero centrar en esta herramienta indispensable (a parte de los hábitos) como son las metas como camino. Como parte de esa dirección sin destino para llegar al nivel 100 de nuestros personajes de vida.
 
-> Las metas son las *misiones* de la vida para acercarte a este propósito vital.
+> Las metas son las _misiones_ de la vida para acercarte a este propósito vital.
 
 Algo que por cierto he visto que pesa mucho más en los hombres: necesitamos este propósito si o sí para ser felices. Sentirnos que alguien o algo nos _necesita_. Sentirnos útiles aunque sea para nosotros mismos.
 
 Si el propósito es el nivel 100 al que espiras en tu personaje de la vida, **las metas son las misiones secundarias** que necesitas ir completando en tu juego de la vida para ir subiendo de habilidades, de nivel e ir acercándote a este juego de la vida.
 
-Queremos *trabajar* en estas metas, para tener éxito en ellas. Para completar las misiones.
+Queremos _trabajar_ en estas metas, para tener éxito en ellas. Para completar las misiones.
 
 Pero tengas (ya) propósito o no, habrá igualmente cosas que querrás conseguir.
 
@@ -105,19 +97,19 @@ Una psicología en la que hoy indagamos y que nos hará más propensos al éxito
 
 ## Pasos para convertir una meta en tu camino
 
-Antes de definir los [pasos para llegar a una meta](https://pau.ninja/llegar-a-una-meta/) según la psicología del establecimiento de metas, tenemos que poder elegir esa meta más grande que se convierta en el camino.
+Antes de definir los [pasos para llegar a una meta](./llegar-a-una-meta) según la psicología del establecimiento de metas, tenemos que poder elegir esa meta más grande que se convierta en el camino.
 
 > ¿No os parece casualidad que las personas que etiquetamos de exitosas, no dejen de tener éxito una y otra vez?
 
 ¿Por qué esas personas no dejan de petarlo?
 
-Hace unos años unos investigadores de Texas, queriendo responder a esta pregunta descubrieron como si nuestro cerebro tiene objetivos a los que apuntar, su estructura literalmente cambia para **auto-oprimizarse para conseguir esa meta**.[1](<javascript:void(0)>)Stuifbergen AK, Becker H, Timmerman GM, Kullberg V. The use of individualized goal setting to facilitate behavior change in women with multiple sclerosis. J Neurosci Nurs. 2003 Apr;35(2):94-9, 106. doi: 10.1097/01376517-200304000-00005. PMID: 12795036.
+Hace unos años unos investigadores de Texas, queriendo responder a esta pregunta descubrieron como si nuestro cerebro tiene objetivos a los que apuntar, su estructura literalmente cambia para **auto-oprimizarse para conseguir esa meta**.[ref-1](#ref-1){.ref}
 
 Es lo que se llama neuroplasticidad.
 
 > Esto significa que una meta literalmente se puede convertir en nuestra identidad.
 
-Estamos hablando de que conviertes tu propósito, esa meta, ese *fin sin fin*, en algo que **dictará quien eres como persona**.
+Estamos hablando de que conviertes tu propósito, esa meta, ese _fin sin fin_, en algo que **dictará quien eres como persona**.
 
 Y es por esto que también descubrieron, como no todas las metas crear esta neuroplasticidad.
 
@@ -127,7 +119,7 @@ No. No todas las metas son iguales ni tienen un impacto tan grande para el cereb
 
 El tipo metas que hacen que la neuroplasticidad del cerebro sea aún más dramática, que ese cableado se programe aún con más fuerza para conseguirlas son…
 
-Las metas emocionales.[2](<javascript:void(0)>)Carson, P. P., Carson, K. D., & Heady, R. B. (1994). Cecil Alec Mace: The man who discovered goal-setting. International Journal of Public Administration, 17, 1679–1708.[3](<javascript:void(0)>)Locke, E. A. (2002). Setting goals for life and happiness. In C. R. Snyder & S. J. Lopez (Eds.), Handbook of positive psychology (pp. 299–312). New York, NY: Oxford University Press.[4](<javascript:void(0)>)Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.
+Las metas emocionales.[ref-2](#ref-2){.ref}[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}
 
 Cuanto más emocional sea una meta más cambios neuronales hay.
 
@@ -139,7 +131,7 @@ Son estas metas emocionales.
 
 Haciéndonos **decenas de veces más propensos a tomar las acciones** pertinentes para conseguirla.
 
-Normal que el 23% de aquellos que se han puesto metas de año nuevo las terminan abandonando la primera semana del año.[5](<javascript:void(0)>)Norcross JC, Vangarelli DJ. The resolution solution: longitudinal examination of New Year’s change attempts. J Subst Abuse. 1988-1989;1(2):127-34. doi: 10.1016/s0899-3289(88)80016-6. PMID: 2980864.[6](<javascript:void(0)>)Dickson JM, Moberly NJ, Preece D, Dodd A, Huntley CD. Self-Regulatory Goal Motivational Processes in Sustained New Year Resolution Pursuit and Mental Wellbeing. Int J Environ Res Public Health. 2021 Mar 17;18(6):3084. doi: 10.3390/ijerph18063084. PMID: 33802749; PMCID: PMC8002459.
+Normal que el 23% de aquellos que se han puesto metas de año nuevo las terminan abandonando la primera semana del año.[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}
 
 - La mayoría de veces no son emocionales, sino lógicos o de ritual.
 - Además de que están pensados para llegar a un punto en el que te detengas
@@ -154,7 +146,7 @@ Es cuando decimos que vamos a hacer algo pero nuestras acciones dicen lo contrar
 
 Lo que tiene un impacto para nuestra psicología y propósito mucho más grande de lo que algunos pueden pensar.
 
-Cuando dejas de cumplir lo que has dicho que ibas a hacer (aunque sean propósitos irrisorios sin demasiada importancia), **dejas de *tomarte en serio***.
+Cuando dejas de cumplir lo que has dicho que ibas a hacer (aunque sean propósitos irrisorios sin demasiada importancia), **dejas de _tomarte en serio_**.
 
 > ¿Quieres más confianza y amor propio? Haz lo que te dices que vas a hacer.
 
@@ -184,51 +176,51 @@ Una vez nos tomamos a nosotros mismos en serio, es cuando podemos considerar tod
 
 ### Pregúntate por qué quieres conseguirlo
 
-La Asociación Americana de Psicología (APA) sacó un modelo de tres puntos muy claros para definir el ratio de éxito que tendremos en una meta transcendente.[7](<javascript:void(0)>)Nowack, K. (2017). Facilitating successful behavior change: Beyond goal setting to goal flourishing. Consulting Psychology Journal: Practice and Research, 69(3), 153-171.[8](<javascript:void(0)>)American Psychological Association. (2017, September 27). Beyond goal setting to goal flourishing. Retrieved
+La Asociación Americana de Psicología (APA) sacó un modelo de tres puntos muy claros para definir el ratio de éxito que tendremos en una meta transcendente.[ref-7](#ref-7){.ref}[ref-8](#ref-8){.ref}
 
 Según estos psicólogos el objetivo concreto que tengamos en mente tendría que:
 
-- **Iluminarnos… ¿Puedo conseguirlo?:** iluminarnos porque saca a relucir si estamos capacitados, si nuestras habilidades y debilidades se ajustan al reto. Por esto a las personas que sentimos propósito, nos es más fácil [alcanzar los estado de _flow_](https://pau.ninja/estado-de-flow/) de trabajo (#486).
+- **Iluminarnos… ¿Puedo conseguirlo?:** iluminarnos porque saca a relucir si estamos capacitados, si nuestras habilidades y debilidades se ajustan al reto. Por esto a las personas que sentimos propósito, nos es más fácil [alcanzar los estado de _flow_](./estado-de-flow) de trabajo (#486).
 - **Capacitarnos… ¿Se alinea con mis valores?:** para lograr el equilibro entre lo real, lo ideal y lo fantasioso para que podamos ir revaluando constantemente.
-- **Animarnos… ¿Cómo de importante es para mí?:** porque apuntar ahí tiene que ser motivador. No digo que estés motivado *en todo momento* para tomar la acción que tienes que hacer, pero que el hecho de conseguir el objetivo te motiva. O aun más, te inspira.
+- **Animarnos… ¿Cómo de importante es para mí?:** porque apuntar ahí tiene que ser motivador. No digo que estés motivado _en todo momento_ para tomar la acción que tienes que hacer, pero que el hecho de conseguir el objetivo te motiva. O aun más, te inspira.
 
 Este triángulo creo que funciona porque responde a una pregunta que muchos evidencia de la psicología confirma que deberíamos autorespondernos y es… **preguntarnos el «por qué»** queremos conseguir eso específicamente.
 
 ### Alinéala con tus valores personales
 
-Los estudios vieron como los que eran constantemente conscientes de «por qué» querían conseguir una meta concreta, tenían **7 veces más probabilidades de llegar a estas metas** que los que se obsesionaban con el «cómo».[9](<javascript:void(0)>)Wieber, Frank, Lisa A. Sezer and Peter M. Gollwitzer. “Asking “why” helps action control by goals but not plans.” Motivation and Emotion 38 (2014): 65-78.
+Los estudios vieron como los que eran constantemente conscientes de «por qué» querían conseguir una meta concreta, tenían **7 veces más probabilidades de llegar a estas metas** que los que se obsesionaban con el «cómo».[ref-9](#ref-9){.ref}
 
 Porque recordemos que tanto los propósitos de vida como los objetivos más pequeños pueden ser tanto _descubiertos_ como _explorados_.
 
-> Por esto en un estudio de hace un par de décadas los investigadores se dieron cuentas que si responder este «por qué» estaba en línea con [los valores personales de la persona](https://pau.ninja/valores-personales/) (#510), los sujetos tenían más probabilidades de cumplir sus metas.[10](<javascript:void(0)>)Kerns, C. D. (2005). The positive psychology approach to goal management. Graziadio Business Report, 8(3).
+> Por esto en un estudio de hace un par de décadas los investigadores se dieron cuentas que si responder este «por qué» estaba en línea con [los valores personales de la persona](./valores-personales) (#510), los sujetos tenían más probabilidades de cumplir sus metas.[ref-10](#ref-10){.ref}
 
-En los 70 ya se miraba como los sujetos que en el estudio tenían bien definido **por qué** tenían que cumplir ciertas metas, tenían un ratio más alto de cumplirlo.[11](<javascript:void(0)>)Yukl, G. A., & Latham, G. P. (1978). Interrelationships among employee participation, individual differences, goal difficulty, goal acceptance, goal instrumentality, and performance. Personnel Psychology, 31(2), 305-323.
+En los 70 ya se miraba como los sujetos que en el estudio tenían bien definido **por qué** tenían que cumplir ciertas metas, tenían un ratio más alto de cumplirlo.[ref-11](#ref-11){.ref}
 
 Porque las metas, cuando son acompañadas de valores, de transcendencia, de propósitos de vida, son más propensas a ser alacanzadas.
 
 Por esto no es casualidad que nuestro ratio de éxito (cumplir metas más grandes o pequeñas) esté directamente relacionado con la introspección que tenemos sobre nosotros mismos.
 
-![la misión de la vida](https://pau.ninja/wp-content/uploads/2023/06/la-mision-de-la-vida.png)
+![la misión de la vida](./wp-content/uploads/2023/06la-mision-de-la-vida.png)
 
 Porque sin una visión, unos valores, entonces tu misión, los objetivos que tienes que ponerte, son puro humo.
 
-Por esto no es casualidad todos estos beneficios psicológicos demostrados de cuando [escribimos un diario de gratitud correctamente](https://pau.ninja/como-hacer-un-diario-de-gratitud/) (#555). Que nos hace más propensos a alcanzar nuestras metas y la vida que queremos conseguir.
+Por esto no es casualidad todos estos beneficios psicológicos demostrados de cuando [escribimos un diario de gratitud correctamente](./como-hacer-un-diario-de-gratitud) (#555). Que nos hace más propensos a alcanzar nuestras metas y la vida que queremos conseguir.
 
 Ahí salen a relucir nuestros valores, entre las conexiones neuronales que hacemos.
 
 ### Apunta alto para definir tus objetivos
 
-Por esto lo hacemos escribiendo físicamente en papel, porque se ha demostrado que [escribir a mano tiene beneficios para el cerebro](https://pau.ninja/beneficios-de-escribir-a-mano-para-el-cerebro/) (#561), y también para nuestros objetivos.
+Por esto lo hacemos escribiendo físicamente en papel, porque se ha demostrado que [escribir a mano tiene beneficios para el cerebro](./beneficios-de-escribir-a-mano-para-el-cerebro) (#561), y también para nuestros objetivos.
 
 La evidencia ya nos ha enseñado a como _escribir_ objetivos muy grandes a las que aspirar, nos hace más propensos a conseguirlos.
 
-¿Cómo puede ser esto posible? Pues porque nos hace visualizarnos a nosotros mismos consiguiendo lo que sea que queremos conseguir.[12](<javascript:void(0)>)Cole S, Balcetis E, Zhang S. Visual perception and regulatory conflict: motivation and physiology influence distance perception. J Exp Psychol Gen. 2013 Feb;142(1):18-22. doi: 10.1037/a0027882. Epub 2012 Mar 26. PMID: 22449101.[13](<javascript:void(0)>)Ranganathan VK, Siemionow V, Liu JZ, Sahgal V, Yue GH. From mental power to muscle power–gaining strength by using the mind. Neuropsychologia. 2004;42(7):944-56. doi: 10.1016/j.neuropsychologia.2003.11.018. PMID: 14998709.
+¿Cómo puede ser esto posible? Pues porque nos hace visualizarnos a nosotros mismos consiguiendo lo que sea que queremos conseguir.[ref-12](#ref-12){.ref}[ref-13](#ref-13){.ref}
 
 Esto sucede por el simple hecho de que imaginándonos a nosotros mismos con esas metas, se crea una conexión emocional más fuerte con esos objetivos. Y como bien sabéis, somos seres absolutamente emocionales.
 
 > Por esto cuanto más emocional sea una meta, más propensos a conseguirlas o acercarnos a ellas.
 
-Mirad el impacto que tiene que me dejó flipado como los sujetos que apuntaban a metas más grandes y más emocionales, su cuerpo se ponía a modo conservación de energía.[14](<javascript:void(0)>)Becker, L. J. (1978). Joint effect of feedback and goal setting on performance: A field study of residential energy conservation. Journal of Applied Psychology, 63(4), 428–433.
+Mirad el impacto que tiene que me dejó flipado como los sujetos que apuntaban a metas más grandes y más emocionales, su cuerpo se ponía a modo conservación de energía.[ref-14](#ref-14){.ref}
 
 Ahorraban un 20% más de energía que los que ponían metas asequibles para la mayoría.
 
@@ -236,17 +228,17 @@ Unos estudios que ya vienen de muy atrás. En los mismos años 90, Locke fue el
 
 Una de las cosas que vio es que (a pesar de que la gente no toma acción que sigan lo que se han dicho a ellos mismos que harían):
 
-> Los que definían metas más ambiciosas tenían un mejor rendimiento y eran más productivos durante su día en comparación que con los que no lo hicieron.[15](<javascript:void(0)>)Locke, E. A. (1996). Motivation through conscious goal setting. Applied and Preventive Psychology, 5(2), 117-124.
+> Los que definían metas más ambiciosas tenían un mejor rendimiento y eran más productivos durante su día en comparación que con los que no lo hicieron.[ref-15](#ref-15){.ref}
 
-El hecho de que fueran metas ambiciosas les hacían no sólo más productivos sino más felices.[16](<javascript:void(0)>)University of California – Riverside. «Ambitious goals equals satisfaction.» ScienceDaily. ScienceDaily, 18 August 2011.
+El hecho de que fueran metas ambiciosas les hacían no sólo más productivos sino más felices.[ref-16](#ref-16){.ref}
 
-¿Os dais cuenta entonces por qué la mía es [la única agenda de productividad del mercado](https://pau.ninja/tienda/agenda-de-productividad/) que combina ciencia tanto de Establecimiento de metas como nos enseñan los [libros de psicología positiva](https://pau.ninja/psicologia-positiva-libros/)?
+¿Os dais cuenta entonces por qué la mía es [la única agenda de productividad del mercado](./tienda/agenda-de-productividad/) que combina ciencia tanto de Establecimiento de metas como nos enseñan los [libros de psicología positiva](https://pau.ninja/psicologia-positiva-libros)?
 
 > La ambición está totalmente ligada a la felicidad porque valoramos menos las apuestas seguras que las arriesgadas.
 
 Seguramente por el potencial que podamos recibir… A pesar del riesgo.
 
-En los años 60 Locke publicó su llamada «teoría de la motivación e incentivos» dónde concluyó que:[17](<javascript:void(0)>)Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational. Behavior and Human Performance, 3, 157-189. Locke, E. A. (1969).
+En los años 60 Locke publicó su llamada «teoría de la motivación e incentivos» dónde concluyó que:[ref-17](#ref-17){.ref}
 
 - Las metas más difícil producen que tomemos más acción
 - Si además de difícil esa meta es específica aún tenemos más tendencia a tener éxito.
@@ -257,87 +249,11 @@ Los que estamos metidos en el mundo del desarrollo personal sabemos de buena pas
 
 Percibir fracasos como pequeños contratiempos (esperados) en vez de carencias.
 
-Los estudios demuestran como si entrenamos la mente para que se oriente hacia metas (grandes o pequeñas, profesionales o personales), el cerebro automáticamente se cablea para crear una imagen propia ideal que forme parte de nuestra identidad.
+Los estudios demuestran como si entrenamos la mente para que se oriente hacia metas (grandes o pequeñas, profesionales o personales), el cerebro automáticamente se cablea para crear una imagen propia ideal que forme parte de nuestra identidad.  
 De nuestro «yo» más esencial.
 
-- **Ponen nuestros valores en primera línea de batalla.** Los estudios han demostrado que cuanto más alineemos nuestros principios, valores más potenciaremos el plan de acción para llegar a la meta.[18](<javascript:void(0)>)Erez, M. (1986). The congruence of goal-setting strategies with socio-cultural values and its effect on performance. Journal of Management, 12(4), 585-592.
+- **Ponen nuestros valores en primera línea de batalla.** Los estudios han demostrado que cuanto más alineemos nuestros principios, valores más potenciaremos el plan de acción para llegar a la meta.[ref-18](#ref-18){.ref}
 - **Nos bajan de la luna hacia la realidad.** Porque trabajar hacia un objetivo significa tomar acción, lo que nos lleva a que la realidad nos abofetee en la cara si pensamos que el mundo era de una manera que en realidad no es. Ahí es cuando nos damos cuentas de las debilidades y fortalezas de nuestro personaje con el que hemos estado jugando. Ahí vemos si tenemos el potencial o si podemos trabajar para potenciarnos. Las metas nos hacen introspectivos.
 - **Nos pide que nos autoevaluemos constantemente.** Precisamente porque estamos tocando de pies en la tierra. Una autoevaluación que lleva a más autoconfianza, eficacia, autosuficiencia y motivación.
 
 ¿Cómo no nos va a ser más fácil tener éxito en lo que nos propongamos si ya nos percibimos como alguien que lo consigue?
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Stuifbergen AK, Becker H, Timmerman GM, Kullberg V. The use of individualized goal setting to facilitate behavior change in women with multiple sclerosis. J Neurosci Nurs. 2003 Apr;35(2):94-9, 106. doi: 10.1097/01376517-200304000-00005. PMID: 12795036.
-
-- 2
-
-  Carson, P. P., Carson, K. D., & Heady, R. B. (1994). Cecil Alec Mace: The man who discovered goal-setting. International Journal of Public Administration, 17, 1679–1708.
-
-- 3
-
-  Locke, E. A. (2002). Setting goals for life and happiness. In C. R. Snyder & S. J. Lopez (Eds.), Handbook of positive psychology (pp. 299–312). New York, NY: Oxford University Press.
-
-- 4
-
-  Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.
-
-- 5
-
-  Norcross JC, Vangarelli DJ. The resolution solution: longitudinal examination of New Year’s change attempts. J Subst Abuse. 1988-1989;1(2):127-34. doi: 10.1016/s0899-3289(88)80016-6. PMID: 2980864.
-
-- 6
-
-  Dickson JM, Moberly NJ, Preece D, Dodd A, Huntley CD. Self-Regulatory Goal Motivational Processes in Sustained New Year Resolution Pursuit and Mental Wellbeing. Int J Environ Res Public Health. 2021 Mar 17;18(6):3084. doi: 10.3390/ijerph18063084. PMID: 33802749; PMCID: PMC8002459.
-
-- 7
-
-  Nowack, K. (2017). Facilitating successful behavior change: Beyond goal setting to goal flourishing. Consulting Psychology Journal: Practice and Research, 69(3), 153-171.
-
-- 8
-
-  American Psychological Association. (2017, September 27). Beyond goal setting to goal flourishing. Retrieved
-
-- 9
-
-  Wieber, Frank, Lisa A. Sezer and Peter M. Gollwitzer. “Asking “why” helps action control by goals but not plans.” Motivation and Emotion 38 (2014): 65-78.
-
-- 10
-
-  Kerns, C. D. (2005). The positive psychology approach to goal management. Graziadio Business Report, 8(3).
-
-- 11
-
-  Yukl, G. A., & Latham, G. P. (1978). Interrelationships among employee participation, individual differences, goal difficulty, goal acceptance, goal instrumentality, and performance. Personnel Psychology, 31(2), 305-323.
-
-- 12
-
-  Cole S, Balcetis E, Zhang S. Visual perception and regulatory conflict: motivation and physiology influence distance perception. J Exp Psychol Gen. 2013 Feb;142(1):18-22. doi: 10.1037/a0027882. Epub 2012 Mar 26. PMID: 22449101.
-
-- 13
-
-  Ranganathan VK, Siemionow V, Liu JZ, Sahgal V, Yue GH. From mental power to muscle power–gaining strength by using the mind. Neuropsychologia. 2004;42(7):944-56. doi: 10.1016/j.neuropsychologia.2003.11.018. PMID: 14998709.
-
-- 14
-
-  Becker, L. J. (1978). Joint effect of feedback and goal setting on performance: A field study of residential energy conservation. Journal of Applied Psychology, 63(4), 428–433.
-
-- 15
-
-  Locke, E. A. (1996). Motivation through conscious goal setting. Applied and Preventive Psychology, 5(2), 117-124.
-
-- 16
-
-  University of California – Riverside. «Ambitious goals equals satisfaction.» ScienceDaily. ScienceDaily, 18 August 2011.
-
-- 17
-
-  Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational. Behavior and Human Performance, 3, 157-189. Locke, E. A. (1969).
-
-- 18
-
-  Erez, M. (1986). The congruence of goal-setting strategies with socio-cultural values and its effect on performance. Journal of Management, 12(4), 585-592.

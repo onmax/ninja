@@ -1,13 +1,20 @@
 ---
-title: "Relación sana o cómo sobreviven las parejas (+20 estudios)"
+title: "Relación sana"
+url: https://pau.ninja/relacion-de-pareja-sana
+slug: relacion-de-pareja-sana
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: relaciones-de-pareja
+    label: Relaciones de pareja
 image: pareja-en-relacion-sana.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/pareja-en-relacion-sana.jpeg
 published: 2023-08-07T06:52:27+00:00
 modified: 2023-12-22T21:11:30+00:00
+scrappedAt: 2024-10-14T09:19:57.413Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75061170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344425972-44100-2-01b2be886b0a4.mp3
-slug: relacion-de-pareja-sana
+bibliography: ["Maddox Shaw AM, Rhoades GK, Allen ES, Stanley SM, Markman HJ. Predictors of extradyadic sexual involvement in unmarried opposite-sex relationships. J Sex Res. 2013;50(6):598-610. doi: 10.1080/00224499.2012.666816. Epub 2012 Apr 23. PMID: 22524318; PMCID: PMC3407304.","Lucas, Richard E., Andrew E. Clark, Yannis Georgellis, and Ed Diener. 2003. “Reexamining Adaptation and the Set Point Model of Happiness: Reactions to Changes in Marital Status.” Journal of Personality and Social Psychology 84 (3): 527–539.‌","“A Short History of Lovesickness.” 2020. Wellcome Collection.‌","Kalas, Laura. 2017. “Being Lovesick Was a Real Disease in the Middle Ages.” The Conversation.‌","Langley, Edwina. 2018. “Hacking Heartbreak: The Ultimate Guide to Getting over ‘the One.’” BBC Three.‌","van der Wal RC, Litzellachner LF, Karremans JC, Buiter N, Breukel J, Maio GR. Values in Romantic Relationships. Pers Soc Psychol Bull. 2023 Mar 21:1461672231156975. doi: 10.1177/01461672231156975. Epub ahead of print. PMID: 36942922.","Frei, Jennifer & Shaver, Phillip. (2002). Respect in Close Relationships: Prototype Definition, Self-Report Assessment, and Initial Correlates. Personal Relationships. 9. 121-139. 10.1111/1475-6811.00008.","Hendrick, Clyde & Hendrick, Susan & Zacchilli, Tammy. (2011). Respect and Love in Romantic Relationships. Acta de investigación psicológica. 1. 316-329. 10.22201/fpsi.20074719e.2011.2.209.","“Love Lab.” 2021. The Gottman Institute.‌","What Predicts Divorce?: The Relationship between Marital Processes and Marital Outcomes: 9780805814026: Gottman, John Mordechai‌","Cosentino, Cara, «Trust in Relationships: A Study to Determine the Importance of Trust» (2012). Undergraduate Honors Theses. 24.","Arikewuyo, A. O., Eluwole, K. K., & Özad, B. (2021). Influence of Lack of Trust on Romantic Relationship Problems: The Mediating Role of Partner Cell Phone Snooping. Psychological Reports, 124(1), 348–365.","Dew, Jeffrey P, Sonya L Britt, and Sandra J Huston. 2012. “Examining the Relationship between Financial Issues and Divorce” 61 (4): 615–628.‌","“Researcher Finds Correlation between Financial Arguments, Decreased Relationship Satisfaction | Kansas State University | News and Communications Services.” 2017. K-State.edu.‌","MONEY, MARRIAGE, and COMMUNICATION the Link between Relationship Problems and Finances.","Ramsey Solutions. 2018. “Money, Marriage, and Communication.” Ramsey Solutions. Ramsey Solutions.‌","Munsch, C. L. (2015). Her Support, His Support: Money, Masculinity, and Marital Infidelity. American Sociological Review, 80(3), 469–495.","“When Women Earn More than Their Husbands.” 2013. The University of Chicago Booth School of Business.‌","Francis, Stacy. 2021. “Wives Who Make More than Their Husbands Should Take Note.” Kiplinger.com. Kiplinger.‌","Reading, Richard, and Shirley Reynolds. 2001. “Debt, Social Disadvantage and Maternal Depression” 53 (4): 441–453.‌","‘What to Do Before You Say ‘I Do,’’ PRNewswire, October 10, 2005.","Algoe, Sara B, Shelly L Gable, and Natalya C Maisel. 2010. “It’s the Little Things: Everyday Gratitude as a Booster Shot for Romantic Relationships” 17 (2): 217–233.","Gordon AM, Impett EA, Kogan A, Oveis C, Keltner D. To have and to hold: gratitude promotes relationship maintenance in intimate bonds. J Pers Soc Psychol. 2012 Aug;103(2):257-74. doi: 10.1037/a0028723. Epub 2012 May 28. PMID: 22642482."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/75061170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344425972-44100-2-01b2be886b0a4.mp3](https://anchor.fm/s/98566448/podcast/play/75061170/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-25%2F344425972-44100-2-01b2be886b0a4.mp3)
 
 Si le preguntas a cualquier pareja o soltero qué es lo más importante en una relación sana te dirá «la comunicación».
@@ -18,7 +25,7 @@ Son los divorciados los que han puesto de moda que comunicarse es lo más import
 
 No quiere decir que les falte razón. Claro. Al fin y al cabo quien sea que se case lo hace con el objetivo de seguir casado, no de divorciarse.
 
-Aún más considerando que hay estudios que pudieron predecir futuras infidelidades en parejas en una lista de varios factores, siendo una de las más relevantes la falta de comunicación en una relación[1](<javascript:void(0)>)Maddox Shaw AM, Rhoades GK, Allen ES, Stanley SM, Markman HJ. Predictors of extradyadic sexual involvement in unmarried opposite-sex relationships. J Sex Res. 2013;50(6):598-610. doi: 10.1080/00224499.2012.666816. Epub 2012 Apr 23. PMID: 22524318; PMCID: PMC3407304..
+Aún más considerando que hay estudios que pudieron predecir futuras infidelidades en parejas en una lista de varios factores, siendo una de las más relevantes la falta de comunicación en una relación[ref-1](#ref-1){.ref}.
 
 No iríamos tan lejos como para decir que es _sólo_ la falta de comunicación lo que crea un infidelidad, pero es seguramente uno de los mejores indicadores de un problema más profundo en la relación.
 
@@ -37,22 +44,6 @@ El contexto es lo que hará que entendamos mejor la sabiduría de esas personas 
 Ah.
 
 Y como no, me reservo el derecho a ir editando/actualizando este artículo durante los aprendizajes que me depara la vida en las próximas décadas en estos temas.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es una relación de pareja sana](#Que_es_una_relacion_de_pareja_sana 'Qué es una relación de pareja sana')
-- [Las características de una relación de pareja sana](#Las_caracteristicas_de_una_relacion_de_pareja_sana 'Las características de una relación de pareja sana')
-  - [Fundamentarla en amor consciente, no condicional](#Fundamentarla_en_amor_consciente_no_condicional 'Fundamentarla en amor consciente, no condicional')
-  - [Tener expectativas realistas sobre el romance](#Tener_expectativas_realistas_sobre_el_romance 'Tener expectativas realistas sobre el romance')
-  - [Alinear los valores como base de una relación sana](#Alinear_los_valores_como_base_de_una_relacion_sana 'Alinear los valores como base de una relación sana')
-  - [Practicar el respeto genuino hacia la pareja](#Practicar_el_respeto_genuino_hacia_la_pareja 'Practicar el respeto genuino hacia la pareja')
-  - [Ser francos incluso en las conversaciones incómodas](#Ser_francos_incluso_en_las_conversaciones_incomodas 'Ser francos incluso en las conversaciones incómodas')
-  - [Confiar ciegamente en tu pareja en todos los aspectos](#Confiar_ciegamente_en_tu_pareja_en_todos_los_aspectos 'Confiar ciegamente en tu pareja en todos los aspectos')
-  - [Ser pragmáticos en los quehaceres del día a día](#Ser_pragmaticos_en_los_quehaceres_del_dia_a_dia 'Ser pragmáticos en los quehaceres del día a día')
-- [La pareja es cosa de dos](#La_pareja_es_cosa_de_dos 'La pareja es cosa de dos')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Qué es una relación de pareja sana
 
@@ -83,7 +74,7 @@ Las expectativas de que todo el peso de nuestras vida recae (exclusivamente) sob
 
 No irías al super a comprar una bolsa de naranjas que están a medias…
 
-En un estudio revisando los datos de 15 años siguiendo a 24.000 individuos intentaron responder a la pregunta de si las personas casadas eran más felices que las no casadas[2](<javascript:void(0)>)Lucas, Richard E., Andrew E. Clark, Yannis Georgellis, and Ed Diener. 2003. “Reexamining Adaptation and the Set Point Model of Happiness: Reactions to Changes in Marital Status.” Journal of Personality and Social Psychology 84 (3): 527–539.‌.
+En un estudio revisando los datos de 15 años siguiendo a 24.000 individuos intentaron responder a la pregunta de si las personas casadas eran más felices que las no casadas[ref-2](#ref-2){.ref}.
 
 Lo que encontraron es que las personas que se casaron y siguieron casada estaban más satisfechos con su vida incluso antes de casarse. Es decir, que vieron como **los que se sentían felices creaban matrimonios felices**.
 
@@ -155,17 +146,17 @@ Pero puedo asegurar que el amor nunca será suficiente para que una relación du
 
 ### Tener expectativas realistas sobre el romance
 
-Los médicos medievales creían que sentirse enamorado y el mal de amores era causada por la producción excesiva de bilis negra en el cuerpo[3](<javascript:void(0)>)“A Short History of Lovesickness.” 2020. Wellcome Collection.‌.
+Los médicos medievales creían que sentirse enamorado y el mal de amores era causada por la producción excesiva de bilis negra en el cuerpo[ref-3](#ref-3){.ref}.
 
-Que sentir melancolía y las otras emociones que sentimos al estar enamorados, era debido a un desequilibrio del cuerpo[4](<javascript:void(0)>)Kalas, Laura. 2017. “Being Lovesick Was a Real Disease in the Middle Ages.” The Conversation.‌.
+Que sentir melancolía y las otras emociones que sentimos al estar enamorados, era debido a un desequilibrio del cuerpo[ref-4](#ref-4){.ref}.
 
 Se le daba a la peña laxantes y los ensangrentaban para sacar toda esa melancolía del cuerpo.
 
-![persona con mal de amores](https://pau.ninja/wp-content/uploads/2023/07/persona-con-mal-de-amores.jpg)
+![persona con mal de amores](./wp-content/uploads/2023/07persona-con-mal-de-amores.jpg)
 
 Imagen: según la [medicina humoral](https://es.wikipedia.org/wiki/Teor%C3%ADa_de_los_cuatro_humores), los trastornos emocionales como la melancolía, que estaba íntimamente relacionado con el mal de amores, se debían a un desequilibrio de los humores.
 
-Tampoco creo que estuvieran muy lejos de la realidad porque en los recientes años la psicología y neurociencia nos confirmaban que tanto el amor como el mal de amores **producen síntomas reales** físicos y mentales en el cuerpo[5](<javascript:void(0)>)Langley, Edwina. 2018. “Hacking Heartbreak: The Ultimate Guide to Getting over ‘the One.’” BBC Three.‌.
+Tampoco creo que estuvieran muy lejos de la realidad porque en los recientes años la psicología y neurociencia nos confirmaban que tanto el amor como el mal de amores **producen síntomas reales** físicos y mentales en el cuerpo[ref-5](#ref-5){.ref}.
 
 Cuando nos sentimos que se nos ha roto el corazón, nuestro cerebro responde de una manera muy similar a como lo hacen los drogadictos que están experimentando abstinencia.
 
@@ -182,8 +173,6 @@ Como el bueno de Robin Williams dijo alguna vez:
 Porque el amor desenfrenado, ese que nos hace actuar guiados por el cóctel de hormonas que la naturaleza nos ha dado, nos hacer hacer todas esas irracionalidades para que intentemos con toda nuestra energía intentar cumplir el único propósito por el que ha venido el hombre a la Tierra: **procrear**.
 
 Si cualquier hombre de la prehistoria o animal pudiera tener la capacidad y tiempo de pensar con lógica cuales son las repercusiones de tener hijos, o para estar con la misma persona para siempre, sólo unos pocos lo harían.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Podría ser que el amor ciego imparable entre dos personas sea una trampa biológica de la naturaleza para hacer que dos personas pasen por alto cualquier bandera roja, cualquier imperfección.
 
@@ -233,7 +222,7 @@ Quizás es uno de los motivos por el que los países con más ratio de primeros 
 
 Porque las parejas tardan mucho en hacerlo, y después dicen ese «ah es que ya no me siento como al principio…»
 
-- Expandir aquí: [¿el amor es para toda la vida?](https://pau.ninja/amor-para-toda-la-vida/)
+- Expandir aquí: [¿el amor es para toda la vida?](./amor-para-toda-la-vida)
 
 ### Alinear los valores como base de una relación sana
 
@@ -249,9 +238,9 @@ De hecho incluso ya hay algún que otro estudio que verificaba esta teoría de q
 
 > “El amor es nuestra respuesta a nuestros valores más elevados, y no puede ser otra cosa”- Ayn Rand, La rebelión de Atlas
 
-Igual que con nuestra [lista de valores personales](https://pau.ninja/valores-personales/) o incluso los valores de una marca o empresa, las valores de pareja tienen que estar alineadas.
+Igual que con nuestra [lista de valores personales](./valores-personales) o incluso los valores de una marca o empresa, las valores de pareja tienen que estar alineadas.
 
-No lo digo yo, sino que hay buena evidencia donde se ve precisamente que los valores de autotrascendencia, por lo que nos regimos, los personales, influyen principalmente en la calidad de la relación de una persona, pero no en la de su pareja[6](<javascript:void(0)>)van der Wal RC, Litzellachner LF, Karremans JC, Buiter N, Breukel J, Maio GR. Values in Romantic Relationships. Pers Soc Psychol Bull. 2023 Mar 21:1461672231156975. doi: 10.1177/01461672231156975. Epub ahead of print. PMID: 36942922..
+No lo digo yo, sino que hay buena evidencia donde se ve precisamente que los valores de autotrascendencia, por lo que nos regimos, los personales, influyen principalmente en la calidad de la relación de una persona, pero no en la de su pareja[ref-6](#ref-6){.ref}.
 
 O sea que los valores personales **alineados** por ambas partes son variables muy importantes para que podemos decir que una relación tiene éxito (es una relación sana).
 
@@ -281,7 +270,7 @@ Si lo es el respeto, ¿te podrías sentir feliz si sientes que estás faltando a
 
 Porque aunque sea algo subjetivo (no todo el mundo tiene que tener los mismos valores), no es lo mismo que en los cinco lenguajes del amor:
 
-![los 5 lenguajes del amor](https://pau.ninja/wp-content/uploads/2023/08/los-5-lenguajes-del-amor.jpeg)
+![los 5 lenguajes del amor](./wp-content/uploads/2023/08los-5-lenguajes-del-amor.jpeg)
 
 Mientras lo hables con tu pareja y sepas que su lenguaje de amor no es el mismo que el tuyo y que tenéis distintas maneras de expresar el afecto o amor, mientras se haga el esfuerzo de hablar el mismo idioma, aunque no sea tu nativo, no tiene porque haber problema.
 
@@ -303,7 +292,7 @@ El respeto involucra tener consideración hacia los sentimientos y necesidades d
 
 Valorarla como individuo, tratarla con dignidad y bondad.
 
-Tanto por las entrevistas a estos matrimonios como según los estudios[7](<javascript:void(0)>)Frei, Jennifer & Shaver, Phillip. (2002). Respect in Close Relationships: Prototype Definition, Self-Report Assessment, and Initial Correlates. Personal Relationships. 9. 121-139. 10.1111/1475-6811.00008. [8](<javascript:void(0)>)Hendrick, Clyde & Hendrick, Susan & Zacchilli, Tammy. (2011). Respect and Love in Romantic Relationships. Acta de investigación psicológica. 1. 316-329. 10.22201/fpsi.20074719e.2011.2.209. el respeto seguramente es el valor más fundamental de todos en una relación de pareja, de negocios, familiar…
+Tanto por las entrevistas a estos matrimonios como según los estudios[ref-7](#ref-7){.ref} [ref-8](#ref-8){.ref} el respeto seguramente es el valor más fundamental de todos en una relación de pareja, de negocios, familiar…
 
 Porque si lo pensamos fríamente, es de este valor que sale todo lo que la mayoría dice ser importante para una relación sana:
 
@@ -339,7 +328,7 @@ Si nos imaginamos a una pareja con falta de comunicación nos imaginamos a algui
 
 El problema es que se comunica mal, o más bien dicho, se comunica… sin respeto. El valor más esencial.
 
-El psicólogo Dr. John Gottman identificó[9](<javascript:void(0)>)“Love Lab.” 2021. The Gottman Institute.‌ las cuatro maneras más problemáticas de comunicar con nuestras parejas en su libro de cómo predecir el divorcio[10](<javascript:void(0)>)What Predicts Divorce?: The Relationship between Marital Processes and Marital Outcomes: 9780805814026: Gottman, John Mordechai‌, y como podrás ver, por desgracia son bastante comunes.
+El psicólogo Dr. John Gottman identificó[ref-9](#ref-9){.ref} las cuatro maneras más problemáticas de comunicar con nuestras parejas en su libro de cómo predecir el divorcio[ref-10](#ref-10){.ref}, y como podrás ver, por desgracia son bastante comunes.
 
 - **Desprecio:** expresar faltas de respeto que no tiene porque ser verbal tipo insultos, también incluye poner los ojos en blanco, ridiculizar, etc.
 - **Crítica:** con ataques al juicio de nuestra pareja.
@@ -352,27 +341,27 @@ Os dais cuenta, ¿no?
 
 La falta de respeto. La falta del valor principal.
 
-Desde el respeto, sale la *buena* comunicación. Una comunicación franca, honesta en una relación seria largoplacista ayuda a entenderse mutuamente pero lo más relevante es que ayuda a **solucionar problemas cuando aún se pueden solucionar**.
+Desde el respeto, sale la _buena_ comunicación. Una comunicación franca, honesta en una relación seria largoplacista ayuda a entenderse mutuamente pero lo más relevante es que ayuda a **solucionar problemas cuando aún se pueden solucionar**.
 
 Antes de que se vayan de las manos.
 
 Porque cuando nos guardamos esos pequeños rencores en una cajita, ese rencor está vivo. Se va acumulando y cada vez necesitas una cajita más grande, hasta que llega el resentimiento. La llave de la cajita que sirve para abrirla y echar toda la _mi3rda_ al otro que llevabas guardada suficiente tiempo.
 
-Desarrollar [el arte de escuchar activamente](https://pau.ninja/escucha-activa/).
+Desarrollar [el arte de escuchar activamente](./escucha-activa).
 
 Por esto es tan difícil salvar una relación a distancia. Al menos las que son duraderas. Porque el 90% de la comunicación es no verbal lo que a efectos prácticos significa que los mensajes de texto están transmitiendo sólo el 10% de lo que quieres decir (o cómo lo quieres decir).
 
 O dicho con otras palabras. Los mensajes están matando al 90% de la comunicación. Un silencio compartido a veces puede ser más comunicativo que un mensaje de 15 párrafos, por esto es importante tener presentes algunos básicos:
 
 - Cuando hay una discusión que se calienta, evitar interrumpir.
-- Cuando se recibe *feedback*, evitar las excusas o el contraataque este del «y tu más» que se ve tanto. Dándole a la pareja el beneficio de la duda intentando ser autocríticos.
+- Cuando se recibe _feedback_, evitar las excusas o el contraataque este del «y tu más» que se ve tanto. Dándole a la pareja el beneficio de la duda intentando ser autocríticos.
 - Cuando se comunica un tema complicadillo, de las maneras y maneras que hay de decir las cosas, elegir la más respetuosa y educada pero sin rodeos.
 - Importante prestar atención a las señales no verbales que se puedan estar comunicando. ¿Su cuerpo se correlaciona con lo que se está diciendo?
 - Mantener el contacto visual y hablar desde el corazón y la comprensión.
 
 ### Confiar ciegamente en tu pareja en todos los aspectos
 
-Hay algún _paper_ interesante por ahí sobre la confianza en parejas románticas[11](<javascript:void(0)>)Cosentino, Cara, «Trust in Relationships: A Study to Determine the Importance of Trust» (2012). Undergraduate Honors Theses. 24., pero más que los *papers* sobre confianza, los más relevantes para mí han sido los estudios sobre los que tratan «falta de confianza» que se traducía en inestabilidad emocional, conflicto o directamente la intención de romper la relación[12](<javascript:void(0)>)Arikewuyo, A. O., Eluwole, K. K., & Özad, B. (2021). Influence of Lack of Trust on Romantic Relationship Problems: The Mediating Role of Partner Cell Phone Snooping. Psychological Reports, 124(1), 348–365..
+Hay algún _paper_ interesante por ahí sobre la confianza en parejas románticas[ref-11](#ref-11){.ref}, pero más que los _papers_ sobre confianza, los más relevantes para mí han sido los estudios sobre los que tratan «falta de confianza» que se traducía en inestabilidad emocional, conflicto o directamente la intención de romper la relación[ref-12](#ref-12){.ref}.
 
 Sé que suena obvio, pero también se hace una mala interpretación de lo que significa «confianza».
 
@@ -420,21 +409,21 @@ Cuanto más rápido se acepta esto más feliz es la gente, porque todo el mundo 
 
 Por esto entra el rol de la comunicación de nuevo.
 
-El pragmatismo es seguramente la parte menos *S3XY*, menos molona de una relación, pero os argumentaría que es igual de importante que todas las filosofadas y sentimientos esotéricos visto hasta ahora.
+El pragmatismo es seguramente la parte menos _S3XY_, menos molona de una relación, pero os argumentaría que es igual de importante que todas las filosofadas y sentimientos esotéricos visto hasta ahora.
 
 Si no estáis de acuerdo es tan fácil como mirar las estadísticas de lo que lleva a más discusiones de pareja, la evidencia es aplastante:
 
-El dinero es el tema que crea más conflicto entre parejas[13](<javascript:void(0)>)Dew, Jeffrey P, Sonya L Britt, and Sandra J Huston. 2012. “Examining the Relationship between Financial Issues and Divorce” 61 (4): 615–628.‌.
+El dinero es el tema que crea más conflicto entre parejas[ref-13](#ref-13){.ref}.
 
-De hecho se termina convirtiendo en la segunda razón principal de divorcio… después de la infidelidad[14](<javascript:void(0)>)“Researcher Finds Correlation between Financial Arguments, Decreased Relationship Satisfaction | Kansas State University | News and Communications Services.” 2017. K-State.edu.‌[15](<javascript:void(0)>)MONEY, MARRIAGE, and COMMUNICATION the Link between Relationship Problems and Finances.[16](<javascript:void(0)>)Ramsey Solutions. 2018. “Money, Marriage, and Communication.” Ramsey Solutions. Ramsey Solutions.‌.
+De hecho se termina convirtiendo en la segunda razón principal de divorcio… después de la infidelidad[ref-14](#ref-14){.ref}[ref-15](#ref-15){.ref}[ref-16](#ref-16){.ref}.
 
-Todos estos estudios no hacen referencia a cuanto dinero tiene uno u otro, pero es verdad que se ha visto como las relaciones en que las mujeres ganan más dinero que el hombre, hay más probabilidades de que el marido sea infiel y/o el matrimonio es más propenso a terminar en divorcio[17](<javascript:void(0)>)Munsch, C. L. (2015). Her Support, His Support: Money, Masculinity, and Marital Infidelity. American Sociological Review, 80(3), 469–495.[18](<javascript:void(0)>)“When Women Earn More than Their Husbands.” 2013. The University of Chicago Booth School of Business.‌[19](<javascript:void(0)>)Francis, Stacy. 2021. “Wives Who Make More than Their Husbands Should Take Note.” Kiplinger.com. Kiplinger.‌.
+Todos estos estudios no hacen referencia a cuanto dinero tiene uno u otro, pero es verdad que se ha visto como las relaciones en que las mujeres ganan más dinero que el hombre, hay más probabilidades de que el marido sea infiel y/o el matrimonio es más propenso a terminar en divorcio[ref-17](#ref-17){.ref}[ref-18](#ref-18){.ref}[ref-19](#ref-19){.ref}.
 
-De todas formas el factor del dinero es el tema más difícil[20](<javascript:void(0)>)Reading, Richard, and Shirley Reynolds. 2001. “Debt, Social Disadvantage and Maternal Depression” 53 (4): 441–453.‌ siendo la raíz de muchas disputas cuando la pareja no está en la misma sintonía, como digo, no de quien gana más sino porque:
+De todas formas el factor del dinero es el tema más difícil[ref-20](#ref-20){.ref} siendo la raíz de muchas disputas cuando la pareja no está en la misma sintonía, como digo, no de quien gana más sino porque:
 
 > Lo que crea el conflicto son los estilos de ahorro y gasto individuales.
 
-Por esto de más de 1.000 parejas casadas preguntadas, más del 32% decían que el dinero era el tema del que más habían discutido antes de casarse[21](<javascript:void(0)>)‘What to Do Before You Say ‘I Do,’’ PRNewswire, October 10, 2005..
+Por esto de más de 1.000 parejas casadas preguntadas, más del 32% decían que el dinero era el tema del que más habían discutido antes de casarse[ref-21](#ref-21){.ref}.
 
 Sigo convencido de que es un mal indicador si tienes que si tienes que crear normas y reglas con la pareja porque los valores no se alinean… Tendría mucho sentido crear no normas, sino **sistemas** financieros del hogar que minimizaran al máximo estas fricciones que el dinero puede tener en una pareja.
 
@@ -448,7 +437,7 @@ Igual que con los valores, en los que podemos elegir de entre una lista de cient
 
 Poderlos identificar hace mucho más fácil ser agradecidos por estar con alguien que demuestra respeto, o es pragmática, o se comunica con facilidad.
 
-De hecho [el agradecimiento, la gratitud genuina](https://pau.ninja/como-hacer-un-diario-de-gratitud/) de valorar todos estos puntos es lo que también ha demostrado ser un indicador de felicidad en la pareja[22](<javascript:void(0)>)Algoe, Sara B, Shelly L Gable, and Natalya C Maisel. 2010. “It’s the Little Things: Everyday Gratitude as a Booster Shot for Romantic Relationships” 17 (2): 217–233.[23](<javascript:void(0)>)Gordon AM, Impett EA, Kogan A, Oveis C, Keltner D. To have and to hold: gratitude promotes relationship maintenance in intimate bonds. J Pers Soc Psychol. 2012 Aug;103(2):257-74. doi: 10.1037/a0028723. Epub 2012 May 28. PMID: 22642482..
+De hecho [el agradecimiento, la gratitud genuina](./como-hacer-un-diario-de-gratitud) de valorar todos estos puntos es lo que también ha demostrado ser un indicador de felicidad en la pareja[ref-22](#ref-22){.ref}[ref-23](#ref-23){.ref}.
 
 Sin este tipo de valores o prácticas es virtualmente imposible poder abrazar los cambios que van a venir… porque nadie se queda en esos primeros meses de luna de miel para siempre.
 
@@ -499,99 +488,3 @@ Perdemos trabajos, la gente muere, las parejas se reubican a otro sitio, cambian
 Para poder nadar con gracia a todo este mar de retos, la relación sana es la tabla de surf que nos permita surfear todas estas olas.
 
 Hay que ser un surfero del amor.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Maddox Shaw AM, Rhoades GK, Allen ES, Stanley SM, Markman HJ. Predictors of extradyadic sexual involvement in unmarried opposite-sex relationships. J Sex Res. 2013;50(6):598-610. doi: 10.1080/00224499.2012.666816. Epub 2012 Apr 23. PMID: 22524318; PMCID: PMC3407304.
-
-- 2
-
-  Lucas, Richard E., Andrew E. Clark, Yannis Georgellis, and Ed Diener. 2003. “Reexamining Adaptation and the Set Point Model of Happiness: Reactions to Changes in Marital Status.” Journal of Personality and Social Psychology 84 (3): 527–539.‌
-
-- 3
-
-  “A Short History of Lovesickness.” 2020. Wellcome Collection.‌
-
-- 4
-
-  Kalas, Laura. 2017. “Being Lovesick Was a Real Disease in the Middle Ages.” The Conversation.‌
-
-- 5
-
-  Langley, Edwina. 2018. “Hacking Heartbreak: The Ultimate Guide to Getting over ‘the One.’” BBC Three.‌
-
-- 6
-
-  van der Wal RC, Litzellachner LF, Karremans JC, Buiter N, Breukel J, Maio GR. Values in Romantic Relationships. Pers Soc Psychol Bull. 2023 Mar 21:1461672231156975. doi: 10.1177/01461672231156975. Epub ahead of print. PMID: 36942922.
-
-- 7
-
-  Frei, Jennifer & Shaver, Phillip. (2002). Respect in Close Relationships: Prototype Definition, Self-Report Assessment, and Initial Correlates. Personal Relationships. 9. 121-139. 10.1111/1475-6811.00008.
-
-- 8
-
-  Hendrick, Clyde & Hendrick, Susan & Zacchilli, Tammy. (2011). Respect and Love in Romantic Relationships. Acta de investigación psicológica. 1. 316-329. 10.22201/fpsi.20074719e.2011.2.209.
-
-- 9
-
-  “Love Lab.” 2021. The Gottman Institute.‌
-
-- 10
-
-  What Predicts Divorce?: The Relationship between Marital Processes and Marital Outcomes: 9780805814026: Gottman, John Mordechai‌
-
-- 11
-
-  Cosentino, Cara, «Trust in Relationships: A Study to Determine the Importance of Trust» (2012). Undergraduate Honors Theses. 24.
-
-- 12
-
-  Arikewuyo, A. O., Eluwole, K. K., & Özad, B. (2021). Influence of Lack of Trust on Romantic Relationship Problems: The Mediating Role of Partner Cell Phone Snooping. Psychological Reports, 124(1), 348–365.
-
-- 13
-
-  Dew, Jeffrey P, Sonya L Britt, and Sandra J Huston. 2012. “Examining the Relationship between Financial Issues and Divorce” 61 (4): 615–628.‌
-
-- 14
-
-  “Researcher Finds Correlation between Financial Arguments, Decreased Relationship Satisfaction | Kansas State University | News and Communications Services.” 2017. K-State.edu.‌
-
-- 15
-
-  MONEY, MARRIAGE, and COMMUNICATION the Link between Relationship Problems and Finances.
-
-- 16
-
-  Ramsey Solutions. 2018. “Money, Marriage, and Communication.” Ramsey Solutions. Ramsey Solutions.‌
-
-- 17
-
-  Munsch, C. L. (2015). Her Support, His Support: Money, Masculinity, and Marital Infidelity. American Sociological Review, 80(3), 469–495.
-
-- 18
-
-  “When Women Earn More than Their Husbands.” 2013. The University of Chicago Booth School of Business.‌
-
-- 19
-
-  Francis, Stacy. 2021. “Wives Who Make More than Their Husbands Should Take Note.” Kiplinger.com. Kiplinger.‌
-
-- 20
-
-  Reading, Richard, and Shirley Reynolds. 2001. “Debt, Social Disadvantage and Maternal Depression” 53 (4): 441–453.‌
-
-- 21
-
-  ‘What to Do Before You Say ‘I Do,’’ PRNewswire, October 10, 2005.
-
-- 22
-
-  Algoe, Sara B, Shelly L Gable, and Natalya C Maisel. 2010. “It’s the Little Things: Everyday Gratitude as a Booster Shot for Romantic Relationships” 17 (2): 217–233.
-
-- 23
-
-  Gordon AM, Impett EA, Kogan A, Oveis C, Keltner D. To have and to hold: gratitude promotes relationship maintenance in intimate bonds. J Pers Soc Psychol. 2012 Aug;103(2):257-74. doi: 10.1037/a0028723. Epub 2012 May 28. PMID: 22642482.

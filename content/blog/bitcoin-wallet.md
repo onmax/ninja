@@ -1,47 +1,29 @@
 ---
-title: "Adiós exchange, hola monedero Mejores carteras, billeteras, wallet para guardar Bitcoin de forma segura"
+title: "Adiós exchange, hola monedero"
+url: https://pau.ninja/bitcoin-wallet
+slug: bitcoin-wallet
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: monedero-bitcoin.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/01/monedero-bitcoin.jpg
 published: 2021-01-23T08:36:36+00:00
 modified: 2024-02-11T06:34:30+00:00
+scrappedAt: 2024-10-14T09:21:25.759Z
 audioLink: https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3
-slug: bitcoin-wallet
+bibliography: []
 ---
-
-[https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3](https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3)
+[https://www.ivoox.com/adios-exchange-hola-monedero\_md\_68748509\_wp\_1.mp3](https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3)
 
 Calvo, narizota, pálido, espárrago… Hay mil maneras de llamarme, pero no soy el único que tiene motes.
 
 El lugar donde «almacenamos» nuestros bitcoin le pasa lo mismo. Como si no fuera suficiente con el componente tecnológico que tiene BTC que encima tenemos que aprendernos tecnicismos… pero tranquilos que es un espejismo.
 
-Monedero, cartera, _wallet_, billetera… Hay mil maneras de llamar a la misma cosa. No os confundáis. Lo que sí es verdad es que este monedero no es sólo uno, pero hay de [varios tipos](https://pau.ninja/bitcoin-wallet/#Tipos_de_monederos_bitcoin).
+Monedero, cartera, _wallet_, billetera… Hay mil maneras de llamar a la misma cosa. No os confundáis. Lo que sí es verdad es que este monedero no es sólo uno, pero hay de [varios tipos](./bitcoin-wallet#Tipos_de_monederos_bitcoin).
 
-A parte de ver [cuáles son los mejores](https://pau.ninja/bitcoin-wallet/#Mejores_monederos_bitcoin), hoy veremos porque es imposible tener bitcoin sin un monedero… Al menos hasta que se inventen los «bolsillos bitcoin» para tener ahi los _satoshi_ para comprar el pan.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es un monedero bitcoin](#Que_es_un_monedero_bitcoin 'Qué es un monedero bitcoin')
-  - [Clave pública y clave privada de bitcoin](#Clave_publica_y_clave_privada_de_bitcoin 'Clave pública y clave privada de bitcoin')
-- [Tipos de monederos bitcoin](#Tipos_de_monederos_bitcoin 'Tipos de monederos bitcoin')
-  - [Monederos fríos para bitcoin](#Monederos_frios_para_bitcoin 'Monederos fríos para bitcoin')
-  - [Casas de cambio bitcoin](#Casas_de_cambio_bitcoin 'Casas de cambio bitcoin')
-  - [App monedero](#App_monedero 'App monedero')
-  - [Monederos virtuales bitcoin](#Monederos_virtuales_bitcoin 'Monederos virtuales bitcoin')
-  - [Monederos de bitcoin en papel](#Monederos_de_bitcoin_en_papel 'Monederos de bitcoin en papel')
-- [Consejos para saber qué monedero bitcoin elegir](#Consejos_para_saber_que_monedero_bitcoin_elegir 'Consejos para saber qué monedero bitcoin elegir')
-  - [Un monedero físico es mejor que online](#Un_monedero_fisico_es_mejor_que_online 'Un monedero físico es mejor que online')
-  - [De código abierto](#De_codigo_abierto 'De código abierto')
-  - [Que no sea multifirma](#Que_no_sea_multifirma 'Que no sea multifirma')
-- [Mejores monederos bitcoin](#Mejores_monederos_bitcoin 'Mejores monederos bitcoin')
-  - [Kraken: mejor exchange bitcoin](#Kraken_mejor_exchange_bitcoin 'Kraken: mejor exchange bitcoin')
-  - [Bitbox02: mejor monedero bitcoin offline](#Bitbox02_mejor_monedero_bitcoin_offline 'Bitbox02: mejor monedero bitcoin offline')
-  - [Samourai: mejor monedero bitcoin para Android](#Samourai_mejor_monedero_bitcoin_para_Android 'Samourai: mejor monedero bitcoin para Android')
-  - [Mycelium: mejor bitcoin wallet para iPhone](#Mycelium_mejor_bitcoin_wallet_para_iPhone 'Mycelium: mejor bitcoin wallet para iPhone')
-  - [Electrum: mejor monedero virtual bitcoin](#Electrum_mejor_monedero_virtual_bitcoin 'Electrum: mejor monedero virtual bitcoin')
-  - [WalletGenerator: mejor monedero bitcoin en papel](#WalletGenerator_mejor_monedero_bitcoin_en_papel 'WalletGenerator: mejor monedero bitcoin en papel')
-- [Cuál es el mejor wallet bitcoin](#Cual_es_el_mejor_wallet_bitcoin 'Cuál es el mejor wallet bitcoin')
+A parte de ver [cuáles son los mejores](./bitcoin-wallet#Mejores_monederos_bitcoin), hoy veremos porque es imposible tener bitcoin sin un monedero… Al menos hasta que se inventen los «bolsillos bitcoin» para tener ahi los _satoshi_ para comprar el pan.
 
 ## Qué es un monedero bitcoin
 
@@ -74,41 +56,41 @@ Los diferentes tipos de wallet bitcoin los elegiremos no sólo por lo guapos o r
 
 **Características**
 
-Hardware (cold wallet)
-[Monedero fríos
-![cold wallet](https://pau.ninja/wp-content/uploads/2021/01/cold-wallet.png)](https://pau.ninja/bitcoin-wallet/#Monederos_frios_para_bitcoin)
+Hardware (cold wallet)  
+[Monedero fríos  
+![cold wallet](./wp-content/uploads/2021/01/cold-wallet.png)](https://pau.ninja/bitcoin-wallet#Monederos_frios_para_bitcoin)
 
 - **🟢 Seguridad:** muy seguro
 - **🟠 Facilidad de uso:** menos fácil de usar
 - **🟢 Responsabilidad:** 100% nuestra
 
-Exchanges (hot wallet)
-[Casas de cambio
-![exchanges](https://pau.ninja/wp-content/uploads/2021/01/exchanges.png)](https://pau.ninja/bitcoin-wallet/#Casas_de_cambio_bitcoin)
+Exchanges (hot wallet)  
+[Casas de cambio  
+![exchanges](./wp-content/uploads/2021/01/exchanges.png)](https://pau.ninja/bitcoin-wallet#Casas_de_cambio_bitcoin)
 
 - **🔴 Seguridad:** el más fácil de ser hackeado
 - **🟢 Facilidad de uso:** muy fácil de usar
 - **🟠 Responsabilidad:** parte nuestra y parte de la plataforma
 
-Software (hot wallet)
-[Apps de monedero
-![](https://pau.ninja/wp-content/uploads/2021/01/hot-wallet.png)](https://pau.ninja/bitcoin-wallet/#App_monedero)
+Software (hot wallet)  
+[Apps de monedero  
+![](./wp-content/uploads/2021/01/hot-wallet.png)](https://pau.ninja/bitcoin-wallet#App_monedero)
 
 - **🟠 Seguridad:** riesgoso
 - **🟢 Facilidad de uso:** muy intuitivo
 - **🟠 Responsabilidad:** nuestra responsabilidad pero susceptible a ataques
 
-Software (hot wallet)
-[Monederos online
-![software wallet](https://pau.ninja/wp-content/uploads/2021/01/software-wallet.png)](https://pau.ninja/bitcoin-wallet/#Monederos_virtuales_bitcoin)
+Software (hot wallet)  
+[Monederos online  
+![software wallet](./wp-content/uploads/2021/01/software-wallet.png)](https://pau.ninja/bitcoin-wallet#Monederos_virtuales_bitcoin)
 
 - **🟠 Seguridad:** riesgoso
 - **🟢 Facilidad de uso:** muy intuitivo
 - **🟠 Responsabilidad:** nuestra responsabilidad pero susceptible a ataques
 
-Cold wallet
-[Monedero en papel
-![monedero bitcoin papel](https://pau.ninja/wp-content/uploads/2021/01/monedero-bitcoin-papel.png)](https://pau.ninja/bitcoin-wallet/#Monederos_de_bitcoin_en_papel)
+Cold wallet  
+[Monedero en papel  
+![monedero bitcoin papel](./wp-content/uploads/2021/01/monedero-bitcoin-papel.png)](https://pau.ninja/bitcoin-wallet#Monederos_de_bitcoin_en_papel)
 
 - **🟠 Seguridad:** seguro del mundo online pero no del offline
 - **🔴 Facilidad de uso:** el más engorroso
@@ -120,7 +102,7 @@ Así es.
 
 Cómo más seguridad queramos para nuestros bitcoin, más intuición tendremos que sacrificar a la hora de querer utilizar nuestro monedero.
 
-![seguridad facilidad wallets](https://pau.ninja/wp-content/uploads/2021/01/seguridad-facilidad-wallets.png)
+![seguridad facilidad wallets](./wp-content/uploads/2021/01seguridad-facilidad-wallets.png)
 
 Las buenas noticias es que la facilidad de uso de las carteras frías, las _hardware_ y _cold wallets_, no es que sean **tan** difíciles de aprender a usar.
 
@@ -132,11 +114,11 @@ Pero no hay que sufrir, que como todo: aprendido una vez, aprendido para siempre
 
 Lo que seguro que queremos para siempre son nuestros bitcoin, así que vamos a ver más al detalle estos tipos de monedero que mencionábamos hace un segundo.
 
-### ![cold wallet](https://pau.ninja/wp-content/uploads/2021/01/cold-wallet.png)Monederos fríos para bitcoin
+### ![cold wallet](./wp-content/uploads/2021/01cold-wallet.png)Monederos fríos para bitcoin
 
 **Veredicto:** una _wallet_ física es la forma **más segura** de proteger lo que tenemos en bitcoin.. Es la que uso yo personalmente y aunque hay ligeramente menos facilidad de uso que otras opciones, se aprende rápido a utilizar.
 
-[Ver mejor modelo](https://pau.ninja/bitcoin-wallet/#Bitbox02_mejor_monedero_bitcoin_offline)
+[Ver mejor modelo](./bitcoin-wallet#Bitbox02_mejor_monedero_bitcoin_offline)
 
 Tiene un _look_ muy similar a un lápiz de memoria, un _pen drive_ y estos dispositivos están encriptados con códigos de seguridad especiales para proteger nuestros BTC.
 
@@ -144,7 +126,7 @@ Tiene un _look_ muy similar a un lápiz de memoria, un _pen drive_ y estos dispo
 
 Pues porque los monederos fríos **no** están conectados a internet y nuestros bitcoin **tampoco** están conectadas en el propio dispositivo, sino que están totalmente a salvo en la _blockchain_.
 
-![tipos de monederos fríos](https://pau.ninja/wp-content/uploads/2021/01/tipos-de-monederos-frios.jpg)
+![tipos de monederos fríos](./wp-content/uploads/2021/01tipos-de-monederos-frios.jpg)
 
 Estamos a salvo de los ataques de internet. Aún así claro, nos tenemos que conectar de alguna manera, que en este caso sería a través de un ordenador.
 
@@ -152,9 +134,9 @@ Estamos a salvo de los ataques de internet. Aún así claro, nos tenemos que con
 
 Pues la gracia de los monederos fríos es que los podemos **usar vía un dispositivo con el que no confiamos**.
 
-Vamos que el software o el ordenador **nunca** podrá acceder a nuestra clave privada. El monedero *hardware* lo que hace es ser una especie de **caja negra** (por esto la mayoría tienen este color, supongo) que valida lo que hagamos con ella.
+Vamos que el software o el ordenador **nunca** podrá acceder a nuestra clave privada. El monedero _hardware_ lo que hace es ser una especie de **caja negra** (por esto la mayoría tienen este color, supongo) que valida lo que hagamos con ella.
 
-¿Cómo lo hace? pues nos guarda nuestra clave privada en un **chip dedicado**, por esto también se le llama *hardware wallet*.
+¿Cómo lo hace? pues nos guarda nuestra clave privada en un **chip dedicado**, por esto también se le llama _hardware wallet_.
 
 Este trocito de _hardware_ nos ayuda al extra de seguridad haciendo que las claves privadas **nunca** se manden tal cual a través del internet del ordenador con el que hemos conectado el monedero.
 
@@ -172,7 +154,7 @@ Mientras que su corazón no funcionaba muy bien, los monederos fríos sí que lo
 
 Muy bien Pau pero, ¿y si pierdo el monedero, mis bitcoin se van a tomar viento?
 
-No porque todo lo que hay dentro está a salvo con una «frase semilla» a la que podemos llamar *seed phrase* para sonar guays. Más que nada es un conjunto de 12 a 24 palabras para **recuperar** lo que hay dentro del monedero **moviéndolo a otro monedero frío**.
+No porque todo lo que hay dentro está a salvo con una «frase semilla» a la que podemos llamar _seed phrase_ para sonar guays. Más que nada es un conjunto de 12 a 24 palabras para **recuperar** lo que hay dentro del monedero **moviéndolo a otro monedero frío**.
 
 Ventajas
 
@@ -182,69 +164,69 @@ Ventajas
 
 Inconvenientes
 
-- **Curva de aprendizaje:** como digo a nivel de monederos para bitcoin, el único inconveniente que le vería es que para los que son un poco *boomers* pues es otro dispositivo nuevo con el que nos tenemos que familiarizar. Pero de nuevo, se aprende super rápido y [mi favorito](https://pau.ninja/bitcoin-wallet/#Bitbox02_mejor_monedero_bitcoin_offline) viene con unas instrucciones muy bien conseguidas.
-- **Cuidado con las marcas:** tenemos que asegurarnos que lo compramos de una [empresa reputada](https://pau.ninja/bitcoin-wallet/#Bitbox02_mejor_monedero_bitcoin_offline) que hagan de la seguridad su principal objetivo.
+- **Curva de aprendizaje:** como digo a nivel de monederos para bitcoin, el único inconveniente que le vería es que para los que son un poco _boomers_ pues es otro dispositivo nuevo con el que nos tenemos que familiarizar. Pero de nuevo, se aprende super rápido y [mi favorito](./bitcoin-wallet#Bitbox02_mejor_monedero_bitcoin_offline) viene con unas instrucciones muy bien conseguidas.
+- **Cuidado con las marcas:** tenemos que asegurarnos que lo compramos de una [empresa reputada](./bitcoin-wallet#Bitbox02_mejor_monedero_bitcoin_offline) que hagan de la seguridad su principal objetivo.
 
-### ![exchanges](https://pau.ninja/wp-content/uploads/2021/01/exchanges.png)Casas de cambio bitcoin
+### ![exchanges](./wp-content/uploads/2021/01exchanges.png)Casas de cambio bitcoin
 
-**Veredicto:** la opción menos segura pero la más fácil. Aunque se utilice el *exchange* para comprar es muy recomendable que desde ahí, nos mandemos los bitcoin a un [monedero con más seguridad](https://pau.ninja/bitcoin-wallet/#Cual_es_el_mejor_wallet_bitcoin).
+**Veredicto:** la opción menos segura pero la más fácil. Aunque se utilice el _exchange_ para comprar es muy recomendable que desde ahí, nos mandemos los bitcoin a un [monedero con más seguridad](./bitcoin-wallet#Cual_es_el_mejor_wallet_bitcoin).
 
-[Ver mejor plataforma](https://pau.ninja/bitcoin-wallet/#Kraken_mejor_exchange_bitcoin)
+[Ver mejor plataforma](./bitcoin-wallet#Kraken_mejor_exchange_bitcoin)
 
-Las casas de cambio o *exchange* son el tipo de monedero para bitcoin más común hoy en día. Es básicamente una web, una **plataforma**.
+Las casas de cambio o _exchange_ son el tipo de monedero para bitcoin más común hoy en día. Es básicamente una web, una **plataforma**.
 
-Es la opción más fácil para los que quieren [aprender a invertir en bitcoin de forma segura](https://pau.ninja/invertir-en-bitcoins-forma-segura/).
+Es la opción más fácil para los que quieren [aprender a invertir en bitcoin de forma segura](./invertir-en-bitcoins-forma-segura).
 
 Es tan sencillo como registrar una cuenta a una plataforma de internet, y bualá. No sólo podemos almacenar nuestros bitcoin, pero hasta podemos comprar y vender allí mismo.
 
 De hecho es el sitio más común donde se compran bitcoin.
 
-![lista exchanges bitcoin](https://pau.ninja/wp-content/uploads/2021/01/lista-exchanges-bitcoin.jpg)
+![lista exchanges bitcoin](./wp-content/uploads/2021/01lista-exchanges-bitcoin.jpg)
 
-¿Qué pasa? pues que como hemos visto, **a más facilidad, menos seguridad**. Y es que se han hackeado [multitud](https://selfkey.org/list-of-cryptocurrency-exchange-hacks/) de estas casas de cambio, estos *exchanges* en todo el mundo.
+¿Qué pasa? pues que como hemos visto, **a más facilidad, menos seguridad**. Y es que se han hackeado [multitud](https://selfkey.org/list-of-cryptocurrency-exchange-hacks/) de estas casas de cambio, estos _exchanges_ en todo el mundo.
 
-La responsabilidad es nuestra y si utilizamos estas plataformas para comprar bitcoin, al menos ir mandándolo a [monederos más seguros](https://pau.ninja/bitcoin-wallet/#Cual_es_el_mejor_wallet_bitcoin).
+La responsabilidad es nuestra y si utilizamos estas plataformas para comprar bitcoin, al menos ir mandándolo a [monederos más seguros](./bitcoin-wallet#Cual_es_el_mejor_wallet_bitcoin).
 
 Por esto hasta me da hasta rabia llamarlas _wallet_ porque en esta [comunidad](#comunidad) hay un dicho:
 
 > «Si no tienes tus claves, no son tus bitcoin.»
 
-Ya sabéis que soy pro [anonimato al comprar bitcoin](https://pau.ninja/comprar-bitcoins-anonimamente/). Di mis razones: seguridad, privacidad y libertad.
+Ya sabéis que soy pro [anonimato al comprar bitcoin](./comprar-bitcoins-anonimamente). Di mis razones: seguridad, privacidad y libertad.
 
 Y es que en el momento que abrimos una cuenta a una casa de cambio **tenemos que dar nuestros datos**.
 
-No sólo esto, sino que además si decidimos mandar nuestros bitcoin a una _wallet_ más segura y utilizar al *exchange* sólo para comprar las criptomonedas, hay un **rastro claro**.
+No sólo esto, sino que además si decidimos mandar nuestros bitcoin a una _wallet_ más segura y utilizar al _exchange_ sólo para comprar las criptomonedas, hay un **rastro claro**.
 
-Es decir, que será fácil poder rastrear de quien es el otro tipo de monedero al que nos hemos mandado los bitcoin. Aunque bueno, esto no supone un problema en los casos que como yo, por ejemplo compramos bitcoin vía empresa y necesitamos pasar por *exchanges* sí o sí.
+Es decir, que será fácil poder rastrear de quien es el otro tipo de monedero al que nos hemos mandado los bitcoin. Aunque bueno, esto no supone un problema en los casos que como yo, por ejemplo compramos bitcoin vía empresa y necesitamos pasar por _exchanges_ sí o sí.
 
 Ventajas
 
-- **Están reguladas:** lo que supone una ventaja para muchos que aún les cuesta dar el paso de un banco a bitcoin y ser su propio banco. Es popular lo de pasar por un *exchange* en la curva de aprendizaje.
-- **Son populares:** y esto lo voy a considerar una ventaja porque como la palabra [Kraken o Coinbase](https://pau.ninja/bitcoin-wallet/#Kraken_mejor_exchange_bitcoin) está en boca de muchos, saca un miedo inicial a los que se inician en las aguas de bitcoin. Aunque recomiendo desvincularse tarde o temprano.
+- **Están reguladas:** lo que supone una ventaja para muchos que aún les cuesta dar el paso de un banco a bitcoin y ser su propio banco. Es popular lo de pasar por un _exchange_ en la curva de aprendizaje.
+- **Son populares:** y esto lo voy a considerar una ventaja porque como la palabra [Kraken o Coinbase](./bitcoin-wallet#Kraken_mejor_exchange_bitcoin) está en boca de muchos, saca un miedo inicial a los que se inician en las aguas de bitcoin. Aunque recomiendo desvincularse tarde o temprano.
 
 Inconvenientes
 
 - **Sin privacidad:** damos nuestros datos, hay un rastro claro aunque lo mandemos a un monedero más seguro y no hay anonimato. Por lo tanto perdemos seguridad y libertades.
-- **Poder a terceros:** el *exchange* es básicamente un banco. Le cedemos nuestros activos y tenemos que confiar que harán con ellos lo que prometen. Por eso están regulados.
-- **Susceptibles a ataques:** mucho más fácil no sólo que ataquen al *exchange*, sino que simplemente nos ataquen a nosotros a través de internet. Supongo que por eso se le llama «red» a internet: porque es un coladero.
+- **Poder a terceros:** el _exchange_ es básicamente un banco. Le cedemos nuestros activos y tenemos que confiar que harán con ellos lo que prometen. Por eso están regulados.
+- **Susceptibles a ataques:** mucho más fácil no sólo que ataquen al _exchange_, sino que simplemente nos ataquen a nosotros a través de internet. Supongo que por eso se le llama «red» a internet: porque es un coladero.
 
-### ![hot wallet](https://pau.ninja/wp-content/uploads/2021/01/hot-wallet.png)App monedero
+### ![hot wallet](./wp-content/uploads/2021/01hot-wallet.png)App monedero
 
 **Veredicto:** recomendable como monedero secundario. Tal vez para recibir donaciones, tener poca cantidad, hacer pagos, tener morralla, o «experimentar» con lo que es tener bitcoin.
 
-[Ver mejor modelo](https://pau.ninja/bitcoin-wallet/#Samourai_mejor_monedero_bitcoin_para_Android)
+[Ver mejor modelo](./bitcoin-wallet#Samourai_mejor_monedero_bitcoin_para_Android)
 
-Las *app* monedero son aplicaciones en el móvil para tener nuestros bitcoin.
+Las _app_ monedero son aplicaciones en el móvil para tener nuestros bitcoin.
 
 Cuando nos registramos también nos dan 12 palabras clave que tenemos que guardar en un papelito por si tenemos que acceder en un futuro.
 
-> Imaginemos que las *hot wallets* son como cuentas corrientes para el día a día mientras que las [_cold wallet_](https://pau.ninja/bitcoin-wallet/#Monederos_frios_para_bitcoin) son las cuentas de ahorro para el largo plazo.
+> Imaginemos que las _hot wallets_ son como cuentas corrientes para el día a día mientras que las [_cold wallet_](./bitcoin-wallet#Monederos_frios_para_bitcoin) son las cuentas de ahorro para el largo plazo.
 
-Y es que los *hackers* no meterán muchos recursos a robarnos por cuatro chavos que podamos tener en una aplicación. Y es que espero que a nadie le gusta tanto el peligro y adrenalina como para tener ahí suficiente pasta para no poder permitirse perderla.
+Y es que los _hackers_ no meterán muchos recursos a robarnos por cuatro chavos que podamos tener en una aplicación. Y es que espero que a nadie le gusta tanto el peligro y adrenalina como para tener ahí suficiente pasta para no poder permitirse perderla.
 
-![app bitcoin](https://pau.ninja/wp-content/uploads/2021/01/app-bitcoin.png)
+![app bitcoin](./wp-content/uploads/2021/01app-bitcoin.png)
 
-La seguridad de las *app* monedero dependerán de los hábitos que tengamos nosotros como individuos. Pero es verdad que sólo por el hecho de que está directamente conectada a internet, ya somos mucho más susceptibles a ser atacados.
+La seguridad de las _app_ monedero dependerán de los hábitos que tengamos nosotros como individuos. Pero es verdad que sólo por el hecho de que está directamente conectada a internet, ya somos mucho más susceptibles a ser atacados.
 
 La idea de estas aplicaciones es tener cambio, calderilla para hacer pequeños pagos o para enseñar a nuestros amigos cómo funciona esto del bitcoin.
 
@@ -257,17 +239,17 @@ Inconvenientes
 
 - **Vulnerables:** por el hecho de estar conectadas a internet.
 
-### ![software wallet](https://pau.ninja/wp-content/uploads/2021/01/software-wallet.png)Monederos virtuales bitcoin
+### ![software wallet](./wp-content/uploads/2021/01software-wallet.png)Monederos virtuales bitcoin
 
 **Veredicto:** al igual que con las «app monedero», los virtuales son recomendables para uso secundario. Para tener poca cantidad, hacer pequeños pagos o experimentar en el mundo bitcoin.
 
-[Ver mejor modelo](https://pau.ninja/bitcoin-wallet/#Electrum_mejor_monedero_virtual_bitcoin)
+[Ver mejor modelo](./bitcoin-wallet#Electrum_mejor_monedero_virtual_bitcoin)
 
-Los monederos virtuales de bitcoin son billeteras digitales que similar a las *app*, tenemos en nuestro ordenador. Es un *software* de toda la vida que nos descargamos de internet, y _vualá_. Ya tenemos un monedero para bitcoin.
+Los monederos virtuales de bitcoin son billeteras digitales que similar a las _app_, tenemos en nuestro ordenador. Es un _software_ de toda la vida que nos descargamos de internet, y _vualá_. Ya tenemos un monedero para bitcoin.
 
-¿El problema? exactamente el mismo que las aplicaciones: son **_hot wallets_**. Es decir, están conectadas a internet. ¿Habéis oído hablar de internet? el sitio favorito para robar porque es mucho más anónimo.
+¿El problema? exactamente el mismo que las aplicaciones: son _**hot wallets**_. Es decir, están conectadas a internet. ¿Habéis oído hablar de internet? el sitio favorito para robar porque es mucho más anónimo.
 
-![monedero virtual bitcoin](https://pau.ninja/wp-content/uploads/2021/01/monedero-virtual-bitcoin.png)
+![monedero virtual bitcoin](./wp-content/uploads/2021/01monedero-virtual-bitcoin.png)
 
 En este caso los monederos virtuales son un poco como Paquirrín. Es decir, son más «voluminosos» para llevar encima que una app pero tienen su utilidad.
 
@@ -277,24 +259,24 @@ Conozco bien la cultura española en este sentido…
 
 Ventajas
 
-- **Intuitivos:** son muy fáciles de usar. Cualquiera sabe usar un *software* en el ordenador y ya lo hacen primando la experiencia de usuario antes que la seguridad.
+- **Intuitivos:** son muy fáciles de usar. Cualquiera sabe usar un _software_ en el ordenador y ya lo hacen primando la experiencia de usuario antes que la seguridad.
 - Gratuitos.
 
 Inconvenientes
 
 - **Vulnerables:** por el hecho de estar conectados a internet.
 
-### ![monedero bitcoin papel](https://pau.ninja/wp-content/uploads/2021/01/monedero-bitcoin-papel.png)Monederos de bitcoin en papel
+### ![monedero bitcoin papel](./wp-content/uploads/2021/01monedero-bitcoin-papel.png)Monederos de bitcoin en papel
 
 **Veredicto:** un monedero que quedará muy bien en el museo del dinero de Frankfurt pero no recomendaría a nadie usarlo.
 
-[Ver mejor modelo](https://pau.ninja/bitcoin-wallet/#WalletGenerator_mejor_monedero_bitcoin_en_papel)
+[Ver mejor modelo](./bitcoin-wallet#WalletGenerator_mejor_monedero_bitcoin_en_papel)
 
 Este tipo de monedero está ya **obsoleto** porque tenemos mejores opciones. Se trata de un trozo de papel impreso de toda la vida pero ahí tenemos nuestras claves privadas del dinero que le hayamos ingresado.
 
 ¿Sabéis cuando abrimos una cuenta en el banco por primera vez y nos dan el acceso online a nuestra cuenta? nos la mandan con un papel impreso muy raro con una especie de difuminado en blanco y negro.
 
-![cartera bitcoin papel](https://pau.ninja/wp-content/uploads/2021/01/cartera-bitcoin-papel.jpg)
+![cartera bitcoin papel](./wp-content/uploads/2021/01cartera-bitcoin-papel.jpg)
 
 Pues vendría a ser algo similar pero en vez de un PIN tenemos códigos QR, nuestras claves privadas, la dirección bitcoin y todo lo necesario.
 
@@ -316,34 +298,34 @@ Si se nos olvida la contraseña de Twitter, ¿culparemos a Twitter y diremos que
 
 ### Un monedero físico es mejor que online
 
-En el mundo anglosajón de las criptomonedas, utilizan la palabra *hot* y *cold*. Es decir: frío o caliente. Pero todo esto son sinónimos para decir la misma cosa:
+En el mundo anglosajón de las criptomonedas, utilizan la palabra _hot_ y _cold_. Es decir: frío o caliente. Pero todo esto son sinónimos para decir la misma cosa:
 
 - **Monedero que SÍ se conecta a internet:** monedero online, _hot wallet_, billetera caliente, cartera en línea…
-- **Monedero que NO se conecta a internet:** monedero físico, monedero _offline_, *cold wallet*, billetera fría…
+- **Monedero que NO se conecta a internet:** monedero físico, monedero _offline_, _cold wallet_, billetera fría…
 
 O sea que no os abruméis. Parecen muchos tecnicismos pero no dejan de ser la misma cosa. Monederos que se conectan o no a internet.
 
-[Monederos físicos
-![monedero offline](https://pau.ninja/wp-content/uploads/2021/01/monedero-offline.png)](https://pau.ninja/bitcoin-wallet/#Tipos_de_monederos_bitcoin)
+[Monederos físicos  
+![monedero offline](./wp-content/uploads/2021/01/monedero-offline.png)](https://pau.ninja/bitcoin-wallet#Tipos_de_monederos_bitcoin)
 
 - 🟢 Seguros
 - 🟢 Fáciles de usar
 - 🟠 Precio más alto
 
-[Monederos online
-![cartera online](https://pau.ninja/wp-content/uploads/2021/01/cartera-online.png)](https://pau.ninja/bitcoin-wallet/#Tipos_de_monederos_bitcoin)
+[Monederos online  
+![cartera online](./wp-content/uploads/2021/01/cartera-online.png)](https://pau.ninja/bitcoin-wallet#Tipos_de_monederos_bitcoin)
 
 - 🔴 Vulnerables
 - 🟢 Fáciles de usar
 - 🟢 Gratis o baratos
 
-¿Cuál es más seguro para guardar nuestros bitcoin? sin duda el tipo de [monedero frío es el más seguro](https://pau.ninja/bitcoin-wallet/#Monederos_frios_para_bitcoin) de todos porque es por internet donde suceden la mayoría de ataques. Ahora entraremos a ver más.
+¿Cuál es más seguro para guardar nuestros bitcoin? sin duda el tipo de [monedero frío es el más seguro](./bitcoin-wallet#Monederos_frios_para_bitcoin) de todos porque es por internet donde suceden la mayoría de ataques. Ahora entraremos a ver más.
 
 ### De código abierto
 
 Nuestra _wallet_ también es mejor que sea de código abierto.
 
-Gracias al *open source* hay posibilidades de menos *bugs* (vulnerabilidades) por culpa de errores de código. ¿Cómo puede ser? pues gracias a enseñarle a todo Dios cuáles son las entrañas de algo, todo el mundo puede ponerse proactivamente a intentar encontrar errores.
+Gracias al _open source_ hay posibilidades de menos _bugs_ (vulnerabilidades) por culpa de errores de código. ¿Cómo puede ser? pues gracias a enseñarle a todo Dios cuáles son las entrañas de algo, todo el mundo puede ponerse proactivamente a intentar encontrar errores.
 
 Si fueran de código cerrado, sólo los programadores de la empresa que hacen la cartera podrían ver ese código. Vamos. Que cuatro ojos ven más que dos. Que se lo digan a Manolito Gafotas.
 
@@ -359,11 +341,11 @@ Así que olvidémonos de la multifirma.
 
 Teniendo en cuenta estos puntos y de cada uno de los tipos de carteras que hemos visto, ¿cuál es el mejor? más que los más populares o comunes y baratas, tiraremos por aquellas _wallet_ que sean más **seguras** y que los expertos de la comunidad recomiendan.
 
-### Kraken: mejor *exchange* bitcoin
+### Kraken: mejor _exchange_ bitcoin
 
-[Kraken](https://pau.ninja/kraken) es la mejor plataforma para comprar bitcoin. Es el mejor _broker_ bitcoin por sus bajas comisiones, una *exchange* fácil de usar y sistemas de seguridad superiores al resto de casas de cambio.
+[Kraken](https://pau.ninja/kraken) es la mejor plataforma para comprar bitcoin. Es el mejor _broker_ bitcoin por sus bajas comisiones, una _exchange_ fácil de usar y sistemas de seguridad superiores al resto de casas de cambio.
 
-[![](https://pau.ninja/wp-content/uploads/2021/01/plataforma-kraken.png)](https://pau.ninja/kraken)
+[![](./wp-content/uploads/2021/01/plataforma-kraken.png)](https://pau.ninjakraken)
 
 Pulsa en la imagen para ir a Kraken.
 
@@ -381,7 +363,7 @@ Pero esto ya es culpa de cada individuo, que debe ser consciente que todo lo que
 
 **Es un banco**
 
-🏆
+🏆  
 [Kraken](https://pau.ninja/kraken)
 
 0%-0,26% ([info](https://www.kraken.com/features/fee-schedule))
@@ -390,7 +372,7 @@ Pero esto ya es culpa de cada individuo, que debe ser consciente que todo lo que
 
 🟢 [Sí](https://www.coindesk.com/how-does-krakens-new-crypto-bank-work)
 
-🥈
+🥈  
 [Coinbase](https://pau.ninja/coinbase)
 
 0,50% ([info](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees))
@@ -399,7 +381,7 @@ Pero esto ya es culpa de cada individuo, que debe ser consciente que todo lo que
 
 🔴 No
 
-🥉
+🥉  
 [Binance](https://pau.ninja/binance)
 
 0,50% ([info](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees))
@@ -416,7 +398,7 @@ Pero no sólo eso, sino que además tiene unas **comisiones más bajas** a la h
 
 La _wallet_ [Bitxbox02](https://pau.ninja/bitbox) es la mejor opción para almacenar nuestros bitcoin de forma más fría que el congelador del garaje de casa de mis padres.
 
-[![](https://pau.ninja/wp-content/uploads/2021/01/monedero-offline.jpeg)](https://pau.ninja/bitbox)
+[![](./wp-content/uploads/2021/01/monedero-offline.jpeg)](https://pau.ninjabitbox)
 
 Pulsa en la imagen para ir a la tienda oficial.
 
@@ -424,11 +406,9 @@ Por extra de seguridad recordemos que si el fabricante nos da la opción de eleg
 
 ¿Por qué?
 
-Estamos haciendo nuestra *wallet* aún más segura porque eliminamos posibles vías de ataque. ¿Qué un *hacker* es capaz de entrar por la vía del Ethereum? pues ya nos ha jodido el bitcoin también. No sé si se capta el simplismo.
+Estamos haciendo nuestra _wallet_ aún más segura porque eliminamos posibles vías de ataque. ¿Qué un _hacker_ es capaz de entrar por la vía del Ethereum? pues ya nos ha jodido el bitcoin también. No sé si se capta el simplismo.
 
 Además es muy fácil de instalar. Mira este vídeo en el que compré uno sólo para enseñároslo.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Si tuviera que elegir sólo uno, sería este por su relación calidad-precio-seguridad.
 
@@ -438,9 +418,9 @@ Aunque lógicamente hay más alternativas para los que le tienen un poco de mied
 
 La cartera [Samourai](https://samouraiwallet.com/download) es la mejor _app_ monedero de bitcoin para los usuarios de Android. Es de [código abierto](https://github.com/Samourai-Wallet) y es muy intuitiva de usar.
 
-![samourai wallet](https://pau.ninja/wp-content/uploads/2021/01/samourai-wallet.jpg)
+![samourai wallet](./wp-content/uploads/2021/01samourai-wallet.jpg)
 
-Es la que tengo yo para tener «calderilla bitcoin» en una aplicación, y es muy _standard_. Pero lo que me gusta mucho de esta aplicación es que aunque sea una *hot wallet*, le da mucha importancia a la seguridad.
+Es la que tengo yo para tener «calderilla bitcoin» en una aplicación, y es muy _standard_. Pero lo que me gusta mucho de esta aplicación es que aunque sea una _hot wallet_, le da mucha importancia a la seguridad.
 
 Dentro de sus posibilidades, claro. Las podemos dividir en dos categorías: **sigilo y ofuscación**.
 
@@ -465,13 +445,13 @@ Así que ya veis.
 
 En cuanto a monederos online de tipo aplicación para bitcoin, Samourai no sólo cumple como cartera si no que además da muchas opciones de privacidad por el hecho de compensar un poco que sea una _hot wallet_ y que seamos susceptibles a ataques de internet.
 
-Aún así mi recomendación seguiría siendo la misma: siempre mejor una [_cold wallet_](https://pau.ninja/bitcoin-wallet/#Bitbox02_mejor_monedero_bitcoin_offline) para los ahorros, y una *app* como esta para tener calderilla en bitcoin.
+Aún así mi recomendación seguiría siendo la misma: siempre mejor una [_cold wallet_](./bitcoin-wallet#Bitbox02_mejor_monedero_bitcoin_offline) para los ahorros, y una _app_ como esta para tener calderilla en bitcoin.
 
 ### Mycelium: mejor bitcoin _wallet_ para iPhone
 
 La app [Mycelium](https://wallet.mycelium.com/contact.html) es el mejor monedero para iPhone, aunque es algo engorrosa de usar por toda la publicidad que tiene y se nota en las reseñas de los usuarios. Pero por lo que hace su uso y código parece ser de las favoritas de los que entienden.
 
-![bitcoin wallet para iPhone](https://pau.ninja/wp-content/uploads/2021/01/bitcoin-wallet-para-iPhone.png)
+![bitcoin wallet para iPhone](./wp-content/uploads/2021/01bitcoin-wallet-para-iPhone.png)
 
 Tienen su código abierto en [GitHub](https://github.com/mycelium-com/wallet-ios) por lo que todo Dios puede hecharle un buen vistazo a ver lo que hay dentro.
 
@@ -479,15 +459,15 @@ Tienen su código abierto en [GitHub](https://github.com/mycelium-com/wallet-ios
 
 Si queremos un monedero virtual para bitcoin [Electrum](https://electrum.org/#download) ha demostrado ser la mejor opción para el usuario medio.
 
-![monedero online electrum](https://pau.ninja/wp-content/uploads/2021/01/monedero-online-electrum.png)
+![monedero online electrum](./wp-content/uploads/2021/01monedero-online-electrum.png)
 
-Al igual que la mayoría de *hot wallets* también es gratuito y a mí me ha parecido bastante intuitivo. No he tenido que buscar ninguna guía por internet para intentar descifrar cómo hacerlo funcionar.
+Al igual que la mayoría de _hot wallets_ también es gratuito y a mí me ha parecido bastante intuitivo. No he tenido que buscar ninguna guía por internet para intentar descifrar cómo hacerlo funcionar.
 
 ### WalletGenerator: mejor monedero bitcoin en papel
 
 El [Wallet Generator](https://walletgenerator.net/) es la opción más popular como monedero en papel.
 
-![](https://pau.ninja/wp-content/uploads/2021/01/monedero-bitcoin-papel.jpg)
+![](./wp-content/uploads/2021/01monedero-bitcoin-papel.jpg)
 
 Es tan buena (o mala) como el resto de generadores, porque ya sabéis que esto es digno de un museo y para el día a día de nuestros bitcoin poca utilidad le podremos dar.
 
@@ -497,7 +477,7 @@ Pero, ¿y de entre **todos** los tipos de monederos para bitcoin que hemos vist
 
 Después de analizar y comparar los modelos más populares hemos concluido que la cartera más segura y mejor _wallet_ para bitcoin es [Bitbox02](https://pau.ninja/bitbox). Concretamente el modelo «bitcoin-only edition».
 
-[![bitbox02 en uso](https://pau.ninja/wp-content/uploads/2021/01/bitbox02-en-uso.jpeg)](https://pau.ninja/bitbox)
+[![bitbox02 en uso](./wp-content/uploads/2021/01/bitbox02-en-uso.jpeg)](https://pau.ninjabitbox)
 
 Pulsa en la imagen para ir a la tienda.
 
@@ -517,14 +497,100 @@ Además…
 
 Es como mi _desto_. Pequeño, bonito y fácil de utilizar.
 
-![botones bitbox](https://pau.ninja/wp-content/uploads/2021/01/botones-bitbox.gif)
+![botones bitbox](./wp-content/uploads/2021/01botones-bitbox.gif)
 
 Ofrecen una [guía](https://guides.shiftcrypto.ch/bitbox02/setup/) de utilización muy sencilla de seguir, y de los otros usuarios que conozco que la han usado nunca han tenido ni una queja.
 
-Además, sólo nos queda compararlo con la competencia… Por un lado tenemos [Ledger](https://www.criptotendencias.com/seguridad/ledger-sufre-un-hackeo-en-su-base-de-datos-que-afecto-aproximadamente-a-un-millon-de-usuarios/) que fue hackeado afectando a **casi 1 millón de usuarios**. Y esto sin olvidar que su software no es *open source*.
+Además, sólo nos queda compararlo con la competencia… Por un lado tenemos [Ledger](https://www.criptotendencias.com/seguridad/ledger-sufre-un-hackeo-en-su-base-de-datos-que-afecto-aproximadamente-a-un-millon-de-usuarios/) que fue hackeado afectando a **casi 1 millón de usuarios**. Y esto sin olvidar que su software no es _open source_.
 
 Otra opción popular sería Tezor. Que aunque sí es de código abierto, se podría poner el PIN y semilla en cuestión de segundos así que es súper importante agregar passphrase.
 
-Además tenemos que confiar que no guardarán nuestros datos de compra, cuando por su lado la casa de BitBox sólo guarda lo que les hemos proporcionado para comprar la *wallet* durante [30 días](https://shiftcrypto.ch/policies/privacy-policy/).
+Además tenemos que confiar que no guardarán nuestros datos de compra, cuando por su lado la casa de BitBox sólo guarda lo que les hemos proporcionado para comprar la _wallet_ durante [30 días](https://shiftcrypto.ch/policies/privacy-policy/).
 
-Así que me quedo con [BitBox como el mejor](https://pau.ninja/bitcoin-wallet/#Cual_es_el_mejor_wallet_bitcoin), gracias.
+Así que me quedo con [BitBox como el mejor](./bitcoin-wallet#Cual_es_el_mejor_wallet_bitcoin), gracias.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Bitcoin](./bitcoin)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/bitcoin-wallet/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10337,"title":"Los%205%20monederos%20m%C3%A1s%20SEGUROS%20para%20tus%20bitcoin%20%E3%80%90Gu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/01\\/monedero-bitcoin.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

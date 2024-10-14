@@ -1,13 +1,18 @@
 ---
-title: "Ni peso, ni series, ni repeticiones… ¿Y si es mejor entrenar por tiempo?"
+title: "Ni peso, ni series, ni repeticiones…"
+url: https://pau.ninja/entrenar-por-tiempo-o-por-repeticiones
+slug: entrenar-por-tiempo-o-por-repeticiones
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-entrena-por-tiempo.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-por-tiempo.jpg
 published: 2024-08-09T12:17:57+00:00
 modified: 2024-08-17T07:42:09+00:00
-audioLink:
-slug: entrenar-por-tiempo-o-por-repeticiones
+scrappedAt: 2024-10-14T09:19:00.126Z
+audioLink: 
+bibliography: ["dominadas","flexiones","rueda abdominal","dominadas","flexiones","sentadillas","Burd, N. A., Andrews, R. J., West, D. W., Little, J. P., Cochran, A. J., Hector, A. J., … & Phillips, S. M. (2012). Muscle time under tension during resistance exercise stimulates differential muscle protein sub-fractional synthetic responses in men. _The Journal of Physiology, 590_(2), 351-362.","Tanimoto, M., Sanada, K., Yamamoto, K., Kawano, H., Gando, Y., Tabata, I., … & Miyachi, M. (2008). Effects of whole-body low-intensity resistance training with slow movement and tonic force generation on muscular size and strength in young men. _Journal of Strength and Conditioning Research, 22_(6), 1926-1938.","[3](javascript:void\\(0\\))Schoenfeld, 2011. Does Exercise-Induced Muscle Damage Play a Role in Skeletal Muscle Hypertrophy? Journal of Strength and Conditioning Research, 26(5), 1441-1453","MacDougall, 1995. Adaptations in strength and skeletal muscle to resistance training. Sports Medicine, 19(5), 337-349","Sale, 1988. Neural adaptation to resistance training. Medicine & Science in Sports & Exercise, 20(Suppl.), S135-S145","[6](javascript:void\\(0\\))Gandevia, 2001. Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789","Gimenez, P., Schoenfeld, B. J., de Souza, E. O., da Silva, A. M., Carregaro, R. L., & de Salles Painelli, V. (2021). Influence of exercise order on muscle hypertrophy and strength gains: A systematic review and meta-analysis. _Sports Medicine, 51_(4), 733-748.","Calatayud, J., Vinstrup, J., Jakobsen, M. D., Sundstrup, E., & Andersen, L. L. (2017). Dose-response association between upper-body muscle activity during strength training exercises and 10-repetition maximum. _Journal of Strength and Conditioning Research, 31_(12), 3454-3461."]
 ---
-
 Nadie niega que tanto si queremos fuerza, resistencia, o ganar músculo, necesitaremos **seguir progresando** entreno a entreno.
 
 Darle al cuerpo un reto, un cambio, una mejora que cause adaptaciones que sólo suceden cuando nos empujamos un poquito más sesión tras sesión.
@@ -16,11 +21,11 @@ Con resultados que a largo plazo terminan reflejando la suma de todas esas mini 
 
 Igual que el mito de Milón de Crotona levantando un ternero cada día que iba creciendo y convirtiéndose en un toro.
 
-![milón de crotona](https://pau.ninja/wp-content/uploads/2022/03/milon-de-crotona.jpeg)
+![milón de crotona](./wp-content/uploads/2022/03milon-de-crotona.jpeg)
 
 Tan toro como el cuerpo que se le puso a este atleta griego de ir levantándolo a diario.
 
-Esta mejora paulatina tanto consciente (planificada) como consistente en el tiempo, es lo que llamamos [sobrecarga progresiva](https://pau.ninja/sobrecarga-progresiva-hipertrofia/).
+Esta mejora paulatina tanto consciente (planificada) como consistente en el tiempo, es lo que llamamos [sobrecarga progresiva](./sobrecarga-progresiva-hipertrofia).
 
 Pero ya sea por la leyenda de Milón o por la cultura del entrenamiento hoy en día, parece que se da por hecho que sólo podemos mejorar si mejoramos:
 
@@ -30,27 +35,11 @@ Pero ya sea por la leyenda de Milón o por la cultura del entrenamiento hoy en d
 
 Lo que pocos consideran es que hay otra variable, de la que se habla poco pero que a muchos que les cuesta progresar con estas variables se beneficiarán enormemente.
 
-Sabéis que me hice un test [para saber si tengo buena genética](https://pau.ninja/como-saber-si-tienes-buena-genetica/) (#569) en el que se me confirmó que en efecto, no estoy hecho para aumentar fuerza pura sino que la explosividad y [fuerza-resistencia](https://pau.ninja/que-es-la-fuerza-resistencia/) son mis puntos fuertes.
+Sabéis que me hice un test [para saber si tengo buena genética](./como-saber-si-tienes-buena-genetica/) (#569) en el que se me confirmó que en efecto, no estoy hecho para aumentar fuerza pura sino que la explosividad y [fuerza-resistencia](https://pau.ninja/que-es-la-fuerza-resistencia) son mis puntos fuertes.
 
 Encontraba que siempre que aumentaba repeticiones, series o peso, tenía que sacrificar por otro lado.
 
 Fue a raíz de aquí que empecé a experimentar con progresar con otra de las estrategias variables de la sobrecarga progresiva para mejorar entreno tras entreno de la que todo el mundo se ha olvidado: **el tiempo**.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [¿Qué es el entrenamiento por tiempo?](#%C2%BFQue_es_el_entrenamiento_por_tiempo '¿Qué es el entrenamiento por tiempo?')
-- [Ejemplos de entrenamiento por tiempo](#Ejemplos_de_entrenamiento_por_tiempo 'Ejemplos de entrenamiento por tiempo')
-  - [Velocistas](#Velocistas 'Velocistas')
-  - [Crossfiteros](#Crossfiteros 'Crossfiteros')
-  - [Entreno de densidad](#Entreno_de_densidad 'Entreno de densidad')
-- [Desventajas del entrenamiento por tiempo](#Desventajas_del_entrenamiento_por_tiempo 'Desventajas del entrenamiento por tiempo')
-  - [No apto para cansados](#No_apto_para_cansados 'No apto para cansados')
-  - [No apto para todas las mentes](#No_apto_para_todas_las_mentes 'No apto para todas las mentes')
-  - [No apto para todos los entrenos](#No_apto_para_todos_los_entrenos 'No apto para todos los entrenos')
-- [¿Debería entrenar por tiempo o por repeticiones?](#%C2%BFDeberia_entrenar_por_tiempo_o_por_repeticiones '¿Debería entrenar por tiempo o por repeticiones?')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## ¿Qué es el entrenamiento por tiempo?
 
@@ -58,9 +47,9 @@ Cuando pensamos en progresar a todos nos viene a la mente mejorar en peso, serie
 
 Podemos poner un ejemplo sencillo: circuitos de calistenia imaginando el siguiente:
 
-- 50 dominadas
-- 50 flexiones
-- 50 rueda abdominal
+- 50 
+- 50 
+- 50 
 
 Al empezar pones el cronómetros y ves que tardas… yo qué sé: 15 minutos, y mi pregunta para vosotros es la siguiente:
 
@@ -68,7 +57,7 @@ Si la próxima vez tardas 14 minutos y 30 segundos… ¿Te habrás vuelto mejor 
 
 Es lógico pensar que si has tardado menos tiempo significa que tu cuerpo ha tenido que trabajar 1) o más duro que la vez anterior, o 2) se ha adaptado y recuperado de tu esfuerzo anterior y ahora le es más fácil.
 
-Entiendo perfectamente por qué a algunos les suena raro: *pero Pau, cómo puedo estar progresando si no he hecho ni más repeticiones ni he aumentado el peso*…
+Entiendo perfectamente por qué a algunos les suena raro: _pero Pau, cómo puedo estar progresando si no he hecho ni más repeticiones ni he aumentado el peso_…
 
 > La clave aquí es entender que el tiempo es una variable tan válida como el peso o las repeticiones.
 
@@ -76,7 +65,7 @@ En vez de hacer más y más repeticiones, lo haces con menos y menos tiempo.
 
 Obligando los músculos a trabajar para alcanzar el objetivo en un periodo de tiempo más corto.
 
-> De hecho hay estudios que ven como que realizar ejercicios hasta el fallo muscular en menos tiempo puede ser más efectivo para la hipertrofia muscular que simplemente aumentar la carga o el volumen sin tener nada más en cuenta.[1](<javascript:void(0)>)Burd, N. A., Andrews, R. J., West, D. W., Little, J. P., Cochran, A. J., Hector, A. J., … & Phillips, S. M. (2012). Muscle time under tension during resistance exercise stimulates differential muscle protein sub-fractional synthetic responses in men. _The Journal of Physiology, 590_(2), 351-362.
+> De hecho hay estudios que ven como que realizar ejercicios hasta el fallo muscular en menos tiempo puede ser más efectivo para la hipertrofia muscular que simplemente aumentar la carga o el volumen sin tener nada más en cuenta.[ref-1](#ref-1){.ref}
 
 ## Ejemplos de entrenamiento por tiempo
 
@@ -88,33 +77,33 @@ Para empezar…
 
 Pensad en hacer un _sprint_.
 
-Los corredores de cortas distancias (velocistas, *sprinters*) no sobrecargan progresivamente corriendo más distancia o añadiendo más peso…
+Los corredores de cortas distancias (velocistas, _sprinters_) no sobrecargan progresivamente corriendo más distancia o añadiendo más peso…
 
 Lo hacen corriendo más rápido. Es decir, intentando terminar antes la carrera.
 
 Su cuerpo se adapta a esta demanda y como resultado, se vuelven más fuertes y más rápidos.
 
-Sabemos que se vuelven más fuertes porque para hacer un *spring* más rápido, tienes que poner más fuerza contra el suelo, para que salga más velocidad.
+Sabemos que se vuelven más fuertes porque para hacer un _spring_ más rápido, tienes que poner más fuerza contra el suelo, para que salga más velocidad.
 
-Pero los *sprinters* no son los únicos que sacan a relucir el entrenamiento contra reloj para volverse mejores atletas…
+Pero los _sprinters_ no son los únicos que sacan a relucir el entrenamiento contra reloj para volverse mejores atletas…
 
 ### Crossfiteros
 
-Ya he mencionado alguna vez que no soy muy fan de su ejecución de ejercicios de los _crossfiteros_, de lo que si soy fan es de su gran [capacidad de trabajo para aumentar el volumen de entrenamiento](https://pau.ninja/volumen-de-entrenamiento/).
+Ya he mencionado alguna vez que no soy muy fan de su ejecución de ejercicios de los _crossfiteros_, de lo que si soy fan es de su gran [capacidad de trabajo para aumentar el volumen de entrenamiento](./volumen-de-entrenamiento).
 
 A modo de ejemplo pensad en uno de los famosos circuitos de entrenamiento que hay en el Crossfit como el llamado Murph, que trata de:
 
 - Correr 1km y medio
-- 100 dominadas
-- 200 flexiones
-- 300 sentadillas
+- 100 
+- 200 
+- 300 
 - Volver a correr 1km y medio
 
-Siempre es el mismo *h0did0* circuito, pero lo que cambia o como sabes que mejores es el tiempo que tardas en completarlo.
+Siempre es el mismo _h0did0_ circuito, pero lo que cambia o como sabes que mejores es el tiempo que tardas en completarlo.
 
 Algunos incluso entrenan para mejorar sus marcas de su Murph añadiendo más peso, pero el objetivo sigue siendo el mismo: mejorar el tiempo.
 
-Y nadie me va a negar que tanto los velocistas como los _crossfiteros_ tiene [cuerpos con medidas estéticas que todo hombre desearía](https://pau.ninja/cuerpo-estetico-hombre-medidas/) tener.
+Y nadie me va a negar que tanto los velocistas como los _crossfiteros_ tiene [cuerpos con medidas estéticas que todo hombre desearía](./cuerpo-estetico-hombre-medidas) tener.
 
 ### Entreno de densidad
 
@@ -122,13 +111,13 @@ Otra forma de ilustrar lo que digo son los entrenamientos de densidad que popula
 
 Ahora mismo rebajado
 
-[![Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTmJHRmlUMDlCUlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTcwOA=)](https://www.amazon.es/dp/1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training')
+[![Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTmJHRmlUMDlCUlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDE4Mw=)](https://www.amazon.es/dp1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
 
-[Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](https://www.amazon.es/dp/1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training')
+[Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](https://www.amazon.es/dp/1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
 
 8,10 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 - **Descargar libro + resumen:** para ver esta sección necesitas [ser miembro](#unirse).
 
@@ -138,15 +127,13 @@ Aquí no vamos reduciendo el tiempo, pero es similar porque vamos añadiendo má
 
 Es decir que en vez de completar un circuito lo más rápido que puedas, te pones un tiempo límite y haces tantas repeticiones como puedas en ese periodo.
 
-En el fondo este señor ya estaba hablando [del método EMOM](https://pau.ninja/emom-que-es/) aunque sin ir tanto al detalle (#577).
+En el fondo este señor ya estaba hablando [del método EMOM](./emom-que-es) aunque sin ir tanto al detalle (#577).
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+La ciencia respalda esta metodología con estudios que muestran como entrenar con alta _densidad_ (más repeticiones en menos tiempo) aumentó tanto la fuerza como la hipertrofia de los sujetos en comparación con entrenamientos de más baja densidad.[ref-2](#ref-2){.ref}
 
-La ciencia respalda esta metodología con estudios que muestran como entrenar con alta *densidad* (más repeticiones en menos tiempo) aumentó tanto la fuerza como la hipertrofia de los sujetos en comparación con entrenamientos de más baja densidad.[2](<javascript:void(0)>)Tanimoto, M., Sanada, K., Yamamoto, K., Kawano, H., Gando, Y., Tabata, I., … & Miyachi, M. (2008). Effects of whole-body low-intensity resistance training with slow movement and tonic force generation on muscular size and strength in young men. _Journal of Strength and Conditioning Research, 22_(6), 1926-1938.
+> ¿Y por qué es tan efectivo? Pues porque el tiempo y la fuerza están intrínsecamente relacionados.[ref-3](#ref-3){.ref}.[ref-4](#ref-4){.ref}.
 
-> ¿Y por qué es tan efectivo? Pues porque el tiempo y la fuerza están intrínsecamente relacionados.[3](<javascript:void(0)>)[3](<javascript:void(0)>)Schoenfeld, 2011. Does Exercise-Induced Muscle Damage Play a Role in Skeletal Muscle Hypertrophy? Journal of Strength and Conditioning Research, 26(5), 1441-1453.[4](<javascript:void(0)>)MacDougall, 1995. Adaptations in strength and skeletal muscle to resistance training. Sports Medicine, 19(5), 337-349.
-
-Cuando reducimos el tiempo para completar X actividad física, estamos forzando el cuerpo a ser más eficiente y a ganar más fuerza en menos tiempo.[5](<javascript:void(0)>)Sale, 1988. Neural adaptation to resistance training. Medicine & Science in Sports & Exercise, 20(Suppl.), S135-S145
+Cuando reducimos el tiempo para completar X actividad física, estamos forzando el cuerpo a ser más eficiente y a ganar más fuerza en menos tiempo.[ref-5](#ref-5){.ref}
 
 Pero ojo que no es para todo el mundo, mirad…
 
@@ -160,7 +147,7 @@ Para empezar porque es menos obvio.
 
 Pero uno de los factores principales es que hay un factor de **fatiga** que nos confunde pero que a la vez juega un papel importante.
 
-Cuando estamos agotados, alcanzar el fallo muscular es mucho más fácil. Incluso con menos peso o repetición.[6](<javascript:void(0)>)[6](<javascript:void(0)>)Gandevia, 2001. Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789
+Cuando estamos agotados, alcanzar el fallo muscular es mucho más fácil. Incluso con menos peso o repetición.[ref-6](#ref-6){.ref}
 
 Es por esto que este tipo de entreno donde la fartiga toma un rol tan importante se ha visto como son ideales para aumentar la fuerza-resistencia (#573).
 
@@ -168,7 +155,7 @@ Esto es lo que hace que estos circuitos de tiempo sean tan potentes: estamos emp
 
 Un concepto que se relaciona con el **pre-agotamiento** muscular, que ya ha sido estudiando a fondo.
 
-Demostrándonos que ayuda a maximizar el crecimiento muscular porque nos permite niveles más profundos de activación muscular en menos tiempo.[7](<javascript:void(0)>)Gimenez, P., Schoenfeld, B. J., de Souza, E. O., da Silva, A. M., Carregaro, R. L., & de Salles Painelli, V. (2021). Influence of exercise order on muscle hypertrophy and strength gains: A systematic review and meta-analysis. _Sports Medicine, 51_(4), 733-748.
+Demostrándonos que ayuda a maximizar el crecimiento muscular porque nos permite niveles más profundos de activación muscular en menos tiempo.[ref-7](#ref-7){.ref}
 
 Es precisamente esta manera de jugar con la fatiga que hace que haya menos personas que les haga menos gracia entrenar así, porque de quiere de una mentalidad de bestia increíble.
 
@@ -178,7 +165,7 @@ No es que haya un complot de una técnica secreta que no quieren que sepas, sino
 
 Usar el tiempo como variable para la sobrecarga progresiva requiere mucha más fuerza de voluntad que meter una serie más o un 5% más de peso a la barra.
 
-Cambiar estas variables de sobrecarga para el tiempo es una opción que la mayoría de personas que van a entrenar como *hobby* no están dispuestos a poner sobre la mesa.
+Cambiar estas variables de sobrecarga para el tiempo es una opción que la mayoría de personas que van a entrenar como _hobby_ no están dispuestos a poner sobre la mesa.
 
 Y quiero remarcar que no digo que esté mal. No digo que uno (repeticiones VS pesos VS series VS tiempo) sea mejor que otro. Sólo digo que el tiempo pica mucho más mentalmente que manipular series o repeticiones.
 
@@ -194,11 +181,11 @@ Creo que el riesgo de lesión sería demasiado alta y la recompensa no nos justi
 
 Pero en cambio para ejercicios de autocarga como es la calistenia en el que controlamos y usamos el peso corporal para entrenar, creo que aquí sí: el tiempo es nuestro mejor aliado para ganar fuerza, músculo y fuerza-resistencia.
 
-Igual de efectivo que hacerlo con pesas como muestran los estudios.[8](<javascript:void(0)>)Calatayud, J., Vinstrup, J., Jakobsen, M. D., Sundstrup, E., & Andersen, L. L. (2017). Dose-response association between upper-body muscle activity during strength training exercises and 10-repetition maximum. _Journal of Strength and Conditioning Research, 31_(12), 3454-3461.
+Igual de efectivo que hacerlo con pesas como muestran los estudios.[ref-8](#ref-8){.ref}
 
 ## ¿Debería entrenar por tiempo o por repeticiones?
 
-Lógicamente tendremos que considerar qué disciplina de *pesas* estamos desarrollando.
+Lógicamente tendremos que considerar qué disciplina de _pesas_ estamos desarrollando.
 
 Si es fuerza pura, entrenar por tiempo gana menos priorización que todo lo demás, pero en la búsqueda de un atletismo más híbrido, tiene sentido que competir contra el reloj sea una herramienta que usemos más a menudo.
 
@@ -209,39 +196,3 @@ En la que tenemos que ejercer cierta cantidad de esfuerzo por un periodo repetid
 Mira los cuerpos de calisténicos que no trabajan repeticiones máximas sino que van por tiempo.
 
 Sin duda cuerpos a los que todos aspiraríamos, y una funcionalidad mucho más lógica que no sólo ir a por fuerza máxima.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Burd, N. A., Andrews, R. J., West, D. W., Little, J. P., Cochran, A. J., Hector, A. J., … & Phillips, S. M. (2012). Muscle time under tension during resistance exercise stimulates differential muscle protein sub-fractional synthetic responses in men. _The Journal of Physiology, 590_(2), 351-362.
-
-- 2
-
-  Tanimoto, M., Sanada, K., Yamamoto, K., Kawano, H., Gando, Y., Tabata, I., … & Miyachi, M. (2008). Effects of whole-body low-intensity resistance training with slow movement and tonic force generation on muscular size and strength in young men. _Journal of Strength and Conditioning Research, 22_(6), 1926-1938.
-
-- 3
-
-  [3](<javascript:void(0)>)Schoenfeld, 2011. Does Exercise-Induced Muscle Damage Play a Role in Skeletal Muscle Hypertrophy? Journal of Strength and Conditioning Research, 26(5), 1441-1453
-
-- 4
-
-  MacDougall, 1995. Adaptations in strength and skeletal muscle to resistance training. Sports Medicine, 19(5), 337-349
-
-- 5
-
-  Sale, 1988. Neural adaptation to resistance training. Medicine & Science in Sports & Exercise, 20(Suppl.), S135-S145
-
-- 6
-
-  [6](<javascript:void(0)>)Gandevia, 2001. Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789
-
-- 7
-
-  Gimenez, P., Schoenfeld, B. J., de Souza, E. O., da Silva, A. M., Carregaro, R. L., & de Salles Painelli, V. (2021). Influence of exercise order on muscle hypertrophy and strength gains: A systematic review and meta-analysis. _Sports Medicine, 51_(4), 733-748.
-
-- 8
-
-  Calatayud, J., Vinstrup, J., Jakobsen, M. D., Sundstrup, E., & Andersen, L. L. (2017). Dose-response association between upper-body muscle activity during strength training exercises and 10-repetition maximum. _Journal of Strength and Conditioning Research, 31_(12), 3454-3461.

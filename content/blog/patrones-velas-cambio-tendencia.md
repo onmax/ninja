@@ -1,13 +1,20 @@
 ---
-title: "Cambio de tendencia Los patrones de velas (más fiables) para surfearlo"
+title: "Cambio de tendencia"
+url: https://pau.ninja/patrones-velas-cambio-tendencia
+slug: patrones-velas-cambio-tendencia
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: analisis-tecnico
+    label: Análisis técnico
 image: patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/04/patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 published: 2024-04-02T04:40:41+00:00
 modified: 2024-06-23T05:27:14+00:00
-audioLink:
-slug: patrones-velas-cambio-tendencia
+scrappedAt: 2024-10-14T09:19:31.048Z
+audioLink: 
+bibliography: []
 ---
-
 He recopilado los 10 patrones de velas japonesas que acostumbran a indicar con alta fiabilidad que viene un cambio de tendencia, hasta el punto de **acertar en más de un 70% de ocasiones**.
 
 Vamos, que no es poco.
@@ -20,9 +27,9 @@ Por ejemplo el día 16 de octubre de 2023 sucedió algo en el gráfico de Bitcoi
 
 Y es que fue el día que Bitcoin se disparó hacia un nuevo cambio de tendencia alcista con un precio aproximado de $27.000.
 
-Las velas de los días 14 y 15 formaron un [patrón de vela envolvente](https://pau.ninja/velas-envolventes/) que tienen un **67% de probabilidades de indicar una reversión de la tendencia a la alza**, pero eso no fue todo.
+Las velas de los días 14 y 15 formaron un [patrón de vela envolvente](./velas-envolventes) que tienen un **67% de probabilidades de indicar una reversión de la tendencia a la alza**, pero eso no fue todo.
 
-![patrones velas cambio tendencia ejemplo](https://pau.ninja/wp-content/uploads/2024/03/patrones-velas-cambio-tendencia-ejemplo.png)
+![patrones velas cambio tendencia ejemplo](./wp-content/uploads/2024/03patrones-velas-cambio-tendencia-ejemplo.png)
 
 Con la vela del día 16 ese patrón _envolvente alcista_ se convirtió en otro patrón de tres velas.
 
@@ -32,28 +39,9 @@ Quien hubiese invertido a partir de allí y hasta el día de hoy (6 meses más t
 
 Claro que había otros indicadores que apuntaban en la misma dirección (medias móviles, volumen, etc), pero estos dos patrones (seguidos además) fueron otras confirmaciones más para poner en la pila de indicadores que nos podían chivar que no se trataba de una falsa señal.
 
-Por esto vale tanto la pena, no sólo a [aprender a cómo leer velas japonesas](https://pau.ninja/como-leer-velas-japonesas/) (#598) para entender la historia de la batalla constante de compradores y vendedores, sino también para memorizar los patrones más fiables.
+Por esto vale tanto la pena, no sólo a [aprender a cómo leer velas japonesas](./como-leer-velas-japonesas) (#598) para entender la historia de la batalla constante de compradores y vendedores, sino también para memorizar los patrones más fiables.
 
 Hoy vemos los 10 más eficientes de saber que indican un cambio en el mercado.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Los patrones de velas japonesas que indican cambio de tendencia](#Los_patrones_de_velas_japonesas_que_indican_cambio_de_tendencia 'Los patrones de velas japonesas que indican cambio de tendencia')
-  - [Tres estrellas en el sur](#Tres_estrellas_en_el_sur 'Tres estrellas en el sur')
-  - [Triple golpe bajista](#Triple_golpe_bajista 'Triple golpe bajista')
-  - [Tres soldados blancos](#Tres_soldados_blancos 'Tres soldados blancos')
-  - [Tres cuervos idénticos](#Tres_cuervos_identicos 'Tres cuervos idénticos')
-  - [Envolvente bajista](#Envolvente_bajista 'Envolvente bajista')
-  - [Estrella del amanecer](#Estrella_del_amanecer 'Estrella del amanecer')
-  - [Tres cuervos negros](#Tres_cuervos_negros 'Tres cuervos negros')
-  - [Estrella del amanecer doji](#Estrella_del_amanecer_doji 'Estrella del amanecer doji')
-  - [Tres velas exteriores alcistas](#Tres_velas_exteriores_alcistas 'Tres velas exteriores alcistas')
-  - [Estrella vespertina](#Estrella_vespertina 'Estrella vespertina')
-- [Los patrones de continuación de tendencia más fiables](#Los_patrones_de_continuacion_de_tendencia_mas_fiables 'Los patrones de continuación de tendencia más fiables')
-- [¿De dónde he sacado los datos?](#%C2%BFDe_donde_he_sacado_los_datos '¿De dónde he sacado los datos?')
-- [¿Cómo memorizar los patrones de cambio de tendencia?](#%C2%BFComo_memorizar_los_patrones_de_cambio_de_tendencia '¿Cómo memorizar los patrones de cambio de tendencia?')
 
 ## Los patrones de velas japonesas que indican cambio de tendencia
 
@@ -69,7 +57,7 @@ Juntando las manos y orar al cielo… como nuestro primer patrón, que nos recue
 
 ### Tres estrellas en el sur
 
-![tres estrellas en el sur](https://pau.ninja/wp-content/uploads/2024/03/tres-estrellas-en-el-sur.jpg)
+![tres estrellas en el sur](./wp-content/uploads/2024/03tres-estrellas-en-el-sur.jpg)
 
 - **Nombre en inglés:** three stars in the south
 - **Aprece en tendencia:** bajista
@@ -122,7 +110,7 @@ En cambio a su vez es tan efectivo como una familia de indios buenos jugando al 
 
 ### Triple golpe bajista
 
-![triple golpe bajista](https://pau.ninja/wp-content/uploads/2024/03/triple-golpe-bajista.jpg)
+![triple golpe bajista](./wp-content/uploads/2024/03triple-golpe-bajista.jpg)
 
 - **Nombre en inglés:** three line strike, bearish
 - **Aprece en tendencia:** bajista
@@ -131,7 +119,7 @@ En cambio a su vez es tan efectivo como una familia de indios buenos jugando al 
 
 ¿Quieres ver el truco que he usado para memorizarla? Pulsa aquí para desplegar.
 
-Aunque la teoría que había hasta ahora nos decía que este patrón cuando aparece (en un mercado bajista) indica continuación de que esa tendencia *del oso* va a seguir, el _big data_ actualizado nos dice que no es correcto.
+Aunque la teoría que había hasta ahora nos decía que este patrón cuando aparece (en un mercado bajista) indica continuación de que esa tendencia _del oso_ va a seguir, el _big data_ actualizado nos dice que no es correcto.
 
 Que en un 84% de probabilidades de las veces actuará como indicador de que se viene una reversión a la alza.
 
@@ -143,17 +131,17 @@ Aparece un pedazo de _candelón_ alto de color verde que también empieza más a
 
 Tan arriba que incluso supera la primera vela de las tres.
 
-O sea que la última vela *se levanta* la acción del precio de los últimos tres días.
+O sea que la última vela _se levanta_ la acción del precio de los últimos tres días.
 
 Y este es el truco que utilizo para acordarme. Esta es la palabra clave: _levantarse_.
 
-Pienso que todo va según lo acordado, seguimos bajando, ya son tres (triple) y de pronto una vela se *levanta* (por esto es tan larga) y les mete un _golpe_ a las otras velas más pequeñitas.
+Pienso que todo va según lo acordado, seguimos bajando, ya son tres (triple) y de pronto una vela se _levanta_ (por esto es tan larga) y les mete un _golpe_ a las otras velas más pequeñitas.
 
 Es como un golpe de Estado, en el que una se levanta contra todas las otras.
 
 ### Tres soldados blancos
 
-![tres soldados blancos](https://pau.ninja/wp-content/uploads/2024/03/tres-soldados-blancos.jpg)
+![tres soldados blancos](./wp-content/uploads/2024/03tres-soldados-blancos.jpg)
 
 - **Nombre en inglés:** three white soldiers
 - **Aprece en tendencia:** bajista
@@ -164,7 +152,7 @@ Es como un golpe de Estado, en el que una se levanta contra todas las otras.
 
 Es seguramente de los patrones más fáciles de acordarnos sin tener que inventar ninguna historia rara, pero por el amor a la retención de la memoria y el _storytelling_, allá vamos.
 
-Imagina que en un *bear market* llamas a las filas a los soldados que te ayudarán a combatir esos osos para revertir la tendencia.
+Imagina que en un _bear market_ llamas a las filas a los soldados que te ayudarán a combatir esos osos para revertir la tendencia.
 
 Este escuadrón de soldado de élite son los Tres Soldados Blancos (blancos = verde, en el mundo de las velas japonesas), que como su intención es revertir el curso de la batalla, cada uno de ellos será más y más alto.
 
@@ -180,7 +168,7 @@ Para mí lo más importante a considerar es, no sólo ser un poco flexible (la c
 
 ### Tres cuervos idénticos
 
-![tres cuervos idénticos](https://pau.ninja/wp-content/uploads/2024/03/tres-cuervos-identicos.jpg)
+![tres cuervos idénticos](./wp-content/uploads/2024/03tres-cuervos-identicos.jpg)
 
 - **Nombre en inglés:** identical three crows
 - **Aprece en tendencia:** alcista
@@ -201,7 +189,7 @@ Sinceramente para mí podrían ser identificados como uno porque ambos aparecen 
 
 Como los cuervos negros.
 
-Lo que quiere decir que nos indicará que se ha terminado el mercado alcista y próximamente nos vamos a la *mi3rd4*.
+Lo que quiere decir que nos indicará que se ha terminado el mercado alcista y próximamente nos vamos a la _mi3rd4_.
 
 ¿Y cómo los identificamos? Muy fácil porque sólo tenemos que buscar entonces tres velas rojas/negras, que ya de por si solas destacan bastante en un gráfico, aunque a más de uno se le pasará porque no es para nada común, pero con un 79% de posibilidades vale la pena memorizarlo.
 
@@ -213,7 +201,7 @@ Lo más relevante es tener presente de que cada una de estas velas empezando des
 
 ### Envolvente bajista
 
-![envolvente bajista](https://pau.ninja/wp-content/uploads/2024/03/envolvente-bajista.jpg)
+![envolvente bajista](./wp-content/uploads/2024/03envolvente-bajista.jpg)
 
 - **Nombre en inglés:** engulfing, bearish
 - **Aprece en tendencia:** alcista
@@ -224,9 +212,9 @@ Lo más relevante es tener presente de que cada una de estas velas empezando des
 
 Con la _envolvente bajista_ venimos de un movimiento alcista, por esto la primera vela japonesa de este patrón es verde.
 
-Es muy fácil de acordarse porque la segunda y última vela de la figura, lo que hace es *envolver* a la primera.
+Es muy fácil de acordarse porque la segunda y última vela de la figura, lo que hace es _envolver_ a la primera.
 
-Es decir que el cuerpo de la segunda está *abrazando*, *envolviendo* a la segunda vela.
+Es decir que el cuerpo de la segunda está _abrazando_, _envolviendo_ a la segunda vela.
 
 Lo hace siento más grande que ella pero siendo una vela bajista. O sea, de color rojo.
 
@@ -234,13 +222,13 @@ La primera pobre vela queda envuelta porque podría caber dentro de la segunda s
 
 Y es que ninja, con este patrón me acuerdo del Monstruo Buu de Dragon Ball, cuando saca partes de su piel y sigilosamente se va por detrás de Gohan o Trunks para absorberlos.
 
-Pensábamos que Gohan le ganaría a Buu, pero cuando Buu lo *envolió*… todo cambió. Pues es exactamente lo que sucede con esta vela, que aparece en mercado alcista pero cuando aparece, también todo va a cambiar y es que nos indica que se viene movimiento bajista.
+Pensábamos que Gohan le ganaría a Buu, pero cuando Buu lo _envolió_… todo cambió. Pues es exactamente lo que sucede con esta vela, que aparece en mercado alcista pero cuando aparece, también todo va a cambiar y es que nos indica que se viene movimiento bajista.
 
 De todos formas no es un confirmador de que la reversión del mercado será para el largo plazo, sino que podría simplemente indicar una corrección.
 
 ### Estrella del amanecer
 
-![estrella del amanecer](https://pau.ninja/wp-content/uploads/2024/03/estrella-del-amanecer.jpg)
+![estrella del amanecer](./wp-content/uploads/2024/03estrella-del-amanecer.jpg)
 
 - **Nombre en inglés:** morning star
 - **Aprece en tendencia:** bajista
@@ -263,7 +251,7 @@ Porque parece una estrella al ser una velita ahí bien suelta.
 
 La distinción se hace por la vela pequeña, pero también tenemos que considerar la tercera, que cerrará al menos por la mitad del cuerpo de la primera vela.
 
-O sea que en el fondo lo que nos está haciendo es una bandera independentista catalana que también tiene una estrella y que Pep Guardiola (ex entrenador del Barça independentista) decía que hay que levantarse *ben d’hora, ben d’hora*.
+O sea que en el fondo lo que nos está haciendo es una bandera independentista catalana que también tiene una estrella y que Pep Guardiola (ex entrenador del Barça independentista) decía que hay que levantarse _ben d’hora, ben d’hora_.
 
 _Bien pronto, bien pronto_.
 
@@ -275,7 +263,7 @@ Estadísticamente se ha visto que cuando hay una tendencia después de una ruptu
 
 ### Tres cuervos negros
 
-![tres cuervos negros](https://pau.ninja/wp-content/uploads/2024/03/tres-cuervos-negros.jpg)
+![tres cuervos negros](./wp-content/uploads/2024/03tres-cuervos-negros.jpg)
 
 - **Nombre en inglés:** three black crows
 - **Aprece en tendencia:** alcista
@@ -298,11 +286,11 @@ Y es que la segunda vela abre con un precio dentro del cuerpo de la vela anterio
 
 Y la tercera vela hace exactamente lo mismo con respecto a la segunda: abrir igual dentro del cuerpo de la anterior, pero cerrar aún más abajo.
 
-Históricamente este patrón tenía más condiciones pero hoy en día ya se le llama *tres cuervos* a tres velas rojas seguidas en un mercado alcista por este mal presagio que indican.
+Históricamente este patrón tenía más condiciones pero hoy en día ya se le llama _tres cuervos_ a tres velas rojas seguidas en un mercado alcista por este mal presagio que indican.
 
 Ya es suficiente indicador del mercado en el que nos encontramos que de pronto haya tres mechazos cuando veníamos de tendencia alcista, ¿no?
 
-Además estos *tres cuervos negros* acostumbran a formar una zona de resistencia, pero a su vez casi nunca rompen por la línea de soporte del activo y el precio se empieza a mover en lateral.
+Además estos _tres cuervos negros_ acostumbran a formar una zona de resistencia, pero a su vez casi nunca rompen por la línea de soporte del activo y el precio se empieza a mover en lateral.
 
 Es fácil de acordarnos porque los cuervos también se postulan de forma lateral en los palos de las líneas eléctricas de la ciudad.
 
@@ -312,13 +300,13 @@ Y igual que le echarías el ojo a los cuervos, también tienes que meterle ese o
 
 Especialmente si no hay ningún soporte significativo por esa área.
 
-Un patrón que queda tan cancelado como yo hablando de nutrición, si después de la formación de los cuervos nos aparece una vela que el precio de cierra *niega* el primer cuervo.
+Un patrón que queda tan cancelado como yo hablando de nutrición, si después de la formación de los cuervos nos aparece una vela que el precio de cierra _niega_ el primer cuervo.
 
 Es decir que nos aparece por encima del precio de apertura de la primera vela.
 
 ### Estrella del amanecer doji
 
-![estrella del amanecer doji](https://pau.ninja/wp-content/uploads/2024/03/estrella-del-amanecer-doji.jpg)
+![estrella del amanecer doji](./wp-content/uploads/2024/03estrella-del-amanecer-doji.jpg)
 
 - **Nombre en inglés:** morning doji star
 - **Aprece en tendencia:** bajista
@@ -333,11 +321,11 @@ Una vela doji no es otra cosa que una vela que es toda mecha y que su cuerpo es 
 
 Y qué más, porque la estrella del amanecer doji, nos indica que la tendencia bajista de la que venimos casi seguro (76% de probabilidades) de que se revertirá para entrar en una tendencia alcista próximamente.
 
-Por lo tanto tenemos una vela roja justo en la propia tendencia bajista, el *doji* y una tercera barra pero esta vez alcista (verde) que termina cerrando el precio por la mitad o más de la primera vela que era bajista.
+Por lo tanto tenemos una vela roja justo en la propia tendencia bajista, el _doji_ y una tercera barra pero esta vez alcista (verde) que termina cerrando el precio por la mitad o más de la primera vela que era bajista.
 
 ### Tres velas exteriores alcistas
 
-![tres velas exteriores alcistas](https://pau.ninja/wp-content/uploads/2024/03/tres-velas-exteriores-alcistas.jpg)
+![tres velas exteriores alcistas](./wp-content/uploads/2024/03tres-velas-exteriores-alcistas.jpg)
 
 - **Nombre en inglés:** three outside up
 - **Aprece en tendencia:** bajista
@@ -356,7 +344,7 @@ Y del mismo modo la longitud que tenga de su mecha, no importa… (con esta mism
 
 E igual que esa envolvente bajista, nos indica que habrá un cambio de tendencia de bajista a alcista en un 75% de probabilidades de acertar.
 
-Pero aunque la idea detrás de este patrón intente confirmar un *envolvente* usando la tercera vela, en mi opinión creo que el patrón extendido tendría que ser confirmado igualmente.
+Pero aunque la idea detrás de este patrón intente confirmar un _envolvente_ usando la tercera vela, en mi opinión creo que el patrón extendido tendría que ser confirmado igualmente.
 
 Ya sea en forma de ruptura de la resistencia más cercana o bien de la propia línea de tendencia.
 
@@ -364,7 +352,7 @@ Es lo que siempre estamos diciendo sobre las velas japonesas, que por si solas s
 
 ### Estrella vespertina
 
-![estrella vespertina](https://pau.ninja/wp-content/uploads/2024/03/estrella-vespertina.jpg)
+![estrella vespertina](./wp-content/uploads/2024/03estrella-vespertina.jpg)
 
 - **Nombre en inglés:** evening star
 - **Aprece en tendencia:** alcista
@@ -373,7 +361,7 @@ Es lo que siempre estamos diciendo sobre las velas japonesas, que por si solas s
 
 ¿Quieres ver el truco que he usado para memorizarla? Pulsa aquí para desplegar.
 
-Para finalizar nuestra lista tenemos una _estrella vespertina_, y como aquí todos somos ninjas muy inteligentes ya podemos esperar que si tiene la palabra *estrella* en el nombre es que tendrá una vela _peque_ por algún lado.
+Para finalizar nuestra lista tenemos una _estrella vespertina_, y como aquí todos somos ninjas muy inteligentes ya podemos esperar que si tiene la palabra _estrella_ en el nombre es que tendrá una vela _peque_ por algún lado.
 
 ¿En qué lado? Bueno si los patrones de _estrella del amanecer_ la tenían abajo, y si lo opuesto del amanecer es la puesta de sol que ocurre casi por la noche, podemos deducir que la _vespertina_ tendrá la estrella arriba.
 
@@ -395,7 +383,7 @@ Y no te preocupes por la mecha que puedan tener o su longitud, porque los datos 
 
 Ahora bien, todos queremos estar pendientes de una tendencia para que nos aparezca una figura, un patron que nos indique nos vamos al garete para así poder reaccionar.
 
-Pero igualmente hay ciertos patrones con 70-80% de acierto que nos indicarían que lo que viene a continuación es… *continuación*.
+Pero igualmente hay ciertos patrones con 70-80% de acierto que nos indicarían que lo que viene a continuación es… _continuación_.
 
 Lo que puede parecer una tontería para algunos aprender, en el fondo tiene todo el sentido del mundo porque imaginaros que tenéis dudas sobre si vender o comprar.
 
@@ -421,15 +409,15 @@ Ha sido una aventura muy divertida sumergirme en estos datos y sin duda os recom
 
 Ahora mismo rebajado
 
-[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxMTgwNg=)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Encyclopedia of Candlestick Charts: 332 (Wiley Trading)')
+[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDI2NQ=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
-[Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Encyclopedia of Candlestick Charts: 332 (Wiley Trading)')
+[Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 La biblia del análisis de datos y los patrones de velas japonesas.
 
 121,71 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 - Alguien de la comunidad ha compartido un resumen de este libro.
 - Si [eres miembro](#unirse) accede a tu cuenta para descargarlo.
@@ -438,7 +426,88 @@ La biblia del análisis de datos y los patrones de velas japonesas.
 
 ¿Y cómo lo he estado memorizando? Ya sabéis cuál es la que utilizo yo.
 
-Utilizo una de mis estrategias favoritas [para retener mejor la información](https://pau.ninja/como-retener-mejor-la-informacion/) y es, ni nada más ni nada menos, que [crear _flashcards_](https://pau.ninja/crear-flashcards/) (tarjetas de memoria).
+Utilizo una de mis estrategias favoritas [para retener mejor la información](./como-retener-mejor-la-informacion/) y es, ni nada más ni nada menos, que [crear _flashcards_](https://pau.ninja/crear-flashcards) (tarjetas de memoria).
 
-- [Comprar mazo de tarjetas de memorización](https://pau.ninja/tienda/tarjetas-de-memorizacion/) de velas japonesas aquí.
+- [Comprar mazo de tarjetas de memorización](./tienda/tarjetas-de-memorizacion) de velas japonesas aquí.
 - Puedes descargártelas gratuitamente si ya [eres miembro](#unirse).
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Análisis técnico](./analisis-tecnico)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/patrones-velas-cambio-tendencia/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":23433,"title":"Las%2010%20velas%20que%20confirman%20un%20cambio%20de%20tendencia","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2024\\/04\\/patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

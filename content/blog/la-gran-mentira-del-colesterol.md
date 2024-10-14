@@ -1,14 +1,21 @@
 ---
-title: "La mentira del colesterol (o cómo inventarse una enfermedad)"
+title: "La mentira del colesterol"
+url: https://pau.ninja/la-gran-mentira-del-colesterol
+slug: la-gran-mentira-del-colesterol
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: mitos-nutricionales
+    label: Mentiras nutricionales
 image: sujetando-manteca.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/sujetando-manteca.jpeg
 published: 2021-10-18T08:53:47+00:00
 modified: 2024-02-07T15:32:21+00:00
+scrappedAt: 2024-10-14T09:21:00.885Z
 audioLink: https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una_md_77075885_wp_1.mp3
-slug: la-gran-mentira-del-colesterol
+bibliography: []
 ---
-
-[https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una_md_77075885_wp_1.mp3](https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una_md_77075885_wp_1.mp3)
+[https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una\_md\_77075885\_wp\_1.mp3](https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una_md_77075885_wp_1.mp3)
 
 Si cuando vas al médico para que te presente el resultado de tu análisis de sangre y te dice que tienes el «colesterol malo muy alto» y que «te tienes que tomar una pastilla para bajarlo» o tienes que «comer bajo en grasa» entonces…
 
@@ -24,37 +31,6 @@ Hoy aprenderemos la verdad del colesterol, como se inventaron la enfermedad del 
 
 _Aviso: lógicamente consulta con un profesional antes de tomar medidas. Como siempre, esta es mi conclusión al respecto._
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [El origen de la mentira del colesterol](#El_origen_de_la_mentira_del_colesterol 'El origen de la mentira del colesterol')
-- [Qué es el colesterol](#Que_es_el_colesterol 'Qué es el colesterol')
-- [Por qué es importante el colesterol](#Por_que_es_importante_el_colesterol 'Por qué es importante el colesterol')
-  - [Por funciones metabólicas](#Por_funciones_metabolicas 'Por funciones metabólicas')
-  - [Es antiinflamatorio](#Es_antiinflamatorio 'Es antiinflamatorio')
-  - [Por la producción hormonal](#Por_la_produccion_hormonal 'Por la producción hormonal')
-  - [Para absorber nutrientes](#Para_absorber_nutrientes 'Para absorber nutrientes')
-  - [Para obtener vitamina D3](#Para_obtener_vitamina_D3 'Para obtener vitamina D3')
-- [Qué es el colesterol LDL](#Que_es_el_colesterol_LDL 'Qué es el colesterol LDL')
-  - [Partícula LDL](#Particula_LDL 'Partícula LDL')
-  - [Nivel bueno de colesterol](#Nivel_bueno_de_colesterol 'Nivel bueno de colesterol')
-  - [Tengo el colesterol a 300](#Tengo_el_colesterol_a_300 'Tengo el colesterol a 300')
-- [Cuando el colesterol es peligroso](#Cuando_el_colesterol_es_peligroso 'Cuando el colesterol es peligroso')
-- [El proceso del colesterol](#El_proceso_del_colesterol 'El proceso del colesterol')
-  - [Receptor de LDL](#Receptor_de_LDL 'Receptor de LDL')
-  - [LDL en sangre](#LDL_en_sangre 'LDL en sangre')
-  - [Placas de colesterol en las arterias](#Placas_de_colesterol_en_las_arterias 'Placas de colesterol en las arterias')
-  - [Macrófagos](#Macrofagos 'Macrófagos')
-- [Cómo interpretar el colesterol en análisis en sangre](#Como_interpretar_el_colesterol_en_analisis_en_sangre 'Cómo interpretar el colesterol en análisis en sangre')
-  - [Triglicéridos: <40 mg/dl](#Trigliceridos 'Triglicéridos: <40 mg/dl')
-  - [HDL: >65 mg/dl](#HDL_%3E65_mgdl 'HDL: >65 mg/dl')
-  - [Ratio triglicéridos ÷ HDL](#Ratio_trigliceridos_%C3%B7_HDL 'Ratio triglicéridos ÷ HDL')
-  - [Interpretar análisis colesterol](#Interpretar_analisis_colesterol 'Interpretar análisis colesterol')
-  - [Test hba1c](#Test_hba1c 'Test hba1c')
-- [Dieta cetogénica y colesterol](#Dieta_cetogenica_y_colesterol 'Dieta cetogénica y colesterol')
-- [¿LDL es colesterol malo o bueno?](#%C2%BFLDL_es_colesterol_malo_o_bueno '¿LDL es colesterol malo o bueno?')
-
 ## El origen de la mentira del colesterol
 
 La idea de que el colesterol LDL es malo salió de la década de los 50, cuando el **zoólogo** (no médico, ni nutricionista) [Ancel Keys](https://en.wikipedia.org/wiki/Ancel_Keys) salió con su [hipótesis](https://www.centrosaludnutricional.com/que-es-la-hipotesis-lipidica-de-la-enfermedad-cardiovascular-136.html#) lipídica.
@@ -65,7 +41,7 @@ Recordemos que «hipótesis» significa que **no está demostrada**. ¿Y cómo i
 
 Repito. Utilizó **conejos** en sus modelos… un malditto herbívoro.
 
-![meme conejo dieta](https://pau.ninja/wp-content/uploads/2021/10/meme-conejo-dieta.jpg)
+![meme conejo dieta](./wp-content/uploads/2021/10meme-conejo-dieta.jpg)
 
 Ancel Keys quiso llevar esta teoría a los humanos y [organizó](https://www.sevencountriesstudy.com/about-the-study/) el llamado «estudio de los 7 países» para probarlo. Lo que pasa… es que el estudio en verdad **se probó en 22 países** pero sólo se publicaron como «siete» porque el resto de 15 países **no se ajustaban a su narrativa**. A su hipótesis.
 
@@ -73,7 +49,7 @@ Ancel Keys quiso llevar esta teoría a los humanos y [organizó](https://www.sev
 
 > ¿Podría ser que fuera porque las [estatinas](https://medlineplus.gov/spanish/statins.html) (las pastillas para bajar el colesterol artificialmente) [facturan](https://www.strategyr.com/market-report-statin-forecasts-global-industry-analysts-inc.asp) miles de millones en cada país?
 
-De [los alimentos realmente malos](https://pau.ninja/alimentos-malos-para-la-salud/) para la salud concluimos que **lo que nos está petando la salud es el azúcar y los aceites vegetales de semillas** presentes en cada maldita comida empaquetada o restaurante al que vayas.
+De [los alimentos realmente malos](./alimentos-malos-para-la-salud) para la salud concluimos que **lo que nos está petando la salud es el azúcar y los aceites vegetales de semillas** presentes en cada maldita comida empaquetada o restaurante al que vayas.
 
 > Me parece flipante que todo esta pirámide nutricional que seguimos para mantener el LDL bajo esté basada en una hipótesis de **un zoólogo que inyecto colesterol a un animal herbívoro y manipuló los resultados** de sus estudios.
 
@@ -81,7 +57,7 @@ Quiero volver a remarcar que la aberración que provocó Ancel Key ya ha sido de
 
 Fijaros si es tal la aberración que hay docenas de estudios que [muestran](https://www.researchgate.net/figure/6-All-cause-mortality-of-residents-aged-85-years-according-to-total-cholesterol-level_fig3_281833646) como las personas **con más colesterol viven más tiempo**.
 
-![colesterol mortalidad](https://pau.ninja/wp-content/uploads/2021/10/colesterol-mortalidad.png)
+![colesterol mortalidad](./wp-content/uploads/2021/10colesterol-mortalidad.png)
 
 Y aquí siguen la mayoría de médicos: recomendando consumir pocas grasas.
 
@@ -95,7 +71,7 @@ El colesterol es un componente estructural **esencial** de la membrana celular a
 
 ¿Recordáis a Célula de Dragon Ball? una vez había chupado a la Androide A-18 se convirtió en Perfect Cell. Vamos que el colesterol es la A-18 de la célula.
 
-![célula anabólica](https://pau.ninja/wp-content/uploads/2021/10/celula-anabolica.jpeg)
+![célula anabólica](./wp-content/uploads/2021/10celula-anabolica.jpeg)
 
 Sin esa fusión, la célula (el célula) no sirve para nada.
 
@@ -121,9 +97,9 @@ Pero las funciones metabólicas, el funcionamiento de las células y manejar la 
 
 **Nuestras hormonas también necesitan colesterol** para funcionar y desempeñarse como tienen que hacerlo.
 
-![colesterol prehormona](https://pau.ninja/wp-content/uploads/2021/10/colesterol-prehormona.jpg)
+![colesterol prehormona](./wp-content/uploads/2021/10colesterol-prehormona.jpg)
 
-Hormona suprarrenal, hormonas sexuales… ¿Por qué os pensáis que una de las [consecuencias para la salud de los veganos](https://pau.ninja/consecuencias-del-veganismo/) que no comen suficientes grasas saturadas es tener todo tipo de problemas hormonales?
+Hormona suprarrenal, hormonas sexuales… ¿Por qué os pensáis que una de las [consecuencias para la salud de los veganos](./consecuencias-del-veganismo) que no comen suficientes grasas saturadas es tener todo tipo de problemas hormonales?
 
 La de casos/testimonios de mujeres que hay que han [perdido la regla](https://www.youtube.com/results?search_query=lost+period+vegan+diet) en dietas veganas y que cuando dejan de serlo todas empieza a mejorar.
 
@@ -137,19 +113,19 @@ El colesterol también es indispensable para la creación de la bilis (eso que v
 
 No nos olvidemos que la bilis es [indispensable](http://www.vivo.colostate.edu/hbooks/pathphys/digestion/liver/bile.html) para digerir y **absorber las grasas y vitaminas liposolubles** en el intestino delgado.
 
-Os acordáis de cuáles eran las [vitaminas más importantes para la vida humana](https://pau.ninja/las-vitaminas-mas-importantes/), ¿no? exacto. Las liposolubles. La A, D, E y K que **sólo se pueden absorber con grasas saturadas**.
+Os acordáis de cuáles eran las [vitaminas más importantes para la vida humana](./las-vitaminas-mas-importantes), ¿no? exacto. Las liposolubles. La A, D, E y K que **sólo se pueden absorber con grasas saturadas**.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
 Vamos, que **sin colesterol no hay absorción de nutrientes**.
 
-En vez de esto lo que hacemos es lo contrario, evitar las grasas saturadas por miedo al colesterol y tócate los collons porque encima [nos metemos de antinutrientes](https://pau.ninja/antinutrientes-lista/) hasta el culete lo que empeora aún más toda esta biodisponibilidad.
+En vez de esto lo que hacemos es lo contrario, evitar las grasas saturadas por miedo al colesterol y tócate los collons porque encima [nos metemos de antinutrientes](./antinutrientes-lista) hasta el culete lo que empeora aún más toda esta biodisponibilidad.
 
 Algunas personas querrán argumentar que **el cuerpo produce colesterol** por si solo… y es verdad. El cuerpo produce una parte (imaginad si es importante) pero no es ni de lejos suficiente.
 
 Pensad que **las grasas animales tienen que estar presentes en el estómago** para absorber estas vitaminas de [manera óptima](https://pubmed.ncbi.nlm.nih.gov/28100881/).
 
-¿No grasas animales? *no party*.
+¿No grasas animales? _no party_.
 
 ### Para obtener vitamina D3
 
@@ -183,7 +159,7 @@ Parte de estas otras cosas **es el colesterol, pero toda la unidad en si misma 
 
 ### Nivel bueno de colesterol
 
-Sabemos como hecho irrefutable que [incorporando grasas saturadas](https://pau.ninja/grasas-saturadas-son-buenas/) en la dieta que este LDL incrementará… **pero esto no significa que sea malo**.
+Sabemos como hecho irrefutable que [incorporando grasas saturadas](./grasas-saturadas-son-buenas) en la dieta que este LDL incrementará… **pero esto no significa que sea malo**.
 
 ¿Por qué? bueno. La razón es porque existen **distintas poblaciones de colesterol LDL**.
 
@@ -246,7 +222,7 @@ Después esta partícula LDL es recibida (otra vez) por el hígado o por célula
 
 O al menos así es como tendría que ser.
 
-![receptor ldl](https://pau.ninja/wp-content/uploads/2021/10/receptor-ldl.jpg)
+![receptor ldl](./wp-content/uploads/2021/10receptor-ldl.jpg)
 
 Imagen: los 2x círculos amarillos representan el receptor de LDL.
 
@@ -260,7 +236,7 @@ En nuestro cuerpo, el carnet VIP es una proteína **muy específica** en la pro
 
 Lo importante que tenemos que recordar aquí es que hay **una sola proteína Apo B100 por cada partícula LDL**.
 
-![apo b100](https://pau.ninja/wp-content/uploads/2021/10/apo-b100.jpg)
+![apo b100](./wp-content/uploads/2021/10apo-b100.jpg)
 
 Así que el problema es dañar a esta única proteína. ¿Y que lo daña? esa maldita glicación de la que estábamos hablando. El daño oxidativo que el azúcar provoca en el LDL **se centra en dañar a esta proteína**.
 
@@ -284,7 +260,7 @@ Ya sabéis que pasa cuando hay un grupo de gente deambulando por un pub durante 
 
 Y esto es exactamente lo que pasa con el LDL en sangre.
 
-![acumulación LDL en arterias](https://pau.ninja/wp-content/uploads/2021/10/acumulacion-LDL-en-arterias.jpeg)
+![acumulación LDL en arterias](./wp-content/uploads/2021/10acumulacion-LDL-en-arterias.jpeg)
 
 Encuentra otras partículas de LDL y se juntan. Hacen un grupito en medio de la sala para que los demás tengan problemas para pasar por el medio e ir al baño, entrar o salir.
 
@@ -300,7 +276,7 @@ Pues estos macrófagos tienen un receptor que es lo opuesto. Un receptor carroñ
 
 Lo que sucede es que la partícula LDL se empareja con el receptor del macrófago.
 
-![célula espumosa](https://pau.ninja/wp-content/uploads/2021/10/celula-espumosa.jpg)
+![célula espumosa](./wp-content/uploads/2021/10celula-espumosa.jpg)
 
 Los macrófagos terminan comiendo tanto LDL que la terminamos llamando [célula espumosa](https://es.wikipedia.org/wiki/C%C3%A9lula_espumosa) por todos esos trocitos de grasa de LDL dañada en su interior.
 
@@ -331,7 +307,7 @@ O sea que lo que es ideal es ser de fenotpipo A.
 
 Con lo que nos salga de triglicéridos en el análisis de sangre normal, podemos ya empezar a [definir el fenotipo](https://pubmed.ncbi.nlm.nih.gov/2372896/) que somos.
 
-![fenotipos de triglicéridos](https://pau.ninja/wp-content/uploads/2021/10/fenotipos-de-trigliceridos.jpg)
+![fenotipos de triglicéridos](./wp-content/uploads/2021/10fenotipos-de-trigliceridos.jpg)
 
 Si nuestros triglicéridos son de menos de 40, lo más probable es que seamos fenotipo A y podemos estar cómodos con los resultados. Por contra si tenemos más de 180 en triglicéridos, casi seguro que somos fenotipo B y querremos mirar más cosas.
 
@@ -347,7 +323,7 @@ O sea que si el resultado sale que tenemos los triglicéridos bajos y el coleste
 
 Podemos utilizar el mismo gráfico pero con la diferencia de que si esta vez el número va subiendo, entonces mejor porque somos del fenotipo «bueno».
 
-![ratio colesterol HDL](https://pau.ninja/wp-content/uploads/2021/10/ratio-colesterol-HDL.jpg)
+![ratio colesterol HDL](./wp-content/uploads/2021/10ratio-colesterol-HDL.jpg)
 
 Si el HDL es de menos de 25-30 mg/dl, entonces casi seguro que tendremos un perfil de más riesgo.
 
@@ -355,7 +331,7 @@ Pero si por el contrario tenemos más de 65 mg/dl entonces tendremos un buen per
 
 Como mi perfil izquierdo cuando me hago fotos.
 
-Esto es una de las bondades que se pueden conseguir con una dieta [cetogénica](https://pau.ninja/dieta-cetogenica-ciclica/) como la [carnívora](https://pau.ninja/dieta-carnivora/).
+Esto es una de las bondades que se pueden conseguir con una dieta [cetogénica](./dieta-cetogenica-ciclica/) como la [carnívora](https://pau.ninja/dieta-carnivora).
 
 ### Ratio triglicéridos ÷ HDL
 
@@ -363,11 +339,11 @@ Ahora bien, también hay otra métrica en un test normal para ver si tenemos un 
 
 > La formula para calcular el ratio triglicéridos a HDL es: triglicéridos ÷ HDL.
 
-Por ejemplo, en mi análisis de sangre de 2019 (cuando aún no [seguía una dieta ancestral](https://pau.ninja/)), si hubiera utilizado este ratio me hubiera salido 62,1/44,07 con un valor de 1,41.
+Por ejemplo, en mi análisis de sangre de 2019 (cuando aún no [seguía una dieta ancestral](./)), si hubiera utilizado este ratio me hubiera salido 62,144,07 con un valor de 1,41.
 
 En el compañero Carles (seSEO), después de haber seguido la dieta carnívora un tiempo y haberse hecho análisis de sangre, el resultado le sale a 1,35 lo que está al 100% en la zona verde del fenotipo A.
 
-![ratio triglicéridos HDL](https://pau.ninja/wp-content/uploads/2021/10/ratio-trigliceridos-hdl.jpg)
+![ratio triglicéridos HDL](./wp-content/uploads/2021/10ratio-trigliceridos-hdl.jpg)
 
 Gráfico: como más en la zona verde nos acerquemos, [mejor](https://pubmed.ncbi.nlm.nih.gov/11092292/).
 
@@ -391,7 +367,7 @@ Recordar pues que en los análisis de sangre siempre **considerar lo que nos dic
 
 Entonces si que valdría la pena hacer algún test específico.
 
-Con los [miembros de la comunidad](#unirse) que deciden compartir sus análisis de sangre y que han [seguido una dieta basada en carne durante un tiempo](https://pau.ninja/dieta-carnivora/), vemos cómo encajarán al menos en una de estas categorías y se pueden quedar tranquilos.
+Con los [miembros de la comunidad](#unirse) que deciden compartir sus análisis de sangre y que han [seguido una dieta basada en carne durante un tiempo](./dieta-carnivora), vemos cómo encajarán al menos en una de estas categorías y se pueden quedar tranquilos.
 
 ¿Si no encaja con ningún fenotipo?
 
@@ -431,7 +407,7 @@ Pero a parte de incrementar los receptores de LDL, la insulina también aumenta 
 
 ¿Por qué? pues porque baja los niveles de insulina.
 
-Esto explicaría porque hay tantas personas que tienen niveles elevados de LDL comparado con el resto si [siguen un ayuno intermitente](https://pau.ninja/ayuno-intermitente-experiencias/) que dura más que las típicas 8-10 horas entre cena y desayuno.
+Esto explicaría porque hay tantas personas que tienen niveles elevados de LDL comparado con el resto si [siguen un ayuno intermitente](./ayuno-intermitente-experiencias) que dura más que las típicas 8-10 horas entre cena y desayuno.
 
 - Es decir, que el ayuno aumentará tu LDL porqué…
 - Los niveles de insulina bajarán.
@@ -452,3 +428,94 @@ Así que a partir de ahora cuando me miro un análisis de sangre:
 - Triglicéridos de <40 mg = Pau feliz.
 - Si el HDL es de > 65 mg= Pau feliz.
 - Si el ratio triglicéridos/HDL es de menos de 1,8 = Pau feliz.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en twitter](./wp-content/uploads/2022/06/compartir-en-twitter.png) ![compartir en youtube](https://pau.ninja/wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Mentiras nutricionales](./mitos-nutricionales)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/la-gran-mentira-del-colesterol/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":12852,"title":"La%20gran%20MENTIRA%20del%20colesterol%20%22malo%22%20%E3%80%90Desmontado%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/sujetando-manteca.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

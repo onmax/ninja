@@ -1,14 +1,19 @@
 ---
-title: "Energías renovables de futuras civilizaciones Tipos de civilizaciones según la escala de Kardashov"
+title: "Energías renovables de futuras civilizaciones"
+url: https://pau.ninja/escala-kardashov-civilizaciones
+slug: escala-kardashov-civilizaciones
+categories: 
+- slug: enigmas-de-la-historia
+    label: Enigmas de la historia
 image: escala-de-planetas.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/01/escala-de-planetas.jpg
 published: 2021-02-09T07:12:29+00:00
 modified: 2023-06-26T19:37:06+00:00
+scrappedAt: 2024-10-14T09:21:22.784Z
 audioLink: https://www.ivoox.com/energias-renovables-futuras-civilizaciones_md_65293983_wp_1.mp3
-slug: escala-kardashov-civilizaciones
+bibliography: []
 ---
-
-[https://www.ivoox.com/energias-renovables-futuras-civilizaciones_md_65293983_wp_1.mp3](https://www.ivoox.com/energias-renovables-futuras-civilizaciones_md_65293983_wp_1.mp3)
+[https://www.ivoox.com/energias-renovables-futuras-civilizaciones\_md\_65293983\_wp\_1.mp3](https://www.ivoox.com/energias-renovables-futuras-civilizaciones_md_65293983_wp_1.mp3)
 
 Decir que estamos solos en el universo me parecen de un egocentrismo de manual.
 
@@ -18,7 +23,7 @@ Pero en occidente tenemos aviones y barcos y sí, mola verlos, pero no nos flipa
 
 Con las civilizaciones occidentales nos pasa algo similar pero a una escala más grande, y aunque Elon Musk nos saque la virginidad de la exploración espacial, Marte es «sólo» el planeta vecino.
 
-![colonización Marte](https://pau.ninja/wp-content/uploads/2021/02/colonizacion-marte.jpg)
+![colonización Marte](./wp-content/uploads/2021/02colonizacion-marte.jpg)
 
 Por cierto que a mí un planeta como Marte me parece poco romántico para soñar en la exploración espacial, pero entiendo que es la idea de ser capaces de colonizarlo lo que haga que suena tan s3xy. No Marte en si como planeta.
 
@@ -36,24 +41,6 @@ Pero hoy no tocaremos mis frutas, pero las posibles civilizaciones extraterrestr
 
 Y para poner la cereza a esto tocaremos la superficie de la utilización de las energías renovables y porque la descentralización o al menos políticas con sentido común son esenciales para poder seguir innovando hasta el aprovechamiento de nuestros recursos.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [No estamos solos en el universo](#No_estamos_solos_en_el_universo 'No estamos solos en el universo')
-- [Nikolai Kardashov](#Nikolai_Kardashov 'Nikolai Kardashov')
-- [Civilización de tipo 1, 2 y 3](#Civilizacion_de_tipo_1_2_y_3 'Civilización de tipo 1, 2 y 3')
-  - [Civilización de tipo 1: planetaria](#Civilizacion_de_tipo_1_planetaria 'Civilización de tipo 1: planetaria')
-  - [Civilización de tipo 2: estelar](#Civilizacion_de_tipo_2_estelar 'Civilización de tipo 2: estelar')
-  - [Civilización de tipo 3: galáctica](#Civilizacion_de_tipo_3_galactica 'Civilización de tipo 3: galáctica')
-- [Tipos de energia renovables y no renovables](#Tipos_de_energia_renovables_y_no_renovables 'Tipos de energia renovables y no renovables')
-  - [Combustibles fósiles](#Combustibles_fosiles 'Combustibles fósiles')
-  - [Viento y olas](#Viento_y_olas 'Viento y olas')
-  - [Mareas y geotérmica](#Mareas_y_geotermica 'Mareas y geotérmica')
-  - [Energía solar y nuclear](#Energia_solar_y_nuclear 'Energía solar y nuclear')
-- [Otros tipos de civilizaciones](#Otros_tipos_de_civilizaciones 'Otros tipos de civilizaciones')
-  - [Civilizaciones perdidas avanzadas](#Civilizaciones_perdidas_avanzadas 'Civilizaciones perdidas avanzadas')
-
 ## No estamos solos en el universo
 
 Sólo en la Vía Láctea los científicos aseguran que hay **al menos 300 millones de planetas** con [condiciones](https://www.sciencetimes.com/articles/28218/20201114/nasas-kepler-space-telescope-reveals-300-million-habitable-planets.htm) para la vida similares a la Tierra.
@@ -62,7 +49,7 @@ Reitero: sólo en la Vía Láctea.
 
 Poniéndolo en perspectiva es difícil de imaginar que en uno de estos millones de planetas no exista vida como la conocemos. Con civilizaciones iguales a la nuestra, o más avanzadas o en sus inicios.
 
-![planetas habitables Kepler](https://pau.ninja/wp-content/uploads/2021/02/planetas-habitables-Kepler.jpg)
+![planetas habitables Kepler](./wp-content/uploads/2021/02planetas-habitables-Kepler.jpg)
 
 Foto: algunos de los planetas habitables encontrados.
 
@@ -90,7 +77,7 @@ Pero fue la radioastronomía el terreno, el área en la que el ruso decidió pr
 
 ¿Y por qué alguien querría estudiar la radio astronomía? a lo mejor quería ser capaz de sintonizar Los 40 Principales de los alienígenas .
 
-![Nikolai Kardashev](https://pau.ninja/wp-content/uploads/2021/02/Nikolai-Kardashev.jpg)
+![Nikolai Kardashev](./wp-content/uploads/2021/02Nikolai-Kardashev.jpg)
 
 Foto: Nikolai Kardashov, 1932-2019.
 
@@ -104,7 +91,7 @@ Pero esto es sólo un ejemplo. También demostró varias teorías que se convirt
 
 ¿Y sabéis qué? por muy importante que fuera este señor y por mucho que hizo a avanzar en la ciencia… yo no había escuchado de él en mi vida.
 
-Hasta, que mi curiosidad por el espacio y la historia universal [me lleva a las civilizaciones perdidas](https://pau.ninja/civilizaciones-perdidas/). Y al bitcoin.
+Hasta, que mi curiosidad por el espacio y la historia universal [me lleva a las civilizaciones perdidas](./civilizaciones-perdidas). Y al bitcoin.
 
 ## Civilización de tipo 1, 2 y 3
 
@@ -163,17 +150,17 @@ Veía un comentario en mi podcast al otro día, donde maldecía meterse en Bitco
 
 Lo siento ninjas de la vida pero no podía evitar mencionar a bitcoin, pero vamos a poner otros ejemplos para entender el tipo 1 de civilización en la escala de Kardashov.
 
-**📖
+**📖  
 Idiomas de tipo 1**
 
 **Inglés** que de manera no oficial ya ha sido adoptado por todo el planeta.
 
-💰
+💰  
 **Dinero de tipo 1**
 
 **Bitcoin** ahora mismo sería el único dinero que en toda la Tierra cumpliría con la utilización de recursos, totalmente democratizado, descentralizado y en manos de nadie.
 
-⚡️
+⚡️  
 **Energía de tipo 1**
 
 **Energía eólica** podría ser un tipo de energía que utiliza el clima del planeta. ¿El problema? lo veremos en un rato porque la energía del viento no daría casi que para nada.
@@ -190,7 +177,7 @@ Bueno.
 
 Ya hemos hecho un paso para que esto ocurra porque tenemos el cable del internet que pasa por debajo del mar, ¿no? creo que esto es lo más lejos a lo que hemos llegado en este sentido.
 
-![Islandia energias renovables](https://pau.ninja/wp-content/uploads/2021/02/islandia-energias-renovables.jpg)
+![Islandia energias renovables](./wp-content/uploads/2021/02islandia-energias-renovables.jpg)
 
 A no ser que hagamos que Islandia. Que es el [único país](https://www.invest.is/why-iceland/competitively-priced-green-energy) que lo está haciendo 100% como debería ser para que los humanos fueran de Tipo I.
 
@@ -219,7 +206,7 @@ En el año 1960 el físico Freeman Dyson propuso una estructura gigante y tambi�
 
 El caso es que esta estructura es fácil de imaginar.
 
-![](https://pau.ninja/wp-content/uploads/2021/02/esfera-de-Dyson.jpg)
+![](./wp-content/uploads/2021/02esfera-de-Dyson.jpg)
 
 Imaginad que el Sol es la sorpresa de un Huevo Kinder, y la Esfera de Dyson es el huevo en si.
 
@@ -235,7 +222,7 @@ La civilización de tipo 2 en la escala de Kardashov es la misma con la que Elon
 
 Aquí no sólo hemos visitado y ocupado Marte, sino que incluso los demás planetas. ¿Y qué ejemplo de aprovechamiento de energía tenemos?
 
-⚡️
+⚡️  
 **Energía de tipo 2**
 
 **Energía solar** porque lógicamente aprovecharíamos la energía del sol. Y esto es algo que está ya desarrollado en la Tierra, pero no es «portable» y como no, su uso está en manos de pocos, así que nos quedaría mucho para desarrollarla aún.
@@ -244,7 +231,7 @@ Estamos lejos de ser civilización de tipo II, pero no sé si os suena la palabr
 
 Oumuamua fue un objeto interestelar que atravesó nuestro sistema solar en 2017 y que pudimos observar gracias al telescopio que tenemos en Hawaii llamado [Pan-STARRS​](https://panstarrs.stsci.edu/) que es super potente.
 
-![Oumuamua](https://pau.ninja/wp-content/uploads/2021/02/Oumuamua.jpg)
+![Oumuamua](./wp-content/uploads/2021/02Oumuamua.jpg)
 
 Representación: Oumuamua avistado en nuestro sistema solar.
 
@@ -254,15 +241,15 @@ En verdad no tengo nada que ver con avistar a Oumuamua.
 
 El caso es que algunos físicos como [Avi Loeb](https://www.cfa.harvard.edu/~loeb/) han afirmado que Oumuamua **se podría** tratar de un objeto creado por otra civilización avanzada. Seguramente una de Tipo II y que lo que pasó por nuestro sistema solar, no era un OVNI ni nada pero el estilo, pero basura que llegaba desde otra Galaxia.
 
-[![Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaFdIZHNibUpvYjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5ODY2Ng=)](https://www.amazon.es/dp/0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Extraterrestrial: The First Sign of Intelligent Life Beyond Earth')
+[![Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaFdIZHNibUpvYjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MTEzNQ=)](https://www.amazon.es/dp0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth")
 
-[Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](https://www.amazon.es/dp/0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Extraterrestrial: The First Sign of Intelligent Life Beyond Earth')
+[Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](https://www.amazon.es/dp/0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth")
 
 Escuché sobre Avi Loeb en un podcast americano, aunque decidí no comprar sus libre y centrarme en toda la información sobre Oumuamua que hay por internet porque me parece que el libro que habla un poquito del objeto es más autobibliográfico que otra cosa.
 
-24,88 €
+28,99 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 El caso es que el profesor y algunos de los pocos científicos que dan soporte a esta teoría marginal, se basaban en algunos puntos para afirmar de la **posibilidad** de que sea de un pueblo alienígena.
 
@@ -283,12 +270,12 @@ Vamos, que llegados a este punto nos convertiríamos en Star Wars. Literalmente.
 
 ¿Y qué tipo de recursos utilizaría una civilización así?
 
-**📖
+**📖  
 Idiomas de tipo 3**
 
 **Matemáticas**, un idioma que es difícil de imaginar cómo sería, pero las mates es algo que está presente no sólo en la galaxia sino que incluso en todo el universo. El único sitio donde no están presentes en mi graduado escolar porque pasé justo, justo.
 
-⚡️
+⚡️  
 **Energía de tipo 3**
 
 **Energía de agujeros negros** que a día de hoy creo que ni Dios tiene idea de cómo se podría aprovechar este tipo de energía. Seguramente nos chuparía antes de que la pudriéramos chupar nosotros.
@@ -320,8 +307,6 @@ Vamos. Que usamos roña.
 ¿Y el tema del viento y las olas que comentábamos?
 
 Tenemos que tener en cuenta que las olas están directamente relacionadas con el viento, que de buenas a primeras hace parecer que sólo con esto hay energía de sobra para coger de todos los lados.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Simplificando mucho el viento está generado por la energía del sol calentando la atmósfera.
 
@@ -356,7 +341,7 @@ Así que nos queda la energía solar y nuclear, que aunque no las canalizamos de
 
 Cuando creamos nuestras propias plantas de energía nuclear, uno de los problemas que tenemos es confinar toda esta energía en una infraestructura, **pero** con la energía nuclear **del sol** todo esta infraestructura es **100% gratis**.
 
-![fusión nuclear del sol](https://pau.ninja/wp-content/uploads/2021/02/fusion-nuclear-del-sol.jpg)
+![fusión nuclear del sol](./wp-content/uploads/2021/02fusion-nuclear-del-sol.jpg)
 
 Algunos pensarán que es un problema porque entonces hay menos puestos de trabajo para mantener y trabajar ahí… Es broma, pero no hace falta trabajar en el sol para terminar quemado de lo que se hace.
 
@@ -370,9 +355,9 @@ Claro el problema que tenemos aquí, es que la única placa solar eficiente que 
 
 Me parece interesante decir que hace años vi como algunos científicos afirmaban que cubriendo de placas el desierto del Sahara [tendríamos suficientes](https://theconversation.com/should-we-turn-the-sahara-desert-into-a-huge-solar-farm-114450) placas solares para abastecer toda la energía de la Tierra.
 
-![paneles solares Sahara](https://pau.ninja/wp-content/uploads/2021/02/paneles-solares-sahara.jpg)
+![paneles solares Sahara](./wp-content/uploads/2021/02paneles-solares-sahara.jpg)
 
-Pero claro con la de *kaka* que tiramos tanto al espacio como a la Tierra, aquí no podemos olvidar la [primera ley](https://energyeducation.ca/encyclopedia/Law_of_conservation_of_energy) de la termodinámica.
+Pero claro con la de _kaka_ que tiramos tanto al espacio como a la Tierra, aquí no podemos olvidar la [primera ley](https://energyeducation.ca/encyclopedia/Law_of_conservation_of_energy) de la termodinámica.
 
 > La energía no se destruye o crea: se transforma.
 
@@ -390,15 +375,15 @@ Creo que sólo Thanos podría hacer algo así.
 
 ### Civilizaciones perdidas avanzadas
 
-Pero poniéndome un poco más serio, llegados a este punto no puedo evitar [pensar en las civilizaciones perdidas](https://pau.ninja/civilizaciones-perdidas/) que comentaba al principio y que no hay absolutamente **ninguna** evidencia de que durante [el periodo de la teoría del nuevo meteorito](https://pau.ninja/teoria-del-meteorito/), hubiera sociedades que **no** fuera más avanzada que nosotros.
+Pero poniéndome un poco más serio, llegados a este punto no puedo evitar [pensar en las civilizaciones perdidas](./civilizaciones-perdidas/) que comentaba al principio y que no hay absolutamente **ninguna** evidencia de que durante [el periodo de la teoría del nuevo meteorito](https://pau.ninja/teoria-del-meteorito), hubiera sociedades que **no** fuera más avanzada que nosotros.
 
 Si hubo una extinción masiva en los periodos del Joven Dryas, y más del 70% de la población humana desapareció durante cientos y cientos de años… ¿podemos saber cómo vivieron y cómo o qué cantidad de energía de la Tierra consiguieron canalizar?
 
-![la Torre Wardenclyffe](https://pau.ninja/wp-content/uploads/2021/02/Torre-Wardenclyffe.jpg)
+![la Torre Wardenclyffe](./wp-content/uploads/2021/02Torre-Wardenclyffe.jpg)
 
 Foto: la Torre Wardenclyffe en 1904.
 
-Nikola Tesla creía que había algo, [misterios en la Pirámide de Guiza](https://pau.ninja/piramides-de-giza-curiosidades/) en Egipto. Creía que era una especie de canalizador de energía y que por esto nos la habíamos encontrado ubicada en donde estaba.
+Nikola Tesla creía que había algo, [misterios en la Pirámide de Guiza](./piramides-de-giza-curiosidades) en Egipto. Creía que era una especie de canalizador de energía y que por esto nos la habíamos encontrado ubicada en donde estaba.
 
 La localización de la Pirámide de Guiza no era casualidad según Tesla, porque hay una relación entre la órbita elíptica del Planeta y el ecuador.
 
@@ -411,3 +396,88 @@ La idea de Tesla **no** se podía comercializar, así que no obtuvo financiamien
 Para mí fue uno de los personajes más trascendentes de toda la historia humana, y con una fama que no era proporcional a su importancia en el progreso humano, se merece una mención a parte.
 
 Y es que realmente creo que si estuviera aún con nosotros, la canalización de la energía de la Tierra para convertirnos en Tipo I hubiera sido ya una realidad.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Enigmas de la historia](./enigmas-de-la-historia)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/escala-kardashov-civilizaciones/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10468,"title":"Los%203%20tipos%20de%20civilizaciones%20seg%C3%BAn%20la%20Escala%20de%20Kardashov","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/01\\/escala-de-planetas.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

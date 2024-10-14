@@ -1,13 +1,22 @@
 ---
-title: "Mandíbula marcada para salud y atracción Pasos, razones y ejercicios para fortalecer"
+title: "Mandíbula marcada para salud y atracción"
+url: https://pau.ninja/ejercicios-para-marcar-mandibula-hombres
+slug: ejercicios-para-marcar-mandibula-hombres
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
+  - slug: estilo
+    label: Estilo
+  - slug: masculinidad
+    label: Masculinidad
 image: hombre-con-mandibula-marcada.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/10/hombre-con-mandibula-marcada.jpeg
 published: 2024-01-22T08:59:24+00:00
 modified: 2024-02-07T15:45:31+00:00
+scrappedAt: 2024-10-14T09:19:40.008Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284012-44100-2-beb7046d72344291.mp3
-slug: ejercicios-para-marcar-mandibula-hombres
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284012-44100-2-beb7046d72344291.mp3](https://anchor.fm/s/98566448/podcast/play/52171781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284012-44100-2-beb7046d72344291.mp3)
 
 La mandíbula es seguramente el aspecto más importante de nuestro rostro por muchos motivos.
@@ -22,7 +31,7 @@ Es normal entonces que de forma selectiva y subconsciente prefiramos parejas con
 
 El [diformismo](https://es.wikipedia.org/wiki/Dimorfismo_sexual) sexual no es hacer formas s3xuales raras en la cama, sino que son las variaciones de los animales que lo hacen más atractivo para el sexo opuesto de su especie: los colores, el tamaño y todo este _jazz_.
 
-![mandíbulas hollywood](https://pau.ninja/wp-content/uploads/2021/07/mandibulas-hollywood.jpeg)
+![mandíbulas hollywood](./wp-content/uploads/2021/07mandibulas-hollywood.jpeg)
 
 Mandíbulas emblemáticas de Hollywood. Miraremos qué factores las forman y cómo entrenarlas.
 
@@ -36,30 +45,11 @@ Habrá algunos dioses genéticos que la tendrán ya perfecta pero ningún hombre
 
 > Las buenas noticias es… que se puede entrenar.
 
-¿La mejor manera de marcarla? Pues **se entrena** al mascar [estos chicles duros](https://pau.ninja/tienda/chicles-duros/). Unos chicles 10 veces más duros que los convencionales.
+¿La mejor manera de marcarla? Pues **se entrena** al mascar [estos chicles duros](./tienda/chicles-duros). Unos chicles 10 veces más duros que los convencionales.
 
-![goma mascar natural](https://pau.ninja/wp-content/uploads/2021/02/goma-mascar-natural.jpg)
+![goma mascar natural](./wp-content/uploads/2021/02goma-mascar-natural.jpg)
 
 Es más barato que Amazon u otras tiendas. Sin azúcar, **reutilizable y única en el mundo** (este resina sólo se produce en una islita de Grecia).
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Por qué tenemos mandíbulas débiles](#Por_que_tenemos_mandibulas_debiles 'Por qué tenemos mandíbulas débiles')
-- [Por qué tener una mandíbula fuerte](#Por_que_tener_una_mandibula_fuerte 'Por qué tener una mandíbula fuerte')
-- [Maneras de tener una mandíbula marcada](#Maneras_de_tener_una_mandibula_marcada 'Maneras de tener una mandíbula marcada')
-  - [Entrenar la anchura de la mandíbula](#Entrenar_la_anchura_de_la_mandibula 'Entrenar la anchura de la mandíbula')
-  - [Marcar la mandíbula cuadrada](#Marcar_la_mandibula_cuadrada 'Marcar la mandíbula cuadrada')
-  - [Tener buen ángulo gonial](#Tener_buen_angulo_gonial 'Tener buen ángulo gonial')
-  - [Ampliar el ancho bigonial](#Ampliar_el_ancho_bigonial 'Ampliar el ancho bigonial')
-  - [Reducir la grasa facial](#Reducir_la_grasa_facial 'Reducir la grasa facial')
-- [Ejercicios para fortalecer la mandíbula](#Ejercicios_para_fortalecer_la_mandibula 'Ejercicios para fortalecer la mandíbula')
-  - [Masticar chicle para la mandíbula](#Masticar_chicle_para_la_mandibula 'Masticar chicle para la mandíbula')
-  - [Practicar el mewing](#Practicar_el_mewing 'Practicar el mewing')
-  - [Aplanar bola de chicle](#Aplanar_bola_de_chicle 'Aplanar bola de chicle')
-  - [Sonreír y tragar saliva](#Sonreir_y_tragar_saliva 'Sonreír y tragar saliva')
-  - [Periodizar ejercicios](#Periodizar_ejercicios 'Periodizar ejercicios')
 
 ## Por qué tenemos mandíbulas débiles
 
@@ -86,17 +76,17 @@ Como a todo en la vida, lo de acomodarse está bien pero sólo hasta cierto punt
 
 Nuestros antepasados cazadores y recolectores se pasaban horas y horas no sólo cazando, pero masticando. Normal que no necesitaran dentista y tuvieran esas bocas tan anchas. Sus músculos y huesos estaban en constante entrenamiento diario.
 
-![antepasados comiendo carne](https://pau.ninja/wp-content/uploads/2021/01/antepasados-comiendo-carne.jpg)
+![antepasados comiendo carne](./wp-content/uploads/2021/01antepasados-comiendo-carne.jpg)
 
 En la teoría del humano como ser carnívoro se explica porque seguramente masticamos mucha más carne que plantas y que eso fue un factor de desarrollo de nuestra mandíbula como la tenemos.
 
-Haber domesticado nuestra comida no sólo nos ha traído mandíbulas débiles y dientes que se intentan escapar de nuestras bocas como si fueran *youtubers* escapándose de la fiscalidad de España.
+Haber domesticado nuestra comida no sólo nos ha traído mandíbulas débiles y dientes que se intentan escapar de nuestras bocas como si fueran _youtubers_ escapándose de la fiscalidad de España.
 
 Pensemos en el largo plazo, porque aquí es dónde está el problema. No es sólo estético. Que también. Que si me fortaleciera la salud pero me hiciera más feo no lo haría.
 
 Tenemos [bruxismo](https://www.mayoclinic.org/es-es/diseases-conditions/bruxism/symptoms-causes/syc-20356095) o se nos cae la mandíbula y sin darnos cuenta nos ponemos a dormir con la boca abierta con consecuencias nefastas. Y claro, es algo que mínimamente podemos controlar durante el día, pero cuando sucede subconscientemente durante la noche esto significa 8 horas de una acción que no tendríamos que hacer.
 
-Además no sólo es un trabajo de proactividad en la mandíbula, también es porque nos hacen faltaron [las vitaminas más importantes](https://pau.ninja/alimentos-mas-sanos-del-mundo/#Las_vitaminas_mas_importantes) sobretodo a las primeras etapas de nuestras vidas, cuando somos bebés.
+Además no sólo es un trabajo de proactividad en la mandíbula, también es porque nos hacen faltaron [las vitaminas más importantes](./alimentos-mas-sanos-del-mundo#Las_vitaminas_mas_importantes) sobretodo a las primeras etapas de nuestras vidas, cuando somos bebés.
 
 Ahí nuestro cráneo no se hace lo suficientemente ancho y por eso cada vez vemos más niños en el dentista que no les caben los dientes.
 
@@ -106,7 +96,7 @@ Ahí nuestro cráneo no se hace lo suficientemente ancho y por eso cada vez vemo
 
 Sólo por respirar por la boca.
 
-![monos respirando boca](https://pau.ninja/wp-content/uploads/2021/01/monos-respirando-boca.jpg)
+![monos respirando boca](./wp-content/uploads/2021/01monos-respirando-boca.jpg)
 
 Sus mandíbulas se aflojaron, las bocas encogieron y los dientes se doblaron hacia adentro y hacia fuera porque claro, cada vez había menos espacio. Vamos, que las bocas se iban haciendo más y más [pequeñas](https://news.stanford.edu/2018/04/10/paul-ehrlich-problems-modern-jaw/).
 
@@ -118,7 +108,7 @@ Me acabo de imaginar a un mono con bata de dentista.
 
 Pero a parte de pensar en esta caricatura, muchos también pensaremos que si los monos revertieron todos esos horrores en 6 meses, que entonces nosotros podemos hacer lo mismo.
 
-![ardilla respirando](https://pau.ninja/wp-content/uploads/2021/01/ardilla-respirando.jpg)
+![ardilla respirando](./wp-content/uploads/2021/01ardilla-respirando.jpg)
 
 Pues malas noticias, porque estos monos siguen la misma línea genética que sus descendientes. Es decir, no son tan diferentes que sus tatarabuelos. Pero después pones a los humanos en comparación, y nos hemos ido acomodando con miles de años.
 
@@ -148,7 +138,7 @@ Vamos que alinear el perfil de este espacio, este agujero con el montón es uno 
 
 Una mandíbula más larga y prominente, dentro de lo razonable, es más beneficiosa para aumentar la fuerza de mordida, porque los músculos de ahí dentro pueden hacer más palanca para generar más «giro».
 
-![músculos mandíbula](https://pau.ninja/wp-content/uploads/2021/07/musculos-mandibula.jpg)
+![músculos mandíbula](./wp-content/uploads/2021/07musculos-mandibula.jpg)
 
 Vamos, supervivencia evolutiva.
 
@@ -164,7 +154,7 @@ Los hombres tenemos una rama más empinada (siento que ahí podría hacer una br
 
 O para picar piedra durante toda la noche.
 
-![rama mandíbula](https://pau.ninja/wp-content/uploads/2021/07/rama-mandibula.jpg)
+![rama mandíbula](./wp-content/uploads/2021/07rama-mandibula.jpg)
 
 La longitud de esta rama es lo que nos determina en gran medida la forma de la cara alargada y ovalada.
 
@@ -183,7 +173,7 @@ Y lo que se notan estos 2 graditos de diferencia… Mientras no sea muy exagera
 
 En definitiva, estéticamente, un ángulo gonial más completo y aumentado da una percepción más masculinidad y se acostumbra a asociar a una mandíbula más fuerte, por lo tanto más sana, por lo tanto más bonita.
 
-![ángulo gonial](https://pau.ninja/wp-content/uploads/2021/07/angulo-gonial.jpg)
+![ángulo gonial](./wp-content/uploads/2021/07angulo-gonial.jpg)
 
 ### Ampliar el ancho bigonial
 
@@ -195,7 +185,7 @@ Los músculos maseteros son los que están en la rama de la mandíbula y su func
 
 O sea que a nivel de ser proactivos ejercitándola, no podemos cambiar nuestro ancho bigonial de un día para otro porque forma parte de nuestra estructura ósea.
 
-![ancho bigonial](https://pau.ninja/wp-content/uploads/2021/07/ancho-bigonial.jpeg)
+![ancho bigonial](./wp-content/uploads/2021/07ancho-bigonial.jpeg)
 
 Imagen: de G a G es el ancho bigonial.
 
@@ -215,7 +205,7 @@ Es como ir al gimnasio.
 
 Como más secos estemos, más se nos ven los abdominales. No tiene ningún sentido en matarse a hacer abdominales porque sólo se nos verá la tablita cuando estemos a cierto porcentaje de grasa corporal.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2020/01/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2020/01comic-masa-muscular.png)
 
 Por eso en el mundo del fitness se dice que los abdominales no se hacen en el gimnasio, sino en la cocina.
 
@@ -241,7 +231,7 @@ Tiene que ser un chicle realmente duro y no precisamente pequeño para que haya 
 
 James Nestor recomendaba chicle turco, pero existe una resina vegetal hecha para masticar hasta cansarnos que es **ideal** para este propósito.
 
-![goma mascar natural](https://pau.ninja/wp-content/uploads/2021/02/goma-mascar-natural.jpg)
+![goma mascar natural](./wp-content/uploads/2021/02goma-mascar-natural.jpg)
 
 Mira la [tienda donde encontraras el chicle para aumentar mandíbula](#comprar).
 
@@ -277,7 +267,7 @@ Es básicamente mantener la lengua en la posición que debería ser la natural. 
 
 Si os soy sincero no pude mantener el hábito de hacer _mewing_ porque tenía que estar pensando en ello constantemente, en cambio con [lo de masticar chicle](#Masticar_chicle_para_la_mandibula) sí que vi cambios.
 
-¿Por qué? porque es otro de los ejercicios que podemos hacer, hacer una especie de *mewing* proactivo.
+¿Por qué? porque es otro de los ejercicios que podemos hacer, hacer una especie de _mewing_ proactivo.
 
 ### Aplanar bola de chicle
 
@@ -311,6 +301,97 @@ No te irías al gym a quemarte por completo el primer día, o a levantar máximo
 
 Si tu objetivo es levantar 100kg en pecho y actualmente estás levantando 50kg, ¿cómo esperas hacerlo de una día para otro? no. Vamos incrementando la dificultad poco a poco.
 
-Es lo que en inglés llaman *progresive overload*, que es la «progresión de cargas» en español.
+Es lo que en inglés llaman _progresive overload_, que es la «progresión de cargas» en español.
 
 Igual para nuestra bonita cara.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Hábitos saludables](./habitos-saludables)  
+O si quieres ser más específico:[Estilo](./estilo/), [Masculinidad](https://pau.ninja/masculinidad)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/ejercicios-para-marcar-mandibula-hombres/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10557,"title":"5%20ejercicios%20%2B%205%20claves%20para%20MARCAR%20mand%C3%ADbula%20%E3%80%90Gu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/10\\/hombre-con-mandibula-marcada.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,14 +1,19 @@
 ---
-title: "OMAD: el arte de hacer una comida al día Cómo y por qué comer una vez al día"
+title: "OMAD: el arte de hacer una comida al día"
+url: https://pau.ninja/comer-una-vez-al-dia
+slug: comer-una-vez-al-dia
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: comiendo-de-un-bocado.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/comiendo-de-un-bocado.jpeg
 published: 2021-10-05T07:26:43+00:00
 modified: 2024-02-07T14:52:13+00:00
+scrappedAt: 2024-10-14T09:21:04.946Z
 audioLink: https://www.ivoox.com/omad-arte-hacer-comida-al_md_72046999_wp_1.mp3
-slug: comer-una-vez-al-dia
+bibliography: []
 ---
-
-[https://www.ivoox.com/omad-arte-hacer-comida-al_md_72046999_wp_1.mp3](https://www.ivoox.com/omad-arte-hacer-comida-al_md_72046999_wp_1.mp3)
+[https://www.ivoox.com/omad-arte-hacer-comida-al\_md\_72046999\_wp\_1.mp3](https://www.ivoox.com/omad-arte-hacer-comida-al_md_72046999_wp_1.mp3)
 
 Varias semanas atrás me di cuenta que había empezado a comer con **menos frecuencia**, y hago énfasis en la palabra «frecuencia» porque esto no significa (para nada) que comiera menos. Ni en cantidad, ni en calorías, ni en nutrientes.
 
@@ -26,9 +31,9 @@ Lo que sí choca de entrada es como alguien puede terminar comiendo **sólo una
 
 Y cuando digo señales me refiero a hormonas.
 
-Todo empezó cuando decidí hacer un giro de 180 grados a mi manera de comer y me puse con la [dieta carnívora para mejorar mi inflamación](https://pau.ninja/dieta-carnivora/).
+Todo empezó cuando decidí hacer un giro de 180 grados a mi manera de comer y me puse con la [dieta carnívora para mejorar mi inflamación](./dieta-carnivora).
 
-![resultados dieta carnívora](https://pau.ninja/wp-content/uploads/2021/10/resultados-dieta-carnivora.jpeg)
+![resultados dieta carnívora](./wp-content/uploads/2021/10resultados-dieta-carnivora.jpeg)
 
 Foto: 5 semanas de carnívora con OMAD.
 
@@ -41,38 +46,6 @@ Después de que tanto los culturistas ciclados como mi familia hayan repetido du
 Hoy os cuento no sólo mi experiencia, sino también las **bases científicas** de comer sólo una vez al día.
 
 Si quieres saltarte toda la parte donde explico saciedad, hambre y hormonas puedes [pulsar aquí](#Beneficios_de_comer_una_vez_al_dia) para navegar hacia la parte donde entramos en el tema de una comida al día.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Sensación de saciedad](#Sensacion_de_saciedad 'Sensación de saciedad')
-  - [Índice de saciedad](#Indice_de_saciedad 'Índice de saciedad')
-  - [Cómo sentirse saciado sin comer](#Como_sentirse_saciado_sin_comer 'Cómo sentirse saciado sin comer')
-- [Causas de tener mucha hambre](#Causas_de_tener_mucha_hambre 'Causas de tener mucha hambre')
-  - [Microbiota mal alimentada](#Microbiota_mal_alimentada 'Microbiota mal alimentada')
-  - [Mal estado nutricional celular](#Mal_estado_nutricional_celular 'Mal estado nutricional celular')
-  - [Bajos niveles de leptina](#Bajos_niveles_de_leptina 'Bajos niveles de leptina')
-- [Dejar de tener hambre](#Dejar_de_tener_hambre 'Dejar de tener hambre')
-  - [Sensación de saciedad comiendo poco](#Sensacion_de_saciedad_comiendo_poco 'Sensación de saciedad comiendo poco')
-  - [Qué comer para tener todas las vitaminas](#Que_comer_para_tener_todas_las_vitaminas 'Qué comer para tener todas las vitaminas')
-  - [Saciedad con poca comida](#Saciedad_con_poca_comida 'Saciedad con poca comida')
-- [Beneficios de comer una vez al día](#Beneficios_de_comer_una_vez_al_dia 'Beneficios de comer una vez al día')
-  - [Pérdida de peso](#Perdida_de_peso 'Pérdida de peso')
-  - [Preservación de masa muscular](#Preservacion_de_masa_muscular 'Preservación de masa muscular')
-  - [Aumento de longevidad](#Aumento_de_longevidad 'Aumento de longevidad')
-  - [Prevenir enfermedades](#Prevenir_enfermedades 'Prevenir enfermedades')
-  - [Mejora cognitiva, de digestión e inmunidad](#Mejora_cognitiva_de_digestion_e_inmunidad 'Mejora cognitiva, de digestión e inmunidad')
-  - [Ahorro de dinero, tiempo y energía](#Ahorro_de_dinero_tiempo_y_energia 'Ahorro de dinero, tiempo y energía')
-- [Pasos para hacer una comida al día](#Pasos_para_hacer_una_comida_al_dia 'Pasos para hacer una comida al día')
-  - [Empezar con dieta cetogénica](#Empezar_con_dieta_cetogenica 'Empezar con dieta cetogénica')
-  - [Alternar ayunos cortos](#Alternar_ayunos_cortos 'Alternar ayunos cortos')
-  - [Hacer una comida nutritiva](#Hacer_una_comida_nutritiva 'Hacer una comida nutritiva')
-- [Dieta de una comida al día](#Dieta_de_una_comida_al_dia 'Dieta de una comida al día')
-  - [Pescado y carne: a diario](#Pescado_y_carne_a_diario 'Pescado y carne: a diario')
-  - [Hígado: al menos una vez a la semana](#Higado_al_menos_una_vez_a_la_semana 'Hígado: al menos una vez a la semana')
-  - [Yema de huevo: cada pocos días](#Yema_de_huevo_cada_pocos_dias 'Yema de huevo: cada pocos días')
-  - [Agua de mar: diariamente](#Agua_de_mar_diariamente 'Agua de mar: diariamente')
 
 ## Sensación de saciedad
 
@@ -130,10 +103,10 @@ Es por esto en la naturaleza los animales que comen carne se meten buffets una v
 
 ¿Podemos confiar en la cantidad de comida que supuestamente comían nuestros ancestros? tenemos que remarcar varias cosas antes, y es que esta gente tenía:
 
-- **Vitamina D3** más elevada de forma natural porque estaban al aire libre muchísimo más que nosotros hoy en día. Esto es vital considerarlo porque la vitamina D3 tiene sinergía con montones de otros nutrientes, por ejemplo la vitamina A. Podemos comer súper bien pero si nos falta esta vitamina D3, no será lo mismo que estas harmonía natural del cuerpo que tenían nuestros antepasados. Es por esto que la [toxicidad](https://pau.ninja/dieta-carnivora/#Toxicidad_si_se_hace_mal) de vitamina A es más probable (si tenemos mucha) en el caso de que nos falte vitamina D3 y otras.
+- **Vitamina D3** más elevada de forma natural porque estaban al aire libre muchísimo más que nosotros hoy en día. Esto es vital considerarlo porque la vitamina D3 tiene sinergía con montones de otros nutrientes, por ejemplo la vitamina A. Podemos comer súper bien pero si nos falta esta vitamina D3, no será lo mismo que estas harmonía natural del cuerpo que tenían nuestros antepasados. Es por esto que la [toxicidad](./dieta-carnivora#Toxicidad_si_se_hace_mal) de vitamina A es más probable (si tenemos mucha) en el caso de que nos falte vitamina D3 y otras.
 - También tenían una **tierra de calidad, nutritiva**. Por esto estoy super contento de haber estado viviendo en Estonia y haber comida su [carne](https://grassfedbeef.eu/) porque es el suelo y césped de Estonia es mucho más nutritivo que en otros países.
 
-Esta tierra de calidad es el motivo principal de comer carne **de pasto** como fuente de nutrientes y no [plantas con sus antinutrientes y toxinas](https://pau.ninja/dieta-carnivora/#Antinutrientes_y_toxinas_de_las_plantas) (#201), ni tampoco carne de ganadería industrial.
+Esta tierra de calidad es el motivo principal de comer carne **de pasto** como fuente de nutrientes y no [plantas con sus antinutrientes y toxinas](./dieta-carnivora#Antinutrientes_y_toxinas_de_las_plantas) (#201), ni tampoco carne de ganadería industrial.
 
 No sólo por tener unas plantas que han sido modificadas genéticamente con el transcurso de decenas de generaciones, sino también por el hecho de la **pérdida de la calidad nutritiva del suelo**, al que ya entraremos otro día y es de vital importancia para la vida en el Planeta.
 
@@ -173,7 +146,7 @@ Esta comida ingeniosa está manipulada para jugar con nuestras hormonas, especia
 
 Lo que muchos no saben es que esta hormona también tiene una **enorme función inmune** para nuestro cuerpo serrano. No es casualidad que su nombre nos venga del griego «leptos» y signifique «delgado». Aunque una mejor traducción sería «s3xy».
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
 ¿Por qué sucede que cuando la leptina está elevada **no** tenemos hambre? la hormona le manda una señal a nuestro hipotálamo, nuestro cerebro, diciéndole a este señor (nuestro conductor) que tenemos suficiente **nutrición**.
 
@@ -185,7 +158,7 @@ Si cuando la leptina está alta nos sentimos saciados, no hace falta ser un Paqu
 
 ¿Quien es la creador de esta hormona? pues las células «paquirrinas». Las células grasas pero también las que tenemos en el intestino.
 
-Lo que nos pasa con la lectina es algo similar a la insulina (malditas hormonas saliéndose de madre). Si consumimos carbohidratos sin parar, nos jodemos la [flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/) y creamos resistencia a la insulina. Esto lo sabemos, ¿no? lo que sucede es que básicamente nuestros receptores cada vez son **menos sensibles** (resistentes) a estas señales de la insulina.
+Lo que nos pasa con la lectina es algo similar a la insulina (malditas hormonas saliéndose de madre). Si consumimos carbohidratos sin parar, nos jodemos la [flexibilidad metabólica](./flexibilidad-metabolica) y creamos resistencia a la insulina. Esto lo sabemos, ¿no? lo que sucede es que básicamente nuestros receptores cada vez son **menos sensibles** (resistentes) a estas señales de la insulina.
 
 Supongo que para ilustrarlo aún mejor podemos comprarlo con el café.
 
@@ -201,15 +174,15 @@ Fijaros que no nos interesa tener leptina «sólo» para sentirnos sin hambre, s
 
 Comiendo como deberíamos según nuestros ancestros más cavernícolas.
 
-Por ejemplo bajando el consumo de hidratos hasta [terminar con una dieta cetogénica](https://pau.ninja/dieta-cetogenica-ciclica/). O ponernos a [comer exclusivamente carne](https://pau.ninja/dieta-carnivora/)… que bueno, al fin y al cabo están en la misma categorías porque la carnívora también es una dieta cetogénica.
+Por ejemplo bajando el consumo de hidratos hasta [terminar con una dieta cetogénica](./dieta-cetogenica-ciclica/). O ponernos a [comer exclusivamente carne](https://pau.ninja/dieta-carnivora)… que bueno, al fin y al cabo están en la misma categorías porque la carnívora también es una dieta cetogénica.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
-O si alguien no quiero hacer algo tan… como lo llama la sociedad «extremo», siempre puede [experimentar con el ayuno intermitente](https://pau.ninja/ayuno-intermitente-experiencias/).
+O si alguien no quiero hacer algo tan… como lo llama la sociedad «extremo», siempre puede [experimentar con el ayuno intermitente](./ayuno-intermitente-experiencias).
 
 Yo he estado combinando todas estas cosas y de forma orgánica, de manera natural he terminado comiendo 1-2 veces al día.
 
-Eso sí, con un buen *plataco*.
+Eso sí, con un buen _plataco_.
 
 ¿Por qué? pues porque hormonalmente termino teniendo buenos niveles normales de saciedad y después de tiempo siguiendo estos protocolos **he dejado de tener hambre a todas horas**.
 
@@ -265,7 +238,7 @@ Lo que pasa es que los macronutrientes sólo son la cúspide de la ecuación.
 
 Esto es lo más difícil de identificar y encima podemos terminar comiendo una comida que realmente no nos hace falta. Confundiendo la señal de necesidad de una vitamina por un antojo.
 
-Por esto si llevamos semanas, meses o hemos adoptado como estilo de vida una dieta densa en nutrientes como podría ser [comer sólo carne](https://pau.ninja/dieta-carnivora/) como he estado haciendo yo, al cabo de un tiempo **los antojos van desapareciendo**.
+Por esto si llevamos semanas, meses o hemos adoptado como estilo de vida una dieta densa en nutrientes como podría ser [comer sólo carne](./dieta-carnivora) como he estado haciendo yo, al cabo de un tiempo **los antojos van desapareciendo**.
 
 ¿Por qué desaparecen? porque tenemos **menos deficiencias nutricionales**.
 
@@ -275,7 +248,7 @@ No es casualidad que el hígado de ternera de pasto, hueva de salmón, caldo de 
 
 Por esto ayuda a **comer comidas densas** en vitaminas como estas que acabo de decir para saber que llegaremos a las necesidades de nutrientes que tenemos, y después podemos seguir avanzando al resto de comida para buscar la saciedad tanto de grasas como proteínas. De los macronutrientes.
 
-Tanto las tribus de cazadores como el [hipotético humano ancestral carnívoro «factultativo»](https://pau.ninja/el-ser-humano-es-carnivoro/) del que ya hablamos (#194), siempre han puesto por delante:
+Tanto las tribus de cazadores como el [hipotético humano ancestral carnívoro «factultativo»](./el-ser-humano-es-carnivoro) del que ya hablamos (#194), siempre han puesto por delante:
 
 - Primero los órganos, por ser las partes más nutritivas.
 - Después las partes más grasas porque es donde hay la energía.
@@ -297,7 +270,7 @@ En un entorno de supervivencia, la naturaleza hizo que tengamos mucha **menos s
 
 ## Beneficios de comer una vez al día
 
-Los beneficios de comer una vez al día son los mismos que el [tipo de ayuno intermitente](https://pau.ninja/ayuno-intermitente-experiencias/#Tipos_y_maneras_de_hacer_un_ayuno_intermitente) prolongado de 24 horas porque es exactamente lo que es: un ayuno de un día entero.
+Los beneficios de comer una vez al día son los mismos que el [tipo de ayuno intermitente](./ayuno-intermitente-experiencias#Tipos_y_maneras_de_hacer_un_ayuno_intermitente) prolongado de 24 horas porque es exactamente lo que es: un ayuno de un día entero.
 
 Antes de ver qué comer y cómo hacerlo, repasemos porque querríamos hacerlo en primera instancia. ¿Por qué querríamos «sufrir» a diario? los beneficios tienen que ser… brutales si estamos dispuestos para pasar por este infierno, ¿no?
 
@@ -321,7 +294,7 @@ Si siempre tenemos estas reservas llenas, nuestra maquinaria no va a empezar a q
 
 ¿Y por qué querríamos usar las grasas como fuente principal en primera instancia? no es sólo bajar de peso. No todo el mundo quiere tener un cuerpo serrano como el mío.
 
-Queremos quemar grasas como fuente principal por todos los [beneficios de estar en cetosis](https://pau.ninja/dieta-cetogenica-ciclica/#Beneficios_de_la_dieta_cetogenica_segun_estudios_cientificos). Uno de los cuales es… bajar de peso.
+Queremos quemar grasas como fuente principal por todos los [beneficios de estar en cetosis](./dieta-cetogenica-ciclica#Beneficios_de_la_dieta_cetogenica_segun_estudios_cientificos). Uno de los cuales es… bajar de peso.
 
 ### Preservación de masa muscular
 
@@ -335,7 +308,7 @@ Por esto que comentábamos precisamente, porque el ayuno es uno de los estimulan
 
 Si lo pensamos desde un punto de vista evolutivo tiene todo el sentido del mundo porque los músculos son **la única herramientas que necesitamos** para cazar. Sin músculo no servimos para nada.
 
-![humanos-cazando](https://pau.ninja/wp-content/uploads/2021/10/humanos-cazando.jpeg)
+![humanos-cazando](./wp-content/uploads/2021/10humanos-cazando.jpeg)
 
 ¿Por qué la naturaleza nos privaría la única arma biológica que tenemos cuando no tenemos comida? es un sinsentido. No es casualidad tampoco de que los que ayunamos más de un día sintamos un «despertar mental».
 
@@ -352,7 +325,7 @@ Donde sí hay evidencia es en la multitud de estudios que van saliendo dando sop
 - **Proliferación celular:** en la que el anabolismo y catabolismo se balancean, creando un crecimiento equilibrado.
 - **Inflamación:** entre otras cosas inhibimos al factor nuclear kB ([NF-κB](http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0120-00112008000200006)) que son un complejo de proteínas que inflaman. Son los directores de orquesta de la inflamación.
 - **Mitocondrias:** os acordáis de ellas, ¿no? son las centrales nucleares dentro de las células. Con el ayuno prolongado hacemos que nuestra red de mitocondrias sea literalmente más joven.
-- **Autofagia:** las células se comen a ellas mismas. Se [van comiendo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990190/) a las células viejas y corrompidas de alrededor. Eso es bueno porque ordenamos la habitación que es nuestro cuerpo. Si tenemos algunas células cancerígenas, en vez de alimentarlas hacemos que las otras [se las coman](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6274804/). Un poco *gore* pero es que si se lo pedimos amablemente no se van…
+- **Autofagia:** las células se comen a ellas mismas. Se [van comiendo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2990190/) a las células viejas y corrompidas de alrededor. Eso es bueno porque ordenamos la habitación que es nuestro cuerpo. Si tenemos algunas células cancerígenas, en vez de alimentarlas hacemos que las otras [se las coman](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6274804/). Un poco _gore_ pero es que si se lo pedimos amablemente no se van…
 
 Y sólo estamos empezando con los beneficios de comer una vez al día en lo que hace la longevidad.
 
@@ -426,7 +399,7 @@ A ver, ese loco hipotético no se va a morir, pero lo pasará mal a nivel de ene
 
 ### Empezar con dieta cetogénica
 
-Un buen «truco» podría ser empezar [siguiendo una dieta cetogénica](https://pau.ninja/dieta-cetogenica-ciclica/). Hasta comiendo las mismas cantidades de veces, pero sacar ya los carbohidratos para que el cuerpo se ponga en estado de cetosis y eliminemos los carbohidratos.
+Un buen «truco» podría ser empezar [siguiendo una dieta cetogénica](./dieta-cetogenica-ciclica). Hasta comiendo las mismas cantidades de veces, pero sacar ya los carbohidratos para que el cuerpo se ponga en estado de cetosis y eliminemos los carbohidratos.
 
 Recordemos que esto es lo que hace un ayuno: crear cetonas. Oxidar las grasas para que se conviertan en la fuente de energía principal porque no tenemos hidratos y en cambio grasas tenemos de sobras. El apunte más importante que puedo hacer aquí sería recordar que:
 
@@ -466,15 +439,15 @@ En definitiva, lo hacemos para estar más sanos pero sobretodo en busca de liber
 
 > Así que, ¿qué comer en esta única comida diaria?
 
-Ahora entendemos como funciona la saciedad y el hambre, así que ahora toca ser más prácticos y seleccionar esos alimentos que no sólo nos aportarán los nutrientes que necesitamos, sino que encima **no interferirán en la absorción y biodisponibilidad**. Al contrario que pasa con los [antinutrientes y toxinas de las plantas](https://pau.ninja/dieta-carnivora/#Antinutrientes_y_toxinas_de_las_plantas).
+Ahora entendemos como funciona la saciedad y el hambre, así que ahora toca ser más prácticos y seleccionar esos alimentos que no sólo nos aportarán los nutrientes que necesitamos, sino que encima **no interferirán en la absorción y biodisponibilidad**. Al contrario que pasa con los [antinutrientes y toxinas de las plantas](./dieta-carnivora#Antinutrientes_y_toxinas_de_las_plantas).
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2021/10/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2021/10comic-longevidad.png)
 
 Vamos que ya os podéis imaginar por donde irán los tiros en la selección de alimentos.
 
 ¿Qué me aseguraría de incorporar?
 
-En resumen vendrían a ser los que ahora listo, pero puedes expandir en el por qué en mi [lista de los alimentos más sanos del mundo que incluyen la dieta perfecta](https://pau.ninja/alimentos-mas-sanos-del-mundo/).
+En resumen vendrían a ser los que ahora listo, pero puedes expandir en el por qué en mi [lista de los alimentos más sanos del mundo que incluyen la dieta perfecta](./alimentos-mas-sanos-del-mundo).
 
 ### Pescado y carne: a diario
 
@@ -491,3 +464,93 @@ El súper multivitamínico de la madre naturaleza.
 ### Agua de mar: diariamente
 
 No olvidar los electrolitos, mejor con agua de mar.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/comer-una-vez-al-dia/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14959,"title":"3%20pasos%20%2B%206%20beneficios%20de%20comer%20UNA%20vez%20al%20d%C3%ADa%20%E3%80%90Gu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/comiendo-de-un-bocado.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

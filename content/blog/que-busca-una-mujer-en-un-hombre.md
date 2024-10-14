@@ -1,13 +1,22 @@
 ---
-title: "Mercado sexual qué (no) buscan las mujeres en un hombre"
+title: "Mercado sexual"
+url: https://pau.ninja/que-busca-una-mujer-en-un-hombre
+slug: que-busca-una-mujer-en-un-hombre
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: masculinidad
+    label: Masculinidad
+  - slug: seduccion
+    label: Seducción
 image: hombre-seduciendo-a-mujer.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/03/hombre-seduciendo-a-mujer.jpeg
 published: 2024-01-26T07:32:19+00:00
 modified: 2024-01-26T08:10:53+00:00
+scrappedAt: 2024-10-14T09:19:39.217Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3
-slug: que-busca-una-mujer-en-un-hombre
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3](https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3)
 
 Aunque nos digan lo contrario, el mercado sexual está completamente guiado por nuestros instintos evolutivos.
@@ -16,7 +25,7 @@ Actualmente las sociedad moderna nos está dictando, casi obligando cómo tenemo
 
 Hay una parte que tiene sentido porque lógicamente no quieres normalizar violaciones (¿hasta que punto violaba el hombre prehistórico?). Pero como con todo lo que estamos haciendo, cogemos algo que tiene sentido y lo extrapolamos a un montón de comportamientos y pensamientos sin sentido que no podemos justificar.
 
-![meme cortejo histórico](https://pau.ninja/wp-content/uploads/2023/03/meme-cortejo-historico.jpeg)
+![meme cortejo histórico](./wp-content/uploads/2023/03meme-cortejo-historico.jpeg)
 
 Ahora te están diciendo que tienes que encontrar atractivo una mujer con obesidad mórbida. Porque sí. Porque lo dicen «ellos», cuando evolutivamente una persona gorda no encajaría en un contexto de tribu. Significaría que 1) hay un porrón de excedente de comida (lo cual nunca fue el caso en el pasado) o 2) es alguien que está engullendo toda la comida de la tribu en un entorno de escasez por lo tanto esta persona no duraría mucho en la tribu. Y mucho menos sería vista como atractiva.
 
@@ -30,37 +39,17 @@ Tanto los hombres como las mujeres tenemos un **Valor de Mercado Sexual Percibid
 
 Fíjate como en este valor, hemos utilizado la palabra “percibido”. Esto significa que a pesar de dar una imagen inicial de cierto valor **percibido**, esta percepción puede cambiar según el entorno, circunstancias y comportamiento.
 
-![infografía mercado sexual](https://pau.ninja/wp-content/uploads/2023/03/infografia-mercado-sexual.jpeg)
+![infografía mercado sexual](./wp-content/uploads/2023/03infografia-mercado-sexual.jpeg)
 
 Esto significa que **tu valor de mercado no es objetivo sino subjetivo** porque es relativo en cada individuo.
 
-Las mujeres buscan [hombres de alto valor](https://pau.ninja/hombre-de-alto-valor/) en el mercado sexual y los hombres buscamos mujeres de alto valor. La diferencia es que estos dos valores son distintos. Las mujeres buscan X y los hombres buscamos Z.
+Las mujeres buscan [hombres de alto valor](./hombre-de-alto-valor) en el mercado sexual y los hombres buscamos mujeres de alto valor. La diferencia es que estos dos valores son distintos. Las mujeres buscan X y los hombres buscamos Z.
 
 Te interesará saber que hice varios episodios sobre el cortejo (252, 256, 263, 267), y es que ahora que se acerca el buen tiempo, las hormonas, el libido se vuelve más fuerte que nunca. Una sensaciones de las que no nos tenemos que esconder, porque antes que una sociedad moderna, somos humanos.
 
 Hace unos años que aprendí un montón sobre como funciona este mundo gracias a mis amigos de Letonia y a Tom Torero, al que le dedico este episodio (…).
 
 Lo que vemos hoy, es lo que aprendí estos últimos años gracias a estos materiales. Lo que aprendí es que los hombres y mujeres expresamos este valor de forma distinta, pero ¿qué buscamos y cómo lo expresamos?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué atrae a los hombres de las mujeres](#Que_atrae_a_los_hombres_de_las_mujeres 'Qué atrae a los hombres de las mujeres')
-- [Qué atrae a las mujeres de los hombres](#Que_atrae_a_las_mujeres_de_los_hombres 'Qué atrae a las mujeres de los hombres')
-  - [Poder adscrito](#Poder_adscrito 'Poder adscrito')
-  - [Poder externo](#Poder_externo 'Poder externo')
-  - [Poder adquirido](#Poder_adquirido 'Poder adquirido')
-- [La testosterona atrae a las mujeres](#La_testosterona_atrae_a_las_mujeres 'La testosterona atrae a las mujeres')
-- [Monogamia y poligamia](#Monogamia_y_poligamia 'Monogamia y poligamia')
-- [Qué buscan las mujeres](#Que_buscan_las_mujeres 'Qué buscan las mujeres')
-  - [Por qué a las mujeres les gustan los hombres malos](#Por_que_a_las_mujeres_les_gustan_los_hombres_malos 'Por qué a las mujeres les gustan los hombres malos')
-  - [Por qué las mujeres son infieles](#Por_que_las_mujeres_son_infieles 'Por qué las mujeres son infieles')
-- [Qué buscan los hombres](#Que_buscan_los_hombres 'Qué buscan los hombres')
-  - [Por qué los hombres son infieles](#Por_que_los_hombres_son_infieles 'Por qué los hombres son infieles')
-- [De qué edad prefieren los hombres a las mujeres](#De_que_edad_prefieren_los_hombres_a_las_mujeres 'De qué edad prefieren los hombres a las mujeres')
-- [A qué edad maduran los hombres](#A_que_edad_maduran_los_hombres 'A qué edad maduran los hombres')
-- [Te han lavado el cerebro (a su favor)](#Te_han_lavado_el_cerebro_a_su_favor 'Te han lavado el cerebro (a su favor)')
 
 ## Qué atrae a los hombres de las mujeres
 
@@ -138,10 +127,10 @@ Las mujeres han desarrollado distintas formas (conscientes y subconscientes) par
 Una de estas herramientas más obvias que utilizan las mujeres es en un recursos biológico que no podemos trampear: la testosterona. Básicamente atributos adscritos que no podemos cambiar:
 
 - Cara simétrica
-- Buena mandíbula ([mandíbula marcada](https://pau.ninja/ejercicios-para-marcar-mandibula-hombres/))
+- Buena mandíbula ([mandíbula marcada](./ejercicios-para-marcar-mandibula-hombres))
 - Voz profunda
 - Bello facial
-- [Hombros 3D](https://pau.ninja/hombros-3d/) (bien anchos)
+- [Hombros 3D](./hombros-3d) (bien anchos)
 
 Esta prueba de **la testosterona es un marcador perfecto para determinar el valor** adscrito de un hombre porque de hecho, la testosterona es una hormona peligrosa en los primeros meses de desarrollo del feto. Esto significa que el niño que pueda sobrevivir a niveles elevados de testosterona es más «fuerte». Más «resiliente».
 
@@ -170,7 +159,7 @@ Esos animales que son totalmente poliamorosos empezarán a copular desde que son
 
 En los humanos esto está representado como el arquetipo de «amante alfa».
 
-![cómic chico entra a chica](https://pau.ninja/wp-content/uploads/2022/02/comic-chico-entra-a-chica.png)
+![cómic chico entra a chica](./wp-content/uploads/2022/02comic-chico-entra-a-chica.png)
 
 En cambio al otro aspecto tenemos estos animales monógamos que produce un pequeño número de crías pero ese tiempo que dedican a buscar una pareja es para asegurar que encuentran el mejor ADN. Para que estas pocas crías sean de el máximo de calidad.
 
@@ -237,7 +226,7 @@ De todas formas aunque haya estos dos espectros, creo que **todo hombre se benef
 
 Los hombres prefieren las mujeres entre los 18 y los 25 años que es cuando su valor percibido de mercado es más alto.
 
-![edad mujer de alto valor](https://pau.ninja/wp-content/uploads/2023/03/edad-mujer-de-alto-valor.jpeg)
+![edad mujer de alto valor](./wp-content/uploads/2023/03edad-mujer-de-alto-valor.jpeg)
 
 ¿Por qué? Porque son las edades donde las mujeres son más fértiles. Estamos hablando de una relación directa con la biología.
 
@@ -265,7 +254,7 @@ Recordemos que el valor percibido de mercado de las mujeres es dado por los homb
 
 Mientras que las mujeres entre 18 y 25 años están en su pico más alto de su valor, el valor de los hombres tarda más en llegar. Es muy frustrante para nosotros (sobretodo si no conoces todo este mercado) pero la parte positiva es que la pérdida de valor del hombre no cae en picado como le sucede a las mujeres.
 
-![mejores años de los hombres](https://pau.ninja/wp-content/uploads/2023/03/mejores-anos-de-los-hombres.jpeg)
+![mejores años de los hombres](./wp-content/uploads/2023/03mejores-anos-de-los-hombres.jpeg)
 
 Los hombres pasan la década de los 20 a los 30 amasando poder (externo & adquirido) poco a poco para después llegar a su pico entre los 35-45 (vamos a decir que a los 38 es cuando está el pico más alto).
 
@@ -285,7 +274,7 @@ Si nos fijamos, a la edad de 30 años ocurre algo que no vuelve a sucede en toda
 
 Una edad en la que la mujer se ha dado cuenta de su declive en la percepción de su valor sexual y el hombre se da cuenta que su valor empieza a subir.
 
-![mujer buscando hombres](https://pau.ninja/wp-content/uploads/2023/03/mujer-buscando-hombres.jpeg)
+![mujer buscando hombres](./wp-content/uploads/2023/03mujer-buscando-hombres.jpeg)
 
 Algunas mujeres se dan cuenta que empiezan a tener menos validación de los hombres en comparación de cuando tenían 24 años.
 
@@ -318,3 +307,94 @@ No es que salgan perdiendo, es que no se les optimiza la estrategia perfecta de 
 Otra de las manipulaciones de la sociedad para seguir una agenda que todos conocemos.
 
 Ahora que ya conocemos cual es el valor del hombre en el mercado sexual, más adelante veremos el concepto de «hombre de alto valor» para poder trabajar en el poder adquirido e incluso el externo.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Relaciones](./relaciones)  
+O si quieres ser más específico:[Masculinidad](./masculinidad/), [Seducción](https://pau.ninja/seduccion)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/que-busca-una-mujer-en-un-hombre/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":16988,"title":"3%20secretos%3A%20esto%20buscan%20las%20mujeres%20en%20un%20hombre","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/03\\/hombre-seduciendo-a-mujer.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

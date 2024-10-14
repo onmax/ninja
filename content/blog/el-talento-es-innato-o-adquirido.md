@@ -1,13 +1,18 @@
 ---
 title: "El mito de (no) tener talento innato"
+url: https://pau.ninja/el-talento-es-innato-o-adquirido
+slug: el-talento-es-innato-o-adquirido
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-con-atencion-deliberada.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/03/persona-con-atencion-deliberada.jpg
 published: 2024-04-02T04:03:06+00:00
 modified: 2024-08-10T19:38:58+00:00
+scrappedAt: 2024-10-14T09:19:31.284Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86719308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-14%2F377557797-44100-2-77cabaf8edd0c.mp3
-slug: el-talento-es-innato-o-adquirido
+bibliography: ["Van Hedger SC, Heald SLM, Nusbaum HC. Absolute pitch can be learned by some adults. PLoS One. 2019 Sep 24;14(9):e0223047. doi: 10.1371/journal.pone.0223047. PMID: 31550277; PMCID: PMC6759182.","Wikipedia Contributors. 2024. “Miguel Bezos.” Wikipedia. Wikimedia Foundation.","Rodrigues AC, Loureiro MA, Caramelli P. Musical training, neuroplasticity and cognition. Dement Neuropsychol. 2010 Oct-Dec;4(4):277-286. doi: 10.1590/S1980-57642010DN40400005. PMID: 29213699; PMCID: PMC5619060.","“Diccionario de Cáncer Del NCI.” 2024. Instituto Nacional Del Cáncer. Cancer.gov."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/86719308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-14%2F377557797-44100-2-77cabaf8edd0c.mp3](https://anchor.fm/s/98566448/podcast/play/86719308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-14%2F377557797-44100-2-77cabaf8edd0c.mp3)
 
 > El trabajo duro supera al talento cuando el talento no trabaja duro.
@@ -20,21 +25,21 @@ Me da igual si estamos hablando de un escalador, pianista, trader, gimnasta, esc
 
 En el libro _Peak_ (número uno) el autor Anders Ericsson revelaba con estudios y datos si hay un supuesto gen detrás de esta gente que llegan a sus picos en sus disciplinas.
 
-[![Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU2VuTTNRMUpHVjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTc3OQ=)](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)')
+[![Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU2VuTTNRMUpHVjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1OTUxNg=)](https://www.amazon.es/dp8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
 
-[Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)')
+[Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
 
-[Comprar en Amazon](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Peak: Secrets from the New Science of Expertise (English Edition)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWJFSkNRbWhaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTc3OQ=)](https://www.amazon.es/dp/B011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Peak: Secrets from the New Science of Expertise (English Edition)')
+[![Peak: Secrets from the New Science of Expertise (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWJFSkNRbWhaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1OTUxNg=)](https://www.amazon.es/dpB011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
 
-[Peak: Secrets from the New Science of Expertise (English Edition)](https://www.amazon.es/dp/B011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Peak: Secrets from the New Science of Expertise (English Edition)')
+[Peak: Secrets from the New Science of Expertise (English Edition)](https://www.amazon.es/dp/B011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
 
 El original
 
 8,54 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 - **Resumen del libro (PDF):** descarga bloqueada disponible sólo para [miembros](#unirse).
 
@@ -50,31 +55,21 @@ Me explico.
 
 Por ejemplo piensa en esas personas que tienen un tono/oído perfecto (son esas personas que saben cuál nota es cada sonido sin ninguna referencia musical), también se pensaba que era un talento innato. Con el que se nacía…
 
-Hasta que más tarde algunos estudios confirmaron como se podía entrenar este _perfect pitch_.[1](<javascript:void(0)>)Van Hedger SC, Heald SLM, Nusbaum HC. Absolute pitch can be learned by some adults. PLoS One. 2019 Sep 24;14(9):e0223047. doi: 10.1371/journal.pone.0223047. PMID: 31550277; PMCID: PMC6759182.
+Hasta que más tarde algunos estudios confirmaron como se podía entrenar este _perfect pitch_.[ref-1](#ref-1){.ref}
 
 > Entonces se argumenta que el verdadero don, es en realidad la habilidad de desarrollar lo que algunos confunden con «el don» (el arte, el talento que crees que alguien tiene).
 
 Desde los 90 los científicos se han ido dando cuenta que el cerebro, incluso los cerebros adultos, son mucho más flexibles de lo que nos creíamos inicialmente.
 
-Que todos tenemos **el don de la adaptabilidad**, como humanos que somos. [Aprender a aprender](https://pau.ninja/aprender-a-aprender/) (#454).
+Que todos tenemos **el don de la adaptabilidad**, como humanos que somos. [Aprender a aprender](./aprender-a-aprender) (#454).
 
 Aprender lo que sea, no es una manera de conseguir el potencial de cada uno sino más bien una manera de desarrollar este don.
 
 De crear nuestro propio potencial.
 
-O bueno, en este caso, nuestro [\_multi_potencial](https://pau.ninja/multipotencial/).
+O bueno, en este caso, nuestro [_multi_potencial](./multipotencial).
 
 La pregunta es: entonces, ¿cómo potenciamos _el don de la habilidad_?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [El talento no existe](#El_talento_no_existe 'El talento no existe')
-- [El poder de la práctica con propósito](#El_poder_de_la_practica_con_proposito 'El poder de la práctica con propósito')
-- [Proponerse una cosa con obstinación](#Proponerse_una_cosa_con_obstinacion 'Proponerse una cosa con obstinación')
-- [Adaptabilidad](#Adaptabilidad 'Adaptabilidad')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## El talento no existe
 
@@ -92,7 +87,7 @@ Y es que décadas más tarde se reveló, que el muy zorrudo componía piezas sec
 
 O también piensa en Mozart. Pensamos en él como un músico increíble, pero se omite la influencia de su padre. Un músico muy ambicioso.
 
-Jeff Bezos empezó Amazon en el garaje de sus padres… Pero ese garaje formaba parte de una casa de 6 millones de dólares porque su padre ya era un emprendedor multimillonario que además invirtió contundentemente en el proyecto de su hijo.[2](<javascript:void(0)>)Wikipedia Contributors. 2024. “Miguel Bezos.” Wikipedia. Wikimedia Foundation.
+Jeff Bezos empezó Amazon en el garaje de sus padres… Pero ese garaje formaba parte de una casa de 6 millones de dólares porque su padre ya era un emprendedor multimillonario que además invirtió contundentemente en el proyecto de su hijo.[ref-2](#ref-2){.ref}
 
 > Lo que _Peak_ nos viene a decir es que en el fondo el talento innato no existe, o más bien dicho, no crea una diferencia substancial.
 
@@ -112,7 +107,7 @@ También pensamos que tener un coeficiente intelectual alto te ayuda a aprender 
 
 En absoluto.
 
-¿Por qué? Pues porque el coeficiente intelectual sólo mide el potencial de éxito *académico*.
+¿Por qué? Pues porque el coeficiente intelectual sólo mide el potencial de éxito _académico_.
 
 Lo mismo ocurre con las habilidades visuoespaciales. La capacidad de poder manipular, representar o analizar con la mente los objetos.
 
@@ -152,7 +147,7 @@ Puedes ser externa (alguien que nos anima), o también funciona muy bien con la 
 
 > Una retroalimentación positiva interna es reforzada por el orgullo o incluso el ego de querer mejorarme a mí mismo como persona a través de ir mejorando en este proyecto con el que estoy actualmente.
 
-No es casualidad que para [entrar y alcanzar el estado de _flow_](https://pau.ninja/estado-de-flow/) (#483, #486), esta retroalimentación sea vital. Porque necesitamos un estado emocional positivo _retroalimentado_ para seguir avanzando.
+No es casualidad que para [entrar y alcanzar el estado de _flow_](./estado-de-flow) (#483, #486), esta retroalimentación sea vital. Porque necesitamos un estado emocional positivo _retroalimentado_ para seguir avanzando.
 
 Digo que esa retroalimentación es vital porque nos ayuda a evaluar lo que estamos haciendo. Si estamos progresando adecuadamente o no.
 
@@ -160,11 +155,11 @@ Como en la primaria.
 
 Por esto se vio que cuando los científicos probaron el mismo experimento de memorización pero con otro estudiante, este no recordó tan bien como Steve. ¿Por qué? Por un motivo interesante.
 
-Y es que el bueno de Steve tenía una *estructura de recuperación*.
+Y es que el bueno de Steve tenía una _estructura de recuperación_.
 
 ¿Qué significa esto? No es ningún talento especial, sino un sistema.
 
-Steve decidía con antelación qué [método para retener mejor la información](https://pau.ninja/como-retener-mejor-la-informacion/) (#588) iba a usar para memorizar las secuencias de números que se le daban en el experimento.
+Steve decidía con antelación qué [método para retener mejor la información](./como-retener-mejor-la-informacion) (#588) iba a usar para memorizar las secuencias de números que se le daban en el experimento.
 
 Porque intentarlo no es suficiente.
 
@@ -178,7 +173,7 @@ O sea que cuidado con proponerse una cosa con obstinación, porque el hecho de p
 
 Esto es porque nuestro cerebro se adapta al entrenamiento y la práctica de la misma forma que lo hacen los músculos.
 
-De hecho en algunos principios como la metodología de [_greasing the groove_ en la fuerza](https://pau.ninja/metodo-grease-the-groove/) (#362), veíamos y confirmábamos como **la fuerza es una habilidad** porque empieza en las conexiones neuronales que tenemos antes que en los músculos.
+De hecho en algunos principios como la metodología de [_greasing the groove_ en la fuerza](./metodo-grease-the-groove) (#362), veíamos y confirmábamos como **la fuerza es una habilidad** porque empieza en las conexiones neuronales que tenemos antes que en los músculos.
 
 Haciendo esas conexiones más eficientes, somos potencialmente más fuertes sin tener que recurrir a la parte física de la musculatura.
 
@@ -186,7 +181,7 @@ Es el cerebro que se adapta al entorno y a la práctica al que le sometemos. Alg
 
 - Los hipocampos posteriores de los taxistas, que son mucho más grandes que los de una persona promedio.
 - Los cerebros de personas ciegas y sordas se reconfiguran para encontrar nuevos usos para las partes no utilizadas.
-- Los músicos que comenzaron a tocar temprano tenían regiones cerebrales más grandes reclutadas para controlar las manos.[3](<javascript:void(0)>)Rodrigues AC, Loureiro MA, Caramelli P. Musical training, neuroplasticity and cognition. Dement Neuropsychol. 2010 Oct-Dec;4(4):277-286. doi: 10.1590/S1980-57642010DN40400005. PMID: 29213699; PMCID: PMC5619060.
+- Los músicos que comenzaron a tocar temprano tenían regiones cerebrales más grandes reclutadas para controlar las manos.[ref-3](#ref-3){.ref}
 
 Porque cuando practicamos algo lo suficiente, el cerebro reclutará las neuronas para ayudarnos a hacer el trabajo más eficientemente.
 
@@ -198,7 +193,7 @@ No lo están.
 
 Porque cambian en respuesta al uso que le damos.
 
-Por esto vemos como el ejercicio físico no sólo nos cambia físicamente sino también neuronalmente por el deseo del cuerpo de llegar a esta homeostasis.[4](<javascript:void(0)>)“Diccionario de Cáncer Del NCI.” 2024. Instituto Nacional Del Cáncer. Cancer.gov.
+Por esto vemos como el ejercicio físico no sólo nos cambia físicamente sino también neuronalmente por el deseo del cuerpo de llegar a esta homeostasis.[ref-4](#ref-4){.ref}
 
 Que es cuando empujas a tu cuerpo durante una actividad difícil, más allá de lo que los mecanismos homeostáticos (el estado de equilibrio del cuerpo) que no puedes compensar.
 
@@ -210,7 +205,7 @@ Las células activan distintos genes del ADN y te cambian. Para que ese sobreesf
 
 Es por esto que en los círculos de desarrollo personal se dice tanto esto de salir de la zona de confort.
 
-En el 99% de los casos los *influencers* lo repiten porque dicen que esto te hace mentalmente más fuerte o algo así, pero en realidad es por el mecanismo biológico de la homeostasis.
+En el 99% de los casos los _influencers_ lo repiten porque dicen que esto te hace mentalmente más fuerte o algo así, pero en realidad es por el mecanismo biológico de la homeostasis.
 
 Porque aprender cualquier habilidad nueva es mucho más efectivo a restructurar el cerebro que el simple hecho de practicar una habilidad que ya conoces.
 
@@ -231,23 +226,3 @@ Imaginaros a niños descubriendo, que su potencial en cualquier cosa, puede conv
 Haciendo posibles ciertas acciones y éxitos que antes eran imposibles. Especialmente psicológicamente.
 
 > Porque en realidad, la práctica de aquello que ponemos atención con propósito, lo que hará, no es ayudarnos a alcanzar nuestro potencial, sino construirlo.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Van Hedger SC, Heald SLM, Nusbaum HC. Absolute pitch can be learned by some adults. PLoS One. 2019 Sep 24;14(9):e0223047. doi: 10.1371/journal.pone.0223047. PMID: 31550277; PMCID: PMC6759182.
-
-- 2
-
-  Wikipedia Contributors. 2024. “Miguel Bezos.” Wikipedia. Wikimedia Foundation.
-
-- 3
-
-  Rodrigues AC, Loureiro MA, Caramelli P. Musical training, neuroplasticity and cognition. Dement Neuropsychol. 2010 Oct-Dec;4(4):277-286. doi: 10.1590/S1980-57642010DN40400005. PMID: 29213699; PMCID: PMC5619060.
-
-- 4
-
-  “Diccionario de Cáncer Del NCI.” 2024. Instituto Nacional Del Cáncer. Cancer.gov.

@@ -1,14 +1,19 @@
 ---
-title: "Activo en la cama, pero pasivo en la inversión Guía de los mejores fondos indexados de 2024"
+title: "Activo en la cama, pero pasivo en la inversión"
+url: https://pau.ninja/fondos
+slug: fondos
+categories: 
+- slug: dinero
+    label: 💰 Dinero
 image: inversion-con-movil.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2019/01/inversion-con-movil.jpg
 published: 2019-01-03T14:46:00+00:00
 modified: 2023-09-29T05:46:38+00:00
+scrappedAt: 2024-10-14T09:21:40.861Z
 audioLink: https://www.ivoox.com/activo-cama-pero-pasivo-la_md_60836174_wp_1.mp3
-slug: fondos
+bibliography: ["– edad que tengo = **% de renta variable**"]
 ---
-
-[https://www.ivoox.com/activo-cama-pero-pasivo-la_md_60836174_wp_1.mp3](https://www.ivoox.com/activo-cama-pero-pasivo-la_md_60836174_wp_1.mp3)
+[https://www.ivoox.com/activo-cama-pero-pasivo-la\_md\_60836174\_wp\_1.mp3](https://www.ivoox.com/activo-cama-pero-pasivo-la_md_60836174_wp_1.mp3)
 
 Vamos a ver como invertir en fondos indexados **de 0 a 100**.
 
@@ -26,7 +31,7 @@ No hace falta que prepares la vaselina porque no voy a intentar venderte absolut
 
 La estrategia es muy sencilla: meterse en fondos indexados es **invertir en todo el mercado** mundial. Seguir la corriente de **toda** la economía de la Tierra.
 
-![yo y los mercados](https://pau.ninja/wp-content/uploads/2019/01/yo-y-los-mercados.jpg)
+![yo y los mercados](./wp-content/uploads/2019/01yo-y-los-mercados.jpg)
 
 Lo hago así porque la historia nos demuestra que desde que se creó la bolsa… El mercado **siempre** ha subido. Los [datos](https://www.forbes.com/sites/bryanrich/2016/02/29/warren-buffett-explains-why-over-time-stocks-go-up/) no fallan.
 
@@ -36,7 +41,7 @@ Es verdad que bajó el mercado, pero sólo **temporalmente**. En todas las que h
 
 Yo estoy hablando de que siempre ha subido al **largo plazo** y me despreocupo totalmente del corto-medio plazo.
 
-![histórico de mercados](https://pau.ninja/wp-content/uploads/2019/01/historico-de-mercados.jpg)
+![histórico de mercados](./wp-content/uploads/2019/01historico-de-mercados.jpg)
 
 Sólo hace falta mirar una gráfica y veremos como esas crisis económicas que parecen tan destructivas, a penas suponen un bajoncito en un gráfico de décadas de la bolsa haciendo zoom out. En este ejemplo tenemos la bolsa estadunidense.
 
@@ -45,34 +50,6 @@ Así que la premisa es que **si puedo seguir la misma estrategia** (que ahora v
 Claro que este es un plan que sólo funciona si no planeo jubilarme hasta dentro de varias décadas.
 
 Vamos a ver cómo indexarnos, pero empezamos de cero para entender bien los conceptos.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Por qué invertir](#Por_que_invertir 'Por qué invertir')
-- [Por qué invertir en fondos de inversión](#Por_que_invertir_en_fondos_de_inversion 'Por qué invertir en fondos de inversión')
-- [Por qué invertir en fondos de gestión pasiva](#Por_que_invertir_en_fondos_de_gestion_pasiva 'Por qué invertir en fondos de gestión pasiva')
-  - [Qué fondos de inversión elegir](#Que_fondos_de_inversion_elegir 'Qué fondos de inversión elegir')
-  - [Qué fondos de inversión son mejores](#Que_fondos_de_inversion_son_mejores 'Qué fondos de inversión son mejores')
-- [Qué es un fondo de inversión indexado](#Que_es_un_fondo_de_inversion_indexado 'Qué es un fondo de inversión indexado')
-  - [Qué tipos de fondos indexados hay](#Que_tipos_de_fondos_indexados_hay 'Qué tipos de fondos indexados hay')
-  - [Maneras de invertir en fondos indexados](#Maneras_de_invertir_en_fondos_indexados 'Maneras de invertir en fondos indexados')
-  - [Cómo invertir en fondos indexados](#Como_invertir_en_fondos_indexados 'Cómo invertir en fondos indexados')
-- [Invertir en fondos indexados con robo advisor](#Invertir_en_fondos_indexados_con_robo_advisor 'Invertir en fondos indexados con robo advisor')
-  - [Qué robo advisor es mejor](#Que_robo_advisor_es_mejor 'Qué robo advisor es mejor')
-- [Crear mi cartera de fondos](#Crear_mi_cartera_de_fondos 'Crear mi cartera de fondos')
-- [Cartera VS robo advisors](#Cartera_VS_robo_advisors 'Cartera VS robo advisors')
-  - [Fondos de Renta Variable y Renta Fija](#Fondos_de_Renta_Variable_y_Renta_Fija 'Fondos de Renta Variable y Renta Fija')
-  - [Ingresar dinero a los fondos indexados](#Ingresar_dinero_a_los_fondos_indexados 'Ingresar dinero a los fondos indexados')
-  - [Rebalancear cartera de indexados](#Rebalancear_cartera_de_indexados 'Rebalancear cartera de indexados')
-- [Mi estrategia de fondos indexados](#Mi_estrategia_de_fondos_indexados 'Mi estrategia de fondos indexados')
-- [Preguntas frecuentes...](#Preguntas_frecuentes 'Preguntas frecuentes...')
-  - [¿Cada cuándo voy poniendo dinero al fondo?](#%C2%BFCada_cuando_voy_poniendo_dinero_al_fondo '¿Cada cuándo voy poniendo dinero al fondo?')
-  - [TER en fondos de inversión?](#TER_en_fondos_de_inversion 'TER en fondos de inversión?')
-  - [Impuestos de fondos indexados](#Impuestos_de_fondos_indexados 'Impuestos de fondos indexados')
-- [Mis opiniones sobre los fondos indexados](#Mis_opiniones_sobre_los_fondos_indexados 'Mis opiniones sobre los fondos indexados')
-- [Actualización de 2024](#Actualizacion_de_year 'Actualización de 2024')
 
 ## Por qué invertir
 
@@ -92,7 +69,7 @@ Si algún día, en el mundo de _yupi_ te topas con algún depósito bancario que
 
 En esas épocas cuando el cine costaba 25 pesetas.
 
-![combatiendo inflación](https://pau.ninja/wp-content/uploads/2020/10/combatiendo-inflacion.png)
+![combatiendo inflación](./wp-content/uploads/2020/10combatiendo-inflacion.png)
 
 Y es que ya estarás familiarizado con la inflación. ¿Qué es este concepto? Pues básicamente que las cosas **van subiendo de precio un 2-3% de media** cada año. O lo que es lo mismo: el dinero _fiat_ (euros, dólares) pierden valor a medida que pasa el tiempo.
 
@@ -120,7 +97,7 @@ Cada uno pone 1.000€ y terminamos con un total de 10.000€.
 
 Decidimos invertirlo así porque vamos a pagar las comisiones del _broker_ (un tercero que nos mueve el dinero y que es necesario) **sólo una vez, y no diez**.
 
-![listo](https://pau.ninja/wp-content/uploads/2019/01/listo.jpg)
+![listo](./wp-content/uploads/2019/01listo.jpg)
 
 Con este reloj de oro seguro que se ha metido en fondos de inversión.
 
@@ -141,7 +118,7 @@ Vale, tenemos diversificación y simplicidad. Vendido, pero aquí nos encontramo
 
 ¿Qué tipo de fondo es mejor entonces?
 
-Ahora los definiremos, pero os puedo hacer un poco de *spoiler* y decir que los de gestión **activa** son los que **siempre** nos intenta vender el gestor del banco… Y el de gestión pasiva son los indexados.
+Ahora los definiremos, pero os puedo hacer un poco de _spoiler_ y decir que los de gestión **activa** son los que **siempre** nos intenta vender el gestor del banco… Y el de gestión pasiva son los indexados.
 
 Vaya, vaya. Me pregunto si esos son los buenos…
 
@@ -180,7 +157,7 @@ Así que lo que quiero es simplemente **invertir en todo**. Pero no nos adelante
 
 **Respuesta rápida**: en fondos indexados o fondos cotizados (ETF) de bajo coste que sigan al mercado y me permitan olvidarme completamente de mi cuenta. Aportando lo que pueda de forma automatizada, y que por lo tanto me ayude a no tocar mi cuenta para no querer «gestionar» mi fondo.
 
-Vale. A parte de los *papers* anteriores que nos han hecho ver porque la **gestión activa** se la pueden meter por el culete los bancos, nos encontramos que hay varios fondos de inversión.
+Vale. A parte de los _papers_ anteriores que nos han hecho ver porque la **gestión activa** se la pueden meter por el culete los bancos, nos encontramos que hay varios fondos de inversión.
 
 Tenemos:
 
@@ -201,7 +178,7 @@ Yo tengo los dos.
 
 Recordar que los ETF están en la bolsa como si se comprara una acción, pero el valor de esa acción equivale a cientos de empresas. Por su lado los fondos se compran por «cestas» o «posiciones».
 
-Esta primera opción (fondos cotizados) la vamos a dejar para más adelante porque la mayoría de los que me seguís sois residentes en España… No es que os espíe. Lo hacen las *cookies* del blog, podcast y boletín.
+Esta primera opción (fondos cotizados) la vamos a dejar para más adelante porque la mayoría de los que me seguís sois residentes en España… No es que os espíe. Lo hacen las _cookies_ del blog, podcast y boletín.
 
 Así que vamos a entrar en los indexados y hacer una cartera **pasiva** que nos pague una jubilación porque ya os adelanto que el gobierno no lo hará.
 
@@ -224,7 +201,7 @@ Aquí está lo dulce que os comentaba. A largo plazo los mercados **mundiales** 
 
 Este fondo lo aprovecha, **comprando todas las empresas posible** en proporción del estado del índice.
 
-![historico Vanguard Global Stock Index](https://pau.ninja/wp-content/uploads/2019/01/historico-Vanguard-Global-Stock-Index.jpg)
+![historico Vanguard Global Stock Index](./wp-content/uploads/2019/01historico-Vanguard-Global-Stock-Index.jpg)
 
 Histórico de Vanguard Global Stock Index, que replica los índices mundiales. Es decir, un fondo que compra toda la bolsa mundial.
 
@@ -233,8 +210,6 @@ El resultado es un rendimiento muy parecido a los mercados en general. Se puede 
 O en otras palabras, si la economía mundial sube **también lo hará nuestra cartera** de inversión. Si baja, pues al fondo que nos iremos con ella.
 
 ¿Aún con dudas? Te lo explico un poco más a fondo en este vídeo.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Cuéntame más Pau. Pues aquí voy.
 
@@ -295,7 +270,7 @@ Las más populares en España son Vanguard, Amundi y Pictet.
 
 Si os dan a elegir yo simplemente miraría que sea una gestora con **años de recorrido**, pero sobretodo… con comisiones lo más bajas posibles.
 
-La opción más popular ahora mismo si se puede elegir es Vanguard. Es lo *mainstream*.
+La opción más popular ahora mismo si se puede elegir es Vanguard. Es lo _mainstream_.
 
 #### Razón 1: Vanguard es casi filantrópicos
 
@@ -305,7 +280,7 @@ Y es que cuando se compran acciones en un fondo de inversión, se es dueño de e
 
 Que no hay intereses externos.
 
-![bueno](https://pau.ninja/wp-content/uploads/2019/01/bueno.jpg)
+![bueno](./wp-content/uploads/2019/01bueno.jpg)
 
 Las decisiones de negocios son hechas por los clientes de Vanguard, y que los beneficios se distribuyen con el menor número de comisiones.
 
@@ -339,7 +314,7 @@ Por esto tenemos 3 opciones:
 
 **Conclusión rápida**: ideales para los que buscan automatización y forzarse a no mirar las gráficas al largo plazo. Es donde tengo yo la mayoría de mis ahorros actualmente y utilizo [Indexa Capital](#Que_robo_advisor_es_mejor).
 
-Los *robo advisor* son **gestores automáticos**. No es que sea un robot que decida dónde invertir y no tiene nada que ver con inteligencia artificial.
+Los _robo advisor_ son **gestores automáticos**. No es que sea un robot que decida dónde invertir y no tiene nada que ver con inteligencia artificial.
 
 Hay un comité asesor para definir la estrategia de inversión a largo plazo. Lo que es automático son las ejecuciones de las operaciones.
 
@@ -381,14 +356,14 @@ A modo de resumen te puedo decir los motivos:
 
 - Su atención al cliente es simplemente genial.
 - Utilizan fondos indexados **Vanguard** en las carteras para sus clientes.
-- Llevan la batuta de los *robo advisors*. Cuando anuncian que bajan los precios de comisiones (ya lo han hecho [varias veces](https://blog.indexacapital.com/historico-bajadas-comisiones/)) entonces los otros *robo* deciden que casualmente también las van a bajar.
+- Llevan la batuta de los _robo advisors_. Cuando anuncian que bajan los precios de comisiones (ya lo han hecho [varias veces](https://blog.indexacapital.com/historico-bajadas-comisiones/)) entonces los otros _robo_ deciden que casualmente también las van a bajar.
 - Han crecido mucho en los últimos meses, un buen indicador de continuidad. De hecho son el [único rentable](https://blog.indexacapital.com/2019/10/09/llegamos-rentabilidad-bajamos-comisiones/) en toda Europa.
 - Tienen un blog super bien documentado en cuanto a estudios y conocimientos de finanzas e inversión. Se nota que hay unos buenos expertos detrás.
 - Conocí en persona a uno de sus fundadores, [François Derbaix](https://twitter.com/fderbaix) en Barcelona que además nos ha hecho algún webinar alguna vez para la [comunidad de inversores](#comunidad).
 
-No se tiene porque elegir Indexa, específicamente, yo simplemente he encontrado el mejor en calidad-precio. Pero lo que predico no es tanto este *robo advisor* específicamente pero **en general**. Porque son geniales para los que se quieren despreocupar totalmente y dejar que esta **estrategia a largo plazo** sea efectiva.
+No se tiene porque elegir Indexa, específicamente, yo simplemente he encontrado el mejor en calidad-precio. Pero lo que predico no es tanto este _robo advisor_ específicamente pero **en general**. Porque son geniales para los que se quieren despreocupar totalmente y dejar que esta **estrategia a largo plazo** sea efectiva.
 
-La ventaja principal para mi es que me incentiva a mirarlo menos y eso, como hemos visto en los *papers* de los que se olvidan o mueren, es mucho más efectivo que ir entrando en la cuenta y cambiar nuestros patrones de compra de los fondos.
+La ventaja principal para mi es que me incentiva a mirarlo menos y eso, como hemos visto en los _papers_ de los que se olvidan o mueren, es mucho más efectivo que ir entrando en la cuenta y cambiar nuestros patrones de compra de los fondos.
 
 Algo que al principio decimos que no haremos… Hasta que lo hacemos.
 
@@ -397,17 +372,17 @@ Lo he vivido.
 Pero hay personas que optan para hacerse su cartera y comprar los fondos de forma manual. Yo tengo las dos opciones para manejar el patrimonio de forma más eficiente en cuanto a fiscalidad, así que tengo:
 
 - Indexa: a nivel personal.
-- [Mi cartera](https://pau.ninja/cartera): para invertir los excedentes [de la sociedad que tengo montada en Estonia](https://pau.ninja/estonia).
+- [Mi cartera](./cartera): para invertir los excedentes [de la sociedad que tengo montada en Estonia](https://pau.ninjaestonia).
 
 ## Crear mi cartera de fondos
 
-Vale. Ya hemos visto la opción de *robo advisor*, ahora toca ver como montarse una cartera.
+Vale. Ya hemos visto la opción de _robo advisor_, ahora toca ver como montarse una cartera.
 
 También es muy sencillo, pero si que estar más encima. Al menos una vez al mes, que parece poco pero cada vez que entramos nos hace más susceptible a tocarlo.
 
 Para crear la cartera necesitamos **encontrar un _broker_** para ingresar el dinero. Cuando nos registramos, nos dan una cuenta bancaria que será la que usaremos para «recargar» nuestras inversiones.
 
-¿Qué *brokers* tenemos en la actualidad?
+¿Qué _brokers_ tenemos en la actualidad?
 
 - [MyInvestor](https://myinvestor.es/): hace relativamente poco que ha aterrizado en España. Es un [producto de Andbank](https://www.europapress.es/economia/finanzas-00340/noticia-myinvestor-participada-andbank-convierte-fintech-mas-grande-espana-20200710175203.html) (banco de Andorra) y no tiene comisiones así que ahora mismo es lo que cogería yo si me hiciera la cartera.
 - [Renta 4](https://www.r4.com/): banco que se especializa en inversión. Los llamé en su oficina de Barcelona y me dijeron que necesitaba un mínimo 100.000€ y cobraban un 0,25% de comisión de custodia que es un pago anual **del dinero que tengo**. Es decir que si tuviera esos 100.000€ me cobrarían 250€ sólo por tenerlo con ellos.
@@ -420,13 +395,13 @@ A día de hoy en 2024, en España nos lo han ido poniendo cada vez más difícil
 
 ¿Por qué es tan difícil encontrar un broker que nos lleve la pasta a un fondo Vanguard? porque **no ganan nada con ellos**. Por esto hay mínimos de 100.000€.
 
-![no estoy seguro](https://pau.ninja/wp-content/uploads/2019/01/no-estoy-seguro.jpg)
+![no estoy seguro](./wp-content/uploads/2019/01no-estoy-seguro.jpg)
 
 Si me hago yo la cartera el coste será de aproximadamente **0,30% en comisiones** de los propios fondos. Aunque me tengo que preocupar de a qué fondos me pongo y de rebalancear (más abajo explico).
 
 Si alguien se va a hacer la cartera él mismo yo diría MyInvestor, pero si alguien quiere pagar algo más de comisiones (igualmente sale a muy poco comparado con los bancos), diría [invertir con _robo advisors_](#Invertir_en_fondos_indexados_con_robo_advisor) y despreocuparse de mirar los gráficos.
 
-## Cartera VS *robo advisors*
+## Cartera VS _robo advisors_
 
 A algunos ninjas de la vida como yo, nos gusta sentir que tenemos control sobre algo, pero a la vez entendemos que no sabemos todo lo que se tiene que saber.
 
@@ -445,7 +420,7 @@ Al abrir una cuenta en Indexa Capital (con 10.000€ que nos gestionan de gratis
 
 Me salió un portfolio de riesgo 9/10. Significa que soy un jovenzuelo que piensa en el largo plazo y es resistente si un día que todo está en negativo.
 
-![cartera de indexa capital](https://pau.ninja/wp-content/uploads/2019/01/cartera-de-indexa-capital.jpg)
+![cartera de indexa capital](./wp-content/uploads/2019/01cartera-de-indexa-capital.jpg)
 
 La cartera que el robo advisor me generó de manera automática. Me encanta que cuatro de cinco sean Vanguard.
 
@@ -456,7 +431,7 @@ Con esto de lo único de lo que me tengo que preocupar hoy día es de ir poniend
 Se acostumbra a calcular que % va a cada cosa con la siguiente operación:
 
 - Edad que tengo – 10 = **% de renta fija**
-- 110 – edad que tengo = **% de renta variable**
+- 110 
 
 Pero como no quiero preocuparme hasta dentro de muchos años (¿10, 20 o 30?), una buena idea sería poner muy pocos bonos (10-20%) en bonos y la gran mayoría (80-90%) en acciones.
 
@@ -466,7 +441,7 @@ Como se puede ver, haciendo yo la cartera es un poco más engorroso para elegir 
 
 ### Ingresar dinero a los fondos indexados
 
-- Con [_robo advisors_](#Invertir_en_fondos_indexados_con_robo_advisor): sólo tengo que preocuparme de hacer una transferencia (hasta automatizarla) a la cuenta bancaria que me da el *robo* y cuando se recibe, se distribuye automáticamente en los porcentajes de Renta Fija y Variable asignados.
+- Con [_robo advisors_](#Invertir_en_fondos_indexados_con_robo_advisor): sólo tengo que preocuparme de hacer una transferencia (hasta automatizarla) a la cuenta bancaria que me da el _robo_ y cuando se recibe, se distribuye automáticamente en los porcentajes de Renta Fija y Variable asignados.
 - Haciendo yo [la cartera](#Crear_mi_cartera_de_indexados): una vez hecha la transferencia, tengo que asignar los fondos de manera manual.
 
 ### Rebalancear cartera de indexados
@@ -488,7 +463,7 @@ Resulta que la primera sube, pero la segunda baja y me queda así:
 
 En este caso, 90% y 10%. En el ejemplo no lo sé pero quería poner números fáciles.
 
-![cartera indexados](https://pau.ninja/wp-content/uploads/2018/01/cartera-indexados.jpg)
+![cartera indexados](./wp-content/uploads/2018/01cartera-indexados.jpg)
 
 Una buena idea es hacerse su propia hoja de excel para controlar los balances. Aquí un ejemplo.
 
@@ -502,7 +477,7 @@ Y bualá.
 
 ## Mi estrategia de fondos indexados
 
-- Ahorros en *robo advisors*.
+- Ahorros en _robo advisors_.
 - Dinero de empresa en mi cartera.
 - Ingresar un poco cada mes y de forma automática.
 - Olvidarme completamente de la cuenta y ni entrar a mirarla.
@@ -525,7 +500,7 @@ Mi idea es tener pasta ahí metida lo antes posible para aprovechar la curva que
 
 ### TER en fondos de inversión?
 
-El TER son las siglas de *Total Expense Ratio*. Viene a indicar el dinero que va destinado a gastos en esa inversión. Incluye todo tipo de costes: impuestos, comisión, etc.
+El TER son las siglas de _Total Expense Ratio_. Viene a indicar el dinero que va destinado a gastos en esa inversión. Incluye todo tipo de costes: impuestos, comisión, etc.
 
 ### Impuestos de fondos indexados
 
@@ -546,8 +521,6 @@ Te puede interesar [leer mi blog de economía liberal](https://capitalista.ninja
 
 Y en caso de dudas al respecto, puedes ver este vídeo rápido.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 No hace falta decir que **me lavo las manos** y no soy profesional. Por lo que todo lo que escribo aquí es meramente documental y en ningún caso doy consejos financieros. Ni siquiera recomendaciones para otras personas. Cada uno es responsable de sus acciones e informarse como es debido.
 
 ## Actualización de 2024
@@ -556,3 +529,88 @@ No hace falta decir que **me lavo las manos** y no soy profesional. Por lo que t
 
 - Sí, pero sólo si crees en como funciona el sistema monetario actual.
 - No es mi caso, es por esto que he decidido **sólo** [invertir en Bitcoin](https://pau.ninja/invertir) a partir de ahora.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [💰 Dinero](./dinero)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/fondos/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":3609,"title":"5%20mejores%20%2B%202%20secretos%20de%20los%20fondos%20INDEXADOS","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2019\\/01\\/inversion-con-movil.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

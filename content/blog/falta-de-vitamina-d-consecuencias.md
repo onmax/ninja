@@ -1,24 +1,29 @@
 ---
-title: "Falta de vitamina D: la mentira de un error malintencionado Las consecuencias de su deficiencia"
+title: "Falta de vitamina D: la mentira de un error malintencionado"
+url: https://pau.ninja/falta-de-vitamina-d-consecuencias
+slug: falta-de-vitamina-d-consecuencias
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-con-falta-de-vitamina-d.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/06/persona-con-falta-de-vitamina-d.jpeg
 published: 2022-06-21T06:18:14+00:00
 modified: 2024-02-07T15:01:19+00:00
+scrappedAt: 2024-10-14T09:20:37.130Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54626959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F308783cb-11c0-2c96-7fe2-e8bdb3314d13.mp3
-slug: falta-de-vitamina-d-consecuencias
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/54626959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F308783cb-11c0-2c96-7fe2-e8bdb3314d13.mp3](https://anchor.fm/s/98566448/podcast/play/54626959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F308783cb-11c0-2c96-7fe2-e8bdb3314d13.mp3)
 
 El entorno en el que nos movemos, este entorno creado por esa mezcla de sociedad, cultura y medios, es perfecto para ponernos enfermos.
 
 Pasando la mayor parte del día encerrados, sin movernos demasiado, con comida de mi3rda, siendo fulminados con exposición constante a radiaciones, con exposición al sol casi nula, es decir, sin vitamina D, que es crucial por funciones inmunitarias y la prevención de enfermedades.
 
-No estamos produciendo antioxidantes a través del ejercicio y nuestras dietas son deficientes nutricionalmente para reparar tejidos. Añadimos también el estrés celular y [otros efectos de la ondas electromagnéticas](https://pau.ninja/efectos-ondas-electromagneticas/) (que no es ningún cuento chino).
+No estamos produciendo antioxidantes a través del ejercicio y nuestras dietas son deficientes nutricionalmente para reparar tejidos. Añadimos también el estrés celular y [otros efectos de la ondas electromagnéticas](./efectos-ondas-electromagneticas) (que no es ningún cuento chino).
 
 Podemos coger cada una de estas cosas y centrarnos en mejorarlas, y es irónico porque lo más relevante e importante para nuestra salud que podríamos hacer ahora mismo es muy pasivo. Es tan simple como no estar siempre dentro. Sal ahí fuera a que te toque el sol. Tanto sol como puedas en tantas partes del cuerpo como puedas.
 
-¿Que vas a mirar una serie o mirar *reels* de Instagram? hazlo, pero hazlo fuera. ¿Pasivo? sin duda. ¿Simple? ya no tanto.
+¿Que vas a mirar una serie o mirar _reels_ de Instagram? hazlo, pero hazlo fuera. ¿Pasivo? sin duda. ¿Simple? ya no tanto.
 
 Hay ciertos periodos del año y ciertas horas del día donde podemos obtener más vitamina D, pero el foco de hoy es… ¿por qué digo que tomar el sol es la acción más importante que podemos hacer?
 
@@ -28,31 +33,11 @@ Y que casualidad. Tenemos un porrón de estudios demostrando el rol de la vitami
 
 No quiero decir que esto sea hecho a propósito para generar beneficio farmacéutico… (…), pero hay un estudio que revela que estas recomendaciones oficiales de vitamina D, están basadas en un [error estadístico](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/).
 
-![estudio error vitamina d](https://pau.ninja/wp-content/uploads/2022/06/estudio-error-vitamina-d.jpg)
+![estudio error vitamina d](./wp-content/uploads/2022/06estudio-error-vitamina-d.jpg)
 
 ¿Queréis escuchar otra casualidad? que no hemos escuchado este descubrimiento por ninguna parte, y la recomendación oficial de 600 IU se ha movido menos que mi alopecia.
 
 Así es, la importancia de la vitamina D ha estado más oculta que mi pelo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es la vitamina D](#Que_es_la_vitamina_D 'Qué es la vitamina D')
-  - [Enfermedades por falta de vitamina D](#Enfermedades_por_falta_de_vitamina_D 'Enfermedades por falta de vitamina D')
-  - [Síntomas de la falta de vitamina D](#Sintomas_de_la_falta_de_vitamina_D 'Síntomas de la falta de vitamina D')
-  - [Exceso de vitamina D](#Exceso_de_vitamina_D 'Exceso de vitamina D')
-  - [Para qué sirve la vitamina D](#Para_que_sirve_la_vitamina_D 'Para qué sirve la vitamina D')
-  - [Dónde se encuentra la vitamina D](#Donde_se_encuentra_la_vitamina_D 'Dónde se encuentra la vitamina D')
-- [Vitamina D necesaria al día](#Vitamina_D_necesaria_al_dia 'Vitamina D necesaria al día')
-  - [Niveles de vitamina D recomendados](#Niveles_de_vitamina_D_recomendados 'Niveles de vitamina D recomendados')
-- [La relación entre calcio y vitamina D](#La_relacion_entre_calcio_y_vitamina_D 'La relación entre calcio y vitamina D')
-- [Pasos para conseguir y aumentar la vitamina D](#Pasos_para_conseguir_y_aumentar_la_vitamina_D 'Pasos para conseguir y aumentar la vitamina D')
-- [Alimentos ricos en vitamina D](#Alimentos_ricos_en_vitamina_D 'Alimentos ricos en vitamina D')
-  - [Pescado](#Pescado 'Pescado')
-  - [Foca y caribú](#Foca_y_caribu 'Foca y caribú')
-  - [Leche cruda](#Leche_cruda 'Leche cruda')
-  - [Pastillas y suplementos](#Pastillas_y_suplementos 'Pastillas y suplementos')
 
 ## Qué es la vitamina D
 
@@ -93,7 +78,7 @@ La naturaleza es sabia, gente.
 
 ### Para qué sirve la vitamina D
 
-La vitamina D es liposoluble, lo que significa que [necesitamos tener buenas grasas saturadas](https://pau.ninja/grasas-saturadas-son-buenas/) en el cuerpo para que se absorba. Está involucrada en montones de procesos del cuerpo: desde la retención y metabolismo del calcio y los minerales, beneficios cognitivos, inmunitarios, la salud de las células…
+La vitamina D es liposoluble, lo que significa que [necesitamos tener buenas grasas saturadas](./grasas-saturadas-son-buenas) en el cuerpo para que se absorba. Está involucrada en montones de procesos del cuerpo: desde la retención y metabolismo del calcio y los minerales, beneficios cognitivos, inmunitarios, la salud de las células…
 
 De hecho reduce el crecimiento de las células cancerígenas… lo que es irónico porque le tenemos miedo al sol, aún siendo el sol la mejor fuente de vitamina D.
 
@@ -105,7 +90,7 @@ Esta producción empiezan en la piel después de estar expuestos a los rayos del
 
 La mejor forma de obtenerla como no, es a través de la exposición solar. La mayoría de personas sólo [necesita](https://www.scientificamerican.com/article/cell-defenses-and-the-sunshine-vitamin/) de 5 a 15 minutos de las 10 de la mañana a las 3 de la tarde durante el verano.
 
-![cuánto tiempo tomar el sol](https://pau.ninja/wp-content/uploads/2022/06/cuanto-rato-tomar-el-sol.jpeg)
+![cuánto tiempo tomar el sol](./wp-content/uploads/2022/06cuanto-rato-tomar-el-sol.jpeg)
 
 Es verdad que en invierno no estaríamos obteniendo suficiente sol y es por esto que tenemos tendencia a resfriarnos, pero es más importante recoger reservas de vitamina D durante el verano para tener reservas durante el invierno.
 
@@ -133,7 +118,7 @@ De nuevo, la recomendación [oficial](https://scielo.isciii.es/scielo.php?script
 
 ¿Por qué? por un supuesto error estadístico que nunca se corrigió. Esto es lo que se concluía en [este](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5541280/) gran estudio de la falacia más grande de la vitamina D.
 
-![estudio error vitamina d](https://pau.ninja/wp-content/uploads/2022/06/estudio-error-vitamina-d.jpg)
+![estudio error vitamina d](./wp-content/uploads/2022/06estudio-error-vitamina-d.jpg)
 
 Una vez el Instituto de Medicina sacó los datos, se encontró que **casi el 97,5% de adultos necesitan unos 9.000 IU al día** para alcanzar valores saludables.
 
@@ -168,7 +153,7 @@ Nos queda claro que necesitamos vitamina D, pero ¿cómo la obtenemos? Hay un pa
 
 Es por esto que vemos aborígenes de Australia con colores de piel casi negros y aún así siguen usando aceite de Coco para protegerse.
 
-Como aprendimos en el arte de [ponerse moreno rápido](https://pau.ninja/como-ponerse-moreno-rapidamente/) (_spoiler_: se tiene que [tomar el sol sin crema](https://pau.ninja/tomar-el-sol-sin-crema/) pero con cuidado y de forma exponencial), el orden con el que deberíamos terminar después de estar expuestos al sol es:
+Como aprendimos en el arte de [ponerse moreno rápido](./como-ponerse-moreno-rapidamente/) (_spoiler_: se tiene que [tomar el sol sin crema](https://pau.ninja/tomar-el-sol-sin-crema) pero con cuidado y de forma exponencial), el orden con el que deberíamos terminar después de estar expuestos al sol es:
 
 - Lo mejor: tomar el sol **sin** crema y **sin** quemarse
 - Lo segundo mejor: Tomar el sol con crema y sin quemarse
@@ -181,11 +166,11 @@ Utilicemos el sentido común. Hagamos el famoso «zoom out», la vista de pájar
 
 La mayoría de estudios sobre protector solar y cáncer de piel **enseñan cero resultados positivos** en prevenir cáncer o hasta disminuir el riesgo.
 
-![revisión sistemática crema solar](https://pau.ninja/wp-content/uploads/2022/06/revision-sistematica-crema-solar.jpeg)
+![revisión sistemática crema solar](./wp-content/uploads/2022/06revision-sistematica-crema-solar.jpeg)
 
 Hasta he [encontrado](https://pubmed.ncbi.nlm.nih.gov/29620003/) un estudio incluso muestra consecuencias negativas en en usar cremas solares… indirectamente por la falta de vitamina D que es esencial por la reparación del ADN y las células.
 
-Si volvemos a utilizar sentido común, en la naturaleza la única manera que tendríamos para procurar comida sería… lo habéis adivinado: [estar expuestos al sol sin crema](https://pau.ninja/tomar-el-sol-sin-crema/). Constantemente.
+Si volvemos a utilizar sentido común, en la naturaleza la única manera que tendríamos para procurar comida sería… lo habéis adivinado: [estar expuestos al sol sin crema](./tomar-el-sol-sin-crema). Constantemente.
 
 Si estabas comiendo comida, pues técnicamente tendrías que estar expuesto al sol sí o sí.
 
@@ -195,19 +180,19 @@ Sé que otra opción popular donde la gente piensa en obtener vitamina D es en l
 
 La cantidad de vitamina D3 que podemos obtener de comidas es **insignificante** en comparación con tomar el sol. Incluso hay algunas personas que se piensan que existen frutas con vitamina D.
 
-Antes de ver qué comer que tenga vitamina D, es casi (o más importante) qué no comer porque desde una perspectiva nutricional, si no tienes nutrientes de fuentes animales (especialmente [necesario el colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/)), tu cuerpo **no será capaz de sintetizar la vitamina D**. En vez de crear vitamina D y curar la piel, vamos a quemarla y dañarla haciendo que tarde un montón de tiempo para que se cure.
+Antes de ver qué comer que tenga vitamina D, es casi (o más importante) qué no comer porque desde una perspectiva nutricional, si no tienes nutrientes de fuentes animales (especialmente [necesario el colesterol](./la-gran-mentira-del-colesterol)), tu cuerpo **no será capaz de sintetizar la vitamina D**. En vez de crear vitamina D y curar la piel, vamos a quemarla y dañarla haciendo que tarde un montón de tiempo para que se cure.
 
-Por esto digo «fuentes animales». Porque [las vitaminas más importantes para el cuerpo](https://pau.ninja/las-vitaminas-mas-importantes/) y totalmente necesarias para la reparación de la piel, son las vitaminas K2, MK4, los aminoácidos completos y el colesterol.
+Por esto digo «fuentes animales». Porque [las vitaminas más importantes para el cuerpo](./las-vitaminas-mas-importantes) y totalmente necesarias para la reparación de la piel, son las vitaminas K2, MK4, los aminoácidos completos y el colesterol.
 
 «Pero Pau, no quiero quedarme arrugado…» vale. Yo tampoco. Por esto me centro en otros factores de estilo de vida. Hay varios estudios que nos muestran [vínculo](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3583891/) entre la nutrición y el envejecimiento de la piel.
 
-![estudio arrugas piel](https://pau.ninja/wp-content/uploads/2022/06/estudio-arrugas-piel.jpeg)
+![estudio arrugas piel](./wp-content/uploads/2022/06estudio-arrugas-piel.jpeg)
 
 Deja de obsesionarte por las arrugas de tomar el sol, y céntrate más en las arrugas de tener una mala dieta. Especialmente poniendo el foco en la vitamina A, C, las de la familia B…
 
 Si no tienes suficientes nutrientes, tu cuerpo no se puede reparar. La mayoría vivimos con un «estilo de vida inflamatorio» como a mí me gusta llamarlo (o más bien: «me disgusta llamarlo»).
 
-Por ejemplo con un exceso de omega 6 que vienen de los [peores alimentos para la salud que consumimos](https://pau.ninja/alimentos-malos-para-la-salud/) a montones:
+Por ejemplo con un exceso de omega 6 que vienen de los [peores alimentos para la salud que consumimos](./alimentos-malos-para-la-salud) a montones:
 
 - Aceites de semillas vegetales
 - Carnes de ganadería industrial en vez de pasto
@@ -229,7 +214,7 @@ Pero si te atreves (y puedes) meterte quilos y quilos de caballa o arenque, con 
 
 Si no fuera por el riesgo de los metales pesados, el hígado de pescado y sus aceites serían una fuente bastante buena. El problema es que la gente no tiene acceso a las comidas de calidad que tenga buena cantidad de vitamina D.
 
-Te interesará leer mi publicación sobre [cómo eliminar los metales pesados aquí](https://pau.ninja/como-eliminar-metales-pesados/).
+Te interesará leer mi publicación sobre [cómo eliminar los metales pesados aquí](./como-eliminar-metales-pesados).
 
 ### Foca y caribú
 
@@ -254,3 +239,93 @@ Si usamos suplementos para llevar nuestros niveles de vitamina D hacia al rango 
 Los que tengáis suplementos de vitamina D lo habréis experimentado. Suplementarte te hará sentir bien, pero ¿salir fuera a tomar el sol? es una **maldita maravilla**.
 
 Para mí es el llamado de la naturaleza. Cuando digo llamado, es que es lo que hemos sido biológicamente diseñados para hacer. Estar fuera, y absorber cantidades de vitamina D, por eso nos ponemos felices, porque estamos en concordancia con lo que nuestra salud ancestral necesita. Lo que nos pide.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-twitter.png) ![compartir en youtube](https://pau.ninja/wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Hábitos saludables](./habitos-saludables)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/falta-de-vitamina-d-consecuencias/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13150,"title":"8%20consecuencias%20de%20FALTA%20de%20vitamina%20D%20%E3%80%90urgente%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/06\\/persona-con-falta-de-vitamina-d.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

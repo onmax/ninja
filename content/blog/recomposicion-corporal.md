@@ -1,14 +1,19 @@
 ---
-title: "Gordo como Paquirrín… o fibrado como Zyzz Recomposición corporal: ganar masa muscular y perder grasa a la vez"
+title: "Gordo como Paquirrín… o fibrado como Zyzz"
+url: https://pau.ninja/recomposicion-corporal
+slug: recomposicion-corporal
+categories: 
+- slug: fitness
+    label: Fitness
 image: cuerpo-muscular.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2020/01/cuerpo-muscular.jpg
 published: 2020-01-12T16:01:16+00:00
 modified: 2023-06-27T17:44:29+00:00
+scrappedAt: 2024-10-14T09:21:37.744Z
 audioLink: https://www.ivoox.com/gordo-como-paquirrin-o-fibrado-como-zyzz_md_60839585_wp_1.mp3
-slug: recomposicion-corporal
+bibliography: ["a +20% de masa magra","+ 30% de masa magra","gramos de carbohidratos por kg de peso corporal.","Grau, Amelia & Guerra, Borja & Calbet, Jose. (2007). Papel de la células satélite en la hipertrofia y regeneración muscular en respuesta al ejercicio. Archivos de medicina del deporte: revista de la Federación Española de Medicina del Deporte y de la Confederación Iberoamericana de Medicina del Deporte, ISSN 0212-8799, Nº. 119, 2007, pags. 187-196.","Raynor HA, Champagne CM. Position of the Academy of Nutrition and Dietetics: Interventions for the Treatment of Overweight and Obesity in Adults. J Acad Nutr Diet. 2016 Jan;116(1):129-147. doi: 10.1016/j.jand.2015.10.031. PMID: 26718656.","Bruusgaard JC, Johansen IB, Egner IM, Rana ZA, Gundersen K. Myonuclei acquired by overload exercise precede hypertrophy and are not lost on detraining. Proc Natl Acad Sci U S A. 2010 Aug 24;107(34):15111-6. doi: 10.1073/pnas.0913935107. Epub 2010 Aug 16. PMID: 20713720; PMCID: PMC2930527.","Maganaris, Constantinos & Collins, Dave & Sharp, Martin. (1999). Expectancy Effects and Strength Training: Do Steroids Make a Difference?. Sport Psychologist. 14. 10.1123/tsp.14.3.272.","Wu G. Dietary protein intake and human health. Food Funct. 2016 Mar;7(3):1251-65. doi: 10.1039/c5fo01530h. PMID: 26797090.","Aragon, A.A., Schoenfeld, B.J. Nutrient timing revisited: is there a post-exercise anabolic window?. J Int Soc Sports Nutr 10, 5 (2013)."]
 ---
-
-[https://www.ivoox.com/gordo-como-paquirrin-o-fibrado-como-zyzz_md_60839585_wp_1.mp3](https://www.ivoox.com/gordo-como-paquirrin-o-fibrado-como-zyzz_md_60839585_wp_1.mp3)
+[https://www.ivoox.com/gordo-como-paquirrin-o-fibrado-como-zyzz\_md\_60839585\_wp\_1.mp3](https://www.ivoox.com/gordo-como-paquirrin-o-fibrado-como-zyzz_md_60839585_wp_1.mp3)
 
 Una de las cosas que todo dios quiere cuando empieza a levantar pesas es ganar músculo y perder grasa **a la vez**.
 
@@ -21,35 +26,17 @@ Hay mil contradicciones sobre esto así que vamos a ver con lupa si es posible.
 Antes que nada decir que esto se llama «recomposición corporal». Y sí. Mi cuerpo ha sido capaz de hacerlo **2 veces en mi vida**.
 
 - Cuando empecé a levantar pesas.
-- Cuando ya llevaba 10 años entrenando (después de [montar un gimnasio en casa](https://pau.ninja/montar-gimnasio-en-casa/))
+- Cuando ya llevaba 10 años entrenando (después de [montar un gimnasio en casa](./montar-gimnasio-en-casa))
 
 Pero un momento… ¿Después de 10 años con los hierros? ¡Pensaba que esto era sólo para novatos o ciclados!
 
 Pues bien, no va así y como siempre tiraremos de estudios y la literatura científica para explicarlo. Que así no sólo sonaremos más guays, pero también más creíble.
 
-![falacia recomposición corporal](https://pau.ninja/wp-content/uploads/2020/01/falacia-recomposicion-corporal.jpg)
+![falacia recomposición corporal](./wp-content/uploads/2020/01falacia-recomposicion-corporal.jpg)
 
 Siempre nos ha dicho que dentro de los mortales, hay un puñado que pueden ganar músculo y perder grasa a la vez, mientras que al resto no lo conseguirá nunca. Pero la realidad es que hay un montón de personas a las que le funciona y dentro de esto, hay un quesito de «muy avanzados» que no son otros que dioses genéticos a los que eso. Aún así es verdad que hay muchas variantes y cosas a considerar, así que vamos a tirar de esto.
 
 Así que bienvenidos al olimpo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Quien puede ganar masa muscular y perder grasa a la vez](#Quien_puede_ganar_masa_muscular_y_perder_grasa_a_la_vez 'Quien puede ganar masa muscular y perder grasa a la vez')
-  - [Los novatos](#Los_novatos 'Los novatos')
-  - [Las personas obesas](#Las_personas_obesas 'Las personas obesas')
-  - [Los que vuelven a entrenar después de una pausa](#Los_que_vuelven_a_entrenar_despues_de_una_pausa 'Los que vuelven a entrenar después de una pausa')
-  - [Los que consumen esteroides anabólicos](#Los_que_consumen_esteroides_anabolicos 'Los que consumen esteroides anabólicos')
-- [Sobrepasando estos 4 grupos](#Sobrepasando_estos_4_grupos 'Sobrepasando estos 4 grupos')
-- [Cómo conseguir la recomposición corporal](#Como_conseguir_la_recomposicion_corporal 'Cómo conseguir la recomposición corporal')
-  - [Paso 1: entrenar con progresión](#Paso_1_entrenar_con_progresion 'Paso 1: entrenar con progresión')
-  - [Paso 2: establecer si es más importante el músculo o la definición](#Paso_2_establecer_si_es_mas_importante_el_musculo_o_la_definicion 'Paso 2: establecer si es más importante el músculo o la definición')
-  - [Paso 3: centrar la ingestión alrededor de las calorías de mantenimiento](#Paso_3_centrar_la_ingestion_alrededor_de_las_calorias_de_mantenimiento 'Paso 3: centrar la ingestión alrededor de las calorías de mantenimiento')
-  - [Paso 4: establecer unos objetivos de macronutrientes](#Paso_4_establecer_unos_objetivos_de_macronutrientes 'Paso 4: establecer unos objetivos de macronutrientes')
-  - [Paso 5: optimizar con los detalles](#Paso_5_optimizar_con_los_detalles 'Paso 5: optimizar con los detalles')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Quien puede ganar masa muscular y perder grasa a la vez
 
@@ -66,9 +53,9 @@ Pues bien, vamos a ver que dice la ciencia para desmentir como se puede tener un
 
 Empezamos por los primeros. Que también son los que tocan una pesa por primera vez.
 
-Ay… Quien pudiera volver a ser novato para aprovechar al máximo esa fusión de células satélite…[1](<javascript:void(0)>)Grau, Amelia & Guerra, Borja & Calbet, Jose. (2007). Papel de la células satélite en la hipertrofia y regeneración muscular en respuesta al ejercicio. Archivos de medicina del deporte: revista de la Federación Española de Medicina del Deporte y de la Confederación Iberoamericana de Medicina del Deporte, ISSN 0212-8799, Nº. 119, 2007, pags. 187-196.
+Ay… Quien pudiera volver a ser novato para aprovechar al máximo esa fusión de células satélite…[ref-1](#ref-1){.ref}
 
-![hipertrofia de novato](https://pau.ninja/wp-content/uploads/2020/01/hipertrofia-de-novato.jpg)
+![hipertrofia de novato](./wp-content/uploads/2020/01hipertrofia-de-novato.jpg)
 
 Y es que cuando eres novato las **calorías se puede pillar de la grasa para abastecer a la construcción de músculo**.
 
@@ -78,9 +65,9 @@ Para ilustrarlo es necesario pasar a la siguiente categoría.
 
 ### Las personas obesas
 
-Porque aquellos que tengan montones de grasa acumulada, pueden **incluso comer menos de las calorías que necesitan diariamente** (déficit calórico[2](<javascript:void(0)>)Raynor HA, Champagne CM. Position of the Academy of Nutrition and Dietetics: Interventions for the Treatment of Overweight and Obesity in Adults. J Acad Nutr Diet. 2016 Jan;116(1):129-147. doi: 10.1016/j.jand.2015.10.031. PMID: 26718656.).
+Porque aquellos que tengan montones de grasa acumulada, pueden **incluso comer menos de las calorías que necesitan diariamente** (déficit calórico[ref-2](#ref-2){.ref}).
 
-![grupo sanguíneo obeso](https://pau.ninja/wp-content/uploads/2020/01/grupo-sanguineo-obeso.jpg)
+![grupo sanguíneo obeso](./wp-content/uploads/2020/01grupo-sanguineo-obeso.jpg)
 
 Más que nada que en estos casos **el cuerpo tiene reservas de sobra** para crear masa.
 
@@ -90,7 +77,7 @@ Por esto vemos a personas que pesan 100kg (por ejemplo), levantan pesas a tope y
 
 El caso es que pesan lo mismo, pero han tenido esa **recomposición corporal**. El cuerpo a fundido grasa y ha creado músculo y se han quedado igual en la báscula, pero ni mucho menos a nivel corporal.
 
-Por eso no hay que guiarse tanto por métricas y más en *feeling*.
+Por eso no hay que guiarse tanto por métricas y más en _feeling_.
 
 ### Los que vuelven a entrenar después de una pausa
 
@@ -98,9 +85,9 @@ Después tenemos a ese otro grupo. Los que vuelven a ir al gimnasio después de 
 
 La ventaja en este caso es la **memoria muscular**.
 
-El músculo **recuerda** su estado anterior y crece mucho más rápido. Algo que la ciencia ya ha validado varias veces[3](<javascript:void(0)>)Bruusgaard JC, Johansen IB, Egner IM, Rana ZA, Gundersen K. Myonuclei acquired by overload exercise precede hypertrophy and are not lost on detraining. Proc Natl Acad Sci U S A. 2010 Aug 24;107(34):15111-6. doi: 10.1073/pnas.0913935107. Epub 2010 Aug 16. PMID: 20713720; PMCID: PMC2930527..
+El músculo **recuerda** su estado anterior y crece mucho más rápido. Algo que la ciencia ya ha validado varias veces[ref-3](#ref-3){.ref}.
 
-![proceso de hipertrofia](https://pau.ninja/wp-content/uploads/2020/01/proceso-hipertrofia.jpg)
+![proceso de hipertrofia](./wp-content/uploads/2020/01proceso-hipertrofia.jpg)
 
 Fijarse en la flecha amarilla. Con los desentrendos pero que habían levantado peso, se crea ese _re-training._
 
@@ -112,7 +99,7 @@ Con una pinchadita en el culo o algunas pastillas, el cuerpo termina usando proc
 
 Sí. He buscado la rima a propósito.
 
-Pero fuera bromas, no es de extrañar si algunos estudios ya han demostrado que el hecho de chutarse es incluso **más anabolizante que el propio hecho de entrenar**[4](<javascript:void(0)>)Maganaris, Constantinos & Collins, Dave & Sharp, Martin. (1999). Expectancy Effects and Strength Training: Do Steroids Make a Difference?. Sport Psychologist. 14. 10.1123/tsp.14.3.272. .
+Pero fuera bromas, no es de extrañar si algunos estudios ya han demostrado que el hecho de chutarse es incluso **más anabolizante que el propio hecho de entrenar**[ref-4](#ref-4){.ref} .
 
 Es decir, que terminas creando más músculo por el hecho de pincharte esteroides que por el de entrenar.
 
@@ -128,7 +115,7 @@ Llevamos unos meses o incluso años con un plan perfecto, y pensamos que entramo
 
 Pero a veces hay algunos de estos que a niveles fisiológicos podemos considerar novatos si **no se han hecho las cosas bien**.
 
-![intermedio en el gimnasio](https://pau.ninja/wp-content/uploads/2020/01/intermedio-gimnasio.jpg)
+![intermedio en el gimnasio](./wp-content/uploads/2020/01intermedio-gimnasio.jpg)
 
 El científico [Christopher Barakat](https://www.researchgate.net/profile/Christopher-Barakat) lo valida con decenas de clientes.
 
@@ -148,9 +135,9 @@ Se trata de -igual que decían en la escuela primaria- **progresar adecuadament
 
 Al final, la dieta o el momento en el que comamos los carbohidratos no importará nada si no hay un **estimulo de mejora constante para el músculo**.
 
-![pau ninja posando](https://pau.ninja/wp-content/uploads/2020/01/comic-masa-muscular.png)
+![pau ninja posando](./wp-content/uploads/2020/01comic-masa-muscular.png)
 
-En este aspecto se trata de aplicar lo que tengo en mi [plan de entrenamiento para ganar masa muscular](https://pau.ninja/entrenamiento-ganar-masa-muscular/). Que a modo de resumen es:
+En este aspecto se trata de aplicar lo que tengo en mi [plan de entrenamiento para ganar masa muscular](./entrenamiento-ganar-masa-muscular). Que a modo de resumen es:
 
 - Centrarme en cargas progresivas.
 - Esfuerzo intenso pero sin pasarnos.
@@ -158,7 +145,7 @@ En este aspecto se trata de aplicar lo que tengo en mi [plan de entrenamiento pa
 
 Habrá algunos pilares básicos para que se aguante el tiempo.
 
-![partes de recomposición](https://pau.ninja/wp-content/uploads/2020/01/partes-de-recomposicion.jpg)
+![partes de recomposición](./wp-content/uploads/2020/01partes-de-recomposicion.jpg)
 
 Entrenamiento, manejar el estrés, la nutrición y el sueño infravalorado…
 
@@ -185,8 +172,8 @@ Crear músculo:
 
 Definir:
 
-- **Hombres:** 15 a +20% de masa magra
-- **Mujeres:** 25 + 30% de masa magra
+- **Hombres:** 15 
+- **Mujeres:** 25 
 
 El siguiente paso, vendría a ser centrarnos en lo que consumimos. Alrededor de nuestras calorías de mantenimiento.
 
@@ -198,7 +185,7 @@ Crear músculo:
 
 Con la dieta de mantenimiento, sumar entre 5-25% de **superávit calórico**.
 
-Vamos, que si mis *kcal* para mantenerme con este peso son 2500, puedo añadirle 250 extra.
+Vamos, que si mis _kcal_ para mantenerme con este peso son 2500, puedo añadirle 250 extra.
 
 Definir:
 
@@ -218,7 +205,7 @@ Como guía general, **como menos grasa corporal se tenga, más buena idea es co
 
 #### Determinando las proteínas diarias a consumir
 
-Hay bastantes estudios que analizan la proteína que necesitamos consumir en total y por comida, pero esto se viene más adelante[5](<javascript:void(0)>)Wu G. Dietary protein intake and human health. Food Funct. 2016 Mar;7(3):1251-65. doi: 10.1039/c5fo01530h. PMID: 26797090..
+Hay bastantes estudios que analizan la proteína que necesitamos consumir en total y por comida, pero esto se viene más adelante[ref-5](#ref-5){.ref}.
 
 Por ahora podemos establecer que la mejor recomendación son 1,5 gramos por kg **de masa magra**.
 
@@ -245,7 +232,7 @@ Seguramente algo muy ligado a este poco consumo ya no de proteínas si no tambi�
 
 Pero bueno, es lo dejamos para cuando sigamos tocando temas de longevidad, porque hay muchos detalles allí.
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2020/11/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2020/11comic-longevidad.png)
 
 #### Determinando los carbohidratos y grasas
 
@@ -265,7 +252,7 @@ De los porcentajes restantes, se rellena con carbohidratos.
 
 Pero ninjas de la vida, el demonio está en los detalles, pero también los ángeles.
 
-A parte de lo que diré a continuación creo que el santo grial del fitness es [conseguir flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/) para que nuestro cuerpo vaya siendo eficiente utilizando grasas y **aprovechando** los carbohidratos.
+A parte de lo que diré a continuación creo que el santo grial del fitness es [conseguir flexibilidad metabólica](./flexibilidad-metabolica) para que nuestro cuerpo vaya siendo eficiente utilizando grasas y **aprovechando** los carbohidratos.
 
 #### Dormir más (y mejor)
 
@@ -281,14 +268,14 @@ Antes del entrenamiento
 
 Utilizando como fuente la [tesis doctoral de Jorn Trommelen](https://www.nutritiontactics.com/wp-content/uploads/2019/10/Thesis-Jorn-Trommelen.pdf), las conclusiones de qué comer antes de entrenar es:
 
-- 1 gramos de carbohidratos por kg de peso corporal.
+- 1 
 - Elegir fuentes de carbohidratos que utilicen **múltiples transportes de absorción**: por lo tanto ingerir tanto glucosa como fructosa.
 
 La manera más fácil de hacer esto último es combinar fruta con algún tipo de almidón (arroz, pan…).
 
 Después del entrenamiento
 
-Lo único que nos deja claro la evidencia es **no separar el pre + post entreno más de 4-5 horas**[6](<javascript:void(0)>)Aragon, A.A., Schoenfeld, B.J. Nutrient timing revisited: is there a post-exercise anabolic window?. J Int Soc Sports Nutr 10, 5 (2013)..
+Lo único que nos deja claro la evidencia es **no separar el pre + post entreno más de 4-5 horas**[ref-6](#ref-6){.ref}.
 
 Esta «ventana» de tiempo tiene sentido porque el músculo es más susceptible a la ingesta de [aminoácidos](https://medlineplus.gov/spanish/ency/article/002222.htm) después de una sesión de entrenamiento.
 
@@ -299,31 +286,3 @@ Bueno. No que hay muchos azúcares añadidos.
 Pero queda claro que hacerlo todo bien, se le da al cuerpo una ventana para que utilice los recursos de manera óptima.
 
 A la ciencia me remito, pero como siempre. No me creas, verifica.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Grau, Amelia & Guerra, Borja & Calbet, Jose. (2007). Papel de la células satélite en la hipertrofia y regeneración muscular en respuesta al ejercicio. Archivos de medicina del deporte: revista de la Federación Española de Medicina del Deporte y de la Confederación Iberoamericana de Medicina del Deporte, ISSN 0212-8799, Nº. 119, 2007, pags. 187-196.
-
-- 2
-
-  Raynor HA, Champagne CM. Position of the Academy of Nutrition and Dietetics: Interventions for the Treatment of Overweight and Obesity in Adults. J Acad Nutr Diet. 2016 Jan;116(1):129-147. doi: 10.1016/j.jand.2015.10.031. PMID: 26718656.
-
-- 3
-
-  Bruusgaard JC, Johansen IB, Egner IM, Rana ZA, Gundersen K. Myonuclei acquired by overload exercise precede hypertrophy and are not lost on detraining. Proc Natl Acad Sci U S A. 2010 Aug 24;107(34):15111-6. doi: 10.1073/pnas.0913935107. Epub 2010 Aug 16. PMID: 20713720; PMCID: PMC2930527.
-
-- 4
-
-  Maganaris, Constantinos & Collins, Dave & Sharp, Martin. (1999). Expectancy Effects and Strength Training: Do Steroids Make a Difference?. Sport Psychologist. 14. 10.1123/tsp.14.3.272.
-
-- 5
-
-  Wu G. Dietary protein intake and human health. Food Funct. 2016 Mar;7(3):1251-65. doi: 10.1039/c5fo01530h. PMID: 26797090.
-
-- 6
-
-  Aragon, A.A., Schoenfeld, B.J. Nutrient timing revisited: is there a post-exercise anabolic window?. J Int Soc Sports Nutr 10, 5 (2013).

@@ -1,14 +1,19 @@
 ---
-title: "El individuo no soberano… traga por la boca y por el ano (cómo ser libre)"
+title: "El individuo no soberano… traga por la boca y por el ano"
+url: https://pau.ninja/como-ser-libre-individuo-soberano
+slug: como-ser-libre-individuo-soberano
+categories: 
+- slug: impuestos
+    label: Impuestos
 image: individuo-soberano.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2022/01/individuo-soberano.jpg
 published: 2022-01-27T09:02:38+00:00
 modified: 2023-10-11T04:56:36+00:00
+scrappedAt: 2024-10-14T09:20:53.110Z
 audioLink: https://www.ivoox.com/_md_82541614_wp_1.mp3
-slug: como-ser-libre-individuo-soberano
+bibliography: []
 ---
-
-[https://www.ivoox.com/\_md_82541614_wp_1.mp3](https://www.ivoox.com/_md_82541614_wp_1.mp3)
+[https://www.ivoox.com/\_md\_82541614\_wp\_1.mp3](https://www.ivoox.com/_md_82541614_wp_1.mp3)
 
 Del mismo modo que pensar que eres un helicóptero Boeing AH-64 Apache no te convierte en uno, pensar que tienes libertad no te convierte en una persona libre.
 
@@ -19,30 +24,6 @@ Me hace gracia pensar que la primera vez que escuché la palabra «soberanía» 
 ¿Por qué utilizaba tanto la palabra «soberanía» y no «libertad»? ¿no son eran sinónimos? Libertad la podría entender hasta un chiquillo, en cambio «soberanía» hasta Pompeu Fabra hubiera tardado un segundo en procesarla. ¿No querían llegar al máximo de gente posible?
 
 Sí… lo que pasa es **soberanía y libertad no son lo mismo** aunque persigan una misma finalidad.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [El significado de ser soberano](#El_significado_de_ser_soberano 'El significado de ser soberano')
-  - [Qué es ser libre](#Que_es_ser_libre 'Qué es ser libre')
-  - [Qué es la soberanía](#Que_es_la_soberania 'Qué es la soberanía')
-  - [Soberanía compartida](#Soberania_compartida 'Soberanía compartida')
-  - [Poder soberano](#Poder_soberano 'Poder soberano')
-- [Resumen de The Sovereign Individual en español](#Resumen_de_The_Sovereign_Individual_en_espanol 'Resumen de The Sovereign Individual en español')
-- [Cómo ser libre](#Como_ser_libre 'Cómo ser libre')
-  - [Elegir tu nacionalidad](#Elegir_tu_nacionalidad 'Elegir tu nacionalidad')
-  - [Actuar pronto](#Actuar_pronto 'Actuar pronto')
-  - [Tener el dinero en otra jurisdicción](#Tener_el_dinero_en_otra_jurisdiccion 'Tener el dinero en otra jurisdicción')
-  - [Ser turista perpetuo](#Ser_turista_perpetuo 'Ser turista perpetuo')
-  - [Protegerse de la violencia](#Protegerse_de_la_violencia 'Protegerse de la violencia')
-  - [Adaptarse a los cambios económicos](#Adaptarse_a_los_cambios_economicos 'Adaptarse a los cambios económicos')
-  - [Hacerte con el nuevo dinero](#Hacerte_con_el_nuevo_dinero 'Hacerte con el nuevo dinero')
-  - [Llevar los negocios al mundo online](#Llevar_los_negocios_al_mundo_online 'Llevar los negocios al mundo online')
-  - [Cobrar por trabajos, no por horas](#Cobrar_por_trabajos_no_por_horas 'Cobrar por trabajos, no por horas')
-  - [Ecriptar tu vida privada](#Ecriptar_tu_vida_privada 'Ecriptar tu vida privada')
-  - [Tomar responsabilidad](#Tomar_responsabilidad 'Tomar responsabilidad')
-  - [Evitar la deuda de los Estados](#Evitar_la_deuda_de_los_Estados 'Evitar la deuda de los Estados')
 
 ## El significado de ser soberano
 
@@ -62,7 +43,7 @@ Tener libertad es tener derecho a actuar como te plazca en una sociedad. Un dere
 
 Por eso si vemos a un tipo por la calle con sus auriculares cantando _The Weeknd_ a lo loco, lo más probable es que se nos encienda una chispa de envidia mientras pensamos «mira que libre que es, el cabr\*n».
 
-![](https://pau.ninja/wp-content/uploads/2022/01/individuo-libre.jpg)
+![](./wp-content/uploads/2022/01individuo-libre.jpg)
 
 Llamamos «libre» a ese loco porque está en un estado (mental o físico) que no lo hace encadenado a ninguna obligación, deber o disciplina de nuestra sociedad, el constructo social.
 
@@ -98,7 +79,7 @@ Y bajo capas y capas que van capando nuestras opciones. **Pero tenemos suerte**
 
 ### Poder soberano
 
-En el pasado esta soberanía se había compartido aún más. Con más *proxies*. Quizás eras un esclavo y tenías un amo. Quizás eras sujeto al alimento que el señor feudal te iba a dar cuando estabas obligado a darle tus tierras, y cosas por el estilo.
+En el pasado esta soberanía se había compartido aún más. Con más _proxies_. Quizás eras un esclavo y tenías un amo. Quizás eras sujeto al alimento que el señor feudal te iba a dar cuando estabas obligado a darle tus tierras, y cosas por el estilo.
 
 Estamos hablando del «poder soberano». El que puede ejercer el derecho de obtener la vida de los súbditos. Un poder que se ejerce mucho más de lo que imaginamos.
 
@@ -110,13 +91,13 @@ Pensé, ¿me está diciendo este libro que **puede existir un individuo complet
 
 Ahora mismo rebajado
 
-[![The Sovereign Individual: Mastering the Transition to the Information Age](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGclptUTFVbWN6YTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NDI5Nw=)](https://www.amazon.es/dp/0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Sovereign Individual: Mastering the Transition to the Information Age')
+[![The Sovereign Individual: Mastering the Transition to the Information Age](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGclptUTFVbWN6YTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDYzMQ=)](https://www.amazon.es/dp0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sovereign Individual: Mastering the Transition to the Information Age")
 
-[The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.es/dp/0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Sovereign Individual: Mastering the Transition to the Information Age')
+[The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.es/dp/0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sovereign Individual: Mastering the Transition to the Information Age")
 
 14,53 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pues sí. Más o menos. Después de leérmelo un par de veces en los últimos tres años, The Sovereign Individual me ha transmitido que para ganar soberanía y ganar en libertad, la capa más importante de la que desprenderse es la del Estado.
 
@@ -132,7 +113,7 @@ No sucumbir a sus servicios por obligación como la nacionalidad o ciudadanía, 
 
 ### Elegir tu nacionalidad
 
-En vez de pagar los impuestos «impuestos» por los políticos o políticas intocables, tenemos que conseguir un estilo de vida donde **podamos negociar tratados de impuestos**. Elegirlos de una cartera de Estados que ofrezcan los servicios que nos interesan, o [incluso no pagar impuestos](https://pau.ninja/como-no-pagar-impuestos-legalmente/) y elegirlos de manera privada.
+En vez de pagar los impuestos «impuestos» por los políticos o políticas intocables, tenemos que conseguir un estilo de vida donde **podamos negociar tratados de impuestos**. Elegirlos de una cartera de Estados que ofrezcan los servicios que nos interesan, o [incluso no pagar impuestos](./como-no-pagar-impuestos-legalmente) y elegirlos de manera privada.
 
 Los consumidores expresan lo que quieren directamente con la compra de productos y servicios… o dejando de ser clientes.
 
@@ -150,9 +131,9 @@ En Estados Unidos se pagan impuestos por nacionalidad. Por haber nacido allí. Y
 
 Los estadunidenses puedes pasar 10 años viviendo en Francia como americano y aún así tienen que pagar tu parte al tío Sam.
 
-![declaración renta hacienda](https://pau.ninja/wp-content/uploads/2022/01/declaracion-renta-hacienda.jpg)
+![declaración renta hacienda](./wp-content/uploads/2022/01declaracion-renta-hacienda.jpg)
 
-Precisamente porque estamos hablando de la capital del capitalismo, nos encontramos con un *push*. Un empuje para incitar a los otros países como España, a que en un futuro no muy lejano también hagan lo mismo con las nacionalidades. Se pague con pasaporte.
+Precisamente porque estamos hablando de la capital del capitalismo, nos encontramos con un _push_. Un empuje para incitar a los otros países como España, a que en un futuro no muy lejano también hagan lo mismo con las nacionalidades. Se pague con pasaporte.
 
 Para ser un individuo soberano, una de las compras que tendremos que hacer (compra monetaria, con tiempo, o con las dos) será la de elegir otro pasaporte.
 
@@ -186,14 +167,14 @@ Pero no solo esto. A parte de esta segunda residencia también será interesante
 
 El libro de El Individuo Soberano se escribió en 1998, y a día de hoy, en el momento de transferiros este cetro de la información como si fuera Gandalf, el manejo de nuestro dinero **lo tenemos mejor que nunca gracias al ciber espacio**.
 
-No sólo tenemos bancos online, también tenemos el mundo de las criptomonedas. Un activo que el libro **predijo** una década antes [del origen de Bitcoin](https://pau.ninja/historia-y-origen-del-bitcoin/).
+No sólo tenemos bancos online, también tenemos el mundo de las criptomonedas. Un activo que el libro **predijo** una década antes [del origen de Bitcoin](./historia-y-origen-del-bitcoin).
 
-- Tenemos las criptos como [Bitcoin que intentamos explicar para tontos](https://pau.ninja/que-es-bitcoin-para-tontos/) para que todo el mundo pueda entender.
+- Tenemos las criptos como [Bitcoin que intentamos explicar para tontos](./que-es-bitcoin-para-tontos) para que todo el mundo pueda entender.
 - Existen las criptomonedas alternativas, las altcoins, que aunque siempre alego que en el 90% de las casos se venderá humo, en algunos pocos casos habrá un valor real que perdurará en el tiempo.
 - Tenemos  bancos online que cada vez se ven más forzados a ser más amigables (menos toca pelotas). ¿Por qué?
 - Por la incorporación de las DeFi, las finanzas descentralizadas. ¿Cómo vas a competir con algo así?
 
-O sea que la idea de un individuo soberano que mantiene su dinero en un paraíso fiscal para [encontrar una manera de no pagar impuestos](https://pau.ninja/como-no-pagar-impuestos-legalmente/) (o elegir nosotros cuanto pagar), queda medio obsoleta con su predicción de las DeFi, que seguro que llegó antes de lo que pensaban.
+O sea que la idea de un individuo soberano que mantiene su dinero en un paraíso fiscal para [encontrar una manera de no pagar impuestos](./como-no-pagar-impuestos-legalmente) (o elegir nosotros cuanto pagar), queda medio obsoleta con su predicción de las DeFi, que seguro que llegó antes de lo que pensaban.
 
 ### Ser turista perpetuo
 
@@ -270,19 +251,19 @@ La muerte de la política tal como la conocemos implicará **el fin de los banco
 
 La **ciber**\-economía será  acompañada de **ciber**\-dinero. El dinero de la Era de la Información, reemplazando el dinero papel del Industrialismo.
 
-Esto significará no sólo un cambio en las fortunas beneficiadas por la impresión de dinero, sino también **implica la muerte de la inflación** y [la devaluación de la moneda](https://pau.ninja/devaluacion-de-la-moneda/) como herramienta de los gobiernos de manipular y comandar los recursos monetarios.
+Esto significará no sólo un cambio en las fortunas beneficiadas por la impresión de dinero, sino también **implica la muerte de la inflación** y [la devaluación de la moneda](./devaluacion-de-la-moneda) como herramienta de los gobiernos de manipular y comandar los recursos monetarios.
 
-La experiencia del siglo 19 nos vendría a decir que el crecimiento a largo plazo puede proceder a buen ritmo mientras la deflación va haciendo crecer [el valor del dinero (Bitcoin)](https://pau.ninja/por-que-tiene-valor-el-bitcoin/).
+La experiencia del siglo 19 nos vendría a decir que el crecimiento a largo plazo puede proceder a buen ritmo mientras la deflación va haciendo crecer [el valor del dinero (Bitcoin)](./por-que-tiene-valor-el-bitcoin).
 
 Esto implica que las empresas y estrategias de inversión se tienen que **ajustar a una nueva realidad (aún) desconocida** como es la deflación.
 
-O sea que un consejo de sentido común: evitar la deuda de todo tipo. Tenemos que perseguir la reducción de costes y [el ahorro en valores refugio](https://pau.ninja/valores-refugio/) a toda costa.
+O sea que un consejo de sentido común: evitar la deuda de todo tipo. Tenemos que perseguir la reducción de costes y [el ahorro en valores refugio](./valores-refugio) a toda costa.
 
 ### Llevar los negocios al mundo online
 
 ¿Y cómo nos aprovechamos, ya no sólo de el ciberdinero, sino de esta cibereconomía? llevando nuestros negocios online a internet, e invirtiendo en el nuevo paradigma.
 
-No tiene ningún sentido tener nuestros negocios *onshore*. En países de alta tributación cuando los podemos crear una empresa online fuera de España, en países de tributación mucho menores.
+No tiene ningún sentido tener nuestros negocios _onshore_. En países de alta tributación cuando los podemos crear una empresa online fuera de España, en países de tributación mucho menores.
 
 Las corporaciones en la Era de la Información cada vez se volverán más virtuales. Corporaciones virtuales.
 
@@ -362,6 +343,91 @@ Japón tiene una deuda de 237%, España ya pasa también del 100% junto con la [
 
 ¿Os dais cuenta no? acabamos de predecir esta pérdida de capacidad de impuestos, así que la tendencia será… **imponer más impuestos**.
 
-Es exactamente lo mismo que vimos en la [economía romana](https://pau.ninja/la-economia-en-el-imperio-romano/). Pero esta vez, a una velocidad digna de nuestra cultura tecnológica: a toda pastilla.
+Es exactamente lo mismo que vimos en la [economía romana](./la-economia-en-el-imperio-romano). Pero esta vez, a una velocidad digna de nuestra cultura tecnológica: a toda pastilla.
 
 Muchos no tendrán tiempo de reaccionar, así que empieza a hacer los pasos para volverte soberano y liberarte.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Impuestos](./impuestos)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/como-ser-libre-individuo-soberano/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13376,"title":"Las%2012%20lecciones%20del%20Individuo%20Soberano%20para%20SER%20LIBRE","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/01\\/individuo-soberano.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

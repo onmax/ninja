@@ -1,14 +1,19 @@
 ---
-title: "La anti-lista de la compra del Mercadona (Verdaderos) alimentos malos para la salud"
+title: "La anti-lista de la compra del Mercadona"
+url: https://pau.ninja/alimentos-malos-para-la-salud
+slug: alimentos-malos-para-la-salud
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: asustado-con-lista-de-compra.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/asustado-con-lista-de-compra.jpeg
 published: 2021-10-13T06:03:41+00:00
 modified: 2024-02-07T15:51:04+00:00
+scrappedAt: 2024-10-14T09:21:01.840Z
 audioLink: https://www.ivoox.com/anti-lista-compra-del-mercadona_md_77222342_wp_1.mp3
-slug: alimentos-malos-para-la-salud
+bibliography: []
 ---
-
-[https://www.ivoox.com/anti-lista-compra-del-mercadona_md_77222342_wp_1.mp3](https://www.ivoox.com/anti-lista-compra-del-mercadona_md_77222342_wp_1.mp3)
+[https://www.ivoox.com/anti-lista-compra-del-mercadona\_md\_77222342\_wp\_1.mp3](https://www.ivoox.com/anti-lista-compra-del-mercadona_md_77222342_wp_1.mp3)
 
 Si utilizáis el buscador para sacar una lista de los alimentos malos para la salud, os encontraréis con artículos que enlazan a menos referencias científicas que pelo tengo en mi cabeza.
 
@@ -18,30 +23,19 @@ En las primeras posiciones de la lista ponen a la «carne» o «carnes rojas». 
 
 ¿Hay estudios de la carne que «demuestran» que es mala para la salud? **sí, pero sólo si no tenemos en cuenta el contexto**. Son ensayos clínicos en los que la carne que se ha dado a los sujetos era: alimentada con [grano](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2846864/) (dieta [no natural](https://www.pbs.org/wgbh/pages/frontline/shows/meat/interviews/pollan.html) del animal), o se había cocinado [demasiado](https://www.cancer.gov/about-cancer/causes-prevention/risk/diet/cooked-meats-fact-sheet) hasta que había esas partes negras.
 
-Eso sí. Después en las conclusiones de los estudios se afirma «que la carne es mala», así en general. Y es irónico porque hay dos cosas que han hecho [evolucionar al ser humano: la carne](https://pau.ninja/el-ser-humano-es-carnivoro/) y relaciones sociales (#194).
+Eso sí. Después en las conclusiones de los estudios se afirma «que la carne es mala», así en general. Y es irónico porque hay dos cosas que han hecho [evolucionar al ser humano: la carne](./el-ser-humano-es-carnivoro) y relaciones sociales (#194).
 
-No hace mucho (#217) comentábamos que [los 5 alimentos más sanos del mundo](https://pau.ninja/alimentos-mas-sanos-del-mundo/) son de… **origen animal** y aún así, tenemos los collons de etiquetar la carne como mala sin explicar el contexto en el que ha sido estudiada, o al veganismo como algo «sano» cuando no hay razones para basar esta afirmación en nada.
+No hace mucho (#217) comentábamos que [los 5 alimentos más sanos del mundo](./alimentos-mas-sanos-del-mundo) son de… **origen animal** y aún así, tenemos los collons de etiquetar la carne como mala sin explicar el contexto en el que ha sido estudiada, o al veganismo como algo «sano» cuando no hay razones para basar esta afirmación en nada.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
 Y es irónico, porque hoy voy a citar los alimentos más perjudiciales y menos el primero, todos los demás son de origen vegetal.
 
 Ups.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Lista de los alimentos malos para la salud](#Lista_de_los_alimentos_malos_para_la_salud 'Lista de los alimentos malos para la salud')
-  - [Carne de baja calidad](#Carne_de_baja_calidad 'Carne de baja calidad')
-  - [Carbohidratos refinados](#Carbohidratos_refinados 'Carbohidratos refinados')
-  - [Azúcar](#Azucar 'Azúcar')
-  - [Aceites de semillas vegetales](#Aceites_de_semillas_vegetales 'Aceites de semillas vegetales')
-  - [Antinutrientes presentes en plantas](#Antinutrientes_presentes_en_plantas 'Antinutrientes presentes en plantas')
-
 ## Lista de los alimentos malos para la salud
 
-Como más me adentro a nuestra [dieta ancestral](https://pau.ninja/), más me doy cuenta de que tiene todo el sentido del mundo [seguir una dieta basada sólo en carne](https://pau.ninja/dieta-carnivora/).
+Como más me adentro a nuestra [dieta ancestral](./), más me doy cuenta de que tiene todo el sentido del mundo [seguir una dieta basada sólo en carne](https://pau.ninja/dieta-carnivora).
 
 Pero…
 
@@ -59,7 +53,7 @@ Humanos y el resto de animales, nos pasa exactamente lo mismo cuando nos aliment
 
 Dejamos de funcionar como deberíamos y salen problemas de salud más abundantes que la corrupción española.
 
-Claro, aquí hay que tener en cuenta que una dieta carnívora es virtualmente con **cero carbohidratos**. Nos pasamos a alimentar de grasas como fuente de energía ([cetogénica](https://pau.ninja/dieta-cetogenica-ciclica/)) .
+Claro, aquí hay que tener en cuenta que una dieta carnívora es virtualmente con **cero carbohidratos**. Nos pasamos a alimentar de grasas como fuente de energía ([cetogénica](./dieta-cetogenica-ciclica)) .
 
 ¿Por qué a nivel nutricional queremos que el animal sea de pasto? pues porque la parte grasa del animal se convierte **literalmente** en la calidad con la dieta que ha seguido el animal.
 
@@ -81,11 +75,11 @@ Ya lo he comentado alguna vez pero los análisis de laboratorio han confirmado l
 
 Los otros tercios son alimentados con grano, claro.
 
-![omega3 animales pasto](https://pau.ninja/wp-content/uploads/2021/10/omega3-animales-pasto.jpeg)
+![omega3 animales pasto](./wp-content/uploads/2021/10omega3-animales-pasto.jpeg)
 
 Lo que sucede es la carne de pasto tiene un rato de 1:1 entre omega 3 y omega 6, pero **la que sólo es 1/3 de pasto, tiene 7 veces más omega 6 que omega 3**, o sea que el ratio se nos va de madre.
 
-Por esto digo que la «carne» y la carne de pasto, claro, comparten el mismo nombre, pero son cosas totalmente distintas y me saca que quicio que se pongan en el mismo saco cuando por ejemplo de habla de [cáncer](https://www.upf.edu/web/nutrimedia/-/comer-carne-puede-elevar-ligeramente-el-riesgo-de-cancer-pero-este-riesgo-es-muy-inferior-al-de-fumar-o-consumir-alcohol#.YO5zfRMzblw), o cuando los [veganos dicen que es insostenible](https://pau.ninja/veganismo-y-medio-ambiente/) para el medio ambiente, por ejemplo.
+Por esto digo que la «carne» y la carne de pasto, claro, comparten el mismo nombre, pero son cosas totalmente distintas y me saca que quicio que se pongan en el mismo saco cuando por ejemplo de habla de [cáncer](https://www.upf.edu/web/nutrimedia/-/comer-carne-puede-elevar-ligeramente-el-riesgo-de-cancer-pero-este-riesgo-es-muy-inferior-al-de-fumar-o-consumir-alcohol#.YO5zfRMzblw), o cuando los [veganos dicen que es insostenible](./veganismo-y-medio-ambiente) para el medio ambiente, por ejemplo.
 
 O el peor de todos los males: las mentiras a medias.
 
@@ -95,11 +89,11 @@ No mucha gente lo sabe y por esto la carne de pasto (de verdad, la llamada _gras
 
 ### Carbohidratos refinados
 
-Lo bueno es que podemos ahorrarnos dinero para comprar carne de pasto si dejamos de comprar alimentos malos como dos que ya os digo que **no** os van a sorprender antes de pasar a las [verduras](https://pau.ninja/alimentos-malos-para-la-salud/#Antinutrientes_presentes_en_plantas).
+Lo bueno es que podemos ahorrarnos dinero para comprar carne de pasto si dejamos de comprar alimentos malos como dos que ya os digo que **no** os van a sorprender antes de pasar a las [verduras](./alimentos-malos-para-la-salud#Antinutrientes_presentes_en_plantas).
 
 El primer candidato es, como no, los carbohidratos refinados que es [facilísimo](https://pubmed.ncbi.nlm.nih.gov/24008907/) que los consumamos en exceso en nuestra sociedad actual.
 
-Al fin y al cabo los hemos creado para **saltarse las defensas del cuerpo** como las [hormonas del hambre](https://pau.ninja/comer-una-vez-al-dia/#Bajos_niveles_de_leptina) o picos de insulina para que los podamos comer sin que el cuerpo se de cuenta del porrón de calorías vacías que se ha tomado.
+Al fin y al cabo los hemos creado para **saltarse las defensas del cuerpo** como las [hormonas del hambre](./comer-una-vez-al-dia#Bajos_niveles_de_leptina) o picos de insulina para que los podamos comer sin que el cuerpo se de cuenta del porrón de calorías vacías que se ha tomado.
 
 ¿A qué nos lleva esto? a obesidad, diabetes y [enfermedades](https://www.healthline.com/nutrition/why-refined-carbs-are-bad) de estilo de vida. Y esto sin contar que estas comidas también contienen:
 
@@ -109,7 +103,7 @@ Al fin y al cabo los hemos creado para **saltarse las defensas del cuerpo** como
 
 Hasta nos han vendido que los cereales integrales son mucho más sanos cuando en verdad tienen muy pocos nutrientes.
 
-Y si tienen pocos, los refinado aún tienen menos y encima **no** les han sacado los [antinutriente presentes](https://pau.ninja/alimentos-malos-para-la-salud/#Antinutrientes_presentes_en_plantas), que tocaremos un poco más a fondo cuando entremos en el maravilloso mundo de las plantas.
+Y si tienen pocos, los refinado aún tienen menos y encima **no** les han sacado los [antinutriente presentes](./alimentos-malos-para-la-salud#Antinutrientes_presentes_en_plantas), que tocaremos un poco más a fondo cuando entremos en el maravilloso mundo de las plantas.
 
 > Muchos de los cereales que pensamos que son integrales o que se anuncian en los paquetes como tal, en verdad son carbohidratos refinados con fibra re-añadida.
 
@@ -123,7 +117,7 @@ El otro candidato que todos conocemos y que también es vegano es el azúcar. L
 
 La palatabilidad es el sabor, el ser grato al paladar.
 
-Igual que cuando os hablé [de hacer una sola comida al día](https://pau.ninja/comer-una-vez-al-dia/) y de cómo comer grasa pura nos da nauseas al hacer el test de la [sensación de saciedad](https://pau.ninja/comer-una-vez-al-dia/#Sensacion_de_saciedad_comiendo_poco), **con el azúcar esto no sucede**.
+Igual que cuando os hablé [de hacer una sola comida al día](./comer-una-vez-al-dia/) y de cómo comer grasa pura nos da nauseas al hacer el test de la [sensación de saciedad](https://pau.ninja/comer-una-vez-al-dia#Sensacion_de_saciedad_comiendo_poco), **con el azúcar esto no sucede**.
 
 Podemos comer sin parar y el cuerpo **no** nos da señales hormonales de que ya estamos llenos. **Es muy distinto estar lleno físicamente, que estar saciado**.
 
@@ -166,9 +160,9 @@ Si vamos comiéndolos, nos sucede igual que a cualquier otro animal alimentado c
 
 Literalmente.
 
-Cuando nos metemos aceites vegetales con montones de [ácido linoleico](<https://www.news-medical.net/health/What-is-Linoleic-Acid-(Spanish).aspx>) y omega 6, los lípidos, el colesterol, todas las grasas de nuestro cuerpo se vuelven en grasas de aceites vegetales.
+Cuando nos metemos aceites vegetales con montones de [ácido linoleico](https://www.news-medical.net/health/What-is-Linoleic-Acid-\(Spanish\).aspx) y omega 6, los lípidos, el colesterol, todas las grasas de nuestro cuerpo se vuelven en grasas de aceites vegetales.
 
-![grasas-transformadas](https://pau.ninja/wp-content/uploads/2021/10/grasas-transformadas.png)
+![grasas-transformadas](./wp-content/uploads/2021/10grasas-transformadas.png)
 
 Siendo un poquito más profesional y para que podamos seguir entendiéndolo con el lenguaje ninja os lo traduzco: nuestros cuerpos **no pueden reconocer la composición célula-grasa**, entonces ataca las células y ya os esperáis cómo termina esto.
 
@@ -184,7 +178,7 @@ La mayoría nos dejamos vender por un buen empaquetado. Si sale que es sano o es
 
 ### Antinutrientes presentes en plantas
 
-Supongo que por esto hemos considerado las plantas «buenas» durante taaaaanto tiempo. ¿Os extraña que haya decidido [no comer verduras](https://pau.ninja/no-comer-verduras/)?
+Supongo que por esto hemos considerado las plantas «buenas» durante taaaaanto tiempo. ¿Os extraña que haya decidido [no comer verduras](./no-comer-verduras)?
 
 No entendemos que mientras que nosotros hemos evolucionado mecanismos de defensa biológicos basados en el movimiento, las plantas también tienen sus propios mecanismos.
 
@@ -197,7 +191,7 @@ Con millones de años de evolución empantanadas en el suelo, han desarrollado u
 - **Taninos:** té, café y legumbres
 - [Glucosinolatos](http://www.ehu.eus/biomoleculas/hc/sugar33c6.htm) + [bociógenos](https://www.consumer.es/alimentacion/sustancias-bociogenas-en-vegetales.html)
 
-Toda esta [lista de antinutrientes de los que ya hablé](https://pau.ninja/antinutrientes-lista/), causan malestar, enfermedades o simplemente «atacan» a los minerales y nutrientes de nuestro cuerpo.
+Toda esta [lista de antinutrientes de los que ya hablé](./antinutrientes-lista), causan malestar, enfermedades o simplemente «atacan» a los minerales y nutrientes de nuestro cuerpo.
 
 Por algo se llaman antinutrientes y no «acompaña-nutrientes»…
 
@@ -214,3 +208,93 @@ No nos matará, pero con el tiempo, empezaremos a acarrear montones de problemas
 Lo del efecto «antioxidante» es una de esas falacias desmontadas. Desmontada pero no publicitadas, de lo contrario habría ya productos que no nos pudieran vender.
 
 Hay docenas y docenas de estos anitnutrientes y dependiendo de la planta contiene distintas cantidades de cada uno.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/alimentos-malos-para-la-salud/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":12849,"title":"Los%205%20alimentos%20MALOS%20para%20tu%20salud%20%28que%20comes%20a%20diario%29","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/asustado-con-lista-de-compra.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

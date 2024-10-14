@@ -1,24 +1,31 @@
 ---
-title: "Mi médico mintió sobre las grasas saturadas (son buenas)"
+title: "Mi médico mintió sobre las grasas saturadas"
+url: https://pau.ninja/grasas-saturadas-son-buenas
+slug: grasas-saturadas-son-buenas
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: mitos-nutricionales
+    label: Mentiras nutricionales
 image: persona-sacando-grasa.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/persona-sacando-grasa.jpeg
 published: 2021-10-05T07:26:23+00:00
 modified: 2023-07-26T12:50:24+00:00
+scrappedAt: 2024-10-14T09:21:05.694Z
 audioLink: https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas_md_70083343_wp_1.mp3
-slug: grasas-saturadas-son-buenas
+bibliography: []
 ---
-
-[https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas_md_70083343_wp_1.mp3](https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas_md_70083343_wp_1.mp3)
+[https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas\_md\_70083343\_wp\_1.mp3](https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas_md_70083343_wp_1.mp3)
 
 Hace poco anunciaba por las redes sociales que llevo un tiempo comiendo **sólo carne**. Que en pocas semanas había empezado a ver beneficios físicos y mentales y como no… un grupillo me saltó a la yugular.
 
 Hablaban sobre la «mortalidad» de las grasas saturada, las carnes rojas «asociadas» al cáncer y falacias que **hoy vamos a desmentir**, analizando estudios científicos y sentido común para que podamos dejar de repetir como loros los mismos dogmas de siempre que hemos aceptado como verdades.
 
-Hacer experimentos que desde fuera parecen extremos (como puede ser el de seguir [**esta dieta carnívora**](https://pau.ninja/dieta-carnivora/)), me ayuda a descubrir cosas de mi cuerpo y mente que antes no conocía.
+Hacer experimentos que desde fuera parecen extremos (como puede ser el de seguir [**esta dieta carnívora**](./dieta-carnivora)), me ayuda a descubrir cosas de mi cuerpo y mente que antes no conocía.
 
 A los proponentes de dietas «balanceadas» ya veréis que no hay nada **menos sano** que una dieta balanceada. La dieta balanceada es el resultado de aceptar que el ser humano no entiende de nutrición y por lo tanto metemos un poco de todo.
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2021/10/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2021/10comic-longevidad.png)
 
 Lo de la «dieta balanceada» es como tirar caca en el ventilador para ver que se engancha en la pared. El problema es que después tocará limpiarlo y nos costará mucho más trabajo.
 
@@ -32,7 +39,7 @@ Y sí. Tiene grasas saturadas.
 
 ¿Cómo puede ser que las madres alimenten a sus hijos de la forma más natural que exista y que esa leche contenga algo que siempre nos ha dicho que «es malo»?
 
-Esta falta de sentido común empieza en el año 1977, cuando se publicaron en Estados Unidos unas [guías](<https://books.google.ru/books?id=kNH4BNDQETQC&pg=PA12&lpg=PA12&dq=%22Increase+carbohydrate+consumption+to+account+for+55+to+60+percent+of+the+energy+(caloric)+intake.%22&source=bl&ots=10lf3-Ope6&sig=ACfU3U3aYjSAvoJz9rFxeORlxQnZkUa9TA&hl=es&sa=X&ved=2ahUKEwjY8PGxwcjwAhWR5OAKHVrMDgQQ6AEwA3oECAoQAw#v=onepage&q=%22Increase%20carbohydrate%20consumption%20to%20account%20for%2055%20to%2060%20percent%20of%20the%20energy%20(caloric)%20intake.%22&f=false>) oficiales sobre como debería ser el consumo ideal del ciudadano medio. Para que os hagáis una idea había perlas como:
+Esta falta de sentido común empieza en el año 1977, cuando se publicaron en Estados Unidos unas [guías](https://books.google.ru/books?id=kNH4BNDQETQC&pg=PA12&lpg=PA12&dq=%22Increase+carbohydrate+consumption+to+account+for+55+to+60+percent+of+the+energy+\(caloric\)+intake.%22&source=bl&ots=10lf3-Ope6&sig=ACfU3U3aYjSAvoJz9rFxeORlxQnZkUa9TA&hl=es&sa=X&ved=2ahUKEwjY8PGxwcjwAhWR5OAKHVrMDgQQ6AEwA3oECAoQAw#v=onepage&q=%22Increase%20carbohydrate%20consumption%20to%20account%20for%2055%20to%2060%20percent%20of%20the%20energy%20\(caloric\)%20intake.%22&f=false) oficiales sobre como debería ser el consumo ideal del ciudadano medio. Para que os hagáis una idea había perlas como:
 
 - Subir los carbohidratos al 55-60% de la dieta diaria
 - Bajar el consumo de grasas y grasas saturadas en un 30-40%
@@ -46,7 +53,7 @@ Estas recomendaciones oficiales en EEUU, se fueron transmitiendo por todo el mun
 
 No miraron de dónde vinieron las conclusiones de que se tenían que aumentar los carbohidratos y bajar las grasas.
 
-![recomendacion-dietaria](https://pau.ninja/wp-content/uploads/2021/10/recomendacion-dietaria.jpg)
+![recomendacion-dietaria](./wp-content/uploads/2021/10recomendacion-dietaria.jpg)
 
 Gráfico: la recomendación que hiciera. De una dieta mala… a una dieta peor.
 
@@ -62,32 +69,13 @@ Para mi, seguir mi «dieta de sólo partes de animales» me ha sacado la venda d
 
 > Eso que te dices «pero, ¿cómo he estado tan ciego?»
 
-Desde que [nos dimos cuenta de la verdad de los carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/), del fraude nutricional más grande de nuestra (#181), te haces preguntas…
+Desde que [nos dimos cuenta de la verdad de los carbohidratos](./la-verdad-sobre-los-carbohidratos), del fraude nutricional más grande de nuestra (#181), te haces preguntas…
 
 > «Porque claro si los carbohidratos son malos para los humanos, son un recursos de supervivencia, el único combustible que me queda son las grasas y estas siempre me habían dicho que son malas, especialmente las saturadas.»
 
 Claro con el nombre de «grasas saturadas» ya te imaginas que se te van a saturar las venas y de aquí vienen los ataques al corazón.
 
 > Pues aquí el notición: las grasas saturadas no son malas. Es más, son buenas y totalmente indispensables para vivir y funcionar correctamente.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Estudios sobre la carne](#Estudios_sobre_la_carne 'Estudios sobre la carne')
-  - [Estudios antiguos](#Estudios_antiguos 'Estudios antiguos')
-  - [Estudios recientes](#Estudios_recientes 'Estudios recientes')
-  - [Estudios actuales](#Estudios_actuales 'Estudios actuales')
-- [Motivos por los que la carne es sana](#Motivos_por_los_que_la_carne_es_sana 'Motivos por los que la carne es sana')
-  - [La grasa saturada es buena](#La_grasa_saturada_es_buena 'La grasa saturada es buena')
-  - [La carne no da cáncer](#La_carne_no_da_cancer 'La carne no da cáncer')
-  - [No tiene toxinas ni antinutrientes](#No_tiene_toxinas_ni_antinutrientes 'No tiene toxinas ni antinutrientes')
-  - [Es el alimento más completo](#Es_el_alimento_mas_completo 'Es el alimento más completo')
-  - [La carne roja es buena para el colesterol](#La_carne_roja_es_buena_para_el_colesterol 'La carne roja es buena para el colesterol')
-  - [La carne con Omega 3](#La_carne_con_Omega_3 'La carne con Omega 3')
-  - [Impacto de la carne en la longevidad](#Impacto_de_la_carne_en_la_longevidad 'Impacto de la carne en la longevidad')
-  - [Los suplementos no son necesarios](#Los_suplementos_no_son_necesarios 'Los suplementos no son necesarios')
-  - [Era la dieta de nuestros ancestros](#Era_la_dieta_de_nuestros_ancestros 'Era la dieta de nuestros ancestros')
 
 ## Estudios sobre la carne
 
@@ -105,13 +93,13 @@ Este por desgracia ha sido el paradigma que hemos estado siguiendo y hay mucha h
 
 Ahora mismo rebajado
 
-[![Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFeWRtZHFLMjlLY1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA4Mw=)](https://www.amazon.es/dp/035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet')
+[![Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFeWRtZHFLMjlLY1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY4MQ=)](https://www.amazon.es/dp035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet")
 
-[Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet](https://www.amazon.es/dp/035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet')
+[Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet](https://www.amazon.es/dp/035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet")
 
-21,84 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+21,84 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pero mi ejemplo favorito que refleja la información fraudulenta que publican los estudios epidemiológicos, es el caso de Nicolas Cage.
 
@@ -119,7 +107,7 @@ Que pasa, ¿que a al bueno de Nicolas le gustan mucho las grasas o estudios cien
 
 Podría ser, pero para que veamos el poder de **relacionar** datos sin que se estudien las causas.
 
-![relacion-nicolas-cage](https://pau.ninja/wp-content/uploads/2021/10/relacion-nicolas-cage.jpg)
+![relacion-nicolas-cage](./wp-content/uploads/2021/10relacion-nicolas-cage.jpg)
 
 Y es que salía una noticia hace un tiempo que decía que «mirar pelis de Nicolas Cage sube el riesgo de que te puedas morir ahogado en una piscina».
 
@@ -161,7 +149,7 @@ Pues bien, el estudio se terminó en 1973 pero **los resultados nunca se publica
 
 Cuando salió a la luz analizaron a fondo el estudio, encontraron que el grupo al que se le había dado el aceite vegetal **incrementó por 62%** la posibilidad de sufrir un ataque al corazón.
 
-![mortalidad-grasa-saturada](https://pau.ninja/wp-content/uploads/2021/10/mortalidad-grasa-saturada.png)
+![mortalidad-grasa-saturada](./wp-content/uploads/2021/10mortalidad-grasa-saturada.png)
 
 Y recordemos que este estudio fue **controlado, aleatorio y a lo largo de varios años**. El mejor tipo de estudios que hay en el cajón de los científicos después de los metaanálisis.
 
@@ -171,7 +159,7 @@ Se ve que cuando le preguntaron a uno de los investigadores jefe, unos años ant
 
 ¿En lenguaje ninja? que no encajaban con su narrativa.
 
-Recordamos que esa época, era la época donde [la industria y la mentira de los carbohidrato](https://pau.ninja/la-verdad-sobre-los-carbohidratos/) floreció más. O sea que lo más probable es que varios resultados de estos estudios se quisieran enterrar, y que a la vez no se haya vuelto a estudiar a fondo el efecto **real** de grasas saturadas porque ya se haya dado por sentado que son malas y se haya tomado como una verdad absoluta.
+Recordamos que esa época, era la época donde [la industria y la mentira de los carbohidrato](./la-verdad-sobre-los-carbohidratos) floreció más. O sea que lo más probable es que varios resultados de estos estudios se quisieran enterrar, y que a la vez no se haya vuelto a estudiar a fondo el efecto **real** de grasas saturadas porque ya se haya dado por sentado que son malas y se haya tomado como una verdad absoluta.
 
 Pero como veremos, esto empieza a cambiar, aunque no haya llegado al público.
 
@@ -189,7 +177,7 @@ Siguieron a 48.000 mujeres durante 8 años y cuando miramos los resultados que s
 
 Pero es cuando vamos a la página 661 ([extracto](https://jamanetwork.com/journals/JAMA/articlepdf/202339/joc60004.pdf)) que nos [encontramos](http://www.samj.org.za/index.php/samj/article/view/7343/5505) algo muy interesante. Después de párrafos y párrafos, nos dejan con una línea sutilmente camuflada.
 
-![verdad-escondida](https://pau.ninja/wp-content/uploads/2021/10/verdad-escondida.jpg)
+![verdad-escondida](./wp-content/uploads/2021/10verdad-escondida.jpg)
 
 Parece ser que realmente el estudio sí que había encontrado algo relevante. ¿El qué? pues que las mujeres con historial de enfermedades del corazón, que se pasaron a una dieta baja en grasas, sus posibilidades de desarrollar complicaciones rollo **ataques al corazón se incrementaron en un 26%**.
 
@@ -219,17 +207,17 @@ Todos tenemos accesos a todos los estudios y llegar a nuestras propias conclusio
 
 Porque yo estuve equivocado.
 
-![comiendo-churrasco](https://pau.ninja/wp-content/uploads/2021/10/comiendo-churrasco.jpg)
+![comiendo-churrasco](./wp-content/uploads/2021/10comiendo-churrasco.jpg)
 
 Foto: yo mismo comiendo churrasco con hígados por primera vez después de más de 6 años con dietas veganas y vegetarianas.
 
-> Estuve equivocado y por eso [decidí **no** ser vegano](https://pau.ninja/razones-para-no-ser-vegano/). Me dejé llevar por una narrativa muy romántica y bonita pero que es totalmente mentira y creada para venderme suplementos y productos para suplir carencias nutricionales que ese tipo de dieta llevaba.
+> Estuve equivocado y por eso [decidí **no** ser vegano](./razones-para-no-ser-vegano). Me dejé llevar por una narrativa muy romántica y bonita pero que es totalmente mentira y creada para venderme suplementos y productos para suplir carencias nutricionales que ese tipo de dieta llevaba.
 
 Y me reitero a lo que acabo de decir incluso en la ética de los animales y medio ambiente al que ya entro de pies y cabeza cuando os explico la experiencia de ser vegano Vs carnívoro.
 
 Pero ya os puedo adelantar que todo está al revés.
 
-![vegano vs carnívoro](https://pau.ninja/wp-content/uploads/2021/10/vegano-vs-carnivoro.jpeg)
+![vegano vs carnívoro](./wp-content/uploads/2021/10vegano-vs-carnivoro.jpeg)
 
 Estuve equivocado y sin duda aún hay cosas que no entiendo o que no he podido investigar más de lo que me gustaría, pero sin duda me siento en un camino que tiene mucho más sentido en las «tres patas» de la nutrición (así las llamo yo):
 
@@ -247,7 +235,7 @@ Hay evidencia que nos muestra (muy claramente) como las grasas saturadas no sól
 
 Somos un público muy aferrado a la pirámide alimentaria tradicional que recomienda pan y cereales como base de toda alimentación sana.
 
-![pirámide nutricional](https://pau.ninja/wp-content/uploads/2021/10/piramide-nutricional.jpeg)
+![pirámide nutricional](./wp-content/uploads/2021/10piramide-nutricional.jpeg)
 
 Si como vimos en la falacia de los carbohidratos (#181), la pirámide nutricional tendría que ser al revés, esto por lógica debe significar que habrá bastantes conceptos que los tengamos al revés.
 
@@ -262,7 +250,7 @@ Después de haber estado en la dieta carnívora ya un tiempo y de las mejoras qu
 
 De hecho me atrevería a decir que **es el alimento más sano**. El súper alimento de verdad.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
 Por cierto, que cuando hablo de «carne» siempre me estoy refiriendo a ganado 100% de pasto, tratado con respeto, con 0 antibióticos. Totalmente eco.
 
@@ -280,7 +268,7 @@ Después de haberlo analizado, el Journal of the American College of Cardiology 
 
 Estamos hablando de una organización que acostumbraba a estar (muy a saco) a favor de dieta muy bajas en grasas.
 
-Me parece un paso muy importante porque sabéis que una de las narrativas [para hacerse vegano y no carnívoro](https://pau.ninja/razones-para-no-ser-vegano/) es «lo malas que son las grasas saturadas».
+Me parece un paso muy importante porque sabéis que una de las narrativas [para hacerse vegano y no carnívoro](./razones-para-no-ser-vegano) es «lo malas que son las grasas saturadas».
 
 ### La carne no da cáncer
 
@@ -309,7 +297,7 @@ Toxinas y antinutrientes que causan deficiencias en lo que comemos. Personalmen
 
 > El hecho de consumir grasas saturadas implica que estamos consumiendo menos verdura y fruta y esto **es bueno**.
 
-Expando en la [evidencia de estos antinutrientes en la dieta carnívora](https://pau.ninja/dieta-carnivora/#Motivos_y_evidencia_para_seguir_una_dieta_carnivora).
+Expando en la [evidencia de estos antinutrientes en la dieta carnívora](./dieta-carnivora#Motivos_y_evidencia_para_seguir_una_dieta_carnivora).
 
 ### Es el alimento más completo
 
@@ -321,7 +309,7 @@ Que no se contrarrestan como pasa con las verduras. Con «contrarrestar» me ref
 
 En los animales obtenemos absolutamente **todos los nutrientes que necesitamos**.
 
-![tipos-de-carne-roja](https://pau.ninja/wp-content/uploads/2021/10/tipos-de-carne-roja.jpg)
+![tipos-de-carne-roja](./wp-content/uploads/2021/10tipos-de-carne-roja.jpg)
 
 Foto: yo con una bandeja llena de carne roja y unos huesos de vaca.
 
@@ -336,7 +324,7 @@ Cuando se come una dieta completa de carne (realmente completa) con todas esas p
 
 A toda esta lista de vitaminas también incluyo a la temida Vitamina C, que la gente se piensa que no hay vitamina C en los animales, y esto es una mentira como una casa.
 
-Toco a fondo el tema de la [Vitamina C en la carne](https://pau.ninja/dieta-carnivora/#Vitamina_C).
+Toco a fondo el tema de la [Vitamina C en la carne](./dieta-carnivora#Vitamina_C).
 
 ### La carne roja es buena para el colesterol
 
@@ -346,11 +334,9 @@ La respuesta es que sí.
 
 Parece que en eso no nos engañaron… pero si que nos engañaron en la narrativa. ¿Por qué? porque comer carne roja y grasas saturadas **sí** nos subirá el colesterol LDL… pero resulta que el colesterol LDL **no es malo**.
 
-Ya desmentí la [falacia y la gran mentira del colesterol (o cómo inventarse una enfermedad)](https://pau.ninja/la-gran-mentira-del-colesterol/). El resumen es que de hecho… más colesterol LDL se ha [asociado](https://medicalxpress.com/news/2010-09-high-cholesterol-longevity.html) a más longevidad. **A vivir más años.**
+Ya desmentí la [falacia y la gran mentira del colesterol (o cómo inventarse una enfermedad)](./la-gran-mentira-del-colesterol/). El resumen es que de hecho… más colesterol LDL se ha [asociado](https://medicalxpress.com/news2010-09-high-cholesterol-longevity.html) a más longevidad. **A vivir más años.**
 
 Eso lo podemos confirmar «lo giramos» un poco, porque [nuevos](https://www.sciencedaily.com/releases/2016/06/160627095006.htm) estudios mirando a casi 70.000 ancianos han demostrado que **no hay relación de mortalidad y colesterol «malo»**.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 A parte de este, hubo un estudio [reciente](https://pubmed.ncbi.nlm.nih.gov/27292972/) de 2016 (systematic review mirando a **19 estudios**), que miraron a la mortalidad y los niveles de LDL.
 
@@ -378,7 +364,7 @@ No es sabido por todo el mundo pero el omega 3 también se puede obtener **en a
 
 Esto se ve por ejemplo en un estudio en Australia donde se [miraba](https://pubmed.ncbi.nlm.nih.gov/16500874/) a la cantidad de Omega 3 y Omega 6 en los animales según si alimentaban con una dieta 100% de pasto, 2/3 de pasto o 1/3 de pasto.
 
-![omega3 animales pasto](https://pau.ninja/wp-content/uploads/2021/10/omega3-animales-pasto.jpeg)
+![omega3 animales pasto](./wp-content/uploads/2021/10omega3-animales-pasto.jpeg)
 
 Adivinad cuál es mejor… el de 100% pasto, claro.
 
@@ -390,7 +376,7 @@ Y esto no se termina aquí.
 
 También miraron la cantidad de Omega 3 disponible a medida que se les cambiaba la dieta a las vacas y se las empezaba a alimentar exclusivamente con grano (como por desgracia sucede en la mayoría de carne que se compra al supermercado).
 
-![cero-omega3](https://pau.ninja/wp-content/uploads/2021/10/cero-omega3.jpeg)
+![cero-omega3](./wp-content/uploads/2021/10cero-omega3.jpeg)
 
 ¿Qué encontraron? pues que al cabo de 196 días, la cantidad de Omega 3 en la carne había **pasado a ser cero**.
 
@@ -402,8 +388,6 @@ Tal vez lo ideal si tiramos por la vía del pescado sería pescado de piscifacto
 
 Para los que saben inglés y a la vez les mola la nutrición a nivel más técnico, os dejaré el vídeo de un seminario del Dr. Paul Mason.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Allí explica por qué las grasas saturadas son buenas, y va mucho más al detalle y a lo técnicamente científico en el tema de los Omegas y el consumo de carne de calidad.
 
 ### Impacto de la carne en la longevidad
@@ -412,7 +396,7 @@ Hemos visto como tener más colesterol «malo» significa vivir más.
 
 ¿Sabéis que me pasó por la mente cuando me informé de esto? Pensé: «y esos sitios del Planeta donde hay más centenarios».
 
-Más de uno tiene en mente que el consumo de carne está [ligada](https://academic.oup.com/ajcn/article/78/3/526S/4689992?login=true) a vivir menos años, a menos longevidad… y claro es inevitable pensar en esos lugares del Planeta en los que hay el **mayor número de personas que viven +100 años por habitante**. Las llamazas [zonas azules el mundo](https://pau.ninja/zonas-azules-dieta-longevidad/).
+Más de uno tiene en mente que el consumo de carne está [ligada](https://academic.oup.com/ajcn/article/78/3/526S/4689992?login=true) a vivir menos años, a menos longevidad… y claro es inevitable pensar en esos lugares del Planeta en los que hay el **mayor número de personas que viven +100 años por habitante**. Las llamazas [zonas azules el mundo](./zonas-azules-dieta-longevidad).
 
 «¡Esa gente come poca carne!», dicen.
 
@@ -454,7 +438,7 @@ Lo siento para las marcas de nutrición deportiva a las que siempre compraba, pe
 
 ### Era la dieta de nuestros ancestros
 
-Por eso comer grasas saturadas tienen todo el sentido del mundo. Una [dieta carnívora basada en comer solo carne](https://pau.ninja/dieta-carnivora/) es la que está alineada con la manera en cómo comían nuestros ancestros.
+Por eso comer grasas saturadas tienen todo el sentido del mundo. Una [dieta carnívora basada en comer solo carne](./dieta-carnivora) es la que está alineada con la manera en cómo comían nuestros ancestros.
 
 En un entorno en el que el acceso a comida es incierto, ¿qué elegirías?
 
@@ -472,3 +456,89 @@ Porque además las hemos ido modificando genéticamente para que sean cada vez m
 Las carnes rojas y grasas saturadas han sido el combustible que ha hecho [prosperar](https://www.nhm.ac.uk/discover/homo-erectus-our-ancient-ancestor.html) el ser humano desde hace 1.5 millones de años.
 
 Hoy hemos visto los estudios que daban soporte a que esto sigue siendo así. Pero utilizando el sentido común y sabiendo el tiempo que se toma la naturaleza para hacer cambios evolutivos, sería muy extraño pensar que en 10.000 años de pronto las grasas saturadas son malas para nuestro cuerpo.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Mentiras nutricionales](./mitos-nutricionales)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/grasas-saturadas-son-buenas/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14957,"title":"Te%20han%20enga%C3%B1ado...%20Las%20grasas%20saturadas%20S%C3%8D%20son%20buenas","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/persona-sacando-grasa.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

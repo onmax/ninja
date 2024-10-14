@@ -1,13 +1,20 @@
 ---
-title: "Eres adicto al porno (y lo sabes) Motivos, causas y síntomas"
+title: "Eres adicto al porno (y lo sabes)"
+url: https://pau.ninja/adiccion-al-porno
+slug: adiccion-al-porno
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
+  - slug: masculinidad
+    label: Masculinidad
 image: hombre-adicto-porno.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2022/09/hombre-adicto-porno.jpg
 published: 2022-07-04T07:28:59+00:00
 modified: 2023-09-21T05:45:42+00:00
+scrappedAt: 2024-10-14T09:20:35.443Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/57010921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283754504-44100-2-0e0011ff1bd95.mp3
-slug: adiccion-al-porno
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/57010921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283754504-44100-2-0e0011ff1bd95.mp3](https://anchor.fm/s/98566448/podcast/play/57010921/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283754504-44100-2-0e0011ff1bd95.mp3)
 
 ¿Crees que no eres adicto al porno? vale, te creo. Pero hazte un favor con un experimento: déjalo. Déjalo durante 30 días. No te estoy diciendo que dejes de tocarte la zambomba, pero deja de ver pornografía durante 30 días y me mandas un privado a ver que tal ha ido el experimento (sin _fotopolla_, gracias).
@@ -26,9 +33,9 @@ Cuando la gente se da cuenta, se sienten avergonzadas, entonces pasan a querer 
 
 En la encuesta que hice en Twitter +20% consumen pornografía a diario… diciendo que no es una adicción. Es como si los que fuman a diario dicen que no son adictos a la nicotina.
 
-![consumo pornografía estadísticas](https://pau.ninja/wp-content/uploads/2022/06/consumo-pornografia-estadisticas.png)
+![consumo pornografía estadísticas](./wp-content/uploads/2022/06consumo-pornografia-estadisticas.png)
 
-Vimos [lo malo que es ver porno](https://pau.ninja/es-malo-ver-porno/) para el cerebro (#368), afectando a la salud mental en general, marcadores de memoria, fuerza de voluntad y hasta con **trastornos de orientación sexual**.
+Vimos [lo malo que es ver porno](./es-malo-ver-porno) para el cerebro (#368), afectando a la salud mental en general, marcadores de memoria, fuerza de voluntad y hasta con **trastornos de orientación sexual**.
 
 O debería decir «transtornos» porque los adictos van subiendo el tono de los vídeos que miran con el paso del tiempo. Mirando cosas ilegales, o de orientaciones sexuales que no son las suyas para satisfacer la necesidad de estimulación que cada vez es más demandante.
 
@@ -37,24 +44,6 @@ Normal que después la satisfacción sexual en pareja (pareja real) caigan en pi
 Hoy, más que ver cómo afecta ver porno, vamos a aprender las causas y los motivos por los que es tan fácil volverse adicto, y sobretodo de una forma tan sutil y aceptada por nuestra sociedad.
 
 Al fin y al cabo… todo el mundo lo hace. Debe ser algo bueno y natural, ¿no?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Motivos de por qué vemos pornografía](#Motivos_de_por_que_vemos_pornografia 'Motivos de por qué vemos pornografía')
-  - [Sobreestimulación](#Sobreestimulacion 'Sobreestimulación')
-  - [Educación](#Educacion 'Educación')
-  - [Comportamiento](#Comportamiento 'Comportamiento')
-  - [Adicción](#Adiccion 'Adicción')
-- [Causas de la adicción a la pornografía](#Causas_de_la_adiccion_a_la_pornografia 'Causas de la adicción a la pornografía')
-- [Síntomas de la adicción a la pornografía](#Sintomas_de_la_adiccion_a_la_pornografia 'Síntomas de la adicción a la pornografía')
-  - [No ser capaz de dejarlo](#No_ser_capaz_de_dejarlo 'No ser capaz de dejarlo')
-  - [Fetichismos cada vez más extremos](#Fetichismos_cada_vez_mas_extremos 'Fetichismos cada vez más extremos')
-  - [Reducción de la satisfacción sexual](#Reduccion_de_la_satisfaccion_sexual 'Reducción de la satisfacción sexual')
-- [Cómo superar la adicción a la pornografía](#Como_superar_la_adiccion_a_la_pornografia 'Cómo superar la adicción a la pornografía')
-  - [Paso 1) hacer un test de adicción a la pornografía](#Paso_1_hacer_un_test_de_adiccion_a_la_pornografia 'Paso 1) hacer un test de adicción a la pornografía')
-  - [Paso 2) tratamiento para dejar la adicción a la pornografía](#Paso_2_tratamiento_para_dejar_la_adiccion_a_la_pornografia 'Paso 2) tratamiento para dejar la adicción a la pornografía')
 
 ## Motivos de por qué vemos pornografía
 
@@ -76,7 +65,7 @@ El incremento de dopamina viene cuando hay algo nuevo. Es la hormona que te hace
 
 El truco es que en realidad **la dopamina no nos recompensa por conseguirlo**. Lo que nos hace es anhelar novedad porque se libera cada vez que hacemos cosas nuevas.
 
-![sistema de recompensa cerebral dopamina](https://pau.ninja/wp-content/uploads/2023/07/sistema-de-recompensa-cerebral-dopamina-.png)
+![sistema de recompensa cerebral dopamina](./wp-content/uploads/2023/07sistema-de-recompensa-cerebral-dopamina-.png)
 
 Cuando siempre hacemos lo mismo, no se libera más dopamina, dejando de querer hacer lo que estábamos haciendo. Nos aburrimos y desensibilizamos.
 
@@ -167,7 +156,7 @@ Otro de los síntomas es que los usuarios adictos, compulsivos de pornografía d
 
 Es un fenómeno muy común que los estímulos que reciben son cada vez más débiles por culpa del uso excesivo.
 
-Esto sucede porque la sexualidad humana es mucho más «condicionable» de lo que muchos expertos creen. Un estudio de 2016 [confirmaba](<https://www.hqmc.marines.mil/Portals/61/Users/254/50/4350/Article%20Porn%20and%20Sexual%20Dysfunction%20(Psychcentral.com).pdf>) que la mitad de los consumidores de porno online escalaron y terminaron viendo material que tiempo atrás habían etiquetado de «repugnante o asqueroso».
+Esto sucede porque la sexualidad humana es mucho más «condicionable» de lo que muchos expertos creen. Un estudio de 2016 [confirmaba](https://www.hqmc.marines.mil/Portals/61/Users/254/50/4350/Article%20Porn%20and%20Sexual%20Dysfunction%20\(Psychcentral.com\).pdf) que la mitad de los consumidores de porno online escalaron y terminaron viendo material que tiempo atrás habían etiquetado de «repugnante o asqueroso».
 
 > ¿Para que tendría un hombre de las cavernas sentirse sexualmente atraído por unos pies o pegar a la mujer con la que está copulando?
 
@@ -185,7 +174,7 @@ Puedo entender que estar con una misma persona 10 años haya una disminución de
 
 Algo que también afecta a los que están solteros. En la última década se ha incrementado la cantidad de hombres entre 18 y 30 años que tienen **cero sexo**.
 
-![declive sexual hombres](https://pau.ninja/wp-content/uploads/2022/06/declive-sexual-hombres.png)
+![declive sexual hombres](./wp-content/uploads/2022/06declive-sexual-hombres.png)
 
 ¿Cero sexo porque no tienen oportunidades? quizás, pero es que hay **cero interés de entrada** según las estadísticas. O sea, prefieren tocarse la zambomba en casa antes que salir al mundo real a buscar mujeres de verdad.
 
@@ -216,3 +205,94 @@ Aunque para mí, el mejor test siempre será dejar dejar la pornografía durante
 - **Terapia:** si eres adicto «fuerte» puede valer la pena que veas un profesional de la salud mental que puede ser especialmente útil si notas ansiedad, depresión o trastorno obsesivo compulsivo.
 - **Grupos de soporte:** porque si vas a terapia estás aceptando que tienes un problema gordo, así que muchos tiran de foros de internet o del canal de #no-porno-no-fap de nuestra [comunidad](#unirse). Pero esto es más rollo casual, tiene que haber algún grupo de apoyo en tu metrópolis más cercana.
 - **Medicación:** te pueden llegar a recetar medicación similar a los que tienen depresión o TOC, pero esto yo siempre lo dejaría como último recurso.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Desarrollo personal](./desarrollo-personal)  
+O si quieres ser más específico:[Masculinidad](./masculinidad)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/adiccion-al-porno/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14246,"title":"7%20signos%20%2B%203%20tratamientos%20de%20tu%20ADICCI%C3%93N%20al%20porno","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/09\\/hombre-adicto-porno.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

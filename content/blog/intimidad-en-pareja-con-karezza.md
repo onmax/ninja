@@ -1,13 +1,20 @@
 ---
-title: "Karezza la meditación sexual para más armonía (íntima) en pareja"
+title: "Karezza"
+url: https://pau.ninja/intimidad-en-pareja-con-karezza
+slug: intimidad-en-pareja-con-karezza
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: relaciones-de-pareja
+    label: Relaciones de pareja
 image: pareja-usando-karezza.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/pareja-usando-karezza.jpg
 published: 2023-08-09T08:03:59+00:00
 modified: 2023-12-22T21:28:33+00:00
+scrappedAt: 2024-10-14T09:19:57.231Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/76858110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-6%2F350005675-44100-2-168bb44a016f4.mp3
-slug: intimidad-en-pareja-con-karezza
+bibliography: ["o 4 semanas para experimentación inicial. Después decidid si queréis incorporarlo a vuestra vida íntima combinándolo con el sexo convencional.","27\\. Murphy MR, Seckl JR, Burton S, Checkley SA, Lightman SL. Changes in oxytocin and vasopressin secretion during sexual activity in men. J Clin Endocrinol Metab. 1987;65(4):738-741.","Exton MS, Bindert A, Krüger T, Scheller F, Hartmann U, Schedlowski M. Cardiovascular and endocrine altera-tions after masturbation-induced orgasm in women. Psycho-som Med. 1999;61:280–9. doi: 10.1097/00006842-199905000-00005.","Levin RJ. Sexual activity, health and well-being – the beneficial roles of coitusand masturbation. Sexual Relationship Therapy. 2007;22:135–48.","Krüger THC, Hartmann U, Schedlowski M. Prolactinergic and dopaminergic mechanisms underlyingsexual arousal and orgasm in humans. World J Urol. 2005;23:130–8. doi: 10.1007/s00345-004-0496-7.","Exton MS, Krüger TH, Bursch N, Haake P, Knapp W, Schedlowski M, Hartmann U. Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol. 2001 Nov;19(5):377-82. doi: 10.1007/s003450100222. PMID: 11760788.","Krüger TH, Haake P, Chereath D, Knapp W, Janssen OE, Exton MS, Schedlowski M, Hartmann U. Specificity of the neuroendocrine response to orgasm during sexual arousal in men. J Endocrinol. 2003 Apr;177(1):57-64. doi: 10.1677/joe.0.1770057. PMID: 12697037.","Wang, C., Song, S., d’Oleire Uquillas, F. et al. Altered brain network organization in romantic love as measured with resting-state fMRI and graph theory. Brain Imaging and Behavior 14, 2771–2784 (2020).","Emanuele E, Politi P, Bianchi M, Minoretti P, Bertona M, Geroldi D. Raised plasma nerve growth factor levels associated with early-stage romantic love. Psychoneuroendocrinology. 2006 Apr;31(3):288-94. doi: 10.1016/j.psyneuen.2005.09.002. Epub 2005 Nov 10. PMID: 16289361.","Marazziti D, Gemignani A, Dell’osso L. Trazodone Augmentation in OCD: A Case Series Report. CNS Spectr. 1999 Dec;4(12):48-9. doi: 10.1017/s1092852900006817. PMID: 18311107.","Marazziti D, Cassano GB. The neurobiology of attraction. J Endocrinol Invest. 2003;26(3 Suppl):58-60. PMID: 12834023.","Schneiderman I, Zagoory-Sharon O, Leckman JF, Feldman R. Oxytocin during the initial stages of romantic attachment: relations to couples’ interactive reciprocity. Psychoneuroendocrinology. 2012 Aug;37(8):1277-85. doi: 10.1016/j.psyneuen.2011.12.021. Epub 2012 Jan 26. PMID: 22281209; PMCID: PMC3936960.","Acevedo BP, Poulin MJ, Collins NL, Brown LL. After the Honeymoon: Neural and Genetic Correlates of Romantic Love in Newlywed Marriages. Front Psychol. 2020 May 7;11:634. doi: 10.3389/fpsyg.2020.00634. PMID: 32457675; PMCID: PMC7223160.","Ducharme, Jamie. 2019. “This Type of Date Night Activity Could Make You Feel Closer to Your Partner.” Time.","Algoe SB, Kurtz LE, Grewen K. Oxytocin and Social Bonds: The Role of Oxytocin in Perceptions of Romantic Partners’ Bonding Behavior. Psychol Sci. 2017 Dec;28(12):1763-1772. doi: 10.1177/0956797617716922. Epub 2017 Oct 2. PMID: 28968183; PMCID: PMC5734372.","“Oxytocin: The Love Hormone – Harvard Health.” 2021. Harvard Health.‌","[16](javascript:void\\(0\\))Sculley, J., Watkins, C.D. The Great Porn Experiment V2.0: Sexual Arousal Reduces the Salience of Familiar Women When Heterosexual Men Judge Their Attractiveness. Arch Sex Behav 51, 3071–3082 (2022).","Brown, Richard E. (1974). «Sexual arousal, the coolidge effect and dominance in the rat (rattus norvegicus)». Animal Behaviour. 22 (3): 634–637.","Lester, Gillian L.L.; Gorzalka, Boris B. (1988). «Effect of novel and familiar mating partners on the duration of sexual receptivity in the female hamster». Behavioral and Neural Biology. 49 (3): 398–405.","Tlachi-López, José L.; Eguibar, Jose R.; Fernández-Guasti, Alonso; Angélica Lucio, Rosa (2012). «Copulation and ejaculation in male rats under sexual satiety and the Coolidge effect». Physiology & Behavior. 106 (5): 626–630.","«Dynamic Changes in Nucleus Accumbens Dopamine Efflux During the Coolidge Effect in Male Rats». The Journal of Neuroscience. 17 (12): 4849–4855.","Brand, Rebecca J., Charlotte M. Markey, Ana Mills, Sara D. Hodges. «Sex Differences in Self-reported Infidelity and its Correlates.» Sex Roles. May 24, 2007.","Steiger S, Franz R, Eggert AK, Müller JK. The Coolidge effect, individual recognition and selection for distinctive cuticular signatures in a burying beetle. Proc Biol Sci. 2008 Aug 22;275(1645):1831-8. doi: 10.1098/rspb.2008.0375. PMID: 18477544; PMCID: PMC2593927.","“Male Control of Ejaculation.” 2019. Luckymojo.com.‌","“Are There Recommended Sexual Positions for Synergy?” 2022. The Pleasure of Partnership.‌","“Hua Hu Ching by Lao Tzu (~5th Century).” 2023. The Pleasure of Partnership.‌","“Cupid’s Poisoned Arrow: From Habit to Harmony in Sexual Relationships : Robinson, Marnia, Wile Ph.D., Douglas: Amazon.es: Libros.” 2023‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/76858110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-6%2F350005675-44100-2-168bb44a016f4.mp3](https://anchor.fm/s/98566448/podcast/play/76858110/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-6%2F350005675-44100-2-168bb44a016f4.mp3)
 
 Aceptamos que en las relaciones serias el sexo poco a poco irá desapareciendo.
@@ -47,13 +54,13 @@ Es esto lo que perdemos: **las actividades de muestras afectivas**.
 
 > Las parejas tienen un calendario de coitos semanales, pero nadie se preocupa de las sesiones de muestras físicas de amor que hemos dejar de dar a nuestras parejas.
 
-Como si la relación fuera un castillo de cartas, son tanto el sexo, como estas muestras mutuas de afecto físico consciente que harán que una de las [bases de una relación sana](https://pau.ninja/relacion-de-pareja-sana/), esté bien solidificada: la intimidad.
+Como si la relación fuera un castillo de cartas, son tanto el sexo, como estas muestras mutuas de afecto físico consciente que harán que una de las [bases de una relación sana](./relacion-de-pareja-sana), esté bien solidificada: la intimidad.
 
-![intimidad en pareja metáfora](https://pau.ninja/wp-content/uploads/2023/08/intimidad-en-pareja-metafora.jpg)
+![intimidad en pareja metáfora](./wp-content/uploads/2023/08intimidad-en-pareja-metafora.jpg)
 
 Para que esta pata del castillo de cartas esté tan sólida como mis pectorales.
 
-En esto se basa el *karezza*.
+En esto se basa el _karezza_.
 
 Una práctica milenaria que ayuda a restaurar la intimidad en la pareja, haciendo que vuelvan a florecer las relaciones sexuales perdidas (o que no se desvanezcan) usando dos componentes para revivirla:
 
@@ -61,41 +68,6 @@ Una práctica milenaria que ayuda a restaurar la intimidad en la pareja, haciend
 - Sesiones conscientes de muestras físicas afectivas
 
 Y sí… No te preocupes. Es complementario al sexo convencional aunque como consecuencia empezaréis a tratarlo de una manera totalmente distinta.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es karezza](#Que_es_karezza 'Qué es karezza')
-- [Razones para probar el método karezza](#Razones_para_probar_el_metodo_karezza 'Razones para probar el método karezza')
-  - [Volver a equilibrar las hormonas de la afección](#Volver_a_equilibrar_las_hormonas_de_la_afeccion 'Volver a equilibrar las hormonas de la afección')
-  - [Mejorar la relación de pareja dosificando orgasmos](#Mejorar_la_relacion_de_pareja_dosificando_orgasmos 'Mejorar la relación de pareja dosificando orgasmos')
-  - [Las parejas sin sexo pueden salir de su bache](#Las_parejas_sin_sexo_pueden_salir_de_su_bache 'Las parejas sin sexo pueden salir de su bache')
-- [Los 2 pilares del método karezza](#Los_2_pilares_del_metodo_karezza 'Los 2 pilares del método karezza')
-  - [Actividades afectivas de unión](#Actividades_afectivas_de_union 'Actividades afectivas de unión')
-  - [Relaciones sexuales sin orgasmo](#Relaciones_sexuales_sin_orgasmo 'Relaciones sexuales sin orgasmo')
-- [Cómo empezar a practicar karezza](#Como_empezar_a_practicar_karezza 'Cómo empezar a practicar karezza')
-  - [Hablar con tu pareja al respecto](#Hablar_con_tu_pareja_al_respecto 'Hablar con tu pareja al respecto')
-  - [Abstenerse 3 semanas de sexo convencional](#Abstenerse_3_semanas_de_sexo_convencional 'Abstenerse 3 semanas de sexo convencional')
-  - [Buscar un momento para el "coito consciente"](#Buscar_un_momento_para_el_%22coito_consciente%22 'Buscar un momento para el "coito consciente"')
-  - [Practicar regularmente conexiones físicas afectivas](#Practicar_regularmente_conexiones_fisicas_afectivas 'Practicar regularmente conexiones físicas afectivas')
-- [Qué es el sexo karezza y cómo practicarlo](#Que_es_el_sexo_karezza_y_como_practicarlo 'Qué es el sexo karezza y cómo practicarlo')
-  - [Posiciones](#Posiciones 'Posiciones')
-  - [Penetración](#Penetracion 'Penetración')
-  - [Palabras de afirmación](#Palabras_de_afirmacion 'Palabras de afirmación')
-  - [Terminando](#Terminando 'Terminando')
-- [Preguntas sobre la práctica del sexo karezza](#Preguntas_sobre_la_practica_del_sexo_karezza 'Preguntas sobre la práctica del sexo karezza')
-  - [¿Y si mi pareja tiene poco libido?](#%C2%BFY_si_mi_pareja_tiene_poco_libido '¿Y si mi pareja tiene poco libido?')
-  - [¿Y si mi pareja tiene mucho libido?](#%C2%BFY_si_mi_pareja_tiene_mucho_libido '¿Y si mi pareja tiene mucho libido?')
-  - [¿Qué hacemos si hay mucha tensión sexual?](#%C2%BFQue_hacemos_si_hay_mucha_tension_sexual '¿Qué hacemos si hay mucha tensión sexual?')
-  - [¿No me dolerán los testículos si no eyaculo?](#%C2%BFNo_me_doleran_los_testiculos_si_no_eyaculo '¿No me dolerán los testículos si no eyaculo?')
-  - [¿Si practico karezza puedo mirar porno y masturbarme?](#%C2%BFSi_practico_karezza_puedo_mirar_porno_y_masturbarme '¿Si practico karezza puedo mirar porno y masturbarme?')
-- [La historia del método karezza](#La_historia_del_metodo_karezza 'La historia del método karezza')
-  - [¿Es el karezza una práctica religiosa?](#%C2%BFEs_el_karezza_una_practica_religiosa '¿Es el karezza una práctica religiosa?')
-  - [¿En qué se diferencia el tantra del karezza?](#%C2%BFEn_que_se_diferencia_el_tantra_del_karezza '¿En qué se diferencia el tantra del karezza?')
-  - [¿Qué relación tiene el karezza con el taoismo?](#%C2%BFQue_relacion_tiene_el_karezza_con_el_taoismo '¿Qué relación tiene el karezza con el taoismo?')
-  - [¿Es el karezza una moda pasajera?](#%C2%BFEs_el_karezza_una_moda_pasajera '¿Es el karezza una moda pasajera?')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Qué es karezza
 
@@ -119,7 +91,7 @@ En el sentido tanto físico como emocional de la expresión, porque se acentúa 
 
 > Con karezza se enfatiza la intimidad no sexual en vez de la búsqueda de la excitación y fogosidad del orgasmo explosivo.
 
-Las parejas que mantienen el hábito de practicar karezza, lo describen como un recurso que les ha ayudado a sanar el matrimonio, relaciones o incluso a [curar su adicción al porno](https://pau.ninja/adiccion-al-porno/) (#394). Un tipo de adicción mucho más común de lo que se piensa.
+Las parejas que mantienen el hábito de practicar karezza, lo describen como un recurso que les ha ayudado a sanar el matrimonio, relaciones o incluso a [curar su adicción al porno](./adiccion-al-porno) (#394). Un tipo de adicción mucho más común de lo que se piensa.
 
 Sé que suena contraintuitivo inicialmente… ¿Cómo puede ser que el sexo sin orgasmo voluntario mejore la vida sexual? ¿No es el orgasmo el objetivo final?
 
@@ -148,15 +120,15 @@ Es cierto que se suelta oxitocina, pero… **no es en el orgasmo, sino en el pro
 
 De hecho en el momento de culminar sucede el efecto contrario.
 
-La evidencia nos enseña como el orgasmo desencadena una caída en picado tanto de oxitocina como de la dopamina en pocos minutos[1](<javascript:void(0)>)27\. Murphy MR, Seckl JR, Burton S, Checkley SA, Lightman SL. Changes in oxytocin and vasopressin secretion during sexual activity in men. J Clin Endocrinol Metab. 1987;65(4):738-741.[2](<javascript:void(0)>)Exton MS, Bindert A, Krüger T, Scheller F, Hartmann U, Schedlowski M. Cardiovascular and endocrine altera-tions after masturbation-induced orgasm in women. Psycho-som Med. 1999;61:280–9. doi: 10.1097/00006842-199905000-00005.[3](<javascript:void(0)>)Levin RJ. Sexual activity, health and well-being – the beneficial roles of coitusand masturbation. Sexual Relationship Therapy. 2007;22:135–48.[4](<javascript:void(0)>)Krüger THC, Hartmann U, Schedlowski M. Prolactinergic and dopaminergic mechanisms underlyingsexual arousal and orgasm in humans. World J Urol. 2005;23:130–8. doi: 10.1007/s00345-004-0496-7..
+La evidencia nos enseña como el orgasmo desencadena una caída en picado tanto de oxitocina como de la dopamina en pocos minutos[ref-1](#ref-1){.ref}[ref-2](#ref-2){.ref}[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}.
 
 Justo después de haber llegado al climax.
 
-![efectos del orgasmo](https://pau.ninja/wp-content/uploads/2023/08/efectos-del-orgasmo.png)
+![efectos del orgasmo](./wp-content/uploads/2023/08efectos-del-orgasmo.png)
 
 A efectos prácticos Esto significa que aumentar las veces que tenemos orgasmos en pareja, solo nos hará «vaciar los depósitos» de la hormona del amor que teníamos acumulados.
 
-Es verdad que *mientras* estamos haciendo el amor se va acumulando, se van sumando «puntos» de oxitocina (+1, +1…), pero al llegar al momento culminante, de pronto es como si el cuerpo se restara -10 de oxitocina de golpe.
+Es verdad que _mientras_ estamos haciendo el amor se va acumulando, se van sumando «puntos» de oxitocina (+1, +1…), pero al llegar al momento culminante, de pronto es como si el cuerpo se restara -10 de oxitocina de golpe.
 
 Vaciar estos depósitos para «disparar» no sería un problema, si no nos hubiéramos olvidado de ir rellenándolos con el otro pilar de la intimidad:
 
@@ -193,7 +165,7 @@ La falta de substancia en este depósito metafórico, se traduce en un lío ment
 
 Si no hemos construido una intimidad sólida con esa persona, nos pasan las ganas de estar con ella de forma casi instantánea.
 
-![meme actividades íntimas de pareja](https://pau.ninja/wp-content/uploads/2023/08/meme-actividades-intimas-de-pareja.jpeg)
+![meme actividades íntimas de pareja](./wp-content/uploads/2023/08meme-actividades-intimas-de-pareja.jpeg)
 
 Por eso hay que **dosificar al orgasmo para que haya más armonía**. Más balance.
 
@@ -212,11 +184,11 @@ Del rollo, «vale, ya has fecundado a esta hembra. Ahora vete a buscar a otras»
 - **Resaca hormonal:** un seguido de neuroendocrinos que nos hace cambiar el estado de ánimo demostrando además que somos más propensos a buscar defectos en nuestra pareja.
 - **Ciclo de la pasión:** fluctuaciones de cambios de humor. Con bajadas y subidas del tipo montaña rusa que pueden llegar a durar hasta dos semanas.
 
-Todo esto por los eventos neuroendocrinos que sabemos muy bien que están asociados al orgasmo[5](<javascript:void(0)>)Exton MS, Krüger TH, Bursch N, Haake P, Knapp W, Schedlowski M, Hartmann U. Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol. 2001 Nov;19(5):377-82. doi: 10.1007/s003450100222. PMID: 11760788.[6](<javascript:void(0)>)Krüger TH, Haake P, Chereath D, Knapp W, Janssen OE, Exton MS, Schedlowski M, Hartmann U. Specificity of the neuroendocrine response to orgasm during sexual arousal in men. J Endocrinol. 2003 Apr;177(1):57-64. doi: 10.1677/joe.0.1770057. PMID: 12697037..
+Todo esto por los eventos neuroendocrinos que sabemos muy bien que están asociados al orgasmo[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}.
 
 Hay cambios en el cerebro asociados a la estimulación intensa que afectan a todos los amantes, todas las parejas y que tienen un impacto que puede llegar a ser… llamémoslo «devastador» para las parejas que ya han pasado esa fase «neuroquímica de la luna de miel» porque han vaciado sus depósitos constantemente sin preocuparse de rellenarlos.
 
-Los estudios no dejan lugar a dudas que es esta neuroquímica de los primeros meses (o hasta 3 años de relación) que hace que un par de personas se sientan atraídos de una forma tan intensa tanto sexualmente como emocionalmente[7](<javascript:void(0)>)Wang, C., Song, S., d’Oleire Uquillas, F. et al. Altered brain network organization in romantic love as measured with resting-state fMRI and graph theory. Brain Imaging and Behavior 14, 2771–2784 (2020).[8](<javascript:void(0)>)Emanuele E, Politi P, Bianchi M, Minoretti P, Bertona M, Geroldi D. Raised plasma nerve growth factor levels associated with early-stage romantic love. Psychoneuroendocrinology. 2006 Apr;31(3):288-94. doi: 10.1016/j.psyneuen.2005.09.002. Epub 2005 Nov 10. PMID: 16289361.[9](<javascript:void(0)>)Marazziti D, Gemignani A, Dell’osso L. Trazodone Augmentation in OCD: A Case Series Report. CNS Spectr. 1999 Dec;4(12):48-9. doi: 10.1017/s1092852900006817. PMID: 18311107.[10](<javascript:void(0)>)Marazziti D, Cassano GB. The neurobiology of attraction. J Endocrinol Invest. 2003;26(3 Suppl):58-60. PMID: 12834023.[11](<javascript:void(0)>)Schneiderman I, Zagoory-Sharon O, Leckman JF, Feldman R. Oxytocin during the initial stages of romantic attachment: relations to couples’ interactive reciprocity. Psychoneuroendocrinology. 2012 Aug;37(8):1277-85. doi: 10.1016/j.psyneuen.2011.12.021. Epub 2012 Jan 26. PMID: 22281209; PMCID: PMC3936960.[12](<javascript:void(0)>)Acevedo BP, Poulin MJ, Collins NL, Brown LL. After the Honeymoon: Neural and Genetic Correlates of Romantic Love in Newlywed Marriages. Front Psychol. 2020 May 7;11:634. doi: 10.3389/fpsyg.2020.00634. PMID: 32457675; PMCID: PMC7223160..
+Los estudios no dejan lugar a dudas que es esta neuroquímica de los primeros meses (o hasta 3 años de relación) que hace que un par de personas se sientan atraídos de una forma tan intensa tanto sexualmente como emocionalmente[ref-7](#ref-7){.ref}[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}[ref-12](#ref-12){.ref}.
 
 Que en el fondo es una parte fundamental de la condición humana.
 
@@ -242,7 +214,7 @@ Generalmente el ajetreo del día a día, el trabajo, los quehaceres y todo lo qu
 
 Ahí se estaba sumando +1, +1 y +1 de oxitocina, dopamina y creando un cóctel de hormonas que hacía que volvieras a casa flotando como Goku con su nube kinton.
 
-![meme método karezza](https://pau.ninja/wp-content/uploads/2023/08/meme-metodo-karezza.jpeg)
+![meme método karezza](./wp-content/uploads/2023/08meme-metodo-karezza.jpeg)
 
 Está claro que una «cama muerta» puede tener distintas causas, pero un denominador común es que estas parejas que han dejado de tener sexo, **tienen una falta absoluta the intimidad no-sexual**.
 
@@ -286,7 +258,7 @@ Plantearos una cosa.
 
 Es una paradoja.
 
-Es todo ese contacto físico que empieza a intensificarse cuando empiezas a conocer a alguien, que construye un vínculo entre las dos personas[13](<javascript:void(0)>)Ducharme, Jamie. 2019. “This Type of Date Night Activity Could Make You Feel Closer to Your Partner.” Time., y como no, tiene una razón biológica de ser.
+Es todo ese contacto físico que empieza a intensificarse cuando empiezas a conocer a alguien, que construye un vínculo entre las dos personas[ref-13](#ref-13){.ref}, y como no, tiene una razón biológica de ser.
 
 - Besos
 - Tomarse las manos
@@ -295,9 +267,9 @@ Es todo ese contacto físico que empieza a intensificarse cuando empiezas a cono
 - Acurrucarse
 - Mirarse a los ojos
 
-Es todo esto que nos genera oxitocina, la hormona del amor.[14](<javascript:void(0)>)Algoe SB, Kurtz LE, Grewen K. Oxytocin and Social Bonds: The Role of Oxytocin in Perceptions of Romantic Partners’ Bonding Behavior. Psychol Sci. 2017 Dec;28(12):1763-1772. doi: 10.1177/0956797617716922. Epub 2017 Oct 2. PMID: 28968183; PMCID: PMC5734372..
+Es todo esto que nos genera oxitocina, la hormona del amor.[ref-14](#ref-14){.ref}.
 
-Muchos no lo saben pero en la comunidad científica la oxitocina también se le llama «la hormona del acurrucamiento» o «de los abrazos» (cuddle hormone)[15](<javascript:void(0)>)“Oxytocin: The Love Hormone – Harvard Health.” 2021. Harvard Health.‌.
+Muchos no lo saben pero en la comunidad científica la oxitocina también se le llama «la hormona del acurrucamiento» o «de los abrazos» (cuddle hormone)[ref-15](#ref-15){.ref}.
 
 Es el contacto físico **no sexual** que nos hace sentirnos amados y conectados de una manera distinta a como lo hace el sexo. Que sí. Que el sexo también genera oxitocina pero lo hace generando otras hormonas y procesos que tenemos que tener bajo control.
 
@@ -319,7 +291,7 @@ Para algunos hombres se traduce incluso en culpa, ansiedad, confusión o vergüe
 
 A pesar de que no hay estudios que lo demuestren, mi teoría es la opuesta a la del Efecto Lindy de Taleb, que nos dice que cuando más tiempo lleve existiendo algo, más probable de que exista en el futuro.
 
-![efecto lindy de taleb](https://pau.ninja/wp-content/uploads/2023/05/efecto-lindy-de-taleb.png)
+![efecto lindy de taleb](./wp-content/uploads/2023/05efecto-lindy-de-taleb.png)
 
 Si esto es cierto, lo opuesto también lo será: cuanto menos tiempo lleve existiendo algo, menos probable de que exista en el futuro, y sucedería lo mismo con las relaciones de pareja o incluso las relaciones esporádicas.
 
@@ -333,15 +305,15 @@ Lo que no es una hipótesis porque si hay mucha evidencia conclusiva es unos há
 
 Generalizando, claro.
 
-Por esto comparto tan abiertamente [mi opinión sobre la pornografía](https://pau.ninja/opinion-sobre-la-pornografia/) (#377), porque una de las (muchas) cosas que hace tan malo el porno (que todo el mundo consume), es crear esta adicción pornográfica por la novedad, que es precisamente lo que se ha demostrado con muchos estudios: **Después de ver pornografía, los hombres automáticamente quieren nuevas mujeres**[16](<javascript:void(0)>)[16](<javascript:void(0)>)Sculley, J., Watkins, C.D. The Great Porn Experiment V2.0: Sexual Arousal Reduces the Salience of Familiar Women When Heterosexual Men Judge Their Attractiveness. Arch Sex Behav 51, 3071–3082 (2022)..
+Por esto comparto tan abiertamente [mi opinión sobre la pornografía](./opinion-sobre-la-pornografia) (#377), porque una de las (muchas) cosas que hace tan malo el porno (que todo el mundo consume), es crear esta adicción pornográfica por la novedad, que es precisamente lo que se ha demostrado con muchos estudios: **Después de ver pornografía, los hombres automáticamente quieren nuevas mujeres**[ref-16](#ref-16){.ref}.
 
-De hecho en los estudios donde se miraba este efecto (the Coolidge effect[17](<javascript:void(0)>)Brown, Richard E. (1974). «Sexual arousal, the coolidge effect and dominance in the rat (rattus norvegicus)». Animal Behaviour. 22 (3): 634–637.[18](<javascript:void(0)>)Lester, Gillian L.L.; Gorzalka, Boris B. (1988). «Effect of novel and familiar mating partners on the duration of sexual receptivity in the female hamster». Behavioral and Neural Biology. 49 (3): 398–405.[19](<javascript:void(0)>)Tlachi-López, José L.; Eguibar, Jose R.; Fernández-Guasti, Alonso; Angélica Lucio, Rosa (2012). «Copulation and ejaculation in male rats under sexual satiety and the Coolidge effect». Physiology & Behavior. 106 (5): 626–630.[20](<javascript:void(0)>)«Dynamic Changes in Nucleus Accumbens Dopamine Efflux During the Coolidge Effect in Male Rats». The Journal of Neuroscience. 17 (12): 4849–4855.), vieron como el porno hacía multiplicar aún más estas ganas de novedad.
+De hecho en los estudios donde se miraba este efecto (the Coolidge effect[ref-17](#ref-17){.ref}[ref-18](#ref-18){.ref}[ref-19](#ref-19){.ref}[ref-20](#ref-20){.ref}), vieron como el porno hacía multiplicar aún más estas ganas de novedad.
 
 No tiene que ver con la satisfacción sexual sino con la novedad como motivador que hace que los hombres sean infieles (o estén tentados de hacerlo).
 
 Los que practican karezza dicen precisamente que uno de los muchos beneficios es tener muchísimas menos inclinaciones a buscar otra pareja sexual o incluso en dejar de buscar automáticamente fallas en las que se tiene ahora.
 
-Porque mientras que la máxima [razón por la que las mujeres son infieles](https://pau.ninja/que-busca-una-mujer-en-un-hombre/#Por_que_las_mujeres_son_infieles) es la hipergamia (buscar una mejor pareja)[21](<javascript:void(0)>)Brand, Rebecca J., Charlotte M. Markey, Ana Mills, Sara D. Hodges. «Sex Differences in Self-reported Infidelity and its Correlates.» Sex Roles. May 24, 2007., los hombres terminan poniendo los cuernos por la búsqueda de novedad sexual exclusivamente, dejándose llevar por sus instintos biológicos en vez de la razón[22](<javascript:void(0)>)Steiger S, Franz R, Eggert AK, Müller JK. The Coolidge effect, individual recognition and selection for distinctive cuticular signatures in a burying beetle. Proc Biol Sci. 2008 Aug 22;275(1645):1831-8. doi: 10.1098/rspb.2008.0375. PMID: 18477544; PMCID: PMC2593927..
+Porque mientras que la máxima [razón por la que las mujeres son infieles](./que-busca-una-mujer-en-un-hombre#Por_que_las_mujeres_son_infieles) es la hipergamia (buscar una mejor pareja)[ref-21](#ref-21){.ref}, los hombres terminan poniendo los cuernos por la búsqueda de novedad sexual exclusivamente, dejándose llevar por sus instintos biológicos en vez de la razón[ref-22](#ref-22){.ref}.
 
 ¿Podría la práctica consciente de karezza solucionar muchas (futuras) infidelidades? No existen estudios o ni siquiera encuestas al respecto, pero dejaré que seáis vosotros los que creéis vuestra propia hipótesis.
 
@@ -383,11 +355,11 @@ No de placer (puramente).
 
 > El propósito de karezza viene del intercambio de amor con tu pareja, no la búsqueda de la intensidad sexual.
 
-Por esto una buena práctica puede ser entrenar con [Kegels para retrasar la eyaculación masculina](https://pau.ninja/retrasar-la-eyaculacion-masculina/) (#279), para tenerlo aún más dominado.
+Por esto una buena práctica puede ser entrenar con [Kegels para retrasar la eyaculación masculina](./retrasar-la-eyaculacion-masculina) (#279), para tenerlo aún más dominado.
 
 Porque fortalecer estos músculos ayuda al control sexual haciendo que los hombres que se masturban muy a menudo reporten mejoras notables.
 
-Lo que os puedo decir en este tema es la importancia de «relajar los músculos abdominales, respirar profundamente y lentamente con el diafragma y sobretodo… estar consciente»[23](<javascript:void(0)>)“Male Control of Ejaculation.” 2019. Luckymojo.com.‌.
+Lo que os puedo decir en este tema es la importancia de «relajar los músculos abdominales, respirar profundamente y lentamente con el diafragma y sobretodo… estar consciente»[ref-23](#ref-23){.ref}.
 
 Intentando resistir esa urgencia, ese instinto de apretar los músculos urogenitales. Ir lentamente.
 
@@ -396,7 +368,7 @@ Respirar profundamente… y expirar lentamente.
 ## Cómo empezar a practicar karezza
 
 - **Práctica:** si lleváis más de un año juntos, evitad el sexo convencional durante 3 semanas para incorporar karezza. Buscad un momento diario para incorporar sesiones de caricias y actividades de afecto físico sin coito. También buscad otro momento semanal en el que practicar el «[sexo karezza](#Que_es_el_sexo_karezza_y_como_practicarlo)«.
-- **Duración:** 3 o 4 semanas para experimentación inicial. Después decidid si queréis incorporarlo a vuestra vida íntima combinándolo con el sexo convencional.
+- **Duración:** 3 
 - **Cuando:** cada sesión de 10, 20 o 30 minutos dependiendo del tiempo disponibles.
 
 ¿Quieres expandir los pasos de cómo practicar el método karezza? Pulsa aquí para desplegar.
@@ -425,13 +397,13 @@ Una vez ambos estéis de acuerdo en darle una intentona, podéis empezar con 3 s
 
 De hecho en el libro que popularizó el método incluye un programa de tres semanas que «caballerosamente» lleva al «coito karezza».
 
-[![Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbGRWaHJOblF0TkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NDE5OA=)](https://www.amazon.es/dp/1556438095?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships")
+[![Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbGRWaHJOblF0TkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDQxNQ=)](https://www.amazon.es/dp1556438095?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships")
 
 [Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships](https://www.amazon.es/dp/1556438095?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cupid's Poisoned Arrow: From Habit to Harmony in Sexual Relationships")
 
 24,13 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/1556438095?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1556438095?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Para esos que llevan mucho tiempo con la misma pareja y el sexo de toda la vida, se dice que puede incluso ser beneficioso estar un par de semanas (inicialmente) sin el orgasmo/sexo convencional para dar al sistema límbico un poco de respiro.
 
@@ -508,9 +480,9 @@ Podéis empezar con una ducha o un baño, después tumbaros en la cama, os acurr
 
 Después de un rato, poneros en una posición cómoda donde podáis conectar y relajaros.
 
-No existe un «libro karezza» como el kamasutra de posiciones para unir los cuerpos, sino que se trata de encontrar aquellas con las que os sintáis más conectados. Aunque sí que hay cuatro posiciones básicas que se recomiendan para empezar si hay dudas[24](<javascript:void(0)>) “Are There Recommended Sexual Positions for Synergy?” 2022. The Pleasure of Partnership.‌.
+No existe un «libro karezza» como el kamasutra de posiciones para unir los cuerpos, sino que se trata de encontrar aquellas con las que os sintáis más conectados. Aunque sí que hay cuatro posiciones básicas que se recomiendan para empezar si hay dudas[ref-24](#ref-24){.ref} .
 
-![a](https://pau.ninja/wp-content/uploads/2023/08/posiciones-de-sexo-karezza.png)
+![a](./wp-content/uploads/2023/08posiciones-de-sexo-karezza.png)
 
 Recordad que en este rato los genitales pueden (o no) tocarse, pero no intentéis la penetración de buenas a primeras.
 
@@ -526,7 +498,7 @@ Si estáis de acuerdo pues aquí ya se empieza a poco a poco a insertar. Lentame
 
 Pensad que karezza es muy relajante. Es uno de los motivos por los que va bien para esas parejas donde el hombre ha pasado por problemas de disfunción erecil o si la mujer no lubrica lo suficiente.
 
-Si se trata de una pareja donde ambos han visto mucha erótica visual, se pone de manifiesto otro de los [motivos por los que ver porno es malo](https://pau.ninja/es-malo-ver-porno/) (#368).
+Si se trata de una pareja donde ambos han visto mucha erótica visual, se pone de manifiesto otro de los [motivos por los que ver porno es malo](./es-malo-ver-porno) (#368).
 
 Esa pareja seguramente necesitará varias semanas de contacto regular antes de que el cerebro empiece a poder vincular el coito físico con la excitación.
 
@@ -536,7 +508,7 @@ No fantaseéis con erotismo para conseguir una erección.
 
 > Hay que confiar en el tempo para tratar el tiempo que pasáis juntos (con los genitales tocando) como si fuera una especie de «meditación sexual».
 
-Ahí, después de insertar el nepe, continuad respirando *mindfully*. Atentamente. Conscientemente.
+Ahí, después de insertar el nepe, continuad respirando _mindfully_. Atentamente. Conscientemente.
 
 Seguramente sentiréis ya una conexión con la pareja en este punto. Algo que va más allá de «unir los cuerpos».
 
@@ -581,7 +553,7 @@ En particular con el aspecto de [actividades afectivas de unión](#Actividades_a
 
 En este primer escenario le puedes sugerir un trato incluso. Le puedes decir que no le pedirás sexo durante varias semanas o 30 días a cambio de aceptar hacer 20-30 minutos al día de caricias, aguantar las manos, besar y todo el rollo.
 
-> De hecho puede ser muy buena idea introducir esta práctica para [No Nut November](https://pau.ninja/no-nut-november-beneficios/) (en el que los tíos no nos tocamos durante todo noviembre, #408), así que caballeros. Póngaselo en los calendarios. Vamos a crear Karezza November.
+> De hecho puede ser muy buena idea introducir esta práctica para [No Nut November](./no-nut-november-beneficios) (en el que los tíos no nos tocamos durante todo noviembre, #408), así que caballeros. Póngaselo en los calendarios. Vamos a crear Karezza November.
 
 Una buena manera de hacerlo orgánicamente es, 20 minutos antes de iros a dormir, introduciendo el factor de la mirada, sonrisas, achuchones…
 
@@ -637,15 +609,15 @@ No.
 
 De hecho nunca nadie debería mirar porno.
 
-No importa si estamos solteros o en relación. Tanto si estamos en una relación monógama como si nos va el poliamor. Los [efectos de la pornografía](https://pau.ninja/es-malo-ver-porno/#Efectos_de_la_pornografia) para el cerebro y las relaciones son devastadores.
+No importa si estamos solteros o en relación. Tanto si estamos en una relación monógama como si nos va el poliamor. Los [efectos de la pornografía](./es-malo-ver-porno#Efectos_de_la_pornografia) para el cerebro y las relaciones son devastadores.
 
-En el caso de la masturbación ya hablé extensamente de los [beneficios de no masturbarse haciendo NoFap](https://pau.ninja/beneficios-nofap/) (#426) y aunque hay algunos adeptos de dejarse de tocar en su totalidad, bajo circunstancias normales yo abogo por una vez cada semana y media aproximadamente.
+En el caso de la masturbación ya hablé extensamente de los [beneficios de no masturbarse haciendo NoFap](./beneficios-nofap) (#426) y aunque hay algunos adeptos de dejarse de tocar en su totalidad, bajo circunstancias normales yo abogo por una vez cada semana y media aproximadamente.
 
 De todas formas, **si se tiene pareja yo dejaría la masturbación** para poder reservar esos momentos para ella exclusivamente.
 
 Si eyacular para llegar al orgasmo nos saca lo mejor de nosotros y necesitamos «poner balas» a nuestra pistola que es la relación con actividades afectivas físicas, cada orgasmo es un pistoletazo que malgastamos.
 
-No querrás disparar al aire. Querrás disparar *con* ella.
+No querrás disparar al aire. Querrás disparar _con_ ella.
 
 Si se va a seguir la filosofía karezza en el sexo, se entiende que lo que quieres es explorar los beneficios de hacer el amor sin llegar al climax.
 
@@ -655,7 +627,7 @@ Tanto mirar porno sin masturbación como masturbarse sin orgasmo (el llamado _ed
 
 Os lo digo después de haber vivido muchos No Nut November.
 
-![meme nofap noviembre](https://pau.ninja/wp-content/uploads/2022/09/meme-nofap-noviembre.jpeg)
+![meme nofap noviembre](./wp-content/uploads/2022/09meme-nofap-noviembre.jpeg)
 
 No seas masoquista.
 
@@ -681,9 +653,9 @@ Con un par de invitadas que he tenido en el podcast siempre he defendido la mono
 
 Tanto si (como yo) consideras la monogamia como lo que te encaja más. Como si es eres poliamoroso, buscando multitud de personas para involucrar en una relación, cualquiera puede practicar karezza.
 
-A mí ya me conocéis y sabéis que soy una persona pragmática, por esto veo el karezza igual que algunos *biohackers*.
+A mí ya me conocéis y sabéis que soy una persona pragmática, por esto veo el karezza igual que algunos _biohackers_.
 
-Como un *hack* para mejorar las relaciones sentimentales. Las relaciones románticas.
+Como un _hack_ para mejorar las relaciones sentimentales. Las relaciones románticas.
 
 En el fondo nos estamos basando en la ciencia del apareamiento humano, la fisiología del vínculo, el impacto de neurotransmisores cerebrales cuando llegamos al orgasmo (que es lo que queremos controlar).
 
@@ -705,7 +677,7 @@ Por ejemplo el karezza aboga por la abstención del orgasmo mientras que los pra
 
 ### ¿Qué relación tiene el karezza con el taoismo?
 
-Seguramente el karezza está más relacionado con el concepto taoista de la cultivación dual[25](<javascript:void(0)>)“Hua Hu Ching by Lao Tzu (~5th Century).” 2023. The Pleasure of Partnership.‌.
+Seguramente el karezza está más relacionado con el concepto taoista de la cultivación dual[ref-25](#ref-25){.ref}.
 
 Existe una colección taoista de sabiduría que se dice haber pasado de generación en generación de forma exclusivamente oral porque este conocimiento plasmado en texto estaba completamente prohibido de ser distribuido.
 
@@ -721,9 +693,9 @@ Es verdad que este «vaciado» de energías salga a la superficie de formas dist
 
 Si empezáis a escuchar mucho de la palabra «karezza» pensaréis que simplemente se ha convertido en otra moda pasajera de internet, pero todo viene y vuelve.
 
-Porque aunque se empezó a popultarizar en el año 2009 por la relevancia que tuvo el libro _Cupid’s Poisoned Arrow_ de Marnia Robinson[26](<javascript:void(0)>)“Cupid’s Poisoned Arrow: From Habit to Harmony in Sexual Relationships : Robinson, Marnia, Wile Ph.D., Douglas: Amazon.es: Libros.” 2023‌, el concepto «karezza» apareció por primera vez en un libro de 1896 llamado Karezza: Ethics of Marriage escrito por la Dra. Alice Bunker Stockham.
+Porque aunque se empezó a popultarizar en el año 2009 por la relevancia que tuvo el libro _Cupid’s Poisoned Arrow_ de Marnia Robinson[ref-26](#ref-26){.ref}, el concepto «karezza» apareció por primera vez en un libro de 1896 llamado Karezza: Ethics of Marriage escrito por la Dra. Alice Bunker Stockham.
 
-![Alice Bunker Stockham](https://pau.ninja/wp-content/uploads/2023/08/Alice-Bunker-Stockham.jpeg)
+![Alice Bunker Stockham](./wp-content/uploads/2023/08Alice-Bunker-Stockham.jpeg)
 
 Remarco que era una mujer porque os podéis imaginar los estigmas de una mujer hablando públicamente de sexo en 1896.
 
@@ -736,111 +708,3 @@ Lo que hace karezza relevante para la sociedad moderna es que las mujeres tambi�
 Los hombres también.
 
 Y las parejas, aún más.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  27\. Murphy MR, Seckl JR, Burton S, Checkley SA, Lightman SL. Changes in oxytocin and vasopressin secretion during sexual activity in men. J Clin Endocrinol Metab. 1987;65(4):738-741.
-
-- 2
-
-  Exton MS, Bindert A, Krüger T, Scheller F, Hartmann U, Schedlowski M. Cardiovascular and endocrine altera-tions after masturbation-induced orgasm in women. Psycho-som Med. 1999;61:280–9. doi: 10.1097/00006842-199905000-00005.
-
-- 3
-
-  Levin RJ. Sexual activity, health and well-being – the beneficial roles of coitusand masturbation. Sexual Relationship Therapy. 2007;22:135–48.
-
-- 4
-
-  Krüger THC, Hartmann U, Schedlowski M. Prolactinergic and dopaminergic mechanisms underlyingsexual arousal and orgasm in humans. World J Urol. 2005;23:130–8. doi: 10.1007/s00345-004-0496-7.
-
-- 5
-
-  Exton MS, Krüger TH, Bursch N, Haake P, Knapp W, Schedlowski M, Hartmann U. Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol. 2001 Nov;19(5):377-82. doi: 10.1007/s003450100222. PMID: 11760788.
-
-- 6
-
-  Krüger TH, Haake P, Chereath D, Knapp W, Janssen OE, Exton MS, Schedlowski M, Hartmann U. Specificity of the neuroendocrine response to orgasm during sexual arousal in men. J Endocrinol. 2003 Apr;177(1):57-64. doi: 10.1677/joe.0.1770057. PMID: 12697037.
-
-- 7
-
-  Wang, C., Song, S., d’Oleire Uquillas, F. et al. Altered brain network organization in romantic love as measured with resting-state fMRI and graph theory. Brain Imaging and Behavior 14, 2771–2784 (2020).
-
-- 8
-
-  Emanuele E, Politi P, Bianchi M, Minoretti P, Bertona M, Geroldi D. Raised plasma nerve growth factor levels associated with early-stage romantic love. Psychoneuroendocrinology. 2006 Apr;31(3):288-94. doi: 10.1016/j.psyneuen.2005.09.002. Epub 2005 Nov 10. PMID: 16289361.
-
-- 9
-
-  Marazziti D, Gemignani A, Dell’osso L. Trazodone Augmentation in OCD: A Case Series Report. CNS Spectr. 1999 Dec;4(12):48-9. doi: 10.1017/s1092852900006817. PMID: 18311107.
-
-- 10
-
-  Marazziti D, Cassano GB. The neurobiology of attraction. J Endocrinol Invest. 2003;26(3 Suppl):58-60. PMID: 12834023.
-
-- 11
-
-  Schneiderman I, Zagoory-Sharon O, Leckman JF, Feldman R. Oxytocin during the initial stages of romantic attachment: relations to couples’ interactive reciprocity. Psychoneuroendocrinology. 2012 Aug;37(8):1277-85. doi: 10.1016/j.psyneuen.2011.12.021. Epub 2012 Jan 26. PMID: 22281209; PMCID: PMC3936960.
-
-- 12
-
-  Acevedo BP, Poulin MJ, Collins NL, Brown LL. After the Honeymoon: Neural and Genetic Correlates of Romantic Love in Newlywed Marriages. Front Psychol. 2020 May 7;11:634. doi: 10.3389/fpsyg.2020.00634. PMID: 32457675; PMCID: PMC7223160.
-
-- 13
-
-  Ducharme, Jamie. 2019. “This Type of Date Night Activity Could Make You Feel Closer to Your Partner.” Time.
-
-- 14
-
-  Algoe SB, Kurtz LE, Grewen K. Oxytocin and Social Bonds: The Role of Oxytocin in Perceptions of Romantic Partners’ Bonding Behavior. Psychol Sci. 2017 Dec;28(12):1763-1772. doi: 10.1177/0956797617716922. Epub 2017 Oct 2. PMID: 28968183; PMCID: PMC5734372.
-
-- 15
-
-  “Oxytocin: The Love Hormone – Harvard Health.” 2021. Harvard Health.‌
-
-- 16
-
-  [16](<javascript:void(0)>)Sculley, J., Watkins, C.D. The Great Porn Experiment V2.0: Sexual Arousal Reduces the Salience of Familiar Women When Heterosexual Men Judge Their Attractiveness. Arch Sex Behav 51, 3071–3082 (2022).
-
-- 17
-
-  Brown, Richard E. (1974). «Sexual arousal, the coolidge effect and dominance in the rat (rattus norvegicus)». Animal Behaviour. 22 (3): 634–637.
-
-- 18
-
-  Lester, Gillian L.L.; Gorzalka, Boris B. (1988). «Effect of novel and familiar mating partners on the duration of sexual receptivity in the female hamster». Behavioral and Neural Biology. 49 (3): 398–405.
-
-- 19
-
-  Tlachi-López, José L.; Eguibar, Jose R.; Fernández-Guasti, Alonso; Angélica Lucio, Rosa (2012). «Copulation and ejaculation in male rats under sexual satiety and the Coolidge effect». Physiology & Behavior. 106 (5): 626–630.
-
-- 20
-
-  «Dynamic Changes in Nucleus Accumbens Dopamine Efflux During the Coolidge Effect in Male Rats». The Journal of Neuroscience. 17 (12): 4849–4855.
-
-- 21
-
-  Brand, Rebecca J., Charlotte M. Markey, Ana Mills, Sara D. Hodges. «Sex Differences in Self-reported Infidelity and its Correlates.» Sex Roles. May 24, 2007.
-
-- 22
-
-  Steiger S, Franz R, Eggert AK, Müller JK. The Coolidge effect, individual recognition and selection for distinctive cuticular signatures in a burying beetle. Proc Biol Sci. 2008 Aug 22;275(1645):1831-8. doi: 10.1098/rspb.2008.0375. PMID: 18477544; PMCID: PMC2593927.
-
-- 23
-
-  “Male Control of Ejaculation.” 2019. Luckymojo.com.‌
-
-- 24
-
-  “Are There Recommended Sexual Positions for Synergy?” 2022. The Pleasure of Partnership.‌
-
-- 25
-
-  “Hua Hu Ching by Lao Tzu (~5th Century).” 2023. The Pleasure of Partnership.‌
-
-- 26
-
-  “Cupid’s Poisoned Arrow: From Habit to Harmony in Sexual Relationships : Robinson, Marnia, Wile Ph.D., Douglas: Amazon.es: Libros.” 2023‌

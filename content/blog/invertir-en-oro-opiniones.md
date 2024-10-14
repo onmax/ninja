@@ -1,24 +1,29 @@
 ---
-title: "No volveré a invertir en oro (nunca más) Opinión de por qué no merece la pena"
+title: "No volveré a invertir en oro (nunca más)"
+url: https://pau.ninja/invertir-en-oro-opiniones
+slug: invertir-en-oro-opiniones
+categories: 
+- slug: dinero
+    label: 💰 Dinero
 image: persona-enfadada-con-oro.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/06/persona-enfadada-con-oro.jpeg
 published: 2022-06-02T09:55:56+00:00
 modified: 2024-02-06T11:06:38+00:00
+scrappedAt: 2024-10-14T09:20:38.411Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54211312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F74525de3-8dd2-b174-c2be-a1ce3c0db746.mp3
-slug: invertir-en-oro-opiniones
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/54211312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F74525de3-8dd2-b174-c2be-a1ce3c0db746.mp3](https://anchor.fm/s/98566448/podcast/play/54211312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F74525de3-8dd2-b174-c2be-a1ce3c0db746.mp3)
 
 Cuando empezó la pandemia al inicio de 2020 ya nos empezamos a oler la tostada. No estoy hablando de la recesión inminente temporal que supuso el cisne negro de la pandemia, sino a las **consecuencias nefastas** que tendrían más adelante para los ciudadanos las acciones que tomaron los Bancos Centrales y Estados para «controlar» la crisis.
 
-Por esto muchos decidimos [comprar oro](https://pau.ninja/donde-comprar-oro-fisico/) como protección.
+Por esto muchos decidimos [comprar oro](./donde-comprar-oro-fisico) como protección.
 
-Me hice con algunos lingotes de oro físico porque desde tiempo inmemoriales el oro ha sido [la reserva de valor](https://pau.ninja/valores-refugio/) por excelencia. A mantenido su valor durante largos periodos de tiempo y mi idea era, precisamente, guardar, mantener ese oro físico también durante muchos años…
+Me hice con algunos lingotes de oro físico porque desde tiempo inmemoriales el oro ha sido [la reserva de valor](./valores-refugio) por excelencia. A mantenido su valor durante largos periodos de tiempo y mi idea era, precisamente, guardar, mantener ese oro físico también durante muchos años…
 
 Mientras lo acomodaba en una caja fuerte perdida de la mano de Dios, veía la monstruosa impresión monetaria de la mano de la Reserva Federal de EEUU. Creando de la nada, ni más ni menos que [3 trillones](https://www.livemint.com/industry/banking/lessons-from-the-fed-s-3-trillion-money-printing-11592322603528.html) de dólares americanos **sólo** durante el primer año de la pandemia.
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 Con toda esa impresión de dinero que se traducía en que el valor del dinero de los ciudadanos era cada vez más bajo, el oro tenía más sentido que nunca y aunque en mi cartera de inversión el Bitcoin tomaba un rol central, nunca estaba de más tener algo de oro físico «para el largo plazo».
 
@@ -28,7 +33,7 @@ Fue muy fácil mantenerlo pasivamente en un lugar seguro, pero con el paso de lo
 
 Me pasó por la cabeza cómo sería pasar monedas y lingotes de oro por la frontera. ¿Cómo era cruzar la frontera con todo tu patrimonio? el miedo que debes pasar, la inseguridad e incertidumbre de ser expropiado por funcionarios corruptos… quien sabe.
 
-No voy a entrar en el debate [oro vs Bitcoin](https://pau.ninja/bitcoin-vs-oro/) (#293), sino que quiero indagar en la **practicidad del oro**. Porque cuando tocó usarlo (la finalidad del [dinero de verdad](https://pau.ninja/propiedades-del-dinero/)), todo se complicó.
+No voy a entrar en el debate [oro vs Bitcoin](./bitcoin-vs-oro/) (#293), sino que quiero indagar en la **practicidad del oro**. Porque cuando tocó usarlo (la finalidad del [dinero de verdad](https://pau.ninja/propiedades-del-dinero)), todo se complicó.
 
 Se complicó mucho.
 
@@ -39,31 +44,6 @@ Expliqué en un tweet mi venta de oro físico y traspaso de los fondos a Bitcoin
 Los que me criticaron por la venta del oro fueron personas que nunca han tenido que vender varios miles de euros en oro.
 
 En teoría, el oro físico tenía sentido, pero cuando empecé a querer venderlo para pasarlo todo a bitcoin… entonces me encontré con un chaparrón. Y lo agradezco, porque si hubiera tenido que encontrarme en esta situación en una emergencia seguramente tendría que haber malvendido mi oro.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Desventajas de invertir en oro](#Desventajas_de_invertir_en_oro 'Desventajas de invertir en oro')
-  - [Es costoso de transportar](#Es_costoso_de_transportar 'Es costoso de transportar')
-  - [Su traspaso es lento](#Su_traspaso_es_lento 'Su traspaso es lento')
-  - [Es fácilmente confiscable](#Es_facilmente_confiscable 'Es fácilmente confiscable')
-  - [El oro falso no se puede identificar fácilmente](#El_oro_falso_no_se_puede_identificar_facilmente 'El oro falso no se puede identificar fácilmente')
-  - [No se sabe cuánto se extraerá próximamente](#No_se_sabe_cuanto_se_extraera_proximamente 'No se sabe cuánto se extraerá próximamente')
-  - [Nadie sabe qué cantidad existe en el mundo](#Nadie_sabe_que_cantidad_existe_en_el_mundo 'Nadie sabe qué cantidad existe en el mundo')
-  - [En el espacio existen cantidades ilimitadas](#En_el_espacio_existen_cantidades_ilimitadas 'En el espacio existen cantidades ilimitadas')
-  - [No es una garantía de refugio de valor](#No_es_una_garantia_de_refugio_de_valor 'No es una garantía de refugio de valor')
-- [Ventajas de invertir en oro](#Ventajas_de_invertir_en_oro 'Ventajas de invertir en oro')
-- [En qué vale la pena invertir](#En_que_vale_la_pena_invertir 'En qué vale la pena invertir')
-- [Preguntas frecuentes sobre la inversión en oro](#Preguntas_frecuentes_sobre_la_inversion_en_oro 'Preguntas frecuentes sobre la inversión en oro')
-  - [¿Es bueno invertir en oro?](#%C2%BFEs_bueno_invertir_en_oro '¿Es bueno invertir en oro?')
-  - [¿Invertir en oro es rentable?](#%C2%BFInvertir_en_oro_es_rentable '¿Invertir en oro es rentable?')
-  - [¿Debería invertir en oro físico?](#%C2%BFDeberia_invertir_en_oro_fisico '¿Debería invertir en oro físico?')
-  - [¿Es momento de invertir en oro?](#%C2%BFEs_momento_de_invertir_en_oro '¿Es momento de invertir en oro?')
-  - [¿Se puede ahorrar en lingotes de oro?](#%C2%BFSe_puede_ahorrar_en_lingotes_de_oro '¿Se puede ahorrar en lingotes de oro?')
-  - [¿Por qué comprar lingotes de oro?](#%C2%BFPor_que_comprar_lingotes_de_oro '¿Por qué comprar lingotes de oro?')
-  - [¿El oro es la inversión más segura?](#%C2%BFEl_oro_es_la_inversion_mas_segura '¿El oro es la inversión más segura?')
-  - [¿Se recomienda invertir en oro en España?](#%C2%BFSe_recomienda_invertir_en_oro_en_Espana '¿Se recomienda invertir en oro en España?')
 
 ## Desventajas de invertir en oro
 
@@ -77,7 +57,7 @@ Imagínate que has almacenado 50.000€ o 100.000€ en monedas y lingotes de or
 
 Ahora imagina que quieres hacer un pago, intercambiarlo, o venderlo. Imagínate que te sucede como a mí y en tu pueblo te ofrecen miles de euros menos de lo que vale tu oro en comparación con otra localidad o país. ¿Qué haces? te ves obligado a venderlo al mejor postor.
 
-![transporte de oro](https://pau.ninja/wp-content/uploads/2022/06/transporte-de-oro.jpeg)
+![transporte de oro](./wp-content/uploads/2022/06transporte-de-oro.jpeg)
 
 Fotos: la increíble [misión](https://metro.co.uk/2019/12/03/incredible-mission-fly-4000000000-gold-bars-poland-london-11261910/) de transportar más de 4.000 millones en lingotes de oro desde Londres a Polonia durante la Segunda Guerra Mundial.
 
@@ -142,7 +122,7 @@ No sabemos identificar oro falso y tampoco sabemos cuánto oro se extraerá este
 
 Se cree que hay mucha más abundancia de oro en el núcleo de la Tierra que en la corteza terrestre porque los elementos más pesado van dividiéndose hacia abajo con el tiempo y claro, las rocas de la corteza que tienen más antigüedad tendrán menos oro.
 
-![capas de la Tierra](https://pau.ninja/wp-content/uploads/2022/06/capas-tierra.png)
+![capas de la Tierra](./wp-content/uploads/2022/06capas-tierra.png)
 
 La cantidad de oro se ha incrementado una media de 2% cada año. O en otras palabras, que la inflación del oro es de alrededor un 2% anual porque claro, lo hacemos menos escaso, lo que se traduce en inflación.
 
@@ -176,7 +156,7 @@ Casualmente esta ley salió unos años más tarde después de que algunas empres
 
 Lo interesante, es que este asteroide… está lleno de oro. Se estima que **su valor es más de $6 trillones de dólares**.
 
-![asteroide de oro](https://pau.ninja/wp-content/uploads/2021/11/asteroide-de-oro.jpeg)
+![asteroide de oro](./wp-content/uploads/2021/11asteroide-de-oro.jpeg)
 
 La empresa Planetary Resources ya hizo un lanzamiento de un cohete pequeñito del tamaño de una impresora para empezarlo a explorar de cerca, algo que te tendría que preocupar si tienes oro.
 
@@ -186,17 +166,17 @@ Hay mucho oro esperando a ser extraído con tecnología mejorada en la Tierra, p
 
 ### No es una garantía de refugio de valor
 
-Si hubiera mantenido oro durante 4 años de 1980 a 1984 o también de 1988 a 1991, aún habiendo hecho [HOLD](https://pau.ninja/que-es-holdear-criptomonedas/) de tu oro, habrías tenido pérdidas de un 10%.
+Si hubiera mantenido oro durante 4 años de 1980 a 1984 o también de 1988 a 1991, aún habiendo hecho [HOLD](./que-es-holdear-criptomonedas) de tu oro, habrías tenido pérdidas de un 10%.
 
 No olvidemos además que durante esos periodos, la inflación fue aproximadamente un 4-5% de media anual, y si a esto le sumamos la extracción espacial (como ese asteroide lleno de oro con valor de $6 trillones de dólares), no podemos contar en que el oro pueda seguir siendo una garantía de reserva de valor.
 
-![rentabilidad oro](https://pau.ninja/wp-content/uploads/2022/06/rentabilidad-oro.png)
+![rentabilidad oro](./wp-content/uploads/2022/06rentabilidad-oro.png)
 
 Gráfico: es verdad que si lo hubieras mantenido de 1973 a 1979 hubieras triunfado con más de un +35% de ganancias… pero entonces te hubiera tocado venderlo. Encontrar un comprador que te lo pagara a un precio justo y quizás para entonces ya habría llegado el año siguiente (1980) y hubiera empezado a bajar.
 
 El gasto de energía de una especie es directamente proporcional a lo avanzada que es una civilización. Si cada vez somos más capaces de extraer oro perforando más allá de la corteza terrestre, también estamos más cerca de extraer todo el oro que queramos de los asteroides y planetas que tengamos al alcance de nuestra tecnología.
 
-Es por esto que [bitcoin tiene un consumo energético](https://pau.ninja/bitcoin-consumo-energetico/) como el que tiene. Porque es un dinero de tipo 1 en la escala de Kardashov (#142).
+Es por esto que [bitcoin tiene un consumo energético](./bitcoin-consumo-energetico) como el que tiene. Porque es un dinero de tipo 1 en la escala de Kardashov (#142).
 
 La civilización de tipo 1 es capaz de aprovechar todos los recursos naturales de su Planeta y qué casualidad que los mineros de Bitcoin están cada vez más incentivados a usar energías renovables para el bien de su negocio.
 
@@ -206,7 +186,7 @@ Pero no me maleinterpretéis.
 
 Sí.
 
-Creo que [invertir (de forma segura) en Bitcoin](https://pau.ninja/invertir-en-bitcoins-forma-segura/) tiene mucho más sentido que tener oro físico, pero el oro físico sigue siendo una mejor opción que el dinero fiduciario (euros, dólares…). En una escala de reserva de valor tendríamos:
+Creo que [invertir (de forma segura) en Bitcoin](./invertir-en-bitcoins-forma-segura) tiene mucho más sentido que tener oro físico, pero el oro físico sigue siendo una mejor opción que el dinero fiduciario (euros, dólares…). En una escala de reserva de valor tendríamos:
 
 - Bitcoin
 - Oro físico
@@ -226,17 +206,17 @@ El oro para los romanos y los museos.
 
 ## En qué vale la pena invertir
 
-Es por esto que [el 100% de mi cartera de inversión](https://pau.ninja/mi-cartera-de-inversion/) ha dejado de ser 20% oro + 80% bitcoin y ahora es **100% bitcoin**.
+Es por esto que [el 100% de mi cartera de inversión](./mi-cartera-de-inversion) ha dejado de ser 20% oro + 80% bitcoin y ahora es **100% bitcoin**.
 
 Hasta un niño podría ver que si ponemos cara a cara en un ring a competir, Bitcoin VS oro, **Bitcoin gana tanto en papel, como en la práctica**.
 
 Lo sé, porque he pagado con Bitcoin, mientras que el oro sólo me había dado la oportunidad de almacenarlo.
 
-Bitcoin
-![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin.png)
+Bitcoin  
+![bitcoin](./wp-content/uploads/2020/11bitcoin.png)
 
-Oro físico
-![dinero](https://pau.ninja/wp-content/uploads/2020/11/dinero.png)
+Oro físico  
+![dinero](./wp-content/uploads/2020/11dinero.png)
 
 **Portable**
 
@@ -333,3 +313,93 @@ El valor a largo plazo del oro indica su consistencia y atractivo a lo largo del
 ### ¿Se recomienda invertir en oro en España?
 
 No. España tiene leyes en contra de la inversión de oro que hacen más difícil su posterior venta. Es por esto que los inversores experimentados de oro físico prefieren ir a Andorra, Suiza o Alemania a hacerse con oro de inversión.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-twitter.png) ![compartir en youtube](https://pau.ninja/wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [💰 Dinero](./dinero)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/invertir-en-oro-opiniones/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13634,"title":"Las%208%20razones%20por%20las%20que%20el%20ORO%20es%20una%20MALA%20inversi%C3%B3n","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/06\\/persona-enfadada-con-oro.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

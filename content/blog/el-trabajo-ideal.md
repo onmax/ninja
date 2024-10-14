@@ -1,13 +1,18 @@
 ---
-title: "El trabajo ideal o cómo encontrar propósito en tu arte"
+title: "El trabajo ideal"
+url: https://pau.ninja/el-trabajo-ideal
+slug: el-trabajo-ideal
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-con-trabajo-ideal.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/persona-con-trabajo-ideal.jpeg
 published: 2023-09-06T06:24:32+00:00
 modified: 2023-12-22T21:17:29+00:00
+scrappedAt: 2024-10-14T09:19:52.391Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/76594951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-30%2F349186856-44100-2-57185d922ef55.mp3
-slug: el-trabajo-ideal
+bibliography: ["“One Third of Your Life Is Spent at Work.” 2023. Gettysburg College.‌","University of California – Riverside. «Keys to long life? Not what you might expect.» ScienceDaily. ScienceDaily, 12 March 2011.","Boehm, Julia & Lyubomirsky, Sonja. (2008). Does Happiness Promote Career Success?. Journal of Career Assessment – J CAREER ASSESSMENT. 16. 101-116. 10.1177/1069072707308140.","Allen, Mark & McCarthy, Paul. (2015). Be Happy in your Work: The Role of Positive Psychology in Working with Change and Performance. Journal of Change Management. 16. 1-20. 10.1080/14697017.2015.1128471.","Flynn, Jack. 2023. “43 Incredible Job Satisfaction Statistics \\[2023\\]: Average Job Satisfaction in the US.” Zippia.‌","“Job Satisfaction Statistics 2023 | UK + Global Report.” 2022. StandOut CV‌","BASILIO, G. J., & Abun, D. (2023). The Effect of Workplace Relationship on Job Satisfaction of Employees: School Context . Divine Word International Journal of Management and Humanities (DWIJMH) (ISSN: 2980-4817), 2(1), 227–242.","Syamsuddin, Rahmi & Pratama, Angga & Oktora, Jublina & Sunarsi, Denok. (2021). Impact of Organizational Culture on Job Satisfaction (An Empirical Study on PT Telkom of Makassar Regional Office). 10.4108/eai.17-7-2020.2302982.","“Statistics on Remote Workers That Will Surprise You – Apollo Technical LLC.”","de Castro AB, Gee GC, Takeuchi D. Relationship between job dissatisfaction and physical and psychological health among Filipino immigrants. AAOHN J. 2008 Jan;56(1):33-40. doi: 10.3928/08910162-20080101-01. PMID: 18293598; PMCID: PMC3042893."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/76594951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-30%2F349186856-44100-2-57185d922ef55.mp3](https://anchor.fm/s/98566448/podcast/play/76594951/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-30%2F349186856-44100-2-57185d922ef55.mp3)
 
 El empleo que tenemos nos define.
@@ -26,7 +31,7 @@ No querrías aceptarlo.
 
 No porque sea mentira sino porque no te gusta lo que haces. A pesar de hacerlo 40 horas a la semana.
 
-> ¿Cómo no va a definirnos a lo que dedicamos 90.000 horas durante toda nuestra vida? A lo que dedicamos un tercio de nuestra longevidad.[1](<javascript:void(0)>)“One Third of Your Life Is Spent at Work.” 2023. Gettysburg College.‌
+> ¿Cómo no va a definirnos a lo que dedicamos 90.000 horas durante toda nuestra vida? A lo que dedicamos un tercio de nuestra longevidad.[ref-1](#ref-1){.ref}
 
 ¿A caso no dirías que alguien es un mecánico si se pasa un tercio de su vida reparando coches? O si alguien se pasa un tercio de su vida escribiendo, ¿no lo llamas «escritor»?
 
@@ -54,13 +59,13 @@ En serio.
 
 > La evidencia nos muestra como un trabajo poco satisfactorio nos acorta años de vida.
 
-O en otras palabras (para hacerlo más positivo), que construir tu trabajo ideal tiene una relación directa con tu longevidad, mejores relaciones y vida más sana[2](<javascript:void(0)>)University of California – Riverside. «Keys to long life? Not what you might expect.» ScienceDaily. ScienceDaily, 12 March 2011..
+O en otras palabras (para hacerlo más positivo), que construir tu trabajo ideal tiene una relación directa con tu longevidad, mejores relaciones y vida más sana[ref-2](#ref-2){.ref}.
 
 Estamos hablando de un **estudio de 80 años de duración** (parece que esos investigadores si que estaban disfrutando de su trabajo).
 
 Vamos, que si no tienes un trabajo que te gusta, te estás matando… dos veces. Una por el tiempo perdido y otro por el tiempo acortado.
 
-Por esto digo que el trabajo nos define. Las buenas noticias es que nos define *hoy*.
+Por esto digo que el trabajo nos define. Las buenas noticias es que nos define _hoy_.
 
 > No somos lo que ayer estudiamos, el trabajo que tuvimos, los títulos que ganamos o los proyectos que creamos o publicamos. Somos lo que estamos haciendo hoy (twitéalo)
 
@@ -68,36 +73,15 @@ Crear ese trabajo ideal no sólo nos lo debemos a nosotros, nuestro tiempo y nue
 
 Algo que es mucho más fácil de decir (o escuchar) que de hacer… aunque se hace más fácil accionando algunas pautas que podemos seguir.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [El trabajo de mis sueños](#El_trabajo_de_mis_suenos 'El trabajo de mis sueños')
-- [Las cualidades del trabajo ideal](#Las_cualidades_del_trabajo_ideal 'Las cualidades del trabajo ideal')
-  - [Personas](#Personas 'Personas')
-  - [Proceso](#Proceso 'Proceso')
-  - [Crecimiento](#Crecimiento 'Crecimiento')
-  - [Autonomía](#Autonomia 'Autonomía')
-  - [Sueldo](#Sueldo 'Sueldo')
-  - [Impacto](#Impacto 'Impacto')
-  - [Propósito](#Proposito 'Propósito')
-- [Pasos para manifestar el trabajo que quieres](#Pasos_para_manifestar_el_trabajo_que_quieres 'Pasos para manifestar el trabajo que quieres')
-  - [Dile que sí a todo el mundo](#Dile_que_si_a_todo_el_mundo 'Dile que sí a todo el mundo')
-  - [Pregúntate cómo luciría tu vida](#Preguntate_como_luciria_tu_vida 'Pregúntate cómo luciría tu vida')
-  - [Redacta tu día y semana perfecta](#Redacta_tu_dia_y_semana_perfecta 'Redacta tu día y semana perfecta')
-  - [Deja que madure un tiempo](#Deja_que_madure_un_tiempo 'Deja que madure un tiempo')
-  - [Dedicarle 15 minutos al día a una nueva habilidad](#Dedicarle_15_minutos_al_dia_a_una_nueva_habilidad 'Dedicarle 15 minutos al día a una nueva habilidad')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## El trabajo de mis sueños
 
-Existe una relación directa entre felicidad y el éxito de nuestras carreras profesionales[3](<javascript:void(0)>)Boehm, Julia & Lyubomirsky, Sonja. (2008). Does Happiness Promote Career Success?. Journal of Career Assessment – J CAREER ASSESSMENT. 16. 101-116. 10.1177/1069072707308140. [4](<javascript:void(0)>)Allen, Mark & McCarthy, Paul. (2015). Be Happy in your Work: The Role of Positive Psychology in Working with Change and Performance. Journal of Change Management. 16. 1-20. 10.1080/14697017.2015.1128471. . ¿Y cómo no va a hacerlo? Partiendo de la base de que:
+Existe una relación directa entre felicidad y el éxito de nuestras carreras profesionales[ref-3](#ref-3){.ref} [ref-4](#ref-4){.ref} . ¿Y cómo no va a hacerlo? Partiendo de la base de que:
 
 > La felicidad es el subproducto de tu estilo de vida. De tu día a día.
 
-Pasamos 40 horas a la semana en las tareas que los títulos de nuestros trabajos nos dan. Pues claro que va a estar relacionada el *total* de nuestra felicidad con lo que estamos haciendo durante 40 horas de nuestra semana.
+Pasamos 40 horas a la semana en las tareas que los títulos de nuestros trabajos nos dan. Pues claro que va a estar relacionada el _total_ de nuestra felicidad con lo que estamos haciendo durante 40 horas de nuestra semana.
 
-Pero a pesar de tener la *suerte* de ser de una parte minoritaria de la civilización occidental que ama lo que hace para vivir, no *caí* en lo que hago.
+Pero a pesar de tener la _suerte_ de ser de una parte minoritaria de la civilización occidental que ama lo que hace para vivir, no _caí_ en lo que hago.
 
 Ninguna persona (emprendedor o asalariado) que etiquete su trabajo de _ideal_ lo hizo.
 
@@ -107,7 +91,7 @@ Lo hemos ido montando como un Lego.
 
 No sólo se trata de buscar todas las piezas que el mercado y tu intención te pueda proporcionar, sino tan importante será tu habilidad de entender, de saber cuáles son las piezas que estás buscando.
 
-![meme trabajo ideal](https://pau.ninja/wp-content/uploads/2023/09/meme-trabajo-ideal.png)
+![meme trabajo ideal](./wp-content/uploads/2023/09meme-trabajo-ideal.png)
 
 ¿Qué quieres construir exactamente? ¿Tienes la habilidad para montar tu visión? ¿Serás capaz de desmontar y volver a ordenar si ves que esa construcción no te está quedando como querías? ¿O te desesperarás aceptando que nunca lo vas a montar?
 
@@ -119,11 +103,11 @@ Cuando terminas dándote cuenta, es cuando duele.
 
 Como cuando caminas por tu apartamento con las luces apagadas y terminas pisando piezas de Lego de las que te habías olvidado que poseías.
 
-Ese era el único dolor, el único *input* que necesitabas para hacer algo al respecto.
+Ese era el único dolor, el único _input_ que necesitabas para hacer algo al respecto.
 
 Mis _pisadas de Lego_ fueron las experiencias que viví en Canadá que me hizo querer montar algo online para vivir de esa manera para siempre.
 
-![meme descubrir y sacar mi potencial](https://pau.ninja/wp-content/uploads/2023/09/meme-descubrir-y-sacar-mi-potencial.jpg)
+![meme descubrir y sacar mi potencial](./wp-content/uploads/2023/09meme-descubrir-y-sacar-mi-potencial.jpg)
 
 Fueron los primeros 50€ que generé por internet con mi primer blog.
 
@@ -139,7 +123,7 @@ No tenía un plan para terminar aquí, pero hechando la vista atrás sólo puedo
 
 - En mi colegio de primaria creamos una pequeña radio local hecha por los alumnos aunque sólo escuchaban los padres. Me encantaba hacer de locutor. Hablar por el micrófono, escuchar mi voz a través de los auriculares… Pero nunca le di más vueltas.
 - Desde 2009 empecé a escribir al ver la película Hacia Rutas Salvajes haciendo que nunca dejara de hacerlo para ordenar mis pensamientos. Podríamos decir que ya estaba creando guiones aunque fuera de forma analógica.
-- En 2014 empecé a [hacer blogs para posicionarlos](https://pau.ninja/posicionar-un-blog/) en Google con SEO. Me encantó hacerlo aunque fuera puramente por interés económico. Supongo porque se trataban de mis propios proyectos.
+- En 2014 empecé a [hacer blogs para posicionarlos](./posicionar-un-blog) en Google con SEO. Me encantó hacerlo aunque fuera puramente por interés económico. Supongo porque se trataban de mis propios proyectos.
 
 Cada uno de estos proyectos me definió durante el tiempo que estuve haciéndolo, pero aún así había piezas que no terminaban de encajar.
 
@@ -151,7 +135,7 @@ Veo bases sólidas en mi castillo Lego. Me gusta como está quedando y sólo pue
 
 ## Las cualidades del trabajo ideal
 
-Existen algunas de las piezas de Lego que las estadísticas dicen que son las que la mayoría más valoramos para construir nuestro trabajo ideal.[5](<javascript:void(0)>)Flynn, Jack. 2023. “43 Incredible Job Satisfaction Statistics \[2023\]: Average Job Satisfaction in the US.” Zippia.‌[6](<javascript:void(0)>)“Job Satisfaction Statistics 2023 | UK + Global Report.” 2022. StandOut CV‌
+Existen algunas de las piezas de Lego que las estadísticas dicen que son las que la mayoría más valoramos para construir nuestro trabajo ideal.[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}
 
 A pesar de que personalmente no interpreto las estadísticas como evidencia conclusiva, sí que nos pueden ayudar a empezar a preguntarnos que valoramos más y menos en un empleo.
 
@@ -163,9 +147,9 @@ Con los (literalmente) cientos de mensaje que recibo semanalmente de la audienci
 
 > Si el trabajo fuera tu amante, ¿te amaría de vuelta?
 
-Siento que más que un trabajo, estoy delante de una *oportunidad* de mi vida.
+Siento que más que un trabajo, estoy delante de una _oportunidad_ de mi vida.
 
-Una oportunidad en la que estoy *trabajando*.
+Una oportunidad en la que estoy _trabajando_.
 
 Estar haciendo algo a diario donde las personas y/o proyectos con los que trabajas te impulsan a ser mejor, que te llene de pasión, que sientas que lo que haces cada día tiene transcendencia, que encima te hace aprender y contribuir.
 
@@ -192,17 +176,17 @@ Pero el círculo de [personas extraordinarias de la comunidad](#unirse) que este
 
 Cuando trabajo, no acostumbro a estar rodeado de los oyentes o miembros (algunas veces sí), pero este círculo, estas conexiones, son el subproducto de mi trabajo que muchas veces **se terminan transformando en amistades** (…).
 
-El trabajo ideal tendrá una cultura que encaje con el tipo de personas que admiras.[7](<javascript:void(0)>)BASILIO, G. J., & Abun, D. (2023). The Effect of Workplace Relationship on Job Satisfaction of Employees: School Context . Divine Word International Journal of Management and Humanities (DWIJMH) (ISSN: 2980-4817), 2(1), 227–242.
+El trabajo ideal tendrá una cultura que encaje con el tipo de personas que admiras.[ref-7](#ref-7){.ref}
 
 > Si tienes la oportunidad, ve a trabajar para (o con) tus heroes.
 
 Una satisfacción va mucho más allá de las personas.
 
-Se ha visto como la propia cultura de la empresa por la que se trabaja (o la que has creado) puede crear ya un 50% de satisfacción del curro.[8](<javascript:void(0)>)Syamsuddin, Rahmi & Pratama, Angga & Oktora, Jublina & Sunarsi, Denok. (2021). Impact of Organizational Culture on Job Satisfaction (An Empirical Study on PT Telkom of Makassar Regional Office). 10.4108/eai.17-7-2020.2302982.
+Se ha visto como la propia cultura de la empresa por la que se trabaja (o la que has creado) puede crear ya un 50% de satisfacción del curro.[ref-8](#ref-8){.ref}
 
 O sea que algunos trabajadores, sólo por tener presente y grabados en su cabeza los esquemas, las expectativas de la corporación por la que trabajan, ya sienten satisfacción.
 
-Siempre que [se alineen con sus valores personales](https://pau.ninja/valores-personales/), claro.
+Siempre que [se alineen con sus valores personales](./valores-personales), claro.
 
 Siendo seres sociales, tiene sentido que 40 horas diarias sean influenciadas por las relaciones. Las personas.
 
@@ -215,7 +199,7 @@ Pero está claro que en los trabajos no somos sociales y ya está.
 
 Desgraciadamente para algunos, antes que las relaciones, **los trabajos son agrupación de tareas**.
 
-De hecho ni siquiera son los *títulos* que estos trabajos representan.
+De hecho ni siquiera son los _títulos_ que estos trabajos representan.
 
 Pensamos en nuestros empleos como cajas de las que es muy difícil salir: soy profesor, soy _trader_, soy pintor, soy programador, soy gigoló…
 
@@ -225,13 +209,13 @@ No quieres ser el pintor. Quieres _haber pintado_.
 
 Quieres sentirte bien después de haber enseñado a tus alumnos. O de haber picado un código perfecto. O de haber hecho una operación de bolsa en verde…
 
-No quieres pasar por todo el proceso tedioso de manipulaciones psicológicas a los alumnos, ni pasarte horas intentando ver qué está fallando en el código que llevabas días picando, ni tener que lidiar con pérdidas de miles de euros porque la has cagado en tu *trade* del día…
+No quieres pasar por todo el proceso tedioso de manipulaciones psicológicas a los alumnos, ni pasarte horas intentando ver qué está fallando en el código que llevabas días picando, ni tener que lidiar con pérdidas de miles de euros porque la has cagado en tu _trade_ del día…
 
 ¿O quizás sí lo quieres?
 
 > Sabrás que has encontrado el trabajo ideal cuando te hayas enamorado de los procesos que los demás etiquetan de aburridos externamente.
 
-Es exactamente el mismo motivo por el que [me propuse no leer libros](https://pau.ninja/razones-para-no-leer/) irónicamente para aprender más.
+Es exactamente el mismo motivo por el que [me propuse no leer libros](./razones-para-no-leer) irónicamente para aprender más.
 
 Porque me di cuenta que no quería leer. Lo que quería era _haber leído_.
 
@@ -249,7 +233,7 @@ Son esos procesos aburridos los que pavimentan el camino en dirección a cosas m
 
 Los demás sólo soñarán con conseguir lo grande, pero son los que se toman el tiempo (y el disfrute) de pavimentar bien con tareas pequeñas y aburridas los que llegarán al resultado con _glamour_.
 
-Que irónicamente disfrutarán menos que la pavimentación. Que a su vez es lo que generará el *momentum*, el interés compuesto.
+Que irónicamente disfrutarán menos que la pavimentación. Que a su vez es lo que generará el _momentum_, el interés compuesto.
 
 Son esos que disfrutarán del puzzle de los ladrillos que están poniendo.
 
@@ -276,7 +260,7 @@ O lo será temporalmente.
 
 En cambio un incremento ya sea de posiciones, de títulos, de tareas y/o de salario nos puede ayudar a convertirnos en el burro que sigue adelante con la zanahoria.
 
-![meme trabajo ideal](https://pau.ninja/wp-content/uploads/2023/08/meme-trabajo-ideal.jpeg)
+![meme trabajo ideal](./wp-content/uploads/2023/08meme-trabajo-ideal.jpeg)
 
 El burro con la zanahoria puede parecer… un burro…
 
@@ -295,7 +279,7 @@ Sin importar el tipo de trabajo, igual que en la vida, necesitamos sentirnos aut
 
 Sin importar si eres asalariado o emprendedor, cuanto más florecemos en lo que hacemos, más crece esta necesidad de autonomía.
 
-Si eres emprendedor, cada vez delegarás más por lo que te quedarán las manos más libres… Un tiempo que seguramente destinarás para ajustar o [balancear otras áreas de la vida](https://pau.ninja/areas-de-la-vida/). O para expandir más el negocio, porqué al fin y al cabo te encanta lo que haces.
+Si eres emprendedor, cada vez delegarás más por lo que te quedarán las manos más libres… Un tiempo que seguramente destinarás para ajustar o [balancear otras áreas de la vida](./areas-de-la-vida). O para expandir más el negocio, porqué al fin y al cabo te encanta lo que haces.
 
 Pero es que si eres asalariado cada vez se te van a encomendar más tareas precisamente para que tengas la autonomía de hacerlas o manejarlas como te plazca.
 
@@ -303,7 +287,7 @@ Depende del trabajo la autonomía cobrará más o menos importancia a nivel emoc
 
 Es como cuidar de tu hijo por la tarde comparado con cuidar el hijo del vecino una tarde.
 
-No es que odies al hijo del vecino, pero prefieres cuidar a tu hijo porque… es *tu* hijo.
+No es que odies al hijo del vecino, pero prefieres cuidar a tu hijo porque… es _tu_ hijo.
 
 Por esto he remarcado más de una vez que a mi…
 
@@ -313,9 +297,9 @@ Se me hace difícil imaginándome a sueldo grabando o narrando en una radio, par
 
 Pero la autonomía no sólo es definida por los procesos de nuestro trabajo ideal, sino también por el entorno.
 
-Algo que la *plandemia* puso de manifiesto.
+Algo que la _plandemia_ puso de manifiesto.
 
-Por esto las estadísticas han visto como sólo por tener la opción de trabajar en remoto ya hay un incremento de 7% en la satisfacción del trabajo que usamos.[9](<javascript:void(0)>)“Statistics on Remote Workers That Will Surprise You – Apollo Technical LLC.”
+Por esto las estadísticas han visto como sólo por tener la opción de trabajar en remoto ya hay un incremento de 7% en la satisfacción del trabajo que usamos.[ref-9](#ref-9){.ref}
 
 Tiene todo sentido del mundo si pensamos que nos podemos desgeolocalizar cuando queramos.
 
@@ -334,7 +318,7 @@ El dinero es seguramente lo primero que nos viene a la mente cuando nos planteam
 
 Pensamos que existe una relación directamente lineal entre sueldo y satisfacción pero los datos nos muestran lo contrario.
 
-Es verdad que ser parte de los que cobran menos de 25.000€ al año (en America, en Europa serían unos 15.000€ proporcionalmente) te hace muy propenso a estar poco satisfecho con el trabajo,[10](<javascript:void(0)>)de Castro AB, Gee GC, Takeuchi D. Relationship between job dissatisfaction and physical and psychological health among Filipino immigrants. AAOHN J. 2008 Jan;56(1):33-40. doi: 10.3928/08910162-20080101-01. PMID: 18293598; PMCID: PMC3042893. haciendo que cuanto más cobres más lineal sea tu grado de satisfacción…
+Es verdad que ser parte de los que cobran menos de 25.000€ al año (en America, en Europa serían unos 15.000€ proporcionalmente) te hace muy propenso a estar poco satisfecho con el trabajo,[ref-10](#ref-10){.ref} haciendo que cuanto más cobres más lineal sea tu grado de satisfacción…
 
 Pero sólo hasta cierto punto.
 
@@ -348,13 +332,13 @@ No vamos a negar que el sueldo importa, pero ahora sabemos que **el dinero sólo
 
 Pasada esta franja deja de ser (tan) relevante.
 
-El dinero importa, pero más que a la cantidad máxima a la que debemos aspirar, pienso en «¿hasta cuánto puedo valer?». No *yo* como persona, sino lo que estoy ofreciendo.
+El dinero importa, pero más que a la cantidad máxima a la que debemos aspirar, pienso en «¿hasta cuánto puedo valer?». No _yo_ como persona, sino lo que estoy ofreciendo.
 
-Como regla general, más que tener presente lo que quiero cobrar, es pensar en lo que *no* quiero cobrar. En lo que *no* creo valer.
+Como regla general, más que tener presente lo que quiero cobrar, es pensar en lo que _no_ quiero cobrar. En lo que _no_ creo valer.
 
 Si no estamos inspirados por personas, motivados por propósito, disfrutando esos procesos aburridos y sin un camino por delante que veamos que nos hace crecer, no habrá una cantidad de dinero que sea equiparable con algo con lo que te veas haciendo toda tu vida.
 
-En este aspecto veo al dinero como en un videojuego. Como *puntos*.
+En este aspecto veo al dinero como en un videojuego. Como _puntos_.
 
 Si lo vas haciendo bien, vas consiguiendo más puntos. Además fijaros como en todos los videojuegos aunque te maten varias veces y no lo hagas demasiado bien, sólo por el hecho de haber estado horas jugando, ya has acumulado muchas monedas.
 
@@ -390,7 +374,7 @@ Hace unas semanas volví a mirar una de mis películas animadas favoritas, Coco,
 
 Considera el legado que vas a dejar.
 
-El impacto de lo que hacemos en el día a día. No tiene porque ser *sólo* en el trabajo. El legado que vas a dejar como padre, marido, amigo, corredor de maratones (lo que sea que te importe).
+El impacto de lo que hacemos en el día a día. No tiene porque ser _sólo_ en el trabajo. El legado que vas a dejar como padre, marido, amigo, corredor de maratones (lo que sea que te importe).
 
 Pero si no estamos aprovechando esas 40 horas semanales trabajando en algo, parece que estamos dejando otra de tantas oportunidades para dejar huella.
 
@@ -420,11 +404,11 @@ Un propósito nos da una motivación intrínseca que un sueldo por sí solo no n
 
 Ojo con este último punto.
 
-A pesar de saber que algunas tareas no dependerán de las ganas que tengo ese día de hacerlas, sino de [como de disciplinado soy](https://pau.ninja/como-ser-disciplinado/) (#322), cuando todos los puntos anteriores se cumplen, es entonces cuando siento como cuando en el Super Mario coges una de esas estrellas que hacen que nadie te pueda tocar.
+A pesar de saber que algunas tareas no dependerán de las ganas que tengo ese día de hacerlas, sino de [como de disciplinado soy](./como-ser-disciplinado) (#322), cuando todos los puntos anteriores se cumplen, es entonces cuando siento como cuando en el Super Mario coges una de esas estrellas que hacen que nadie te pueda tocar.
 
 Me levanto cada maldita mañana con motivación de empezar a trabajar.
 
-Claro que habrá cosas que no querré hacer, pero el truco está en [intentar alcanzar el estado de flow](https://pau.ninja/estado-de-flow/) (#486) en las primeras horas del día.
+Claro que habrá cosas que no querré hacer, pero el truco está en [intentar alcanzar el estado de flow](./estado-de-flow) (#486) en las primeras horas del día.
 
 Algo que me recarga de vitalidad, energía y positivismo haciendo que las partes que tengo menos ganas de hacer, parezcan menos negativas si las hago luego.
 
@@ -442,7 +426,7 @@ Quizás si hubiera idealizado mi trabajo perfecto antes de alcanzarlo, lo habrí
 
 A veces pensamos que tenemos una pasión pero sólo estamos **idealizando la idea de esa pasión**. Idealizándola mucho antes de que hayamos tenido la oportunidad de sumergirnos en ella.
 
-Es lo mismo que nos sucede cuando estamos intentando [buscar las cualidades de la pareja perfecta](https://pau.ninja/que-buscar-en-una-pareja/) (#519). La idealizamos en vez de toparnos con ella. O «construirla».
+Es lo mismo que nos sucede cuando estamos intentando [buscar las cualidades de la pareja perfecta](./que-buscar-en-una-pareja) (#519). La idealizamos en vez de toparnos con ella. O «construirla».
 
 El enigma que nos surge es… ¿cómo terminar topándonos con el trabajo perfecto? ¿O qué creo que volvería a hacer yo que me ayudó a terminar con un curro que considero mi misión de vida?
 
@@ -452,7 +436,7 @@ Lo primero que haría para encontrar o crear un trabajo ideal que aún no no sep
 
 A absolutamente cualquier oportunidad que se me pusiera por delante.
 
-Lo que es irónico porque ahora que sé lo que quiero hacer con mi vida, tengo que hacer todo lo contrario: [aprender a decir que _no_](https://pau.ninja/aprender-a-decir-no/) al máximo de cosas (#439).
+Lo que es irónico porque ahora que sé lo que quiero hacer con mi vida, tengo que hacer todo lo contrario: [aprender a decir que _no_](./aprender-a-decir-no) al máximo de cosas (#439).
 
 Evitaría comprometerme con títulos oficiales a toda costa. Olvida los grados de varios años.
 
@@ -470,7 +454,7 @@ Esta es una pregunta que me hago constantemente cuando pienso en cómo el trabaj
 
 No dejan de ser 40 horas a la semana que dictarán el nivel de energía que tenemos, la gente con la que nos relacionamos, y cuanto tiempo queda por hacer las otras cosas que queremos hacer.
 
-Tengo muy presente que muchas veces idealizamos demasiado el tipo de vida que nos imaginamos teniendo, pero vale la pena tomarse un paseo para pensar que cosas *ya* sabemos que disfrutamos haciendo.
+Tengo muy presente que muchas veces idealizamos demasiado el tipo de vida que nos imaginamos teniendo, pero vale la pena tomarse un paseo para pensar que cosas _ya_ sabemos que disfrutamos haciendo.
 
 Es una buena manera para identificar si estamos en el camino correcto.
 
@@ -486,7 +470,7 @@ Se me hizo muy claro el trabajo que necesitaba y cómo me imaginaba viviendo.
 
 Nunca terminé con ese día perfecto porqué 5 años más tardes lo volví a escribir para darme cuenta cómo había cambiado lo que consideraba un día y un trabajo ideal.
 
-Hace 5 años no tenía podcast y sólo pensaba en generar dinero de forma remota, en cambio ahora que el *proyecto ninja* cumple con todo lo que hemos visto hoy, tiene sentido que mi día perfecto lucirá de forma totalmente diferente.
+Hace 5 años no tenía podcast y sólo pensaba en generar dinero de forma remota, en cambio ahora que el _proyecto ninja_ cumple con todo lo que hemos visto hoy, tiene sentido que mi día perfecto lucirá de forma totalmente diferente.
 
 Porqué para nada pensé que me llevara a generar contenido. A tener deberes para toda mi vida.
 
@@ -498,7 +482,7 @@ Un trabajo que amas no tiene porque empezar siendo el trabajo ideal. No tienes 
 
 Igual que cuando empiezas a salir con alguien.
 
-No os empezáis a etiquetar de _novios_ porque *aún os estáis conociendo*. Estáis adaptando vuestros estilos de vida al uno y al otro.
+No os empezáis a etiquetar de _novios_ porque _aún os estáis conociendo_. Estáis adaptando vuestros estilos de vida al uno y al otro.
 
 ¿Qué te hace pensar que te vas a caer en la piscina de bolas del trabajo perfecto? Eso si es tener unas pelotas bien grandes…
 
@@ -530,47 +514,3 @@ Pues claro. Si estudiar para un trabajo no estás viviéndolo.
 Las prácticas de la carrera o los ciclos formativos no empiezan hasta que ya tienes unas bases de la educación de la profesión que estás estudiando.
 
 Lo que es una paradoja porqué, ¿cómo sabes que querrás hacer eso por el resto de tu vida? Ya habrás perdido 2 años antes de empezar a hacer prácticas cuando podrías haber dedicado este tiempo a probar un trillón y medio de cosas.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  “One Third of Your Life Is Spent at Work.” 2023. Gettysburg College.‌
-
-- 2
-
-  University of California – Riverside. «Keys to long life? Not what you might expect.» ScienceDaily. ScienceDaily, 12 March 2011.
-
-- 3
-
-  Boehm, Julia & Lyubomirsky, Sonja. (2008). Does Happiness Promote Career Success?. Journal of Career Assessment – J CAREER ASSESSMENT. 16. 101-116. 10.1177/1069072707308140.
-
-- 4
-
-  Allen, Mark & McCarthy, Paul. (2015). Be Happy in your Work: The Role of Positive Psychology in Working with Change and Performance. Journal of Change Management. 16. 1-20. 10.1080/14697017.2015.1128471.
-
-- 5
-
-  Flynn, Jack. 2023. “43 Incredible Job Satisfaction Statistics \[2023\]: Average Job Satisfaction in the US.” Zippia.‌
-
-- 6
-
-  “Job Satisfaction Statistics 2023 | UK + Global Report.” 2022. StandOut CV‌
-
-- 7
-
-  BASILIO, G. J., & Abun, D. (2023). The Effect of Workplace Relationship on Job Satisfaction of Employees: School Context . Divine Word International Journal of Management and Humanities (DWIJMH) (ISSN: 2980-4817), 2(1), 227–242.
-
-- 8
-
-  Syamsuddin, Rahmi & Pratama, Angga & Oktora, Jublina & Sunarsi, Denok. (2021). Impact of Organizational Culture on Job Satisfaction (An Empirical Study on PT Telkom of Makassar Regional Office). 10.4108/eai.17-7-2020.2302982.
-
-- 9
-
-  “Statistics on Remote Workers That Will Surprise You – Apollo Technical LLC.”
-
-- 10
-
-  de Castro AB, Gee GC, Takeuchi D. Relationship between job dissatisfaction and physical and psychological health among Filipino immigrants. AAOHN J. 2008 Jan;56(1):33-40. doi: 10.3928/08910162-20080101-01. PMID: 18293598; PMCID: PMC3042893.

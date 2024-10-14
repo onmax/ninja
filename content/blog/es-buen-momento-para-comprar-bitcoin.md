@@ -1,26 +1,33 @@
 ---
-title: "El timing en Bitcoin o cuál es el momento perfecto para (no) comprar"
+title: "El timing en Bitcoin"
+url: https://pau.ninja/es-buen-momento-para-comprar-bitcoin
+slug: es-buen-momento-para-comprar-bitcoin
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: esperando-el-mejor-momento-para-comprar-bitcoin.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/11/esperando-el-mejor-momento-para-comprar-bitcoin.jpeg
 published: 2023-11-20T07:11:34+00:00
 modified: 2024-04-28T11:30:09+00:00
+scrappedAt: 2024-10-14T09:19:46.424Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/81437575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363921594-44100-2-ba7e8db9a2dda.mp3
-slug: es-buen-momento-para-comprar-bitcoin
+bibliography: ["Shtekhman, Anatoly, Christos Tasopoulos, and Brian Wimmer. 2012. Dollar-Cost Averaging Just Means Taking Risk Later.","Callahan, Sam, and Rapha Zagury. 2023. Running the Numbers Dollar Cost Averaging vs. Lump-Sum Investing. Accessed November 12.‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/81437575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363921594-44100-2-ba7e8db9a2dda.mp3](https://anchor.fm/s/98566448/podcast/play/81437575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363921594-44100-2-ba7e8db9a2dda.mp3)
 
 Ya sabéis que desde hace años **usé todo mi patrimonio (el 100%)** para comprar bitcoins.
 
-Que de hecho sigo haciéndolo. Sigo comprando bitcoin siempre que tengo ahorros extras porqué sabemos que [el colapso del sistema monetario actual](https://pau.ninja/sistema-monetario-actual/) (#428) es un hecho inevitable.
+Que de hecho sigo haciéndolo. Sigo comprando bitcoin siempre que tengo ahorros extras porqué sabemos que [el colapso del sistema monetario actual](./sistema-monetario-actual) (#428) es un hecho inevitable.
 
-No es una cuestión de *y si…* sino de *cuando*.
+No es una cuestión de _y si…_ sino de _cuando_.
 
-Por esto muchos decidimos avanzarnos a este *cuando* colapsará el sistema, comprando bitcoin como el mejor [valor refugio](https://pau.ninja/valores-refugio/).
+Por esto muchos decidimos avanzarnos a este _cuando_ colapsará el sistema, comprando bitcoin como el mejor [valor refugio](./valores-refugio).
 
 El problema es que cuando lo hacemos (comprar BTC), vuelve a salir una cuestión de _cuando_: el cuando comprar. Cuál es el momento perfecto. El _timing_ ideal.
 
-![cómic predicción bolsa](https://pau.ninja/wp-content/uploads/2021/01/comic-prediccion-bolsa.png)
+![cómic predicción bolsa](./wp-content/uploads/2021/01comic-prediccion-bolsa.png)
 
 No es lo mismo que hubiera puesto todo mi patrimonio a Bitcoin cuando llegó a $65.000 que cuando cayó a $18.000.
 
@@ -28,36 +35,15 @@ Algunos me diréis que si realmente creo en este activo a largo plazo como soluc
 
 > Cuanto menos pagues por bitcoin, más bitcoins puedes acumular.
 
-Me parece una soberana tontería que si puedes comprar a menor precio, no enfatices esta eficiencia antes que comprar *a cualquier precio*.
+Me parece una soberana tontería que si puedes comprar a menor precio, no enfatices esta eficiencia antes que comprar _a cualquier precio_.
 
 Todos queremos el precio más barato porque poder comprar un poquito más ahora puede suponer una diferencia abismal por el valor acumulado de mi patrimonio en el futuro.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Por esto llevaba tiempo investigando las estrategias más populares de *timing* para los que estamos al largo plazo.
+Por esto llevaba tiempo investigando las estrategias más populares de _timing_ para los que estamos al largo plazo.
 
 Según los datos sí existe una **estrategia ganadora** pero es que además, esta estrategia aún se puede mejorar más.
 
 Hoy vemos si es buen momento para comprar bitcoin (o no), [el sistema que yo utilizo](#Con_senales_de_cambio_de_tendencia) y qué tener en cuenta en uno de los mercados más volátiles, con más riesgo pero con más recompensa.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [El precio de Bitcoin ahora mismo](#El_precio_de_Bitcoin_ahora_mismo 'El precio de Bitcoin ahora mismo')
-- [Las dos maneras de comprar bitcoins](#Las_dos_maneras_de_comprar_bitcoins 'Las dos maneras de comprar bitcoins')
-  - [Con DCA](#Con_DCA 'Con DCA')
-  - [A cañonazos](#A_canonazos 'A cañonazos')
-- [La mejor forma de comprar bitcoins](#La_mejor_forma_de_comprar_bitcoins 'La mejor forma de comprar bitcoins')
-- [Cuándo comprar bitcoins](#Cuando_comprar_bitcoins 'Cuándo comprar bitcoins')
-- [Cuál es el mejor momento para comprar bitcoin](#Cual_es_el_mejor_momento_para_comprar_bitcoin 'Cuál es el mejor momento para comprar bitcoin')
-  - [Los lunes](#Los_lunes 'Los lunes')
-  - [A primera hora de la mañana](#A_primera_hora_de_la_manana 'A primera hora de la mañana')
-  - [A final de mes](#A_final_de_mes 'A final de mes')
-  - [Usando el índice de miedo y codicia](#Usando_el_indice_de_miedo_y_codicia 'Usando el índice de miedo y codicia')
-  - [Cuando hay correcciones de precio](#Cuando_hay_correcciones_de_precio 'Cuando hay correcciones de precio')
-  - [Con señales de cambio de tendencia](#Con_senales_de_cambio_de_tendencia 'Con señales de cambio de tendencia')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## El precio de Bitcoin ahora mismo
 
@@ -67,12 +53,12 @@ Para ponerlo en perspectiva si ahora BTC valiese $20.000 y hubiéramos invertido
 
 Porque con esto estamos dando por hecho que metimos todo el dinero **de golpe**. A modo de cañonazo. Entonces, sí. Tendríamos un 200% de ganancia.
 
-Pero en realidad no es la única manera de hacerlo. Muchas personas deciden comprar Bitcoin usando otra estrategia para mitigar el riesgo de *entrar* a comprar en el peor momento. De ajustar el *timing*.
+Pero en realidad no es la única manera de hacerlo. Muchas personas deciden comprar Bitcoin usando otra estrategia para mitigar el riesgo de _entrar_ a comprar en el peor momento. De ajustar el _timing_.
 
 - **Lump-sum:** de golpe, a cañonazo. Lo recibo y lo pongo en Bitcoin sin preocuparme del precio. O quizás espero un momento específico para hacerlo.
 - **DCA:** de _Dollar Cost Average_ que es promediar, hacer una media de tus ahorros. Coger ese dinero e ir metiéndolo poquito a poco. Un poquito cada día, o un día a la semana, o cada mes.
 
-¿Qué pasa con hacerlo así? Pues que aunque mitigues el riesgo de entrar en el peor momento, también cortas el riesgo de entrar en el *mejor* momento.
+¿Qué pasa con hacerlo así? Pues que aunque mitigues el riesgo de entrar en el peor momento, también cortas el riesgo de entrar en el _mejor_ momento.
 
 Pero ninjas de la vida, según los datos ahora sabemos que en realidad hay una estrategia de estas dos, que es mejor que la otra.
 
@@ -80,7 +66,7 @@ Los datos y el histórico de mercado nos dice que **sí** hay una estrategia gan
 
 ### Con DCA
 
-Si no conoces esta estrategia te recomiendo leer mi artículo sobre [qué es el DCA en la inversión](https://pau.ninja/dca-que-es-inversion/) para entenderlo bien.
+Si no conoces esta estrategia te recomiendo leer mi artículo sobre [qué es el DCA en la inversión](./dca-que-es-inversion) para entenderlo bien.
 
 Vanguard, el gigante de los fondos de inversión, hizo un estudio en el que miró esas carteras típicas en las que tenían un 60% invertido de acciones en bolsa y un 40% posicionado en bonos.
 
@@ -90,9 +76,7 @@ Poniendo el dinero poco a poco, con la estrategia DCA, o metiendo un cañonazo d
 
 ¿Podéis especular qué encontraron? ¿Cuál fue la estrategia ganadora?
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Bueno si os digo el título del estudio una vez concluido os podéis hacer una idea… El estudio se tituló: _promediar la inversión con DCA sólo significa tomar el riesgo más tarde_.[1](<javascript:void(0)>)Shtekhman, Anatoly, Christos Tasopoulos, and Brian Wimmer. 2012. Dollar-Cost Averaging Just Means Taking Risk Later.
+Bueno si os digo el título del estudio una vez concluido os podéis hacer una idea… El estudio se tituló: _promediar la inversión con DCA sólo significa tomar el riesgo más tarde_.[ref-1](#ref-1){.ref}
 
 «Pero Pau, ¿no estabas siguiendo esta estrategia?»
 
@@ -120,7 +104,7 @@ Dices, «vale Pau, pero estos estudios están basados en fondos de inversión. E
 
 Totalmente, querido ninja de la vida. Pero estas simulaciones (que sí, en el fondo son _a toro pasado_) también se han replicado en criptos.
 
-Un estudio de Sam Callahan & Rapha Zagury miró de cerca al precio histórico de Bitcoin desde los últimos 6 años, comparando la [estrategia del DCA](#Con_DCA) contra la del cañonazo. Meter el dinero todo de golpe así que lo tengamos disponible para invertir.[2](<javascript:void(0)>)Callahan, Sam, and Rapha Zagury. 2023. Running the Numbers Dollar Cost Averaging vs. Lump-Sum Investing. Accessed November 12.‌
+Un estudio de Sam Callahan & Rapha Zagury miró de cerca al precio histórico de Bitcoin desde los últimos 6 años, comparando la [estrategia del DCA](#Con_DCA) contra la del cañonazo. Meter el dinero todo de golpe así que lo tengamos disponible para invertir.[ref-2](#ref-2){.ref}
 
 Y aquí estamos hablando que miraron a distintos métodos de DCA, es decir: meter la misma cantidad de dinero:
 
@@ -134,11 +118,11 @@ Recordemos que miraron específicamente a Bitcoin en este caso.
 
 > Pues vieron que desde 2017 la estrategia que eclipsó a todas las otras maneras de invertir y comprar bitcoin fue… _Lump-sum_: invertirlo de golpe, pero…
 
-Las cosas se vuelven interesantes cuando del _zoom out_, hacemos *zoom in* para ver las cosas más de cerca.
+Las cosas se vuelven interesantes cuando del _zoom out_, hacemos _zoom in_ para ver las cosas más de cerca.
 
 Es verdad que meter todo de golpe desde 2019 hasta el día de hoy mostraba mejores resultados que las estrategias de DCA, pero mirándolo a más corto plazo (2 años) vieron algo distinto.
 
-Desde 2021 hasta hoy se veía como las [estrategias DCA](#Con_DCA) eran mejor *ocasionalmente*. Especialmente durante mercados bajistas (obviamente), donde los inversores podían comprar bitcoin a precios más bajos.
+Desde 2021 hasta hoy se veía como las [estrategias DCA](#Con_DCA) eran mejor _ocasionalmente_. Especialmente durante mercados bajistas (obviamente), donde los inversores podían comprar bitcoin a precios más bajos.
 
 Ahora bien, hace unos meses os hubiera dicho que estos periodos cortos me daban absolutamente igual. Que lo importante es el largo plazo, pero aunque siga pensando así…
 
@@ -158,7 +142,7 @@ El DCA mensual de Bitcoin rindió peor a las otras estrategias de DCA a 6 años 
 
 Es decir que si hubiéramos invertido poco a poco, mes a mes durante 12 meses, **hubiéramos acumulado 75% menos bitcoins** que la estrategia de meterlo todo de golpe. A cañonazos.
 
-![cómic comprar bitcoin](https://pau.ninja/wp-content/uploads/2021/01/comic-comprar-bitcoin.png)
+![cómic comprar bitcoin](./wp-content/uploads/2021/01comic-comprar-bitcoin.png)
 
 La conclusión fue que para el que utiliza DCA como estrategia para comprar bitcoins (para no preocuparse si es buen momento o no), que cuanto menos tiempo más efectivo. Es decir que:
 
@@ -200,7 +184,7 @@ Genial.
 
 Pero también estás cortando las alas a esta águila imperial.
 
-Y hablando de animales potentes y míticos, son los *bulls*, los toros de Wall Street que tienen un dicho que encaja perfectamente con mitigar este riesgo:
+Y hablando de animales potentes y míticos, son los _bulls_, los toros de Wall Street que tienen un dicho que encaja perfectamente con mitigar este riesgo:
 
 > Llevar tiempo en el mercado es mejor que intentar cronometrar el mercado.
 
@@ -216,7 +200,7 @@ Como cuando entras en un baño de agua fría.
 
 La pregunta del millón: cuando tengo ese dinero disponible para ahorrar a largo plazo, ¿lo meto el mismo día que lo recibo? ¿O _a qué_ tengo que esperar?
 
-Os cuento mi momento, mi *timing* de comprar más bitcoin en un segundo (tiene gato encerrado porque no es para todo el mundo), pero que sepáis que hay distintas estrategias comunes.
+Os cuento mi momento, mi _timing_ de comprar más bitcoin en un segundo (tiene gato encerrado porque no es para todo el mundo), pero que sepáis que hay distintas estrategias comunes.
 
 Distintos momentos en los que muchos deciden meter el cañonazo _bitcoinero_ según a cuando lo hace la mayoría de ahorradores largoplacistas.
 
@@ -244,7 +228,7 @@ Ahora imaginamos que decidimos que vamos a usar nuestro cañonazo para comprar e
 
 Pues acostumbra a ser **antes** que la bolsa de Nueva York abra por la mañana, que es a las 15:30 de España.
 
-Que ahí hay agentes activos que pueden hacer subir más el precio. Claro. Una ballena *movedora de precio* no estará levantándose a las 7 de la mañana, sino que lo hará a las 10 cuando el mayordomo lo despierte con unas alpacas dándole besos.
+Que ahí hay agentes activos que pueden hacer subir más el precio. Claro. Una ballena _movedora de precio_ no estará levantándose a las 7 de la mañana, sino que lo hará a las 10 cuando el mayordomo lo despierte con unas alpacas dándole besos.
 
 Vale, tenemos entonces lunes antes de las 15:30 de la mañana.
 
@@ -254,7 +238,7 @@ Y diréis, «vale Pau, pero hay cuatro lunes cada mes, ¿en cuál invierto? ¿En
 
 Pues las tendencias de precio continúan a medida que las semanas se convierten en meses y surgen nuevos patrones que aumentan y reducen el precio.
 
-Pero en el caso del momento del mes, tendría sentido seguir el *sentimiento* del mercado. Según cuál sea la tendencia en ese momento, aunque a nivel general, hemos visto como:
+Pero en el caso del momento del mes, tendría sentido seguir el _sentimiento_ del mercado. Según cuál sea la tendencia en ese momento, aunque a nivel general, hemos visto como:
 
 > Históricamente a final de mes es cuando ha sido el mejor momento para comprar bitcoin.
 
@@ -268,7 +252,7 @@ Y aquí me adentro ya en la estrategia que yo sigo que está relacionada con est
 
 ### Usando el índice de miedo y codicia
 
-Hay personas que para seguir esta tendencia del precio de bitcoin utiliza el índice de miedo y codicia (o *fear and greed index*) que mide el sentimiento de los participantes del mercado para establecer una tendencia.
+Hay personas que para seguir esta tendencia del precio de bitcoin utiliza el índice de miedo y codicia (o _fear and greed index_) que mide el sentimiento de los participantes del mercado para establecer una tendencia.
 
 Además se calcula teniendo en cuenta ciertas métricas como la volatilidad, el volumen, las redes sociales..
 
@@ -286,7 +270,7 @@ Supongo que es una estrategia sacada del amado líder de la inversión _old scho
 
 ### Cuando hay correcciones de precio
 
-Y es que históricamente algunas de las mejores oportunidades de compra de Bitcoin han sido cuando ha habido una bajada masiva. Una bajada que reconocerás por la prensa anunciando que [Bitcoin es una burbuja](https://pau.ninja/el-bitcoin-es-una-burbuja/) y que ha muerto (otra vez más).
+Y es que históricamente algunas de las mejores oportunidades de compra de Bitcoin han sido cuando ha habido una bajada masiva. Una bajada que reconocerás por la prensa anunciando que [Bitcoin es una burbuja](./el-bitcoin-es-una-burbuja) y que ha muerto (otra vez más).
 
 Por ejemplo todos recordamos diciembre de 2017 cuando inesperadamente un activo que no se puede tocar como es el Bitcoin pasó a valer $20.000 y de pronto…
 
@@ -304,7 +288,7 @@ Para venderlo en máximo momento de euforia.
 
 ### Con señales de cambio de tendencia
 
-Para los que os habéis quedado hasta el final os puedo hacer una confesión: mi manera de comprar bitcoin en el *momento perfecto*.
+Para los que os habéis quedado hasta el final os puedo hacer una confesión: mi manera de comprar bitcoin en el _momento perfecto_.
 
 No al precio perfecto, sino en el momento que se que va a terminar o iniciar un nuevo ciclo.
 
@@ -326,7 +310,7 @@ No adivinando el precio, sino subiéndome a la ola de los institucionales cuando
 
 Indagaré más en esto para los próximos episodios, pero os voy a hacer una pregunta.
 
-Yo soy 100% bitcoiner, pero ¿vale la pena hacer [holdear critpomonedas o bitcoin](https://pau.ninja/que-es-holdear-criptomonedas/), cuanto te acaban de confirmar que acabamos de llegar a máximos y que vamos a buscar precios mínimos?
+Yo soy 100% bitcoiner, pero ¿vale la pena hacer [holdear critpomonedas o bitcoin](./que-es-holdear-criptomonedas), cuanto te acaban de confirmar que acabamos de llegar a máximos y que vamos a buscar precios mínimos?
 
 Podrías vender para comprar aún más cuando bajara.
 
@@ -337,15 +321,3 @@ Este siempre ha sido el objetivo.
 Ya he pasado por mercados bajistas y alcistas, sabiendo que tengo la psicología, la mente bien curtida cuando bitcoin está en mínimos.
 
 Pero si puedo ser más eficiente a mis compras gracias a los recursos que disponemos, no tiene sentido que deje bitcoin potencial encima de la mesa.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Shtekhman, Anatoly, Christos Tasopoulos, and Brian Wimmer. 2012. Dollar-Cost Averaging Just Means Taking Risk Later.
-
-- 2
-
-  Callahan, Sam, and Rapha Zagury. 2023. Running the Numbers Dollar Cost Averaging vs. Lump-Sum Investing. Accessed November 12.‌

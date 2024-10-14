@@ -1,13 +1,20 @@
 ---
-title: "¿Cuando vender acciones? El arte de salir en el momento ideal"
+title: "¿Cuando vender acciones?"
+url: https://pau.ninja/cuando-vender-acciones
+slug: cuando-vender-acciones
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: analisis-tecnico
+    label: Análisis técnico
 image: persona-vende-acciones-de-bolsa.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/02/persona-vende-acciones-de-bolsa.jpeg
 published: 2024-05-05T05:08:52+00:00
 modified: 2024-08-10T19:46:41+00:00
+scrappedAt: 2024-10-14T09:19:22.712Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/89329433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F383349567-44100-2-56d590ff378ce.mp3
-slug: cuando-vender-acciones
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/89329433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F383349567-44100-2-56d590ff378ce.mp3](https://anchor.fm/s/98566448/podcast/play/89329433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F383349567-44100-2-56d590ff378ce.mp3)
 
 Saber cuando vender acciones es mucho más difícil que saber cuando comprar.
@@ -23,7 +30,7 @@ En el fondo nos vemos acaparados por el miedo. El miedo de dejar ganancias encim
 
 El _timing_, el momento ideal para saber cuando vender acciones es lo más difícil, psicológicamente hablando.
 
-![psicología de inversión en la bolsa](https://pau.ninja/wp-content/uploads/2024/05/psicologia-de-inversion-en-la-bolsa.jpg)
+![psicología de inversión en la bolsa](./wp-content/uploads/2024/05psicologia-de-inversion-en-la-bolsa.jpg)
 
 Y os lo puedo demostrar con una pregunta muy sencilla.
 
@@ -44,31 +51,11 @@ Una forma de actuar cuando llega ese momento para que así, no tengamos que depe
 
 > Por este motivo una buena venta es lo que diferencia los buenos traders, de los menos buenos y de los malos.
 
-¿Por qué, queridos ninjas de la vida? Pues porque en un mercado alcista todo el mundo tiene rentabilidades buenas y estratosféricas… Rentabilidades *no realizadas*. En papel.
+¿Por qué, queridos ninjas de la vida? Pues porque en un mercado alcista todo el mundo tiene rentabilidades buenas y estratosféricas… Rentabilidades _no realizadas_. En papel.
 
-Ahora bien, a todos nos ha pasado de llegar a ver un 100% de beneficio *teórico*, pero por A o por B terminar saliendo de esa posición unas semanas más tarde con _sólo_ un 30% de rentabilidad.
+Ahora bien, a todos nos ha pasado de llegar a ver un 100% de beneficio _teórico_, pero por A o por B terminar saliendo de esa posición unas semanas más tarde con _sólo_ un 30% de rentabilidad.
 
-Un 70% de dinero que era tuyo *en papel* ha quedado sobre la mesa, y se lo ha quedado alguien que no eres tú.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Esta pregunta lo cambia todo](#Esta_pregunta_lo_cambia_todo 'Esta pregunta lo cambia todo')
-- [Si no vendes pronto, venderás tarde](#Si_no_vendes_pronto_venderas_tarde 'Si no vendes pronto, venderás tarde')
-- [Las 2 únicas formas de vender acciones](#Las_2_unicas_formas_de_vender_acciones 'Las 2 únicas formas de vender acciones')
-  - [Vender acciones en fortaleza](#Vender_acciones_en_fortaleza 'Vender acciones en fortaleza')
-  - [Vender acciones en debilidad](#Vender_acciones_en_debilidad 'Vender acciones en debilidad')
-- [Cómo saber que es el momento de vender acciones](#Como_saber_que_es_el_momento_de_vender_acciones 'Cómo saber que es el momento de vender acciones')
-  - [Según la duración del último rally](#Segun_la_duracion_del_ultimo_rally 'Según la duración del último rally')
-  - [Aumento de rupturas fallidas](#Aumento_de_rupturas_fallidas 'Aumento de rupturas fallidas')
-  - [Fallo de medias móviles cortas](#Fallo_de_medias_moviles_cortas 'Fallo de medias móviles cortas')
-  - [No habrá nuevos líderes](#No_habra_nuevos_lideres 'No habrá nuevos líderes')
-  - [Amplitud sobrecomprada](#Amplitud_sobrecomprada 'Amplitud sobrecomprada')
-- [El mejor y peor momento para vender acciones](#El_mejor_y_peor_momento_para_vender_acciones 'El mejor y peor momento para vender acciones')
-  - [Qué es un top climático](#Que_es_un_top_climatico 'Qué es un top climático')
-  - [Avisos de un top climático](#Avisos_de_un_top_climatico 'Avisos de un top climático')
-  - [Cuidado con el volumen](#Cuidado_con_el_volumen 'Cuidado con el volumen')
+Un 70% de dinero que era tuyo _en papel_ ha quedado sobre la mesa, y se lo ha quedado alguien que no eres tú.
 
 ## Esta pregunta lo cambia todo
 
@@ -76,7 +63,7 @@ La pregunta que os voy a hacer ahora, os sonará a algunos. Pero es que es vital
 
 > Si de pronto vendieras tus acciones por error, ¿las volverías a comprar? Si la respuesta es «no», entonces ya deberías haberlas vendido. Y si has tardado varios segundos para pensártelo, entonces igualmente ya has respondido.
 
-Esta genialidad de pregunta se la escuché a decir en mi entrevista con Alex FMM ([ver aquí](https://www.youtube.com/@pau_ninja_podcast/search?query=fakinmoneyman)), y unos años más tarde, la vi plasmada [en los mejores libros de trading de 2024](https://pau.ninja/mejores-libros-de-trading/) que este señor nos había recomendado en la entrevista (#151).
+Esta genialidad de pregunta se la escuché a decir en mi entrevista con Alex FMM ([ver aquí](https://www.youtube.com/@pau_ninja_podcast/search?query=fakinmoneyman)), y unos años más tarde, la vi plasmada [en los mejores libros de trading de 2024](./mejores-libros-de-trading) que este señor nos había recomendado en la entrevista (#151).
 
 ## Si no vendes pronto, venderás tarde
 
@@ -88,17 +75,17 @@ En uno de mis libros favoritos del tema, el autor Brad Koteshwar comenta que qui
 
 > Que en el fondo si no vendemos venderemos demasiado pronto, terminaremos vendiendo demasiado tarde.
 
-Y no sé vosotros, pero me da a mí que vender demasiado pronto es relativamente *mejor* que vender demasiado tarde.
+Y no sé vosotros, pero me da a mí que vender demasiado pronto es relativamente _mejor_ que vender demasiado tarde.
 
-Como se comenta en su libro que comentamos en el club de lectura de la [comunidad](#unirse), en el fondo la meta del *trading* es hacer una ganancia deciente en nuestras inversiones, no el hecho de intentar tener razón todo el rato.
+Como se comenta en su libro que comentamos en el club de lectura de la [comunidad](#unirse), en el fondo la meta del _trading_ es hacer una ganancia deciente en nuestras inversiones, no el hecho de intentar tener razón todo el rato.
 
 Tampoco se trata de pillar justo al máximo ni hacer las compras justo en el mínimo.
 
-Del mismo modo que si tuviéramos una tienda, nuestro único objetivo sería vender nuestro género más caro para sacar una buena ganancia, lo mismo con el *trading*.
+Del mismo modo que si tuviéramos una tienda, nuestro único objetivo sería vender nuestro género más caro para sacar una buena ganancia, lo mismo con el _trading_.
 
-En nuestra tienda, con nuestro inventario, con nuestro *stock* el objetivo no sería encontrar el precio más alto al que se lo podemos vender al cliente, sino tener un precio decente en el que el ratio cantidad-retorno, nos da un buen interés compuesto.
+En nuestra tienda, con nuestro inventario, con nuestro _stock_ el objetivo no sería encontrar el precio más alto al que se lo podemos vender al cliente, sino tener un precio decente en el que el ratio cantidad-retorno, nos da un buen interés compuesto.
 
-Algo que aprendimos cuando hable sobre [la gestión de riesgo en el _trading_](https://pau.ninja/gestion-de-riesgo-en-el-trading/).
+Algo que aprendimos cuando hable sobre [la gestión de riesgo en el _trading_](./gestion-de-riesgo-en-el-trading).
 
 O sea que el único objetivo, no es encontrar la cima, sino exclusivamente **vendes más alto de lo que compramos**.
 
@@ -158,13 +145,13 @@ Para nombrar algunas de las pistas.
 
 > Vamos, que tener posiciones más grandes desde el principio del avance, es la estrategia más óptima en la que colocarnos para así, poder ir gradualmente reduciendo nuestras posiciones durante periodos fuertes, y saliendo del todo una vez se haya terminado la fiesta.
 
-Algo que es similar a [cuando comprar acciones en 2024](https://pau.ninja/cuando-comprar-acciones/) y estamos en una corrección.
+Algo que es similar a [cuando comprar acciones en 2024](./cuando-comprar-acciones) y estamos en una corrección.
 
 Cuantos más factores se cumplan de los que hemos dicho, y además, de los que vamos a listar ahora, más probabilidades de que el mercado está necesitando ya de que haya una corrección y necesitamos vender pronto.
 
 No todo, pero quizás al menos una parte.
 
-Si el mercado está saliendo de un *rally* de varios meses, cada vez vemos menos acciones que rompan al alza en una Etapa 2 y la amplitud nos sale que está sobrecomprado.
+Si el mercado está saliendo de un _rally_ de varios meses, cada vez vemos menos acciones que rompan al alza en una Etapa 2 y la amplitud nos sale que está sobrecomprado.
 
 Una condición que ya sabemos que nos debe poner a la defensiva, pero vayamos a ser más concretos.
 
@@ -196,7 +183,7 @@ Además de que son la trampa perfecta para esos _traders_ novatos que piensan qu
 
 Recordemos que las gemas, hacen sus mejores avanzadas cuando nadie sospechaba que íbamos hacia un nuevo mercado alcista.
 
-Pues cuando estas acciones parece que van a romper al alza después de semanas o meses de líderes avanzando, y sobretodo, cuando estas acciones rompan, pero vuelvan a base con *falsas rupturas*, es un **buen signo de especulación en el sector** indicando de que se ha llegado al punto máximo y se necesita corrección.
+Pues cuando estas acciones parece que van a romper al alza después de semanas o meses de líderes avanzando, y sobretodo, cuando estas acciones rompan, pero vuelvan a base con _falsas rupturas_, es un **buen signo de especulación en el sector** indicando de que se ha llegado al punto máximo y se necesita corrección.
 
 La clave entonces está en buscar divergencias dentro de las acciones de un sector.
 
@@ -212,15 +199,15 @@ Pues otra señal de peligro es cuando el precio, rompe por debajo la media móvi
 
 Sucediendo después de que haya estado por encima de esta media móvil durante semanas antes de romper a la baja de la línea.
 
-Cuando rompe hacia abajo, es otra pista de que algo sucede con los *stocks* individuales, con el sector general o incluso el mercado.
+Cuando rompe hacia abajo, es otra pista de que algo sucede con los _stocks_ individuales, con el sector general o incluso el mercado.
 
 Este tipo de ruptura acostumbra a llevar a la acción a hibernar una temporada. Poniéndose en Etapa 3.
 
-![cuatro etapas stan weinstein](https://pau.ninja/wp-content/uploads/2024/02/cuatro-etapas-stan-weinstein.png)
+![cuatro etapas stan weinstein](./wp-content/uploads/2024/02cuatro-etapas-stan-weinstein.png)
 
 O sea llevando la acción a un tope hasta que el sector vuelva a salir de ahí, o bien de nuevo a Etapa 2 para seguir avanzando, o a la baja poniéndose en Etapa 4.
 
-Ya sabemos que aquí es esencial [entender el método de Weinstein](https://pau.ninja/metodo-stan-weinstein/) (#582) para entender qué implican estas etapas y porque queremos estar sólo involucrados en la Etapa 2.
+Ya sabemos que aquí es esencial [entender el método de Weinstein](./metodo-stan-weinstein) (#582) para entender qué implican estas etapas y porque queremos estar sólo involucrados en la Etapa 2.
 
 Serán estas medias móviles de 10 o 30 semanas, que nos darán las pistas de la Etapa en la que estamos.
 
@@ -232,7 +219,7 @@ Típicamente antes de que empiece una nueva corrección, la cantidad de rupturas
 
 En este punto, una pista muy importante es que **veremos una falta de nuevos líderes**.
 
-Los sectores que hasta ahora estaba liderando el mercado, y semanalmente nos producían nuevas rupturas a las que agarrarnos, cuando nos acerquemos a una corrección o *bear market* veremos que no hay nuevos líderes ni rupturas (de continuación) de Etapa 2.
+Los sectores que hasta ahora estaba liderando el mercado, y semanalmente nos producían nuevas rupturas a las que agarrarnos, cuando nos acerquemos a una corrección o _bear market_ veremos que no hay nuevos líderes ni rupturas (de continuación) de Etapa 2.
 
 Avisándonos de que algo se viene, ya sea de los cortos y livianos (como un calambre muscular), o de los más grandes y sangrientos. De los que parece que te han amputado una pierna.
 
@@ -246,11 +233,11 @@ Entonces el mercado rotará en otro nuevo sector desde los antiguos.
 
 ### Amplitud sobrecomprada
 
-Otra cosa que sucederá en una tendencia alcista, es que el indicador de _amplitud_ del S&P500 quedará *sobrecomprado*.
+Otra cosa que sucederá en una tendencia alcista, es que el indicador de _amplitud_ del S&P500 quedará _sobrecomprado_.
 
 Se mantendrá así durante unas semanas, hasta 1 mes o incluso más, antes de que haya la corrección periódica que le pertenece.
 
-![amplitud sobrecomprado](https://pau.ninja/wp-content/uploads/2024/05/amplitud-sobrecomprado.jpg)
+![amplitud sobrecomprado](./wp-content/uploads/2024/05amplitud-sobrecomprado.jpg)
 
 Claro que el indicador por si sólo (como cualquier indicador), que nos esté marcando «sobrecomprado» no es una señal de venta en si misma, pero es un buen momento para empezar a ser conscientes del potencial de que ocurra otra corrección.
 
@@ -290,15 +277,15 @@ Es lo que estos profesionales llaman «un _trade_ concurrido», y como dicen en
 
 > Lo que es obvio, es obviamente incorrecto.
 
-Los inversores han visto como las bases funcionan bien muchas veces en el pasado. Esto atrae a inversores menos informados. ¿Qué hace en esta situación el *dinero inteligente*? Pues esos operadores *gordos* que entraron pronto y ahora quieren salir y realizar sus ganancias, quieren vender sus acciones a las manos del inversor novato.
+Los inversores han visto como las bases funcionan bien muchas veces en el pasado. Esto atrae a inversores menos informados. ¿Qué hace en esta situación el _dinero inteligente_? Pues esos operadores _gordos_ que entraron pronto y ahora quieren salir y realizar sus ganancias, quieren vender sus acciones a las manos del inversor novato.
 
 Los menos informados. Traspasar las acciones que compraron baratas a los _retail_ a precios más caros.
 
-Pensad que la venta de acciones toma lugar durante la subida hacia arriba. Cuando el *stock* aún está saliendo en los titulares a primera página. Cuando todo el mundo está emocionado y feliz del dinero «en papel» que están haciendo… Por esto es difícil de identificar.
+Pensad que la venta de acciones toma lugar durante la subida hacia arriba. Cuando el _stock_ aún está saliendo en los titulares a primera página. Cuando todo el mundo está emocionado y feliz del dinero «en papel» que están haciendo… Por esto es difícil de identificar.
 
 Pero por detrás, los grandes operadores están vendiendo.
 
-Si no hemos contado las bases mientras subíamos hacia arriba, podemos que cometas el error de confundir una _base de última etapa_ por una *primera etapa*.
+Si no hemos contado las bases mientras subíamos hacia arriba, podemos que cometas el error de confundir una _base de última etapa_ por una _primera etapa_.
 
 Por esto tenemos que mirar bien el gráfico, para ver si nos podemos dar cuenta de que hay evidencia clara que una acción llega a Etapa 3.
 
@@ -308,7 +295,7 @@ Aquí es donde podríamos llegar antes al llamado _top climático_. Por esto ten
 
 Muchos _stock_ líderes de un ciclo alcista llegarán a su máximo, a su top, con una última carrerilla. Una acelerada climática. Por esto lo llamamos _top climático_.
 
-El precio termina muriendo así, con un *sprint*, porque los institucionales necesitan compradores para absorber sus grandes cantidades de acciones.
+El precio termina muriendo así, con un _sprint_, porque los institucionales necesitan compradores para absorber sus grandes cantidades de acciones.
 
 Como resultado, la liquidación por su parte toma lugar durante el avance. Cuando el precio sigue subiendo y subiendo. Esto es lo que pone a los compradores con _ganas_ de comprar más y más.
 
@@ -318,7 +305,7 @@ En esta última subida, las acciones van cambiando de manos sigilosamente. Desde
 
 Pero tarde o temprano, inevitablemente, el volumen de los grandes institucionales sobrepasa al apetito _retail_.
 
-Ahí es cuando el *stock* colapsa.
+Ahí es cuando el _stock_ colapsa.
 
 Después de que ese valor haya avanzado de forma sana y continuada durante muchos meses, **el precio se acelera** y empieza a correr a una velocidad vertiginosa. A un ángulo mucho más pronunciado que lo que acostumbraba durante la avanzada _sana_ inicial.
 
@@ -350,11 +337,11 @@ Busca las siguientes señales:
 - Subida de P/E de el doble o más durante la última etapa de la acción del precio
 - Un top climático con el precio acelerándose 25-50% o más en 1-3 semanas
 - En acciones extendidas, 70% o más de días alcistas en comparación a bajistas durante 7-15 días
-- Una vez el *stock* está extendido, 6-10 días de avance acelerado con sólo 2-3 días en rojo
+- Una vez el _stock_ está extendido, 6-10 días de avance acelerado con sólo 2-3 días en rojo
 
 ### Cuidado con el volumen
 
-Cuando veamos un día con mucho volumen después de semanas y meses avanzando, tenemos que hacernos preguntas de si podríamos estar delante de un *top climático*.
+Cuando veamos un día con mucho volumen después de semanas y meses avanzando, tenemos que hacernos preguntas de si podríamos estar delante de un _top climático_.
 
 ¿Cuál es la acción del precio de ese día? ¿El volumen baja en un día rojo? Si fuese el caso entonces estamos viendo grandes instituciones liquidando sus posiciones.
 
@@ -367,13 +354,99 @@ Porque las ventas, la liquidación ocurre cuando el precio está yendo hacia arr
 En muchas ocasiones, aunque no siempre, hay señales que ocurren antes de que una acción tenga la oportunidad de frenarse un poco… Estamos hablando de:
 
 - Reversión de mucho volumen
-- Mucho volumen sin que haya progreso en el precio (el llamado *churning*)
+- Mucho volumen sin que haya progreso en el precio (el llamado _churning_)
 - Baja el precio de la acción con el volumen más alto desde el comienzo del movimiento
 
 Porque habrá un momento que bajará después de todas estas señales, o sea que querremos haber actuado antes.
 
-No queremos ser el tipo que se espera con la *esperanza* de que el precio se gire y siga subiendo.
+No queremos ser el tipo que se espera con la _esperanza_ de que el precio se gire y siga subiendo.
 
 Y es que si la acción experiencia su bajada de precio más alta (diaria o semanal) desde que empezó a avanzar en la Etapa 2, esta es la señal de venta más directa que puede haber.
 
 Claro que aquí estaríamos vendiendo ya en debilidad, y no en fortaleza.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Análisis técnico](./analisis-tecnico)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/cuando-vender-acciones/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":22815,"title":"5%20momentos%20para%20VENDER%20tus%20acciones%20en%202024","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2024\\/02\\/persona-vende-acciones-de-bolsa.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

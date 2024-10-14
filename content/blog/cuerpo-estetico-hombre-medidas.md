@@ -1,13 +1,22 @@
 ---
-title: "El ideal griego Cómo esculpir el cuerpo de hombre estéticamente perfecto"
+title: "El ideal griego"
+url: https://pau.ninja/cuerpo-estetico-hombre-medidas
+slug: cuerpo-estetico-hombre-medidas
+categories: 
+- slug: fitness
+    label: Fitness
+  - slug: estilo
+    label: Estilo
+  - slug: masculinidad
+    label: Masculinidad
 image: hombre-con-cuerpo-estetico.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/09/hombre-con-cuerpo-estetico.jpeg
 published: 2021-09-20T06:30:00+00:00
 modified: 2024-01-22T09:13:56+00:00
+scrappedAt: 2024-10-14T09:21:16.432Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283959-44100-2-d79463e2bd31bb95.mp3
-slug: cuerpo-estetico-hombre-medidas
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283959-44100-2-d79463e2bd31bb95.mp3](https://anchor.fm/s/98566448/podcast/play/52171736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283959-44100-2-d79463e2bd31bb95.mp3)
 
 Siempre he dicho que **entreno para «estar bueno» desnudo**. Y lo sigo reiterando.
@@ -34,30 +43,6 @@ Y esto es un problema. Al menos si entrenas para verte mejor.
 
 Por esto hoy vemos por qué un físico estético masculino tiene que **dar prioridad al volumen muscular de ciertos músculos** y cómo hacerlo de forma efectiva.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [El cuerpo ideal del hombre](#El_cuerpo_ideal_del_hombre 'El cuerpo ideal del hombre')
-  - [El cuerpo perfecto según Da Vici](#El_cuerpo_perfecto_segun_Da_Vici 'El cuerpo perfecto según Da Vici')
-  - [Proporción áurea humana](#Proporcion_aurea_humana 'Proporción áurea humana')
-  - [Medidas griegas del cuerpo humano](#Medidas_griegas_del_cuerpo_humano 'Medidas griegas del cuerpo humano')
-  - [Medidas del cuerpo perfecto en hombres](#Medidas_del_cuerpo_perfecto_en_hombres 'Medidas del cuerpo perfecto en hombres')
-- [Como tener un cuerpo perfecto de hombre](#Como_tener_un_cuerpo_perfecto_de_hombre 'Como tener un cuerpo perfecto de hombre')
-  - [Hombros anchos](#Hombros_anchos 'Hombros anchos')
-  - [Dorsales salidos](#Dorsales_salidos 'Dorsales salidos')
-  - [Brazos grandes](#Brazos_grandes 'Brazos grandes')
-  - [Cintura estrecha](#Cintura_estrecha 'Cintura estrecha')
-  - [Definición muscular](#Definicion_muscular 'Definición muscular')
-  - [Piernas proporcionales](#Piernas_proporcionales 'Piernas proporcionales')
-- [Rutina estética de hipertrofia](#Rutina_estetica_de_hipertrofia 'Rutina estética de hipertrofia')
-- [Cómo tener un buen cuerpo](#Como_tener_un_buen_cuerpo 'Cómo tener un buen cuerpo')
-  - [Nutrición apropiada](#Nutricion_apropiada 'Nutrición apropiada')
-  - [Entrenar para estética](#Entrenar_para_estetica 'Entrenar para estética')
-  - [Conexión mente-músculo](#Conexion_mente-musculo 'Conexión mente-músculo')
-  - [Priorizar el sueño profundo](#Priorizar_el_sueno_profundo 'Priorizar el sueño profundo')
-  - [Convertirlo en un hábito](#Convertirlo_en_un_habito 'Convertirlo en un hábito')
-
 ## El cuerpo ideal del hombre
 
 ¿Cómo construye un hombre su cuerpo ideal? muchos dirán que un «cuerpo perfecto» es algo personal pero la ciencia nos ha demostrado que **algunos cánones de belleza no cambian entre culturas**.
@@ -70,7 +55,7 @@ Mucho antes de que se inventaran los esteroides, algunos hombres que levantaban 
 
 No al jodido Hulk.
 
-![cuerpo estético Sandow](https://pau.ninja/wp-content/uploads/2021/09/cuerpo-estetico-Sandow.jpg)
+![cuerpo estético Sandow](./wp-content/uploads/2021/09cuerpo-estetico-Sandow.jpg)
 
 A quien tengo de referencia es al padre del culturismo: [Eugen Sandow](https://es.wikipedia.org/wiki/Eugen_Sandow), que nos dejó con fotos en blanco y negro de su físico.
 
@@ -84,7 +69,7 @@ Si me preguntáis a mí casi que es la cúspide, el pináculo de lo que un chava
 
 Con el pelo no, ya se me ha pasado el arroz pero aún estoy a tiempo de ir construyendo un cuerpo ideal y dejarme crecer el mostacho.
 
-![Otto Arco y George Hackenschmidt](https://pau.ninja/wp-content/uploads/2021/09/Otto-Arco-y-George-Hackenschmidt.jpg)
+![Otto Arco y George Hackenschmidt](./wp-content/uploads/2021/09Otto-Arco-y-George-Hackenschmidt.jpg)
 
 De la misma época pero sin bigote tenemos los cuerpos de Otto Arco y George Hackenschmidt (el creador del press de banca).
 
@@ -108,8 +93,6 @@ Veréis. A todo multipotencial le suena el El Hombre de Vitruvio de Leonardo Da 
 
 Porque estás proporciones fueron sacadas de otro lado. De Marcus Vitruvius. Un autor, ingeniero y arquitecto que se pasó la mayor parte de su vida construyendo fortalezas y armas para apoyar las campañas de conquista europea de Julio César.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Marcus Vitrivius fue quien publicó el libro _De Architectura_ que desde entonces se ha convertido en la fuente más importante para saber todo lo que sabemos sobre la construcción romana.
 
 Vitruvius hasta incluyó las proporciones del cuerpo perfecto humano porque **según él, las proporciones ideales del cuerpo debían guiar la estructura de los templos sagrados**.
@@ -118,7 +101,7 @@ Hasta dijo que **la geometría secreta del universo era una representación del
 
 Esto fue escrito unos 500 años más tarde de que nuestro rey multipotencial (Leonardo da Vinci) decidiera pasar a dibujo las observaciones de Marcus y lo llamara El Hombre de Vitruvio.
 
-![Hombre de Vitruvio y proporción áurea](https://pau.ninja/wp-content/uploads/2021/09/Hombre-de-Vitruvio-y-proporcion-aurea.png)
+![Hombre de Vitruvio y proporción áurea](./wp-content/uploads/2021/09Hombre-de-Vitruvio-y-proporcion-aurea.png)
 
 Y parece ser que Leo estaba de acuerdo con Marcus porque fascinado por la anatomía humana, también creía que «el hombre es un modelo del mundo».
 
@@ -126,13 +109,13 @@ Un poco egocéntrico si me preguntáis a mí. Pero qué puedo decir. Voy al gimn
 
 ### Proporción áurea humana
 
-La obra de Da Vici sigue siendo un ejemplar de las proporciones del hombre perfecto, pero lo realmente fascinante es que más tarde se descubrió que este balance y belleza venían de la **relación matemática que conocemos como la proporción áurea**. O *Golden Ratio* en inglés.
+La obra de Da Vici sigue siendo un ejemplar de las proporciones del hombre perfecto, pero lo realmente fascinante es que más tarde se descubrió que este balance y belleza venían de la **relación matemática que conocemos como la proporción áurea**. O _Golden Ratio_ en inglés.
 
 300 años antes de Cristo, el matemático griego Euclides definió esta proporción por primera vez. Un concepto que suena más rebuscado de lo que en realidad es:
 
 > «Sólo hay dos cantidades que están en la proporción áurea si la proporción entre la suma de las cantidades y la cantidad mayor es igual a la proporción entre la cantidad mayor y la menor.»
 
-![formula proporción áurea](https://pau.ninja/wp-content/uploads/2021/09/formula-proporcion-aurea.png)
+![formula proporción áurea](./wp-content/uploads/2021/09formula-proporcion-aurea.png)
 
 Según estos genios, esta formula vendría a ser la representación de **las medidas perfectas**. También aplicables a un cuerpo estético (como el mío).
 
@@ -146,7 +129,7 @@ Lo flipante de esta fórmula es que **no es un experimento abstracto: parece ser
 
 Pero en ningún sitio se ve más claramente que en el cuerpo humano.
 
-En la cara, el rostro, por ejemplo. Algo que ya me adentré cuando [hablé de cómo tener una mandíbula bien marcada](https://pau.ninja/ejercicios-para-marcar-mandibula-hombres/). Pero estas proporciones de la naturaleza también están presentes en la diferencia de largo que hay entre nuestros dedos, los pies y **hasta en la estructura de nuestro ADN**.
+En la cara, el rostro, por ejemplo. Algo que ya me adentré cuando [hablé de cómo tener una mandíbula bien marcada](./ejercicios-para-marcar-mandibula-hombres). Pero estas proporciones de la naturaleza también están presentes en la diferencia de largo que hay entre nuestros dedos, los pies y **hasta en la estructura de nuestro ADN**.
 
 > Por suerte para algunos y desgracia para otros, da Vinci observó que como más cerca de las proporciones áureas esté un cuerpo, más bonito y estético se percibe.
 
@@ -155,8 +138,6 @@ Y aunque los científicos ya [han señalado](https://www.ncbi.nlm.nih.gov/pmc/a
 Por eso es **imposible tacharlo de coincidencia**.
 
 Normal que los cirujanos plásticos o dentistas hayan usado esta ecuación para diseñar mejores mandíbulas marcadas y caras más bonitas.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Me corregís si me equivoco pero poco puedes hacer (a nivel cirugía) para mejorar la estética de tu cuerpo. Aquí tenemos que tomar nosotros la responsabilidad de ir al gimnasio… por esto me he montado yo un gym casero para tener menos excusas.
 
@@ -174,7 +155,7 @@ Si nuestra misión fuera crear el físico masculino ideal, podríamos echar un o
 
 Estas ideas eran de hace cientos de años pero [estudios](https://link.springer.com/article/10.1007/BF01542671) y [encuestas](https://journals.sagepub.com/doi/10.1177/0265407506068264) recientes han [demostrado](https://royalsocietypublishing.org/doi/abs/10.1098/rspb.2004.2922) que **el ideal griego del cuerpo masculino sigue siendo el que encontramos atractivo en la actualidad**.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2020/01/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2020/01comic-masa-muscular.png)
 
 Poca broma con eso que hasta se cree que es más atractivo este ideal griego que como de alto pueda ser un hombre. Lo que son buenas noticias para mí.
 
@@ -188,7 +169,7 @@ Hablando «en ninja»: el tamaño absoluto de los hombros, el pecho o la cintura
 
 Veremos [estas medidas](#Medidas_del_cuerpo_perfecto_en_hombres) en un momento, pero si buscáis esculturas clásicas griegas y romanas veréis el parecido con el cuerpo de Sandow.
 
-![Sandow como Hércules](https://pau.ninja/wp-content/uploads/2021/09/sandow-como-hercules.jpg)
+![Sandow como Hércules](./wp-content/uploads/2021/09sandow-como-hercules.jpg)
 
 Una cintura pequeña que se expande hacia arriba a un pecho y hombros musculosos y sobretodo anchos. Equipados por un buen par de ruedas. O como algunos las llaman: piernas.
 
@@ -202,7 +183,7 @@ El señor Eugen no lo sabía, pero **su simetría ideal revolvía precisamente e
 
 El cuerpo perfecto de Frank Zane fue para mí el último físico estético de verdad en competición. Después de esto sólo se ha buscado masa muscular a nivel monstruoso.
 
-![frank zane joven anciano](https://pau.ninja/wp-content/uploads/2021/05/frank-zane-joven-anciano.jpeg)
+![frank zane joven anciano](./wp-content/uploads/2021/05frank-zane-joven-anciano.jpeg)
 
 Foto: Frank Zane con 30 años de diferencia.
 
@@ -246,7 +227,7 @@ Lo que me quedo yo de estas proporciones son **sobretodo las dimensiones de los 
 
 > Son los hombres los que nos da a un cuerpo la forma de V.
 
-![cuerpo en forma de v](https://pau.ninja/wp-content/uploads/2021/09/cuerpo-en-forma-de-v.jpg)
+![cuerpo en forma de v](./wp-content/uploads/2021/09cuerpo-en-forma-de-v.jpg)
 
 Es esta forma de V del torso lo que la [ciencia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1634963/) ha [demostrado](https://link.springer.com/article/10.1007/BF01542671) ser muy atractivo tanto para hombres como mujeres. O sea que en teoría cuanto más se acerque un hombre a estas proporciones, más atractivo será para sus ojos y los de los demás.
 
@@ -272,11 +253,11 @@ Un ninja de la vida en busca de su cuerpo estético, nunca va a tener unos delto
 
 Es por esto que especialmente en el último año, en el entreno de «empuje», el músculo al que le doy más prioridad son los hombros.
 
-![hombros desarrollados](https://pau.ninja/wp-content/uploads/2021/09/hombros-desarrollados.jpg)
+![hombros desarrollados](./wp-content/uploads/2021/09hombros-desarrollados.jpg)
 
 Foto: yo en verano de 2021 entre la frontera de Rusia/Estonia. Físico no muy impresionante pero centrado en los hombros de superhéroe.
 
-Son el principal responsable de crear ese *look* de superhéroe y que acentúe la forma de V.
+Son el principal responsable de crear ese _look_ de superhéroe y que acentúe la forma de V.
 
 El segundo músculo que yo creo que es el más importante (después de los hombros) para crear la forma de V del cuerpo perfecto de hombre serían los dorsales, los laterales.
 
@@ -286,7 +267,7 @@ Esa parte de la espalda que si nos ven desde atrás se puede apreciar que se abr
 
 Los dorsales son un músculo que mis padres fueron muy buenos creando en su laboratorio biológico.
 
-Con pocas dominadas que haga me crecen un montón y es el ejercicio en el que soy naturalmente más fuerte. La última vez que hice me lastré con 20kg, y haciendo dominadas me saqué **9 repeticiones estrictas** con alguna *repe* de reserva. En la recámara.
+Con pocas dominadas que haga me crecen un montón y es el ejercicio en el que soy naturalmente más fuerte. La última vez que hice me lastré con 20kg, y haciendo dominadas me saqué **9 repeticiones estrictas** con alguna _repe_ de reserva. En la recámara.
 
 También es de lo que disfruto más entrenando… porque ya sabéis que somos buenos en lo que disfrutamos y disfrutamos en lo que somos buenos.
 
@@ -296,7 +277,7 @@ Por desgracia las porras que tengo vienen de fábrica pequeñas. Tienen «formas
 
 De todas formas (aunque siguen siendo unas esmirriadas) he visto un cambio brutal desde que **dejé de hacer ejercicios de aislamiento** de tríceps y bíceps y en vez de eso me puse a hacer dos básicos.
 
-- **Dominadas supinas**. Lo que en inglés llaman *chin-ups* que son esas dominadas que se hacen con las palmas hacia ti.
+- **Dominadas supinas**. Lo que en inglés llaman _chin-ups_ que son esas dominadas que se hacen con las palmas hacia ti.
 - **Fondos**. Que es cuando te levantas entre barras paralelas. Como son para tríceps (y no para pecho), nos mantenemos lo más rectos posibles, con la mirada al frente y las manos más bien adelantadas.
 
 Esos ejercicios lo cambiaron todo y no fueron los únicos. Conocí a un chaval joven pero con un cuerpo muy atlético en el gimnasio de Estonia.
@@ -381,9 +362,9 @@ Relativamente fácil al menos…. Es más fácil bajar grasa que crear músculo.
 
 ### Nutrición apropiada
 
-¿Cómo tener un cuerpo definido? A mí lo que ha ido mejor ha sido comer una vez por día (o hasta dos) combinado [con una dieta carnívora](https://pau.ninja/dieta-carnivora/).
+¿Cómo tener un cuerpo definido? A mí lo que ha ido mejor ha sido comer una vez por día (o hasta dos) combinado [con una dieta carnívora](./dieta-carnivora).
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/09/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/09comic-dieta-carnivora.png)
 
 Pero no dejará de ser una cuestión de **calorías que entran y lo que quemas**.
 
@@ -443,13 +424,13 @@ Algunas personas dicen, «pues a mí me gusta ver series antes de la cama» y de
 
 Bestseller No. 1
 
-[![Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcFlVdE5VbFpEZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NDI4MA=)](https://www.amazon.es/dp/B0BZ4MM2TX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul 'Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...')
+[![Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcFlVdE5VbFpEZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MDY4Ng=)](https://www.amazon.es/dpB0BZ4MM2TX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul "Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...")
 
-[Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...](https://www.amazon.es/dp/B0BZ4MM2TX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul 'Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...')
+[Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...](https://www.amazon.es/dp/B0BZ4MM2TX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul "Solmoon Gafas Filtro Luz Azul Unisex, Antifatiga y Anti-Azules para Gaming y Lectura, Lentes...")
 
-11,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+11,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B0BZ4MM2TX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B0BZ4MM2TX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul "Comprar en Amazon")
 
 Yo lo he establecido ya más como hábito porque ya tengo suficientes pantallas encendidas alrededor de mi día como para encima meterle otra antes de ir a sobar…
 
@@ -472,3 +453,89 @@ Que me dé una relación positiva con el ejercicio y la comida y con suerte hast
 Es también una cuestión de responsabilidad personal y orgullo porque me permite expresarme físicamente. Ya lo comenté alguna vez en mi diario fitness pero la mayor parte de mi perseverancia y dedicación que extrapolé a mis negocios online **salieron de empezar a ir al gimnasio cuando pesaba 10kg menos**.
 
 Por esto disfruto buscando de las proporciones áureas en mi propio cuerpo.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Fitness](./fitness)  
+O si quieres ser más específico:[Estilo](./estilo/), [Masculinidad](https://pau.ninja/masculinidad)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/cuerpo-estetico-hombre-medidas/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13549,"title":"6%20pilares%20%2B%201%20rutina%20para%20un%20cuerpo%20EST%C3%89TICO%20de%20hombre","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/09\\/hombre-con-cuerpo-estetico.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

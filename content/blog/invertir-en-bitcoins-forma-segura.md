@@ -1,14 +1,21 @@
 ---
-title: "Mama, así hay que comprar Bitcoin Cómo invertir en Bitcoins de forma segura"
+title: "Mama, así hay que comprar Bitcoin"
+url: https://pau.ninja/invertir-en-bitcoins-forma-segura
+slug: invertir-en-bitcoins-forma-segura
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: persona-con-bitcoin.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/01/persona-con-bitcoin.jpeg
 published: 2021-01-19T12:17:20+00:00
 modified: 2024-02-11T06:34:36+00:00
+scrappedAt: 2024-10-14T09:21:26.180Z
 audioLink: https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3
-slug: invertir-en-bitcoins-forma-segura
+bibliography: []
 ---
-
-[https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3](https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3)
+[https://www.ivoox.com/mama-asi-hay-comprar-bitcoin\_md\_65854394\_wp\_1.mp3](https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3)
 
 Sigue habiendo miedos de comprar Bitcoin porque algunas plataformas que **sí** son esquemas ponzi, han utilizado a bitcoin como caballo de Troya. ¿Quien se ha llevado la mala fama? Bitcoin.
 
@@ -18,44 +25,6 @@ Por culpa de estos estafadores bitcoin se ha llevado los insultos. El pobre no s
 
 Después de confesar que tengo el 100% de mis inversiones en BTC, muchos me habíais preguntado si podía explicar al detalle de cómo lo hago yo.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Cómo invertir en Bitcoins de forma segura](#Como_invertir_en_Bitcoins_de_forma_segura 'Cómo invertir en Bitcoins de forma segura')
-  - [Entender bitcoin](#Entender_bitcoin 'Entender bitcoin')
-  - [Ajustar la privacidad](#Ajustar_la_privacidad 'Ajustar la privacidad')
-  - [Elegir un exchange](#Elegir_un_exchange 'Elegir un exchange')
-  - [Tener una wallet](#Tener_una_wallet 'Tener una wallet')
-  - [Transferir fondos](#Transferir_fondos 'Transferir fondos')
-  - [Aportar recurrentemente](#Aportar_recurrentemente 'Aportar recurrentemente')
-  - [Rastrear las operaciones](#Rastrear_las_operaciones 'Rastrear las operaciones')
-- [Cómo comprar Bitcoins de forma segura](#Como_comprar_Bitcoins_de_forma_segura 'Cómo comprar Bitcoins de forma segura')
-  - [Dollar-Cost Average (DCA)](#Dollar-Cost_Average_DCA 'Dollar-Cost Average (DCA)')
-  - [Holdear (aguantar)](#Holdear_aguantar 'Holdear (aguantar)')
-  - [Staking (congelar por intereses)](#Staking_congelar_por_intereses 'Staking (congelar por intereses)')
-  - [Lump sum investing (todo de golpe)](#Lump_sum_investing_todo_de_golpe 'Lump sum investing (todo de golpe)')
-  - [Buy the Dip (comprar la bajada)](#Buy_the_Dip_comprar_la_bajada 'Buy the Dip (comprar la bajada)')
-  - [Tradear (rentabilidad a corto plazo)](#Tradear_rentabilidad_a_corto_plazo 'Tradear (rentabilidad a corto plazo)')
-- [Consejos para invertir en bitcoin](#Consejos_para_invertir_en_bitcoin 'Consejos para invertir en bitcoin')
-  - [Piensa en el largo plazo](#Piensa_en_el_largo_plazo 'Piensa en el largo plazo')
-  - [No endeudarse para invertir](#No_endeudarse_para_invertir 'No endeudarse para invertir')
-  - [Guardar bitcoin de forma segura](#Guardar_bitcoin_de_forma_segura 'Guardar bitcoin de forma segura')
-  - [No elegir la forma más barata de comprar bitcoin](#No_elegir_la_forma_mas_barata_de_comprar_bitcoin 'No elegir la forma más barata de comprar bitcoin')
-  - [Elegir la mejor manera de comprar bitcoin](#Elegir_la_mejor_manera_de_comprar_bitcoin 'Elegir la mejor manera de comprar bitcoin')
-- [Por qué NO invertir en bitcoin](#Por_que_NO_invertir_en_bitcoin 'Por qué NO invertir en bitcoin')
-- [Opiniones de invertir en bitcoin](#Opiniones_de_invertir_en_bitcoin 'Opiniones de invertir en bitcoin')
-  - [Vale la pena invertir en bitcoin](#Vale_la_pena_invertir_en_bitcoin 'Vale la pena invertir en bitcoin')
-  - [Es seguro y fiable invertir en bitcoin](#Es_seguro_y_fiable_invertir_en_bitcoin 'Es seguro y fiable invertir en bitcoin')
-  - [Es buen momento para comprar bitcoin](#Es_buen_momento_para_comprar_bitcoin 'Es buen momento para comprar bitcoin')
-- [Preguntas frecuentes](#Preguntas_frecuentes 'Preguntas frecuentes')
-  - [¿Cuáles son las ventajas y desventajas de invertir en bitcoin?](#%C2%BFCuales_son_las_ventajas_y_desventajas_de_invertir_en_bitcoin '¿Cuáles son las ventajas y desventajas de invertir en bitcoin?')
-  - [¿Cuánto necesito para invertir en bitcoin?](#%C2%BFCuanto_necesito_para_invertir_en_bitcoin '¿Cuánto necesito para invertir en bitcoin?')
-  - [¿Cuál es la cantidad mínima para invertir en bitcoin?](#%C2%BFCual_es_la_cantidad_minima_para_invertir_en_bitcoin '¿Cuál es la cantidad mínima para invertir en bitcoin?')
-  - [¿Cuándo comprar bitcoin?](#%C2%BFCuando_comprar_bitcoin '¿Cuándo comprar bitcoin?')
-  - [¿Invertir en bitcoin o ethereum?](#%C2%BFInvertir_en_bitcoin_o_ethereum '¿Invertir en bitcoin o ethereum?')
-  - [¿Hasta cuándo crecerá y subirá el bitcoin?](#%C2%BFHasta_cuando_crecera_y_subira_el_bitcoin '¿Hasta cuándo crecerá y subirá el bitcoin?')
-
 ## Cómo invertir en Bitcoins de forma segura
 
 Veamos **de 0 a 100** como invertir bitcoin **de forma segura** para el largo plazo.
@@ -64,9 +33,9 @@ Veamos **de 0 a 100** como invertir bitcoin **de forma segura** para el largo pl
 
 El primer paso para invertir no sólo en bitcoin pero cualquier otro activo es **entender** en qué estamos metiendo nuestros queridos ahorros. Omitir el ruido de los medios y los pseudo-inversores y hacer el esfuerzo de comprenderlo con información objetiva.
 
-Personalmente después de ver [cómo funciona el sistema monetario actual](https://pau.ninja/sistema-monetario-actual/) quedé convencido que bitcoin era la **solución a mi ansiedad financiera**.
+Personalmente después de ver [cómo funciona el sistema monetario actual](./sistema-monetario-actual) quedé convencido que bitcoin era la **solución a mi ansiedad financiera**.
 
-![diversificar inversiones](https://pau.ninja/wp-content/uploads/2021/01/diversificar-inversiones.png)
+![diversificar inversiones](./wp-content/uploads/2021/01diversificar-inversiones.png)
 
 Entiendo que los demás no son tan creyentes como yo
 
@@ -74,17 +43,17 @@ Algunos sólo quieren mojar los meñiques en el océano bitcoin. No se tiene por
 
 Pero sea cual sea el perfil y el motivo para meterse, todos lo único que queremos es «dormir tranquilos», así que mejor saber dónde tenemos la pasta.
 
-Por esto recomiendo mi explicación de [bitcoin para tontos](https://pau.ninja/que-es-bitcoin-para-tontos/) donde cuento la idea desde un punto de vista básico.
+Por esto recomiendo mi explicación de [bitcoin para tontos](./que-es-bitcoin-para-tontos) donde cuento la idea desde un punto de vista básico.
 
-[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVRHbFhkRzlQWWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NDMzNg=)](https://www.amazon.es/dp/B07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)')
+[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVRHbFhkRzlQWWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc0OA=)](https://www.amazon.es/dpB07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 
-[El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](https://www.amazon.es/dp/B07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)')
+[El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](https://www.amazon.es/dp/B07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 
 ¿Quieres expandir más? empieza por leer este libro y tomar apuntes.
 
 8,54 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Sea comprar poco o mucho, una vez entendemos la parte teórica de por qué queremos invertir en bitcoin, nos queda la parte divertida: tomar acción. Pasar a la práctica.
 
@@ -118,13 +87,13 @@ Sin KYC (sin dar datos)
 
 \*Bajo nuestra responsabilidad total.
 
-KYC es el acrónimo de *Know Your Costumer* («conoce tu cliente» en inglés). Es decir que para invertir en bitcoin nos piden datos personales, escanear el carnet de identidad y todas esas cosas seguras. Similar a cuando abrimos una cuenta en el banco.
+KYC es el acrónimo de _Know Your Costumer_ («conoce tu cliente» en inglés). Es decir que para invertir en bitcoin nos piden datos personales, escanear el carnet de identidad y todas esas cosas seguras. Similar a cuando abrimos una cuenta en el banco.
 
 La mayoría de personas que quieren comprar bitcoin **nunca lo cuestionan**. Ni se plantean que se pueda comprar bitcoin sin dar **absolutamente ningún dato**, sin registro y sin intermediarios.
 
 Es posible. Pero la otra cara de la moneda de comprar de esta manera es que, por ejemplo el precio es un **5% más alto** y encima el proceso es más complicado, así que los que entran nuevos lo desestimen por completo.
 
-Hablé a fondo de la importancia de [comprar bitcoin anónimamente](https://pau.ninja/comprar-bitcoins-anonimamente/). ¿El resumen rápido? que recuperamos nuestra libertad financiera gracias a tener seguridad y privacidad de nuevo. Algo que es imposible de tener con euros.
+Hablé a fondo de la importancia de [comprar bitcoin anónimamente](./comprar-bitcoins-anonimamente). ¿El resumen rápido? que recuperamos nuestra libertad financiera gracias a tener seguridad y privacidad de nuevo. Algo que es imposible de tener con euros.
 
 Es comprensible que haya personas que para ellos, bitcoin aún es un mundo nuevo. Que sólo quieren explorar o tener un poquito para ver qué es y «sentirlo».
 
@@ -140,7 +109,7 @@ La opción por excelencia tanto por nuestra seguridad como comodidad será compr
 
 ¿Los qué?
 
-Un *exchange* básicamente significa «casa de cambio» y tienen la misma función que las del aeropuerto. Aquellas ventanillas donde vamos a cambiar euros por coronas suecas, por ejemplo. Lo que en este caso en vez de una ventanilla lo haremos a través de una **plataforma online**.
+Un _exchange_ básicamente significa «casa de cambio» y tienen la misma función que las del aeropuerto. Aquellas ventanillas donde vamos a cambiar euros por coronas suecas, por ejemplo. Lo que en este caso en vez de una ventanilla lo haremos a través de una **plataforma online**.
 
 **Exchange**
 
@@ -150,7 +119,7 @@ Un *exchange* básicamente significa «casa de cambio» y tienen la misma funci
 
 **Es un banco**
 
-🏆
+🏆  
 [Kraken](https://pau.ninja/kraken)
 
 0%-0,26% ([info](https://www.kraken.com/features/fee-schedule))
@@ -159,7 +128,7 @@ Un *exchange* básicamente significa «casa de cambio» y tienen la misma funci
 
 🟢 [Sí](https://www.coindesk.com/how-does-krakens-new-crypto-bank-work)
 
-🥈
+🥈  
 [Coinbase](https://pau.ninja/coinbase)
 
 0,50% ([info](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees))
@@ -168,7 +137,7 @@ Un *exchange* básicamente significa «casa de cambio» y tienen la misma funci
 
 🔴 No
 
-🥉
+🥉  
 [Binance](https://pau.ninja/binance)
 
 0,50% ([info](https://help.coinbase.com/en/coinbase/trading-and-funding/pricing-and-fees/fees))
@@ -182,7 +151,7 @@ Un *exchange* básicamente significa «casa de cambio» y tienen la misma funci
 - La plataforma nos da un número de cuenta bancaria europea con un nº de referencia que está asociado a nuestra cuenta del _exchange_.
 - Hacemos una transferencia desde nuestro banco al nº de cuenta que nos ha dado el _exchange_.
 - Nos llega el dinero (normalmente en cuestión de días) a la plataforma y vemos esa cantidad en nuestro fondos (como saldo disponible).
-- Esta es la cantidad que podremos usar para invertir comprando bitcoin, hasta que la gastemos del todo. A *groso modo* es como convertir euros a otra divisa. Por ejemplo gastamos 1.000€ y vemos que ahora tenemos 0,034 BTC a parte del saldo que nos quede en euros.
+- Esta es la cantidad que podremos usar para invertir comprando bitcoin, hasta que la gastemos del todo. A _groso modo_ es como convertir euros a otra divisa. Por ejemplo gastamos 1.000€ y vemos que ahora tenemos 0,034 BTC a parte del saldo que nos quede en euros.
 
 ### Tener una _wallet_
 
@@ -190,7 +159,7 @@ A parte de un nº de cuenta, estas plataformas de criptomonedas también nos da
 
 Esta dirección no deja de ser una palabra muy larga que empieza por el número 1 o 3 y tiene entre 26-35 caracteres de longitud.
 
-![qrcode](https://pau.ninja/wp-content/uploads/2021/01/qrcode.png)
+![qrcode](./wp-content/uploads/2021/01qrcode.png)
 
 Por ejemplo la mía para recibir contribuciones es: [bc1qe0l7l6rxmm92y4ax69luf5ju5mm5a73gya3c6g](bitcoin:bc1qe0l7l6rxmm92y4ax69luf5ju5mm5a73gya3c6g?message=contribuciones&time=1611040707) y también se facilitan muchas veces un código QR para hacerlo todo más fácil.
 
@@ -198,9 +167,9 @@ Digamos que si perdieras el acceso a tus bitcoin lo que harías sería golpear t
 
 Esta dirección que nos cede el _exchange_ nos da la posibilidad de recibir bitcoin. Que alguien de fuera nos mande o pague con bitcoin a esta cartera. Pero, también podemos mandar los bitcoin que tenemos en la plataforma **fuera** de allí.
 
-De hecho **siempre** es mejor ir sacando nuestros BTC de allí para tener el control total, sino en el caso de que el *exchange* quebrara o fuera hackeado, pues… adiós ahorros.
+De hecho **siempre** es mejor ir sacando nuestros BTC de allí para tener el control total, sino en el caso de que el _exchange_ quebrara o fuera hackeado, pues… adiós ahorros.
 
-Es decir, el *exchange* muy bien para comprar, pero **no para mantener a largo plazo**. Una de las bondades de bitcoin es precisamente que podemos ser **nuestro propio banco**.
+Es decir, el _exchange_ muy bien para comprar, pero **no para mantener a largo plazo**. Una de las bondades de bitcoin es precisamente que podemos ser **nuestro propio banco**.
 
 > Así que, ¿dónde los mandamos si no es una plataforma? ¿cómo custodiamos nuestros propios bitcoin? ¿cómo nos convertimos en nuestro propio banco?
 
@@ -212,7 +181,7 @@ Similar la cartera/billetera donde ponemos nuestros «devaluantes» euros, pero 
 
 Al igual que sacando el dinero de nuestra billetera para pagar algo (o poniéndolo dentro cuando nos dan el cambio en la cafetería), en este caso el monedero de bitcoin también nos servirá para hacer lo mismo. Tanto enviar como recibir.
 
-Tiene un poco más de tala la cosa. Si quieres expandir te recomiendo mi publicación sobre los [mejores monederos bitcoin](https://pau.ninja/bitcoin-wallet/).
+Tiene un poco más de tala la cosa. Si quieres expandir te recomiendo mi publicación sobre los [mejores monederos bitcoin](./bitcoin-wallet).
 
 Y antes de crear una, tenemos que saber que existen cuatro tipos distintos:
 
@@ -223,7 +192,7 @@ Y antes de crear una, tenemos que saber que existen cuatro tipos distintos:
 
 ¿Cuál de estos tipos elegir? pues esta lista que os acabo de mencionar, he ordenador las carteras bitcoin de más segura y poco práctica, a menos segura y más práctica.
 
-![seguridad facilidad wallets](https://pau.ninja/wp-content/uploads/2021/01/seguridad-facilidad-wallets.png)
+![seguridad facilidad wallets](./wp-content/uploads/2021/01seguridad-facilidad-wallets.png)
 
 Vamos, que como más a salvo queramos tener nuestro bitcoin, más facilidad de uso tenemos que sacrificar. Por eso decimos que bitcoin nos hace ser responsables a la hora de ahorrar.
 
@@ -235,7 +204,7 @@ Como hemos decidido comprar dando nuestros datos (con KYC) será inevitable que 
 
 Para simplificarlo mucho, las claves son una especie de contraseña para entrar a nuestra cartera desde cualquier sitio en el caso de que la perdiéramos.
 
-En teoría todos los tipos de monedero nos ofrecen generar estas claves y por lo tanto ser soberanos con nuestros BTC **excepto los *exchanges*, que nos dan una dirección pero no claves**. Así que mejor ir sacándolo de vez en cuando para acumularlo en nuestra *wallet*.
+En teoría todos los tipos de monedero nos ofrecen generar estas claves y por lo tanto ser soberanos con nuestros BTC **excepto los _exchanges_, que nos dan una dirección pero no claves**. Así que mejor ir sacándolo de vez en cuando para acumularlo en nuestra _wallet_.
 
 ¿Entonces qué tipo de cartera elegir a parte del _exchange_?
 
@@ -247,24 +216,24 @@ El nivel de seguridad de nuestro será directamente proporcional a cuanto creamo
 
 **Mejores modelos**
 
-Monedero fríos (_hard/cold wallet_)
-![cold wallet](https://pau.ninja/wp-content/uploads/2021/01/cold-wallet.png)
+Monedero fríos (_hard/cold wallet_)  
+![cold wallet](./wp-content/uploads/2021/01cold-wallet.png)
 
 - [BitBox02](https://pau.ninja/bitbox)
 
-Apps de monedero (_hot wallet_)
-![](https://pau.ninja/wp-content/uploads/2021/01/hot-wallet.png)
+Apps de monedero (_hot wallet_)  
+![](./wp-content/uploads/2021/01hot-wallet.png)
 
 - Android: [Samourai Wallet](https://samouraiwallet.com/download)
 - iPhone: [Mycelium Wallet](https://wallet.mycelium.com/contact.html)
 
-Monederos online (_software wallet_)
-![software wallet](https://pau.ninja/wp-content/uploads/2021/01/software-wallet.png)
+Monederos online (_software wallet_)  
+![software wallet](./wp-content/uploads/2021/01software-wallet.png)
 
 - [Electrum](https://electrum.org/#download)
 
-Casas de cambio (_exchanges_)
-![exchanges](https://pau.ninja/wp-content/uploads/2021/01/exchanges.png)
+Casas de cambio (_exchanges_)  
+![exchanges](./wp-content/uploads/2021/01exchanges.png)
 
 - [Kraken](https://pau.ninja/kraken)
 
@@ -274,14 +243,14 @@ Llegados a este punto ya tenemos acceso a una plataforma que nos hace de casa de
 
 ### Transferir fondos
 
-Para hacerlo necesitaremos transferir dinero de mentida (el fiduciario, el del Monopoly, el que no se sustenta en nada) a la cuenta bancaria que el *exchange* nos proveerá.
+Para hacerlo necesitaremos transferir dinero de mentida (el fiduciario, el del Monopoly, el que no se sustenta en nada) a la cuenta bancaria que el _exchange_ nos proveerá.
 
 Y es que cuando abrimos una cuenta a una de estas casas de cambio, a parte de esta dirección bitcoin lo que también tenemos es una cuenta bancaria con una referencia que se asocia a nuestro usuario.
 
-En el propio *exchange* habrá las instrucciones paro casi siempre siguen el mismo proceso estándar:
+En el propio _exchange_ habrá las instrucciones paro casi siempre siguen el mismo proceso estándar:
 
 - Copiamos los datos de la cuenta bancaria y referencia a la que tenemos que transferir el dinero que vamos a destinar a comprar bitcoin.
-- Vamos a nuestro banco y hacemos una transferencia normal y corriente. Poniendo los datos anteriores como destinatario, claro. Sobretodo **no olvidar poner como referencia** el nº que nos ha dado el *exchange*.
+- Vamos a nuestro banco y hacemos una transferencia normal y corriente. Poniendo los datos anteriores como destinatario, claro. Sobretodo **no olvidar poner como referencia** el nº que nos ha dado el _exchange_.
 - Al cabo de unas horas o días veremos nuestros fondos disponibles en la plataforma. A puntos de ser usados para invertir en BTC.
 
 Llegados a este punto técnicamente no quedaría mucho más.
@@ -306,9 +275,9 @@ Si ingresamos por ejemplo 1.000€ a la casa de cambio hay tres cosas que podamo
 
 Claro se haría muy cuesta arriba ir comprando bitcoin poquito a poco cada 2 horas porque tendríamos que estar pegados a una pantalla.
 
-Para los que tengan [Kraken](#exchange) yo lo que hago es utilizar la aplicación [Deltabadger (10% descuento aquí)](https://pau.ninja/deltabadger). Un bot que con la API configurada de Kraken lo que me hace es **comprar de forma recurrente** con la cantidad de euros que le diga y estén disponible en mis fondos del *exchange*.
+Para los que tengan [Kraken](#exchange) yo lo que hago es utilizar la aplicación [Deltabadger (10% descuento aquí)](https://pau.ninja/deltabadger). Un bot que con la API configurada de Kraken lo que me hace es **comprar de forma recurrente** con la cantidad de euros que le diga y estén disponible en mis fondos del _exchange_.
 
-![compra automática bitcoin](https://pau.ninja/wp-content/uploads/2021/01/compra-automatica-bitcoin.png)
+![compra automática bitcoin](./wp-content/uploads/2021/01compra-automatica-bitcoin.png)
 
 En este ejemplo podemos ver que hay una compra de BTC a 2.000€ a la semana. Con la opción de «_smart intervals_» activada lo que conseguimos es que en vez de invertir los 2.000 euros de golpe, se vayan «dosificando» durante la semana. Por esto en el texto verde se ve que la próxima compra será dentro de unas 2 horas.
 
@@ -316,15 +285,15 @@ En este ejemplo podemos ver que hay una compra de BTC a 2.000€ a la semana. Co
 
 Se puede contratar durante 1 año a 50 euros, o 4 años a 150 euros. Yo contraté el de cuatro años porque para mí es una **inversión a largo plazo** y estoy seguro que lo utilizaré incluso más tiempo. De hecho planeo que bitcoin sea mi jubilación.
 
-![invertir bitcoin automático](https://pau.ninja/wp-content/uploads/2021/01/invertir-bitcoin-automatico.png)
+![invertir bitcoin automático](./wp-content/uploads/2021/01invertir-bitcoin-automatico.png)
 
 Como más tiempo estemos invirtiendo en bitcoin con estrategia DCA, más se ve el efecto. Lo bueno de Deltabadger es que tiene una gráfica de lo que invertimos. En la foto que hice de la mía se ve cómo el total invertido es constante y hacia arriba, mientras el valor de bitcoin va variando. Se ve lo importante que es ser impasible a subidas y bajadas.
 
 Entonces, ¿nos podemos olvidar completamente de bitcoin si voy a largo plazo? **totalmente**.
 
-Personalmente para **automatizado y despreocuparme de todo** he programado mis transferencias del banco a mi *exchange* el **día 1 de cada mes**.
+Personalmente para **automatizado y despreocuparme de todo** he programado mis transferencias del banco a mi _exchange_ el **día 1 de cada mes**.
 
-Dejo el *bot* activado, y ya está (de vez en cuando entro para curiosear).
+Dejo el _bot_ activado, y ya está (de vez en cuando entro para curiosear).
 
 Si por ejemplo quisiera destinar 1.000€ mensuales a comprar bitcoin para ahorrar, dejaría la transferencia programada en el banco y ya no tendría que tocar nada porque Deltabadger se encarga de comprar bitcoin de forma automática día a día, hora a hora.
 
@@ -334,7 +303,7 @@ Si por ejemplo quisiera destinar 1.000€ mensuales a comprar bitcoin para ahorr
 
 Independientemente de cómo decidamos invertir, otro paso para invertir en bitcoin en España sería de **rastrear** las operaciones que hacemos para llevar cierto control.
 
-Si decidimos hacerlo de forma recurrente y automática el propio *bot* nos dice:
+Si decidimos hacerlo de forma recurrente y automática el propio _bot_ nos dice:
 
 - Cantidad de bitcoin acumulados.
 - El precio medio al que hemos comprado cada trocito de BTC.
@@ -344,9 +313,9 @@ Si decidimos hacerlo de forma recurrente y automática el propio *bot* nos dice
 
 Y nos muestra ese gráfico chulo para tenerlo todo más visual. Por cierto recordar que el robot sólo nos muestra las operaciones hechas dentro de la aplicación, porque también podemos operar por nuestro propio pie en el _exchange_.
 
-Si por otro lado [compramos bitcoin sin registro](https://pau.ninja/comprar-bitcoins-anonimamente/) o simplemente vamos a nuestra bola, pues es buena idea tener una hoja de cálculo donde entrar allí las operaciones que hacemos.
+Si por otro lado [compramos bitcoin sin registro](./comprar-bitcoins-anonimamente) o simplemente vamos a nuestra bola, pues es buena idea tener una hoja de cálculo donde entrar allí las operaciones que hacemos.
 
-![excel cartera](https://pau.ninja/wp-content/uploads/2020/12/excel-cartera.png)
+![excel cartera](./wp-content/uploads/2020/12excel-cartera.png)
 
 Imagen: yo tengo mi propio excel que comparto con los miembros de [mis comunidades](#unirse) (datos de ejemplo).
 
@@ -386,8 +355,8 @@ Compraros montones de _sudoku_ para hacer cuando vuestra mente quiera empezar a 
 
 **Objetivo**
 
-Preservar patrimonio
-![hucha](https://pau.ninja/wp-content/uploads/2020/11/hucha.png)
+Preservar patrimonio  
+![hucha](./wp-content/uploads/2020/11hucha.png)
 
 **Riesgo-rentabilidad**
 
@@ -422,19 +391,17 @@ Importante que **no es un bot de trading**. No es inteligencia artificial. Lo q
 
 Digamos que recibo 1.000€ cada mes o cada semana, por lo tanto **tengo una semana para ir comprando** Bitcoin poco a poco hasta volver a tener 1.000€. Esto es exactamente lo que le indicaré a «Delta».
 
-![deltabadger en acción](https://pau.ninja/wp-content/uploads/2021/11/deltabadger-en-accion.png)
+![deltabadger en acción](./wp-content/uploads/2021/11deltabadger-en-accion.png)
 
 Imagen: esta es la configuración que yo pondría en el robot si tuviera 1.000€ cada semana a gastar. Muy fácil de configurar.
 
-Es la estrategia que sigo usando yo desde que empecé a comprar en *exchanges* a nombre de empresa y con el que ya pude empezar a ver sus frutos a pocos meses.
+Es la estrategia que sigo usando yo desde que empecé a comprar en _exchanges_ a nombre de empresa y con el que ya pude empezar a ver sus frutos a pocos meses.
 
 Lo bueno es que **no hay cantidad mínima**. Si tenemos 100€/mes a ahorrar en Bitcoin, pues se lo ponemos. Si tenemos 1 millón. Pues más de lo mismo. Se irán haciendo compras de 0,001 BTC esparcidos en horas. Lógicamente como más dinero destinemos, más juntas se harán las órdenes.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Desgraciadamente si queremos comprar [Bitcoin anónimamente](./comprar-bitcoins-anonimamente), nuestras opciones son mucho más limitadas, manuales y «pesadas». No podemos utilizar ningún _bot_ para ir comprando.
 
-Desgraciadamente si queremos comprar [Bitcoin anónimamente](https://pau.ninja/comprar-bitcoins-anonimamente/), nuestras opciones son mucho más limitadas, manuales y «pesadas». No podemos utilizar ningún _bot_ para ir comprando.
-
-Vamos. Que la DCA es una estrategia para los que no tienen problema en identificarse de cara a [los _exchanges_ como Binance, Kraken o Coinbase](https://pau.ninja/invertir-en-bitcoins-forma-segura/#Elegir_un_exchange).
+Vamos. Que la DCA es una estrategia para los que no tienen problema en identificarse de cara a [los _exchanges_ como Binance, Kraken o Coinbase](./invertir-en-bitcoins-forma-segura#Elegir_un_exchange).
 
 Para los que queremos usar una estrategia automática es de lo mejorcito que hay.
 
@@ -442,7 +409,7 @@ Ventajas
 
 - Pasivo: automático y cómodo.
 - Sin preocupaciones por la volatilidad al corto plazo.
-- Estrategia respaldada por *papers* económicos.
+- Estrategia respaldada por _papers_ económicos.
 
 Inconvenientes
 
@@ -456,8 +423,8 @@ Pronto hablaré más de DCA a fondo.
 
 **Objetivo**
 
-Preservar patrimonio
-![hucha](https://pau.ninja/wp-content/uploads/2020/11/hucha.png)
+Preservar patrimonio  
+![hucha](./wp-content/uploads/2020/11hucha.png)
 
 **Riesgo-rentabilidad**
 
@@ -473,7 +440,7 @@ Largoplacistas
 
 **Mejor herramienta**
 
-[Una Wallet para Bitcoin](https://pau.ninja/bitcoin-wallet/)
+[Una Wallet para Bitcoin](./bitcoin-wallet)
 
 La estrategia HODL es para los que como yo, somos **maximalistas de Bitcoin** o de alguna criptomoneda. Si crees tanto en algún proyecto a largo plazo que crees que eclipsa, entonces harás «hodl».
 
@@ -481,9 +448,7 @@ La estrategia HODL es para los que como yo, somos **maximalistas de Bitcoin** o
 
 Psicológicamente es para los inversores que creen tanto en un proyecto que podrán aguantar su inversión manteniendo la cabeza fría sin importar cómo esté el mercado en este momento.
 
-Una vez me informé (bien) sobre [qué es Bitcoin](https://pau.ninja/que-es-bitcoin-para-tontos/), terminé creyendo tanto en el largo plazo la cripto como de la fallida del sistema monetario actual.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Una vez me informé (bien) sobre [qué es Bitcoin](./que-es-bitcoin-para-tontos), terminé creyendo tanto en el largo plazo la cripto como de la fallida del sistema monetario actual.
 
 ¿Por qué os creéis que el 100% de mi patrimonio está en Bitcoin? Llevo comprándolo desde que estaba a 8.000€/BTC. Desde entonces **no he vendido ni un solo satoshi** (la unidad más pequeña de Bitcoin).
 
@@ -497,7 +462,7 @@ Ahora HODL sirve como acrónimo para Hold On to Dear Life (¡aférrate a ello co
 
 Total, que se ha generado todo una cultura alrededor. La cultura de los «hodlers». Por eso hay montones de memes en internet que se han creado sobre el tema.
 
-![esparta hodl bitcoin](https://pau.ninja/wp-content/uploads/2021/01/esparta-hodl-bitcoin.jpg)
+![esparta hodl bitcoin](./wp-content/uploads/2021/01esparta-hodl-bitcoin.jpg)
 
 Con la volatilidad en el mercado de las criptomonedas, hay que tener la cabeza fría y realmente creer en el proyecto de la cripto. Desde que se creó Bitcoin ya podemos ver casos de gente que se ha vuelto súper rica sólo con la estrategia de Hodl.
 
@@ -507,7 +472,7 @@ Ahora se deben estar tirando de los pelos.
 
 Si echamos un vistazo a las 15 carteras más ricas vemos más de algún tipo que compró 10 años atrás y **nunca soltó sus Bitcoins**.
 
-![carteras más ricas bitcoin](https://pau.ninja/wp-content/uploads/2021/11/carteras-mas-ricas-bitcoin.png)
+![carteras más ricas bitcoin](./wp-content/uploads/2021/11carteras-mas-ricas-bitcoin.png)
 
 Imagen: las 15 direcciones más [ricas](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html) de BTC.
 
@@ -531,14 +496,14 @@ Inconvenientes
 
 ¿Quieres expandir?
 
-Escribí extensamente sobre [qué es holdear criptomonedas](https://pau.ninja/que-es-holdear-criptomonedas/) por si te interesa expandir el concepto de «hodl». Esto junto a la [estrategia DCA](#Dollar-Cost_Average_DCA) es la que sigo yo y estoy **súper tranquilo de mente**. La serenidad es el mayor activo.
+Escribí extensamente sobre [qué es holdear criptomonedas](./que-es-holdear-criptomonedas) por si te interesa expandir el concepto de «hodl». Esto junto a la [estrategia DCA](#Dollar-Cost_Average_DCA) es la que sigo yo y estoy **súper tranquilo de mente**. La serenidad es el mayor activo.
 
 ### Staking (congelar por intereses)
 
 **Objetivo**
 
-Multiplicar patrimonio
-![maletín y dinero](https://pau.ninja/wp-content/uploads/2020/12/maletin-y-dinero.png)
+Multiplicar patrimonio  
+![maletín y dinero](./wp-content/uploads/2020/12maletin-y-dinero.png)
 
 **Riesgo-rentabilidad**
 
@@ -566,7 +531,7 @@ Como más nueva, volátil y menos capitalizada es una cripto, más intereses nec
 
 Por esto **Bitcoin no ofrece posibilidad de staking** porque está basado en Proof of Work y no Proof of Stake. Aún así no nos vamos a poner técnicos porque estamos tocando el tema de inversión, y no tecnología. Es para arrojar algo de luz al asunto.
 
-![recompensas staking](https://pau.ninja/wp-content/uploads/2021/11/recompensas-staking.png)
+![recompensas staking](./wp-content/uploads/2021/11recompensas-staking.png)
 
 Imagen: las recompensas por staking/criptomonedas que está [ofreciendo el exchange Kraken](https://pau.ninja/kraken).
 
@@ -587,14 +552,14 @@ Inconvenientes
 
 - Si el valor de la moneda baja, podemos terminar con más tokens pero que nuestra inversión valga menos.
 - Sólo para los proyectos en los que se confía mucho a largo plazo.
-- Si hacemos *staking* en un exchange, hay que recordar que esos Bitcoins o tokens no son nuestros. Son de la plataforma (mientras los dejemos allí).
+- Si hacemos _staking_ en un exchange, hay que recordar que esos Bitcoins o tokens no son nuestros. Son de la plataforma (mientras los dejemos allí).
 
 ### Lump sum investing (todo de golpe)
 
 **Objetivo**
 
-Preservar patrimonio y/o multiplicarlo
-![hucha](https://pau.ninja/wp-content/uploads/2020/11/hucha.png)![maletín y dinero](https://pau.ninja/wp-content/uploads/2020/12/maletin-y-dinero.png)
+Preservar patrimonio y/o multiplicarlo  
+![hucha](./wp-content/uploads/2020/11/hucha.png)![maletín y dinero](https://pau.ninja/wp-content/uploads/2020/12maletin-y-dinero.png)
 
 **Riesgo-rentabilidad**
 
@@ -612,7 +577,7 @@ La estrategia de Lump Sum Investing es **lo opuesto** a invertir paulatinamente
 
 El Lump Sum Investing (que se traduciría como inversión de suma global) no deja de ser **meter un cañonazo de euros** cada vez que recibimos dinero que queremos destinar a comprar Bitcoin.
 
-![comic comprar bitcoin](https://pau.ninja/wp-content/uploads/2021/01/comic-comprar-bitcoin.png)
+![comic comprar bitcoin](./wp-content/uploads/2021/01comic-comprar-bitcoin.png)
 
 Si cada mes recibimos 1.000€ hipotéticos que queremos destinar a Bitcoin o a otra criptomoneda, al contrario que [DCA](#Dollar-Cost_Average_DCA) a lo que los iríamos ingresando en intervalos, con la estrategia de Lump Sum Investing compramos hoy (al momento) todo de golpe.
 
@@ -632,8 +597,8 @@ Inconvenientes
 
 **Objetivo**
 
-Preservar patrimonio y/o multiplicarlo
-![hucha](https://pau.ninja/wp-content/uploads/2020/11/hucha.png)![maletín y dinero](https://pau.ninja/wp-content/uploads/2020/12/maletin-y-dinero.png)
+Preservar patrimonio y/o multiplicarlo  
+![hucha](./wp-content/uploads/2020/11/hucha.png)![maletín y dinero](https://pau.ninja/wp-content/uploads/2020/12maletin-y-dinero.png)
 
 **Riesgo-rentabilidad**
 
@@ -657,11 +622,11 @@ Aprovechamos que ha habido algunas personas que tienen un perfil psicológico me
 
 Lo que nos importa es que entonces hay un efecto dominó y nosotros lo que hacemos es **comprar aún más, y más barato**.
 
-![alertas bajada bitcoin](https://pau.ninja/wp-content/uploads/2021/01/alertas-bajada-bitcoin.jpeg)
+![alertas bajada bitcoin](./wp-content/uploads/2021/01alertas-bajada-bitcoin.jpeg)
 
 Lo que hago yo es tener alertas en el móvil y cuando hay bajada drástica pues aprieto el acelerador. Pero no hay mejor alerta que estar activo en [Twitter](https://twitter.com/pau_ninja).
 
-Esta manera de comprar Bitcoin yo [la combino con DCA](https://pau.ninja/invertir-en-bitcoins-forma-segura/#Dollar-Cost_Average_DCA). Es decir, voy comprado recurrentemente de forma automática pero cuando hay una bajada importante también compro ese miedo «en bulto».
+Esta manera de comprar Bitcoin yo [la combino con DCA](./invertir-en-bitcoins-forma-segura#Dollar-Cost_Average_DCA). Es decir, voy comprado recurrentemente de forma automática pero cuando hay una bajada importante también compro ese miedo «en bulto».
 
 ¿Qué baja -10% de golpe? pues compro 1.000€. ¿Qué baja -20% de más? pues compro 2.000€. Y así sucesivamente.
 
@@ -678,7 +643,7 @@ Podría pasar perfectamente que sea la última vez en la historia que el precio 
 
 Es decir, aquí estamos **apostando a que su valor de mercado bajará en algún momento**. ¿Y cómo lo podemos saber? ya te lo digo yo. No podemos.
 
-![cómic predicción bolsa](https://pau.ninja/wp-content/uploads/2021/01/comic-prediccion-bolsa.png)
+![cómic predicción bolsa](./wp-content/uploads/2021/01comic-prediccion-bolsa.png)
 
 Por esto, prefiero en vez de intentar predecir el futuro, de hacer que los [robots lo hagan por mí con la estrategia DCA](#Dollar-Cost_Average_DCA). Tener potencialmente menos rentabilidad, ganancias, pero no tener que mirar el mercado o preocuparme de si estoy comprando en un momento correcto.
 
@@ -695,8 +660,8 @@ Inconvenientes
 
 **Objetivo**
 
-Ganancias rápidas
-![](https://pau.ninja/wp-content/uploads/2020/12/monedas-y-billetes.png)
+Ganancias rápidas  
+![](./wp-content/uploads/2020/12monedas-y-billetes.png)
 
 **Riesgo-rentabilidad**
 
@@ -714,7 +679,7 @@ La estrategia de trading de criptomonedas es una manera de especular con su valo
 
 La «scalp» en inglés es el cuero cabelludo. Así que os podéis imaginar por dónde van los tiros. Se hacen ganancias como cuando los nativos americanos indios cortaban el cuero cabelludo de sus víctimas.
 
-![meme scalping criptomonedas](https://pau.ninja/wp-content/uploads/2021/11/meme-scalping-criptomonedas.jpg)
+![meme scalping criptomonedas](./wp-content/uploads/2021/11meme-scalping-criptomonedas.jpg)
 
 Se tira a tope de gráficos y hay que tener unos conocimientos técnicos muy amplios. Ya no sólo de trading sino también sobre el mercado de las criptomonedas, que es como el de bolsa pero a x10 de velocidad.
 
@@ -776,7 +741,7 @@ Cuando estaba invertido en indexados con la cartera permanente, aunque era una e
 
 ¿Por qué? porque no tenía posibilidad de entender en lo **qué** invertía, pero en el **cómo.** En un sistema, más que en un activo. En un sistema bien documentado por economistas para batir a la inflación.
 
-![combatiendo inflación](https://pau.ninja/wp-content/uploads/2020/10/combatiendo-inflacion.png)
+![combatiendo inflación](./wp-content/uploads/2020/10combatiendo-inflacion.png)
 
 Pero nadie me había contado cómo funciona el sistema monetario actual y que sufrimos una devaluación bien gorda.
 
@@ -808,7 +773,7 @@ Y aunque pueden llegar a estar [conectadas](https://www.economicshelp.org/macroe
 
 Que se lo digan al imperio romano.
 
-![caída imperio romano](https://pau.ninja/wp-content/uploads/2021/01/caida-imperio-romano.png)
+![caída imperio romano](./wp-content/uploads/2021/01caida-imperio-romano.png)
 
 Por eso os prometo que tengo más intranquilidad si tengo 10.000€ que si los tengo metidos en BTC.
 
@@ -816,11 +781,11 @@ Pero claro, habrá personas que lo que quieren comprar bitcoin para diversificar
 
 > «¿Por qué invertir en bitcoin y no en otros activos?»
 
-Podría ser para [diversificar nuestras inversiones](https://pau.ninja/diversificar-inversiones/). O por qué como yo, creemos que la economía actual es la verdadera burbuja y una estafa piramidal y queremos protegernos de esto, aunque sea en pequeñas cantidades.
+Podría ser para [diversificar nuestras inversiones](./diversificar-inversiones). O por qué como yo, creemos que la economía actual es la verdadera burbuja y una estafa piramidal y queremos protegernos de esto, aunque sea en pequeñas cantidades.
 
 Con la economía de deuda en la que estamos adentrados, realmente pienso que corremos **más riesgo** NO teniendo nada de bitcoin, que teniendo un poco. Por mucha volatilidad que tenga.
 
-![ciclo de deuda](https://pau.ninja/wp-content/uploads/2020/12/ciclo-de-deuda.png)
+![ciclo de deuda](./wp-content/uploads/2020/12ciclo-de-deuda.png)
 
 Precisamente por esta economía mundial inyectada con esteroides, no creo que podamos hablar de diversificación en cuanto a número de empresas, capitalización, países, economías emergentes, y bla bla.
 
@@ -828,7 +793,7 @@ Creo que la diversificación de hoy es: o dentro del sistema monetario, o fuera 
 
 ### Es seguro y fiable invertir en bitcoin
 
-- Si decidimos [hacerlo sin registro y anónimamente](https://pau.ninja/comprar-bitcoins-anonimamente/) hay la posibilidad de invertir en bitcoin de forma segura a través de cajeros, _peer-to-peer_ o con plataformas donde el administrador hace de intermediario.
+- Si decidimos [hacerlo sin registro y anónimamente](./comprar-bitcoins-anonimamente) hay la posibilidad de invertir en bitcoin de forma segura a través de cajeros, _peer-to-peer_ o con plataformas donde el administrador hace de intermediario.
 - En el caso de que lo hagamos [con KYC (dando datos) vía plataformas](#Elegir_un_exchange), invertir en bitcoin sólo es seguro y fiable si se hace a través de plataformas reguladas.
 
 Yo ya sabéis que lo hago de ambas maneras. Anónimo a nivel personal, y con KYC con la empresa. No me queda otra.
@@ -841,11 +806,11 @@ Esto sería como afirmar que las divisas fiduciarias ya no se pueden devaluar m�
 
 Si bien es verdad que ya ha pasado la fase inicial donde los visionarios y «early adopters» saltan al primer vagón del tren, la realidad es que aún estamos en el **inicio de la curva de adopción** de los pragmáticos.
 
-![adopción bitcoin](https://pau.ninja/wp-content/uploads/2021/01/adopcion-bitcoin.png)
+![adopción bitcoin](./wp-content/uploads/2021/01adopcion-bitcoin.png)
 
 Un buen momento para entrar porque ya ha sido «validado» por grandes [empresas](https://www.microstrategy.com/en/company/company-videos/microstrategy-announces-over-1b-in-total-bitcoin-purchases-in-2020), [celerities](https://bitcoinmagazine.com/articles/10-celebrities-didnt-know-bitcoin) y hasta instituciones [públicas](https://news.bitcoin.com/mayor-miami-treasury-reserves-bitcoin/).
 
-Estos han sido los impulsores y el resto seguirá, haciendo que se multiplique exponencialmente el «[efecto red](https://pau.ninja/diversificar-inversiones/#Expectativa_de_futuro)«, por esto es tan importante hacer HODL (aguantarla).
+Estos han sido los impulsores y el resto seguirá, haciendo que se multiplique exponencialmente el «[efecto red](./diversificar-inversiones#Expectativa_de_futuro)«, por esto es tan importante hacer HODL (aguantarla).
 
 ## Preguntas frecuentes
 
@@ -875,7 +840,7 @@ Es decir, un satoshi es: 0.00000001, claro que el precio de hoy esto no llegarí
 
 ### ¿Cuál es la cantidad mínima para invertir en bitcoin?
 
-La cantidad mínima será la que dicte el *exchange* donde lo compramos.
+La cantidad mínima será la que dicte el _exchange_ donde lo compramos.
 
 Podemos empezar con poco dinero como 10 euros o 20 euros para «probar las aguas». La mayoría de personas que conozco inviertan 250€, 500€, 1.000€ o hasta más dinero de forma recurrente y automática cada mes.
 
@@ -885,9 +850,9 @@ Siempre es buen momento y mal momento para comprar bitcoin o cualquier otro tipo
 
 Sólo yo tengo una bola de cristal: en mi cabeza.
 
-![cómic predicción bolsa](https://pau.ninja/wp-content/uploads/2021/01/comic-prediccion-bolsa.png)
+![cómic predicción bolsa](./wp-content/uploads/2021/01comic-prediccion-bolsa.png)
 
-No sabemos si a corto plazo la demanda y el precio subirá o bajará. Como cualquier activo sólo podemos especular. Pero de nuevo, esto no deja de ser ruido si confiamos en la [tecnología, las matemáticas y la historia](https://pau.ninja/diversificar-inversiones/#Confiar_en_las_matematicas).
+No sabemos si a corto plazo la demanda y el precio subirá o bajará. Como cualquier activo sólo podemos especular. Pero de nuevo, esto no deja de ser ruido si confiamos en la [tecnología, las matemáticas y la historia](./diversificar-inversiones#Confiar_en_las_matematicas).
 
 Así que como no lo podemos predecir, mejor optar por las [estrategias que ya hemos visto](#Estrategias_de_inversion_para_bitcoin) y eliminar el factor incertidumbre de cuándo entramos.
 
@@ -897,7 +862,7 @@ Hay más de 7.000 criptomonedas en el mercado a día de hoy. Muchas son burdas i
 
 Hay otras criptos como [Ethereum](https://es.wikipedia.org/wiki/Ethereum) que pueden tener su valor y funcionalidad pero **no podemos comparar a bitcoin** ni con ethereum ni ninguna otra criptomoneda en términos de **dinero duro**.
 
-[Las propiedades del dinero que posee](https://pau.ninja/propiedades-del-dinero/) bitcoin **son irreplicables** porque aunque tenga un código abierto y se pueda copiar, la trayectoria orgánica que ha seguido BTC no tiene precedentes.
+[Las propiedades del dinero que posee](./propiedades-del-dinero) bitcoin **son irreplicables** porque aunque tenga un código abierto y se pueda copiar, la trayectoria orgánica que ha seguido BTC no tiene precedentes.
 
 ### ¿Hasta cuándo crecerá y subirá el bitcoin?
 
@@ -908,3 +873,89 @@ Nadie sabe el precio que bitcoin va a tener a corto, medio o largo plazo. Todas
 Tampoco sabemos los porcentajes exactos del futuro, pero si tenemos históricos.
 
 Así que si esto sigue así, todas las reservas de valor y valor refugio no harán más que subir con el tiempo. ¿Lo harán de manera volátil? seguro. Tan volátil como impredecible, así que sujetaros.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Bitcoin](./bitcoin)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/invertir-en-bitcoins-forma-segura/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":9804,"title":"7%20pasos%20%2B%206%20maneras%20de%20invertir%20en%20Bitcoin%20%E3%80%90prot%C3%A9gete%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/01\\/persona-con-bitcoin.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,14 +1,19 @@
 ---
-title: "Carbohidratos: los ciclo cada 2 semanas El ciclado de carbohidratos para recargar"
+title: "Carbohidratos: los ciclo cada 2 semanas"
+url: https://pau.ninja/ciclado-de-carbohidratos
+slug: ciclado-de-carbohidratos
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: persona-ciclando-hidratos.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/persona-ciclando-hidratos.jpeg
 published: 2021-10-05T07:59:08+00:00
 modified: 2023-07-18T07:39:00+00:00
+scrappedAt: 2024-10-14T09:21:02.597Z
 audioLink: https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos_md_78541950_wp_1.mp3
-slug: ciclado-de-carbohidratos
+bibliography: []
 ---
-
-[https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos_md_78541950_wp_1.mp3](https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos_md_78541950_wp_1.mp3)
+[https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos\_md\_78541950\_wp\_1.mp3](https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos_md_78541950_wp_1.mp3)
 
 Aquí va mi confesión: **sigo comiendo carbohidratos**.
 
@@ -24,23 +29,23 @@ Es fabricada con palatibilidad artificial y por esto nos volvemos adictos a esta
 
 Así que os traigo esta herramienta que nos permitirá tener una excusa para comer carbohidratos de vez en cuando, sin ser el raro de la mesa cuando tenemos que celebrar un cumpleaños.
 
-Una herramienta que nos permitiría salir (temporalmente) de nuestro mundo cetogénico (los que comemos sólo grasas y proteínas sin hidratos) para que podamos etiquetar nuestra [dieta de cetogénica cíclica](https://pau.ninja/dieta-cetogenica-ciclica/). **Ciclando hidratos** de vez en cuando.
+Una herramienta que nos permitiría salir (temporalmente) de nuestro mundo cetogénico (los que comemos sólo grasas y proteínas sin hidratos) para que podamos etiquetar nuestra [dieta de cetogénica cíclica](./dieta-cetogenica-ciclica). **Ciclando hidratos** de vez en cuando.
 
-Ya [conocemos la verdad de los carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/) si los usamos como fuente de energía principal. Spoiler: no son cosas buenas (#255).
+Ya [conocemos la verdad de los carbohidratos](./la-verdad-sobre-los-carbohidratos) si los usamos como fuente de energía principal. Spoiler: no son cosas buenas (#255).
 
 La otra cara de la moneda es que hay **muy pocos estudios** que hayan seguido a los sujetos de una cetogénica **al largo plazo**. ¿Como vamos a tener estudios largoplacistas si en la ciencia actual se considera «largo plazo»los estudios [actuales](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2716748/) de solo 24 semanas?
 
-![bebe-ciclado](https://pau.ninja/wp-content/uploads/2021/10/bebe-ciclado.jpg)
+![bebe-ciclado](./wp-content/uploads/2021/10bebe-ciclado.jpg)
 
 Si esto es lo que se considera largoplacista entonces por esta regla de tres los bebés nacen ya siendo señores mayores.
 
-Aunque yo [consumo sólo carne con la dieta carnívora](https://pau.ninja/dieta-carnivora/), no soy tan extremista como algunos creen, porque sólo la sigo un 80-90% de las veces.
+Aunque yo [consumo sólo carne con la dieta carnívora](./dieta-carnivora), no soy tan extremista como algunos creen, porque sólo la sigo un 80-90% de las veces.
 
 ¿Por qué? pues porque utilizo esta herramienta llamada **ciclado de carbohidratos** para socializar, pegarme algún atracón culpable de vez en cuando y también para rendir mejor en el gimnasio.
 
 El ciclado de hidratos es básicamente consumirlos en periodos clave. ¿Qué periodos clave? pues cuando mi cuerpo me los pide. Explicaré [cuando](#Cuando_ciclar_los_carbohidratos) exactamente en un rato. A eso vamos.
 
-![meme-carbohidratos](https://pau.ninja/wp-content/uploads/2021/10/meme-carbohidratos.jpeg)
+![meme-carbohidratos](./wp-content/uploads/2021/10meme-carbohidratos.jpeg)
 
 Por ahí en el 2010 me obsesioné (un poco demasiado) con el fitness. Pasaba horas en algunos foros, leyendo artículos, webs… Y aunque sea un tiempo que nadie me va a devolver, aprendí un montón de cosas.
 
@@ -49,38 +54,12 @@ Hasta conocí con personas muy guays en el mundo del fitness como Powerexplosive
 El caso es que un par de semanas estaba pululando por un [foro](https://es.fitness.com/forum/threads/92204-todo-sobre-la-dieta-anabolica) hispano cuando topé con la «dieta anabólica» del Doctor Mauro DiPasquale.
 
 > Un [doctor](https://en.wikipedia.org/wiki/Mauro_Di_Pasquale) con el sobrenombre de «El Doctor Anabólico» porque en su momento fue campeón de culturismo y powerlifting.
->
+> 
 > Un tío que creo que estaba **avanzado** a su tiempo, porque si nos lo paramos a pensar, lo que él ya estaba promoviendo era una dieta cetogénica de lunes a viernes con un ciclado de carbohidratos **el fin de semana**.
 
 No era más que esto. Y con un nombre chulo, claro: «la dieta anabólica».
 
 Pero con esta recarga de hidratos ¿tiene sentido que sea el fin de semana y que se haga durante dos días enteros? ¿por qué deberíamos hacerla en primera instancia? ¿es la dieta anabólica una cetogénica con ciclado de carbohidratos?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es ciclar los carbohidratos](#Que_es_ciclar_los_carbohidratos 'Qué es ciclar los carbohidratos')
-- [Mentiras de ciclar carbohidratos](#Mentiras_de_ciclar_carbohidratos 'Mentiras de ciclar carbohidratos')
-  - [La cantidad de glucógeno muscular](#La_cantidad_de_glucogeno_muscular 'La cantidad de glucógeno muscular')
-  - [La comida trampa en el fitness](#La_comida_trampa_en_el_fitness 'La comida trampa en el fitness')
-- [Motivos para hacer ciclado de carbohidratos](#Motivos_para_hacer_ciclado_de_carbohidratos 'Motivos para hacer ciclado de carbohidratos')
-  - [Por la flexibilidad metabólica](#Por_la_flexibilidad_metabolica 'Por la flexibilidad metabólica')
-  - [Por la insulina](#Por_la_insulina 'Por la insulina')
-  - [Por los depósitos de glucógeno en el cuerpo](#Por_los_depositos_de_glucogeno_en_el_cuerpo 'Por los depósitos de glucógeno en el cuerpo')
-  - [Por la biogénesis mitocondrial](#Por_la_biogenesis_mitocondrial 'Por la biogénesis mitocondrial')
-  - [Por la leptina](#Por_la_leptina 'Por la leptina')
-- [Cuando ciclar los carbohidratos](#Cuando_ciclar_los_carbohidratos 'Cuando ciclar los carbohidratos')
-  - [Según los objetivos que tengamos](#Segun_los_objetivos_que_tengamos 'Según los objetivos que tengamos')
-  - [En estancamientos de pérdida de peso](#En_estancamientos_de_perdida_de_peso 'En estancamientos de pérdida de peso')
-  - [Antes y después de entrenamientos](#Antes_y_despues_de_entrenamientos 'Antes y después de entrenamientos')
-- [Cómo ciclar carbohidratos](#Como_ciclar_carbohidratos 'Cómo ciclar carbohidratos')
-  - [Dejar que el cuerpo se adapte a la glucosa](#Dejar_que_el_cuerpo_se_adapte_a_la_glucosa 'Dejar que el cuerpo se adapte a la glucosa')
-  - [Recargar carbohidratos al menos 36 horas](#Recargar_carbohidratos_al_menos_36_horas 'Recargar carbohidratos al menos 36 horas')
-  - [Consumir carbohidratos con bajo índice glucémico](#Consumir_carbohidratos_con_bajo_indice_glucemico 'Consumir carbohidratos con bajo índice glucémico')
-  - [Comer poca fruta en la dieta cetogénica](#Comer_poca_fruta_en_la_dieta_cetogenica 'Comer poca fruta en la dieta cetogénica')
-  - [No combinar los carbohidratos con grasas](#No_combinar_los_carbohidratos_con_grasas 'No combinar los carbohidratos con grasas')
-- [Intolerancia a la glucosa](#Intolerancia_a_la_glucosa 'Intolerancia a la glucosa')
 
 ## Qué es ciclar los carbohidratos
 
@@ -96,7 +75,7 @@ Con el ciclado de carbohidratos hacemos esto. Le vamos dando energía pura al cu
 
 Pero sobretodo… es una buena manera de volvernos más _buenorros_, bajar de peso o aumentar masa muscular de forma efectiva sería volvernos más metabólicamente flexibles.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
 ## Mentiras de ciclar carbohidratos
 
@@ -124,7 +103,7 @@ Pero es una **falacia**.
 
 El glucógeno muscular no se puede depletar así como así. De hecho en [otro](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00813.2005) estudio (para probar esto) pusieron los sujeto en una dieta baja en carbohidratos **pero** dándoles un plato cargado de carbohidratos antes de entrenar.
 
-![goku-recargando-hidratos](https://pau.ninja/wp-content/uploads/2021/10/goku-recargando-hidratos.jpeg)
+![goku-recargando-hidratos](./wp-content/uploads/2021/10goku-recargando-hidratos.jpeg)
 
 Imagen: Goku también cicla los hidratos.
 
@@ -132,7 +111,7 @@ Adivinad que.
 
 **Aún así**, aún con este plato de carbohidratos que en teoría iba a llenar los depósitos de glucógeno del músculo, **bajó su rendimiento** exactamente igual que sin plato de carbohidratos.
 
-O sea el sentido común decía que si los músculos no tenían glucógeno, con ese *plataco* se hubieran rellenado las reservas y se hubieran convertido en unos Hércules.
+O sea el sentido común decía que si los músculos no tenían glucógeno, con ese _plataco_ se hubieran rellenado las reservas y se hubieran convertido en unos Hércules.
 
 Por eso decimos que es una falacia.
 
@@ -158,7 +137,7 @@ Si bien es verdad que se [regenera](https://pubmed.ncbi.nlm.nih.gov/11126336/) u
 
 Porque incluso estando en cetosis nuestros niveles de glucógeno están bien. **No se depletan**.
 
-De hecho los hidratos residuales de nuestras comidas altas en grasas e **incluso** la proteína convertida en *carbos*, termina siendo suficiente para mantener unos niveles **altos** de glucosa en el músculo.
+De hecho los hidratos residuales de nuestras comidas altas en grasas e **incluso** la proteína convertida en _carbos_, termina siendo suficiente para mantener unos niveles **altos** de glucosa en el músculo.
 
 Si es verdad que cuando estamos entrenando a una alta intensidad, estamos demandando a nuestro cuerpo glucógeno en forma de energía. Y sería un sucidido deportivo en cuanto a rendimiento no consumir hidratos si haces sprints, porque quieres la forma más rápida de energía.
 
@@ -180,7 +159,7 @@ Dejando de crear cetonas durante un tiempo, y **gaste** las que estén ahí sue
 
 ### Por la flexibilidad metabólica
 
-Recordemos: [flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/).
+Recordemos: [flexibilidad metabólica](./flexibilidad-metabolica).
 
 Que no se olvide nuestro cuerpo de usar los carbohidratos de manera eficiente.
 
@@ -204,7 +183,7 @@ Recordemos que la insulina es la llave que deja pasar a lo que sea que haya en s
 
 A más insulina, más se abrirá la puerta.
 
-![grasas-glucosa-insulina](https://pau.ninja/wp-content/uploads/2021/10/grasas-glucosa-insulina.jpg)
+![grasas-glucosa-insulina](./wp-content/uploads/2021/10grasas-glucosa-insulina.jpg)
 
 Con una dieta cetogénica como es la carnívora, los picos de insulina se mantienen mucho más a ralla. La puerta no se abre tanto aunque comamos mucha grasa y almacenamos menos.
 
@@ -219,15 +198,15 @@ Lo que hace la insulina a parte de dejar pasar el glucógeno en los músculos y 
 
 Si nuestras queridas células no responden porque la insulina nos «va mal», como si fuera una llave que no acaba de entrar en la puerta, entonces el azúcar en sangre se mantiene elevado porque no hay ningún sitio donde entrar.
 
-Esto es lo que se llama «resistencia a la insulina». ¿Y cómo nos volvemos resistentes a la insulina? pues comiendo carbohidratos en acceso, o sea que Goku tenía su peligro con todos esos platos de *noodles* que se comía.
+Esto es lo que se llama «resistencia a la insulina». ¿Y cómo nos volvemos resistentes a la insulina? pues comiendo carbohidratos en acceso, o sea que Goku tenía su peligro con todos esos platos de _noodles_ que se comía.
 
-[![Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU1ucE9RMXBEZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwNzAwOA=)](https://www.amazon.es/dp/B083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...')
+[![Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU1ucE9RMXBEZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY2OA=)](https://www.amazon.es/dpB083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...")
 
-[Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...](https://www.amazon.es/dp/B083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...')
+[Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...](https://www.amazon.es/dp/B083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...")
 
 29,99 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pero bueno él tiene un poco excusa porque los quemaba segurísimo.
 
@@ -285,7 +264,7 @@ Y por sentido común, si no hay energía en la célula nosotros tampoco la tenem
 
 Pues estas mitocondrias son como Célula. No nuestras células, pero el Célula de Dragon Ball. ¿Por qué? pues porque esta biogénesis como digo es adaptación, es evolución.
 
-![celula-anabolica](https://pau.ninja/wp-content/uploads/2021/10/celula-anabolica.jpg)
+![celula-anabolica](./wp-content/uploads/2021/10celula-anabolica.jpg)
 
 Sube de nivel para volverse más eficiente canalizando la energía, que como vimos con lo de la [flexibilidad metabólica](#Por_la_flexibilidad_metabolica) es indispensable para que nos sintamos bien.
 
@@ -297,7 +276,7 @@ En este puzzle que es nuestra composición corporal, la leptina es una hormona q
 
 Nuestro cerebro reconoce altos niveles de leptina como que no nos tenemos que preocupar por la comida. Que nuestras células tienen de sobra en las cartucheras.
 
-![manijas-del-amor](https://pau.ninja/wp-content/uploads/2021/10/manijas-del-amor.png)
+![manijas-del-amor](./wp-content/uploads/2021/10manijas-del-amor.png)
 
 Las manijas del amor.
 
@@ -337,13 +316,13 @@ Pero una persona que ha comido una dieta estándar, necesitará semanas para ada
 
 Bestseller No. 1
 
-[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwNzAwOA=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre 'Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...')
+[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY2OA=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmoll) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
-[Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre 'Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...')
+[Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
-46,90 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+46,90 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Comprar en Amazon")
 
 Al menos las primeras semanas para ver cuánto nos cuesta entrar y salir de cetosis.
 
@@ -351,13 +330,13 @@ Por cierto confieso que me cuesta un montón pincharme en el dedo como un diabé
 
 La propuesta del «Doctor Anabólico» de hacerlo un par de días a la semana (80/20) tiene sentido a nivel práctico, pero a medida que nos acostumbramos a utilizar grasas como energía y vamos conociendo nuestro cuerpo cada vez más, podemos «sentirlo» casi.
 
-A veces me encuentro en mucha más sintonía con mi cuerpo y siento ligeras molestias en articulaciones o cambios del estado de ánimo y allí digo: *pum*. Toca hacer recarga de hidratos.
+A veces me encuentro en mucha más sintonía con mi cuerpo y siento ligeras molestias en articulaciones o cambios del estado de ánimo y allí digo: _pum_. Toca hacer recarga de hidratos.
 
 ### En estancamientos de pérdida de peso
 
 Estoy predicando mucho la dieta cetogénica porque creo que es la hostia tanto por perder peso (recordamos que necesitaremos seguir la regla de oro: consumir menos kcal de lo que nuestro cuerpo necesita para este objetivo), pero me ahora me estoy refiriendo a nivel bioquímico.
 
-Aún así siempre se llega a un estancamiento, a un *plateau*.
+Aún así siempre se llega a un estancamiento, a un _plateau_.
 
 Es normal porque la leptina baja en tan solo [una semana](https://academic.oup.com/ajcn/article/68/4/794/4648627), así que el estancamiento puede llegar más rápido que las carreras de las personas que han estudiado humanidades.
 
@@ -403,17 +382,15 @@ El medidor de cetonas que comentaba puede ser una buena idea. Que te pinchas con
 
 También vi por internet y las farmacias tiras de orina que la gente decía que no eran muy fiables y si usaban dos tiras distintas les daba un resultado distinto, pero yo encontré unas por Amazon que dan resultados muy similares al medidor de cetonas en sangres.
 
-[![Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTE1GaHdRV3RyYzB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwNzAwOA=)](https://www.amazon.es/dp/B08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...')
+[![Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTE1GaHdRV3RyYzB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY2OA=)](https://www.amazon.es/dpB08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...")
 
-[Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...](https://www.amazon.es/dp/B08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...')
+[Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...](https://www.amazon.es/dp/B08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pero bueno, que cada uno experimente con el producto que le vaya mejor. De hecho no hace falta comprar ninguna _mierdda_ si somos capaces de interpretar las señales del cuerpo.
 
 ¿Y para que queremos medirnos las cetonas? para ver que nos saca de cetosis y qué no.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 De hecho cuando hacemos un ciclado de hidratos, lo hacemos porque **queremos salir** de cetosis con esta recarga. Queremos que el cuerpo cambie de marcha y durante bastantes horas esté usando hidratos y cuando ya los ha usado un tiempo. Pum. De vuelta a cetosis.
 
@@ -435,7 +412,7 @@ No nos engañemos, lo más probable es que el cuerpo lo que haga es guardar esos
 
 Así que si comemos hidratos con un índice glucémico bajo, estamos controlando la insulina sin que dejemos que envíe a la mi\*erda todo nuestro sistema.
 
-![alimentos-indice-glucemico](https://pau.ninja/wp-content/uploads/2021/10/alimentos-indice-glucemico.png)
+![alimentos-indice-glucemico](./wp-content/uploads/2021/10alimentos-indice-glucemico.png)
 
 Ninjas de la vida, la insulina es un poco como un perro apasionado. Muy potente y poderoso, pero mejor que lo llevemos a un centro para que lo adiestren y lo eduquen para que podamos vivir tranquilos de que nos haga alguna barbaridad.
 
@@ -486,13 +463,13 @@ Las frutas tienen estos azúcares naturales que pueden ser sanos y tal, pero en 
 - Así que cuando consumimos carbohidratos de toda la vida, glucosa, el riñón sólo se tiene que preocupar del **20% de ellos** porque el resto irán a ser usados por células.
 - Pero cuando nos metemos fruta, el riñón se lleva el **100% del trabajo** para metabolizar la fructosa. Y pensemos que queremos el riñón el máximo de depletado de glucógeno posible para producir cetonas.
 
-Por esto entrar en cetosis sucede cuando se ha consumido la mayoría del glucógeno en el riñón y **no** del los músculos, que como hemos visto, en *keto* se mantiene en músculo de forma mucho más eficiente.
+Por esto entrar en cetosis sucede cuando se ha consumido la mayoría del glucógeno en el riñón y **no** del los músculos, que como hemos visto, en _keto_ se mantiene en músculo de forma mucho más eficiente.
 
 Si consumimos fructosa estamos **bajando nuestra producción de cetonas** en comparación de si nos metemos los carbohidratos de toda la vida.
 
 Y encima (como han demostrado estudios), esta fructosa a penas va en regenerar las reservas de glucógeno en los músculos.
 
-Así que en resumen: poca fruta. Mejor obtener vitaminas de otras fuentes en este sentido. Aunque a ver, si seguimos una carnívora incluyendo [la comida más sanos que existe](https://pau.ninja/alimentos-mas-sanos-del-mundo/), no me preocuparía yo demasiado de los microonutrientes un fin de semana que hagamos carga de hidratos.
+Así que en resumen: poca fruta. Mejor obtener vitaminas de otras fuentes en este sentido. Aunque a ver, si seguimos una carnívora incluyendo [la comida más sanos que existe](./alimentos-mas-sanos-del-mundo), no me preocuparía yo demasiado de los microonutrientes un fin de semana que hagamos carga de hidratos.
 
 ### No combinar los carbohidratos con grasas
 
@@ -512,7 +489,7 @@ Pero al final he terminado haciéndolo todo a ojo sin preocuparme por estos porc
 
 Llegados a este punto han estado tanto tiempo en una dieta cetogénica que algunas personas sentirán que cuando comen carbohidratos se sienten fatal y su cuerpo se ha acostumbrado tan bien a las cetonas que dicen «oye, ¿y si volvemos todo a grasas?».
 
-Si os acordáis, cuando entramos en una dieta *keto* también hay un periodo de adaptación que de media es de unas 2 semanas para la mayoría de personas.
+Si os acordáis, cuando entramos en una dieta _keto_ también hay un periodo de adaptación que de media es de unas 2 semanas para la mayoría de personas.
 
 Pues con los carbohidratos es igual.
 
@@ -521,3 +498,88 @@ Tendremos que **acostumbrar** a nuestro cuerpo a que sepa utilizar este combust
 Los primeros días serán una patada en el culo, pero tal como hemos aprendido con la dieta cetogénica, vale la pena aguantar más de una comida, más de un día, para forzar la maquinaria un poquito.
 
 A medida que repito este proceso yo me encuentro que el cuerpo se adapta mucho más. **Siento** como mi cuerpo está ganando en [flexibilidad metabólica](#Por_la_flexibilidad_metabolica) y está convirtiéndose en un levantador y quemador de grasas digno de entrar en el Olimpo.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/ciclado-de-carbohidratos/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14964,"title":"4%20motivos%20%2B%205%20pasos%20para%20CICLAR%20carbohidratos%20%E3%80%90ciencia%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/persona-ciclando-hidratos.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

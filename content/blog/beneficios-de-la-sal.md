@@ -1,13 +1,20 @@
 ---
-title: "La sal: una mentira nutricional con mucho salero beneficios de la sal en el cuerpo humano"
+title: "La sal: una mentira nutricional con mucho salero"
+url: https://pau.ninja/beneficios-de-la-sal
+slug: beneficios-de-la-sal
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: mitos-nutricionales
+    label: Mentiras nutricionales
 image: tirando-sal-en-la-comida.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/01/tirando-sal-en-la-comida.jpeg
 published: 2023-01-18T05:55:41+00:00
 modified: 2023-02-19T18:23:29+00:00
+scrappedAt: 2024-10-14T09:20:13.687Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64974007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312578440-44100-2-c63ba332859d4.mp3
-slug: beneficios-de-la-sal
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/64974007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312578440-44100-2-c63ba332859d4.mp3](https://anchor.fm/s/98566448/podcast/play/64974007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312578440-44100-2-c63ba332859d4.mp3)
 
 > «La cura para todo es la sal: sudor, lágrimas o el mar» – proverbio sueco
@@ -32,31 +39,9 @@ A ver.
 
 ¿A quien te crees más? ¿A un proverbio sueco o a a la _far**mafia**_ que te quiere convertir en un cliente recurrente? Porque al igual que con las estatinas (aunque deberíamos llamarlas _**estaf**in**a**s_), tendrás que estar comprando estos medicamentos de la presión de por vida.
 
-![medicamentos presión sangre](https://pau.ninja/wp-content/uploads/2023/01/medicamentos-presion-sangre.png)
+![medicamentos presión sangre](./wp-content/uploads/2023/01medicamentos-presion-sangre.png)
 
 La sal en la nutrición tiene mucho salero, y para los nutricionistas más tradicionales lo que vamos a aprender hoy aquí será una verdad un tanto salada de asumir.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Historia de la sal](#Historia_de_la_sal 'Historia de la sal')
-- [¿La sal es buena o mala?](#%C2%BFLa_sal_es_buena_o_mala '¿La sal es buena o mala?')
-- [Origen de la sal en la dieta occidental](#Origen_de_la_sal_en_la_dieta_occidental 'Origen de la sal en la dieta occidental')
-- [Cuanta sal debemos consumir al día](#Cuanta_sal_debemos_consumir_al_dia 'Cuanta sal debemos consumir al día')
-- [Qué pasa si comes mucha sal](#Que_pasa_si_comes_mucha_sal 'Qué pasa si comes mucha sal')
-- [Beneficios de la sal en el cuerpo humano](#Beneficios_de_la_sal_en_el_cuerpo_humano 'Beneficios de la sal en el cuerpo humano')
-- [¿La sal sube la tensión?](#%C2%BFLa_sal_sube_la_tension '¿La sal sube la tensión?')
-- [Peligros de no comer sal](#Peligros_de_no_comer_sal 'Peligros de no comer sal')
-- [Tipos de sal](#Tipos_de_sal 'Tipos de sal')
-  - [Sal de mesa refinada](#Sal_de_mesa_refinada 'Sal de mesa refinada')
-  - [Sal celta](#Sal_celta 'Sal celta')
-  - [Sal del Himalaya](#Sal_del_Himalaya 'Sal del Himalaya')
-  - [Fleur de sel](#Fleur_de_sel 'Fleur de sel')
-- [¿Cuál es la mejor sal para la salud?](#%C2%BFCual_es_la_mejor_sal_para_la_salud '¿Cuál es la mejor sal para la salud?')
-- [¿La sal hidrata?](#%C2%BFLa_sal_hidrata '¿La sal hidrata?')
-- [¿Hay peligros de no comer sal?](#%C2%BFHay_peligros_de_no_comer_sal '¿Hay peligros de no comer sal?')
-- [Cuando echar sal a la carne](#Cuando_echar_sal_a_la_carne 'Cuando echar sal a la carne')
 
 ## Historia de la sal
 
@@ -78,7 +63,7 @@ Ni chupando rocas, ni obteniéndola de arcillas que contengan grandes cantidades
 
 Por ejemplo los Inuit, que consumen más del 90% de sus calorías de carnes animales, de hecho…
 
-![inuit comiendo carne](https://pau.ninja/wp-content/uploads/2021/10/inuit-comiendo-carne.jpeg)
+![inuit comiendo carne](./wp-content/uploads/2021/10inuit-comiendo-carne.jpeg)
 
 Odian la sal.
 
@@ -96,17 +81,17 @@ A lo largo de la historia siempre habíamos considerado la sal como nutritiva y 
 
 Entonces, ¿por qué de bote pronto le tenemos miedo?
 
-Fue alrededor de la década de los 90, igual que ha pasado con las [grasas saturadas](https://pau.ninja/grasas-saturadas-son-buenas/), el [colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/) o también [tomar el sol sin crema](https://pau.ninja/tomar-el-sol-sin-crema/), es ahí que se empezó demonizado la sal erróneamente. Se nos ha dicho que hay que limitar drásticamente el consumo de sal porque causa presión alta, ataques y cosas así.
+Fue alrededor de la década de los 90, igual que ha pasado con las [grasas saturadas](./grasas-saturadas-son-buenas/), el [colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/) o también [tomar el sol sin crema](https://pau.ninja/tomar-el-sol-sin-crema), es ahí que se empezó demonizado la sal erróneamente. Se nos ha dicho que hay que limitar drásticamente el consumo de sal porque causa presión alta, ataques y cosas así.
 
 Pero esto no deja de ser otro de tantos mitos nutricionales. Otra mentira como un piano que nos intentan colar.
 
-La sal puede ser uno de los superalimentos más poderosos del planeta si sabes [qué tipo de sal comprar](https://pau.ninja/sal-de-manantial/#Tipos_de_sal) y la cantidad que necesitas (o no necesitas).
+La sal puede ser uno de los superalimentos más poderosos del planeta si sabes [qué tipo de sal comprar](./sal-de-manantial#Tipos_de_sal) y la cantidad que necesitas (o no necesitas).
 
 ## Origen de la sal en la dieta occidental
 
 Con el mejor-peor invento de la historia: la agricultura, todo cambió. Y digo mejor-peor porque aunque desde aquí empieza el capitalismo y la mejora de ciertos parámetros de vida gracias a la economía, también es aquí que empezar el declive humano de la salud. Como una arma de doble filo.
 
-Que vivamos más tiempo no significa que mantengamos buena calidad de vida (es cómo mantener un zombie en vida, con [cansancio y falta de concentración](https://pau.ninja/falta-de-concentracion-y-cansancio/)). Pensad en las enfermedades que ahora existen y que siguen en aumento:
+Que vivamos más tiempo no significa que mantengamos buena calidad de vida (es cómo mantener un zombie en vida, con [cansancio y falta de concentración](./falta-de-concentracion-y-cansancio)). Pensad en las enfermedades que ahora existen y que siguen en aumento:
 
 - Enfermedades crónicas
 - Cáncer
@@ -117,9 +102,9 @@ Antes virtualmente no existían.
 
 Cuando aparece la agricultura, nos volvemos automáticamente más bajitos, malnutridios, y con todas estas enfermedades.
 
-![hombre-agricultura](https://pau.ninja/wp-content/uploads/2021/10/hombre-agricultura.jpg)
+![hombre-agricultura](./wp-content/uploads/2021/10hombre-agricultura.jpg)
 
-En esta época empezamos a incorporar plantas (mayoritariamente grano) en la dieta haciendo que pasemos a obtener la mayoría del peso de nuestra comida de carbohidratos. Digo *comida* y no _alimentos_ porque los alimentos te «alimenta» mientras que la _comida_ sólo te llena la barriga físicamente. Como las plantas no hacen.
+En esta época empezamos a incorporar plantas (mayoritariamente grano) en la dieta haciendo que pasemos a obtener la mayoría del peso de nuestra comida de carbohidratos. Digo _comida_ y no _alimentos_ porque los alimentos te «alimenta» mientras que la _comida_ sólo te llena la barriga físicamente. Como las plantas no hacen.
 
 Con la incorporación de una dieta predominante en plantas, nuestro comportamiento cambia, y empezamos a buscar sal. A necesitas sodio que no obtenemos de las plantas al contrario que haríamos con una dieta basada en animales. Con el sodio de la sangre, la carne magra y los órganos.
 
@@ -129,13 +114,11 @@ Fue en la crisis de los 90, cuando se empezó a demonizar la sal, que todo occid
 
 El enemigo (según los medios) era la sal y las grasas saturadas. **Una mentira que se sigue repitiendo hoy día**. Esto sí es una ida de olla y no las ollas de baro que encontraron los arqueólogos.
 
-En cambio las harinas, los aditivos, los [carbohidratos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/) y hasta el azúcar quedaron protegidos por los medios al ser las industrias más poderosas.
+En cambio las harinas, los aditivos, los [carbohidratos](./la-verdad-sobre-los-carbohidratos) y hasta el azúcar quedaron protegidos por los medios al ser las industrias más poderosas.
 
 ¿Por qué?
 
 Porque **la sal no es adictiva**. Ni las grasas saturadas ni el colesterol. Cuando tienes suficiente sodio y grasa tu cuerpo te dice que **no comas más, pero el azúcar y los carbohidratos son imparables**.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 No nos saciamos de azúcar porque en la naturaleza es un bien escaso, y como se explica en el libro de Sapiens, lo más sensible si te encontrabas con un árbol frutal era atiborrarte de todas las bayas o frutas que hubieras podido porque a saber cuando volverías a encontrar uno.
 
@@ -163,7 +146,7 @@ Como vemos, hay una divergencia enorme en el consumo de sal dependiendo de la é
 
 Ahora bien, ¿cuánta sal necesitamos consumir al día para una salud óptima? Pues dependerá exclusivamente del ratio de carne y plantas.
 
-Por desgracia para la salud de la mayoría de la población occidental que [ha demonizado tanto la carne roja erróneamente](https://pau.ninja/carne-roja-es-mala-para-la-salud/), la mayoría ya consumen un 80% de dietas veganas y el 20% restante hay súper poca carne. Y su salud va empeorando mientras siguen los consejos de los medios.
+Por desgracia para la salud de la mayoría de la población occidental que [ha demonizado tanto la carne roja erróneamente](./carne-roja-es-mala-para-la-salud), la mayoría ya consumen un 80% de dietas veganas y el 20% restante hay súper poca carne. Y su salud va empeorando mientras siguen los consejos de los medios.
 
 Para una persona como yo (y algunos de vosotros) que seguimos la dieta carnívora, con un 80%-90% de las calorías viniendo de carne exclusivamente, os puedo adelantar que **no necesitamos consumir sal**.
 
@@ -191,7 +174,7 @@ De nuevo: sinergía.
 
 Si la gente está metiendo montones de sal en su comida, es porque su sal de mesa no es salada… **no tiene sodio**.
 
-La sal es necesaria para hacer ciertas comidas. Por ejemplo hay muchos [lácteos](https://pau.ninja/es-bueno-beber-leche/) que requieren de sal para fabricarlos.
+La sal es necesaria para hacer ciertas comidas. Por ejemplo hay muchos [lácteos](./es-bueno-beber-leche) que requieren de sal para fabricarlos.
 
 Por esto no pienso que la sal sea necesariamente mala de consumir, especialmente en las cantidades que se usa en su mayoría.
 
@@ -211,7 +194,7 @@ Siempre se nos ha dicho que la sal provoca hipertensión de forma permanente. Qu
 
 De hecho **la falta de sal (sodio) es más perjudicial que consumir demasiada sal**. Un estudio de 2011 [revelaba](https://pubmed.ncbi.nlm.nih.gov/22110105/) que consumir menos de 2.000 miligramos de sodio aumentaba la de complicaciones de salud.
 
-![estudio sal hipertensión](https://pau.ninja/wp-content/uploads/2023/01/estudio-sal-hipertension.png)
+![estudio sal hipertensión](./wp-content/uploads/2023/01estudio-sal-hipertension.png)
 
 En cambio el riesgo a enfermedades era **reducida con unos 5.000 miligramos al día**.
 
@@ -221,7 +204,7 @@ Actualmente la recomendación oficial es de 2,5 gramos se sodio ([1](https://www
 
 Otro [estudio](https://app.core-apps.com/eb2017/abstract/536903b6b3303af8e0989e14822abae7) en Preventive Medicine vio como restringir el sodio no sólo era ineficiente en pacientes con hipertensión, sino que incluso los que consumían menos de 2.500mg de sodio al día (lo recomendado por el Estado) **tenían la presión arterial más alta** que los que consumían más.
 
-![estudio sal y presión arterial](https://pau.ninja/wp-content/uploads/2023/01/estudio-sal-y-presion-arterial.png)
+![estudio sal y presión arterial](./wp-content/uploads/2023/01estudio-sal-y-presion-arterial.png)
 
 Y al igual que el otro estudio en personas con hipertensión vieron que hay tantos problemas de salud en consumir menos de 2.500 mg de sodio al día como si consumes más de 8.000 mg.
 
@@ -241,7 +224,7 @@ Por ejemplo la Comisión Europea, está [apretando](https://www.aesan.gob.es/AEC
 
 ## Tipos de sal
 
-He expandido en por qué la [sal de manantial](https://pau.ninja/sal-de-manantial/) es la sal más sana de todas las que existen.
+He expandido en por qué la [sal de manantial](./sal-de-manantial) es la sal más sana de todas las que existen.
 
 ¿Qué tipo de sal es mejor? Haré un episodio a parte pero ya te puedo adelantar que NO es la sal del Himalaya (…).
 
@@ -267,13 +250,13 @@ Después tenemos la sal marina celta que es un poco más fina y se hace de una f
 
 Ahora mismo rebajado
 
-[![Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMGNGRkJXbmhxVTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTkzNg=)](https://www.amazon.es/dp/B000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)')
+[![Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMGNGRkJXbmhxVTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDQ4MQ=)](https://www.amazon.es/dpB000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)")
 
-[Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)](https://www.amazon.es/dp/B000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)')
+[Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)](https://www.amazon.es/dp/B000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)")
 
-34,98 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+34,98 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 La sal celta es mucho más salada lo que hace que puedas poner una pequeña cantidad en tu comida y que… bueno. Tenga un sabor mucho más salado.
 
@@ -332,3 +315,89 @@ La carne tiene 14.000 miligramos de potasio, 250 miligramos de sodio que sería 
 Por todos los motivos que os he comentado **nunca** pongo sal en mi carne. Sólo me haría agotar el potasio que a su vez reduciría el magnesio.
 
 Hay gente muy acostumbrada a meter montones de sal a todo, pero en cuestión de una semana dejas de echarla de menos, los ratios de minerales seguro que se nivelan y haces que no reduzcas la palatibilidad.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Mentiras nutricionales](./mitos-nutricionales)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/beneficios-de-la-sal/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":16032,"title":"3%20beneficios%20%2B%203%20MENTIRAS%20sobre%20el%20consumo%20de%20sal","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/01\\/tirando-sal-en-la-comida.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

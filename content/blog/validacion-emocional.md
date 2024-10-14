@@ -1,60 +1,47 @@
 ---
-title: "Validar emociones el arte de empatizar ante la vulnerabilidad"
+title: "Validar emociones"
+url: https://pau.ninja/validacion-emocional
+slug: validacion-emocional
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: habilidades-sociales
+    label: Habilidades sociales
+  - slug: relaciones-de-pareja
+    label: Relaciones de pareja
 image: pareja-practicando-validacion-emocional.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/pareja-practicando-validacion-emocional.jpeg
 published: 2023-08-25T11:50:00+00:00
 modified: 2024-05-21T19:42:15+00:00
+scrappedAt: 2024-10-14T09:19:53.941Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83197851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F368796866-44100-2-39eb4e20313e8.mp3
-slug: validacion-emocional
+bibliography: ["Kelly JR, Iannone NE, McCarty MK. Emotional contagion of anger is automatic: An evolutionary explanation. Br J Soc Psychol. 2016 Mar;55(1):182-91. doi: 10.1111/bjso.12134. Epub 2015 Dec 14. PMID: 26660907.","Bastiaansen JA, Thioux M, Keysers C. Evidence for mirror systems in emotions. Philos Trans R Soc Lond B Biol Sci. 2009 Aug 27;364(1528):2391-404. doi: 10.1098/rstb.2009.0058. PMID: 19620110; PMCID: PMC2865077.","Kornferry. 2016. “New Research Shows Women Are Better at Using Soft Skills Crucial for Effective Leadership and Superior Business Performance, Finds Korn Ferry.”","Lipman, Victor. 2015. “Are Women Really, as This Major Research Says, Better Managers than Men?” Forbes.","Seehausen M, Kazzer P, Bajbouj M, Prehn K. Effects of empathic paraphrasing – extrinsic emotion regulation in social conflict. Front Psychol. 2012 Nov 12;3:482. doi: 10.3389/fpsyg.2012.00482. PMID: 23162516; PMCID: PMC3495333."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/83197851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F368796866-44100-2-39eb4e20313e8.mp3](https://anchor.fm/s/98566448/podcast/play/83197851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F368796866-44100-2-39eb4e20313e8.mp3)
 
 El cerebro es una esponja no sólo de conocimientos racionales y datos, sino también de emociones.
 
 Si interactuamos con un grupo de cabreados por redes sociales es bien sabido que terminarás igual: cabreado. O que si estás en contacto con un grupo de gente positiva, tú también te sentirás más positivo.
 
-Desgraciadamente parece ser que las emociones negativas como la ira se transfieren más fácilmente que las positivas[1](<javascript:void(0)>)Kelly JR, Iannone NE, McCarty MK. Emotional contagion of anger is automatic: An evolutionary explanation. Br J Soc Psychol. 2016 Mar;55(1):182-91. doi: 10.1111/bjso.12134. Epub 2015 Dec 14. PMID: 26660907..
+Desgraciadamente parece ser que las emociones negativas como la ira se transfieren más fácilmente que las positivas[ref-1](#ref-1){.ref}.
 
-Por esto nunca ni miro ni respondo los comentarios de mi redes sociales… Pero ninjas de la vida, aunque un poco *put4d4*, esto tiene una razón de ser. La razón de siempre: ser una ventaja evolutiva. Y es que…
+Por esto nunca ni miro ni respondo los comentarios de mi redes sociales… Pero ninjas de la vida, aunque un poco _put4d4_, esto tiene una razón de ser. La razón de siempre: ser una ventaja evolutiva. Y es que…
 
 > Hacer mímica involuntaria de las emociones de los demás sin intentar razonarlo, nos salvaría la vida. Algo especialmente cierto en las emociones negativas.
 
 Si alguien se cabrea por algo, o está cagado de miedo por un depredador y viene a contárnoslo al poblado, más vale que tú también te cagues de miedo y salgas pitando de ahí….
 
-Esta llamada *transferencia emocional* que nos contagia el cerebro de sentimientos es causado por unas neuronas tenemos en nuestra cabecita llamadas [neuronas espejo que se relacionan con la empatía](https://pau.ninja/neuronas-espejo-y-la-empatia/).
+Esta llamada _transferencia emocional_ que nos contagia el cerebro de sentimientos es causado por unas neuronas tenemos en nuestra cabecita llamadas [neuronas espejo que se relacionan con la empatía](./neuronas-espejo-y-la-empatia).
 
-Unas neuronas que tienen como única función, imitar, captar (instantáneamente además) las emociones de los que nos rodean[2](<javascript:void(0)>)Bastiaansen JA, Thioux M, Keysers C. Evidence for mirror systems in emotions. Philos Trans R Soc Lond B Biol Sci. 2009 Aug 27;364(1528):2391-404. doi: 10.1098/rstb.2009.0058. PMID: 19620110; PMCID: PMC2865077..
+Unas neuronas que tienen como única función, imitar, captar (instantáneamente además) las emociones de los que nos rodean[ref-2](#ref-2){.ref}.
 
 Por eso dicen que somos la media de las personas con las que interactuamos más.
 
-A pesar de que estas neuronas espejo sean tan susceptibles a ser contagiadas de negatividad, podemos usarlas a nuestro favor para [potenciar nuestras relaciones sanas de pareja](https://pau.ninja/relacion-de-pareja-sana/), trabajo, familiares o amigos.
+A pesar de que estas neuronas espejo sean tan susceptibles a ser contagiadas de negatividad, podemos usarlas a nuestro favor para [potenciar nuestras relaciones sanas de pareja](./relacion-de-pareja-sana), trabajo, familiares o amigos.
 
 ¿Cómo? Validando emocionalmente a esa persona, una forma de empatía muy potente que de hecho tiene el poder de solucionar (o al menos apaciguar muchos de los conflictos que se originan en la pareja.
 
 O incluso cuando quieres consolar, tranquilizar o en el fondo, entender a alguien que te comparte unos sentimientos personales.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es la validación emocional](#Que_es_la_validacion_emocional 'Qué es la validación emocional')
-  - [Ejemplo de validación emocional](#Ejemplo_de_validacion_emocional 'Ejemplo de validación emocional')
-  - [Qué es la invalidación emocional](#Que_es_la_invalidacion_emocional 'Qué es la invalidación emocional')
-  - [Invalidación emocional en pareja](#Invalidacion_emocional_en_pareja 'Invalidación emocional en pareja')
-  - [Ejemplos de validación emocional en pareja](#Ejemplos_de_validacion_emocional_en_pareja 'Ejemplos de validación emocional en pareja')
-- [Pasos para validar las emociones de alguien](#Pasos_para_validar_las_emociones_de_alguien 'Pasos para validar las emociones de alguien')
-  - [Trabajar en la empatía siempre que puedas](#Trabajar_en_la_empatia_siempre_que_puedas 'Trabajar en la empatía siempre que puedas')
-  - [Estate genuinamente atento a lo que dicen](#Estate_genuinamente_atento_a_lo_que_dicen 'Estate genuinamente atento a lo que dicen')
-  - [Sé la persona que se pone en el lugar de otra](#Se_la_persona_que_se_pone_en_el_lugar_de_otra 'Sé la persona que se pone en el lugar de otra')
-  - [Considera lo que ha vivido en el pasado](#Considera_lo_que_ha_vivido_en_el_pasado 'Considera lo que ha vivido en el pasado')
-  - [Resume lo que estás escuchando](#Resume_lo_que_estas_escuchando 'Resume lo que estás escuchando')
-  - [Etiqueta las emociones de la otra persona](#Etiqueta_las_emociones_de_la_otra_persona 'Etiqueta las emociones de la otra persona')
-- [Beneficios de la validación emocional](#Beneficios_de_la_validacion_emocional 'Beneficios de la validación emocional')
-  - [Reciprocidad mutua](#Reciprocidad_mutua 'Reciprocidad mutua')
-  - [Mejora la comunicación](#Mejora_la_comunicacion 'Mejora la comunicación')
-  - [Empodera a los demás](#Empodera_a_los_demas 'Empodera a los demás')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Qué es la validación emocional
 
@@ -86,7 +73,7 @@ Esos padres han decidido que la mentira es más importante de trabajar primero a
 
 La gracia de esta validación emocional es que las personas tienden a sentirse acompañadas en vez de atacadas.
 
-Por esto en el fondo la validación emocional no deja de ser una habilidad social que sale de la empatía que a su vez sale del respeto. Por esto tengo el «respeto» como el primer pilar dentro de [los valores personales](https://pau.ninja/valores-personales/) (#510).
+Por esto en el fondo la validación emocional no deja de ser una habilidad social que sale de la empatía que a su vez sale del respeto. Por esto tengo el «respeto» como el primer pilar dentro de [los valores personales](./valores-personales) (#510).
 
 ### Qué es la invalidación emocional
 
@@ -98,7 +85,7 @@ Nos invalidan emocionalmente cuando alguien deshecha lo que sentimos.
 
 Muchos de nosotros lo hemos hecho sin darnos cuenta. Incluso sólo con poner los ojos en blanco, ya estamos invalidando los sentimientos de alguien.
 
-![meme inteligencia emocional](https://pau.ninja/wp-content/uploads/2023/08/meme-inteligencia-emocional.jpeg)
+![meme inteligencia emocional](./wp-content/uploads/2023/08meme-inteligencia-emocional.jpeg)
 
 Porque no se trata sólo de lo que decimos, sino también de lo que no decimos.
 
@@ -112,13 +99,13 @@ Los hombres somos los máximos culpables de hacerlo porque no interactuamos con 
 
 Estoy hablando como un jeque árabe. Alguien que por cierto, muy probablemente no se tiene de preocupar de estas cosas.
 
-Pero los queremos entender [qué factores forman una relación de pareja sana](https://pau.ninja/relacion-de-pareja-sana/) (#513), esta parte de la comunicación es algo que hay que (sobretodo los hombres) tenemos que tener bien dominado.
+Pero los queremos entender [qué factores forman una relación de pareja sana](./relacion-de-pareja-sana) (#513), esta parte de la comunicación es algo que hay que (sobretodo los hombres) tenemos que tener bien dominado.
 
 Y no es de extrañar.
 
 Si los estudios ya nos han confirmado varias veces como las mujeres son superiores en inteligencia emocional que los hombres.
 
-Sobrepasándonos en al menos 11 de cada 12 competencias de inteligencia emocional[3](<javascript:void(0)>)Kornferry. 2016. “New Research Shows Women Are Better at Using Soft Skills Crucial for Effective Leadership and Superior Business Performance, Finds Korn Ferry.”[4](<javascript:void(0)>)Lipman, Victor. 2015. “Are Women Really, as This Major Research Says, Better Managers than Men?” Forbes..
+Sobrepasándonos en al menos 11 de cada 12 competencias de inteligencia emocional[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}.
 
 Y lo veo totalmente creíble.
 
@@ -185,11 +172,11 @@ Además que en el caso de una arma comunicativa tan potente como es la validaci�
 
 De poco estrés. Poca presión. Sin consecuencias.
 
-Lo último que querrás hacer es encontrarte en medio de una guerra (por ejemplo, en una discusión de pareja agitada) sin haber practicado con tu nueva arma de [habilidades sociales](https://pau.ninja/habilidades-sociales/).
+Lo último que querrás hacer es encontrarte en medio de una guerra (por ejemplo, en una discusión de pareja agitada) sin haber practicado con tu nueva arma de [habilidades sociales](./habilidades-sociales).
 
 ### Estate genuinamente atento a lo que dicen
 
-Lo primero que tenemos que hacer [es escuchar activamente](https://pau.ninja/escucha-activa/) (#275), esto significa nada de tener el móvil a mano, o cualquier distracción que no sea estar totalmente concentrado en esa conversación, y sobretodo:
+Lo primero que tenemos que hacer [es escuchar activamente](./escucha-activa) (#275), esto significa nada de tener el móvil a mano, o cualquier distracción que no sea estar totalmente concentrado en esa conversación, y sobretodo:
 
 - No interrumpir
 - No responder
@@ -203,9 +190,9 @@ Déjale espacio. Suficiente aire para que ventile sus emociones contigo.
 
 En el caso de la pareja el confort físico puede tomar un rol muy importante.
 
-A veces esos abrazos largos, acariciar el pelo o afección física en general es [una parte de la intimidad en pareja](https://pau.ninja/intimidad-en-pareja-con-karezza/) que se olvida pro completo pero que tiene respuestas hormonales y vinculativas muy potentes.
+A veces esos abrazos largos, acariciar el pelo o afección física en general es [una parte de la intimidad en pareja](./intimidad-en-pareja-con-karezza) que se olvida pro completo pero que tiene respuestas hormonales y vinculativas muy potentes.
 
-Lo más importante es validar *sus* emociones y razones, independientemente de lo ajetreado o lo en contra que esté.
+Lo más importante es validar _sus_ emociones y razones, independientemente de lo ajetreado o lo en contra que esté.
 
 Hay que tener en cuenta que esto que estás escuchando muy probablemente se ha ido construyendo a lo largo de ese mismo día (o un espacio de tiempo aún más largo).
 
@@ -269,7 +256,7 @@ Porque no podemos ganar contra el modelo mental de alguien que es totalmente dis
 
 ### Resume lo que estás escuchando
 
-No seas un loro. Refleja resumiendo lo que estás escuchando con la intención de asegurarte que _tú_ has entendido el mensaje, parafraseando correctamente[5](<javascript:void(0)>)Seehausen M, Kazzer P, Bajbouj M, Prehn K. Effects of empathic paraphrasing – extrinsic emotion regulation in social conflict. Front Psychol. 2012 Nov 12;3:482. doi: 10.3389/fpsyg.2012.00482. PMID: 23162516; PMCID: PMC3495333..
+No seas un loro. Refleja resumiendo lo que estás escuchando con la intención de asegurarte que _tú_ has entendido el mensaje, parafraseando correctamente[ref-5](#ref-5){.ref}.
 
 - _¿Estás diciendo que X?_
 - _¿Qué quieres decir exactamente con Y? Dame algún ejemplo_
@@ -332,27 +319,3 @@ Y que te estén validando emocionalmente no es que te digan «sí, sí, sí…»
 Esto se ve mucho en los entornos de pareja, por ejemplo.
 
 Cuando hay una discusión con la pareja, y con la ayuda de la validación emocional, el que estaba criticando o juzgando de pronto gira la tortilla en si misma, admitiendo que de alguna manera ha actuado mal por A o por B y cómo ha contribuido a escalar el conflicto.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Kelly JR, Iannone NE, McCarty MK. Emotional contagion of anger is automatic: An evolutionary explanation. Br J Soc Psychol. 2016 Mar;55(1):182-91. doi: 10.1111/bjso.12134. Epub 2015 Dec 14. PMID: 26660907.
-
-- 2
-
-  Bastiaansen JA, Thioux M, Keysers C. Evidence for mirror systems in emotions. Philos Trans R Soc Lond B Biol Sci. 2009 Aug 27;364(1528):2391-404. doi: 10.1098/rstb.2009.0058. PMID: 19620110; PMCID: PMC2865077.
-
-- 3
-
-  Kornferry. 2016. “New Research Shows Women Are Better at Using Soft Skills Crucial for Effective Leadership and Superior Business Performance, Finds Korn Ferry.”
-
-- 4
-
-  Lipman, Victor. 2015. “Are Women Really, as This Major Research Says, Better Managers than Men?” Forbes.
-
-- 5
-
-  Seehausen M, Kazzer P, Bajbouj M, Prehn K. Effects of empathic paraphrasing – extrinsic emotion regulation in social conflict. Front Psychol. 2012 Nov 12;3:482. doi: 10.3389/fpsyg.2012.00482. PMID: 23162516; PMCID: PMC3495333.

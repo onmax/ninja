@@ -1,13 +1,20 @@
 ---
 title: "GymGame: o cómo ligar en el gimnasio (sin ser un asqueroso)"
+url: https://pau.ninja/como-ligar-en-un-gym
+slug: como-ligar-en-un-gym
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: seduccion
+    label: Seducción
 image: hombre-ligando-en-el-gym.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/03/hombre-ligando-en-el-gym.jpeg
 published: 2023-03-07T10:53:57+00:00
 modified: 2023-08-13T08:26:11+00:00
+scrappedAt: 2024-10-14T09:20:09.698Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68537269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F323710425-44100-2-e99a083daeafe.mp3
-slug: como-ligar-en-un-gym
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/68537269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F323710425-44100-2-e99a083daeafe.mp3](https://anchor.fm/s/98566448/podcast/play/68537269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F323710425-44100-2-e99a083daeafe.mp3)
 
 No hay a penas (buen) material de cómo ligar en el gimnasio por la red, así que he decidido crearlo yo. Masticándolo y dároslo cual mamá pájaro en forma de pastilla de pura sabiduría.
@@ -20,28 +27,13 @@ No voy haciendo pesca de arrastre porque el gym es un sitio al que voy a diario.
 
 Si vas a ligar en un gimnasio en el que frecuentas tienes que pescar de forma artesanal. Si vas con la pesca de arrastre en una semana no sólo no habrá peces sino que se habrá corrido la voz que eres el asqueroso ese que sólo va a pescar.
 
-![cómic chico entra a chica](https://pau.ninja/wp-content/uploads/2022/02/comic-chico-entra-a-chica.png)
+![cómic chico entra a chica](./wp-content/uploads/2022/02comic-chico-entra-a-chica.png)
 
 En cambio si se hace correctamente es muy efectivo porque la mayoría de veces **los hombres no ligan en el gimnasio**. Esta es (precisamente) la razón por la que puede ser muy efectivo: porque **no hay competencia**. Estás comprando _penny stocks_, estás comprando bitcoin en el año 2009: a precio de risa, pero igual que en estas inversiones, **tomando riesgos**. Unos riesgos muy reales pero que puedes mitigar con los consejos que veremos hoy.
 
 Lo primero que tienes que tener en mente es que si tienes amigas que van al gimnasio **no** les preguntas a ellas como les gustaría que les entrases en el gimnasio. Ninjas de la vida, no le preguntamos a los peces como pescar, le preguntamos a los pescadores.
 
 Habrá pescadores de gimnasios más experimentados que yo, pero no soy un desconocido en este tipo de pesca que podemos empezar a llamar «GymGame».
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [No te sientas culpable por hacerlo](#No_te_sientas_culpable_por_hacerlo 'No te sientas culpable por hacerlo')
-- [Entiende tus razones para hacerlo](#Entiende_tus_razones_para_hacerlo 'Entiende tus razones para hacerlo')
-- [Conviértete en un recurrente](#Conviertete_en_un_recurrente 'Conviértete en un recurrente')
-- [La imagen lo es todo (se detallista)](#La_imagen_lo_es_todo_se_detallista 'La imagen lo es todo (se detallista)')
-- [(No) usar frases para entrar en gym](#No_usar_frases_para_entrar_en_gym '(No) usar frases para entrar en gym')
-- [Pica piedra centrándote en el medio plazo](#Pica_piedra_centrandote_en_el_medio_plazo 'Pica piedra centrándote en el medio plazo')
-- [Cierra el trato (de forma orgánica)](#Cierra_el_trato_de_forma_organica 'Cierra el trato (de forma orgánica)')
-- [Pídele el número (no el Instagram)](#Pidele_el_numero_no_el_Instagram 'Pídele el número (no el Instagram)')
-- [Acepta el rechazo (o muere intentándolo)](#Acepta_el_rechazo_o_muere_intentandolo 'Acepta el rechazo (o muere intentándolo)')
-- [No cometas los errores más comunes](#No_cometas_los_errores_mas_comunes 'No cometas los errores más comunes')
 
 ## No te sientas culpable por hacerlo
 
@@ -72,11 +64,9 @@ Si alguien te dice que «no está bien ligar con mujeres en el gimnasio» son lo
 
 Utilizarán excusas como el feminismo o algún argumento político sin sentido pero todo el mundo sabe que caerá en uno de estos dos grupos. Lo siento gente, pero algo os tenía que decir la verdad.
 
-¿Y sabéis cómo lo sé? Pues porque si supieras al 100% que te iban a reaccionar bien, a decir que sí, lo harías sin dudar. Puedes darme la excusa que quieras pero los dos sabemos que es por [no poder superar el miedo al rechazo](https://pau.ninja/superar-el-miedo-al-rechazo/) (#263). Un miedo que tiene todo el sentido del mundo.
+¿Y sabéis cómo lo sé? Pues porque si supieras al 100% que te iban a reaccionar bien, a decir que sí, lo harías sin dudar. Puedes darme la excusa que quieras pero los dos sabemos que es por [no poder superar el miedo al rechazo](./superar-el-miedo-al-rechazo) (#263). Un miedo que tiene todo el sentido del mundo.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Si [entrarle a una chica en frío en la calle](https://pau.ninja/como-entrarle-a-una-chica/) da miedo (#252), imagínate hacerlo en el gimnasio. Que es un sitio al que frecuentas y donde muy probablemente la volverás a ver.
+Si [entrarle a una chica en frío en la calle](./como-entrarle-a-una-chica) da miedo (#252), imagínate hacerlo en el gimnasio. Que es un sitio al que frecuentas y donde muy probablemente la volverás a ver.
 
 ¿Pero, sabes qué? Que tengas todo el derecho del mundo en hablar con alguien desconocido (derecho porque no hay ninguna ley que lo prohiba), no significa que no tengas que calibrar. Tienes que tener en cuenta lo que la otra persona está sintiendo para que quede lo más orgánico, natural y cómodo posible para que la chica tenga la oportunidad de decirte (quizás indirectamente) que no está interesada, de la misma forma que tu le has entrado: **respetuosamente**.
 
@@ -88,13 +78,13 @@ Claro que vivimos en grupo, pero siempre que respetes a la otra parte, no sólo 
 
 - Comparten conmigo uno de los mismos hobbies que más amo en la vida.
 - Este hobbies las convierte en seres increíblemente atractivos y sanos (y los atuendos de fitness lo acentúan aún más, no lo vamos a negar).
-- Demuestran rasgos de personalidad de [ser disciplinadas](https://pau.ninja/como-ser-disciplinado/) lo que es un rasgo que también me gusta.
+- Demuestran rasgos de personalidad de [ser disciplinadas](./como-ser-disciplinado) lo que es un rasgo que también me gusta.
 
 Pero atención por mucho que quiera tener un super gimnasio en casa y ser un prepper de la vida, el hecho de ir a un gimnasio comercial y que haya la presencia de mujeres, afecta a nuestras hormonas sexuales.
 
 En serio. Está demostrado ([1](https://pubmed.ncbi.nlm.nih.gov/18675269/), [2](https://journals.sagepub.com/doi/10.1177/1948550609352807)) que sólo estar rodeado de mujeres durante 5 minutos (no interactuar, sino simplemente que estén presentes) aumenta la testosterona en hombres.
 
-![las mujeres aumentan la testosterona](https://pau.ninja/wp-content/uploads/2023/03/las-mujeres-aumentan-la-testosterona.png)
+![las mujeres aumentan la testosterona](./wp-content/uploads/2023/03las-mujeres-aumentan-la-testosterona.png)
 
 Se ve que los efectos eran aún más prominentes en los hombres con tendencias agresivas, pero los que no lo somos también.
 
@@ -102,7 +92,7 @@ Es una pena que tenga que recordar que ser hombre no es malo. Que querer conocer
 
 Sentirás que ahora, en plena primavera, vuelven estas ganas de apretar un poco el acelerador en el tema del _daygame_, _nightame_ y _gymgame_.
 
-Al empezar con estos rayos de primavera y estar más expuestos al sol ([sin crema](https://pau.ninja/tomar-el-sol-sin-crema/) #366) tenemos más cantidad de neuroquímicos como la serotonina que aumentan el deseo sexual. Al haber más luz, menos oscuridad contribuye a que tengamos **menos melatonina que a su vez también aumenta la libido**.
+Al empezar con estos rayos de primavera y estar más expuestos al sol ([sin crema](./tomar-el-sol-sin-crema) #366) tenemos más cantidad de neuroquímicos como la serotonina que aumentan el deseo sexual. Al haber más luz, menos oscuridad contribuye a que tengamos **menos melatonina que a su vez también aumenta la libido**.
 
 ¿Por qué? Básicamente porque la melotonina se encarga de bloquear las hormonas sexuales al preparar tu cuerpo para dormir. Por lo tanto a menos melatonina (porque hay más horas de luz), más deseo sexual tendrás. No tendría put0 sentido que tu cuerpo te pusiera cach0ndo a la vez que te pone a dormir. Esto sólo te lo decía tu ex como excusa para no hacerlo.
 
@@ -116,7 +106,7 @@ Bueno, en verdad el objetivo número 1 tendría que ser ponerse to-buenorro por 
 
 Un hábito que te pone bueno, te pone sano y que te permite ponerte en un entorno donde hay mujeres que son tu tipo y que además esto te hace subir la testosterona.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
 Pero el segundo objetivo es aprovechar este hábito para convertirte en un cliente recurrente que los otros usuarios (y usuarias) del gimnasia reconocen.
 
@@ -124,7 +114,7 @@ La mayoría de gimnasios tienen un ambiente comunitario entre el personal, los u
 
 En algunos países donde la cultura es más fría como Estonia, puede pasar perfectamente de verte cada día con la misma persona y no dirigir ni un solo «hola» durante meses o no hacerlo nunca. En España es más común que si algún día le preguntas a otro recurrente si está usando X máquina, a partir del segundo día ya os digáis «hola».
 
-![meme mancuernas gimnasio](https://pau.ninja/wp-content/uploads/2023/03/meme-mancuernas-gimnasio.jpeg)
+![meme mancuernas gimnasio](./wp-content/uploads/2023/03meme-mancuernas-gimnasio.jpeg)
 
 Estés en el país que estés, el primer paso para ligar en el gimnasio será empezando a ser social con todo el mundo por igual. Sean hombres o mujeres, y ya verás por qué en un momento.
 
@@ -148,7 +138,7 @@ El 99% de hombres que hay en el gimnasio atraídos por las chicas hacen dos cosa
 
 He visto algún conocido quedarse mirando a alguna mujer en el gimnasio hasta el punto que parecía que iba a destrozarla con rayos láser como si fuera Homelander o Superman.
 
-![meme ligar chicas gimnasio](https://pau.ninja/wp-content/uploads/2023/03/meme-ligar-chicas-gimnasio.jpeg)
+![meme ligar chicas gimnasio](./wp-content/uploads/2023/03meme-ligar-chicas-gimnasio.jpeg)
 
 A parte de las miradas láser, lo segundo que hacen la mayoría de hombres del gym es «ocupar» el espacio de la mujer. Es decir, estar en una área bastante próxima a ella pero sin decir nada en absoluto. Por esto en los gimnasios verás que donde hay mujeres, los tíos se rodean allí y quizás muchos de forma involuntaria, pero se puede apreciar a quilómetros vista como casualmente las rutinas de gimnasio de cada hombre se «reordena» para hacer ese ejercicio a la máquina o al banco de al lado de esa(s) chica(s).
 
@@ -162,7 +152,7 @@ Aprovecha que este será el único contexto en el que estará bien visto que est
 
 Ir bien sudado significará que le estás dando duro a los hierros y estás centrado en tu propósito, pero esto no significa que puedas usar desodorante o algo de colonia.
 
-![pau ninja vistiendo ropa fitness](https://pau.ninja/wp-content/uploads/2023/03/pau-ninja-vistiendo-ropa-fitness.jpeg)
+![pau ninja vistiendo ropa fitness](./wp-content/uploads/2023/03pau-ninja-vistiendo-ropa-fitness.jpeg)
 
 Lo mismo con ir con los pelos de la nariz a ralla y con una buena [marca de ropa de gimnasio](https://mejoresmarcasde.com/ropa-fitness-gym-para-hombre/) (mira mi marca de camiseta y joggers ajustados que quedan genial9 que se ajuste bien a las formas trabajadas en el templo. Olvídate de ir de coloritos Quechua.
 
@@ -176,11 +166,11 @@ Cuando esto ocurra no quieres estar, no quieres estar haciendo sentadillas con m
 
 No. Olvida esto que en inglés llaman _egolifting_. Levantar más de la cuenta en presencia de mujeres es un comportamiento que he empezado a entender cuando he visto un estudio que confirmaba que sí, estar rodeado de mujeres en el gimnasio aumenta la testosterona, pero delante de mujeres [también](https://journals.sagepub.com/doi/10.1177/1948550609352807) aumentamos nuestro propio riesgo físico como muestra, como exhibición sexual de forma más o menos voluntaria.
 
-![estudio presencia mujeres aumenta riesgo](https://pau.ninja/wp-content/uploads/2023/03/estudio-presencia-mujeres-aumenta-riesgo.png)
+![estudio presencia mujeres aumenta riesgo](./wp-content/uploads/2023/03estudio-presencia-mujeres-aumenta-riesgo.png)
 
 En un contexto ancestral podría tener todo el sentido del mundo porque te esforzarías para cazar más, para ser el que arrastra más cantidad de carne al poblado, para ser útil para la tribu… esta exhibición de fuerza tendría una utilidad, una razón. Pero en un contexto de sociedad moderna, sólo sirve para quedar como un lelo en levantar un peso que levantas… sólo para levantar.
 
-Levantar mucho peso no es atractivo o ni siquiera impresionante. Levantar pesos con buena forma y [tener la mente bien contactado con el músculo](https://pau.ninja/conexion-mente-musculo/) es mucho más relevante para el s3xo femenino.
+Levantar mucho peso no es atractivo o ni siquiera impresionante. Levantar pesos con buena forma y [tener la mente bien contactado con el músculo](./conexion-mente-musculo) es mucho más relevante para el s3xo femenino.
 
 Si sólo muestras como vas a por todo pero lo haces mal, imagínate qué más harás mal después en privado con ella (cejas, cejas).
 
@@ -212,9 +202,9 @@ Hay estas frases generalistas como estos ejemplos que acabamos de ver pero tambi
 
 El caso es que los ejemplos de frases para ligar en el gimnasio sólo son un catalizador para **no usar la excusa para no saber qué decir**.
 
-Si el *vibe*, si el estado con el que estás es el correcto puedes simplemente ir allí y presentarte con un «te veo por aquí a menudo, sólo quería decirte hola». Y te vas a seguir con tu ejercicio tan tranquilo.
+Si el _vibe_, si el estado con el que estás es el correcto puedes simplemente ir allí y presentarte con un «te veo por aquí a menudo, sólo quería decirte hola». Y te vas a seguir con tu ejercicio tan tranquilo.
 
-En el *GymGame* no continúas la interacción a menos que ella esté muy receptiva desde el principio. El objetivo de hacer el primer comentario es abrir la puerta para preguntarle que tal el entreno otro día, porque la entrada en frío es un gimnasio no es tener una interacción entera sino **abrir la puerta**.
+En el _GymGame_ no continúas la interacción a menos que ella esté muy receptiva desde el principio. El objetivo de hacer el primer comentario es abrir la puerta para preguntarle que tal el entreno otro día, porque la entrada en frío es un gimnasio no es tener una interacción entera sino **abrir la puerta**.
 
 Una puerta en la que verás si ella también quiere abrir y entrar contigo. Con su reacción verás si está receptiva. No necesariamente si «es» receptiva, sino si lo está en ese momento. Si quiere seguir hablando, si está centrada en su entreno, si le ha importado ser interrumpida en su descanso, etc. La primera interacción por muy corta que sea ya te dará mucha información sobre la chica y su comportamiento.
 
@@ -228,7 +218,7 @@ El motivo es que el juego de gimnasio, este «gymgame» es un juego de medio pla
 
 Nunca en la vida pediría salir a la primera interacción con la chica del gym, y en el 99% de los casos tampoco pediría un contacto en la primera interacción. Aunque lógicamente uno tiene que ser un ninja de la vida y adaptarse a cada situación pero por experiencia casi nunca te encontrarás tal primera interacción que te haga ver super claro que es el momento perfecto para pedirle salir.
 
-![cómic charlar y ligar](https://pau.ninja/wp-content/uploads/2021/09/comic-charlar-y-ligar.png)
+![cómic charlar y ligar](./wp-content/uploads/2021/09comic-charlar-y-ligar.png)
 
 Una vez en Estonia le entré a una de las entrenadoras del gimnasio que competía en Bikini Fitness haciéndole un comentario sobre como iba vestida (de que iba vestida de Marvel y entrenando como una superhéroe o algo así), y aunque fuera la primera interacción, cuando le pregunté por su nombre, nos dimos la mano e hice una «mano de Dios» (…). O sea no es que la mantuviera cogida, si no que simplemente me pongo como regla **nunca soltar la mano yo primero**. Ella tampoco la soltó, así que continuamos hablando con las manos cogidas mientras nos mirábamos.
 
@@ -287,7 +277,7 @@ Una mujer atractiva tendrá el buzón de mensajes privados llenos de babosos que
 
 En cambio ella, al igual que tú, estará hablando en Whatsapp con personas que ya tiene una conexión en la vida real (o que tiene intención de conectar en algún futuro próximo en la vida real).
 
-Digamos que es un *funnel*, un embudo subconsciente que hace que tus mensajes vayan a destacar más.
+Digamos que es un _funnel_, un embudo subconsciente que hace que tus mensajes vayan a destacar más.
 
 Si ella misma te dice que prefiere darte el Instagram, lógicamente será mejor esto que nada. Es una forma más informal de dar el contacto y sólo significa que aún tendrás que picar un poquito más de piedra, aunque ya habrás pasado una barrera que el 99% de los tíos del gimnasio no pasarán nunca.
 
@@ -297,7 +287,7 @@ En [Sociedad Ninja](#unirse) tenemos un audiocurso de cómo abordar los mensajes
 
 Incluso si te dice que no, le das una buena sonrisa y le deseas un buen día, o le respondes que «ahora necesitaré aumentar mi cardio para reparar mi corazón roto por tu respuesta» mientras le sonrías.
 
-Si te llevas un rechazo, *shake it off* y siéntete orgulloso porque **ya has ganado**. Has tenido los huevos de entrarle, de estar hablando con ella, y de haberle pedido salir.
+Si te llevas un rechazo, _shake it off_ y siéntete orgulloso porque **ya has ganado**. Has tenido los huevos de entrarle, de estar hablando con ella, y de haberle pedido salir.
 
 Un rechazo significa que has tomado acción. Significa que has incorporado esta vivencia como una experiencia de referencia en tu subconsciente y que la próxima vez que lo hagas te será más cómodo, más fácil pero sobretodo… que ya tienes una respuesta 100% clara. No hay arrepentimientos. No hay películas que te hayas montado en la cabeza de «¿y si…?». Películas y escenarios que hacen mucho más daño que un «no» rotundo.
 
@@ -310,3 +300,89 @@ Un rechazo significa que has tomado acción. Significa que has incorporado esta 
 - **No te comuniques en medio de una serie:** no importa si es su serie, o tu serie. Sobretodo no la interrumpas en su serie porque es una falta de respeto a la actividad que ha venido expresamente a hacer, pero interrumpir tu set para comunicar cualquier cosa personalmente también pienso que muestra una falta de autorespeto por tu propia disciplina y esto se traduce tanto en tus acciones como en el pedestal en el que la estás poniendo.
 - **No des consejos de entrenamiento:** este debe ser el peor de los comportamientos de los gimnasios. A la par de no sacar y ordenar los discos y las mancuernas. Si no te piden exclusivamente que le des consejo de algo, no se lo des. Ni a ella, ni a nadie. En mi experiencia reaccionan mucho mejor si les pides tu consejo sobre algún ejercicio que ella está haciendo. Yo siempre utilizo la frase de «es que te he visto muy conectada mientras hacías X».
 - **No tontees de manera demasiado obvia:** el gimnasio es un sitio de culto y la seducción funciona de forma distinta que en una discoteca o que en la calle durante el día. No quieres ser demasiado directo (al menos al principio) porque además te puedes ganar una reputación que te haga cambiar del gimnasio. Hasta he escuchado de algunos tíos que los han echado, así que céntrate en picar piedra.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Relaciones](./relaciones)  
+O si quieres ser más específico:[Seducción](./seduccion)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/como-ligar-en-un-gym/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":16935,"title":"Los%2010%20pasos%20para%20LIGAR%20en%20el%20gimnasio%20%E3%80%90%2BTruco%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/03\\/hombre-ligando-en-el-gym.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

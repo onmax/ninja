@@ -1,20 +1,25 @@
 ---
 title: "La magia de colgarte de una barra 7 minutos al día"
+url: https://pau.ninja/colgarse-de-una-barra
+slug: colgarse-de-una-barra
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-colgandose-de-una-barra.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/05/persona-colgandose-de-una-barra.jpeg
 published: 2024-03-12T07:13:50+00:00
 modified: 2024-08-10T19:18:28+00:00
+scrappedAt: 2024-10-14T09:19:32.177Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3
-slug: colgarse-de-una-barra
+bibliography: ["University of Helsinki. «Most common shoulder operation is no more beneficial than placebo surgery: One of the most common surgical procedures in the Western world is probably unnecessary, suggests a new study.» ScienceDaily. ScienceDaily, 20 July 2018.","Mika Paavola, Antti Malmivaara, Simo Taimela, Kari Kanto, Jari Inkinen, Juha Kalske, Ilkka Sinisaari, Vesa Savolainen, Jonas Ranstam, Teppo L N Järvinen. Subacromial decompression versus diagnostic arthroscopy for shoulder impingement: randomised, placebo surgery controlled clinical trial.","“¿Qué Es El Síndrome de Pinzamiento Del Hombro? | San Diego Hospital, Healthcare.” 2019. Ucsd.edu.","“Hanging for Shoulder Pain: Expert’s Cure for All Causes – Posture Labs.” 2023. Posture Labs.","“Hueso Acromion.” 2020. Fisioterapia-Online.com."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3](https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3)
 
 Antes de bajar de los árboles de la Sabana, nuestros antepasados simios estaban todo el día colgados, aunque bueno… En la actualidad conozco algunos que siguen igual de colgados pero de otra forma.
 
 El caso es que hemos evolucionado en un entorno donde escalar y colgarse eran **más común que estar sentados**.
 
-Sólo por esto podemos concluir que el hombre ancestral, primitivo, tendría una [movilidad de hombros](https://pau.ninja/ejercicios-movilidad-hombro/) que sería la h0sti, porque afrontémoslo…
+Sólo por esto podemos concluir que el hombre ancestral, primitivo, tendría una [movilidad de hombros](./ejercicios-movilidad-hombro) que sería la h0sti, porque afrontémoslo…
 
 > La naturaleza no nos da músculos susceptible a ser lesionados. Es la sociedad moderna que nos ha dado unos hábitos posturales que incitan a que dejemos de usarlos para lo que están diseñados.
 
@@ -24,7 +29,7 @@ En los primeros años de vida los niños tienen cero problemas de movilidad: hac
 
 Incluso tienen una fuerza de agarre increíble.
 
-![bebé colgándose de una barra](https://pau.ninja/wp-content/uploads/2022/05/bebe-colgandose-barra.jpg)
+![bebé colgándose de una barra](./wp-content/uploads/2022/05bebe-colgandose-barra.jpg)
 
 Desgraciadamente a medida que crecen empiezan con malos hábitos posturales por culpa de estar con el móvil, al ordenador o sentados en sillas durante horas.
 
@@ -34,32 +39,7 @@ Es bueno para la columna, corrige el movilidad de hombros y postura, hasta puede
 
 Encima es un entrenamiento de antebrazos en si mismo. Y recordemos que unos buenos antebrazos, son incluso más visibles que unos buenos bíceps. Que acostumbran a estar más cubiertos por la ropa.
 
-Pero hay muchos más beneficios que harán que consideres empezar a *ser un colgado* cada día.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Beneficios de colgarse de una barra](#Beneficios_de_colgarse_de_una_barra 'Beneficios de colgarse de una barra')
-  - [Es bueno para la columna](#Es_bueno_para_la_columna 'Es bueno para la columna')
-  - [Corrige la poca movilidad](#Corrige_la_poca_movilidad 'Corrige la poca movilidad')
-  - [Puede arreglar problemas de hombros](#Puede_arreglar_problemas_de_hombros 'Puede arreglar problemas de hombros')
-  - [Ayuda a las hérnias discales](#Ayuda_a_las_hernias_discales 'Ayuda a las hérnias discales')
-  - [Postura correcta](#Postura_correcta 'Postura correcta')
-  - [Mejora el agarre](#Mejora_el_agarre 'Mejora el agarre')
-  - [Más fuerza en los hombros](#Mas_fuerza_en_los_hombros 'Más fuerza en los hombros')
-- [Las dos maneras de colgarse de la barra](#Las_dos_maneras_de_colgarse_de_la_barra 'Las dos maneras de colgarse de la barra')
-  - [Colgarse de forma pasiva](#Colgarse_de_forma_pasiva 'Colgarse de forma pasiva')
-  - [Colgarse de forma activa](#Colgarse_de_forma_activa 'Colgarse de forma activa')
-- [Maneras de colgarse según objetivos](#Maneras_de_colgarse_segun_objetivos 'Maneras de colgarse según objetivos')
-  - [Progresiones para aguantar más tiempo colgado de una barra](#Progresiones_para_aguantar_mas_tiempo_colgado_de_una_barra 'Progresiones para aguantar más tiempo colgado de una barra')
-- [Ejercicios colgado de una barra](#Ejercicios_colgado_de_una_barra 'Ejercicios colgado de una barra')
-  - [Iniciación: pasivo con soporte](#Iniciacion_pasivo_con_soporte 'Iniciación: pasivo con soporte')
-  - [Principiante: pasivo sin soporte](#Principiante_pasivo_sin_soporte 'Principiante: pasivo sin soporte')
-  - [Intermedio: colgarse de una barra 2 minutos](#Intermedio_colgarse_de_una_barra_2_minutos 'Intermedio: colgarse de una barra 2 minutos')
-  - [Intermedio-avanzado: colgarse de una mano](#Intermedio-avanzado_colgarse_de_una_mano 'Intermedio-avanzado: colgarse de una mano')
-  - [Avanzado: activo y dinámico](#Avanzado_activo_y_dinamico 'Avanzado: activo y dinámico')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
+Pero hay muchos más beneficios que harán que consideres empezar a _ser un colgado_ cada día.
 
 ## Beneficios de colgarse de una barra
 
@@ -69,9 +49,9 @@ Que alguien se lo diga a mí ex, por favor.
 
 El gurú del movimiento Ido Portal recomienda colgarse de una barra siete minutos al día… a ver.
 
-No conozco a nadie que pueda colgarse siete minutos de una tirada, pero lo que sugiere es que sigamos algún tipo de progresión como [el método Grease The Groove](https://pau.ninja/metodo-grease-the-groove/) (#362).
+No conozco a nadie que pueda colgarse siete minutos de una tirada, pero lo que sugiere es que sigamos algún tipo de progresión como [el método Grease The Groove](./metodo-grease-the-groove) (#362).
 
-Es decir, adoptar el hábito de hacer un *dead hang* no como un entrenamiento, sino como algo que hacemos durante nuestro día a día.
+Es decir, adoptar el hábito de hacer un _dead hang_ no como un entrenamiento, sino como algo que hacemos durante nuestro día a día.
 
 Colgarnos siempre que podamos (poniendo una barra en el medio del salón si hace falta), y cuando la veamos, simplemente colgarnos 20-30 segundos hasta llegar a al menos estos 7 minutos diarios.
 
@@ -91,19 +71,19 @@ Pero otro de los beneficios que nos da es la movilidad, algo que me di cuenta qu
 
 No lo sabía, pero mantenerse recto completamente (pino de gimnasta) depende en gran parte de los deltoides y la movilidad de tus hombros.
 
-Vale, sí. [Hay ejercicios de movilidad de hombros](https://pau.ninja/ejercicios-movilidad-hombro/) que ayudan y que sigo haciendo, pero ¿por qué no incorporar unas _buenas colgadas_ de barra, si no solo nos da beneficios para hacer el pino sino que a la vez estás adquiriendo muchas cosas más?
+Vale, sí. [Hay ejercicios de movilidad de hombros](./ejercicios-movilidad-hombro) que ayudan y que sigo haciendo, pero ¿por qué no incorporar unas _buenas colgadas_ de barra, si no solo nos da beneficios para hacer el pino sino que a la vez estás adquiriendo muchas cosas más?
 
 Y no soy el único, porque a la mayoría les falta movilidad general.
 
-Estamos en esa posición de curvatura mirando el móvil o escribiendo en el portátil, y es j0did0 porque la evidencia sugiere que las cirugías de hombro para corregir esto, sirven poco más que un placebo.[1](<javascript:void(0)>)University of Helsinki. «Most common shoulder operation is no more beneficial than placebo surgery: One of the most common surgical procedures in the Western world is probably unnecessary, suggests a new study.» ScienceDaily. ScienceDaily, 20 July 2018.[2](<javascript:void(0)>)Mika Paavola, Antti Malmivaara, Simo Taimela, Kari Kanto, Jari Inkinen, Juha Kalske, Ilkka Sinisaari, Vesa Savolainen, Jonas Ranstam, Teppo L N Järvinen. Subacromial decompression versus diagnostic arthroscopy for shoulder impingement: randomised, placebo surgery controlled clinical trial.
+Estamos en esa posición de curvatura mirando el móvil o escribiendo en el portátil, y es j0did0 porque la evidencia sugiere que las cirugías de hombro para corregir esto, sirven poco más que un placebo.[ref-1](#ref-1){.ref}[ref-2](#ref-2){.ref}
 
 En cambio colgarse de la barra ayuda porque nos pone de vuelta a esa posición por encima de la cabeza.
 
-O sea que no sólo restablece una posición que es útil para montones de tareas, sino que también reduce la posibilidad de pinzamiento del manguito rotador del hombro.[3](<javascript:void(0)>)“¿Qué Es El Síndrome de Pinzamiento Del Hombro? | San Diego Hospital, Healthcare.” 2019. Ucsd.edu.
+O sea que no sólo restablece una posición que es útil para montones de tareas, sino que también reduce la posibilidad de pinzamiento del manguito rotador del hombro.[ref-3](#ref-3){.ref}
 
 ### Puede arreglar problemas de hombros
 
-Un cirujano ortopédico, Dr. John Kirsch, que sufrió una lesión en el hombro, vio que la cirugía no le solucionó absolutamente nada.[4](<javascript:void(0)>)“Hanging for Shoulder Pain: Expert’s Cure for All Causes – Posture Labs.” 2023. Posture Labs.
+Un cirujano ortopédico, Dr. John Kirsch, que sufrió una lesión en el hombro, vio que la cirugía no le solucionó absolutamente nada.[ref-4](#ref-4){.ref}
 
 Debe ser frustrante de tener esta epifanía si encima te dedicas a ello, pero el tío empezó a colgarse de una barra durante 1 minuto al día y de pronto…
 
@@ -115,9 +95,9 @@ El dolor desapareció.
 
 Como buen especialista, se obsesionó con intentar entender porque ocurría. Porque era tan beneficioso para el hombro el hecho de colgarse.
 
-Descubrió que como dejamos de usar el rango completo de movimiento, lo que sucede es que un hueso en la articulación con el nombre de acromion, empieza a curvarse.[5](<javascript:void(0)>)“Hueso Acromion.” 2020. Fisioterapia-Online.com.
+Descubrió que como dejamos de usar el rango completo de movimiento, lo que sucede es que un hueso en la articulación con el nombre de acromion, empieza a curvarse.[ref-5](#ref-5){.ref}
 
-![dónde está el acromion](https://pau.ninja/wp-content/uploads/2024/03/donde-esta-el-acromion.jpeg)
+![dónde está el acromion](./wp-content/uploads/2024/03donde-esta-el-acromion.jpeg)
 
 Sin entrar súper al detalle, es perjudicial porque esta curvatura hace que haya menos espacio entre el acromion y el húmero, y los tendones que hay por ahí se muevan con menos libertad que la que da la Agencia Tributaria española.
 
@@ -139,7 +119,7 @@ Colgarse de la barra puede ayudar con una [hernia discal](https://medlineplus.go
 
 Y no sólo en lesiones, sino que colgarnos ayuda a nuestra postura general.
 
-Mucho más efectivo que lo que siempre te ha dicho tu padre de *ponte recto*.
+Mucho más efectivo que lo que siempre te ha dicho tu padre de _ponte recto_.
 
 Y es que forzar esto de «tirar los hombros hacia atrás poniendo pecho palomo» no es demasiada buena posición por las malas posturas que tenemos.
 
@@ -169,7 +149,7 @@ Porque si no te puedes aguantar, como vas a darle la opción al músculo de lleg
 
 A mí hasta me ha ayudado con **ser más fuerte de hombros**.
 
-Especialmente lo he notado en posiciones más inestables (como mi inestabilidad emocional), como cuando estoy haciendo el pino o una [buena frog stand](https://pau.ninja/como-hacer-frog-stand/).
+Especialmente lo he notado en posiciones más inestables (como mi inestabilidad emocional), como cuando estoy haciendo el pino o una [buena frog stand](./como-hacer-frog-stand).
 
 ## Las dos maneras de colgarse de la barra
 
@@ -196,9 +176,9 @@ En cambio si nos colgamos de forma activa, la cosa cambia. Es casi como si fuér
 
 O sea estamos retrayendo los hombros para aguantar tu peso pero ligeramente.
 
-Mantendremos los brazos totalmente rectos pero contrayendo los hombros y el *core* para hacernos más rígidos que tu «madera mañanera».
+Mantendremos los brazos totalmente rectos pero contrayendo los hombros y el _core_ para hacernos más rígidos que tu «madera mañanera».
 
-En este caso el *active hang* destaca por ser más un ejercicio de estabilidad para que ayude desde… *press* de banca hasta las sesiones de rocódromo para escalar.
+En este caso el _active hang_ destaca por ser más un ejercicio de estabilidad para que ayude desde… _press_ de banca hasta las sesiones de rocódromo para escalar.
 
 ## Maneras de colgarse según objetivos
 
@@ -227,7 +207,7 @@ Tanto si no tienes suficiente fuerza como si tienes un problema de hombros y col
 
 En este caso es más recomendable que inicialmente encontremos una postura donde estemos cómodos y el hombro no duela. Quizás sería dándonos soporte con los pies en el suelo, en vez de darle todo el peso al cuerpo.
 
-Pero lógicamente, [como toda sobrecarga progresiva en el gym](https://pau.ninja/sobrecarga-progresiva-gym/), a medida que vamos progresando vamos minimizando la carga que nos estamos dando con los pies. Rollo, en vez de los dos pies en el suelo ahora sólo pones uno.
+Pero lógicamente, [como toda sobrecarga progresiva en el gym](./sobrecarga-progresiva-gym), a medida que vamos progresando vamos minimizando la carga que nos estamos dando con los pies. Rollo, en vez de los dos pies en el suelo ahora sólo pones uno.
 
 ### Iniciación: pasivo con soporte
 
@@ -238,27 +218,3 @@ Pero lógicamente, [como toda sobrecarga progresiva en el gym](https://pau.ninja
 ### Intermedio-avanzado: colgarse de una mano
 
 ### Avanzado: activo y dinámico
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  University of Helsinki. «Most common shoulder operation is no more beneficial than placebo surgery: One of the most common surgical procedures in the Western world is probably unnecessary, suggests a new study.» ScienceDaily. ScienceDaily, 20 July 2018.
-
-- 2
-
-  Mika Paavola, Antti Malmivaara, Simo Taimela, Kari Kanto, Jari Inkinen, Juha Kalske, Ilkka Sinisaari, Vesa Savolainen, Jonas Ranstam, Teppo L N Järvinen. Subacromial decompression versus diagnostic arthroscopy for shoulder impingement: randomised, placebo surgery controlled clinical trial.
-
-- 3
-
-  “¿Qué Es El Síndrome de Pinzamiento Del Hombro? | San Diego Hospital, Healthcare.” 2019. Ucsd.edu.
-
-- 4
-
-  “Hanging for Shoulder Pain: Expert’s Cure for All Causes – Posture Labs.” 2023. Posture Labs.
-
-- 5
-
-  “Hueso Acromion.” 2020. Fisioterapia-Online.com.

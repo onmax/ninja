@@ -1,16 +1,23 @@
 ---
-title: "Masturbarse para (no) aumentar la testosterona La relación entre el Fap y las hormonas masculinas"
+title: "Masturbarse para (no) aumentar la testosterona"
+url: https://pau.ninja/la-masturbacion-y-la-testosterona
+slug: la-masturbacion-y-la-testosterona
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
+  - slug: masculinidad
+    label: Masculinidad
 image: hombre-mano-destrozada.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/10/hombre-mano-destrozada.jpeg
 published: 2022-09-11T06:29:08+00:00
 modified: 2023-09-21T05:29:53+00:00
+scrappedAt: 2024-10-14T09:20:29.728Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60342135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F295911381-44100-2-597ecd4719d42.mp3
-slug: la-masturbacion-y-la-testosterona
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/60342135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F295911381-44100-2-597ecd4719d42.mp3](https://anchor.fm/s/98566448/podcast/play/60342135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F295911381-44100-2-597ecd4719d42.mp3)
 
-«Pau ya nos dijiste [lo malo que es el porno](https://pau.ninja/es-malo-ver-porno/), ahora seguro que nos vienes a quitar la masturbación.»
+«Pau ya nos dijiste [lo malo que es el porno](./es-malo-ver-porno), ahora seguro que nos vienes a quitar la masturbación.»
 
 Pues queridos ninjas de la vida… hoy os voy a sorprender.
 
@@ -25,24 +32,9 @@ La conclusión a la que he llegado no es extremista… pero también (por desgra
 
 Vamos a ver qué dicen tanto las falacias como la evidencia de usar la masturbación como herramienta para aumentar o disminuir el nivel de testosterona.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Cómo afecta la masturbación a la producción de testosterona](#Como_afecta_la_masturbacion_a_la_produccion_de_testosterona 'Cómo afecta la masturbación a la producción de testosterona')
-  - [Cuando no masturbarse aumenta la testosterona](#Cuando_no_masturbarse_aumenta_la_testosterona 'Cuando no masturbarse aumenta la testosterona')
-  - [Cuando no masturbarse disminuye la testosterona](#Cuando_no_masturbarse_disminuye_la_testosterona 'Cuando no masturbarse disminuye la testosterona')
-  - [El nivel de testosterona después de la masturbación](#El_nivel_de_testosterona_despues_de_la_masturbacion 'El nivel de testosterona después de la masturbación')
-  - [Cuando la masturbación baja la testosterona](#Cuando_la_masturbacion_baja_la_testosterona 'Cuando la masturbación baja la testosterona')
-  - [Cuando la eyaculación afecta la testosterona](#Cuando_la_eyaculacion_afecta_la_testosterona 'Cuando la eyaculación afecta la testosterona')
-- [¿La masturbación aumenta o disminuye el nivel de testosterona?](#%C2%BFLa_masturbacion_aumenta_o_disminuye_el_nivel_de_testosterona '¿La masturbación aumenta o disminuye el nivel de testosterona?')
-- [Conclusión de la masturbación y la testosterona](#Conclusion_de_la_masturbacion_y_la_testosterona 'Conclusión de la masturbación y la testosterona')
-  - [Rutina de masturbación para subir la testosterona](#Rutina_de_masturbacion_para_subir_la_testosterona 'Rutina de masturbación para subir la testosterona')
-  - [Formas naturales de aumentar la testosterona](#Formas_naturales_de_aumentar_la_testosterona 'Formas naturales de aumentar la testosterona')
-
 ## Cómo afecta la masturbación a la producción de testosterona
 
-Desmantelamos por completo cómo afecta la pornografía en el cerebro haciendo que crear [una adicción al porno](https://pau.ninja/adiccion-al-porno/) no sólo sea fácil, sino común en la sociedad actual. Con esto vemos como la conspiranoia de que las élites quieren que el porno sea gratis para bajarnos los niveles de energía y cosas así pasan a ser muy plausibles.
+Desmantelamos por completo cómo afecta la pornografía en el cerebro haciendo que crear [una adicción al porno](./adiccion-al-porno) no sólo sea fácil, sino común en la sociedad actual. Con esto vemos como la conspiranoia de que las élites quieren que el porno sea gratis para bajarnos los niveles de energía y cosas así pasan a ser muy plausibles.
 
 El comentario número uno que recibí fue, «vale Pau, no ver porno tiene sentido pero… ¿y la masturbación?» En la [comunidad](#unirse) comparto un episodio privado contando los experimentos que he hecho conmigo mismo, estando hasta 140 días sin eyacular, haciéndolo de forma intermitente, compulsiva… bueno. No voy a entrar en más detalles en abierto.
 
@@ -52,9 +44,9 @@ Yo pensé, «la única manera de [tener superpoderes en la vida real](https://ww
 
 Los NoFapers hacían referencia a algún que otro estudio, pero tenía la sensación que cogían sólo lo que les interesaba. Que además creaban muchas hipótesis sin concluir, pero bueno. Yo salté al maravilloso mundo del celibato llegando a los 140 días de no tocarme.
 
-![meme nofap noviembre](https://pau.ninja/wp-content/uploads/2022/09/meme-nofap-noviembre.jpeg)
+![meme nofap noviembre](./wp-content/uploads/2022/09meme-nofap-noviembre.jpeg)
 
-Ha sido recientemente, con esto de los [beneficios de No Nut November](https://pau.ninja/no-nut-november-beneficios/) que salté a sumergirme más en la evidencia científica y me di cuenta que no andaba del todo equivocado. Que realmente se cogían cosas con pinzas y se exuberaban las hipótesis.
+Ha sido recientemente, con esto de los [beneficios de No Nut November](./no-nut-november-beneficios) que salté a sumergirme más en la evidencia científica y me di cuenta que no andaba del todo equivocado. Que realmente se cogían cosas con pinzas y se exuberaban las hipótesis.
 
 ### Cuando no masturbarse aumenta la testosterona
 
@@ -64,7 +56,7 @@ Y ojo porque este número es la media. Hubo tíos del estudio que les subió has
 
 Lo que se vio es que la testosterona fue subiendo poco a poco desde el primer día que los sujetos dejaron de jugar con su zambomba.
 
-![estudio masturbación testosterona](https://pau.ninja/wp-content/uploads/2022/10/estudio-masturbacion-testosterona.png)
+![estudio masturbación testosterona](./wp-content/uploads/2022/10estudio-masturbacion-testosterona.png)
 
 Subiendo sobretodo a partir del día 5, subida dramática el día 6 y llegando a un pico el día 7. **Pero…** esa subida **no** se mantuvo ahí. A partir de la segunda semana (el día 8) la testosterona bajó de nuevo a niveles normales.
 
@@ -88,7 +80,7 @@ Vemos un incremento de testosterona de casi un 150% al no masturbarnos durante 8
 
 Tiene sentido, pero ¿por qué baja a partir la testosterona a niveles normales a partir del día 8?
 
-![testosterona sin masturbación](https://pau.ninja/wp-content/uploads/2022/09/testosterona-sin-masturbacion.jpeg)
+![testosterona sin masturbación](./wp-content/uploads/2022/09testosterona-sin-masturbacion.jpeg)
 
 Aunque no haya estudio de NoFap largoplacistas de hombres que no se masturbaran pasadas las dos semanas, tenemos que [agradecer](https://onlinelibrary.wiley.com/doi/full/10.1046/j.1365-2605.1999.00196.x) a unos sujetos con disfunción eréctil.
 
@@ -98,7 +90,7 @@ Lo que sucedió es que…
 
 Estáis esperando a que diga que les subió la testosterona hasta el Templo Sagrado de Kami, ¿verdad?
 
-![meme testosterona fácil](https://pau.ninja/wp-content/uploads/2022/10/meme-testosterona-facil.jpeg)
+![meme testosterona fácil](./wp-content/uploads/2022/10meme-testosterona-facil.jpeg)
 
 Pues lo siento porque sucedió lo contrario. A estos tíos les bajó (además de forma significativa la testosterona sérica).
 
@@ -150,7 +142,7 @@ Igualmente fijaros que tampoco se sabe durante cuanto tiempo se mantuvieron eso
 
 ## ¿La masturbación aumenta o disminuye el nivel de testosterona?
 
-Hay [formas naturales (alimentos) para aumentar la testosterona](https://pau.ninja/alimentos-aumentan-testosterona/). Comer unas buenas criadillas es ideal por ejemplo. Que crean un entorno para que la testosterona pueda producirse.
+Hay [formas naturales (alimentos) para aumentar la testosterona](./alimentos-aumentan-testosterona). Comer unas buenas criadillas es ideal por ejemplo. Que crean un entorno para que la testosterona pueda producirse.
 
 Pero si tengo que mojarme y llegar a una conclusión es que… bueno. Los hombres **se corren demasiado**. O más bien dicho, se masturban demasiado.
 
@@ -166,7 +158,7 @@ Con los estudios de los picos de testosterona, y después de haber experimentand
 - Pero si te masturbas «demasiado» estás reduciendo la capacidad del hipotálamo para utilizarla.
 - Está demostrado que **hacer pequeños periodos de abstinencia aumenta la testosterona**.
 - En cambio **bajará** en periodos de largo plazo.
-- Las relaciones sexuales con una **pareja de verdad aumentan la testosterona** también durante un periodo cortito aunque indefinido. Otra prueba de que [ver porno es malo](https://pau.ninja/es-malo-ver-porno/).
+- Las relaciones sexuales con una **pareja de verdad aumentan la testosterona** también durante un periodo cortito aunque indefinido. Otra prueba de que [ver porno es malo](./es-malo-ver-porno).
 
 En resumen, no masturbarse aumenta los niveles de testosterona a corto plazo, pero no lo hace a medio y largo plazo (es más a largo plazo se reduce con los estudios que he citado antes). También sabemos que la masturbación excesiva reduce la capacidad del cuerpo para utilizar esta testosterona, además de segregar [prolatina](https://www.google.com/search?q=prolactina+masturbacion&oq=prolactina+masturbacion&aqs=chrome..69i57.1461j0j1&sourceid=chrome&ie=UTF-8) y quedar destrozado.
 
@@ -192,6 +184,97 @@ Mi experiencia con el NoFap es que después de unas semanas te has quedado igual
 
 La evidencia nos dice que claro que hay un pico de testosterona. Por esto sientes esas ganas locas de tocarte y por eso la primera semana es tan difícil adherirte. Pero pasado ese tiempo… pum. Llegas a una meseta en la que a penas tienes ganas.
 
-Y creedme que si sigues semanas y semanas, cuando quedes con una nueva amiga, quizás por mucho que intentes [retrasar la eyaculación](https://pau.ninja/retrasar-la-eyaculacion-masculina/) ya «lo has perdido», por todo el tiempo que llevabas sin tocarte.
+Y creedme que si sigues semanas y semanas, cuando quedes con una nueva amiga, quizás por mucho que intentes [retrasar la eyaculación](./retrasar-la-eyaculacion-masculina) ya «lo has perdido», por todo el tiempo que llevabas sin tocarte.
 
 Es fascinante que hay muchas cosas en el cuerpo que **se regulan por estimulación**.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Desarrollo personal](./desarrollo-personal)  
+O si quieres ser más específico:[Masculinidad](./masculinidad)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/la-masturbacion-y-la-testosterona/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14396,"title":"5%20formas%20en%20c%C3%B3mo%20masturbarte%20afecta%20tu%20testosterona","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/10\\/hombre-mano-destrozada.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

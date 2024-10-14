@@ -1,13 +1,18 @@
 ---
-title: "Horarios ancestrales o por qué hacer tu comida igual que los indígenas"
+title: "Horarios ancestrales"
+url: https://pau.ninja/horarios-comida
+slug: horarios-comida
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-comiendo-fuera-de-horarios.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/02/persona-comiendo-fuera-de-horarios.jpeg
 published: 2024-02-09T06:37:52+00:00
 modified: 2024-05-21T19:48:31+00:00
+scrappedAt: 2024-10-14T09:19:35.630Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83422749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-1%2F369351754-44100-2-c8bd12c382287.mp3
-slug: horarios-comida
+bibliography: ["Mattson MP, Allison DB, Fontana L, Harvie M, Longo VD, Malaisse WJ, Mosley M, Notterpek L, Ravussin E, Scheer FA, Seyfried TN, Varady KA, Panda S. Meal frequency and timing in health and disease. Proc Natl Acad Sci U S A. 2014 Nov 25;111(47):16647-53. doi: 10.1073/pnas.1413965111. Epub 2014 Nov 17. PMID: 25404320; PMCID: PMC4250148.","Charlot A, Hutt F, Sabatier E, Zoll J. Beneficial Effects of Early Time-Restricted Feeding on Metabolic Diseases: Importance of Aligning Food Habits with the Circadian Clock. Nutrients. 2021 Apr 22;13(5):1405. doi: 10.3390/nu13051405. PMID: 33921979; PMCID: PMC8143522.","Colaboradores. 2007. “Núcleo Supraquiasmático.” Wikipedia.org.","Jacinto. 2018. “Células Ganglionares de La Retina.” Asociación Mácula Retina.","Alberto Pérez-León, Jorge, and R Brown. 2008. LAS CÉLULAS CON MELANOPSINA: NUEVOS FOTORRECEPTORES EN LA RETINA de LOS VERTEBRADOS\\*.","London, A., Benhar, I. & Schwartz, M. The retina as a window to the brain—from eye research to CNS disorders. Nat Rev Neurol 9, 44–53 (2013).","Guan, Dongyin & Lazar, Mitchell. (2021). Interconnections between circadian clocks and metabolism. Journal of Clinical Investigation. 131. 10.1172/JCI148278.","James SM, Honn KA, Gaddameedhi S, Van Dongen HPA. Shift Work: Disrupted Circadian Rhythms and Sleep-Implications for Health and Well-Being. Curr Sleep Med Rep. 2017 Jun;3(2):104-112. doi: 10.1007/s40675-017-0071-6. Epub 2017 Apr 27. PMID: 29057204; PMCID: PMC5647832.","Boivin DB, Boudreau P, Kosmadopoulos A. Disturbance of the Circadian System in Shift Work and Its Health Impact. J Biol Rhythms. 2022 Feb;37(1):3-28. doi: 10.1177/07487304211064218. Epub 2021 Dec 30. PMID: 34969316; PMCID: PMC8832572.","Haus, Erhard & Smolensky, Michael. (2006). Biological Clocks and Shift Work: Circadian Dysregulation and Potential Long-term Effects. Cancer causes & control : CCC. 17. 489-500. 10.1007/s10552-005-9015-4.","Erren TC, Reiter RJ. Defining chronodisruption. J Pineal Res. 2009 Apr;46(3):245-7. doi: 10.1111/j.1600-079X.2009.00665.x. Epub 2009 Feb 9. PMID: 19215573.","Vetter C. Circadian disruption: What do we actually mean? Eur J Neurosci. 2020 Jan;51(1):531-550. doi: 10.1111/ejn.14255. Epub 2018 Dec 5. PMID: 30402904; PMCID: PMC6504624.","Potter GD, Skene DJ, Arendt J, Cade JE, Grant PJ, Hardie LJ. Circadian Rhythm and Sleep Disruption: Causes, Metabolic Consequences, and Countermeasures. Endocr Rev. 2016 Dec;37(6):584-608. doi: 10.1210/er.2016-1083. Epub 2016 Oct 20. PMID: 27763782; PMCID: PMC5142605.","Gamble KL, Young ME. Metabolism as an integral cog in the mammalian circadian clockwork. Crit Rev Biochem Mol Biol. 2013 Jul-Aug;48(4):317-31. doi: 10.3109/10409238.2013.786672. Epub 2013 Apr 17. PMID: 23594144; PMCID: PMC3862897.","Xie, X., Kukino, A., Calcagno, H.E. et al. Natural food intake patterns have little synchronizing effect on peripheral circadian clocks. BMC Biol 18, 160 (2020).","O’Connor T. The Archaeology of Animal Bones. The History Press; Cheltenham, UK: 2013.","Mattson, Mark. (2019). An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition. Trends in Cognitive Sciences. 23. 10.1016/j.tics.2019.01.003.","Franceschi, Claudio & Ostan, Rita & Santoro, Aurelia. (2018). Nutrition and Inflammation: Are Centenarians Similar to Individuals on Calorie-Restricted Diets?. Annual Review of Nutrition. 38. 10.1146/annurev-nutr-082117-051637.","Boyd P, O’Connor SG, Heckman-Stoddard BM, Sauter ER. Time-Restricted Feeding Studies and Possible Human Benefit. JNCI Cancer Spectr. 2022 May 2;6(3):pkac032. doi: 10.1093/jncics/pkac032. PMID: 35657339; PMCID: PMC9165551.","Vega, Carmen & Barnafi, Esteban & Sanchez, Cesar & Acevedo, Francisco & Walbaum, Benjamin & Parada, Alejandra & Rivas, Nicolás & Merino, Tomas. (2023). Calorie Restriction and Time-Restricted Feeding: Effective Interventions in Overweight or Obese Patients Undergoing Radiotherapy Treatment with Curative Intent for Cancer. 10.20944/preprints202312.2207.v1.","Tacad DKM, Tovar AP, Richardson CE, Horn WF, Krishnan GP, Keim NL, Krishnan S. Satiety Associated with Calorie Restriction and Time-Restricted Feeding: Peripheral Hormones. Adv Nutr. 2022 Jun 1;13(3):792-820. doi: 10.1093/advances/nmac014. PMID: 35191467; PMCID: PMC9156388.","Pickering, J, and J Halford. 2016. “Hunger.” Elsevier EBooks, January, 363–368. doi:https://doi.org/10.1016/b978-0-12-384947-2.00381-0. ‌","+13 estudios: “Why Is Sleep Important to Weight Loss? | Sleep Foundation.” 2020. Sleep Foundation."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/83422749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-1%2F369351754-44100-2-c8bd12c382287.mp3](https://anchor.fm/s/98566448/podcast/play/83422749/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-1%2F369351754-44100-2-c8bd12c382287.mp3)
 
 Los mejores horarios en los que hacer comida serán los mismos que seguían tanto tus ancestros como los indígenas de hoy en día.
@@ -16,23 +21,7 @@ Es así de sencillo.
 
 Pero como somos unos ninjas de la vida queremos entender (al menos superficialmente) las razones.
 
-Y lógicamente exactamente *cuando* son estos horarios.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Los mejores horarios para hacer tus comidas](#Los_mejores_horarios_para_hacer_tus_comidas 'Los mejores horarios para hacer tus comidas')
-- [Por qué los horarios de comida son tan importantes](#Por_que_los_horarios_de_comida_son_tan_importantes 'Por qué los horarios de comida son tan importantes')
-- [En qué momento del día es mejor comer](#En_que_momento_del_dia_es_mejor_comer 'En qué momento del día es mejor comer')
-- [Qué es la cronodisrupción](#Que_es_la_cronodisrupcion 'Qué es la cronodisrupción')
-- [Cómo afecta el ritmo circadiano a los órganos](#Como_afecta_el_ritmo_circadiano_a_los_organos 'Cómo afecta el ritmo circadiano a los órganos')
-- [Cuántas veces al día deberíamos comer](#Cuantas_veces_al_dia_deberiamos_comer 'Cuántas veces al día deberíamos comer')
-- [Cómo deberían ser los horarios de las comidas](#Como_deberian_ser_los_horarios_de_las_comidas 'Cómo deberían ser los horarios de las comidas')
-- [Una dieta sin cronodisrupción](#Una_dieta_sin_cronodisrupcion 'Una dieta sin cronodisrupción')
-- [¿Comer antes de ir a dormir?](#%C2%BFComer_antes_de_ir_a_dormir '¿Comer antes de ir a dormir?')
-- [Cómo curar la cronodisrupción](#Como_curar_la_cronodisrupcion 'Cómo curar la cronodisrupción')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
+Y lógicamente exactamente _cuando_ son estos horarios.
 
 ## Los mejores horarios para hacer tus comidas
 
@@ -46,7 +35,7 @@ Navega por el contenido
 
 ## Por qué los horarios de comida son tan importantes
 
-Cuando [empezamos con la dieta carnívora](https://pau.ninja/dieta-carnivora/), nos daremos cuenta que esos paquetes coloridos de comida lujosa de otras partes del planeta, resulta que no existían en la época de nuestros ancestros.
+Cuando [empezamos con la dieta carnívora](./dieta-carnivora), nos daremos cuenta que esos paquetes coloridos de comida lujosa de otras partes del planeta, resulta que no existían en la época de nuestros ancestros.
 
 ¿Sabéis lo que no es fan fácil darse cuenta?
 
@@ -62,13 +51,13 @@ Nuestros antepasados seguramente tenían las rutinas más marcadas que jamás ha
 
 El hombre ancestral no iba cambiando de zonas horarias o de latitud en cuestión de horas (a menos que creas que los Picapiedra son reales).
 
-![meme ritmos circadianos](https://pau.ninja/wp-content/uploads/2024/02/meme-ritmos-circadianos.jpeg)
+![meme ritmos circadianos](./wp-content/uploads/2024/02meme-ritmos-circadianos.jpeg)
 
 Es por esto que hay tantos problemas con el sueño y porque nuestros cuerpos sufren tanto cuando viajamos.
 
 Pero desgraciadamente, puedes quedarte en tu pueblo, no viajar nunca y aún así, que el entorno en el que estás sea un multiplicador tóxico para tu salud.
 
-Muchos ya sabéis como el cuerpo humano está dictado por los famosos *ritmos circadianos* que predicen cuando deberíamos estar despiertos y activos, durmiendo y descansando.
+Muchos ya sabéis como el cuerpo humano está dictado por los famosos _ritmos circadianos_ que predicen cuando deberíamos estar despiertos y activos, durmiendo y descansando.
 
 Lo que muchos no nos hemos tomado en serio durante muchos años o que incluso no sabíamos es que estos ritmos circadianos dictan incluso **cuando deberíamos comer**. O más bien dicho:
 
@@ -82,7 +71,7 @@ Y logicamente nuestra salud general.
 
 > Por esto los estudios acompañan al sentido común, concluyendo como nuestra salud no se basa sólo en qué comer, sino cuando comemos.
 
-Si comemos _cuando no toca_ estamos señalizando al cuerpo que es una hora que no es, haciéndonos un poquito menos sanos.[1](<javascript:void(0)>)Mattson MP, Allison DB, Fontana L, Harvie M, Longo VD, Malaisse WJ, Mosley M, Notterpek L, Ravussin E, Scheer FA, Seyfried TN, Varady KA, Panda S. Meal frequency and timing in health and disease. Proc Natl Acad Sci U S A. 2014 Nov 25;111(47):16647-53. doi: 10.1073/pnas.1413965111. Epub 2014 Nov 17. PMID: 25404320; PMCID: PMC4250148.[2](<javascript:void(0)>)Charlot A, Hutt F, Sabatier E, Zoll J. Beneficial Effects of Early Time-Restricted Feeding on Metabolic Diseases: Importance of Aligning Food Habits with the Circadian Clock. Nutrients. 2021 Apr 22;13(5):1405. doi: 10.3390/nu13051405. PMID: 33921979; PMCID: PMC8143522.
+Si comemos _cuando no toca_ estamos señalizando al cuerpo que es una hora que no es, haciéndonos un poquito menos sanos.[ref-1](#ref-1){.ref}[ref-2](#ref-2){.ref}
 
 En humanos, las alteración circadiana se ha encontrado en más del 10% de esos genes que influyen en casi todas las vías metabólicas, neurológicas y endocrinas de nuestro cuerpo.
 
@@ -94,19 +83,19 @@ Los ritmos de naturales de 24 horas impregnan todo el reino animal e incluso el 
 
 Y todos estas especies tenemos unos mecanismos muy similares.
 
-Dentro del cerebro (en el hipotálamo) tenemos una especie de «reloj maestro».[3](<javascript:void(0)>)Colaboradores. 2007. “Núcleo Supraquiasmático.” Wikipedia.org.
+Dentro del cerebro (en el hipotálamo) tenemos una especie de «reloj maestro».[ref-3](#ref-3){.ref}
 
-Este reloj responde a ciclos de todo el día. Es decir: ciclos de luz y oscuridad a través de unas células que tenemos en las retinas.[4](<javascript:void(0)>)Jacinto. 2018. “Células Ganglionares de La Retina.” Asociación Mácula Retina.[5](<javascript:void(0)>)Alberto Pérez-León, Jorge, and R Brown. 2008. LAS CÉLULAS CON MELANOPSINA: NUEVOS FOTORRECEPTORES EN LA RETINA de LOS VERTEBRADOS\*.
+Este reloj responde a ciclos de todo el día. Es decir: ciclos de luz y oscuridad a través de unas células que tenemos en las retinas.[ref-4](#ref-4){.ref}[ref-5](#ref-5){.ref}
 
-Porque recordad que los ojos, en el fondo son parte del cerebro. *Son* cerebro. La única parte del cerebro que tenemos en contacto con el exterior.[6](<javascript:void(0)>)London, A., Benhar, I. & Schwartz, M. The retina as a window to the brain—from eye research to CNS disorders. Nat Rev Neurol 9, 44–53 (2013).
+Porque recordad que los ojos, en el fondo son parte del cerebro. _Son_ cerebro. La única parte del cerebro que tenemos en contacto con el exterior.[ref-6](#ref-6){.ref}
 
-> Por esto ahora sabemos que cuando la luz artificial de nuestras casas (nuestras lámparas, nuestras pantallas, nuestros LED…) entran en juego, nos alteran el reloj circadiano.[7](<javascript:void(0)>)Guan, Dongyin & Lazar, Mitchell. (2021). Interconnections between circadian clocks and metabolism. Journal of Clinical Investigation. 131. 10.1172/JCI148278. [8](<javascript:void(0)>)James SM, Honn KA, Gaddameedhi S, Van Dongen HPA. Shift Work: Disrupted Circadian Rhythms and Sleep-Implications for Health and Well-Being. Curr Sleep Med Rep. 2017 Jun;3(2):104-112. doi: 10.1007/s40675-017-0071-6. Epub 2017 Apr 27. PMID: 29057204; PMCID: PMC5647832.[9](<javascript:void(0)>)Boivin DB, Boudreau P, Kosmadopoulos A. Disturbance of the Circadian System in Shift Work and Its Health Impact. J Biol Rhythms. 2022 Feb;37(1):3-28. doi: 10.1177/07487304211064218. Epub 2021 Dec 30. PMID: 34969316; PMCID: PMC8832572.[10](<javascript:void(0)>)Haus, Erhard & Smolensky, Michael. (2006). Biological Clocks and Shift Work: Circadian Dysregulation and Potential Long-term Effects. Cancer causes & control : CCC. 17. 489-500. 10.1007/s10552-005-9015-4.
+> Por esto ahora sabemos que cuando la luz artificial de nuestras casas (nuestras lámparas, nuestras pantallas, nuestros LED…) entran en juego, nos alteran el reloj circadiano.[ref-7](#ref-7){.ref} [ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}[ref-10](#ref-10){.ref}
 
 ¿Entendéis ahora porque pocos centenarios encontraréis en ciudades grandes? Dónde hay luz y ruidos por todos lados.
 
-[Faltando a los beneficios de la luz roja](https://pau.ninja/terapia-de-luz-roja-beneficios/) (#473) que nos brindaría al sol pero al que ya no estamos expuestos por miedo.
+[Faltando a los beneficios de la luz roja](./terapia-de-luz-roja-beneficios) (#473) que nos brindaría al sol pero al que ya no estamos expuestos por miedo.
 
-O ni siquiera [nos protegemos de la luz azul como deberíamos](https://pau.ninja/como-protegerse-de-la-luz-azul/) (#456), sino que la abrazamos y la tenemos por todos lados.
+O ni siquiera [nos protegemos de la luz azul como deberíamos](./como-protegerse-de-la-luz-azul) (#456), sino que la abrazamos y la tenemos por todos lados.
 
 > Ninjas de la vida esto significa que nuestra capacidad natural está hecha, se potencia cuando en el entorno no hay electricidad, luces, pantallas y perturbaciones modernas.
 
@@ -116,7 +105,7 @@ En cambio ahora hemos alterado los patrones de comunicación con la (falsa) info
 
 Esto que hace que el cuerpo cada vez lo tenga más difícil para distinguir entre el día y la noche, porque le estamos mandando información del día que no es (con la luz artificial).
 
-Claro que *nosotros* (a nivel *consciente*, estoy hablando) sabemos si es de día o de noche, peor nuestros ritmos circadianos sufren esta cronodisrupción.
+Claro que _nosotros_ (a nivel _consciente_, estoy hablando) sabemos si es de día o de noche, peor nuestros ritmos circadianos sufren esta cronodisrupción.
 
 Por esto muchos siguen con energía y encima siguen comiendo durante la noche.
 
@@ -124,7 +113,7 @@ Por esto muchos siguen con energía y encima siguen comiendo durante la noche.
 
 ## Qué es la cronodisrupción
 
-Desalineación transitoria entre el reloj circadiano de un individuo y la hora local (por ejemplo, el ciclo local de luz y oscuridad en el destino de un vuelo transmeridiano). El sistema circadiano se adaptará gradualmente al ciclo local L/D, en los seres humanos, en promedio, un cambio de hora de 1 día por hora.[11](<javascript:void(0)>)Erren TC, Reiter RJ. Defining chronodisruption. J Pineal Res. 2009 Apr;46(3):245-7. doi: 10.1111/j.1600-079X.2009.00665.x. Epub 2009 Feb 9. PMID: 19215573.[12](<javascript:void(0)>)Vetter C. Circadian disruption: What do we actually mean? Eur J Neurosci. 2020 Jan;51(1):531-550. doi: 10.1111/ejn.14255. Epub 2018 Dec 5. PMID: 30402904; PMCID: PMC6504624.
+Desalineación transitoria entre el reloj circadiano de un individuo y la hora local (por ejemplo, el ciclo local de luz y oscuridad en el destino de un vuelo transmeridiano). El sistema circadiano se adaptará gradualmente al ciclo local L/D, en los seres humanos, en promedio, un cambio de hora de 1 día por hora.[ref-11](#ref-11){.ref}[ref-12](#ref-12){.ref}
 
 ## Cómo afecta el ritmo circadiano a los órganos
 
@@ -139,23 +128,23 @@ De hacerlo (como hace muchísima gente) creamos una inconsistencia con nuestro 
 
 El hígado se desincronizaba 10 horas.
 
-Esas proteínas sensibles a la luz forzaba el cambio a montones de mecanismos del cuerpo confirmando como los ritmos circadianos afecta a los órganos y sus funciones.[13](<javascript:void(0)>)Potter GD, Skene DJ, Arendt J, Cade JE, Grant PJ, Hardie LJ. Circadian Rhythm and Sleep Disruption: Causes, Metabolic Consequences, and Countermeasures. Endocr Rev. 2016 Dec;37(6):584-608. doi: 10.1210/er.2016-1083. Epub 2016 Oct 20. PMID: 27763782; PMCID: PMC5142605.[14](<javascript:void(0)>)Gamble KL, Young ME. Metabolism as an integral cog in the mammalian circadian clockwork. Crit Rev Biochem Mol Biol. 2013 Jul-Aug;48(4):317-31. doi: 10.3109/10409238.2013.786672. Epub 2013 Apr 17. PMID: 23594144; PMCID: PMC3862897.[15](<javascript:void(0)>)Xie, X., Kukino, A., Calcagno, H.E. et al. Natural food intake patterns have little synchronizing effect on peripheral circadian clocks. BMC Biol 18, 160 (2020).
+Esas proteínas sensibles a la luz forzaba el cambio a montones de mecanismos del cuerpo confirmando como los ritmos circadianos afecta a los órganos y sus funciones.[ref-13](#ref-13){.ref}[ref-14](#ref-14){.ref}[ref-15](#ref-15){.ref}
 
 Toda esta ciencia sobre la luz y las horas de vigilia y sueño tiene cada vez más claro que muchos problemas de obesidad y metabolismo será una retroalimentación constante negativa de estas disrupciones en nuestro reloj interno.
 
-> Que muchas veces no es comer más, sino que muchas enfermedades vienen de no comer *cuando* toca. No necesariamente *lo que toca*.
+> Que muchas veces no es comer más, sino que muchas enfermedades vienen de no comer _cuando_ toca. No necesariamente _lo que toca_.
 
 ## Cuántas veces al día deberíamos comer
 
-En los estudio de Dr. Cordain y Connor de hace una década ya describían como el comportamiento alimentario de nuestros ancestros cazadores tenían un ciclo alimentario muy diferente al hombre moderno y que seguramente esto nos está pasando factura ahora.[16](<javascript:void(0)>) O’Connor T. The Archaeology of Animal Bones. The History Press; Cheltenham, UK: 2013.
+En los estudio de Dr. Cordain y Connor de hace una década ya describían como el comportamiento alimentario de nuestros ancestros cazadores tenían un ciclo alimentario muy diferente al hombre moderno y que seguramente esto nos está pasando factura ahora.[ref-16](#ref-16){.ref} 
 
-Ya hemos teorizado a fondo [que el humano era más carnívoro](https://pau.ninja/el-ser-humano-es-carnivoro/) (#553) que recolector y que por lo tanto, la mayor parte de su energía para proveer alimento iría destinada a cazar.
+Ya hemos teorizado a fondo [que el humano era más carnívoro](./el-ser-humano-es-carnivoro) (#553) que recolector y que por lo tanto, la mayor parte de su energía para proveer alimento iría destinada a cazar.
 
-![pinturas lascaux](https://pau.ninja/wp-content/uploads/2022/04/pinturas-lascaux.jpeg)
+![pinturas lascaux](./wp-content/uploads/2022/04pinturas-lascaux.jpeg)
 
 Así lo vemos en las pinturas rupestres de las cavernas, con la caza como el centro de atención. Como un pilar para la vida.
 
-Según estas teorías nuestros ancestros eran más susceptibles a comer muy pocas veces al día, seguramente a comer [una sola vez al día](https://pau.ninja/comer-una-vez-al-dia/) pero de forma abundante al final de la tarde o al anochecer cuando habían tenido éxito en la caza.
+Según estas teorías nuestros ancestros eran más susceptibles a comer muy pocas veces al día, seguramente a comer [una sola vez al día](./comer-una-vez-al-dia) pero de forma abundante al final de la tarde o al anochecer cuando habían tenido éxito en la caza.
 
 Y habría donde quizás no se harían con nada de comida y les tocaría hacer _un ayuno intermitente involuntario_.
 
@@ -178,13 +167,13 @@ Si seguimos estos hábitos es inevitables hacer ayunos intermitentes muchas vece
 
 Unos ayunos que ya conocemos de buena pasta (irónicamente, porque aquí somos anti-pasta) como reportan beneficios para la salud.
 
-Hay efectos positivos en la longevidad cuando restringimos nuestras calorías. Quizás de forma natural porque ya estamos bien nutridos y el cuerpo no nos manda señales de hambruna.[17](<javascript:void(0)>)Mattson, Mark. (2019). An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition. Trends in Cognitive Sciences. 23. 10.1016/j.tics.2019.01.003. [18](<javascript:void(0)>)Franceschi, Claudio & Ostan, Rita & Santoro, Aurelia. (2018). Nutrition and Inflammation: Are Centenarians Similar to Individuals on Calorie-Restricted Diets?. Annual Review of Nutrition. 38. 10.1146/annurev-nutr-082117-051637.
+Hay efectos positivos en la longevidad cuando restringimos nuestras calorías. Quizás de forma natural porque ya estamos bien nutridos y el cuerpo no nos manda señales de hambruna.[ref-17](#ref-17){.ref} [ref-18](#ref-18){.ref}
 
 Algo que viene cuando volvemos a estar en buena sintonía con nuestra saciedad.
 
-Es uno de los motivos por los que todo el mundo en ayunas está tan despierto. Porque tenemos la mente *afilada* para buscar comida.
+Es uno de los motivos por los que todo el mundo en ayunas está tan despierto. Porque tenemos la mente _afilada_ para buscar comida.
 
-A raíz de estos estudios han salido protocolos que harían mímica a los horarios de las comidas que nuestros ancestros hubiesen experimentado:[19](<javascript:void(0)>)Boyd P, O’Connor SG, Heckman-Stoddard BM, Sauter ER. Time-Restricted Feeding Studies and Possible Human Benefit. JNCI Cancer Spectr. 2022 May 2;6(3):pkac032. doi: 10.1093/jncics/pkac032. PMID: 35657339; PMCID: PMC9165551.[20](<javascript:void(0)>)Vega, Carmen & Barnafi, Esteban & Sanchez, Cesar & Acevedo, Francisco & Walbaum, Benjamin & Parada, Alejandra & Rivas, Nicolás & Merino, Tomas. (2023). Calorie Restriction and Time-Restricted Feeding: Effective Interventions in Overweight or Obese Patients Undergoing Radiotherapy Treatment with Curative Intent for Cancer. 10.20944/preprints202312.2207.v1. [21](<javascript:void(0)>)Tacad DKM, Tovar AP, Richardson CE, Horn WF, Krishnan GP, Keim NL, Krishnan S. Satiety Associated with Calorie Restriction and Time-Restricted Feeding: Peripheral Hormones. Adv Nutr. 2022 Jun 1;13(3):792-820. doi: 10.1093/advances/nmac014. PMID: 35191467; PMCID: PMC9156388.
+A raíz de estos estudios han salido protocolos que harían mímica a los horarios de las comidas que nuestros ancestros hubiesen experimentado:[ref-19](#ref-19){.ref}[ref-20](#ref-20){.ref} [ref-21](#ref-21){.ref}
 
 - Comer y beber en una ventana de 4 a 8 horas guiadas por las horas de luz del sol para imitar la vida que teníamos antes de la invención de la electricidad, la bombilla y la tecnología moderna.
 - Un ayuno, o más bien dicho, una restricción calórica intermitente en comer durante ciertos días una cantidad de calorías super reducidas. Estamos hablando de unas 500 calorías o similar tipo 2 veces por semana.
@@ -209,9 +198,9 @@ Cuando empezamos un estilo de vida carnívoro más ancestral, empezamos a ver qu
 
 Al menos hasta que el cuerpo se acostumbra.
 
-Cuando empezamos a estar más saciados es porque básicamente la grasa y la proteína que hay en los animales, son [la mejor fuente de proteína natural por un buen motivo](https://pau.ninja/mejores-proteinas-naturales/) (#571).
+Cuando empezamos a estar más saciados es porque básicamente la grasa y la proteína que hay en los animales, son [la mejor fuente de proteína natural por un buen motivo](./mejores-proteinas-naturales) (#571).
 
-La grasa + proteína animal nos mantienen más *saciados* (que no *llenos*) durante más tiempo.
+La grasa + proteína animal nos mantienen más _saciados_ (que no _llenos_) durante más tiempo.
 
 Y lo hacemos con una idea muy simple: comer como nuestros ancestros.
 
@@ -229,7 +218,7 @@ Pensad que la forma en como afecta el sueño al apetito es una teoría ya cada v
 
 Muchos piensan que tener hambre es simplemente cuando el estómago empieza a hacer gruñidos que parece que se acaba el mundo.
 
-En verdad los neurotransmistores (mensajeros químicos que nuestra neuronas se comuniquen) tienen la función de regular esta sensación de saciedad y hambre.[22](<javascript:void(0)>)Pickering, J, and J Halford. 2016. “Hunger.” Elsevier EBooks, January, 363–368. doi:https://doi.org/10.1016/b978-0-12-384947-2.00381-0. ‌
+En verdad los neurotransmistores (mensajeros químicos que nuestra neuronas se comuniquen) tienen la función de regular esta sensación de saciedad y hambre.[ref-22](#ref-22){.ref}
 
 ¿Sabéis cuáles son las reinas que regulan nuestro apetito?
 
@@ -246,7 +235,7 @@ En un mundo (cuerpo) perfecto, durante el día el cuerpo aumenta y disminuye gra
 
 Pero si dormimos mal, influenciamos en este mecanismo.
 
-Por esto en estudios ven como los sujetos que duermen menos de lo que necesitan dormir, aumentan la grelina (hola sensación de hambre y comer porquería) y disminuye la leptina.[23](<javascript:void(0)>)+13 estudios: “Why Is Sleep Important to Weight Loss? | Sleep Foundation.” 2020. Sleep Foundation.
+Por esto en estudios ven como los sujetos que duermen menos de lo que necesitan dormir, aumentan la grelina (hola sensación de hambre y comer porquería) y disminuye la leptina.[ref-23](#ref-23){.ref}
 
 Por esto el hecho de regular, de solucionar esta resistencia a la leptina que tantos hemos tenido en algún momento será tan importante.
 
@@ -256,11 +245,11 @@ La leptina tiene montones de claves para la salud y por esto hablaremos de ella 
 
 - Comer sólo cuando haya luz natural del sol
 - Nada de comer o beber por la noche
-- Tomar el sol lo máximo posible para que la piel y los ojos manden esta información al cuerpo (por esto [llevar gafas de sol es malo](https://pau.ninja/es-malo-llevar-gafas-de-sol/), #496)
+- Tomar el sol lo máximo posible para que la piel y los ojos manden esta información al cuerpo (por esto [llevar gafas de sol es malo](./es-malo-llevar-gafas-de-sol), #496)
 - Comer hasta la saciedad
 - Si la saciedad es infinita, tocará regular la leptina
 
-Quiero dejar claro, que aunque este reloj interno sea una de las claves para la salud, tampoco pienso que sea *más* importante o relevante que la comida.
+Quiero dejar claro, que aunque este reloj interno sea una de las claves para la salud, tampoco pienso que sea _más_ importante o relevante que la comida.
 
 Me refiero a que sí. Hay que respetarlo tanto como la comida. Pero una comida envenenada te matará al instante, mientras que sí. Unos malos ritmos circadianos te matarán a largo plazo con enfermedades modernas, pero es mejor esto que no morir al instante.
 
@@ -269,99 +258,3 @@ Significa que **tenemos más margen de maniobra para corregir** y adoptar unos 
 No sé si se entiende el simil…
 
 Pero que esto **no sea excusa** para preocuparnos inmediatamente de adoptar unos buenos horarios.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Mattson MP, Allison DB, Fontana L, Harvie M, Longo VD, Malaisse WJ, Mosley M, Notterpek L, Ravussin E, Scheer FA, Seyfried TN, Varady KA, Panda S. Meal frequency and timing in health and disease. Proc Natl Acad Sci U S A. 2014 Nov 25;111(47):16647-53. doi: 10.1073/pnas.1413965111. Epub 2014 Nov 17. PMID: 25404320; PMCID: PMC4250148.
-
-- 2
-
-  Charlot A, Hutt F, Sabatier E, Zoll J. Beneficial Effects of Early Time-Restricted Feeding on Metabolic Diseases: Importance of Aligning Food Habits with the Circadian Clock. Nutrients. 2021 Apr 22;13(5):1405. doi: 10.3390/nu13051405. PMID: 33921979; PMCID: PMC8143522.
-
-- 3
-
-  Colaboradores. 2007. “Núcleo Supraquiasmático.” Wikipedia.org.
-
-- 4
-
-  Jacinto. 2018. “Células Ganglionares de La Retina.” Asociación Mácula Retina.
-
-- 5
-
-  Alberto Pérez-León, Jorge, and R Brown. 2008. LAS CÉLULAS CON MELANOPSINA: NUEVOS FOTORRECEPTORES EN LA RETINA de LOS VERTEBRADOS\*.
-
-- 6
-
-  London, A., Benhar, I. & Schwartz, M. The retina as a window to the brain—from eye research to CNS disorders. Nat Rev Neurol 9, 44–53 (2013).
-
-- 7
-
-  Guan, Dongyin & Lazar, Mitchell. (2021). Interconnections between circadian clocks and metabolism. Journal of Clinical Investigation. 131. 10.1172/JCI148278.
-
-- 8
-
-  James SM, Honn KA, Gaddameedhi S, Van Dongen HPA. Shift Work: Disrupted Circadian Rhythms and Sleep-Implications for Health and Well-Being. Curr Sleep Med Rep. 2017 Jun;3(2):104-112. doi: 10.1007/s40675-017-0071-6. Epub 2017 Apr 27. PMID: 29057204; PMCID: PMC5647832.
-
-- 9
-
-  Boivin DB, Boudreau P, Kosmadopoulos A. Disturbance of the Circadian System in Shift Work and Its Health Impact. J Biol Rhythms. 2022 Feb;37(1):3-28. doi: 10.1177/07487304211064218. Epub 2021 Dec 30. PMID: 34969316; PMCID: PMC8832572.
-
-- 10
-
-  Haus, Erhard & Smolensky, Michael. (2006). Biological Clocks and Shift Work: Circadian Dysregulation and Potential Long-term Effects. Cancer causes & control : CCC. 17. 489-500. 10.1007/s10552-005-9015-4.
-
-- 11
-
-  Erren TC, Reiter RJ. Defining chronodisruption. J Pineal Res. 2009 Apr;46(3):245-7. doi: 10.1111/j.1600-079X.2009.00665.x. Epub 2009 Feb 9. PMID: 19215573.
-
-- 12
-
-  Vetter C. Circadian disruption: What do we actually mean? Eur J Neurosci. 2020 Jan;51(1):531-550. doi: 10.1111/ejn.14255. Epub 2018 Dec 5. PMID: 30402904; PMCID: PMC6504624.
-
-- 13
-
-  Potter GD, Skene DJ, Arendt J, Cade JE, Grant PJ, Hardie LJ. Circadian Rhythm and Sleep Disruption: Causes, Metabolic Consequences, and Countermeasures. Endocr Rev. 2016 Dec;37(6):584-608. doi: 10.1210/er.2016-1083. Epub 2016 Oct 20. PMID: 27763782; PMCID: PMC5142605.
-
-- 14
-
-  Gamble KL, Young ME. Metabolism as an integral cog in the mammalian circadian clockwork. Crit Rev Biochem Mol Biol. 2013 Jul-Aug;48(4):317-31. doi: 10.3109/10409238.2013.786672. Epub 2013 Apr 17. PMID: 23594144; PMCID: PMC3862897.
-
-- 15
-
-  Xie, X., Kukino, A., Calcagno, H.E. et al. Natural food intake patterns have little synchronizing effect on peripheral circadian clocks. BMC Biol 18, 160 (2020).
-
-- 16
-
-  O’Connor T. The Archaeology of Animal Bones. The History Press; Cheltenham, UK: 2013.
-
-- 17
-
-  Mattson, Mark. (2019). An Evolutionary Perspective on Why Food Overconsumption Impairs Cognition. Trends in Cognitive Sciences. 23. 10.1016/j.tics.2019.01.003.
-
-- 18
-
-  Franceschi, Claudio & Ostan, Rita & Santoro, Aurelia. (2018). Nutrition and Inflammation: Are Centenarians Similar to Individuals on Calorie-Restricted Diets?. Annual Review of Nutrition. 38. 10.1146/annurev-nutr-082117-051637.
-
-- 19
-
-  Boyd P, O’Connor SG, Heckman-Stoddard BM, Sauter ER. Time-Restricted Feeding Studies and Possible Human Benefit. JNCI Cancer Spectr. 2022 May 2;6(3):pkac032. doi: 10.1093/jncics/pkac032. PMID: 35657339; PMCID: PMC9165551.
-
-- 20
-
-  Vega, Carmen & Barnafi, Esteban & Sanchez, Cesar & Acevedo, Francisco & Walbaum, Benjamin & Parada, Alejandra & Rivas, Nicolás & Merino, Tomas. (2023). Calorie Restriction and Time-Restricted Feeding: Effective Interventions in Overweight or Obese Patients Undergoing Radiotherapy Treatment with Curative Intent for Cancer. 10.20944/preprints202312.2207.v1.
-
-- 21
-
-  Tacad DKM, Tovar AP, Richardson CE, Horn WF, Krishnan GP, Keim NL, Krishnan S. Satiety Associated with Calorie Restriction and Time-Restricted Feeding: Peripheral Hormones. Adv Nutr. 2022 Jun 1;13(3):792-820. doi: 10.1093/advances/nmac014. PMID: 35191467; PMCID: PMC9156388.
-
-- 22
-
-  Pickering, J, and J Halford. 2016. “Hunger.” Elsevier EBooks, January, 363–368. doi:https://doi.org/10.1016/b978-0-12-384947-2.00381-0. ‌
-
-- 23
-
-  +13 estudios: “Why Is Sleep Important to Weight Loss? | Sleep Foundation.” 2020. Sleep Foundation.

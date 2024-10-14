@@ -1,14 +1,21 @@
 ---
-title: "Bitcoin para tontos Qué es y cómo funciona"
+title: "Bitcoin para tontos"
+url: https://pau.ninja/que-es-bitcoin-para-tontos
+slug: que-es-bitcoin-para-tontos
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: la-persona-con-mas-bitcoins.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/02/la-persona-con-mas-bitcoins.jpeg
 published: 2021-02-26T17:00:47+00:00
 modified: 2024-02-28T06:45:59+00:00
+scrappedAt: 2024-10-14T09:21:20.687Z
 audioLink: https://www.ivoox.com/bitcoin-para-tontos_md_66797636_wp_1.mp3
-slug: que-es-bitcoin-para-tontos
+bibliography: []
 ---
-
-[https://www.ivoox.com/bitcoin-para-tontos_md_66797636_wp_1.mp3](https://www.ivoox.com/bitcoin-para-tontos_md_66797636_wp_1.mp3)
+[https://www.ivoox.com/bitcoin-para-tontos\_md\_66797636\_wp\_1.mp3](https://www.ivoox.com/bitcoin-para-tontos_md_66797636_wp_1.mp3)
 
 Dicen que cuando la abuela o el carpintero preguntan por la bolsa (o en este caso por Bitcoin), que es hora de vender y pasar a otra cosa.
 
@@ -20,9 +27,9 @@ No creo que esto hubiera significado que era hora de dejar de dedicar horas a ap
 
 Cuando todo Dios empezó a hablar de el iPhone o de Amazon significó que había un pequeño o grande cambio de paradigma.
 
-Pero es difícil asegurar si los que somos unos pesados y no dejamos de hablar de Bitcoin, es por un cambio transcendental en el orden de las cosas, o sólo por una moda o hasta «estafa piramidal» como han dicho algunos. Aunque ya lo desmentí [punto por punto](https://pau.ninja/bitcoin-estafa-piramidal/).
+Pero es difícil asegurar si los que somos unos pesados y no dejamos de hablar de Bitcoin, es por un cambio transcendental en el orden de las cosas, o sólo por una moda o hasta «estafa piramidal» como han dicho algunos. Aunque ya lo desmentí [punto por punto](./bitcoin-estafa-piramidal).
 
-![cómic secta](https://pau.ninja/wp-content/uploads/2021/01/comic-secta.png)
+![cómic secta](./wp-content/uploads/2021/01comic-secta.png)
 
 Aún así no me malinterpretéis.
 
@@ -38,38 +45,13 @@ Hasta un punto donde aún no puede haber ninguna crítica porque vamos a explica
 
 Voy a hacer explicándolo para que el carpintero que viene a hacerme unos muebles lo pueda entender. Él me amuebla la casa y yo le amueblo de nuevos conocimientos…
 
-![cómic aprender bitcoin](https://pau.ninja/wp-content/uploads/2021/02/comic-aprender-bitcoin.jpg)
+![cómic aprender bitcoin](./wp-content/uploads/2021/02comic-aprender-bitcoin.jpg)
 
-Que al fin y al cabo es lo que intento hacer con mi familia. Que por cierto mi padre es carpintero, y precisamente porque lleva trabajando desde los 14 años y está ya a las puertas de la jubilación, no puedo pensar en una persona más acertada para [tener en un valor refugio como Bitcoin](https://pau.ninja/valores-refugio/).
+Que al fin y al cabo es lo que intento hacer con mi familia. Que por cierto mi padre es carpintero, y precisamente porque lleva trabajando desde los 14 años y está ya a las puertas de la jubilación, no puedo pensar en una persona más acertada para [tener en un valor refugio como Bitcoin](./valores-refugio).
 
 Pero la idea de adoptar aunque sea un poquito de Bitcoin es una decisión suya. Una decisión individual de cada uno que sólo se puede tomar cuando empezamos a entender por donde van los tiros.
 
 Vamos a seguir estos tiros para ver qué dirección toman y si decidimos seguirlos.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Cómo funciona Bitcoin](#Como_funciona_Bitcoin 'Cómo funciona Bitcoin')
-  - [Hay copias de ledgers](#Hay_copias_de_ledgers 'Hay copias de ledgers')
-  - [Nadie y todos tienen el control](#Nadie_y_todos_tienen_el_control 'Nadie y todos tienen el control')
-  - [El código es transparente](#El_codigo_es_transparente 'El código es transparente')
-  - [Miles de nodos lo hacen seguro](#Miles_de_nodos_lo_hacen_seguro 'Miles de nodos lo hacen seguro')
-- [Qué es el bitcoin](#Que_es_el_bitcoin 'Qué es el bitcoin')
-  - [Bitcoin es descentralizado](#Bitcoin_es_descentralizado 'Bitcoin es descentralizado')
-  - [Bitcoin es fiable](#Bitcoin_es_fiable 'Bitcoin es fiable')
-  - [Bitcoin es dinero neutral](#Bitcoin_es_dinero_neutral 'Bitcoin es dinero neutral')
-  - [Bitcoin es de código abierto](#Bitcoin_es_de_codigo_abierto 'Bitcoin es de código abierto')
-  - [Bitcoin es seguro](#Bitcoin_es_seguro 'Bitcoin es seguro')
-  - [Bitcoin es anónimo](#Bitcoin_es_anonimo 'Bitcoin es anónimo')
-- [Resumen de la historia del bitcoin](#Resumen_de_la_historia_del_bitcoin 'Resumen de la historia del bitcoin')
-  - [La primera criptomoneda](#La_primera_criptomoneda 'La primera criptomoneda')
-  - [La criptomoneda Bitcoin](#La_criptomoneda_Bitcoin 'La criptomoneda Bitcoin')
-  - [Otras criptomonedas](#Otras_criptomonedas 'Otras criptomonedas')
-- [Para qué sirve el Bitcoin](#Para_que_sirve_el_Bitcoin 'Para qué sirve el Bitcoin')
-  - [Pagar con bitcoin](#Pagar_con_bitcoin 'Pagar con bitcoin')
-  - [Bitcoin es valor refugio](#Bitcoin_es_valor_refugio 'Bitcoin es valor refugio')
-  - [Bitcoin es el futuro](#Bitcoin_es_el_futuro 'Bitcoin es el futuro')
 
 ## Cómo funciona Bitcoin
 
@@ -105,7 +87,7 @@ Para hacerlo, vamos a crear un mundo propio para que este libro contable digital
 
 Esto es muy similar a los que jugáis a juegos online. Por ejemplo el juego Among Us es de la empresa InnerSloth y ellos también tienen un «libro de contabilidad» digitalizado.
 
-![libro mayor analógico](https://pau.ninja/wp-content/uploads/2021/02/libro-mayor-analogico.jpg)
+![libro mayor analógico](./wp-content/uploads/2021/02libro-mayor-analogico.jpg)
 
 Ahí tienen registrados todos los colores de personajes que existen, el número de sombreros, pantalones y vestidos que nuestros personajes pueden tener, el número de usuarios que están jugando y demás.
 
@@ -126,7 +108,7 @@ Pero estimado consumidor de contenido ninja, desgraciadamente no te conozco de n
 
 Pues para que una transacción se haga efectiva, para que nuestra compra-venta de kiwi sea válida nos tenemos que **sincronizar** y aceptar que en todos los libros contables **dice lo mismo**.
 
-![ledgers bitcoin](https://pau.ninja/wp-content/uploads/2021/02/ledgers-bitcoin.jpg)
+![ledgers bitcoin](./wp-content/uploads/2021/02ledgers-bitcoin.jpg)
 
 Si lo que hay en nuestras dos libretas contables **no es idéntico** entonces la compra-venta del kiwi no se efectuará.
 
@@ -160,7 +142,7 @@ Sólo tenemos que substituir la palabra «kiwi» por Bitcoin y es exactamente lo
 
 En vez de libros contables, tenemos ordenadores con una copia de Bitcoin. Son lo que llamamos «[nodos](https://www.bitpanda.com/academy/en/lessons/what-is-a-bitcoin-node/)» que no es otra cosa que un ordenador con una copia de todo Bitcoin y que se sincroniza con los demás.
 
-![nodos bitcoin](https://pau.ninja/wp-content/uploads/2021/02/nodos-bitcoin.png)
+![nodos bitcoin](./wp-content/uploads/2021/02nodos-bitcoin.png)
 
 Lo bonito de esto es que como estos kiwis/Bitcoin son digitales, enviarnos uno, 1 millón o hasta 0,00000001 nos cuesta exactamente el mismo esfuerzo. Porque el único esfuerzo que todos tenemos que hacer, es que nuestras libretas contables, nuestras «hojas de excel», nuestros ordenadores **se sincronicen**.
 
@@ -174,7 +156,7 @@ Ya hemos visto que es el Bitcoin para tontos, pero ¿cuál es la esencia? Pues b
 
 Bitcoin es dinero digital que puede ser usado en cualquier sitio donde haya una conexión a internet.
 
-Sólo necesitamos [un monedero](https://pau.ninja/bitcoin-wallet/), que no es otra cosa que un programa de ordenador o una app de móvil para guardar o transferir nuestros bitcoin. A efectos prácticos este monedero virtual no es muy diferente que entrar a nuestra cuenta corriente del banco de toda la vida a través de su app o la web.
+Sólo necesitamos [un monedero](./bitcoin-wallet), que no es otra cosa que un programa de ordenador o una app de móvil para guardar o transferir nuestros bitcoin. A efectos prácticos este monedero virtual no es muy diferente que entrar a nuestra cuenta corriente del banco de toda la vida a través de su app o la web.
 
 Dicho así, Bitcoin no suena a un tipo de dinero que sea tan diferente a los euros o los dólares. Al fin y al cabo la mayoría del dinero del mundo no existe en efectivo y accedemos a él vía [pantallitas](https://www.thesun.co.uk/money/13497643/how-much-money-in-the-world/).
 
@@ -196,7 +178,7 @@ Por esto la noticia de que se pueda usar sin internet cobra relevancia, porque b
 
 Bajo esta perspectiva esto puede sonar bien bonito, pero vamos a hacer de abogado del diablo un momento. Hace unos años un cajero automático me rompió un billete de 100 euros. Fui al banco y me lo remplazaron sin problemas.
 
-![](https://pau.ninja/wp-content/uploads/2021/02/billetes-rotos.jpg)
+![](./wp-content/uploads/2021/02billetes-rotos.jpg)
 
 Foto: [ejemplo](https://www.lb.lt/en/exchange-of-worn-or-damaged-euro-banknotes) de billetes de 5€ rotos.
 
@@ -230,7 +212,7 @@ Si por ejemplo hacemos una transferencia bancaria, antes que nada tenemos que co
 
 Después tenemos que confiar en el banco, y de hecho hay decenas de instituciones y autoridades en las que debemos confiar para hacer esta única transferencia.
 
-![cómic pagando con bitcoin](https://pau.ninja/wp-content/uploads/2021/02/comic-pagando-con-bitcoin.jpg)
+![cómic pagando con bitcoin](./wp-content/uploads/2021/02comic-pagando-con-bitcoin.jpg)
 
 Digamos que este dinero paso por muchas manos de terceros, y sólo con que haya una que por el motivo que sea decida que no quieren aprobar esa transferencia, no se ejecutará.
 
@@ -253,7 +235,7 @@ Nadie le va a pedir explicaciones.
 
 Es por esto que desmerecidamente ha habido algún ataque de medios que no lo entienden (o no quieren entender) que han acusado a Bitcoin de ser «el dinero del terrorismo». Irónicamente por su transparencia y neutralidad.
 
-![spain vende armas](https://pau.ninja/wp-content/uploads/2021/02/spain-vende-armas.jpg)
+![spain vende armas](./wp-content/uploads/2021/02spain-vende-armas.jpg)
 
 Lo patético de estas acusaciones es que son los propios gobiernos los que trafican con armas. El Estado español mismo, [las vende](https://www.elconfidencial.com/mundo/2018-09-13/espana-armas-arabia-saudi-cuarto-vendedor_1615123/) a casi todos los países en conflicto.
 
@@ -269,7 +251,7 @@ Bitcoin no es otra cosa que un programa de ordenador. Un _software_ con unas ley
 
 Y no sólo esto si no que además es **transparente**. ¿Cómo? pues siendo un programa de código abierto, lo que significa que cualquier persona de a pie puede echar un vistazo a lo que se cuece en las entrañas de su código.
 
-![ejemplo código bitcoin](https://pau.ninja/wp-content/uploads/2021/02/ejemplo-codigo-bitcoin.png)
+![ejemplo código bitcoin](./wp-content/uploads/2021/02ejemplo-codigo-bitcoin.png)
 
 Otra cosa es que lo entendamos…
 
@@ -297,8 +279,8 @@ Es decir, cada usuario que lo usa tiene una dirección, un pseudónimo muy largo
 
 Que usemos un pseudónimo aleatorio significa dos cosas:
 
-- **Primero**: que si hemos decidido [aprender a cómo invertir en Bitcoins](https://pau.ninja/invertir-en-bitcoins-forma-segura/) dando datos a alguna plataforma, ya se nos asociará este pseudónimo a nuestra identidad real.
-- **Segundo**: que tenemos la opción de [poseer Bitcoin de forma anónima](https://pau.ninja/comprar-bitcoins-anonimamente/). Si tenemos cuidado con los pasos que damos.
+- **Primero**: que si hemos decidido [aprender a cómo invertir en Bitcoins](./invertir-en-bitcoins-forma-segura) dando datos a alguna plataforma, ya se nos asociará este pseudónimo a nuestra identidad real.
+- **Segundo**: que tenemos la opción de [poseer Bitcoin de forma anónima](./comprar-bitcoins-anonimamente). Si tenemos cuidado con los pasos que damos.
 
 Esta segunda opción es mucho más importante que lo que algunos piensan, porque como ya dije en su momento, haciéndolo así recuperamos la libertad del tiempo y la energía que hemos gastado creando riqueza.
 
@@ -312,7 +294,7 @@ Pues no. Y esto aún potencia más la descentralización y neutralidad.
 
 Bitcoin fue creado en 2009 por una persona o grupo de personas bajo el pseudónimo de Satoshi Nakamoto. Presentando Bitcoin públicamente con los famosos [White Papers](https://bitcoin.org/bitcoin.pdf). Un documento donde se explicaba el proyecto.
 
-![white papers de bitcoin](https://pau.ninja/wp-content/uploads/2021/02/white-papers-de-bitcoin.jpg)
+![white papers de bitcoin](./wp-content/uploads/2021/02white-papers-de-bitcoin.jpg)
 
 Imagen: primera página de los White Papers.
 
@@ -330,7 +312,7 @@ Que traducido sería: «Los Números Pueden Ser una Mejor Forma de Dinero que el
 
 A raíz de este artículo se empezó a discutir sobre el tema de sistemas con pseudónimos y formas de «efectivo digital», aunque parezcan términos que se contradicen.
 
-Ese *paper* fue la mecha de los _cypherpunk_ (los que defienden la privacidad en internet), criptógrafos, los aficionados a la encriptación, matemáticos y _hackers_ para que esta idea se volviera una realidad por muy utópica que pareciera.
+Ese _paper_ fue la mecha de los _cypherpunk_ (los que defienden la privacidad en internet), criptógrafos, los aficionados a la encriptación, matemáticos y _hackers_ para que esta idea se volviera una realidad por muy utópica que pareciera.
 
 Pero el caramelito al final del túnel era realmente tentador: tener un tipo de dinero que protegiera la libertad individual de las personas.
 
@@ -355,7 +337,7 @@ Hoy en días podemos hacer lo mismo pero utilizando algoritmos y ecuaciones mate
 
 Y si bien Bitcoin fue el proyecto pionero, la primera criptomoneda y la que ha empezado a ser aceptada, en el momento de transferiros este cetro de información, que sepáis que existen más de 10.000 [otras](https://blockspot.io/coin/) criptomonedas.
 
-![bitcoin vs criptomonedas](https://pau.ninja/wp-content/uploads/2021/02/bitcoin-vs-criptomonedas.jpg)
+![bitcoin vs criptomonedas](./wp-content/uploads/2021/02bitcoin-vs-criptomonedas.jpg)
 
 Al final el código de Bitcoin es abierto y cualquiera puede simplemente copiarlo, que es lo que han hecho en la mayoría de casos. Aquí lo único que diré por ahora es que:
 
@@ -388,7 +370,7 @@ Pues porque los creadores decidieron sacrificar inicialmente algo de convenienci
 
 ¿Su qué...?
 
-Ahora lo vemos. Las propiedades que [hacen que Bitcoin tenga valor](https://pau.ninja/por-que-tiene-valor-el-bitcoin/) no están tanto en su manera de pagar, pero en toda esa descentralización y neutralidad.
+Ahora lo vemos. Las propiedades que [hacen que Bitcoin tenga valor](./por-que-tiene-valor-el-bitcoin) no están tanto en su manera de pagar, pero en toda esa descentralización y neutralidad.
 
 ### Bitcoin es valor refugio
 
@@ -396,7 +378,7 @@ Esta manera de entender a Bitcoin es la que ha ido tomando más fuerza. Si quere
 
 Veréis.
 
-Para poder aceptar algo como dinero, como medio de intercambio, antes tiene que [cumplir las propiedades del dinero duro](https://pau.ninja/propiedades-del-dinero/). Ser escaso, durable, divisible, fungible e intrínseco. Y adivinad qué, Bitcoin cumple todas estas características. El oro en parte, pero no tan bien como Bitcoin.
+Para poder aceptar algo como dinero, como medio de intercambio, antes tiene que [cumplir las propiedades del dinero duro](./propiedades-del-dinero). Ser escaso, durable, divisible, fungible e intrínseco. Y adivinad qué, Bitcoin cumple todas estas características. El oro en parte, pero no tan bien como Bitcoin.
 
 Pero lo relevante aquí es saber **quien no las cumple**: el dólar, el euro y todas las otras divisas del mundo. ¿Y por qué es tan importante esto?
 
@@ -414,7 +396,7 @@ Esto es importantísimo que la gente lo sepa.
 
 Lo que hemos visto en los últimos meses ha sido que los bancos centrales han imprimido el **40% de todo el dinero** que existe en cuestión de [meses](https://www.reddit.com/r/CryptoCurrency/comments/kdpc24/35_of_all_us_dollars_in_existence_have_been/).
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 ¿Qué provoca esto? pues que nuestros ahorros pierdan valor porque como se ha creado más dinero de la nada, ahora es menos escaso (se acaba de multiplicar), esto significa que lo que teníamos ahorrado pasa a tener menos valor.
 
@@ -438,11 +420,11 @@ Uno de estos problemas era que habíamos acuñado como normal esta manera de fun
 
 Para esto es para lo que sirve Bitcoin.
 
-Bitcoin resuelve la crisis del [funcionamiento del sistema y políticas monetarias actuales](https://pau.ninja/sistema-monetario-actual/) que tiene fecha de caducidad y una demostración de esto es que **el nivel de vida del ciudadano** medio cada vez es más bajo.
+Bitcoin resuelve la crisis del [funcionamiento del sistema y políticas monetarias actuales](./sistema-monetario-actual) que tiene fecha de caducidad y una demostración de esto es que **el nivel de vida del ciudadano** medio cada vez es más bajo.
 
-![diversificar inversiones](https://pau.ninja/wp-content/uploads/2021/01/diversificar-inversiones.png)
+![diversificar inversiones](./wp-content/uploads/2021/01diversificar-inversiones.png)
 
-Este es el motivo por el que todo mi capital está en Bitcoin y [he dejado de diversificar mis inversiones](https://pau.ninja/diversificar-inversiones/).
+Este es el motivo por el que todo mi capital está en Bitcoin y [he dejado de diversificar mis inversiones](./diversificar-inversiones).
 
 El que quiera mirar datos lo puede hacer. Los demás sólo tienen que hacer memoria y comparar niveles de vida.
 
@@ -458,7 +440,7 @@ Bitcoin lo soluciona.
 
 Una vez los que me siguen descubren esto, es como darles la píldora roja de Matrix. Dejamos de ver al mundo igual.
 
-![meme sistema monetario](https://pau.ninja/wp-content/uploads/2021/01/meme-sistema-monetario.jpg)
+![meme sistema monetario](./wp-content/uploads/2021/01meme-sistema-monetario.jpg)
 
 Esto está lejos de ser una teoría de la conspiración porque está bien documentado por los economistas, los **propios** datos públicos (pero bien escondidos) de los bancos centrales, los gobiernos y hasta está respaldado por la propia historia.
 
@@ -467,3 +449,94 @@ Como le pasó al sistema romano, algo muy similar a nuestras políticas monetari
 > Bitcoin representa para el dinero del mundo, lo que internet representa para la información.
 
 Un cambio de paradigma sin precedentes que saldrá en los libros de historia de nuestros descendientes.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Bitcoin](./bitcoin)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/que-es-bitcoin-para-tontos/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10597,"title":"%E3%80%90Bitcoin%20para%20tontos%E3%80%91%20Pasa%20de%20de%200%20a%20100%20leyendo%20esto%20%F0%9F%A7%A0","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/02\\/la-persona-con-mas-bitcoins.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

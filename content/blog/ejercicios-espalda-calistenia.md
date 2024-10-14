@@ -1,13 +1,18 @@
 ---
-title: "Espalda «calistética» Los mejores ejercicios de espalda en calistenia"
+title: "Espalda «calistética»"
+url: https://pau.ninja/ejercicios-espalda-calistenia
+slug: ejercicios-espalda-calistenia
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-con-espalda-de-calistenia.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/02/persona-con-espalda-de-calistenia.jpeg
 published: 2024-04-05T06:13:03+00:00
 modified: 2024-08-14T06:44:10+00:00
-audioLink:
-slug: ejercicios-espalda-calistenia
+scrappedAt: 2024-10-14T09:19:29.578Z
+audioLink: 
+bibliography: ["Lum, D., Barbosa, T. M., & Brett, S. (2020). Isometric strength training benefits on static and dynamic performance: A systematic review. _Strength and Conditioning Journal, 42_(5), 58-70","Häkkinen, K., & Komi, P. V. (1983). Electromyographic changes during strength training and detraining. Medicine & Science in Sports & Exercise, 15(6), 455-460.","Gandevia, S. C. (2001). Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789.","Kamp, J. (2013). Hysterical strength: The untapped potential of human muscle. Medical Hypotheses, 81(4), 524-529.","Allen, G. M., Gandevia, S. C., & McKenzie, D. K. (1995). Reliability of measurements of muscle strength and voluntary activation using twitch interpolation. Muscle & Nerve, 18(6), 593-600.","Kubo, K., Kanehisa, H., & Fukunaga, T. (2001). Effects of different duration isometric contractions on tendon elasticity in human quadriceps muscles. _Journal of Physiology, 536_(2), 649-655","Babault, N., Desbrosses, K., Fabre, M. S., Michaut, A., & Pousson, M. (2006). Neuromuscular fatigue development during maximal concentric and isometric knee extensions. _Journal of Applied Physiology, 100_(3), 780-785"]
 ---
-
 Si pensamos en cómo entrenar la espalda en casa o al aire libre, usando autocargas o incluso en el gimnasio comercial, lo primero que le viene a la mente son las **dominadas**, ¿verdad?
 
 Y a ver, no es de extrañar porque es la reina de los ejercicios.
@@ -21,28 +26,6 @@ Necesitamos más ejercicios de calistenia para la espalda que incluyan _empuje h
 Para poder _dar la espalda_ con elegancia a nuestras ex y enemigos (bueno, son lo mismo).
 
 Antes de empezar, todos estos ejercicios los puedes hacer sin material pero comprarte [este par de accesorios de menos de 100€](#Hacer_ejercicios_de_espalda_en_casa_sin_material) hacen una diferencia **muy** notable.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Los mejores ejercicios de espalda en calistenia](#Los_mejores_ejercicios_de_espalda_en_calistenia 'Los mejores ejercicios de espalda en calistenia')
-  - [Dominadas](#Dominadas 'Dominadas')
-  - [Elevaciones tipo front lever](#Elevaciones_tipo_front_lever 'Elevaciones tipo front lever')
-  - [Remo invertido](#Remo_invertido 'Remo invertido')
-  - [Pájaros inversos en anillas](#Pajaros_inversos_en_anillas 'Pájaros inversos en anillas')
-  - [Colgarse activamente](#Colgarse_activamente 'Colgarse activamente')
-  - [Pull downs verticales](#Pull_downs_verticales 'Pull downs verticales')
-  - [Ejercicios para espalda baja calistenia](#Ejercicios_para_espalda_baja_calistenia 'Ejercicios para espalda baja calistenia')
-- [Consejos para el entrenamiento de espalda con calistenia](#Consejos_para_el_entrenamiento_de_espalda_con_calistenia 'Consejos para el entrenamiento de espalda con calistenia')
-  - [Tirón horizontal VS tirón vertical](#Tiron_horizontal_VS_tiron_vertical 'Tirón horizontal VS tirón vertical')
-  - [No te olvides de ejercicios estáticos (isométricos)](#No_te_olvides_de_ejercicios_estaticos_isometricos 'No te olvides de ejercicios estáticos (isométricos)')
-  - [Hacer ejercicios de espalda en casa sin material](#Hacer_ejercicios_de_espalda_en_casa_sin_material 'Hacer ejercicios de espalda en casa sin material')
-- [Rutinas de espalda para calistenia](#Rutinas_de_espalda_para_calistenia 'Rutinas de espalda para calistenia')
-  - [Para principiantes](#Para_principiantes 'Para principiantes')
-  - [En casa y sin barra](#En_casa_y_sin_barra 'En casa y sin barra')
-- [Espalda y bíceps en calistenia](#Espalda_y_biceps_en_calistenia 'Espalda y bíceps en calistenia')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Los mejores ejercicios de espalda en calistenia
 
@@ -58,8 +41,6 @@ Como no, la reina de todos los ejercicios de espalda son las dominadas.
 El que debería ser el primer ejercicio de la sesión de espalda o tirón porque fatiga como ningún otro ejercicio…
 
 El problema es que no importa si eres principiante o intermedio, el 99% de las personas haciendo dominadas las hace **redondeando la espalda** llevando los hombros hacia adelante.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Es lo que más vemos porque… así se hace más fácil y nos podemos sacar más dominadas cuando las nenas del parque de calistenia pasan por ahí a ver a ese tío sin camiseta subiéndose de una barra.
 
@@ -83,21 +64,19 @@ Lo importante es que el trabajo sea balanceado. Si sólo hacemos dominadas para 
 - **Material recomendado:** barra o [anillas](#anillas)
 - **Sin material:** necesitarás una superficie elevada, un árbol o una mesa que aguante tu peso sin tumbarse
 
-Unas de las cosas que note cuando estaba adaptando [mi plan de entrenamiento para calistenia](https://pau.ninja/plan-entrenamiento-calistenia/), es que los remos invertidos realmente no notaba que me trabajasen mucho la espalda haciendo el remo invertido.
+Unas de las cosas que note cuando estaba adaptando [mi plan de entrenamiento para calistenia](./plan-entrenamiento-calistenia), es que los remos invertidos realmente no notaba que me trabajasen mucho la espalda haciendo el remo invertido.
 
-Así que lo que hice fue cambiar ese remo australiano por las llamadas elevaciones tipo _front lever_, a las que también podemos llamar *front lever rows* (remos de *front lever).*
+Así que lo que hice fue cambiar ese remo australiano por las llamadas elevaciones tipo _front lever_, a las que también podemos llamar _front lever rows_ (remos de _front lever)._
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Pero ojo, no lo cambié a estas elevaciones así por las buenas porque para hacer este ejercicio necesitamos poder sacarnos ya el *front lever*.
+Pero ojo, no lo cambié a estas elevaciones así por las buenas porque para hacer este ejercicio necesitamos poder sacarnos ya el _front lever_.
 
 El _front lever_ es un ejercicio de calistenia que categorizamos como avanzado por un buen motivo: requiere de fuerza y estabilización de hombretones, pero por suerte hay variaciones que podemos hacer que además **se transferirán a nuestro _front lever_**.
 
-![elevaciones tipo front lever](https://pau.ninja/wp-content/uploads/2024/02/elevaciones-tipo-front-lever.jpeg)
+![elevaciones tipo front lever](./wp-content/uploads/2024/02elevaciones-tipo-front-lever.jpeg)
 
-Es decir, que cuando podamos hacer suficientes repeticiones de estas variaciones, lo más probable es que veamos como nuestro *front lever* mejora sin haberlo entrenado/practicado específicamente.
+Es decir, que cuando podamos hacer suficientes repeticiones de estas variaciones, lo más probable es que veamos como nuestro _front lever_ mejora sin haberlo entrenado/practicado específicamente.
 
-La variación que puse fueron las elevaciones tipo *front lever* pero con la progresión _tucked_.
+La variación que puse fueron las elevaciones tipo _front lever_ pero con la progresión _tucked_.
 
 Vamos, con las piernas flexionadas y las rodillas tocándome al pecho.
 
@@ -121,11 +100,11 @@ Como más paralelos al suelo estemos en la posición final, más difícil será�
 
 Como queremos una espalda completa, no podemos obviar uno centrado en el hombro posterior. «Pero un momento Pau, ¿no estábamos hablando de ejercicios de espalda» claro. ¿Y dónde te piensas que está el hombro posterior? en la maldita espalda.
 
-Pensad que en montones de ejercicios de calistenia hay demanda para que nuestros hombros **roten internamente**. Normal que las lesiones de hombro sean prevalentes. Sobretodo en la gente de gimnasio porque omiten el hombre posterior por completo mientras hacen crecer el resto del hombro, creando desbalances y poses de *croissant*.
+Pensad que en montones de ejercicios de calistenia hay demanda para que nuestros hombros **roten internamente**. Normal que las lesiones de hombro sean prevalentes. Sobretodo en la gente de gimnasio porque omiten el hombre posterior por completo mientras hacen crecer el resto del hombro, creando desbalances y poses de _croissant_.
 
 Incluso en nuestro día a día la demanda que le ponemos a los hombros es de rotar internamente. Mirando el móvil para enviar privados a tías de Insta, escribir guiones con el portátil para crear maravillosos episodios de podcast…
 
-Lo que necesitamos es… rotarlos **externamente**, y no hay mejor ejercicio para esto que los pájaros inverso en anillas. O en inglés *face pulls*. Un ejercicio que se ve haciendo de vez en cuando en las poleas del gimnasio, pero en calistenia no tanto.
+Lo que necesitamos es… rotarlos **externamente**, y no hay mejor ejercicio para esto que los pájaros inverso en anillas. O en inglés _face pulls_. Un ejercicio que se ve haciendo de vez en cuando en las poleas del gimnasio, pero en calistenia no tanto.
 
 Esto nos ayudará a lidiar con los desequilibrios de hombros que podamos haber generado hasta ahora. ¿Que necesitamos para hacerlos? es bastante sencillo.
 
@@ -147,8 +126,6 @@ Si estamos viciados a ejercicios molones de empuje vertical como los L-sit, hace
 
 - **Material recomendado:** barra alta o [anillas](#anillas)
 - **Sin material:** buscar una superficie elevada
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 a
 
@@ -174,7 +151,7 @@ No tiene sentido que ignoremos un patrón de movimiento básico en la base de qu
 
 No todo en la vida se basa en construir fuerza y músculo.
 
-![ejercicios con anillas](https://pau.ninja/wp-content/uploads/2024/01/ejercicios-con-anillas.jpeg)
+![ejercicios con anillas](./wp-content/uploads/2024/01ejercicios-con-anillas.jpeg)
 
 Es el caso de los remos.
 
@@ -202,21 +179,19 @@ Esos ejercicios que nos anclamos en una posición y nos quedamos totalmente est�
 
 Claro que mientras estamos parados estamos ejerciendo fuerza para mantener esa posición. Por ejemplo en las dominadas: anclarnos en la parte donde ponemos la mandíbula por encima de la barra.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Los isométricos son una herramienta tan poderosa, como odiada, como infravalorada para mejorar fuerza y rendimiento muscular.[ref-1](#ref-1){.ref}
 
-Los isométricos son una herramienta tan poderosa, como odiada, como infravalorada para mejorar fuerza y rendimiento muscular.[1](<javascript:void(0)>)Lum, D., Barbosa, T. M., & Brett, S. (2020). Isometric strength training benefits on static and dynamic performance: A systematic review. _Strength and Conditioning Journal, 42_(5), 58-70
-
-Y es que todos los humanos corrientes sólo podemos reclutar el 30%-50% de fibras musculares durante el ejercicio normal porque nuestro cuerpo nos quiere proteger, y lo hace bloqueándonos el sistema nervioso central para evitar que nos autolesionemos si tuviéramos acceso a todas estas fibras.[2](<javascript:void(0)>)Häkkinen, K., & Komi, P. V. (1983). Electromyographic changes during strength training and detraining. Medicine & Science in Sports & Exercise, 15(6), 455-460.[3](<javascript:void(0)>)Gandevia, S. C. (2001). Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789.
+Y es que todos los humanos corrientes sólo podemos reclutar el 30%-50% de fibras musculares durante el ejercicio normal porque nuestro cuerpo nos quiere proteger, y lo hace bloqueándonos el sistema nervioso central para evitar que nos autolesionemos si tuviéramos acceso a todas estas fibras.[ref-2](#ref-2){.ref}[ref-3](#ref-3){.ref}
 
 El cuerpo sabe bien que no somos merecedores de manejar tanta potencia. Que no sabríamos hacerlo porque como decía el tío Ben «un gran poder conlleva una gran responsabilidad».
 
-Pero es verdad que en situaciones extremas se ha visto como los humanos podemos acceder a este potencial oculto: con descargas eléctricas, o en eventos dramáticos de la vida (se le llama fuerza histérica), etc.[4](<javascript:void(0)>)Kamp, J. (2013). Hysterical strength: The untapped potential of human muscle. Medical Hypotheses, 81(4), 524-529.[5](<javascript:void(0)>)Allen, G. M., Gandevia, S. C., & McKenzie, D. K. (1995). Reliability of measurements of muscle strength and voluntary activation using twitch interpolation. Muscle & Nerve, 18(6), 593-600.
+Pero es verdad que en situaciones extremas se ha visto como los humanos podemos acceder a este potencial oculto: con descargas eléctricas, o en eventos dramáticos de la vida (se le llama fuerza histérica), etc.[ref-4](#ref-4){.ref}[ref-5](#ref-5){.ref}
 
 > En el fondo el entrenamiento isométrico busca reducir la inhibición del sistema nervioso central porque esto es exactamente lo que nos genera mucha demanda neuromuscular.
 
 La clave para hacer los isométricos efectivos será en la **duración + intensidad** de la contracción que hagamos.
 
-Según estudios se sabe que al menos mantener la contracción durante 6 segundos es suficiente para desafiar a estos mecanismos de bloqueo del sistema nervioso sin causar mucha fatiga, pero tiene sentido que [vayamos a entrenar por tiempo](https://pau.ninja/entrenar-por-tiempo-o-por-repeticiones/) e ir incrementando la sesión del isométrico poco a poco.[6](<javascript:void(0)>)Kubo, K., Kanehisa, H., & Fukunaga, T. (2001). Effects of different duration isometric contractions on tendon elasticity in human quadriceps muscles. _Journal of Physiology, 536_(2), 649-655[7](<javascript:void(0)>)Babault, N., Desbrosses, K., Fabre, M. S., Michaut, A., & Pousson, M. (2006). Neuromuscular fatigue development during maximal concentric and isometric knee extensions. _Journal of Applied Physiology, 100_(3), 780-785
+Según estudios se sabe que al menos mantener la contracción durante 6 segundos es suficiente para desafiar a estos mecanismos de bloqueo del sistema nervioso sin causar mucha fatiga, pero tiene sentido que [vayamos a entrenar por tiempo](./entrenar-por-tiempo-o-por-repeticiones) e ir incrementando la sesión del isométrico poco a poco.[ref-6](#ref-6){.ref}[ref-7](#ref-7){.ref}
 
 Pero no es fácil entrenarlos. Me refiero mentalmente, claro.
 
@@ -226,7 +201,7 @@ Hay muchos ejercicios que se pueden hacer en calistenia **sin material** para l
 
 Me refiero a que, sí. Tienes ejercicios como «el nadador» donde te pones de boca al suelo y haces como que nadas y va super bien para deltoide trasero y trapecio, pero si vas a hacerlo sin peso, ¿cómo progresas a medida que se te va haciendo más y más fácil?
 
-Para seguir una [buena sobrecarga progresiva](https://pau.ninja/sobrecarga-progresiva-gym/) tenemos que hacer evidente que progresamos.
+Para seguir una [buena sobrecarga progresiva](./sobrecarga-progresiva-gym) tenemos que hacer evidente que progresamos.
 
 Por esto tiene sentido que usemos una resistencia externa que puede ser perfectamente nuestro propio peso (autocarga) y un par de accesorios o tres, que por menos de 100€ no necesitaremos nada más para progresar.
 
@@ -234,8 +209,8 @@ Por esto tiene sentido que usemos una resistencia externa que puede ser perfecta
 
 Si solo vas a comprar un solo accesorio que multiplicarán x100 los ejercicios que puedes hacer, que sean unas anillas como las mías:
 
-[![anillas gimnasia](https://pau.ninja/wp-content/uploads/2024/02/anillas-gimnasia.jpeg)](https://pau.ninja/tienda/anillas-calistenia/)
-[Comprar aquí](https://pau.ninja/tienda/anillas-calistenia/)
+[![anillas gimnasia](./wp-content/uploads/2024/02/anillas-gimnasia.jpeg)](https://pau.ninja/tienda/anillas-calistenia)  
+[Comprar aquí](./tienda/anillas-calistenia)
 
 - **Precio:** 46€ aprox (sin aplicar cupón)
 - **Cupón descuento:** _RECURSOS_
@@ -245,8 +220,8 @@ Si solo vas a comprar un solo accesorio que multiplicarán x100 los ejercicios q
 
 La medalla de plata en accesorios para la espalda sin duda son las gomas: o bien hacer los ejercicios algo más fáciles asistiéndote en dominadas o remos, o para poder obtener resistencia externa en los ejercicios accesorios. Mira las que uso yo:
 
-[![bandas elásticas de resistencia](https://pau.ninja/wp-content/uploads/2024/02/bandas-elasticas-de-resistencia.jpg)](https://pau.ninja/tienda/gomas-calistenia/)
-[Comprar aquí](https://pau.ninja/tienda/gomas-calistenia/)
+[![bandas elásticas de resistencia](./wp-content/uploads/2024/02/bandas-elasticas-de-resistencia.jpg)](https://pau.ninja/tienda/gomas-calistenia)  
+[Comprar aquí](./tienda/gomas-calistenia)
 
 - **Precio:** 65€ aprox (sin aplicar cupón)
 - **Cupón descuento:** _RECURSOS_
@@ -258,9 +233,9 @@ Por mucho nivel que tengas siempre hay más repeticiones que podemos hacer, pero
 
 En este caso el último nivel es comprar un chaleco de lastre, que yo, a pesar de levantar +20kg en varias repeticiones con dominadas, nunca he necesitado para seguir haciéndome más fuerte.
 
-Dejé de usar lastre porque después de [hacer mi test genético](https://pau.ninja/como-saber-si-tienes-buena-genetica/) (#569) entendí porque no me recuperaba tan bien como ir jugando con el tiempo y el volumen.
+Dejé de usar lastre porque después de [hacer mi test genético](./como-saber-si-tienes-buena-genetica) (#569) entendí porque no me recuperaba tan bien como ir jugando con el tiempo y el volumen.
 
-Pero si no es tu caso y aumentar peso te va bien, mira en el [mejor material de calistenia](https://pau.ninja/material-calistenia/) para ver modelos que valgan la pena.
+Pero si no es tu caso y aumentar peso te va bien, mira en el [mejor material de calistenia](./material-calistenia) para ver modelos que valgan la pena.
 
 ## Rutinas de espalda para calistenia
 
@@ -280,7 +255,7 @@ Dominadas
 
 –
 
-Elevaciones *frontlever*
+Elevaciones _frontlever_
 
 3x
 
@@ -308,36 +283,4 @@ Table division
 
 ¿Quieres ver lo que estoy haciendo actualmente en calistenia?
 
-Mira mi [plan de entrenamiento para calistenia actualizado en 2024](https://pau.ninja/plan-entrenamiento-calistenia/).
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Lum, D., Barbosa, T. M., & Brett, S. (2020). Isometric strength training benefits on static and dynamic performance: A systematic review. _Strength and Conditioning Journal, 42_(5), 58-70
-
-- 2
-
-  Häkkinen, K., & Komi, P. V. (1983). Electromyographic changes during strength training and detraining. Medicine & Science in Sports & Exercise, 15(6), 455-460.
-
-- 3
-
-  Gandevia, S. C. (2001). Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789.
-
-- 4
-
-  Kamp, J. (2013). Hysterical strength: The untapped potential of human muscle. Medical Hypotheses, 81(4), 524-529.
-
-- 5
-
-  Allen, G. M., Gandevia, S. C., & McKenzie, D. K. (1995). Reliability of measurements of muscle strength and voluntary activation using twitch interpolation. Muscle & Nerve, 18(6), 593-600.
-
-- 6
-
-  Kubo, K., Kanehisa, H., & Fukunaga, T. (2001). Effects of different duration isometric contractions on tendon elasticity in human quadriceps muscles. _Journal of Physiology, 536_(2), 649-655
-
-- 7
-
-  Babault, N., Desbrosses, K., Fabre, M. S., Michaut, A., & Pousson, M. (2006). Neuromuscular fatigue development during maximal concentric and isometric knee extensions. _Journal of Applied Physiology, 100_(3), 780-785
+Mira mi [plan de entrenamiento para calistenia actualizado en 2024](./plan-entrenamiento-calistenia).

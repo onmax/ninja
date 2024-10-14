@@ -1,26 +1,31 @@
 ---
-title: "Hombros 3D el secreto del músculo más masculino"
+title: "Hombros 3D"
+url: https://pau.ninja/hombros-3d
+slug: hombros-3d
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-con-hombros-3D-en-el-gym.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/04/persona-con-hombros-3D-en-el-gym.jpeg
 published: 2024-04-28T06:33:57+00:00
 modified: 2024-08-16T04:35:49+00:00
+scrappedAt: 2024-10-14T09:19:23.783Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86059358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375936066-44100-2-1b42d557595d2.mp3
-slug: hombros-3d
+bibliography: ["“Ritmo Escapulohumeral | Evaluación de La Discinesia Escapular |SICK Scapula.” 2021. Fisiotutores.","Alpert SW, Pink MM, Jobe FW, McMahon PJ, Mathiyakom W. Electromyographic analysis of deltoid and rotator cuff function under varying loads and speeds. J Shoulder Elbow Surg. 2000 Jan-Feb;9(1):47-58. doi: 10.1016/s1058-2746(00)90009-0. PMID: 10717862.","“Figure 13. The Lateral Raise to 908 of Abduction. Raising the Arms To…” 2016. ResearchGate.","T Nation LLC. 2010. “Inside the Muscles: Best Shoulders and Trap Exercises.” COMMUNITY – T NATION.","Jorge Fernández Bosch. 2022. “Músculos Grandes Y Pequeños.” AD Fisioterapia Valencia. AD Fisioterapia Valencia."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/86059358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375936066-44100-2-1b42d557595d2.mp3](https://anchor.fm/s/98566448/podcast/play/86059358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375936066-44100-2-1b42d557595d2.mp3)
 
-Los hombros son el músculo más estético en un cuerpo masculino, o si más no, el músculo que creará el mayor impacto visual para darnos un *look* en forma de V.
+Los hombros son el músculo más estético en un cuerpo masculino, o si más no, el músculo que creará el mayor impacto visual para darnos un _look_ en forma de V.
 
-Una forma corporal que como vimos en el episodio #258 son [las medidas más estéticas en un cuerpo de hombre](https://pau.ninja/cuerpo-estetico-hombre-medidas/) según el ideal griego de la época.
+Una forma corporal que como vimos en el episodio #258 son [las medidas más estéticas en un cuerpo de hombre](./cuerpo-estetico-hombre-medidas) según el ideal griego de la época.
 
-![cuerpo en forma de v](https://pau.ninja/wp-content/uploads/2021/09/cuerpo-en-forma-de-v.jpg)
+![cuerpo en forma de v](./wp-content/uploads/2021/09cuerpo-en-forma-de-v.jpg)
 
 Fijaros que la palabra «culturismo» viene del latín y significa «resultado de cultivar».
 
 Igual que los escultores de las estatuas griegas de la época, estas medidas no son aleatorias y se tendrán que «construir» o «cultivar» proactivamente para darle anchura y redondez a nuestros hombros para conseguir esta estética.
 
-Se tratará [de ganar masa muscular](https://pau.ninja/como-ganar-masa-muscular-rapido/) en los sitios correctos para conseguir lo que los culturistas llaman «hombros 3D».
+Se tratará [de ganar masa muscular](./como-ganar-masa-muscular-rapido) en los sitios correctos para conseguir lo que los culturistas llaman «hombros 3D».
 
 Un nombre (o más bien, expresión) muy acertada porque 3D significa ancho, altura y profundidad: exactamente lo que queremos para nuestros hombros. Hombros tridimiensionales.
 
@@ -28,7 +33,7 @@ Dicho así, lo primero que nos viene a la mente es el deltoide lateral.
 
 Como la panacea para que nos queden unos hombros bien anchos y redondos… Pero a ver.
 
-![meme hombros 3d](https://pau.ninja/wp-content/uploads/2023/03/meme-hombros-3d.jpeg)
+![meme hombros 3d](./wp-content/uploads/2023/03meme-hombros-3d.jpeg)
 
 No estás del todo desencaminado pero si queremos parecernos a Tenchin Han, hay mucho más que simplemente hacer elevaciones laterales «a secas».
 
@@ -46,7 +51,7 @@ Desde hace años, en el podcast siempre he alegado que estéticamente es de los 
 
 Es por esto que desde hace unos años, me enfoqué en ellos.
 
-![ejemplo hombros 3D](https://pau.ninja/wp-content/uploads/2023/04/ejemplo-hombros-3D.jpeg)
+![ejemplo hombros 3D](./wp-content/uploads/2023/04ejemplo-hombros-3D.jpeg)
 
 No tengo unos hombros «grandes», pero sin duda es de los músculos que más estéticos tengo en cuanto a formas de gimnasio.
 
@@ -62,11 +67,11 @@ Hay muchos matices que tenemos que tener en cuenta.
 
 Que sí, que la parte lateral es el músculo más popular para darle a los hombros este aspecto más abierto, más ancho es el deltoide medio, que contribuye a esa protuberancia de amplitud desde la vista frontal…
 
-Los hombros laterales son unos de los componentes que nos ayudan a crear ese *look* de estatua griega.
+Los hombros laterales son unos de los componentes que nos ayudan a crear ese _look_ de estatua griega.
 
 Para crear la ilusión óptica en forma de V se tratará de tener una cintura más bien estrecha (porcentaje de grasa controlado), y cuanto más hombros anchos tengas mucho mejor.
 
-![hombros desarrollados](https://pau.ninja/wp-content/uploads/2021/09/hombros-desarrollados.jpg)
+![hombros desarrollados](./wp-content/uploads/2021/09hombros-desarrollados.jpg)
 
 Foto 2022: en la frontera con rusia y Estonia. Hay que saber posar para que parezca aún más en forma de V, huehuehue.
 
@@ -90,11 +95,9 @@ Y hablando de libertades robadas, uno de los peores problemas al hacer ejercicio
 
 Menos con el método Bilbo (#490), claro.
 
-La retracción escapular no es una técnica para protegernos, sino para que el *powerlifter* tenga que hacer menos recorrido de la barra.
+La retracción escapular no es una técnica para protegernos, sino para que el _powerlifter_ tenga que hacer menos recorrido de la barra.
 
-Hay un ritmo natural de nuestro cuerpo que ocurre en las articulaciones de los hombros llamado ritmo escapulohumeral.[1](<javascript:void(0)>)“Ritmo Escapulohumeral | Evaluación de La Discinesia Escapular |SICK Scapula.” 2021. Fisiotutores.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Hay un ritmo natural de nuestro cuerpo que ocurre en las articulaciones de los hombros llamado ritmo escapulohumeral.[ref-1](#ref-1){.ref}
 
 En lenguaje ninja significa que por cualquier grado de movimiento que ocurra en el brazo, debería haber cierto grado de movimiento en el hombro.
 
@@ -112,11 +115,11 @@ Esto es aún más importante en el movimiento de pájaro, en las elevaciones lat
 
 ### Elevaciones laterales
 
-No es casualidad que las elevaciones sean el ejercicio por excelencia para los hombros laterales. Según un estudio donde miraba la activación más grande del deltoide lateral, fueron las elevaciones el ejercicio con más activación para esta parte.[2](<javascript:void(0)>)Alpert SW, Pink MM, Jobe FW, McMahon PJ, Mathiyakom W. Electromyographic analysis of deltoid and rotator cuff function under varying loads and speeds. J Shoulder Elbow Surg. 2000 Jan-Feb;9(1):47-58. doi: 10.1016/s1058-2746(00)90009-0. PMID: 10717862.
+No es casualidad que las elevaciones sean el ejercicio por excelencia para los hombros laterales. Según un estudio donde miraba la activación más grande del deltoide lateral, fueron las elevaciones el ejercicio con más activación para esta parte.[ref-2](#ref-2){.ref}
 
 Es un ejercicio en el que te pones de pie y haces como si quisieras volar con la diferencia de que tienes las mancuernas cogidas. Pero para que sean efectivos hay varias cosas que tenemos que evitar (o hacer) para que realmente generen estímulo:
 
-- Los brazos no deberían estar exactamente hacia fuera a tu lado como si fueras un maldito pájaro. Como se ha visto en estudios de activación, lo mejor es mover nuestros brazos de 20-30 grados hacia adelante sin que llegue a ser una elevación frontal.[3](<javascript:void(0)>)“Figure 13. The Lateral Raise to 908 of Abduction. Raising the Arms To…” 2016. ResearchGate.
+- Los brazos no deberían estar exactamente hacia fuera a tu lado como si fueras un maldito pájaro. Como se ha visto en estudios de activación, lo mejor es mover nuestros brazos de 20-30 grados hacia adelante sin que llegue a ser una elevación frontal.[ref-3](#ref-3){.ref}
 - Para sacar el máximo jugo tenemos que inclinarnos ligeramente hacia adelante.
 - Tenemos que mantener las manos paralelas al suelo. El consejo que habrás escuchado alguna vez de mantener el meñique más elevado es más peligroso que otra cosa porque activa mucho más el manguito rotador.
 
@@ -152,7 +155,7 @@ Te pones la polea a la medida de la muñeca y sentirás como la tensión de este
 
 ### Elevación egipcia invertida a una mano
 
-¿Y si no tienes poleas o están todas ocupadas? No pasa nada. También hay una versión que puedes hacer [con estas gomas de calistenia](https://pau.ninja/tienda/gomas-calistenia/), o que podemos hacer con una mancuerna.
+¿Y si no tienes poleas o están todas ocupadas? No pasa nada. También hay una versión que puedes hacer [con estas gomas de calistenia](./tienda/gomas-calistenia), o que podemos hacer con una mancuerna.
 
 - La coges a una mano.
 - Utiliza el otro brazo para estirarlo para apoyarte, para aguantarte a un soporte ya sea de la polea o de la pared.
@@ -160,7 +163,7 @@ Te pones la polea a la medida de la muñeca y sentirás como la tensión de este
 
 Ya lo tienes. Una versión en el que el punto de resistencia es en la parte inferior. Es decir, en la parte contraria que el típico.
 
-Entonces lo que querrás es esto, hacerte un *egipcio* en tus elevaciones, pero no te olvides de combinarlas con las otras modalidades.
+Entonces lo que querrás es esto, hacerte un _egipcio_ en tus elevaciones, pero no te olvides de combinarlas con las otras modalidades.
 
 ## Ejercicios de hombros posterior
 
@@ -180,13 +183,13 @@ El frontal no hace falta porque todos los tenemos súper trabajados de todos los
 
 ### Face pulls con bandas o polea
 
-Según los análisis de activación del músculo, el ejercicio de face pulls es el ejercicio donde se activan más, tanto la parte media del hombro, como el hombro posterior.[4](<javascript:void(0)>)T Nation LLC. 2010. “Inside the Muscles: Best Shoulders and Trap Exercises.” COMMUNITY – T NATION.
+Según los análisis de activación del músculo, el ejercicio de face pulls es el ejercicio donde se activan más, tanto la parte media del hombro, como el hombro posterior.[ref-4](#ref-4){.ref}
 
-O sea que si váis sin tiempo para hacer un ejercicio de cada y buscas un *todo en uno*, los *face pulls* son tus amigos.
+O sea que si váis sin tiempo para hacer un ejercicio de cada y buscas un _todo en uno_, los _face pulls_ son tus amigos.
 
 De hecho por allí en 2021 cuando volví a empezar a desarrollar mi físico en casa, mis músculos seguían reflejando mi genética ectomorfa, pero a pesar de no hacer elevaciones laterales si que hacía muchos face pulls en la segunda versión de gimnasio que había montado en casa.
 
-![progresión masa muscular](https://pau.ninja/wp-content/uploads/2020/01/progresion-masa-muscular.jpg)
+![progresión masa muscular](./wp-content/uploads/2020/01progresion-masa-muscular.jpg)
 
 Foto 2021: hace un par de años, no hacía elevaciones laterales pero sí hace muchos face-pulls.
 
@@ -196,7 +199,7 @@ Sin duda, por como afectan los hombros a la estética de un cuerpo, lo prefiero 
 
 Esto si, hay que hacer los face pull mezclando el movimiento con una especie de separación. Es decir, agarrando las bandas con las manos separadas entre 5-10 centímetros, y mientras tiramos la banda o la cuerda hacia la cara, entonces hacemos el movimiento de separar la banda con fuerza.
 
-Por esto va bien que sean [bandas elásticas con números](https://pau.ninja/tienda/gomas-calistenia/)…
+Por esto va bien que sean [bandas elásticas con números](./tienda/gomas-calistenia)…
 
 ### Pájaros en polea para deltoide posterior
 
@@ -243,7 +246,7 @@ En cambio lo que se sobrevalora y sobreentrena es el deltoide frontal.
 
 Al menos en comparación con las otras partes de los hombros porque es una parte que ya tenemos muy involucrada en montones de ejercicios de _press_. De pecho. De _press_cho.
 
-No es de extrañar, al ser un músculo con un potencial de crecimiento muy grande. Y no es de extrañar porque es el músculo más grande del tren superior cuando juntamos todas sus partes.[5](<javascript:void(0)>)Jorge Fernández Bosch. 2022. “Músculos Grandes Y Pequeños.” AD Fisioterapia Valencia. AD Fisioterapia Valencia.
+No es de extrañar, al ser un músculo con un potencial de crecimiento muy grande. Y no es de extrañar porque es el músculo más grande del tren superior cuando juntamos todas sus partes.[ref-5](#ref-5){.ref}
 
 No. No son los pectorales, son los hombros. La parte frontal es ese músculo del que abusamos en todos los ejercicios de empuje, por esto le veo poco sentido trabajarlo directamente.
 
@@ -263,9 +266,9 @@ La frecuencia también es importante (como no), pero igual que en la progresión
 
 Y es que para darle estímulo a los hombros laterales tenemos que aumentar la frecuencia en comparación con otros músculos que tardan más en recuperarse.
 
-De hecho se puso de moda por YouTube a los *fitfluencers* haciendo elevaciones laterales cada día para hacerlos crecer. A algunos les funcionó un poco pero no creo que sea algo sostenible en el tiempo.
+De hecho se puso de moda por YouTube a los _fitfluencers_ haciendo elevaciones laterales cada día para hacerlos crecer. A algunos les funcionó un poco pero no creo que sea algo sostenible en el tiempo.
 
-Yo probé esto de hacerlo cada día aprovechando que para mí [ha sido bueno entrenar cada día](https://pau.ninja/es-bueno-entrenar-todos-los-dias/), pero sinceramente no le vi mucha mejora.
+Yo probé esto de hacerlo cada día aprovechando que para mí [ha sido bueno entrenar cada día](./es-bueno-entrenar-todos-los-dias), pero sinceramente no le vi mucha mejora.
 
 Especulo que haberlos entrenado cada x2 días hubiera tenido mejores resultados que cada día durante 2 meses.
 
@@ -287,27 +290,3 @@ Bueno en dos: en como de bien manejes tu fatiga.
 - Elevaciones laterales con mancuerna en banco inclinado
 - Elevaciones laterales con mancuerna inclinado hacia un lado
 - Esquiadores con banco inclinado
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  “Ritmo Escapulohumeral | Evaluación de La Discinesia Escapular |SICK Scapula.” 2021. Fisiotutores.
-
-- 2
-
-  Alpert SW, Pink MM, Jobe FW, McMahon PJ, Mathiyakom W. Electromyographic analysis of deltoid and rotator cuff function under varying loads and speeds. J Shoulder Elbow Surg. 2000 Jan-Feb;9(1):47-58. doi: 10.1016/s1058-2746(00)90009-0. PMID: 10717862.
-
-- 3
-
-  “Figure 13. The Lateral Raise to 908 of Abduction. Raising the Arms To…” 2016. ResearchGate.
-
-- 4
-
-  T Nation LLC. 2010. “Inside the Muscles: Best Shoulders and Trap Exercises.” COMMUNITY – T NATION.
-
-- 5
-
-  Jorge Fernández Bosch. 2022. “Músculos Grandes Y Pequeños.” AD Fisioterapia Valencia. AD Fisioterapia Valencia.

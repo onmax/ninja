@@ -1,14 +1,19 @@
 ---
-title: "La teoría del mono drogado ¿Y si las setas mágicas nos hicieron evolucionar?"
+title: "La teoría del mono drogado"
+url: https://pau.ninja/teoria-del-mono-dopado
+slug: teoria-del-mono-dopado
+categories: 
+- slug: enigmas-de-la-historia
+    label: Enigmas de la historia
 image: mono-dopado.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/02/mono-dopado.jpeg
 published: 2021-02-23T10:04:54+00:00
 modified: 2023-06-26T19:31:12+00:00
+scrappedAt: 2024-10-14T09:21:21.008Z
 audioLink: https://www.ivoox.com/teoria-del-mono-drogado_md_66427511_wp_1.mp3
-slug: teoria-del-mono-dopado
+bibliography: []
 ---
-
-[https://www.ivoox.com/teoria-del-mono-drogado_md_66427511_wp_1.mp3](https://www.ivoox.com/teoria-del-mono-drogado_md_66427511_wp_1.mp3)
+[https://www.ivoox.com/teoria-del-mono-drogado\_md\_66427511\_wp\_1.mp3](https://www.ivoox.com/teoria-del-mono-drogado_md_66427511_wp_1.mp3)
 
 Cuando estuve viviendo en Nueva Zelanda quedé fascinado por todo lo relacionado con el país. La política de sentido común, las leyes de protecciones de animales (o hasta criptomonedas), del medio ambiente, de corrupción, pero lo que más me flipó…
 
@@ -20,7 +25,7 @@ Soy de esos frikis que cuando ve un tronco bien gordo, me aseguro de que no hay 
 
 A saber cuantos os ha venido a la mente alguna broma con esto del «tronco» y ya estáis maquinando crear algún meme para colgarlo en internet, pero ¿sabíais que los árboles también usan su propio internet?
 
-No es que se vayan pasando memes o hagan vídeollamadas, pero debajo de nuestros pies hay todo un entramado de información y sabiduría que podría haber sido uno de los máximos propulsores de que el *homo sapiens* llegara donde está hoy.
+No es que se vayan pasando memes o hagan vídeollamadas, pero debajo de nuestros pies hay todo un entramado de información y sabiduría que podría haber sido uno de los máximos propulsores de que el _homo sapiens_ llegara donde está hoy.
 
 Creando memes de «troncos», sí, pero también planeando la conquista espacial e intentando innovar para hacer avanzar a nuestra civilización día tras día.
 
@@ -30,22 +35,6 @@ Esto es lo que dice la «teoría del mono dopado».
 
 Una manera de acceder a todo este conocimiento subterráneo. Casi tan _underground_ como este blog.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [El lenguaje de los árboles](#El_lenguaje_de_los_arboles 'El lenguaje de los árboles')
-- [¿Los hongos son un animal o vegetal?](#%C2%BFLos_hongos_son_un_animal_o_vegetal '¿Los hongos son un animal o vegetal?')
-- [La teoría del mono dopado](#La_teoria_del_mono_dopado 'La teoría del mono dopado')
-  - [Las setas en el cerebro](#Las_setas_en_el_cerebro 'Las setas en el cerebro')
-  - [Historia y evolución del cerebro humano](#Historia_y_evolucion_del_cerebro_humano 'Historia y evolución del cerebro humano')
-  - [Monos drogados](#Monos_drogados 'Monos drogados')
-  - [La evolución de la conciencia humana](#La_evolucion_de_la_conciencia_humana 'La evolución de la conciencia humana')
-  - [La evolución del lenguaje humano](#La_evolucion_del_lenguaje_humano 'La evolución del lenguaje humano')
-  - [Evolución de agricultura](#Evolucion_de_agricultura 'Evolución de agricultura')
-  - [La religión prehistórica](#La_religion_prehistorica 'La religión prehistórica')
-- [La consciencia y el cerebro](#La_consciencia_y_el_cerebro 'La consciencia y el cerebro')
-
 ## El lenguaje de los árboles
 
 Siempre había pensado que no estaba loco del todo con eso de querer abrazar los árboles más viejos. Como si hubiera una conexión especial a más edad tuviera el árbol.
@@ -54,7 +43,7 @@ No fue hasta años más tarde que descubrí que esta idea no era una locura del 
 
 En esta red del suelo, de la tierra, la transmisión de la información va mucho más allá. Estamos hablando de que los árboles [hablan](https://www.sciencefocus.com/nature/mycorrhizal-networks-wood-wide-web/) entre ellos gracias a esta red.
 
-![árboles comunicándose](https://pau.ninja/wp-content/uploads/2021/02/arboles-comunicandose.png)
+![árboles comunicándose](./wp-content/uploads/2021/02arboles-comunicandose.png)
 
 Se me rizan los pelos del brazo sólo de pensarlo, y al parecer a los árboles también porque tienen «micorrizas».
 
@@ -70,7 +59,7 @@ No lo que hablan los Elfos de Tolkien.
 
 Pues se ve que los árboles vecinos se comunican con sus raíces de una manera directa. De hecho los árboles más antiguos terminan siendo torres centrales similares a lo que veíamos en la película de Pocahontas con la «abuela sauce» o de Avatar, en el que el «árbol madre» pasa información a todos los demás de su alrededor.
 
-![árbol hablando](https://pau.ninja/wp-content/uploads/2021/02/arbol-hablando.jpg)
+![árbol hablando](./wp-content/uploads/2021/02arbol-hablando.jpg)
 
 Pero si nos fijamos, estas conexiones con y entre árboles no ocurrirían si no fuera gracias a este fungi, a las microrrizas que hacen la fusión entre raíces y hongos.
 
@@ -97,7 +86,7 @@ No es casualidad que los mejores antibióticos contra bacterias vengan de los ho
 
 Pero fijaros si va atrás este mundo que como ya había comentado antes, el fósil más antiguo del mundo es el de… una seta.
 
-![primer fósil fungi](https://pau.ninja/wp-content/uploads/2021/02/primer-fosil-fungi.jpg)
+![primer fósil fungi](./wp-content/uploads/2021/02primer-fosil-fungi.jpg)
 
 Un fósil con 2.4 miles de millones de años de antigüedad y que como publicaron a la revista [Nature](https://www.nature.com/articles/s41559-017-0141), se encontró hace nada, en 2017.
 
@@ -123,15 +112,13 @@ Fijaros que los japoneses hicieron un experimento en el que hicieron una réplic
 
 Dejaron que el [micelio](https://faircompanies.com/articles/micelios-hongos-para-salvar-al-mundo-y-al-ser-humano/) del hongo, que son los cuerpos vegetativos de los hongos que se van extendiendo, fueran a buscar los copos de avena.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 El caso es que el hongo terminó re-organizándose en cuestión de horas y terminó con una versión del metro de Tokyo **más efectiva** que lo que los japoneses había estructurado hasta el día de hoy.
 
 Decir que son espontáneos sería una soberana tontería, del mismo modo que lo sería decir que nuestra evolución sin precedentes fue por nuestro propio pie, sin un empujón externo.
 
 ## La teoría del mono dopado
 
-Una de mis publicaciones favoritas ha sido [cuando hablé de los psicodélicos](https://pau.ninja/psicodelicos/). De las varias teorías que toqué una de las que tenía ganas de desarrollar era la de la **teoría del mono dopado**, o simio drogado, dependiendo del grado de dramatismo con el que queramos titularla.
+Una de mis publicaciones favoritas ha sido [cuando hablé de los psicodélicos](./psicodelicos). De las varias teorías que toqué una de las que tenía ganas de desarrollar era la de la **teoría del mono dopado**, o simio drogado, dependiendo del grado de dramatismo con el que queramos titularla.
 
 Esta idea vendría a decirnos que la evolución humana vino dada por el consumo de psicodélicos, y no me refiero a que sean los únicos causantes de nuestra revolución cerebral pero de un **catalizador**.
 
@@ -139,9 +126,9 @@ Si empezamos tirando por la vía del sentido común, tenemos 23 tipos de primate
 
 A parte de esto también tenemos los primeros tipo de arte de la historia.
 
-Ya comenté en [el tema de las drogas psicodélicas](https://pau.ninja/psicodelicos/) lo raro que era que todo el arte de las cavernas de distintos periodos y diferentes rincones del mundo separados por miles de quilómetros tuvieran los mismos patrones.
+Ya comenté en [el tema de las drogas psicodélicas](./psicodelicos) lo raro que era que todo el arte de las cavernas de distintos periodos y diferentes rincones del mundo separados por miles de quilómetros tuvieran los mismos patrones.
 
-![](https://pau.ninja/wp-content/uploads/2020/11/arte-en-cavernas.jpg)
+![](./wp-content/uploads/2020/11arte-en-cavernas.jpg)
 
 A partir de estos hilos se empezó a desarrollar la teoría del mono dopado por larte de Terrence McKenna y su hermano Dennis, que con los años ha juntado la curiosidad de algunos científicos que no esta teoría  no les ha parecido descabellada.
 
@@ -168,7 +155,7 @@ Al parecer la DMT produce unas sensaciones muy parecidas a las experiencias cerc
 
 El caso es que la psilocina tiene una estructura molecular muy similar a DMT.
 
-![dmt y psilocina](https://pau.ninja/wp-content/uploads/2021/02/dmt-y-psilocina.jpeg)
+![dmt y psilocina](./wp-content/uploads/2021/02dmt-y-psilocina.jpeg)
 
 De hecho es como DMT pero con una molécula adicional, así que no es raro esperar efectos similares.
 
@@ -181,7 +168,7 @@ Con esto obligamos a nuestro cerebro a conectarse de otras formas y esas regione
 
 O en otras palabras, que las setas mágicas lo que hacen es bloquear las principales vías de información y para que se conecte, lo que hace nuestra mente es encontrar otros caminos secundarios que nunca antes se habían conectado, y el cerebro termina comunicándose de una  manera que nunca antes había hecho.
 
-![conexiones cerebrales con setas](https://pau.ninja/wp-content/uploads/2021/02/conexiones-cerebrales-con-setas.jpeg)
+![conexiones cerebrales con setas](./wp-content/uploads/2021/02conexiones-cerebrales-con-setas.jpeg)
 
 Imagen: cantidad de conexión cerebral en función normal (izquierda) y en hongos mágicos (derecha)
 
@@ -199,7 +186,7 @@ El resto de la masa está en mis bíceps…
 
 Unos bíceps que seguramente se utilizaban de manera más funcional hace 500.000 y 100.000 años atrás, que fue cuando nuestro cerebro decidió doblarse de tamaño.
 
-![tamaño del cerebro](https://pau.ninja/wp-content/uploads/2021/02/tamano-del-cerebro.jpg)
+![tamaño del cerebro](./wp-content/uploads/2021/02tamano-del-cerebro.jpg)
 
 Si nos lo paramos a pensar, desde un punto de vista de la evolución es un crecimiento de tamaño que es casi imposible de imaginar y que no se ha visto en ninguna otra especie.
 
@@ -223,7 +210,7 @@ Claro imaginaros que estáis ahí con vuestro clan, en busca de comida y encontr
 
 Y ahí es cuando empieza todo.
 
-![monos y setas mágicas](https://pau.ninja/wp-content/uploads/2020/11/monos-y-setas-magicas.jpeg)
+![monos y setas mágicas](./wp-content/uploads/2020/11monos-y-setas-magicas.jpeg)
 
 Pasan unos minutos y te encuentras catapultado en un nuevo mundo de patrones y colores. A parte, con esas conexiones neuronales nuevas, ideas que no habías tenido nunca te salen de la cabeza como.. setas.
 
@@ -271,8 +258,6 @@ Tal vez la creación del idioma fue dado por la creación de un entretenimiento 
 
 No se si os suena un idioma llamado [glosolalia](https://es.wikipedia.org/wiki/Glosolalia), que es un lenguaje inventado sin sentido. Como los bebés cuando se creen los más listos del mundo hablando pero sin sentido.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Es difícil de imaginar en adultos porque hay más conexiones, pero vendría a ser como esos mantras que se cantan y repiten en ciertas ceremonias religiosas, que parecen un idioma inventado.
 
 > La glosolalia es una lengua con ausencia de significado.
@@ -293,11 +278,11 @@ Cuando los ancestros empezaron a migrar al Medio Oriente en la búsqueda de más
 
 En aquel entonces la agricultura había sido mínima porque el entorno nos proveía de todo.
 
-Pero con este panorama se volvió absolutamente necesaria en el nuevo régimen de los glaciares en retrocesos que pasan por Palestina y el Líbano. Y Jericó, que es un sitio de como 8.000 años de antigüedad [fue la civilización antigua más avanzada según teorías](https://pau.ninja/civilizaciones-perdidas/).
+Pero con este panorama se volvió absolutamente necesaria en el nuevo régimen de los glaciares en retrocesos que pasan por Palestina y el Líbano. Y Jericó, que es un sitio de como 8.000 años de antigüedad [fue la civilización antigua más avanzada según teorías](./civilizaciones-perdidas).
 
 ¿Y que era Jericó?
 
-![agricultores Jericó](https://pau.ninja/wp-content/uploads/2021/02/agricultores-jerico.jpg)
+![agricultores Jericó](./wp-content/uploads/2021/02agricultores-jerico.jpg)
 
 Una torre de cereales con unos recintos que servían como área de defensa. Como si fuera el muro de Ataque a los Titanes.
 
@@ -317,9 +302,9 @@ Hay mucha chicha aquí y le dedicaremos al menos un apartado más adelante.
 
 En el caso de la historia de Adán y Eva, nos encontramos con una pareja en la que la mujer no recibe órdenes de nadie. Tiene una relación con una serpiente que le dice que si come del árbol obtendrá el conocimiento del mundo.
 
-![Adán Eva psicodélicos](https://pau.ninja/wp-content/uploads/2021/02/adan-eva-psicodelicos.jpg)
+![Adán Eva psicodélicos](./wp-content/uploads/2021/02adan-eva-psicodelicos.jpg)
 
-Digamos que esta podría ser una manera de decir que obtendrá *input* de un mundo existencial, y recordemos que ambos en esta historia están en pelota picada, desnudos al completo.
+Digamos que esta podría ser una manera de decir que obtendrá _input_ de un mundo existencial, y recordemos que ambos en esta historia están en pelota picada, desnudos al completo.
 
 En la historia de Genesis, Dios se lo mira con curiosidad y hace una reflexión:
 
@@ -367,3 +352,88 @@ Pero siempre, terminan **prohibidas**.
 Algo en lo que me interesa entrar algún día también. Los psicodélicos culturalmente a lo largo de nuestra historia, porque el tema tiene tela…
 
 La teoría del mono dopado me ha parecido fascinante porque lo que nos dice, es que quizás no sólo han sido un factor transcendente en la evolución de culturas, pero también de nuestra fisiología.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Enigmas de la historia](./enigmas-de-la-historia)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/teoria-del-mono-dopado/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":9409,"title":"%E3%80%90Teor%C3%ADa%20del%20mono%20dopado%E3%80%91%20%F0%9F%A7%AC%F0%9F%A7%A0%20Nueva%20hip%C3%B3tesis%20evolutiva","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/02\\/mono-dopado.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

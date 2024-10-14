@@ -1,26 +1,31 @@
 ---
-title: "¿Qué lámpara de luz roja comprar? El 90% de marcas te engañan"
+title: "¿Qué lámpara de luz roja comprar?"
+url: https://pau.ninja/lampara-luz-roja-e-infrarroja
+slug: lampara-luz-roja-e-infrarroja
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-compra-lamparas-luz-roja.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/05/persona-compra-lamparas-luz-roja.jpeg
 published: 2023-05-04T07:32:13+00:00
 modified: 2024-01-29T06:45:12+00:00
+scrappedAt: 2024-10-14T09:20:01.043Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/71470409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F332998382-44100-2-ca7d70483098e.mp3
-slug: lampara-luz-roja-e-infrarroja
+bibliography: ["Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.","Barolet D. Light-emitting diodes (LEDs) in dermatology. Semin Cutan Med Surg. 2008 Dec;27(4):227–238.","Huang YY, Chen AC, Carroll JD, Hamblin MR. Biphasic dose response in low level light therapy. Dose Response. 2009 Sep 1;7(4):358-83. doi: 10.2203/dose-response.09-027.Hamblin. PMID: 20011653; PMCID: PMC2790317.","Lee SY, Park KH, Choi JW, Kwon JK, Lee DR, Shin MS, Lee JS, You CE, Park MY. A prospective, randomized, placebo-controlled, double-blinded, and split-face clinical study on LED phototherapy for skin rejuvenation: clinical, profilometric, histologic, ultrastructural, and biochemical evaluations and comparison of three different treatment settings. J Photochem Photobiol B. 2007 Jul 27;88(1):51-67. doi: 10.1016/j.jphotobiol.2007.04.008. Epub 2007 May 1. PMID: 17566756.","Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.","Avci P, Gupta A, Sadasivam M, Vecchio D, Pam Z, Pam N, Hamblin MR. Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring. Semin Cutan Med Surg. 2013 Mar;32(1):41-52. PMID: 24049929; PMCID: PMC4126803.","Hashmi JT, Huang YY, Sharma SK, Kurup DB, De Taboada L, Carroll JD, Hamblin MR. Effect of pulsing in low-level light therapy. Lasers Surg Med. 2010 Aug;42(6):450-66. doi: 10.1002/lsm.20950. PMID: 20662021; PMCID: PMC2933784.","Karanovic O, Thabet M, Wilson HR, Wilkinson F. Detection and discrimination of flicker contrast in migraine. Cephalalgia. 2011 Apr;31(6):723-36. doi: 10.1177/0333102411398401. PMID: 21493642; PMCID: PMC3571449.","IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers","Fisher RS, Acharya JN, Baumer FM, French JA, Parisi P, Solodar JH, Szaflarski JP, Thio LL, Tolchin B, Wilkins AJ, Kasteleijn-Nolst Trenité D. Visually sensitive seizures: An updated review by the Epilepsy Foundation. Epilepsia. 2022 Apr;63(4):739-768. doi: 10.1111/epi.17175. Epub 2022 Feb 7. PMID: 35132632.","Radford B, Bartholomew R. Pokémon contagion: photosensitive epilepsy or mass psychogenic illness? South Med J. 2001 Feb;94(2):197-204. PMID: 11235034.","Salet N, Visser M, Stam C, Smulders YM. Stroboscopic light effects during electronic dance music festivals and photosensitive epilepsy: a cohort study and case report. BMJ Open. 2019 Jun 11;9(6):e023442. doi: 10.1136/bmjopen-2018-023442. PMID: 31186244; PMCID: PMC6585837.","Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.","Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.","«IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015","IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/71470409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F332998382-44100-2-ca7d70483098e.mp3](https://anchor.fm/s/98566448/podcast/play/71470409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F332998382-44100-2-ca7d70483098e.mp3)
 
 Una lámpara de luz roja es el substituto moderno a las ondas infrarroja que nos emite el sol (sobretodo durante el amanecer y el anochecer).
 
 ¿Es necesario para estar sanos? El sol sí lo es, en cambio tener una lámpara de estas ya es discutible.
 
-Yo tengo dos ([ver](https://pau.ninja/lampara-luz-roja-e-infrarroja/#La_mejor_lampara_de_luz_roja)) pero argumento que sólo las recomiendo **para aquellos que no pueden hacer el esfuerzo o no tienen la logística para ver el sol durante el amanecer y anochecer**.
+Yo tengo dos ([ver](./lampara-luz-roja-e-infrarroja#La_mejor_lampara_de_luz_roja)) pero argumento que sólo las recomiendo **para aquellos que no pueden hacer el esfuerzo o no tienen la logística para ver el sol durante el amanecer y anochecer**.
 
-![lámpara de luz roja portable](https://pau.ninja/wp-content/uploads/2023/05/lampara-de-luz-roja-portable.jpeg)
+![lámpara de luz roja portable](./wp-content/uploads/2023/05lampara-de-luz-roja-portable.jpeg)
 
 Imagen: uno de los modelos más pequeños de estas lámparas.
 
-Cuando hablé de la evidencia (abrasadora) de los [beneficios de la luz roja e infrarroja](https://pau.ninja/terapia-de-luz-roja-beneficios/) (#473) algunos comentasteis que os venía de nuevo esto que el sol sea tan beneficioso no sólo para [absorber vitamina D](https://pau.ninja/como-tomar-sol-absorber-vitamina-d/) sino también por la luz infrarroja.
+Cuando hablé de la evidencia (abrasadora) de los [beneficios de la luz roja e infrarroja](./terapia-de-luz-roja-beneficios/) (#473) algunos comentasteis que os venía de nuevo esto que el sol sea tan beneficioso no sólo para [absorber vitamina D](https://pau.ninja/como-tomar-sol-absorber-vitamina-d) sino también por la luz infrarroja.
 
 Yo estaba igual. Poco sabía del tema así que un abrazo a [nuestra comunidad privada](#unirse) que me hacen siempre indagar y aprender en todos estos temas que mejoran nuestras vidas.
 
@@ -30,7 +35,7 @@ Como los ninjas de la vida somos multipotenciales pragmáticos que no sólo nos 
 
 > Me di cuenta que el 90% de los fabricantes y proveedores de aparatos de luz roja, **engañan** en sus especificaciones aprovechando el tirón que está teniendo este mercado.
 
-Algunos ya habéis visto [los dos modelos de lámpara que tengo](https://pau.ninja/lampara-luz-roja-e-infrarroja/#La_mejor_lampara_de_luz_roja) pero no os expliqué por qué los elegí. ¿Por qué esta marca?
+Algunos ya habéis visto [los dos modelos de lámpara que tengo](./lampara-luz-roja-e-infrarroja#La_mejor_lampara_de_luz_roja) pero no os expliqué por qué los elegí. ¿Por qué esta marca?
 
 Literalmente **contacté a todas** las empresas que venden paneles de luz roja, para hacerles algunas **preguntas trampas**, en reflejo a lo que aprendí y de lo que hablamos hoy aquí en cuanto a qué lámpara comprar según lo que necesites.
 
@@ -38,31 +43,13 @@ He terminado con una lista de x3 marcas que no me mintieron con sus respuestas ,
 
 Así que, empecemos por el principio.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [¿Qué es y para qué sirve una lámpara de luz roja?](#%C2%BFQue_es_y_para_que_sirve_una_lampara_de_luz_roja '¿Qué es y para qué sirve una lámpara de luz roja?')
-- [¿Qué lámpara de luz roja comprar?](#%C2%BFQue_lampara_de_luz_roja_comprar '¿Qué lámpara de luz roja comprar?')
-  - [Con menos de 100mW/cm2 de irradiación](#Con_menos_de_100mWcm2_de_irradiacion 'Con menos de 100mW/cm2 de irradiación')
-  - [Frecuencias de luz específicas](#Frecuencias_de_luz_especificas 'Frecuencias de luz específicas')
-  - [Que ofrezca densidad de unos 60 J/cm2](#Que_ofrezca_densidad_de_unos_60_Jcm2 'Que ofrezca densidad de unos 60 J/cm2')
-  - [Ángulo del rayo con tabla de distancia](#Angulo_del_rayo_con_tabla_de_distancia 'Ángulo del rayo con tabla de distancia')
-  - [No debería incluir "pulsing"](#No_deberia_incluir_%22pulsing%22 'No debería incluir "pulsing"')
-  - [Sin parpadeo o "flicker free"](#Sin_parpadeo_o_%22flicker_free%22 'Sin parpadeo o "flicker free"')
-  - [Radiación electromagnética baja](#Radiacion_electromagnetica_baja 'Radiación electromagnética baja')
-- [La mejor lámpara de luz roja](#La_mejor_lampara_de_luz_roja 'La mejor lámpara de luz roja')
-  - [Marcas con envío desde Europa](#Marcas_con_envio_desde_Europa 'Marcas con envío desde Europa')
-  - [Marcas con envío internacional](#Marcas_con_envio_internacional 'Marcas con envío internacional')
-- [Fuentes, referencias y notas](#Fuentes_referencias_y_notas 'Fuentes, referencias y notas')
-
 ## ¿Qué es y para qué sirve una lámpara de luz roja?
 
 La lámpara (o panel) de luz roja e infrarroja es un aparato electrónico que **substituye** a la luz solar.
 
 Hablamos de «lámpara» cuando es de pocas dimensiones y de «panel» de luz roja cuando es un modelo más grande y pesado (normalmente de un metro o incluso más) que encendido nos cubre la mayoría de superficie del cuerpo.
 
-![persona usando lámpara de luz roja](https://pau.ninja/wp-content/uploads/2023/05/persona-usando-lampara-luz-roja.jpeg)
+![persona usando lámpara de luz roja](./wp-content/uploads/2023/05persona-usando-lampara-luz-roja.jpeg)
 
 Foto: este modelo sería un panel más que una lámpara.
 
@@ -70,15 +57,15 @@ Igual que cuando decimos «luz roja» hacemos referencia tanto a la roja como la
 
 Aparatos tecnológicos que emiten longitudes de onda entre 660 y 850 nanómetros. El rango donde se ha visto que la luz tiene beneficios terapéuticos.
 
-![longitud onda terapia luz roja](https://pau.ninja/wp-content/uploads/2023/04/longitud-onda-terapia-luz-roja.jpeg)
+![longitud onda terapia luz roja](./wp-content/uploads/2023/04longitud-onda-terapia-luz-roja.jpeg)
 
 Dejar claro es que **no es suficiente con cambiar el color de las bombillas de tu casa al color rojo**.
 
-La [luz roja tiene sus ventajas para dormir](https://pau.ninja/luz-roja-para-dormir/) y todo lo que sucede en segundo plano (de las que ya hablaremos), pero ahora sólo hablamos de aparatos tecnológicamente programados para emitir radiación infrarroja que simulan la que el sol nos regalaría.
+La [luz roja tiene sus ventajas para dormir](./luz-roja-para-dormir) y todo lo que sucede en segundo plano (de las que ya hablaremos), pero ahora sólo hablamos de aparatos tecnológicamente programados para emitir radiación infrarroja que simulan la que el sol nos regalaría.
 
 Esas que la mayoría omitimos por estar demasiado ocupados durante el amanecer y anochecer (cuando hay más de estas radiaciones).
 
-![luz infrarroja del sol](https://pau.ninja/wp-content/uploads/2023/04/luz-infrarroja-del-sol.jpeg)
+![luz infrarroja del sol](./wp-content/uploads/2023/04luz-infrarroja-del-sol.jpeg)
 
 Por esto los últimos meses he estado sacándome la camiseta no sólo en las horas pico de rayos UVB para obtener la vitamina del sol, sino también durante los amaneceres para empaparme de más luz infrarroja.
 
@@ -87,7 +74,7 @@ Por esto los últimos meses he estado sacándome la camiseta no sólo en las hor
 ¿Qué he tenido en cuenta antes de elegir un modelo de lámpara de luz roja?
 
 - Irradiación (aquí es donde la mayoría de fabricantes mienten)
-- Las emisiones de radiación electromagnética por sus [efectos](https://pau.ninja/efectos-ondas-electromagneticas/) en la salud
+- Las emisiones de radiación electromagnética por sus [efectos](./efectos-ondas-electromagneticas) en la salud
 - Si puedo elegir las frecuencias de luz específicamente
 - Si tiene parpadeo
 - El ángulo de las luces
@@ -111,11 +98,11 @@ Pero claro, si decimos que **sin suficiente irradiación no hay suficientes bene
 
 No funciona así. Recordemos que en el caso de la luz roja, hay un punto óptimo. En la dosis está el veneno. Ni mucho ni poco.
 
-![terapia de luz roja](https://pau.ninja/wp-content/uploads/2023/04/terapia-de-luz-roja.jpeg)
+![terapia de luz roja](./wp-content/uploads/2023/04terapia-de-luz-roja.jpeg)
 
 Es verdad que si compras una lámpara de estas y no es lo suficientemente intensa (al contrario que tu ex), necesitarás estar expuesto más tiempo de lo que te tocaría. Pero lo opuesto también es cierto. Un apartado que está siendo demasiado intenso, podría calentar las demasiado las células.
 
-> ¿Y qué intensidad debería tener nuestra lámpara de luz? Un estudio nos viene a salvar concluyendo[1](<javascript:void(0)>)Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938. que el *sweet spot*, lo ideal, los beneficios óptimos salieron exponiendo a los sujetos **entre 14-55 mW/cm2**.
+> ¿Y qué intensidad debería tener nuestra lámpara de luz? Un estudio nos viene a salvar concluyendo[ref-1](#ref-1){.ref} que el _sweet spot_, lo ideal, los beneficios óptimos salieron exponiendo a los sujetos **entre 14-55 mW/cm2**.
 
 Aquí ya surge una pregunta interesante cuando la gente me pregunta porque el modelo que yo he comprado es menos potentes que las [otras lámparas del mercado](#La_mejor_lampara_de_luz_roja) del mismo tamaño.
 
@@ -127,9 +114,9 @@ Me dicen «Pau, pero he visto este otro modelo que tiene +100 mW/cm2, y otra que
 
 > El 90% de marcas usan equipos de medición inexactos en sus lámparas. Lo hacen a propósito para inflar sus números y así venderte su modelo como «mejor».
 
-A pesar de que los estudios demuestren que +100mW/cm2 no sólo puede ser **peligroso** para tejidos más sensibles sino **poco efectivo** para la salud general[2](<javascript:void(0)>)Barolet D. Light-emitting diodes (LEDs) in dermatology. Semin Cutan Med Surg. 2008 Dec;27(4):227–238.[3](<javascript:void(0)>)Huang YY, Chen AC, Carroll JD, Hamblin MR. Biphasic dose response in low level light therapy. Dose Response. 2009 Sep 1;7(4):358-83. doi: 10.2203/dose-response.09-027.Hamblin. PMID: 20011653; PMCID: PMC2790317..
+A pesar de que los estudios demuestren que +100mW/cm2 no sólo puede ser **peligroso** para tejidos más sensibles sino **poco efectivo** para la salud general[ref-2](#ref-2){.ref}[ref-3](#ref-3){.ref}.
 
-![respuesta intensidad luz roja](https://pau.ninja/wp-content/uploads/2023/05/dosis-y-respuesta-intensidad-luz-roja.jpg)
+![respuesta intensidad luz roja](./wp-content/uploads/2023/05dosis-y-respuesta-intensidad-luz-roja.jpg)
 
 Estas marcas han medido sus lámparas con medidores de energía solar, dispositivos que están optimizados para el espectro de la luz solar. Unos aparatos que sobreestiman la irradiación de una buena lámpara LED con longitud de onda corta, dando **valores falso. Hasta 4 veces más altos**.
 
@@ -137,7 +124,7 @@ Técnicamente no están mintiendo directamente, pero sí nos están engañando.
 
 Las marcas que dicen en su web que sus lámparas irradían +100mW/cm2 no sólo son **marcas cuestionables**, sino poco deseables. No sólo porque nos engañen (y a saber en qué nos mienten más), sino porque es importante trazar la irradiación en un amplio rango de distancias, en lugar de dar una sola medición. De esta forma, podemos saber exactamente qué cantidad de energía luminosa recibimos y podemos realizar autoexperimentación de forma más precisa respaldándonos en la evidencia actual.
 
-Cuando vayas a [comprar una lámpara de luz infrarroja y roja](https://pau.ninja/lampara-luz-roja-e-infrarroja/#La_mejor_lampara_de_luz_roja), verás que hay modelos con más superficie y modelos más pequeños.
+Cuando vayas a [comprar una lámpara de luz infrarroja y roja](./lampara-luz-roja-e-infrarroja#La_mejor_lampara_de_luz_roja), verás que hay modelos con más superficie y modelos más pequeños.
 
 > Esto a efectos prácticos significa que los más altos también serán más intensos (más irradiación), permitiéndote alejar más y que por lo tanto la luz toque más partes de tu piel y por lo tanto necesites exponerte menos tiempo que no con una lámpara más pequeña.
 
@@ -151,9 +138,9 @@ Entonces lógicamente es más que suficiente coger el modelo más pequeño que t
 
 Relacionado con esto va el segundo punto para elegir nuestra lámpara: no sólo las frecuencias de luz a las que nos permite exponernos, sino también si nos permite elegir específicamente si hoy queremos una u otra dependiendo de los objetivos que tengamos.
 
-Según el consenso científico los beneficios de la luz roja está en el espectro **entre 660 nanómetros y 850 nanómetros**[4](<javascript:void(0)>)Lee SY, Park KH, Choi JW, Kwon JK, Lee DR, Shin MS, Lee JS, You CE, Park MY. A prospective, randomized, placebo-controlled, double-blinded, and split-face clinical study on LED phototherapy for skin rejuvenation: clinical, profilometric, histologic, ultrastructural, and biochemical evaluations and comparison of three different treatment settings. J Photochem Photobiol B. 2007 Jul 27;88(1):51-67. doi: 10.1016/j.jphotobiol.2007.04.008. Epub 2007 May 1. PMID: 17566756. que es justo lo que ofrecen estas lámparas y paneles (lógico, si las han fabricado para cubrir esto).
+Según el consenso científico los beneficios de la luz roja está en el espectro **entre 660 nanómetros y 850 nanómetros**[ref-4](#ref-4){.ref} que es justo lo que ofrecen estas lámparas y paneles (lógico, si las han fabricado para cubrir esto).
 
-![diferencia luz roja y luz infrarroja](https://pau.ninja/wp-content/uploads/2023/04/diferencia-luz-roja-y-luz-infrarroja.jpeg)
+![diferencia luz roja y luz infrarroja](./wp-content/uploads/2023/04diferencia-luz-roja-y-luz-infrarroja.jpeg)
 
 La diferencia según nos acerquemos más o menos a uno de estos rangos y nos alejemos más del otro, será en la **profunidad de penetración**…
 
@@ -193,9 +180,9 @@ Otro punto a considerar es la densidad de la luz. Que vendría a ser la **cantid
 
 Esta densidad la medimos con Julios (como el mes) por centímetros cuadrados (J/cm2), ¿y qué cantidad de Julios tiene que tener la lámpara perfecta para terapia de infrarrojos en casa?
 
-Según los estudios 4-5 J/cm2 **por tratamiento** da los mejores beneficios[5](<javascript:void(0)>)Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938., aunque es verdad que a un poco más o menos no tendría que ser un problema.
+Según los estudios 4-5 J/cm2 **por tratamiento** da los mejores beneficios[ref-5](#ref-5){.ref}, aunque es verdad que a un poco más o menos no tendría que ser un problema.
 
-La única cantidad de julios donde no se encontraron mejoras fue en un estudio donde concluyeron que a más de 50 o más julios no había beneficios[6](<javascript:void(0)>)Avci P, Gupta A, Sadasivam M, Vecchio D, Pam Z, Pam N, Hamblin MR. Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring. Semin Cutan Med Surg. 2013 Mar;32(1):41-52. PMID: 24049929; PMCID: PMC4126803..
+La única cantidad de julios donde no se encontraron mejoras fue en un estudio donde concluyeron que a más de 50 o más julios no había beneficios[ref-6](#ref-6){.ref}.
 
 > Esto es porque demasiada dosis se ha visto que causa demasiado estrés en las células hasta el punto que pueden llegar a dañarse.
 
@@ -217,21 +204,21 @@ Podemos poner como ejemplo las lámparas más comunes de terapia que tienen una 
 
 **Luz roja**
 
-**Distancia:** 10cm
+**Distancia:** 10cm  
 **Duración:** 10m
 
 33 J/cm2
 
 24 J/cm2
 
-**Distancia:** 20cm
+**Distancia:** 20cm  
 **Duración:** 20m
 
 24 J/cm2
 
 16,8 J/cm2
 
-**Distancia:** 30cm
+**Distancia:** 30cm  
 **Duración:** 30m
 
 16,2 J/cm2
@@ -248,7 +235,7 @@ Algunos fabricantes verás que mencionan el ángulo de la luz para determinar c�
 
 Por ejemplo, los rayos LED de gran angular (aquellas lámparas que digan que tienen mucho ángulo como por ejemplo 60º), significa que la luz se propagará rápidamente y tendrá más cobertura, pero que a la vez perderá su intensidad con la distancia.
 
-![ángulo rayo luz roja](https://pau.ninja/wp-content/uploads/2023/04/angulo-rayo-luz-roja.jpeg)
+![ángulo rayo luz roja](./wp-content/uploads/2023/04angulo-rayo-luz-roja.jpeg)
 
 Al otro lado de la balanza, menos ángulo daría menos amplitud (nos cubre menos parte del cuerpo) pero la intensidad está más concentrada incluso a distancias largas.
 
@@ -263,13 +250,13 @@ Os puedo adelantar que aunque es una cosa a tener en cuenta, el ángulo del rayo
 
 De hecho lo utilizo más como una métrica para ver si el fabricante lo incluye en las especificaciones porque entonces es un indicador de que saben lo que están vendiendo. Spoiler: el 90% no lo hacen.
 
-![rayos concentrados luz roja](https://pau.ninja/wp-content/uploads/2023/04/rayos-concentrados-luz-roja.jpeg)
+![rayos concentrados luz roja](./wp-content/uploads/2023/04rayos-concentrados-luz-roja.jpeg)
 
 Si lees las descripciones de la mayoría de marcas de lámparas de terapia de luz roja verás que afirman que «necesitas estar cerca del LED para que sea efectivo». Básicamente están haciendo una generalización basándose en que la mayoría de luces LED tienen un ángulo amplio pero hay muchos modelos actuales que concentran el rayo en ángulos más estrechos.
 
 La opción más óptima sería si la lámpara tiene un rayo con ángulo amplio/elevado entonces queremos estar cerca, en cambio si el rayo está concentrado en poco ángulo, si que nos queremos distanciar más.
 
-![ángulo ancho vs rayo estrecho](https://pau.ninja/wp-content/uploads/2023/04/angulo-ancho-vs-rayo-estrecho.jpeg)
+![ángulo ancho vs rayo estrecho](./wp-content/uploads/2023/04angulo-ancho-vs-rayo-estrecho.jpeg)
 
 Foto: en el #2 se cubre poca parte del cuerpo y en el #3 se desaprovecha mucha luz.
 
@@ -291,7 +278,7 @@ Quizás empieces a ver modelos que te ofrecen la función de función de «puls
 
 Lo que pasa es que… **es pseudociencia**.
 
-La evidencia hasta ahora no da soporte a esta función, de hecho cito textualmente: «fue imposible establecer una correlación significativa entre la frecuencia del pulso y la condición patológica, debido a la gran variedad y disparidad de datos. En cuanto a otros parámetros de la pulsación, fueron deficientes o inconsciente»[7](<javascript:void(0)>)Hashmi JT, Huang YY, Sharma SK, Kurup DB, De Taboada L, Carroll JD, Hamblin MR. Effect of pulsing in low-level light therapy. Lasers Surg Med. 2010 Aug;42(6):450-66. doi: 10.1002/lsm.20950. PMID: 20662021; PMCID: PMC2933784..
+La evidencia hasta ahora no da soporte a esta función, de hecho cito textualmente: «fue imposible establecer una correlación significativa entre la frecuencia del pulso y la condición patológica, debido a la gran variedad y disparidad de datos. En cuanto a otros parámetros de la pulsación, fueron deficientes o inconsciente»[ref-7](#ref-7){.ref}.
 
 O sea que si vemos una marca que nos incluye esta función, desconfiad, porque está basado en cero ciencia. Significa que lo estarán incluyendo sólo para «diferenciarse» y se traducirá en un precio de lámpara más caro que la competencia.
 
@@ -307,25 +294,25 @@ En las luces LED el _flickering_, es este encendido y apagado pero que sucede de
 
 Desgraciadamente desde el descubrimiento de la luz LED, mucha de la tecnología que nos da luz LED, tiene ese _flickering_. Algunas personas muy sensibles pueden llegar a desarrollar problemas de salud sin saber a qué se debe, cuando resulta que es por culpa de este parpadeo que no podemos percibir. Estamos hablando de que pueden desarrollar:
 
-- Migrañas[8](<javascript:void(0)>)Karanovic O, Thabet M, Wilson HR, Wilkinson F. Detection and discrimination of flicker contrast in migraine. Cephalalgia. 2011 Apr;31(6):723-36. doi: 10.1177/0333102411398401. PMID: 21493642; PMCID: PMC3571449.
-- Nauseas, vértigo, ataques de pánico[9](<javascript:void(0)>)IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers
-- Hasta ataques de los serios en personas en oficinas o en festivales de música[10](<javascript:void(0)>)Fisher RS, Acharya JN, Baumer FM, French JA, Parisi P, Solodar JH, Szaflarski JP, Thio LL, Tolchin B, Wilkins AJ, Kasteleijn-Nolst Trenité D. Visually sensitive seizures: An updated review by the Epilepsy Foundation. Epilepsia. 2022 Apr;63(4):739-768. doi: 10.1111/epi.17175. Epub 2022 Feb 7. PMID: 35132632.[11](<javascript:void(0)>)Radford B, Bartholomew R. Pokémon contagion: photosensitive epilepsy or mass psychogenic illness? South Med J. 2001 Feb;94(2):197-204. PMID: 11235034.[12](<javascript:void(0)>)Salet N, Visser M, Stam C, Smulders YM. Stroboscopic light effects during electronic dance music festivals and photosensitive epilepsy: a cohort study and case report. BMJ Open. 2019 Jun 11;9(6):e023442. doi: 10.1136/bmjopen-2018-023442. PMID: 31186244; PMCID: PMC6585837.
+- Migrañas[ref-8](#ref-8){.ref}
+- Nauseas, vértigo, ataques de pánico[ref-9](#ref-9){.ref}
+- Hasta ataques de los serios en personas en oficinas o en festivales de música[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}[ref-12](#ref-12){.ref}
 - Dolor en los ojos (como cuando pasas mucho rato con el ordenador o alguna pantalla)
-- Problemas de concentración, productividad y disminución del ritmo de lectura y comprensión[13](<javascript:void(0)>)Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.[14](<javascript:void(0)>)Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.
+- Problemas de concentración, productividad y disminución del ritmo de lectura y comprensión[ref-13](#ref-13){.ref}[ref-14](#ref-14){.ref}
 - No es moco de pavo porque hasta hay efectos largoplacistas del parpadeo como la fotosensibilidad, migraña crónica, fatiga crónica, ansiedad, depresión…
 
 Pero lógicamente este _flicker_, como cualquier otra cosa relacionada con la salud, afectará a más que otros. Esto no significa que no lo quisiéramos reducir al máximo posible.
 
 Hay poca información sobre el _flicker_ específicamente en las terapias de luz roja, pero por suerte he podido encontrar cosas chulas sobre lo que queremos buscar en una lámpara de estas.
 
-Primero diría encontrar una marca de lámpara que ya te ponga que es *flicker free*, pero para los más viciados que sepáis que existen unos dispositivos llamados espectrómetros, que entre otros medidores te miran el *flickering* de tu lámpara cuando la apuntas. Te dan datos como:
+Primero diría encontrar una marca de lámpara que ya te ponga que es _flicker free_, pero para los más viciados que sepáis que existen unos dispositivos llamados espectrómetros, que entre otros medidores te miran el _flickering_ de tu lámpara cuando la apuntas. Te dan datos como:
 
 - **Hercios de parpadeo:** la cantidad de veces que la luz LED cambia. Por ejemplo si sale 70 hercios, significa que la luz se apaga y enciende 70 veces por segundo.
 - **Porcentaje de parpadeo:** que nos muestra el cambio el brillo. En el sentido que si la luz está al 100% pero baja al 50% cuando hay _flickering_, entonces el porcentaje de parpadeo es 50%. Si se apagara del todo y volviera a encender sin darnos cuenta, pues esta métrica nos saldría al 100%.
 
 O sea que puedes tener dos lámparas con 100 hercios (por poner un ejemplo), pero una de ellas tiene un porcentaje de parapadeo de 10% y el otro de 80%. La que va a causar más problemas va a ser el que tenga el porcentaje de parpadeo más alto (en este caso el del 80%).
 
-Si ya tienes un panel comprado, a menos que sientas que te afecta mucho, tampoco lo devolvería teniendo en cuenta la pasta que cuestan estos aparatos. Lo digo porque la mayoría de problemas que tiene la gente con el parpadeo son crónicos y de exposición constante. Por ejemplo un oficinista que lleva una década debajo de luces fluorescentes[15](<javascript:void(0)>)«IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015[16](<javascript:void(0)>)IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers.
+Si ya tienes un panel comprado, a menos que sientas que te afecta mucho, tampoco lo devolvería teniendo en cuenta la pasta que cuestan estos aparatos. Lo digo porque la mayoría de problemas que tiene la gente con el parpadeo son crónicos y de exposición constante. Por ejemplo un oficinista que lleva una década debajo de luces fluorescentes[ref-15](#ref-15){.ref}«,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015[ref-16](#ref-16){.ref}.
 
 Además pensad que mientras estamos expuestos a la lámpara, no estamos haciendo ninguna tarea que sea cognitivamente demandante. De hecho la mayoría de veces simplemente puedes estar haciendo ejercicios de respiración, o leyendo un libro, o mirando un video, o estirando…
 
@@ -337,13 +324,13 @@ Finalmente, si hemos considerado todo lo anterior algo que para mí también es 
 
 Si la marca es un fabricante que se toma en serio la ciencia, habrá fabricado tu lámpara de modo que se pueda usar en hospitales y entornos clínicos, donde los niveles de radiaciones EM tienen que estar reducidas sí o sí para evitar interferencias con otros equipes sensibles a las ondas.
 
-Y es que para mí sería contraintuitivo y hasta una hipocresía en toda su regla, comprarme un aparato electrónico (otro) que prometiera mil beneficios, pero que a la vez me estuviera irradiando [sabiendo los efectos que las ondas electromagnéticas tienen para la salud](https://pau.ninja/efectos-ondas-electromagneticas/) (#390).
+Y es que para mí sería contraintuitivo y hasta una hipocresía en toda su regla, comprarme un aparato electrónico (otro) que prometiera mil beneficios, pero que a la vez me estuviera irradiando [sabiendo los efectos que las ondas electromagnéticas tienen para la salud](./efectos-ondas-electromagneticas) (#390).
 
 ## La mejor lámpara de luz roja
 
 Teniendo en cuenta todo lo anterior, aquí tienes el modelo de lámpara de luz roja que he terminado comprando pero también el panel de cuerpo completo.
 
-[![lámpara de luz roja](https://pau.ninja/wp-content/uploads/2023/05/lampara-luz-roja.jpeg)](https://pau.ninja/lampara)
+[![lámpara de luz roja](./wp-content/uploads/2023/05/lampara-luz-roja.jpeg)](https://pau.ninjalampara)  
 [Comprar aquí](https://pau.ninja/lampara)
 
 - **Cupón descuento:** _PAUNINJA_
@@ -372,7 +359,7 @@ La primera que compré fue de Estados Unidos pero las aduanas me querían hacer 
 - **Flicker:** no hay parpadeo subconsciente invisible para el ojo humano.
 - **Radiación EM:** lámparas y paneles creados teniendo en cuenta las ondas electromagnéticas para la salud.
 
-[**CytoLED**](https://pau.ninja/lampara-luz-roja-e-infrarroja/#La_mejor_lampara_de_luz_roja)
+[**CytoLED**](./lampara-luz-roja-e-infrarroja#La_mejor_lampara_de_luz_roja)
 
 - **Desde:** Holanda
 - **Engañan con la irradiación:** no ✅
@@ -484,65 +471,151 @@ La primera que compré fue de Estados Unidos pero las aduanas me querían hacer 
 Pulsa aquí para plegarlas/desplegarlas.
 
 - 1
-
-  Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.
-
+    
+    
+    
 - 2
-
-  Barolet D. Light-emitting diodes (LEDs) in dermatology. Semin Cutan Med Surg. 2008 Dec;27(4):227–238.
-
+    
+    
+    
 - 3
-
-  Huang YY, Chen AC, Carroll JD, Hamblin MR. Biphasic dose response in low level light therapy. Dose Response. 2009 Sep 1;7(4):358-83. doi: 10.2203/dose-response.09-027.Hamblin. PMID: 20011653; PMCID: PMC2790317.
-
+    
+    
+    
 - 4
-
-  Lee SY, Park KH, Choi JW, Kwon JK, Lee DR, Shin MS, Lee JS, You CE, Park MY. A prospective, randomized, placebo-controlled, double-blinded, and split-face clinical study on LED phototherapy for skin rejuvenation: clinical, profilometric, histologic, ultrastructural, and biochemical evaluations and comparison of three different treatment settings. J Photochem Photobiol B. 2007 Jul 27;88(1):51-67. doi: 10.1016/j.jphotobiol.2007.04.008. Epub 2007 May 1. PMID: 17566756.
-
+    
+    
+    
 - 5
-
-  Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.
-
+    
+    
+    
 - 6
-
-  Avci P, Gupta A, Sadasivam M, Vecchio D, Pam Z, Pam N, Hamblin MR. Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring. Semin Cutan Med Surg. 2013 Mar;32(1):41-52. PMID: 24049929; PMCID: PMC4126803.
-
+    
+    
+    
 - 7
-
-  Hashmi JT, Huang YY, Sharma SK, Kurup DB, De Taboada L, Carroll JD, Hamblin MR. Effect of pulsing in low-level light therapy. Lasers Surg Med. 2010 Aug;42(6):450-66. doi: 10.1002/lsm.20950. PMID: 20662021; PMCID: PMC2933784.
-
+    
+    
+    
 - 8
-
-  Karanovic O, Thabet M, Wilson HR, Wilkinson F. Detection and discrimination of flicker contrast in migraine. Cephalalgia. 2011 Apr;31(6):723-36. doi: 10.1177/0333102411398401. PMID: 21493642; PMCID: PMC3571449.
-
+    
+    
+    
 - 9
-
-  IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers
-
+    
+    
+    
 - 10
-
-  Fisher RS, Acharya JN, Baumer FM, French JA, Parisi P, Solodar JH, Szaflarski JP, Thio LL, Tolchin B, Wilkins AJ, Kasteleijn-Nolst Trenité D. Visually sensitive seizures: An updated review by the Epilepsy Foundation. Epilepsia. 2022 Apr;63(4):739-768. doi: 10.1111/epi.17175. Epub 2022 Feb 7. PMID: 35132632.
-
+    
+    
+    
 - 11
-
-  Radford B, Bartholomew R. Pokémon contagion: photosensitive epilepsy or mass psychogenic illness? South Med J. 2001 Feb;94(2):197-204. PMID: 11235034.
-
+    
+    
+    
 - 12
-
-  Salet N, Visser M, Stam C, Smulders YM. Stroboscopic light effects during electronic dance music festivals and photosensitive epilepsy: a cohort study and case report. BMJ Open. 2019 Jun 11;9(6):e023442. doi: 10.1136/bmjopen-2018-023442. PMID: 31186244; PMCID: PMC6585837.
-
+    
+    
+    
 - 13
-
-  Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.
-
+    
+    
+    
 - 14
-
-  Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.
-
+    
+    
+    
 - 15
-
-  «IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015
-
+    
+    «,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015
+    
 - 16
+    
+    
+    
 
-  IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Hábitos saludables](./habitos-saludables)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/lampara-luz-roja-e-infrarroja/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":17438,"title":"7%20consejos%20antes%20de%20comprar%20tu%20L%C3%81MPARA%20de%20luz%20roja","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/05\\/persona-compra-lamparas-luz-roja.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

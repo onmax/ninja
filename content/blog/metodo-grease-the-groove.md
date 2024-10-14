@@ -1,13 +1,18 @@
 ---
-title: "¿Sin tiempo para entrenar? Usa el método Grease The Groove"
+title: "¿Sin tiempo para entrenar?"
+url: https://pau.ninja/metodo-grease-the-groove
+slug: metodo-grease-the-groove
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-entrena-con-metodo-grease-the-groove.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/09/persona-entrena-con-metodo-grease-the-groove.jpg
 published: 2024-09-23T06:24:31+00:00
 modified: 2024-09-25T05:43:31+00:00
+scrappedAt: 2024-10-14T09:18:53.482Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/53247121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-9%2F18425111-48f6-011a-1923-07e71c2c6b53.mp3
-slug: metodo-grease-the-groove
+bibliography: ["Enoka, R. M. (2008). Neuromechanics of muscle and motor control. Journal of Biomechanics, 41(8), 1623-1626.","Carroll, T. J., Riek, S., & Carson, R. G. (2001). Neural adaptations to resistance training: Implications for movement control. European Journal of Applied Physiology, 83(1), 106-114.","Kelly, A. M., & Garavan, H. (2005). Human functional neuroimaging of brain changes associated with practice. Cerebral Cortex, 15(8), 1089-1102. https://doi.org/10.1093/cercor/bhi005","Dayan, E., & Cohen, L. G. (2011). Neuroplasticity subserving motor skill learning. Neuron, 72(3), 443-454. https://doi.org/10.1016/j.neuron.2011.10.008","Gabriel, D. A., Kamen, G., & Frost, G. (2006). Neural adaptations to resistive exercise: Mechanisms and recommendations for training practices. Sports Medicine, 36(2), 133-149.","StrongFirst. 2015. “How Many Sets to Do When ‘Greasing the Groove’?” YouTube Video.","Damas, F., Phillips, S. M., Vechin, F. C., & Ugrinowitsch, C. (2019). A review of resistance training-induced muscle hypertrophy: Inorganic to molecular mechanisms. Sports Medicine, 49(9), 1371-1385.","Fink, J., Kikuchi, N., & Nakazato, K. (2018). Effects of rest intervals and training loads on metabolic stress and muscle hypertrophy. Clinical Physiology and Functional Imaging, 38(2), 261-268.","Vigotsky, A. D., & Beardsley, C. (2016). Contralateral effects of unilateral strength training: Evidence and possible mechanisms. Journal of Strength and Conditioning Research, 30(10), 2954-2964.","Baar, K. (2014). Training for endurance and strength: Lessons from cell signaling. Medicine & Science in Sports & Exercise, 46(10), 1900-1907.","Blazevich, A. J., & Sharp, N. C. C. (2005). Understanding muscle adaptation to physical activity: A comprehensive model. Sports Medicine, 35(6), 399-411."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/53247121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-9%2F18425111-48f6-011a-1923-07e71c2c6b53.mp3](https://anchor.fm/s/98566448/podcast/play/53247121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-9%2F18425111-48f6-011a-1923-07e71c2c6b53.mp3)
 
 Ninja de la vida, tanto si **tienes tiempo** pero quieres aumentar repeticiones de algún ejercicio específico…
@@ -18,7 +23,7 @@ Felicidades: lo has encontrado.
 
 El método Grease The Groove inventado por el entrenador soviético Pavel Tsatsoulin, es una metodología de entrenamiento que nos permite, en **pocos segundos diarios** sacarnos un entrenamiento que nos aumente la fuerza y potencialmente la hipertrofia de una forma increíblemente eficiente.
 
-Ideal tanto para los que ponen las [típicas excusas para no ir a entrenar](https://pau.ninja/excusas-para-no-ir-a-entrenar/), como los que además de tener nuestra rutina, queremos involucrar ciertos movimientos o ejercicios alrededor del día.
+Ideal tanto para los que ponen las [típicas excusas para no ir a entrenar](./excusas-para-no-ir-a-entrenar), como los que además de tener nuestra rutina, queremos involucrar ciertos movimientos o ejercicios alrededor del día.
 
 La mayoría de nosotros cuando pensamos en entrenar, lo primero que nos viene a la mente son los músculos.
 
@@ -26,39 +31,19 @@ El estado de fatiga de los músculos, su volumen, su crecimiento…
 
 Pero en realidad los patrones de ejercicios que hacemos van mucho más allá de lo muscular.
 
-> Porque la fuerza es una habilidad, y como toda habilidad debe practicarse para que el cerebro haga las conexiones neuronales pertinentes para que podamos ser más efectivos cuando hacemos el patrón de movimiento.[1](<javascript:void(0)>)Enoka, R. M. (2008). Neuromechanics of muscle and motor control. Journal of Biomechanics, 41(8), 1623-1626.[2](<javascript:void(0)>)Carroll, T. J., Riek, S., & Carson, R. G. (2001). Neural adaptations to resistance training: Implications for movement control. European Journal of Applied Physiology, 83(1), 106-114.
+> Porque la fuerza es una habilidad, y como toda habilidad debe practicarse para que el cerebro haga las conexiones neuronales pertinentes para que podamos ser más efectivos cuando hacemos el patrón de movimiento.[ref-1](#ref-1){.ref}[ref-2](#ref-2){.ref}
 
-Cuanto más hacemos *algo*, más eficiente se vuelve el cerebro porque se da cuenta que tendrá que repetir esos patrones recurrentemente.
+Cuanto más hacemos _algo_, más eficiente se vuelve el cerebro porque se da cuenta que tendrá que repetir esos patrones recurrentemente.
 
-Por lo tanto nos crea un estado de eficiencia para gastar cada vez menos recursos y energía en poder hacer aquello.[3](<javascript:void(0)>)Kelly, A. M., & Garavan, H. (2005). Human functional neuroimaging of brain changes associated with practice. Cerebral Cortex, 15(8), 1089-1102. https://doi.org/10.1093/cercor/bhi005[4](javascript:void\(0\))Dayan, E., & Cohen, L. G. (2011). Neuroplasticity subserving motor skill learning. Neuron, 72(3), 443-454. https://doi.org/10.1016/j.neuron.2011.10.008
+Por lo tanto nos crea un estado de eficiencia para gastar cada vez menos recursos y energía en poder hacer aquello.[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}
 
-Es lo que llamamos *neuroplasticidad*.
+Es lo que llamamos _neuroplasticidad_.
 
-Pues el método Grease The Groove se basa en potenciar, en crear y en *lubricar* estas conexiones neuronales de los movimientos a los que queremos aumentar repeticiones como las dominadas, fondos, o lo que te de la gana.
+Pues el método Grease The Groove se basa en potenciar, en crear y en _lubricar_ estas conexiones neuronales de los movimientos a los que queremos aumentar repeticiones como las dominadas, fondos, o lo que te de la gana.
 
-De hecho ahora algunos estudios hasta han llegado a concluir que la fuerza está más relacionada con estos patrones de activación neural que en el aumento de masa muscular.[5](<javascript:void(0)>)Gabriel, D. A., Kamen, G., & Frost, G. (2006). Neural adaptations to resistive exercise: Mechanisms and recommendations for training practices. Sports Medicine, 36(2), 133-149.
+De hecho ahora algunos estudios hasta han llegado a concluir que la fuerza está más relacionada con estos patrones de activación neural que en el aumento de masa muscular.[ref-5](#ref-5){.ref}
 
 Lo que tiene todo el sentido del mundo si nos paramos a observar la vida diaria. Si usamos el sentido común… porque mirad.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Usa sentido común en tu plan de entreno](#Usa_sentido_comun_en_tu_plan_de_entreno 'Usa sentido común en tu plan de entreno')
-- [Qué es el método Grease The Groove](#Que_es_el_metodo_Grease_The_Groove 'Qué es el método Grease The Groove')
-  - [Cómo seguir el método](#Como_seguir_el_metodo 'Cómo seguir el método')
-  - [Por qué funciona GtG](#Por_que_funciona_GtG 'Por qué funciona GtG')
-  - [Orígenes del método](#Origenes_del_metodo 'Orígenes del método')
-- [Cómo hacer el método Grease The Groove desde cero](#Como_hacer_el_metodo_Grease_The_Groove_desde_cero 'Cómo hacer el método Grease The Groove desde cero')
-  - [Aplícalo](#Aplicalo 'Aplícalo')
-  - [Periodiza](#Periodiza 'Periodiza')
-  - [Progresa](#Progresa 'Progresa')
-- [Preguntas frecuentes del método Grease The Groove](#Preguntas_frecuentes_del_metodo_Grease_The_Groove 'Preguntas frecuentes del método Grease The Groove')
-  - [¿Ganarás hipertrofia con Grease The Groove?](#%C2%BFGanaras_hipertrofia_con_Grease_The_Groove '¿Ganarás hipertrofia con Grease The Groove?')
-  - [¿Qué opiniones te dio los resultados de Greasing The Groove?](#%C2%BFQue_opiniones_te_dio_los_resultados_de_Greasing_The_Groove '¿Qué opiniones te dio los resultados de Greasing The Groove?')
-  - [¿Puedo combinar GtG con otros entrenamientos?](#%C2%BFPuedo_combinar_GtG_con_otros_entrenamientos '¿Puedo combinar GtG con otros entrenamientos?')
-  - [¿Es sólo para dominadas, flexiones o calistenia?](#%C2%BFEs_solo_para_dominadas_flexiones_o_calistenia '¿Es sólo para dominadas, flexiones o calistenia?')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Usa sentido común en tu plan de entreno
 
@@ -70,7 +55,7 @@ Pero pensemos un momento en lo que esto significa. En qué significa que usen es
 
 ¿Qué sucede? Pues que el cuerpo se adapta a las demandas físicas a las que les sometemos.
 
-Pero por alguna extraña razón, cuando nos queremos [estructurar un plan de entrenamiento](https://pau.ninja/plan-entrenamiento-calistenia/), este «sentido común» nos salta por la borda.
+Pero por alguna extraña razón, cuando nos queremos [estructurar un plan de entrenamiento](./plan-entrenamiento-calistenia), este «sentido común» nos salta por la borda.
 
 _Hoy entreno pecho y tiene que pasar 72 horas para volver a tocar el músculo. Y si alguien me reta a unas flexiones diré que no porque estoy descansando los pectorales…_
 
@@ -78,9 +63,9 @@ No sé si os habréis dado cuenta que las personas que lucen como personas que h
 
 ¿Tiene sentido o no? Porque una persona que hace ejercicio constantemente no es una que se hace necesariamente una sesión seguida de entrenamiento de 6 horas ni de 1 hora pero a pura intensidad.
 
-Cuando lo vi más claro fue, no sólo al ver estas personas en gimnasios, parques de calistenia o retiros (…), sino también cuando me puse en serio con [mis ejercicios de marcar la mandíbula](https://pau.ninja/ejercicios-para-marcar-mandibula-hombres/) (#247).
+Cuando lo vi más claro fue, no sólo al ver estas personas en gimnasios, parques de calistenia o retiros (…), sino también cuando me puse en serio con [mis ejercicios de marcar la mandíbula](./ejercicios-para-marcar-mandibula-hombres) (#247).
 
-Viendo como los mejores resultados no vinieron con _casi_ acordarme de masticar [estos chicles más duros](https://pau.ninja/tienda/chicles-duros/) casi una vez a la semana…
+Viendo como los mejores resultados no vinieron con _casi_ acordarme de masticar [estos chicles más duros](./tienda/chicles-duros) casi una vez a la semana…
 
 No.
 
@@ -100,9 +85,9 @@ Si yo me sacara 10 dominadas, pues en vez de ir al gimnasio a hacer una serie co
 
 La gracia aquí es que no es que vayamos a _hacer una sesión_, sino que hacemos las series **muy espaciadas** alrededor de nuestro día.
 
-Esto hace que el método Grease The Groove no sólo lleve a muy poca fatiga, sino que además no requiera a penas de tiempo *destinado* sólo para entrenar.
+Esto hace que el método Grease The Groove no sólo lleve a muy poca fatiga, sino que además no requiera a penas de tiempo _destinado_ sólo para entrenar.
 
-Que lo podamos *salpicar* alrededor del día.
+Que lo podamos _salpicar_ alrededor del día.
 
 Pues colgándonos unas anillas o una barra de dominadas debajo de la puerta de la oficina, o de la habitación y que cada vez que pasemos por debajo, una vez cada 1-3 horas, pues nos sacáramos una serie ligerita.
 
@@ -116,7 +101,7 @@ Y la tuerca a la que hace referencia no es tu ex (la tuerta), sino las **conexio
 - Cuanto más eficiente se haga el sistema neuromuscular más repeticiones podemos hacer
 - Cuantas más repeticiones podamos hacer, más fuertes nos hacemos
 
-Siempre nos preocupamos de tener nuestro *hardware* actualizado, pero el método GtG se trata de actualizar el *software*.
+Siempre nos preocupamos de tener nuestro _hardware_ actualizado, pero el método GtG se trata de actualizar el _software_.
 
 ### Orígenes del método
 
@@ -128,7 +113,7 @@ Que hablaba de Grease The Groove en su libro Naked Warrior publicado hace ya dos
 
 Como tocar un instrumento. Con pura práctica continuada y esparcida.
 
-![meme Pavel Tsatsouline](https://pau.ninja/wp-content/uploads/2022/05/meme-Pavel-Tsatsouline.jpeg)
+![meme Pavel Tsatsouline](./wp-content/uploads/2022/05meme-Pavel-Tsatsouline.jpeg)
 
 Nunca he visto a un tío más autoritario que Pavel y si el tío me dice que tengo que volver con mi ex, os juro que lo haré. Vale quizás esto si está fuera de lugar, pero no la evidencia sobre GtG y sobretodo **décadas de experiencia** de Pavel entrenando a centenares de personas.
 
@@ -154,11 +139,9 @@ Es lo que he estado haciendo yo recientemente, pero para personas que no estén 
 
 El caso es que así que terminamos una serie del método, deberíamos sentirnos súper frescos.
 
-Realmente el secreto de un método de entrenamiento como esto hecho tanto para personas que quieren ganar fuerza como para personas que quieren entrenar pero no tienen tiempo, es un [secreto que está en el hábito](https://pau.ninja/como-crear-un-habito/) que crea un sistema así. En apalancarlo (#469).
+Realmente el secreto de un método de entrenamiento como esto hecho tanto para personas que quieren ganar fuerza como para personas que quieren entrenar pero no tienen tiempo, es un [secreto que está en el hábito](./como-crear-un-habito) que crea un sistema así. En apalancarlo (#469).
 
 Porque nada más nos potenciará la identidad y el entorno como hacer unas pocas dominadas alrededor del día. Simplemente lo tendremos todo a nuestro favor para hacerlo: hacerlo atractivo y fácil.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Olvídate de hacer 4 o 6 o 10 series al día, simplemente es tan fácil como ponértelo delante de lo morros.
 
@@ -183,11 +166,9 @@ Algo a lo que agarrarnos que nos diga exactamente lo que tenemos que hacer para 
 - ¿Cuantas series hago?
 - ¿Cuántas repeticiones por serie?
 
-El propio Pavel lo decía: «lo que puedas siempre y cuando estés fresco». La clave está en notar en tu cuerpo cómo los ejercicios, el rendimiento se mantiene estable y no vas acumulando fatiga.[6](<javascript:void(0)>)StrongFirst. 2015. “How Many Sets to Do When ‘Greasing the Groove’?” YouTube Video.
+El propio Pavel lo decía: «lo que puedas siempre y cuando estés fresco». La clave está en notar en tu cuerpo cómo los ejercicios, el rendimiento se mantiene estable y no vas acumulando fatiga.[ref-6](#ref-6){.ref}
 
 Cuando estoy en casa mis padres me voy a pasear por la zona deportiva varias veces al día para desconectar de estar sentado y también para llegar a 20.000 pasos diarios.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Por allí hay un parque de calistenia que es el que uso para entrenar cuando estoy por esos lares visitándolos, porque ya sabéis que los beneficios de entrenar al aire libre son muy superiores a hacerlo en un gimnasio… (#629).
 
@@ -196,8 +177,6 @@ Pues independientemente de mi plan de entreno, como salgo a caminar varias sesio
 Hago exactamente 3 dominadas (hasta el pecho, para darles más explosividad y así son más difíciles).
 
 Cuento que me voy a hacer x3, sí, pero no cuento la cantidad de series (equivalentes a las veces que voy a caminar).
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Claro al final del día si he salido a hacer el paseo 5 o 6 veces significa un total de 15-18 dominadas hasta el pecho, que no es moco de pavo…
 
@@ -215,7 +194,7 @@ Si normalmente sólo hacías 3-4 series alrededor del día, una muy buena idea e
 
 Porqué sí.
 
-Tiene [su propia sobrecarga progresiva](https://pau.ninja/sobrecarga-progresiva-hipertrofia/) pero lógicamente la única posibilidad de mejora es con más volumen.
+Tiene [su propia sobrecarga progresiva](./sobrecarga-progresiva-hipertrofia) pero lógicamente la única posibilidad de mejora es con más volumen.
 
 Ni con más frecuencia (porque lo hacemos cada día), ni por tiempo (porque está hecho para que haya mucho descanso entre series).
 
@@ -241,21 +220,21 @@ Pensémoslo, ¿qué es lo que genera masa muscular?
 
 Más allá de la ciencia de la hipertrofia podríamos responder a esta pregunta con que:
 
-> El [proceso de ganar masa muscular más o menos rápido](https://pau.ninja/como-ganar-masa-muscular-rapido/) es el proceso de las demandas del cuerpo para adaptarse a nuestro estilo de vida.[7](<javascript:void(0)>)Damas, F., Phillips, S. M., Vechin, F. C., & Ugrinowitsch, C. (2019). A review of resistance training-induced muscle hypertrophy: Inorganic to molecular mechanisms. Sports Medicine, 49(9), 1371-1385.[8](<javascript:void(0)>)Fink, J., Kikuchi, N., & Nakazato, K. (2018). Effects of rest intervals and training loads on metabolic stress and muscle hypertrophy. Clinical Physiology and Functional Imaging, 38(2), 261-268.
+> El [proceso de ganar masa muscular más o menos rápido](./como-ganar-masa-muscular-rapido) es el proceso de las demandas del cuerpo para adaptarse a nuestro estilo de vida.[ref-7](#ref-7){.ref}[ref-8](#ref-8){.ref}
 
 En otras palabras: que si vivimos un estilo de vida que requiere de músculo, nuestro cuerpo se adapta para llegar a esas demandas.
 
-Precisamente este es el motivo por el que personas que no siguen [ningún tipo de plan de entrenamiento](https://pau.ninja/plan-entrenamiento-calistenia/) pero que se ven sujeto a hacer esfuerzos físicos, **crean músculo**.
+Precisamente este es el motivo por el que personas que no siguen [ningún tipo de plan de entrenamiento](./plan-entrenamiento-calistenia) pero que se ven sujeto a hacer esfuerzos físicos, **crean músculo**.
 
 Paletas, carpinteros, repartidores, trabajadores del hierro, masajistas que se pasan 8 horas del día apretando.
 
 U otros montones de trabajadores relacionados con la actividad física.
 
-Es por esto que son mucho más fuertes pero que a la vez también tienen los músculos especializados más marcados, redondos y fuertes.[9](<javascript:void(0)>)Vigotsky, A. D., & Beardsley, C. (2016). Contralateral effects of unilateral strength training: Evidence and possible mechanisms. Journal of Strength and Conditioning Research, 30(10), 2954-2964.[10](<javascript:void(0)>)Baar, K. (2014). Training for endurance and strength: Lessons from cell signaling. Medicine & Science in Sports & Exercise, 46(10), 1900-1907.[11](<javascript:void(0)>)Blazevich, A. J., & Sharp, N. C. C. (2005). Understanding muscle adaptation to physical activity: A comprehensive model. Sports Medicine, 35(6), 399-411.
+Es por esto que son mucho más fuertes pero que a la vez también tienen los músculos especializados más marcados, redondos y fuertes.[ref-9](#ref-9){.ref}[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}
 
 Y fijaros como no es precisamente que estos profesionales estén entrenando de forma recurrente cada día, sino que lo que están haciendo es un Greasing The Groove de forma consistente.
 
-Mucho volumen, intensidad *subóptima* para la industria del fitness, pero aún así le meten un guantazo a cualquier culturista y lo dejan loco.
+Mucho volumen, intensidad _subóptima_ para la industria del fitness, pero aún así le meten un guantazo a cualquier culturista y lo dejan loco.
 
 > En otras palabras ninjas de la vida, tu nivel de adaptación sube para acomodar el nivel de estímulo que le estamos dando a los músculos que usamos de forma recurrente.
 
@@ -293,17 +272,17 @@ Estás en el portátil, te suena la alarma del Pomodoro y te pones a hacer unas 
 
 O te levantas de la cama, ya tienes las anillas preparadas, y te haces unas dominadas o unos fondos mientras se hace el café.
 
-¿Cómo no va a [ser bueno entrenar todos los días](https://pau.ninja/es-bueno-entrenar-todos-los-dias/) con este filosofía? (#565)
+¿Cómo no va a [ser bueno entrenar todos los días](./es-bueno-entrenar-todos-los-dias) con este filosofía? (#565)
 
-El método Grease The Groove no es que [te haga ser más disciplinado](https://pau.ninja/como-ser-disciplinado/)… o sí, si usas la motivación como gasolina pero no hace falta que estés motivado porque te ayuda a crea buenos hábitos _hackeando_ el entorno de los hábitos.
+El método Grease The Groove no es que [te haga ser más disciplinado](./como-ser-disciplinado)… o sí, si usas la motivación como gasolina pero no hace falta que estés motivado porque te ayuda a crea buenos hábitos _hackeando_ el entorno de los hábitos.
 
 Porque claro, si tienes que repetir el movimiento durante el día, lo más cómodo es:
 
 - Dejarte la kettlebell en medio del pasillo y cada vez que te la cruces tienes que hacer algunos _swings_
-- Dejarte la almohada delante de la cocina y cada vez que te la cruces tienes que [hacer un _frog stand_](https://pau.ninja/como-hacer-frog-stand/) o pino
+- Dejarte la almohada delante de la cocina y cada vez que te la cruces tienes que [hacer un _frog stand_](./como-hacer-frog-stand) o pino
 - Ponerte una barra de dominadas en una puerta y cada vez que pases por allí te tienes que sacar unas repeticiones
 
-Quizás [esta era el hábito para empezar a ir al gimnasio](https://pau.ninja/como-empezar-a-ir-al-gimnasio/) que buscabas. Incorporarlo en tu vida sin sentir que vas expresamente a un lugar para sufrir.
+Quizás [esta era el hábito para empezar a ir al gimnasio](./como-empezar-a-ir-al-gimnasio) que buscabas. Incorporarlo en tu vida sin sentir que vas expresamente a un lugar para sufrir.
 
 ### ¿Puedo combinar GtG con otros entrenamientos?
 
@@ -319,7 +298,7 @@ Simplemente lo puedes incorporar alrededor de tu día como hice yo, aunque es ve
 
 ### ¿Es sólo para dominadas, flexiones o calistenia?
 
-La cuestión es al menos inicialmente elegir **un solo ejercicio** con el que queramos focalizarnos para aumentar repeticiones, y más adelante si el cuerpo te responde bien, puedes hacer un mini [circuito de calistenia o similar](https://pau.ninja/circuito-calistenia/).
+La cuestión es al menos inicialmente elegir **un solo ejercicio** con el que queramos focalizarnos para aumentar repeticiones, y más adelante si el cuerpo te responde bien, puedes hacer un mini [circuito de calistenia o similar](./circuito-calistenia).
 
 Porque no tiene porque ser sólo de dominadas, o de flexiones, o sólo de calistenia.
 
@@ -336,51 +315,3 @@ Que podamos hacer más dominadas al cabo de unos meses no significa necesariamen
 Si estás haciendo dominadas, según él, tiene sentido ir cambiando el agarre, pero no lo hagas con más de 2 ejercicios en los que te estés centrando.
 
 Al menos inicialmente. Después ya nos dará pie a experimentar todo lo que queramos con esto de los circuitos.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Enoka, R. M. (2008). Neuromechanics of muscle and motor control. Journal of Biomechanics, 41(8), 1623-1626.
-
-- 2
-
-  Carroll, T. J., Riek, S., & Carson, R. G. (2001). Neural adaptations to resistance training: Implications for movement control. European Journal of Applied Physiology, 83(1), 106-114.
-
-- 3
-
-  Kelly, A. M., & Garavan, H. (2005). Human functional neuroimaging of brain changes associated with practice. Cerebral Cortex, 15(8), 1089-1102. https://doi.org/10.1093/cercor/bhi005
-
-- 4
-
-  Dayan, E., & Cohen, L. G. (2011). Neuroplasticity subserving motor skill learning. Neuron, 72(3), 443-454. https://doi.org/10.1016/j.neuron.2011.10.008
-
-- 5
-
-  Gabriel, D. A., Kamen, G., & Frost, G. (2006). Neural adaptations to resistive exercise: Mechanisms and recommendations for training practices. Sports Medicine, 36(2), 133-149.
-
-- 6
-
-  StrongFirst. 2015. “How Many Sets to Do When ‘Greasing the Groove’?” YouTube Video.
-
-- 7
-
-  Damas, F., Phillips, S. M., Vechin, F. C., & Ugrinowitsch, C. (2019). A review of resistance training-induced muscle hypertrophy: Inorganic to molecular mechanisms. Sports Medicine, 49(9), 1371-1385.
-
-- 8
-
-  Fink, J., Kikuchi, N., & Nakazato, K. (2018). Effects of rest intervals and training loads on metabolic stress and muscle hypertrophy. Clinical Physiology and Functional Imaging, 38(2), 261-268.
-
-- 9
-
-  Vigotsky, A. D., & Beardsley, C. (2016). Contralateral effects of unilateral strength training: Evidence and possible mechanisms. Journal of Strength and Conditioning Research, 30(10), 2954-2964.
-
-- 10
-
-  Baar, K. (2014). Training for endurance and strength: Lessons from cell signaling. Medicine & Science in Sports & Exercise, 46(10), 1900-1907.
-
-- 11
-
-  Blazevich, A. J., & Sharp, N. C. C. (2005). Understanding muscle adaptation to physical activity: A comprehensive model. Sports Medicine, 35(6), 399-411.

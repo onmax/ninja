@@ -1,14 +1,19 @@
 ---
-title: "La droga de Dios Por qué los viajes psicodélicos parecen experiencias cercanas a la muerte"
+title: "La droga de Dios"
+url: https://pau.ninja/psicodelicos
+slug: psicodelicos
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: experiencia-psicodelica.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2020/11/experiencia-psicodelica.jpeg
 published: 2020-11-29T10:35:06+00:00
 modified: 2023-08-13T08:17:45+00:00
+scrappedAt: 2024-10-14T09:21:28.809Z
 audioLink: https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad_md_80277705_wp_1.mp3
-slug: psicodelicos
+bibliography: []
 ---
-
-[https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad_md_80277705_wp_1.mp3](https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad_md_80277705_wp_1.mp3)
+[https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad\_md\_80277705\_wp\_1.mp3](https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad_md_80277705_wp_1.mp3)
 
 _Te recomiendo leer esta primera introducción. Me la he trabajado mucho, pero si lo prefieres, puedes saltar más abajo a [la lista de drogas psicodélicas](#Lista_de_tipos_de_drogas_psicodelicas) directamente._
 
@@ -39,7 +44,7 @@ Lo que está claro es que las drogas psicodélicas no tienen nada que ver con la
 
 Una etiqueta que les queda mejor al alcohol, tabaco y medicamentos. Substancias que nos dejan en un estado atontado, dormidos, como si la realidad de nuestros alrededores se apagara. Perdiendo toda percepción de lo que pasa a nuestros alrededores.
 
-> O sea que estas drogas recreacionales nos hacen **menos *aware*. Menos conscientes**.
+> O sea que estas drogas recreacionales nos hacen **menos _aware_. Menos conscientes**.
 
 Por otro lado están los psicodélicos.
 
@@ -47,7 +52,7 @@ Unas substancias que nos adentran en unos estados de conciencia que se represent
 
 No es casualidad que hoy en día hayamos adoptado en nuestro lenguaje la expresión de «flipar en colores».
 
-![The Midnight Gospel](https://pau.ninja/wp-content/uploads/2020/11/The-Midnight-Gospel.jpg)
+![The Midnight Gospel](./wp-content/uploads/2020/11The-Midnight-Gospel.jpg)
 
 «The Midnight Gospel» es una serie de televisión de «dibujos psicodélicos».
 
@@ -64,30 +69,6 @@ Un recurso de exploración y expansión de la conciencia totalmente incomprendid
 Por esto hoy intentaremos entenderlos un poco más.
 
 Desde [cuáles son](#Lista_de_tipos_de_drogas_psicodelicas), sus efectos tanto en ensayos clínicos como en experiencias reveladoras.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Efectos de las drogas psicodélicas](#Efectos_de_las_drogas_psicodelicas 'Efectos de las drogas psicodélicas')
-- [Teorías, hipótesis e historias psicodélicas](#Teorias_hipotesis_e_historias_psicodelicas 'Teorías, hipótesis e historias psicodélicas')
-  - [Arte, dibujos y pinturas psicodélicas](#Arte_dibujos_y_pinturas_psicodelicas 'Arte, dibujos y pinturas psicodélicas')
-  - [Drogas enteógenas](#Drogas_enteogenas 'Drogas enteógenas')
-  - [La teoría del mono dopado](#La_teoria_del_mono_dopado 'La teoría del mono dopado')
-- [Lista de tipos de drogas psicodélicas](#Lista_de_tipos_de_drogas_psicodelicas 'Lista de tipos de drogas psicodélicas')
-  - [Éxtasis o MDMA](#Extasis_o_MDMA 'Éxtasis o MDMA')
-  - [Ácido o LSD](#Acido_o_LSD 'Ácido o LSD')
-  - [Mescalina o Peyote](#Mescalina_o_Peyote 'Mescalina o Peyote')
-  - [Ololiuqui o semillas de Ipomoea tricolor](#Ololiuqui_o_semillas_de_Ipomoea_tricolor 'Ololiuqui o semillas de Ipomoea tricolor')
-  - [Psilocibina o setas mágicas](#Psilocibina_o_setas_magicas 'Psilocibina o setas mágicas')
-  - [Dimetiltriptamina o DMT](#Dimetiltriptamina_o_DMT 'Dimetiltriptamina o DMT')
-- [Consumo de drogas psicodélicas: "set and setting"](#Consumo_de_drogas_psicodelicas_%22set_and_setting%22 'Consumo de drogas psicodélicas: "set and setting"')
-  - [Información](#Informacion 'Información')
-  - [Intención](#Intencion 'Intención')
-  - [Contexto](#Contexto 'Contexto')
-  - [Estado](#Estado 'Estado')
-  - [Guía](#Guia 'Guía')
-- [Psicodélicos y conciencia](#Psicodelicos_y_conciencia 'Psicodélicos y conciencia')
 
 ## Efectos de las drogas psicodélicas
 
@@ -114,7 +95,7 @@ De hecho son las **exactas** sensaciones que tienen aquellos que han vivido una
 
 Algunos [estudios](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.01424/full) han demostrado que con substancias psicodélicas se siente algo similar aunque con distintos grados de intensidad.
 
-![efectos psicodélicos](https://pau.ninja/wp-content/uploads/2020/11/efectos-psicodelicos.jpg)
+![efectos psicodélicos](./wp-content/uploads/2020/11efectos-psicodelicos.jpg)
 
 Por ejemplo se reporta una sensación de separarse del cuerpo **más elevada** por parte de aquellos que han vivido una experiencia cercana a la muerte, que para los que han consumido psicodélicos.
 
@@ -128,8 +109,6 @@ Es verdad que son _papers_ científicos aburridos, pero que considero igual de i
 
 Así que para mirar el otro lado de la moneda, recomiendo escuchar historias de los que han experimentado con drogas psicodélicas. Ya sean amigos, familiares, conocidos o hasta desconocidos por internet.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 El [NYTimes](https://www.nytimes.com/2012/04/22/magazine/how-psychedelic-drugs-can-help-patients-face-death.html) hacía una recopilación de testimonios de pacientes terminales que concluían que el consumo de psicodélicos les había ayudado a deshacerse del miedo a la muerte. De sentir paz interior y aceptación de su situación.
 
 Pero ojo porque no estamos hablando de sentirlo **sólo** cuando estaban bajo los efectos, pero a posteriori. Esto es lo interesante. Que lo que se ha vivido en ese estado de conciencia, es trascendente incluso después de «salir de allí».
@@ -140,7 +119,7 @@ Por eso esas representaciones de coloritos y formas geométricas que hacen los d
 
 Imagina que tu ego se disuelve, que te sientes uno con el universo. De pronto el césped del prado en el que estás, un césped al que nunca habías prestado atención, ahora es más verde que nunca, más «real». Te acercas un poco al suelo y lo sientes vivo. De algún modo experimentas personalmente que este césped forma parte de la tierra y de ti, porque está conectado al suelo donde tú también estás. Aunque «tú»… como tal… no existes. **Todo** sois uno. Sientes una sensación de joya, de amor y de unidad que nunca antes has vivido.
 
-![sensación de unidad](https://pau.ninja/wp-content/uploads/2020/11/sensacion-de-unidad.jpg)
+![sensación de unidad](./wp-content/uploads/2020/11sensacion-de-unidad.jpg)
 
 Imagina que se te aparece una entidad divina o mística. Una revelación que con sólo algunas palabras te dice algo totalmente transcendente para ti. Te habla de tu vida, de tu pasado, y hasta de tu futuro. De tu propósito en la Tierra y la verdadera naturaleza del universo. Te ayuda a entender cuál es la mejor versión de ti mismo a la que pueden aspirar.
 
@@ -178,7 +157,7 @@ Hasta el punto que estudios recientes [sugieren](https://froese.files.wordpress.
 
 Un arte… que plasmaban en las cuevas.
 
-![arte en cavernas](https://pau.ninja/wp-content/uploads/2020/11/arte-en-cavernas.jpg)
+![arte en cavernas](./wp-content/uploads/2020/11arte-en-cavernas.jpg)
 
 Y es que el arte de las cavernas fue creado alrededor del mundo por distintas personas, distintas culturas, en distintos continentes… sin ningún tipo de contacto entre ellas.
 
@@ -188,15 +167,15 @@ El [documental](https://www.bbc.co.uk/programmes/p00tcz6w) de la BBC _How Art Ma
 
 Y tanto este documental como los estudios académicos o algunos [artículos](http://thirdmonk.net/knowledge/psychedelics-cave-paintings.html) intentan responder por qué se parecen tanto algunos artistas de las cavernas con los de los sujetos de los _papers_ de investigación de psicodélicos de los años 60.
 
-[![Supernatural: Meetings with the Ancient Teachers of Mankind](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGNlVsVXhTRVpHTmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTg5Mg=)](https://www.amazon.es/dp/0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Supernatural: Meetings with the Ancient Teachers of Mankind')
+[![Supernatural: Meetings with the Ancient Teachers of Mankind](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGNlVsVXhTRVpHTmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc2NQ=)](https://www.amazon.es/dp0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Supernatural: Meetings with the Ancient Teachers of Mankind")
 
-[Supernatural: Meetings with the Ancient Teachers of Mankind](https://www.amazon.es/dp/0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Supernatural: Meetings with the Ancient Teachers of Mankind')
+[Supernatural: Meetings with the Ancient Teachers of Mankind](https://www.amazon.es/dp/0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Supernatural: Meetings with the Ancient Teachers of Mankind")
 
 Y para ir más al fondo de esto me compré el libro de Supernatural del autor Graham Hancock. Aunque confieso que siempre lo dejo a medias porque es un tochaco super bien documentado, tanto con texto como con fotos que dan que pensar.
 
-12,46 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+12,46 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Por ejemplo se pensaba que el arte era una respuesta, un subproducto que salía de la cultura y sociedad. Pero ahora hay una pregunta que no parece tan loca…
 
@@ -212,7 +191,7 @@ _Puf_.
 
 Desaparecemos.
 
-![craneo en el suelo](https://pau.ninja/wp-content/uploads/2020/11/craneo-en-el-suelo.jpeg)
+![craneo en el suelo](./wp-content/uploads/2020/11craneo-en-el-suelo.jpeg)
 
 Siempre había pensado que el cielo e infierno eran inventos de nuestros egos. Que los humanos nos consideramos tan importantes que no podemos aceptar de ningún modo que cuando nos morimos… todo se termina. Que tenemos que ser eternos porque «valemos demasiado».
 
@@ -236,7 +215,7 @@ El profesor judío [Benny Shanon](https://www.researchgate.net/scientific-contri
 
 Este profesor nos hacía ver que en el Antiguo Testamento se relata como Moisés se encuentra con un [Zarza](https://es.wikipedia.org/wiki/Zarza_ardiente). Un arbusto ardiente que hizo de lugar donde supuestamente Moisés fue nombrado por Dios para ser el líder de los antiguos israelitas y guiarlos hasta Canaan.
 
-![Moisés y Zarza ardiente](https://pau.ninja/wp-content/uploads/2020/11/Moises-y-Zarza-ardiente.jpg)
+![Moisés y Zarza ardiente](./wp-content/uploads/2020/11Moises-y-Zarza-ardiente.jpg)
 
 Pues magia… porque resulta que Zarza es rico en [dimetiltriptamina (DMT)](#Dimetiltriptamina_o_DMT), una molécula psicodélica que pega un viaje mental increíble después de ingerir sus humos.
 
@@ -255,27 +234,27 @@ Pero no es sólo Moisés que nos hace tener estas preguntas. De hecho es toda la
 
 El agnóstico y lingüista John Marco Allegro se pasó una vida analizando textos religiosos desde una perspectiva lingüística. Después de 14 años llegó a la conclusión de que el cristianismo, no es que fuera verdadero o falso… sino una mala interpretación.
 
-Que todos esos enseñanzas que en verdad transmitían **los psicodélicos** en forma de **código y traducción** a relatos, experiencias e historias. Unos ritualos sagrados (con psicodélicos) que venían del siglo 5 a.C. en Grecia: [los misterios eleusinos](https://pau.ninja/misterios-eleusinos/).
+Que todos esos enseñanzas que en verdad transmitían **los psicodélicos** en forma de **código y traducción** a relatos, experiencias e historias. Unos ritualos sagrados (con psicodélicos) que venían del siglo 5 a.C. en Grecia: [los misterios eleusinos](./misterios-eleusinos).
 
 Según esta teoría todos esos nombres, visiones y divinidades eran una manera de encriptar los relatos porque en esa época estas substancias estaban totalmente prohibidas y pensadas severamente por los romanos.
 
 Así que fue una manera de ocultarlo con historias y paralelismos.
 
-![religión y setas](https://pau.ninja/wp-content/uploads/2020/11/religion-y-setas.jpg)
+![religión y setas](./wp-content/uploads/2020/11religion-y-setas.jpg)
 
 Paralelismos del cristianismo y setas mágicas.
 
 Según Allegro la palabra Jesús, venía de la lingüística **sumeria** que significa seta cubierta por el semen de Dios. Y la idea era que la lluvia, que hace que todo crezca, que hace salir setas de un día para otro, eran los fluidos de Dios.
 
-[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTg5Mg=)](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...')
+[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc2NQ=)](https://www.amazon.es/dp0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
-[The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...')
+[The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
 Por cierto, Allegro se expande en su libro The Sacred Mushroom and The Cross. Un libro que muchos lingüistas han apoyado.
 
-23,03 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+23,03 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Tan apoyado y estudiado que se ve que se ve que la iglesia católica compró el libro para sacarlo del mercado y durante muchos años sólo se podían comprar las primeras copias de segunda mano.
 
@@ -305,9 +284,9 @@ El propósito de las setas es fácil. Como en todas las especies tiene una meta 
 
 Pero ahora nos queda la motivación y el propósito del que los consume.
 
-De aquí salió la «[teoría del mono dopado](https://pau.ninja/teoria-del-mono-dopado/)» que intenta responder a esta pregunta con la hipótesis de que nuestros antepasados, se encontrarían con plantas ricas en [dimetiltriptamina](#Dimetiltriptamina_o_DMT) y [psilocibina](#Psilocibina_o_setas_magicas).
+De aquí salió la «[teoría del mono dopado](./teoria-del-mono-dopado)» que intenta responder a esta pregunta con la hipótesis de que nuestros antepasados, se encontrarían con plantas ricas en [dimetiltriptamina](#Dimetiltriptamina_o_DMT) y [psilocibina](#Psilocibina_o_setas_magicas).
 
-![monos y setas mágicas](https://pau.ninja/wp-content/uploads/2020/11/monos-y-setas-magicas.jpeg)
+![monos y setas mágicas](./wp-content/uploads/2020/11monos-y-setas-magicas.jpeg)
 
 El consumo de estas moléculas psicodélicas pegarían una expansión cerebral de posibilidades para nuestros ancestros que tal vez, explicaría el «salto cuántico» en la conciencia humana en el que el cerebro de nuestros antepasados se **duplicó** en un periodo de 200.000 años.
 
@@ -317,7 +296,7 @@ Indagando más he encontrado algunos estudios de investigación que nos han [dem
 
 Seguro que os suena de artistas que se meten **microdosis**. Que no es nada más ni nada menos que un consumo muy reducido de psicodélicos para que no se pongan a flipar en colores y ver cosas, pero que les despierta, centra y aumenta las capacidades creativas.
 
-![microdosis de psilocibina](https://pau.ninja/wp-content/uploads/2020/11/microdosis-de-psilocibina.jpg)
+![microdosis de psilocibina](./wp-content/uploads/2020/11microdosis-de-psilocibina.jpg)
 
 Imagen: microdosis de [psilocibina](#Psilocibina_o_setas_magicas) en gotas. La mejor manera de controlar microdosis. Esto no se puede comprar porque sería ilegal, pero [dentro de la comunidad](#unirse) sabemos un rato…
 
@@ -333,7 +312,7 @@ Empezamos por lo más sintético y más «occidentealizado». Estos los menciona
 
 ### Éxtasis o MDMA
 
-![molécula mdma](https://pau.ninja/wp-content/uploads/2020/11/molecula-mdma.gif)
+![molécula mdma](./wp-content/uploads/2020/11molecula-mdma.gif)
 
 La molécula del MDM. Se toma en pastillas o polvo.
 
@@ -347,7 +326,7 @@ Eso sí. Unos días después de consumirlo tienen el cerebro frito.
 
 ### Ácido o LSD
 
-![molécula de LSD](https://pau.ninja/wp-content/uploads/2020/11/molecula-de-lsd.jpg)
+![molécula de LSD](./wp-content/uploads/2020/11molecula-de-lsd.jpg)
 
 La molécula de LSD. Se consume en formato pastilla.
 
@@ -371,9 +350,9 @@ Y es que desde ese día, Albert Hofmann, un científico suizo **reputado**, qued
 
 Pero a parte de las experiencias místicas, la ciencia con el LSD tampoco deja indiferente a los científicos y es que como más se estudia, más **prometedora para la salud mental** parece esta droga psicodélica en un ambiente controlado.
 
-Por ejemplo, un [estudio](<https://www.cell.com/cell-reports/fulltext/S2211-1247(18)30755-1>) encontraba que microdosis de LSD y otras drogas psicodélicas alteraba la estructura de las células cerebrales de tal manera que promovía **el crecimiento de neuronas**.
+Por ejemplo, un [estudio](https://www.cell.com/cell-reports/fulltext/S2211-1247\(18\)30755-1) encontraba que microdosis de LSD y otras drogas psicodélicas alteraba la estructura de las células cerebrales de tal manera que promovía **el crecimiento de neuronas**.
 
-![actividad cerebro LSD](https://pau.ninja/wp-content/uploads/2020/11/actividad-cerebro-lsd.jpg)
+![actividad cerebro LSD](./wp-content/uploads/2020/11actividad-cerebro-lsd.jpg)
 
 [Comparación](https://www.bbc.com/mundo/noticias/2016/04/160414_lsd_cerebro_escaner_am) de la actividad del cerebro en LSD contra un placebo.
 
@@ -385,7 +364,7 @@ Digamos que el ácido está en «boca de todos» (juego de palabras intencionado
 
 ### Mescalina o Peyote
 
-![molécula peyote](https://pau.ninja/wp-content/uploads/2020/11/molecula-peyote.jpg)
+![molécula peyote](./wp-content/uploads/2020/11molecula-peyote.jpg)
 
 La molécula mescalina se encuentra en la planta Peyote.
 
@@ -393,15 +372,15 @@ Saltamos de lo sintético al campo, donde nos encontramos con una especie de cac
 
 Ahora mismo rebajado
 
-[![Puertas de la percepcion: 20 (Pocket)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUGRDdHBUemhUVjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTg5Mg=)](https://www.amazon.es/dp/8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Puertas de la percepcion: 20 (Pocket)')
+[![Puertas de la percepcion: 20 (Pocket)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUGRDdHBUemhUVjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc2NQ=)](https://www.amazon.es/dp8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Puertas de la percepcion: 20 (Pocket)")
 
-[Puertas de la percepcion: 20 (Pocket)](https://www.amazon.es/dp/8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Puertas de la percepcion: 20 (Pocket)')
+[Puertas de la percepcion: 20 (Pocket)](https://www.amazon.es/dp/8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Puertas de la percepcion: 20 (Pocket)")
 
 Los efectos de la mescalina, que son similares a los del LSD, están bien documentados en el texto clásico sobre alucinógenos, La puerta de la Percepción del autor Aldous Huxley.
 
-12,53 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+12,53 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Algo curioso es que aunque es ilegal en Estados Unidos, la inclusión del peyote como sustancia controlada no se aplica al uso de peyote en ceremonias religiosas de la Iglesia Nativa Americana.
 
@@ -409,7 +388,7 @@ El peyote pega un viaje de **8 a 12 horas** y los efectos se han reportado ser 
 
 ### Ololiuqui o semillas de Ipomoea tricolor
 
-![](https://pau.ninja/wp-content/uploads/2020/11/semillas-de-Ipomoea-tricolor.jpeg)
+![](./wp-content/uploads/2020/11semillas-de-Ipomoea-tricolor.jpeg)
 
 Se pueden consumir de 50 a 120 semillas perfectamente para sentir efectos.
 
@@ -425,7 +404,7 @@ A ver no estamos hablando de cosas chungas, pero más bien de náuseas, vómito
 
 Seguimos en el monte con una droga psicodélica con la que seguro que más de uno habéis pensado. Se trata de las **setas mágicas** y su [molécula](https://cen.acs.org/articles/95/i33/Resuelto-el-misterio-de-la-enzima-del-champinon-magico.html) psicodélica: la psilocibina.
 
-![paquete de setas mágicas](https://pau.ninja/wp-content/uploads/2020/11/paquete-de-setas-magicas.jpg)
+![paquete de setas mágicas](./wp-content/uploads/2020/11paquete-de-setas-magicas.jpg)
 
 Hay más variedad de setas alucinógenas que días tiene un año, además de que el estado legal de cada varía aunque el efecto que producen es potencialmente el mismo. Algo que nos muestra el desconocimiento y lo poco en serio que se toma esto por parte de las autoridades para querer indagar en este mundo.
 
@@ -453,7 +432,7 @@ La terminamos con la que considero que es el psicodélico más interesantes. Se 
 
 Si el ácido era creado sintéticamente, el DMT también lo puede ser, pero originariamente se encuentra en unas cuantas plantas, y no sólo eso sino que también **la produce el cuerpo humano** de forma natural.
 
-![molécula DMT](https://pau.ninja/wp-content/uploads/2020/11/molecula-dmt.png)
+![molécula DMT](./wp-content/uploads/2020/11molecula-dmt.png)
 
 #### 🧘🏻‍♂️ DMT en la espiritualidad
 
@@ -479,9 +458,9 @@ Porque hay una leyenda entre los chamanes del Amazonas. Una leyenda que dice que
 
 El caso es que se trataba de un grupo de personas de conocimientos superiores que les enseñaron cómo hacerlo hace miles y miles de años.
 
-![ancestro con ayahuasca](https://pau.ninja/wp-content/uploads/2020/11/ancestro-con-ayahuasca.jpg)
+![ancestro con ayahuasca](./wp-content/uploads/2020/11ancestro-con-ayahuasca.jpg)
 
-Bueno. Ya conocéis mi afán por la [historia misteriosa y la teoría de las civilizaciones supervivientes](https://pau.ninja/civilizaciones-perdidas/) que siempre predico. Y es que no puedo evitar encontrar paralelismos con esta leyenda y las fechas.
+Bueno. Ya conocéis mi afán por la [historia misteriosa y la teoría de las civilizaciones supervivientes](./civilizaciones-perdidas) que siempre predico. Y es que no puedo evitar encontrar paralelismos con esta leyenda y las fechas.
 
 ¿Podría ser que quienes transmitieron estos conocimientos fueron una de las tribus supervivientes al último cataclismo?
 
@@ -523,15 +502,15 @@ Ya no sólo la Ayahuasca, pero las drogas psicodélicas en general.
 
 Ahora mismo rebajado
 
-[![How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU56QlZPRnBVZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTg5Mg=)](https://www.amazon.es/dp/0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...')
+[![How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU56QlZPRnBVZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc2NQ=)](https://www.amazon.es/dp0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...")
 
-[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...](https://www.amazon.es/dp/0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...')
+[How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...](https://www.amazon.es/dp/0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...")
 
 Me compré el libro de How To Change Your Mind de Michael Pollan, que ha dado algunas conferencias Ted y en Google y me hizo descubrir un concepto básico para los psico-curiosos.
 
 15,34 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Entra en juego el concepto que en inglés se conoce como el _Set and Setting_. No podemos traducirlo al español en un par de palabras pero de esta manera:
 
@@ -540,7 +519,7 @@ Entra en juego el concepto que en inglés se conoce como el _Set and Setting_. N
 
 Es decir, que para evitar un «mal viaje» y tener una experiencia psicodélica transcendente tenemos que cumplir estos cuatro puntos: la predisposición, preparación, entorno y contexto del consumo.
 
-![set and setting](https://pau.ninja/wp-content/uploads/2020/11/set-and-setting.jpg)
+![set and setting](./wp-content/uploads/2020/11set-and-setting.jpg)
 
 A su vez, estos cuatro puntos los podemos hacer más específicos y concretos. Se convertirían en: información, intención del viaje, contexto adecuado, estado de la persona y el guía.
 
@@ -593,7 +572,7 @@ Al fin y al cabo nos encontramos justo a la mitad de nuestras vidas.
 
 Pero aunque creamos que podemos pilotar nosotros solos, siempre será mejor tener un conductor que sepa lo que hace o que al menos esté allí para asistir.
 
-![viaje espiritual](https://pau.ninja/wp-content/uploads/2020/11/viaje-espiritual.jpg)
+![viaje espiritual](./wp-content/uploads/2020/11viaje-espiritual.jpg)
 
 Se trata de la figura del chamán, o facilitador, acompañante, psicólogo, etc.
 
@@ -616,3 +595,88 @@ Que cuando el televisor deja de funcionar, la señal sigue.
 ¿Es nuestra conciencia eterna? ¿Cómo explicamos el enigma de la mente y sus conexiones, visiones y sueños premonitorios que todos hemos experimentado alguna vez? ¿O es todo pura casualidad?
 
 Intentaremos ir respondiendo esto por aquí, aunque seguramente terminaremos con más preguntas.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Desarrollo personal](./desarrollo-personal)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/psicodelicos/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":9337,"title":"Los%206%20tipos%20de%20psicod%C3%A9licos%20y%20sus%20EFECTOS%20%E3%80%90%2BGu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2020\\/11\\/experiencia-psicodelica.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

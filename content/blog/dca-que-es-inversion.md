@@ -1,14 +1,21 @@
 ---
-title: "Subiendo el valor de mi Bitcoin (despacito) La estrategia Dollar Cost Averaging (DCA) para el largo plazo. "
+title: "Subiendo el valor de mi Bitcoin (despacito)"
+url: https://pau.ninja/dca-que-es-inversion
+slug: dca-que-es-inversion
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: bitcoin-y-grafico-estrategico.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/11/bitcoin-y-grafico-estrategico.jpg
 published: 2021-11-26T09:05:37+00:00
 modified: 2024-02-11T06:33:56+00:00
+scrappedAt: 2024-10-14T09:20:57.633Z
 audioLink: https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito_md_78916889_wp_1.mp3
-slug: dca-que-es-inversion
+bibliography: ["de junio","de febrero"]
 ---
-
-[https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito_md_78916889_wp_1.mp3](https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito_md_78916889_wp_1.mp3)
+[https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito\_md\_78916889\_wp\_1.mp3](https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito_md_78916889_wp_1.mp3)
 
 Si la inversión fuera un juego, sería un juego de rol. Uno de esos largo en el que tienes que calcular cada paso que vas dando para que después no tengas que arrepentirte con un: «joeer, ¿por qué elegí el camino de la derecha y no el de la izquierda? ¡ahora ya es demasiado tarde para ir hacia atrás!».
 
@@ -20,7 +27,7 @@ Porque sí. Igual que en la vida misma, existen factores que no podemos control
 
 No podemos hacer nada si una acción de bolsa o una criptomoneda empieza a subir o bajar de precio a bote pronto. O si los institucionales empiezan a comprar o vender en masa a Bitcoin. O si sale una noticia que destruye por completo el activo en el que hemos invertido.
 
-![cómic secta](https://pau.ninja/wp-content/uploads/2021/01/comic-secta.png)
+![cómic secta](./wp-content/uploads/2021/01comic-secta.png)
 
 Por suerte para nosotros, incluso aunque la suerte no esté de nuestro lado, aunque Bitcoin baje un 50%, aunque el orco nos descubra, **hay cosas que sí podemos hacer** para mitigar el riesgo cortoplacista.
 
@@ -35,7 +42,7 @@ No te lo pierdas porque los papers económicos (ahora veremos) respaldarían tu 
 
 Si abortas misión te vas a casa, calentito y con pelotas azules e hinchadas. Pero si no lo haces, si te ciñes al plan muy a tu pesar por lo que tienes en frente, tal vez llegas a casa, pones las luces tenues y ese orco te da una sorpresa, dándote el mejor s3x0 de tu vida.
 
-![meme orco bitcoin](https://pau.ninja/wp-content/uploads/2021/11/meme-orco-bitcoin.jpg)
+![meme orco bitcoin](./wp-content/uploads/2021/11meme-orco-bitcoin.jpg)
 
 Con la inversión a largo plazo pasa exactamente lo mismo.
 
@@ -46,31 +53,11 @@ A veces elegimos un activo que al corto plazo no nos da más que desgracias y ma
 
 Comprometernos por muchas dudas cortoplacistas que nos puedan salir.
 
-Ya he compartido con vosotros [cuál es mi cartera de inversión](https://pau.ninja/mi-cartera-de-inversion/) y la manera en como muevo mi dinero. La elección de mi activo es sólo uno: Bitcoin. Tengo ahí **todo mi patrimonio. Todos mis ahorros**.
+Ya he compartido con vosotros [cuál es mi cartera de inversión](./mi-cartera-de-inversion) y la manera en como muevo mi dinero. La elección de mi activo es sólo uno: Bitcoin. Tengo ahí **todo mi patrimonio. Todos mis ahorros**.
 
-Tampoco es ningún secreto que de las [estrategias de cómo comprar Bitcoin con seguridad](https://pau.ninja/invertir-en-bitcoins-forma-segura/#Como_comprar_Bitcoins_de_forma_segura), hay dos que para mí se llevan la medalla **para el perfil de inversor que tengo**.
+Tampoco es ningún secreto que de las [estrategias de cómo comprar Bitcoin con seguridad](./invertir-en-bitcoins-forma-segura#Como_comprar_Bitcoins_de_forma_segura), hay dos que para mí se llevan la medalla **para el perfil de inversor que tengo**.
 
 Una es HODL. Es decir, aguantar y no vender nunca ningún satoshi. La otra es Dollar Cost Averaging. La compra recurrente y de forma automática, que hoy vemos más al detalle.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el Dollar Cost Averaging](#Que_es_el_Dollar_Cost_Averaging 'Qué es el Dollar Cost Averaging')
-  - [Se compra recurrentemente](#Se_compra_recurrentemente 'Se compra recurrentemente')
-  - [No se predice el mercado](#No_se_predice_el_mercado 'No se predice el mercado')
-- [Inversión DCA en criptomonedas](#Inversion_DCA_en_criptomonedas 'Inversión DCA en criptomonedas')
-  - [Ejemplo](#Ejemplo 'Ejemplo')
-- [Inversión DCA en bolsa](#Inversion_DCA_en_bolsa 'Inversión DCA en bolsa')
-  - [Ejemplo](#Ejemplo-2 'Ejemplo')
-- [Inconvenientes de Dollar Cost Averaging](#Inconvenientes_de_Dollar_Cost_Averaging 'Inconvenientes de Dollar Cost Averaging')
-  - [Es menos rentable](#Es_menos_rentable 'Es menos rentable')
-  - [Tiene más costes de broker](#Tiene_mas_costes_de_broker 'Tiene más costes de broker')
-- [Ventajas de Dollar Cost Averaging](#Ventajas_de_Dollar_Cost_Averaging 'Ventajas de Dollar Cost Averaging')
-  - [No hay necesidad de predecir](#No_hay_necesidad_de_predecir 'No hay necesidad de predecir')
-  - [Compras en descuento](#Compras_en_descuento 'Compras en descuento')
-  - [Sin estrés ni presión](#Sin_estres_ni_presion 'Sin estrés ni presión')
-  - [Beneficios al largo plazo](#Beneficios_al_largo_plazo 'Beneficios al largo plazo')
 
 ## Qué es el Dollar Cost Averaging
 
@@ -111,7 +98,7 @@ En junio, el precio de Chorracoin es de 10€ así que podemos comprar 100. En j
 
 **Tokens comprados**
 
-6 de junio
+6 
 
 1.000€
 
@@ -153,7 +140,7 @@ Porque claro, si invertimos en una criptomoneda o acción de bolsa con buenos fu
 
 Si reservamos «el cañonazo» de euros esperando el momento en el que el precio esté más bajo, podríamos encontrarnos **esperando para siempre**.
 
-![comic comprar bitcoin](https://pau.ninja/wp-content/uploads/2021/01/comic-comprar-bitcoin.png)
+![comic comprar bitcoin](./wp-content/uploads/2021/01comic-comprar-bitcoin.png)
 
 ¿Quien sabe si el precio que hay hoy en Bitcoin, cualquier altcoin o acción de bolsa **no será el precio más bajo de aquí en adelante**?
 
@@ -196,7 +183,7 @@ No hace tantos años que tenemos cripto y los visionarios que metieron dinero al
 
 Lógicamente a medida que más gente se ha apuntado al carro de Bitcoin y las otras criptomonedas, las oportunidades de encontrar gemas, diamantes en bruto que nos hagan ricos, pues se han reducido en proporción.
 
-![coste precio medio bitcoin](https://pau.ninja/wp-content/uploads/2021/11/coste-precio-medio-bitcoin.jpg)
+![coste precio medio bitcoin](./wp-content/uploads/2021/11coste-precio-medio-bitcoin.jpg)
 
 Gráfico: compras recurrentes que resultan en un precio medio con ganancias. Comprando caro o barato. No importa.
 
@@ -208,9 +195,9 @@ Los datos no engañan: los que tienen Bitcoin hacen «hold». [No sueltan](https
 
 Y nosotros tampoco nos tenemos que preocupar de intentar adivinar el futuro. De adivinar cuál creemos que va a ser la cripto ganadora porque **el mercado ya ha hablado**. ¿Y qué ha dicho? que cada vez hay más adopción de Bitcoin como reserva de valor y de Ethereum por el empuje de DeFi (finanzas descentralizadas).
 
-![cómic predicción bolsa](https://pau.ninja/wp-content/uploads/2021/01/comic-prediccion-bolsa.png)
+![cómic predicción bolsa](./wp-content/uploads/2021/01comic-prediccion-bolsa.png)
 
-Después de pasar [todos mis ahorros a Bitcoin](https://www.youtube.com/watch?v=L8UphL_6MBk), mi patrimonio, y dejar de diversificar por completo (#132), me puse a hacer dos cosas: a [comprar Bitcoin anónimamente a nivel personal](https://pau.ninja/comprar-bitcoins-anonimamente/), pero también a **usar el Dollar Cost Average** para los excedentes de mi empresa.
+Después de pasar [todos mis ahorros a Bitcoin](https://www.youtube.com/watch?v=L8UphL_6MBk), mi patrimonio, y dejar de diversificar por completo (#132), me puse a hacer dos cosas: a [comprar Bitcoin anónimamente a nivel personal](./comprar-bitcoins-anonimamente), pero también a **usar el Dollar Cost Average** para los excedentes de mi empresa.
 
 Para multiplicar ahorros de esta manera. ¿Y cómo funciona a la práctica?
 
@@ -219,8 +206,6 @@ Para multiplicar ahorros de esta manera. ¿Y cómo funciona a la práctica?
 Pues yo utilizo un bot. Un bot llamado Deltabadger ([10% de descuento usando este enlace](https://pau.ninja/deltabadger)). Si inviertes poco dinero es gratis pero si vas a invertir más de 1.200€ totales al año, entonces cuesta unos 100€, que sale muy a cuenta por la rentabilidad que da a largo plazo.
 
 Del mismo modo que los robo advisors compran paulatinamente posiciones en el fondo indexado, Deltabadger lo que hace es ir comprando pequeñas partes de Bitcoin. Concretamente 0,0001 BTC para ser exactos.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 En robo advisors hacíamos un depósito. Nos llegaba el dinero y quedaba el monto en la cuenta depositaria para que poco a poco se vaya comprando paulatinamente.
 
@@ -236,7 +221,7 @@ Le indicamos qué criptomoneda queremos comprar. Por cuanto dinero. Qué divisa.
 
 Y… ya está.
 
-![deltabadger en acción](https://pau.ninja/wp-content/uploads/2021/11/deltabadger-en-accion.png)
+![deltabadger en acción](./wp-content/uploads/2021/11deltabadger-en-accion.png)
 
 Ejemplo: así lo dejaría configurado yo si comprara 1.000€/semana. Las cantidades pueden ser mucho más pequeñas. Del rollo 100€/mes o incluso menos.
 
@@ -270,7 +255,7 @@ En la bolsa existen unos robots llamados «[robo advisors](https://capitalista.n
 
 **Nº participaciones compradas**
 
-1 de febrero
+1 
 
 156,23€
 
@@ -302,7 +287,7 @@ En la bolsa existen unos robots llamados «[robo advisors](https://capitalista.n
 
 6
 
-1 de junio
+1 
 
 204,61€
 
@@ -332,14 +317,14 @@ El saber mantener la cabeza fría con una estrategia para mí **está a la par*
 
 ### Es menos rentable
 
-Un estudio de 2012 de Vanguard decidió meter mano y sacar alguna conclusión definitiva sobre si *Dollar Cost Averaging* tenía sentido o no. ¿Qué concluyeron? pues [encontró](https://static.twentyoverten.com/5980d16bbfb1c93238ad9c24/rJpQmY8o7/Dollar-Cost-Averaging-Just-Means-Taking-Risk-Later-Vanguard.pdf) que comparando:
+Un estudio de 2012 de Vanguard decidió meter mano y sacar alguna conclusión definitiva sobre si _Dollar Cost Averaging_ tenía sentido o no. ¿Qué concluyeron? pues [encontró](https://static.twentyoverten.com/5980d16bbfb1c93238ad9c24/rJpQmY8o7/Dollar-Cost-Averaging-Just-Means-Taking-Risk-Later-Vanguard.pdf) que comparando:
 
 - Promediar el coste con DCA (ir invirtiendo poco a poco)
 - Invertir todo de golpe así que tenemos el dinero
 
 Lo que salía más rentable a largo plazo era… **meterlo todo de golpe** (_lump sum_ en inglés). Aquí muchos ya dirán que entonces porque _cohones_ recomiendo DCA, ¿no?
 
-![inversión DCA vs LSi](https://pau.ninja/wp-content/uploads/2021/11/inversion-dca-vs-lsi.png)
+![inversión DCA vs LSi](./wp-content/uploads/2021/11inversion-dca-vs-lsi.png)
 
 Gráfico: con DCA llevamos menos tiempo total invertidos en comparación con meterlo todo de golpe así que recibimos el dinero.
 
@@ -367,7 +352,7 @@ Y simplemente rezamos.
 
 Rezamos para que hayamos hecho una buena interpretación de los fundamentales y hayamos invertido en un proyecto sólido que realmente será para al largo plazo.
 
-![cómic aprender bitcoin](https://pau.ninja/wp-content/uploads/2021/02/comic-aprender-bitcoin.jpg)
+![cómic aprender bitcoin](./wp-content/uploads/2021/02comic-aprender-bitcoin.jpg)
 
 ### Compras en descuento
 
@@ -387,6 +372,92 @@ Dollar Cost Averaging lo que hacemos es olvidarnos del FOMO (fear of missing out
 
 ### Beneficios al largo plazo
 
-Todo está en el *mindset*. El perfil psicológico y lo que podemos manejar dentro de nuestra cabecita.
+Todo está en el _mindset_. El perfil psicológico y lo que podemos manejar dentro de nuestra cabecita.
 
 Y es que con Dollar Cost Average hace que nos pongamos en un perfil más largoplacista que **se traduce en más ganancias futuras**.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Bitcoin](./bitcoin)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/dca-que-es-inversion/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13214,"title":"2%20ejemplos%20de%20qu%C3%A9%20es%20el%20Dollar%20Cost%20Averaging%20%E3%80%90Gu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/11\\/bitcoin-y-grafico-estrategico.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

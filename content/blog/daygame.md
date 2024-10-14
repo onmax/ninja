@@ -1,13 +1,22 @@
 ---
-title: "Daygame: el arte de ligar en la calle ...con una chica que no conoces"
+title: "Daygame: el arte de ligar en la calle"
+url: https://pau.ninja/daygame
+slug: daygame
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: masculinidad
+    label: Masculinidad
+  - slug: seduccion
+    label: Seducción
 image: hombre-ligando-con-chica.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/11/hombre-ligando-con-chica.jpeg
 published: 2021-09-28T06:59:22+00:00
 modified: 2023-08-29T05:19:03+00:00
+scrappedAt: 2024-10-14T09:21:11.950Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284045-44100-2-7f633063561d8c86.mp3
-slug: daygame
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284045-44100-2-7f633063561d8c86.mp3](https://anchor.fm/s/98566448/podcast/play/52171893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284045-44100-2-7f633063561d8c86.mp3)
 
 ¿Qué hombres no ha vivido la «contradicción del infierno»?
@@ -36,37 +45,6 @@ Por esto estamos aquí.
 
 Pero antes un aviso. La taoría está muy bien, pero como cualquier artesano donde se aprende es en el taller, no en los libros. Usa esto como los fundamentos para después **salir a la calle y petarlo**.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el daygame](#Que_es_el_daygame 'Qué es el daygame')
-  - [Los orígenes del daygame](#Los_origenes_del_daygame 'Los orígenes del daygame')
-- [Pasos para ligar con una chica que no conoces](#Pasos_para_ligar_con_una_chica_que_no_conoces 'Pasos para ligar con una chica que no conoces')
-  - [Abrir](#Abrir 'Abrir')
-  - [Recopilar](#Recopilar 'Recopilar')
-  - [Vibrar](#Vibrar 'Vibrar')
-  - [Invertir](#Invertir 'Invertir')
-  - [Cerrar](#Cerrar 'Cerrar')
-- [Cómo tontear con una chica](#Como_tontear_con_una_chica 'Cómo tontear con una chica')
-  - [Haz acusaciones](#Haz_acusaciones 'Haz acusaciones')
-  - [Intercambios de rol](#Intercambios_de_rol 'Intercambios de rol')
-  - [Rétala](#Retala 'Rétala')
-  - [Guíñale un ojo](#Guinale_un_ojo 'Guíñale un ojo')
-  - [Tócale en los riñones](#Tocale_en_los_rinones 'Tócale en los riñones')
-  - [Mírala sin decir nada](#Mirala_sin_decir_nada 'Mírala sin decir nada')
-- [Trucos y consejos para ligar](#Trucos_y_consejos_para_ligar 'Trucos y consejos para ligar')
-  - [La mano de Dios](#La_mano_de_Dios 'La mano de Dios')
-  - [Juega tus posibilidades](#Juega_tus_posibilidades 'Juega tus posibilidades')
-  - [Potencia tu estilo](#Potencia_tu_estilo 'Potencia tu estilo')
-- [Los mejores sitios para ligar](#Los_mejores_sitios_para_ligar 'Los mejores sitios para ligar')
-  - [De día en la calle](#De_dia_en_la_calle 'De día en la calle')
-  - [En una fiesta](#En_una_fiesta 'En una fiesta')
-  - [De fiesta](#De_fiesta 'De fiesta')
-  - [Por internet](#Por_internet 'Por internet')
-  - [En la playa](#En_la_playa 'En la playa')
-  - [En el gym](#En_el_gym 'En el gym')
-
 ## Qué es el daygame
 
 El daygame (o “ligue callejero”) consiste en charlar con chicas por el día con el objetivo de salir con ellas y seducirlas. Se trata de una forma de ligar durante el día.
@@ -85,9 +63,9 @@ Más tarde, a base de prueba y error, evolucionó hasta lo que se conoce como �
 
 Existen infinitos métodos para ligar, pero mi favorito y con el que me familiaricé cuando era principiante total fue el «modelo diurno de Londres» (London Daygame Model).
 
-Sabéis que «daygame» significa hacer «juego» ([entrarle a chicas](https://pau.ninja/como-entrarle-a-una-chica/)) con la particularidad que es **durante el día**.
+Sabéis que «daygame» significa hacer «juego» ([entrarle a chicas](./como-entrarle-a-una-chica)) con la particularidad que es **durante el día**.
 
-![Tom Torero ligando](https://pau.ninja/wp-content/uploads/2021/09/tom-torero-ligando.jpeg)
+![Tom Torero ligando](./wp-content/uploads/2021/09tom-torero-ligando.jpeg)
 
 Foto: Tom Torero fue uno de los instructores pioneros de este modelo. Ahora mantiene un perfil más bajo y tiene un podcast de estilo de vida llamado Black Sheep Bandit. Vive en su furgoneta y pega viajes con su moto mientras sigue haciendo daygame. ¿Qué hombre no ansía esta libertad?
 
@@ -101,15 +79,17 @@ Por esto el modelo «diurno» me encajó a la perfección con el estilo de vida 
 
 Este esquema salió en Londres sobre 2010. Cuatro años más tarde de que saliera el libro «El método».
 
-[![El método: 9014 (Divulgación)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdFRUUTNPVlF3ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxNTU3OQ=)](https://www.amazon.es/dp/8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'El método: 9014 (Divulgación)')
+Ahora mismo rebajado
 
-[El método: 9014 (Divulgación)](https://www.amazon.es/dp/8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'El método: 9014 (Divulgación)')
+[![El método: 9014 (Divulgación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdFRUUTNPVlF3ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY5OQ=)](https://www.amazon.es/dp8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El método: 9014 (Divulgación)")
+
+[El método: 9014 (Divulgación)](https://www.amazon.es/dp/8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El método: 9014 (Divulgación)")
 
 El libro que inspiró a miles de tíos a tomarse por los cuernos su escasez de relaciones con mujeres, aunque era con técnicas robóticas y poca exploración personal.
 
-15,99 €
+9,11 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 A nivel narrativo está muy bien y la temática te f\*lla la mente si no sabías que este mundo existía, pero que a mí parecer, estos escritos de Neil Strauss sirvieron más de semilla para explorar seducción práctica, que no como método definitivo.
 
@@ -119,7 +99,7 @@ Raúl me cuenta cuál es su historia y cómo se originó el «modelo diurno de L
 
 El primer paso es el más difícil para la mayoría de hombres. Es donde nos encontramos más resistencia y donde tendremos que trabajar más.
 
-![cómic chico entra a chica](https://pau.ninja/wp-content/uploads/2021/09/comic-chico-entra-a-chica-1.png)
+![cómic chico entra a chica](./wp-content/uploads/2021/09comic-chico-entra-a-chica-1.png)
 
 Y tiene huevos la cosa porque son sólo los primeros 10-20 segundos desde que ves a la chica que te gusta.
 
@@ -174,7 +154,7 @@ Mirad si salía de la zona de confort que hasta al final del día me dolía la p
 
 Pero estos ejercicios **no son necesarios**.
 
-![reto de tumbarse](https://pau.ninja/wp-content/uploads/2021/09/reto-de-tumbarse.jpeg)
+![reto de tumbarse](./wp-content/uploads/2021/09reto-de-tumbarse.jpeg)
 
 Foto: yo tumbado en medio de una plaza en una capital de los Balcanes.
 
@@ -192,7 +172,7 @@ No pararla desde atrás sino ponerse delante para «matar su momentum». De lo c
 
 Nos abriremos mucho, como un jugador de futbol para que no se asuste, y lo haremos con la mano un poco levantada. Rollo «stop» para indicarle que le queremos decir algo, y desde esta entrada **ya estaremos sonriendo**.
 
-![rueda de la fortuna](https://pau.ninja/wp-content/uploads/2021/09/rueda-de-la-fortuna.jpeg)
+![rueda de la fortuna](./wp-content/uploads/2021/09rueda-de-la-fortuna.jpeg)
 
 En el modelo de Londres esto se llama hacerle «la rueda de la fortuna».
 
@@ -206,9 +186,9 @@ De **hombre a mujer**. No de «tío amigable» a desconocida.
 
 La hemos parado por un motivo y eso es lo que le decimos. Eso sí. Sin olvidar la sonrisa jugona y usando una voz lenta pero clara. De persona confiada aunque por dentro te estés haciendo caquita.
 
-![cómic miedo al rechazo](https://pau.ninja/wp-content/uploads/2021/09/comic-miedo-al-rechazo.png)
+![cómic miedo al rechazo](./wp-content/uploads/2021/09comic-miedo-al-rechazo.png)
 
-> Por esto será interesante trabajar [en superar el miedo al rechazo de forma práctica](https://pau.ninja/superar-el-miedo-al-rechazo/), porque a medida que lo vayamos practicando lo adoptaremos como segunda naturaleza.
+> Por esto será interesante trabajar [en superar el miedo al rechazo de forma práctica](./superar-el-miedo-al-rechazo), porque a medida que lo vayamos practicando lo adoptaremos como segunda naturaleza.
 
 Aprenderemos que sólo hay dos posibles reacciones que vamos a recibir y todas son necesarias para crecer.
 
@@ -220,7 +200,7 @@ Preferiblemente queremos la segunda que es en la que podemos empezar a trabajar.
 
 ¿Te interesa expandir esta fase?
 
-- **Abrir:** [guía para **entrarle** a una chica](https://pau.ninja/como-entrarle-a-una-chica/)
+- **Abrir:** [guía para **entrarle** a una chica](./como-entrarle-a-una-chica)
 
 ### Recopilar
 
@@ -265,7 +245,7 @@ Si estamos en blanco, una buena coletilla para forzarte a hacer esta observació
 - He notado que caminabas muy rápido. Debes ser una poderosa mujer de negocios.
 - He visto que vistes todo de negro. No sé si asumir que eres espía o banquera.
 - Tiene pinta de que acabas de venir del gimnasio a hacer peso muerto.
-- Me da la sensación que eres una estudiante de arte soñadora y justo estabas escuchando música *lofi*.
+- Me da la sensación que eres una estudiante de arte soñadora y justo estabas escuchando música _lofi_.
 
 En ninguno de estos ejemplos le hemos preguntado. **Hemos asumido usando la observación**.
 
@@ -277,7 +257,7 @@ Ya con este par de pilares estamos construyendo el coliseo procurando que no se 
 
 ¿Te interesa expandir esta fase?
 
-- **Recopilar:** [guía para sacar temas de conversación](https://pau.ninja/temas-conversacion-con-chica/)
+- **Recopilar:** [guía para sacar temas de conversación](./temas-conversacion-con-chica)
 
 ### Vibrar
 
@@ -285,7 +265,7 @@ Mezclado con esta recopilación de info, hay un pilar que en inglés se conoce 
 
 Aquí nos empezamos a sentir todos cómodos con la conversación. Los más experimentados es cuando subconscientemente saben que el tonteo más jugón está permitido.
 
-![cómic charlar y ligar](https://pau.ninja/wp-content/uploads/2021/09/comic-charlar-y-ligar.png)
+![cómic charlar y ligar](./wp-content/uploads/2021/09comic-charlar-y-ligar.png)
 
 Con bromas livianas sin ser el payaso de turno. Recordemos que nos centramos en ella mayoritariamente. No somos un circo de entretenimientos.
 
@@ -476,7 +456,7 @@ Otro consejo que se da es que juegues a los números y hagas el máximo de volum
 
 Igual que muscularmente, el volumen es importante, pero para construir volumen necesitamos fundamentos y hacer el volumen de forma efectiva. No hacerlo a saco sin plan.
 
-Por esto digo que más que jugar a los números tiene más sentido jugar a los posibilidades. No a hacer «entradas de *spam*» de tías que tampoco nos llaman mucho la atención y sacar el máximo de números de teléfonos, pero a seguir abriendo a tías que sí te gustan.
+Por esto digo que más que jugar a los números tiene más sentido jugar a los posibilidades. No a hacer «entradas de _spam_» de tías que tampoco nos llaman mucho la atención y sacar el máximo de números de teléfonos, pero a seguir abriendo a tías que sí te gustan.
 
 Igualmente por estadísticas un buen porcentaje serán un rotundo (o no tan rotundo) «no».
 
@@ -509,3 +489,94 @@ Aunque no va a ser determinante, si te hará el proceso más fácil. No fácil,
 ### En la playa
 
 ### En el gym
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en twitter](./wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Relaciones](./relaciones)  
+O si quieres ser más específico:[Masculinidad](./masculinidad/), [Seducción](https://pau.ninja/seduccion)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/daygame/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14802,"title":"%E3%80%90Daygame%E3%80%91%20Los%205%20pasos%20para%20ligar%20desconocidas","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/11\\/hombre-ligando-con-chica.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

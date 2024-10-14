@@ -1,20 +1,25 @@
 ---
-title: "Método Bilbo vuélvete un dios del press de banca (mi teoría)"
+title: "Método Bilbo"
+url: https://pau.ninja/metodo-bilbo-press-banca
+slug: metodo-bilbo-press-banca
+categories: 
+- slug: fitness
+    label: Fitness
 image: hombre-entrenando-pecho.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/03/hombre-entrenando-pecho.jpeg
 published: 2023-03-31T07:42:43+00:00
 modified: 2024-07-19T17:40:58+00:00
+scrappedAt: 2024-10-14T09:20:06.427Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/72553312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336601597-44100-2-f60ed1ae616fb.mp3
-slug: metodo-bilbo-press-banca
+bibliography: ["70kg","Keogh, Justin & WILSON, GREG & Weatherby, Robert. (1999). A Cross-Sectional Comparison of Different Resistance Training Techniques in the Bench Press. The Journal of Strength & Conditioning Research. 13. 10.1519/00124278-199908000-00012.","Schuenke MD, Herman JR, Gliders RM, Hagerman FC, Hikida RS, Rana SR, Ragg KE, Staron RS. Early-phase muscular adaptations in response to slow-speed versus traditional resistance-training regimens. Eur J Appl Physiol. 2012 Oct;112(10):3585-95. doi: 10.1007/s00421-012-2339-3. Epub 2012 Feb 12. PMID: 22328004.","Schoenfeld BJ, Ogborn DI, Krieger JW. Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis. Sports Med. 2015 Apr;45(4):577-85. doi: 10.1007/s40279-015-0304-0. PMID: 25601394.","González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, Gorostiaga EM, Pareja-Blanco F. Maximal intended velocity training induces greater gains in bench press performance than deliberately slower half-velocity training. Eur J Sport Sci. 2014;14(8):772-81. doi: 10.1080/17461391.2014.905987. Epub 2014 Apr 15. PMID: 24734902.","Adrián Merchán Lobato (2019), «Comparación de los efectos de diferentes métodos de entrenamiento en las ganancias de fuerza máxima en press de banca».","Varios fisioterapeutas, @mountaindog1, @coacheugeneteo"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/72553312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336601597-44100-2-f60ed1ae616fb.mp3](https://anchor.fm/s/98566448/podcast/play/72553312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336601597-44100-2-f60ed1ae616fb.mp3)
 
 El método Bilbo es el **diamante en bruto de la progresión en el gimnasio**.
 
 Tanto para fuerza como para ganar masa muscular.
 
-Especialmente en *press de banca*.
+Especialmente en _press de banca_.
 
 Lo interesante es que antes de conocer en qué consiste, sin saberlo yo ya lo estaba siguiendo con **resultados espectaculares**.
 
@@ -27,9 +32,9 @@ Hace cosa de un año empecé a incorporar en mi rutina de entrenamiento:
 
 Al cabo de unos meses me di cuenta de que había sucedido una progresión… inesperada.
 
-Digo inesperada porque las dominadas es un ejercicio dónde la mayoría llevamos sin progresar toda nuestra _vida fitness_… Un peligro para los que buscamos [las medidas del cuerpo perfecto de hombre](https://pau.ninja/cuerpo-estetico-hombre-medidas/) en forma de V.
+Digo inesperada porque las dominadas es un ejercicio dónde la mayoría llevamos sin progresar toda nuestra _vida fitness_… Un peligro para los que buscamos [las medidas del cuerpo perfecto de hombre](./cuerpo-estetico-hombre-medidas) en forma de V.
 
-![cuerpo en forma de v](https://pau.ninja/wp-content/uploads/2021/09/cuerpo-en-forma-de-v.jpg)
+![cuerpo en forma de v](./wp-content/uploads/2021/09cuerpo-en-forma-de-v.jpg)
 
 Siempre sucede lo mismo.
 
@@ -41,7 +46,7 @@ En aquel entonces mi interpretación fue que habían progresado tan bien gracias
 
 Entonces, ¿qué hice?
 
-Pues para intentar [ganar aún más masa muscular rápido](https://pau.ninja/como-ganar-masa-muscular-rapido/), para potenciarlo aún más, dejé de hacer dominadas explosivas y me centré en hacerlas con lastre.
+Pues para intentar [ganar aún más masa muscular rápido](./como-ganar-masa-muscular-rapido), para potenciarlo aún más, dejé de hacer dominadas explosivas y me centré en hacerlas con lastre.
 
 Grabe error.
 
@@ -53,52 +58,15 @@ Ninjas de la vida, sin saberlo había estado haciendo una _pseudo_versión de l
 
 Un paso por detrás al sentido común y a la experiencia personal que llevó a su creador (Jesus Maria Varela Goicoechea) a inventar el «**método Bilbo**«.
 
-![meme método bilbo](https://pau.ninja/wp-content/uploads/2023/03/meme-metodo-bilbo.jpeg)
+![meme método bilbo](./wp-content/uploads/2023/03meme-metodo-bilbo.jpeg)
 
 Meme: Jesus Maria Varela puede aplaudir con sus pectorales. Curtidos de forma natural con un método «diferente».
 
 Un método para progresar en fuerza e hipertrofia que nos hace **obtener resultados haciendo lo opuesto** al resto de modelos que hay por ahí.
 
-Yo mismo he estado usándolo durante varios «ciclos» (o periodos) y por fin he vuelto a avanzar en mi *press* de banca como nunca antes lo había hecho.
+Yo mismo he estado usándolo durante varios «ciclos» (o periodos) y por fin he vuelto a avanzar en mi _press_ de banca como nunca antes lo había hecho.
 
 Veamos a modo ninja en qué consiste y por qué funciona.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el método Bilbo](#Que_es_el_metodo_Bilbo 'Qué es el método Bilbo')
-  - [¿Quien lo inventó?](#%C2%BFQuien_lo_invento '¿Quien lo inventó?')
-  - [¿En qué consiste el método?](#%C2%BFEn_que_consiste_el_metodo '¿En qué consiste el método?')
-  - [¿Qué es una serie Bilbo?](#%C2%BFQue_es_una_serie_Bilbo '¿Qué es una serie Bilbo?')
-  - [¿Cuantos segundos dura una serie Bilbo?](#%C2%BFCuantos_segundos_dura_una_serie_Bilbo '¿Cuantos segundos dura una serie Bilbo?')
-  - [¿Es un entrenamiento de resistencia o de fuerza?](#%C2%BFEs_un_entrenamiento_de_resistencia_o_de_fuerza '¿Es un entrenamiento de resistencia o de fuerza?')
-  - [¿En que se diferencia con los otros métodos?](#%C2%BFEn_que_se_diferencia_con_los_otros_metodos '¿En que se diferencia con los otros métodos?')
-  - [¿Funciona de verdad el método?](#%C2%BFFunciona_de_verdad_el_metodo '¿Funciona de verdad el método?')
-- [Cómo hacer la "serie Bilbo"](#Como_hacer_la_%22serie_Bilbo%22 'Cómo hacer la "serie Bilbo"')
-  - [Primer ciclo](#Primer_ciclo 'Primer ciclo')
-  - [Segundo ciclo](#Segundo_ciclo 'Segundo ciclo')
-  - [No llegues al fallo](#No_llegues_al_fallo 'No llegues al fallo')
-  - [Calentamiento](#Calentamiento 'Calentamiento')
-  - [Ejemplo de rutina de entrenamiento Bilbo](#Ejemplo_de_rutina_de_entrenamiento_Bilbo 'Ejemplo de rutina de entrenamiento Bilbo')
-  - [Frecuencia de entrenamiento semanal](#Frecuencia_de_entrenamiento_semanal 'Frecuencia de entrenamiento semanal')
-  - [Cómo progresar en la serie Bilbo](#Como_progresar_en_la_serie_Bilbo 'Cómo progresar en la serie Bilbo')
-  - [El método Bilbo en sentadillas y dominadas](#El_metodo_Bilbo_en_sentadillas_y_dominadas 'El método Bilbo en sentadillas y dominadas')
-- [Por qué funciona el método Bilbo](#Por_que_funciona_el_metodo_Bilbo 'Por qué funciona el método Bilbo')
-  - [Más activación del pectoral a repeticiones altas](#Mas_activacion_del_pectoral_a_repeticiones_altas 'Más activación del pectoral a repeticiones altas')
-  - [El músculo pasa más tiempo bajo tensión](#El_musculo_pasa_mas_tiempo_bajo_tension 'El músculo pasa más tiempo bajo tensión')
-  - [Se incentivan repeticiones mucho más explosivas](#Se_incentivan_repeticiones_mucho_mas_explosivas 'Se incentivan repeticiones mucho más explosivas')
-  - [La ciencia (empieza) a apoyar esta progresión](#La_ciencia_empieza_a_apoyar_esta_progresion 'La ciencia (empieza) a apoyar esta progresión')
-- [Consejos para entrenar el método Bilbo](#Consejos_para_entrenar_el_metodo_Bilbo 'Consejos para entrenar el método Bilbo')
-  - [Para el press de banca es más efectivo](#Para_el_press_de_banca_es_mas_efectivo 'Para el press de banca es más efectivo')
-  - [Olvídate de la retracción escapular](#Olvidate_de_la_retraccion_escapular 'Olvídate de la retracción escapular')
-  - [Priorizar la técnica](#Priorizar_la_tecnica 'Priorizar la técnica')
-  - [Elige un agarre](#Elige_un_agarre 'Elige un agarre')
-  - [No pases de los 45 segundos](#No_pases_de_los_45_segundos 'No pases de los 45 segundos')
-- [Mis resultados con método Bilbo](#Mis_resultados_con_metodo_Bilbo 'Mis resultados con método Bilbo')
-  - [Press de banca](#Press_de_banca 'Press de banca')
-  - [Sentadillas](#Sentadillas 'Sentadillas')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Qué es el método Bilbo
 
@@ -111,8 +79,6 @@ Tengo mi teoría de por qué funciona especialmente bien para pecho….
 El creador del método, Jesús María Varela Goicoechea (su [Instagram](https://www.instagram.com/bilboteam/), dile que vienes de parte de Pau Ninja), es una muestra más de que la experiencia aplicada al sentido común se avanza a la ciencia.
 
 Estamos hablando de alguien que **ha [ganado](https://www.openpowerlifting.org/u/jesusvarelagoicoechea) campeonatos europeos siendo natural con una banca de 235kg con más de 40 años de juventud acumulada**.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Un método del que leí hace muchos años, sobre el 2009 en los foros fitness de aquel entonces.
 
@@ -208,7 +174,7 @@ Día 2
 
 42,5kg
 
-x
+x  
 (me lo salté)
 
 Día 3
@@ -263,14 +229,14 @@ Día 11
 
 65kg
 
-16-17
+16-17  
 (descontado)
 
 Día 12
 
 67,5kg
 
-**15
+**15  
 FIN**
 
 Vamos subiendo 2,5kg de peso en cada entrenamiento **hasta el día en el que sólo podremos hacer 15 repeticiones** con un peso.
@@ -291,10 +257,10 @@ El segundo ciclo difiere del primero porque lo empezaremos en un peso que teóri
 
 **Peso usado**
 
-**Ciclo 1
+**Ciclo 1  
 (repeticiones)**
 
-**Ciclo 2
+**Ciclo 2  
 (repeticiones)**
 
 40kg
@@ -369,11 +335,9 @@ El segundo ciclo difiere del primero porque lo empezaremos en un peso que teóri
 
 16
 
-70kg
-
 ❌
 
-11
+11  
 🏁 **FIN**
 
 Una de las cosas que verás, es que cuando repites ese peso tu cuerpo ya se sacará algunas repeticiones extras que el ciclo anterior.
@@ -382,7 +346,7 @@ Buen síntoma de que ya estás progresando.
 
 ### No llegues al fallo
 
-Eso sí. No se llega [a entrenar al fallo muscular](https://pau.ninja/entrenar-al-fallo-muscular/) aunque se aproxima mucho.
+Eso sí. No se llega [a entrenar al fallo muscular](./entrenar-al-fallo-muscular) aunque se aproxima mucho.
 
 El ciclo se inicia con un 50% de tu máximo en banca con un RIR 1-2, es decir, **dejando 1-2 repeticiones en reserva** del fallo muscular.
 
@@ -418,9 +382,7 @@ Es decir, según lo quemados que estemos, la energía y un montón de factores, 
 
 Lo que importa es la serie Bilbo.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-De lo que se trata ahora es de buscar el [estímulo mente-músculo](https://pau.ninja/conexion-mente-musculo/) para notarlo bien (#411).
+De lo que se trata ahora es de buscar el [estímulo mente-músculo](./conexion-mente-musculo) para notarlo bien (#411).
 
 De bombearlo bien.
 
@@ -434,9 +396,7 @@ En la primera quedarás mucho más fundido y seguramente en las series posterior
 
 El método Bilbo consiste en utilizar una frecuencia 2, es decir, entrenar ese músculo x2 veces a la semana como máximo dejando de 3 a 5 días de descanso entre días de entrenamiento con el método.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Pero no os voy a mentir… yo simplemente lo incorporo [en mi rutina de empuje tirón y pierna de la que ya hablé](https://pau.ninja/rutina-empuje-tiron-pierna/).
+Pero no os voy a mentir… yo simplemente lo incorporo [en mi rutina de empuje tirón y pierna de la que ya hablé](./rutina-empuje-tiron-pierna).
 
 Una estructura de rutina semanal que llevo siguiendo de hace tiempo ya.
 
@@ -471,11 +431,11 @@ Este señor ha construido una banca de 235kg siendo natural trabajando a 30 repe
 
 ¿Sabéis por qué creo que es? Creo que la composición de los músculos de empuje y en especial los pectorales tienen una composición que podría hacer que las altas repeticiones haya un incremento substancial de fuerza he hipertrofia.
 
-De hecho he encontrado un estudio donde se vio que si en el press de banca se hacía a un ritmo de levantamiento lento (estamos hablando de 5 segundos concéntricos y 5 segundos de excéntricos), entonces **la activación del pecho decrecía en un 36%**[1](<javascript:void(0)>)Keogh, Justin & WILSON, GREG & Weatherby, Robert. (1999). A Cross-Sectional Comparison of Different Resistance Training Techniques in the Bench Press. The Journal of Strength & Conditioning Research. 13. 10.1519/00124278-199908000-00012. .
+De hecho he encontrado un estudio donde se vio que si en el press de banca se hacía a un ritmo de levantamiento lento (estamos hablando de 5 segundos concéntricos y 5 segundos de excéntricos), entonces **la activación del pecho decrecía en un 36%**[ref-1](#ref-1){.ref} .
 
 > Es decir… que levantar lento te activaba menos el pectoral.
 
-Hay otro estudio que dice lo mismo pero al revés. Viendo como al hacer el levantamiento rápido resultaba en más hipertrofia que el grupo que lo hacían lentamente[2](<javascript:void(0)>)Schuenke MD, Herman JR, Gliders RM, Hagerman FC, Hikida RS, Rana SR, Ragg KE, Staron RS. Early-phase muscular adaptations in response to slow-speed versus traditional resistance-training regimens. Eur J Appl Physiol. 2012 Oct;112(10):3585-95. doi: 10.1007/s00421-012-2339-3. Epub 2012 Feb 12. PMID: 22328004..
+Hay otro estudio que dice lo mismo pero al revés. Viendo como al hacer el levantamiento rápido resultaba en más hipertrofia que el grupo que lo hacían lentamente[ref-2](#ref-2){.ref}.
 
 > Parece que es porque levantar muy lentamente no estimula o activa suficiente las fibras musculares tipo II de umbral más alto.
 
@@ -493,7 +453,7 @@ El «TUT» o «Time Under Tension».
 
 En lenguaje ninja: el tiempo bajo tensión al que mantenemos el músculo.
 
-Según la ciencia del deporte y todos sus estudios, este tiempo bajo tensión en el que simplemente haríamos series super lentas para que haya tensión constante **no sirve** para ganar masa muscular[3](<javascript:void(0)>)Schoenfeld BJ, Ogborn DI, Krieger JW. Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis. Sports Med. 2015 Apr;45(4):577-85. doi: 10.1007/s40279-015-0304-0. PMID: 25601394..
+Según la ciencia del deporte y todos sus estudios, este tiempo bajo tensión en el que simplemente haríamos series super lentas para que haya tensión constante **no sirve** para ganar masa muscular[ref-3](#ref-3){.ref}.
 
 > De hecho estos meta-análisis nos sugieren que el tiempo óptimo para optimizar crecimiento muscular es de 2 a 6 segundos.
 
@@ -511,7 +471,7 @@ Porque entonces, ¿cómo se explica que el método Bilbo funcione?
 
 En una palabra: **explosividad**.
 
-Hay estudios que muestran una **relación directa entre explosividad y fuerza**[4](<javascript:void(0)>)González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, Gorostiaga EM, Pareja-Blanco F. Maximal intended velocity training induces greater gains in bench press performance than deliberately slower half-velocity training. Eur J Sport Sci. 2014;14(8):772-81. doi: 10.1080/17461391.2014.905987. Epub 2014 Apr 15. PMID: 24734902..
+Hay estudios que muestran una **relación directa entre explosividad y fuerza**[ref-4](#ref-4){.ref}.
 
 Que es exactamente en lo que consisten las «series Bilbo».
 
@@ -525,7 +485,7 @@ Hasta ahora todo esto era prueba y error de Jesús María, pero uno de sus segui
 
 Las de mucho peso y pocas repeticiones.
 
-Después de varias semanas, los del método Bilbo ganaron no sólo mucha más fuerza sino que también músculo[5](<javascript:void(0)>)Adrián Merchán Lobato (2019), «Comparación de los efectos de diferentes métodos de entrenamiento en las ganancias de fuerza máxima en press de banca»..
+Después de varias semanas, los del método Bilbo ganaron no sólo mucha más fuerza sino que también músculo[ref-5](#ref-5){.ref}.
 
 ## Consejos para entrenar el método Bilbo
 
@@ -586,7 +546,7 @@ O que quieres darle un puñetazo al tío de la tribu enemiga que se quiere «fib
 
 Perdemos toda la potencia en el momento que el cuerpo se da cuenta que los omoplatos están restringidos.
 
-No sólo nos hemos puesto en una posición más débil para el pectoral sino que también hemos roto el ritmo natural del cuerpo y de la mecánica del hombro[6](<javascript:void(0)>)Varios fisioterapeutas, @mountaindog1, @coacheugeneteo.
+No sólo nos hemos puesto en una posición más débil para el pectoral sino que también hemos roto el ritmo natural del cuerpo y de la mecánica del hombro[ref-6](#ref-6){.ref}.
 
 El pecho y el cerebro intentan poner el brazo delante del cuerpo esperando un omoplato libre… que no le estás dando.
 
@@ -626,13 +586,13 @@ Si lo comparamos con las repeticiones controladas de 2-6 segundos de toda la vid
 
 **Peso**
 
-**Ciclo 1
+**Ciclo 1  
 **
 
-**Ciclo 2
+**Ciclo 2  
 **
 
-**Ciclo 3
+**Ciclo 3  
 **
 
 **Ciclo 4**
@@ -747,9 +707,7 @@ Si lo comparamos con las repeticiones controladas de 2-6 segundos de toda la vid
 
 ❌
 
-70kg
-
-11
+11  
 🏁 **FIN**
 
 ❌
@@ -758,13 +716,13 @@ Si lo comparamos con las repeticiones controladas de 2-6 segundos de toda la vid
 
 **Peso**
 
-**Ciclo 1
+**Ciclo 1  
 **
 
-**Ciclo 2
+**Ciclo 2  
 **
 
-**Ciclo 3
+**Ciclo 3  
 **
 
 40kg
@@ -827,7 +785,7 @@ Si lo comparamos con las repeticiones controladas de 2-6 segundos de toda la vid
 
 60kg
 
-16
+16  
 🏁 **FIN**
 
 22💪🏼
@@ -836,39 +794,9 @@ Si lo comparamos con las repeticiones controladas de 2-6 segundos de toda la vid
 
 ❌
 
-20
+20  
 🏁 **FIN**
 
 65kg
 
 67,5kg
-
-70kg
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Keogh, Justin & WILSON, GREG & Weatherby, Robert. (1999). A Cross-Sectional Comparison of Different Resistance Training Techniques in the Bench Press. The Journal of Strength & Conditioning Research. 13. 10.1519/00124278-199908000-00012.
-
-- 2
-
-  Schuenke MD, Herman JR, Gliders RM, Hagerman FC, Hikida RS, Rana SR, Ragg KE, Staron RS. Early-phase muscular adaptations in response to slow-speed versus traditional resistance-training regimens. Eur J Appl Physiol. 2012 Oct;112(10):3585-95. doi: 10.1007/s00421-012-2339-3. Epub 2012 Feb 12. PMID: 22328004.
-
-- 3
-
-  Schoenfeld BJ, Ogborn DI, Krieger JW. Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis. Sports Med. 2015 Apr;45(4):577-85. doi: 10.1007/s40279-015-0304-0. PMID: 25601394.
-
-- 4
-
-  González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, Gorostiaga EM, Pareja-Blanco F. Maximal intended velocity training induces greater gains in bench press performance than deliberately slower half-velocity training. Eur J Sport Sci. 2014;14(8):772-81. doi: 10.1080/17461391.2014.905987. Epub 2014 Apr 15. PMID: 24734902.
-
-- 5
-
-  Adrián Merchán Lobato (2019), «Comparación de los efectos de diferentes métodos de entrenamiento en las ganancias de fuerza máxima en press de banca».
-
-- 6
-
-  Varios fisioterapeutas, @mountaindog1, @coacheugeneteo

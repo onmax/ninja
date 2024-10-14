@@ -1,14 +1,21 @@
 ---
-title: "¿Bitcoin es una estafa piramidal? Desmiento el supuesto esquema ponzi"
+title: "¿Bitcoin es una estafa piramidal?"
+url: https://pau.ninja/bitcoin-estafa-piramidal
+slug: bitcoin-estafa-piramidal
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: bitcoin-estafa-piramidal.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/01/bitcoin-estafa-piramidal.jpeg
 published: 2021-01-16T12:22:11+00:00
 modified: 2024-02-11T06:34:42+00:00
+scrappedAt: 2024-10-14T09:21:26.504Z
 audioLink: https://www.ivoox.com/bitcoin-es-estafa-piramidal_md_65072506_wp_1.mp3
-slug: bitcoin-estafa-piramidal
+bibliography: []
 ---
-
-[https://www.ivoox.com/bitcoin-es-estafa-piramidal_md_65072506_wp_1.mp3](https://www.ivoox.com/bitcoin-es-estafa-piramidal_md_65072506_wp_1.mp3)
+[https://www.ivoox.com/bitcoin-es-estafa-piramidal\_md\_65072506\_wp\_1.mp3](https://www.ivoox.com/bitcoin-es-estafa-piramidal_md_65072506_wp_1.mp3)
 
 Ya sabéis que todo mi capital está en bitcoin, y hasta mis padres lo saben.
 
@@ -32,29 +39,9 @@ Así que hoy, como los estudiantes de Hogwarts nos ponemos el sombrero. No el qu
 
 Aprenderemos qué factores hace que una estafa piramidal lo sea, y utilizaremos **datos y sentido común** para que cada uno saque su propia conclusión de si bitcoin lo es o no.
 
-![cómic secta](https://pau.ninja/wp-content/uploads/2021/01/comic-secta.png)
+![cómic secta](./wp-content/uploads/2021/01comic-secta.png)
 
 Confío en el sentido común de mi audiencia pero como este es mi contenido, pues también os diré mi opinión después de exprimir lo que considero yo que es un **análisis objetivo**.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Definición de un esquema ponzi](#Definicion_de_un_esquema_ponzi 'Definición de un esquema ponzi')
-- [Lista para detectar una estafa piramidal](#Lista_para_detectar_una_estafa_piramidal 'Lista para detectar una estafa piramidal')
-  - [Hincapié en el reclutamiento](#Hincapie_en_el_reclutamiento 'Hincapié en el reclutamiento')
-  - [Se vende humo](#Se_vende_humo 'Se vende humo')
-  - [Prometen rentabilidades estratosféricas](#Prometen_rentabilidades_estratosfericas 'Prometen rentabilidades estratosféricas')
-  - [No requiere esfuerzo](#No_requiere_esfuerzo 'No requiere esfuerzo')
-  - [Origen opaco de las ganancias](#Origen_opaco_de_las_ganancias 'Origen opaco de las ganancias')
-  - [Esquema de comisiones complejo](#Esquema_de_comisiones_complejo 'Esquema de comisiones complejo')
-- [Los escépticos de bitcoin](#Los_escepticos_de_bitcoin 'Los escépticos de bitcoin')
-- [¿Es bitcoin una estafa piramidal o es verdad?](#%C2%BFEs_bitcoin_una_estafa_piramidal_o_es_verdad '¿Es bitcoin una estafa piramidal o es verdad?')
-  - [Reclutamiento bitcoin](#Reclutamiento_bitcoin 'Reclutamiento bitcoin')
-- [Ejemplos de estafas piramidales actuales en España](#Ejemplos_de_estafas_piramidales_actuales_en_Espana 'Ejemplos de estafas piramidales actuales en España')
-  - [Utilizar un buscador](#Utilizar_un_buscador 'Utilizar un buscador')
-  - [Tirar de investigador privado](#Tirar_de_investigador_privado 'Tirar de investigador privado')
-- [La verdadera estafa piramidal](#La_verdadera_estafa_piramidal 'La verdadera estafa piramidal')
 
 ## Definición de un esquema ponzi
 
@@ -88,7 +75,7 @@ De aquí viene el nombre de «estafa piramidal». Porque en cada nivel de esta e
 
 De este modo el pequeño grupo que está en el nivel superior necesita muchos «inversores» en los niveles inferiores que paguen ganancias a los miembros que están en las escalas superiores.
 
-![esquema piramidal](https://pau.ninja/wp-content/uploads/2021/01/esquema-piramidal.png)
+![esquema piramidal](./wp-content/uploads/2021/01esquema-piramidal.png)
 
 Como hay tanto hincapié en reclutar, las potenciales víctimas verán que pueden ganar mucha pasta si centran sus energías en pescar nuevos miembros porque la naturaleza de estas estafas es que los participantes **reciben más compensación por reclutar** que por el hecho de vender el producto o servicio que el esquema publicita.
 
@@ -106,11 +93,11 @@ En este ejemplo sería un esquema piramidal si yo, una vez **tú** has invitado 
 
 Por eso el énfasis está tan puesto en reclutar. No sólo en que yo como víctima reclute, pero a ayudarte a ti (al nuevo miembro que he reclutado) a que invites a más personas porque tú ganarás más, pero yo también.
 
-#### ![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin-1.png)
+#### ![bitcoin](./wp-content/uploads/2020/11bitcoin-1.png)
 
 #### ¿Y en el caso bitcoin?
 
-En el caso de bitcoin **nadie** nos obliga a vender nada ni a reclutar a nadie. Puedo invertir en 100 [bitcoin anónimamente](https://pau.ninja/comprar-bitcoins-anonimamente/) (mejor hacerlo así de «zorrudo») y callarme la boquita y **no decirlo absolutamente a nadie**.
+En el caso de bitcoin **nadie** nos obliga a vender nada ni a reclutar a nadie. Puedo invertir en 100 [bitcoin anónimamente](./comprar-bitcoins-anonimamente) (mejor hacerlo así de «zorrudo») y callarme la boquita y **no decirlo absolutamente a nadie**.
 
 Por otro lado, por mucho que yo hable de las bondades de bitcoin, si alguien entra convencido por lo que yo digo, **a mí nadie me da nada**. No me dan BTC.
 
@@ -134,40 +121,40 @@ Es de sentido común. Entraré más en ello de este punto al final, porque parec
 
 Lo que está claro es que se tiene que ofrecer un producto o servicio como **tapadera**. Claro de lo contrario no pueden camuflar que lo más importante es reclutar a los demás.
 
-#### ![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin-1.png)
+#### ![bitcoin](./wp-content/uploads/2020/11bitcoin-1.png)
 
 #### ¿Y en el caso bitcoin?
 
 Para los que no se han leído mucha literatura del dinero, entiendo que el «valor» de bitcoin pueda sonar bastante abstracto. Es comprensible, pero fijaros que hay dos maneras de como bitcoin ofrece utilidad de **una manera** que ningún otro activo ha podido ofrecer hasta el día de hoy:
 
 - Como sistema de pago.
-- [Como refugio y reserva de valor](https://pau.ninja/valores-refugio/).
+- [Como refugio y reserva de valor](./valores-refugio).
 
 Yo lo he adoptado más por esta segunda pero ambas maneras de entender bitcoin se pueden resumir en: **dinero**. Y es que bitcoin no se trata de **hacer dinero**, pero de **ser dinero**. Dinero duro.
 
 Ser dinero para aquellos que hemos decidido poner parte de nuestros ahorros, nuestro patrimonio en él. Como si intercambiáramos los euros a dólares, pero en vez de esto, a bitcoin. Por eso tiene su propia unidad de cuenta.
 
-Lo que hace esta criptomoneda es ofrecer una solución al [problema del dinero actual](https://pau.ninja/propiedades-del-dinero/) y también [sistema monetario de hoy día](https://pau.ninja/sistema-monetario-actual/). Esta solución viene a traducirse en una **reserva de valor** para una riqueza que ya hemos creado.
+Lo que hace esta criptomoneda es ofrecer una solución al [problema del dinero actual](./propiedades-del-dinero/) y también [sistema monetario de hoy día](https://pau.ninja/sistema-monetario-actual). Esta solución viene a traducirse en una **reserva de valor** para una riqueza que ya hemos creado.
 
 ¿Cómo ofrece bitcoin esta solución al problema de la perdida de valor de nuestras divisas?
 
 En forma de dinero superior a lo que tenemos hoy, usando innovación tecnológica en forma de seguridad, transparencia, seguridad, descentralización y libertad. Nada de esto lo puede ofrecer ni el dólar americano, ni el euro, ni el oro.
 
-![correlacion-inversiones](https://pau.ninja/wp-content/uploads/2021/01/correlacion-inversiones.jpg)
+![correlacion-inversiones](./wp-content/uploads/2021/01correlacion-inversiones.jpg)
 
 De hecho mirad si es diferente que cuando nació bitcoin en 2009 se creó **otro tipo de activo** de inversión. Por eso tiene **cero** correlación con otros activos como bonos, acciones, petróleo y el oro. O sea que no hay nada similar.
 
 Bitcoin sólo tiene utilidad como dinero y sólo la mantendrá si hay suficiente demanda de bitcoin en el futuro, pero eso es así en **todas las formas de dinero** (no sólo bitcoin).
 
-Al contrario de lo que se cree, el dinero no es sólo una forma de imaginación colectiva, de «creencia», de [valor intrínseco](https://pau.ninja/propiedades-del-dinero/#Intrinseco). No. El dinero tienen propiedades distintivas que lo hace **más o menos efectivo** facilitando un intercambio.
+Al contrario de lo que se cree, el dinero no es sólo una forma de imaginación colectiva, de «creencia», de [valor intrínseco](./propiedades-del-dinero#Intrinseco). No. El dinero tienen propiedades distintivas que lo hace **más o menos efectivo** facilitando un intercambio.
 
-Un intercambio que como [los orígenes del dinero](https://pau.ninja/historia-del-dinero/) nos han enseñado, es un subproducto de una comunicación eficiente, y con la manera instantánea de comunicarnos hoy en día, bitcoin es el paso lógico que se adapta a los tiempos y problemas en esta comunicación.
+Un intercambio que como [los orígenes del dinero](./historia-del-dinero) nos han enseñado, es un subproducto de una comunicación eficiente, y con la manera instantánea de comunicarnos hoy en día, bitcoin es el paso lógico que se adapta a los tiempos y problemas en esta comunicación.
 
 Pero estas propiedades no son absolutas y la fuerza de cada moneda y divisa siempre está sujeta a la demanda.
 
 ### Prometen rentabilidades estratosféricas
 
-Precisamente porque fue creado en 2009 y aún es muy nuevo, la demanda de bitcoin ha crecido pero también ha sido muy volátil, es lógico. Hemos visto a los llamados *early adopters* (los que compraron bitcoin al poco de nacer) que se han enrriquecido porque el valor de BTC se ha multplicado.
+Precisamente porque fue creado en 2009 y aún es muy nuevo, la demanda de bitcoin ha crecido pero también ha sido muy volátil, es lógico. Hemos visto a los llamados _early adopters_ (los que compraron bitcoin al poco de nacer) que se han enrriquecido porque el valor de BTC se ha multplicado.
 
 Y por eso se lo ha tachado de esquema piramidal.
 
@@ -183,7 +170,7 @@ Pero lo que hace a estos esquemas más zorrudos del todo, es que las víctimas s
 
 En algunos casos sí que se podrá sacar dinero, pero es porque se usa el dinero de los nuevos reclutados, y no por haber generado ventas de un producto o servicio real.
 
-#### ![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin-1.png)
+#### ![bitcoin](./wp-content/uploads/2020/11bitcoin-1.png)
 
 #### ¿Y en el caso bitcoin?
 
@@ -207,7 +194,7 @@ Eso sí. Tal vez tendremos que convencer a otros de las bondades de la plataform
 
 Pero esta primicia de no esforzarse, está directamente relacionada con la recompensa que recibiremos. Es decir, te harás rico o viajarás gratis para siempre y encima sin hacer absolutamente nada.
 
-#### ![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin-1.png)
+#### ![bitcoin](./wp-content/uploads/2020/11bitcoin-1.png)
 
 #### ¿Y en el caso bitcoin?
 
@@ -239,7 +226,7 @@ Vamos, que una empresa **legítima**, la mayoría de sus ganancias vendrán dada
 
 Una cosa es ver ahí en una plataforma bonita unas gráficas chulas de que están teniendo ingresos, pero otra distinta es poderlo confirmar de forma oficial con documentos que demuestren que no nos la están intentando colar.
 
-#### ![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin-1.png)
+#### ![bitcoin](./wp-content/uploads/2020/11bitcoin-1.png)
 
 #### ¿Y en el caso bitcoin?
 
@@ -251,9 +238,9 @@ Y a parte de descentralizado, también es un _software open source_. Un programa
 
 No sé si os suena la palabra «transparente» pero es todo lo contrario a «opaco».
 
-Sea lo que sea que hagamos está a la vista de todo el mundo, y aquí bitcoin nos hace aferrarnos a la [responsabilidad de nuestro anonimato](https://pau.ninja/comprar-bitcoins-anonimamente/), pero esto es un tema a parte.
+Sea lo que sea que hagamos está a la vista de todo el mundo, y aquí bitcoin nos hace aferrarnos a la [responsabilidad de nuestro anonimato](./comprar-bitcoins-anonimamente), pero esto es un tema a parte.
 
-El caso es que vemos como bitcoin **no se puede trampear por su transparencia**, y por lo tanto las ganancias, ergo el número de bitcoin que tenemos en nuestras carteras o *exchanges* son los que son, y punto. No los podemos multiplicar por arte de magia porque como hemos visto, hay una **cantidad finita**.
+El caso es que vemos como bitcoin **no se puede trampear por su transparencia**, y por lo tanto las ganancias, ergo el número de bitcoin que tenemos en nuestras carteras o _exchanges_ son los que son, y punto. No los podemos multiplicar por arte de magia porque como hemos visto, hay una **cantidad finita**.
 
 ### Esquema de comisiones complejo
 
@@ -274,7 +261,7 @@ Pero otra distinta es que las comisiones de la señora que ha comprado al señor
 
 Es decir, si somos víctimas de un esquema piramidal y entramos a formar parte de estos multinivel, automáticamente **nos convertimos en los timadores**. Nos vemos obligados a convencer a los demás del humo que estamos vendiendo, para así poder ganar dinero o no perder lo que hemos invertido inicialmente.
 
-#### ![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin-1.png)
+#### ![bitcoin](./wp-content/uploads/2020/11bitcoin-1.png)
 
 #### ¿Y en el caso bitcoin?
 
@@ -284,7 +271,7 @@ Uno de los argumentos que escucho por ahí es que la mayoría de bitcoin está e
 
 ¿A caso la mayoría de dinero fiduciario de hoy día no está en manos de pocos? ¿no es [menos del 1%](https://www.elblogsalmon.com/economia/desigualdad-aumenta-a-pasos-agigantados-el-1-tiene-mas-riqueza-que-el-99-restante-de-la-poblacion-mundial) de la población que posee el 99% de la riqueza?
 
-Pues bien gracias a la transparencia de la *blockchain* podemos ver que esta riqueza de bitcoin está mucho más [repartida](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html).
+Pues bien gracias a la transparencia de la _blockchain_ podemos ver que esta riqueza de bitcoin está mucho más [repartida](https://bitinfocharts.com/top-100-richest-bitcoin-addresses.html).
 
 En vez de que un 1% tenga el 99%, en este momento menos de un 1% tienen un 61% y el resto está repartido en el «bitcoinero» medio. ¿Es perfecto o equitativo? pues no del todo, pero sin duda es una mejora del abanico 1-99%.
 
@@ -308,7 +295,7 @@ Con esto en mente vamos a ver qué listilla nos dejaba Jorge Stolfi para hacerse
 
 - _Los inversores ponen su dinero ahí porque esperan buenas ganancias_. **Mi respuesta**: lo mismo con acciones, bonos, ETF, indexados, oro, angel investing y cualquier otra inversión, de lo contrario no invertiríamos.
 - _La esperanza está sustentada en que los rendimientos se paguen a quienes decidan cobrar_. **Mi respuesta**: es la misma que el punto anterior. Es decir como en todos los vehículos de inversión.
-- _No existe una fuente para los pagos_. **Mi respuesta**: Bitcoin es tanto moneda como reserva de valor, la maldita fuente es el jodido mercado. Además hay *exchanges*, plataformas que ganan comisión cada vez que usamos bitcoin. Como con nuestras cuentas bancarias. Usamos bitcoin para pagar. Yo tengo 1 bitcoin y te pago 1 bitcoin. Esto es el maldito pago.
+- _No existe una fuente para los pagos_. **Mi respuesta**: Bitcoin es tanto moneda como reserva de valor, la maldita fuente es el jodido mercado. Además hay _exchanges_, plataformas que ganan comisión cada vez que usamos bitcoin. Como con nuestras cuentas bancarias. Usamos bitcoin para pagar. Yo tengo 1 bitcoin y te pago 1 bitcoin. Esto es el maldito pago.
 - _Los beneficios vienen de nuevas incorporaciones_. **Mi respuesta**: por eso el señor Jorge Stolfi es profesor de computación y no de economía, porque no está muy familiarizado con el «[efecto red](https://es.wikipedia.org/wiki/Efecto_de_red)«. El efecto nos dice algo de sentido común: a más demanda, más consumo y más valor. Para que Instagram triunfara como negocio tuvo que haber un «efecto red» para que se incrementaran los usuarios. Para que el teléfono triunfara y estuviera en cada hogar, tuvo que haber un «efecto red» de casas que lo adoptaron, y lo mismo con internet o hasta la ropa interior o bañadores de tipo bikini.
 - _Los operadores se llevan la mayoría del dinero_. **Mi respuesta**: cuando dice operadores se refiere a los mineros. Y adivinad qué, hay muchos mineros que mantienen parte de sus bitcoin porque si lo están minando es que saben de su importancia, pero después venden parte de estas ganancias porque hay que pagar toda esa electricidad en la moneda de su país. Si bitcoin se adoptara globalmente, ese dinero se pondría al mercado igualmente porque de nuevo, los mineros tienen vida propia y tienen que mover el dinero de algún modo.
 
@@ -330,7 +317,7 @@ Tan revolucionaria como el propio internet.
 
 Buscaría artículos que ponían internet a parir pero adivinad qué, **no había internet**. Aunque por la red he visto fotos de algunos periódicos de la época que decían que estaba destinado a fracasar.
 
-![predicción de internet](https://pau.ninja/wp-content/uploads/2021/01/prediccion-de-internet.jpg)
+![predicción de internet](./wp-content/uploads/2021/01prediccion-de-internet.jpg)
 
 Hay recopilaciones de [predicciones](https://www.newstatesman.com/science-tech/internet/2016/08/25-years-here-are-worst-ever-predictions-about-internet) graciosas al respecto.
 
@@ -344,13 +331,13 @@ Al principio comentábamos el hincapié en reclutar. Es la pata fundamental de u
 
 Pero aunque la distinción debería ser aplastantemente obvia, me pongo en la piel de los escépticos.
 
-El problema que veo es que la [idea de las propiedades del dinero](https://pau.ninja/propiedades-del-dinero/) no se entiende bien del todo y se puede confundir. Bitcoin **sólo** se convertirá en un refugio y reserva de valor internacional si **millones** de personas más lo adoptan.
+El problema que veo es que la [idea de las propiedades del dinero](./propiedades-del-dinero) no se entiende bien del todo y se puede confundir. Bitcoin **sólo** se convertirá en un refugio y reserva de valor internacional si **millones** de personas más lo adoptan.
 
 El «efecto red».
 
-Y claro, cuando aprendemos no sólo de las bondades de un dinero **neutral**, si no de la [estafa del sistema monetario de hoy día](https://pau.ninja/sistema-monetario-actual/), sin darnos cuenta estamos despotricando de todo esto delante de amigos y familiares.
+Y claro, cuando aprendemos no sólo de las bondades de un dinero **neutral**, si no de la [estafa del sistema monetario de hoy día](./sistema-monetario-actual), sin darnos cuenta estamos despotricando de todo esto delante de amigos y familiares.
 
-![meme sistema monetario](https://pau.ninja/wp-content/uploads/2021/01/meme-sistema-monetario.jpg)
+![meme sistema monetario](./wp-content/uploads/2021/01meme-sistema-monetario.jpg)
 
 Casi que parece que les intentemos vender bitcoin, y en cierta medida lo estamos haciendo. ¿Cómo no va a sonar a esquema piramidal?
 
@@ -358,7 +345,7 @@ Casi que parece que les intentemos vender bitcoin, y en cierta medida lo estamos
 - Ahora todos tenemos smartphones que no tienen porque ser Apple, pero ellos fueron los impulsores. Sin darnos cuentas dejamos de usar teléfonos que no eran táctiles porque los nuevos eran superiores en todos los aspectos.
 - O simplemente cuando alguien se dio cuenta del potencial de Amazon en la bolsa de valores y le dijo a conocidos que se había hinchado de comprar acciones de Amazon, ¿era Amazon considerado un esquema piramidal?
 
-Lo mismo pasa con bitcoin. Es superior a cualquier divisa fiduciaria e incluso superior [en cuanto a propiedades de dinero duro](https://pau.ninja/propiedades-del-dinero/) a un activo con miles de años de historia como dinero duro: el [oro en monedas y lingotes](https://pau.ninja/donde-comprar-oro-fisico/).
+Lo mismo pasa con bitcoin. Es superior a cualquier divisa fiduciaria e incluso superior [en cuanto a propiedades de dinero duro](./propiedades-del-dinero/) a un activo con miles de años de historia como dinero duro: el [oro en monedas y lingotes](https://pau.ninja/donde-comprar-oro-fisico).
 
 No podemos esperar a predicar lo bueno, con el peligro de que sonemos a «reclutadores». Pero aquí tengo que añadir de que precisamente porque **bitcoin es dinero de verdad**, es lo que hace que sea más fácil que lo interpretemos como una estafa.
 
@@ -388,7 +375,7 @@ Aún así, si os pica la curiosidad hay un par de truquillos que se pueden hacer
 
 El primero sería abrir un buscador cualquiera en modo incógnito, teclear «estafa piramidal» o «esquema piramidal ponzi», y esperar a ver qué tiene que sugerirnos el buscador.
 
-![sugerencias de estafas en google](https://pau.ninja/wp-content/uploads/2021/01/sugerencias-de-estafas-en-google.png)
+![sugerencias de estafas en google](./wp-content/uploads/2021/01sugerencias-de-estafas-en-google.png)
 
 Por ejemplo si lo ponemos en Google nos sale una lista bastante abundante.
 
@@ -403,23 +390,21 @@ La otra forma de detectar es simplemente acudir a los creadores de contenido que
 Para empezar recomiendo [TulipResearch](https://tulipresearch.com/es/) que se especializan en eso. Y sin confirmar o desmentir yo personalmente que tengan razón, en su Twitter van informando de sus investigaciones.
 
 > Estos son los ponzis españoles que se ha confirmado su [#ExitScam](https://twitter.com/hashtag/ExitScam?src=hash&ref_src=twsrc%5Etfw) en 2020:
->
-> BTCSurf (Junio) ❌
-> Arbistar (Septiembre) ❌
-> Biteq (Diciembre) ❌
-> Nimbus\* (Diciembre) ❌
-> Bitwabi (Diciembre) ❌
+> 
+> BTCSurf (Junio) ❌  
+> Arbistar (Septiembre) ❌  
+> Biteq (Diciembre) ❌  
+> Nimbus\* (Diciembre) ❌  
+> Bitwabi (Diciembre) ❌  
 > Mind Capital (Diciembre) ❌
->
+> 
 > — Tulip Research (@TulipResearch) [January 14, 2021](https://twitter.com/TulipResearch/status/1349671753400913922?ref_src=twsrc%5Etfw)
 
 Otro ejemplo de héroe que en vez de capa utiliza portátil al que sigo yo es [Chuiso](https://twitter.com/chuisochuisez). Que aunque su temática son los negocios online, el investigador privado que lleva dentro hace que de vez en cuando, como hobby, despotrique y desmantele algunas de estas estafas multinivel.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Da bastante pena de ver que cuando despotrica de [algunas](https://www.youtube.com/watch?v=Q9C2ZT179Zg) empresa bastante famosas, los comentarios y dislikes fluyen como el líquido vertido en forma de liquidez a la cúspide de la pirámide.
 
-Lo más probable es que esos *haters* fueran ya integrantes de alguno de estos potenciales esquemas. Supongo que por eso son reticentes de mirar los enlaces de la descripción para expandir más información y ver **análisis bien fundamentado** de sí es o no una estafa.
+Lo más probable es que esos _haters_ fueran ya integrantes de alguno de estos potenciales esquemas. Supongo que por eso son reticentes de mirar los enlaces de la descripción para expandir más información y ver **análisis bien fundamentado** de sí es o no una estafa.
 
 ## La verdadera estafa piramidal
 
@@ -427,11 +412,11 @@ Pero no podemos mencionar a las estafas piramidales, sistema monetario y dinero 
 
 Podemos hacer una comparación muy rápida.
 
-**Bitcoin
-**![bitcoin](https://pau.ninja/wp-content/uploads/2020/11/bitcoin.png)
+**Bitcoin  
+**![bitcoin](./wp-content/uploads/2020/11bitcoin.png)
 
-**Dinero fiduciario
-![moneda](https://pau.ninja/wp-content/uploads/2020/11/moneda.png)
+**Dinero fiduciario  
+![moneda](./wp-content/uploads/2020/11moneda.png)  
 **
 
 **Escasez**: limitado a 21 millones
@@ -447,3 +432,89 @@ Podemos hacer una comparación muy rápida.
 **Control**: bancos centrales
 
 Ahí lo dejo por ahora. A ver cuál pensáis que tiene más sentido que depositemos nuestros ahorros.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Bitcoin](./bitcoin)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/bitcoin-estafa-piramidal/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10089,"title":"6%20razones%20por%20las%20que%20bitcoin%20NO%20es%20ESTAFA%20%F0%9F%A4%A6%20%E3%80%90An%C3%A1lisis%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/01\\/bitcoin-estafa-piramidal.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,18 +1,23 @@
 ---
-title: "Invertir NO te salvará de la inflación (considera la devaluación de la moneda)"
+title: "Invertir NO te salvará de la inflación"
+url: https://pau.ninja/devaluacion-de-la-moneda
+slug: devaluacion-de-la-moneda
+categories: 
+- slug: dinero
+    label: 💰 Dinero
 image: atracador-robando-dinero.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/02/atracador-robando-dinero.jpeg
 published: 2021-02-16T11:05:47+00:00
 modified: 2024-02-07T10:16:20+00:00
+scrappedAt: 2024-10-14T09:21:21.857Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/62151381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2F302903440-44100-2-3551a25eca264.mp3
-slug: devaluacion-de-la-moneda
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/62151381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2F302903440-44100-2-3551a25eca264.mp3](https://anchor.fm/s/98566448/podcast/play/62151381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2F302903440-44100-2-3551a25eca264.mp3)
 
 Hoy os cuento el cambio de paradigma que sufrió mi cabeza en términos de inversión.
 
-Cuando me enteré del [funcionamiento del sistema monetario](https://pau.ninja/sistema-monetario-actual/) claro que me impacto y quedé horrorizado de cómo funcionan estas políticas, pero este **no** fue el detonante que me hizo dar un giro de 180º a [mi estrategia de inversión](https://pau.ninja/mi-cartera-de-inversion/).
+Cuando me enteré del [funcionamiento del sistema monetario](./sistema-monetario-actual/) claro que me impacto y quedé horrorizado de cómo funcionan estas políticas, pero este **no** fue el detonante que me hizo dar un giro de 180º a [mi estrategia de inversión](https://pau.ninja/mi-cartera-de-inversion).
 
 No fue el funcionamiento pero las consecuencias de estas políticas monetarias lo que me hizo hacerlo.
 
@@ -20,7 +25,7 @@ Estuve invirtiendo en fondos índice durante años pensando que lo único que te
 
 Pensaba que si batía a la inflación ya no me tendría que preocupar de que mis ahorros perdieran valor año tras año.
 
-![combatiendo inflación](https://pau.ninja/wp-content/uploads/2020/10/combatiendo-inflacion.png)
+![combatiendo inflación](./wp-content/uploads/2020/10combatiendo-inflacion.png)
 
 Hasta que los bancos centrales empezaron a imprimir dinero como locos.
 
@@ -36,7 +41,7 @@ Lo que me encontré es lo que me hizo cambiar mi estrategia y dejar de diversifi
 
 > La devaluación **no** es lo mismo que la inflación.
 
-Aquellos que ven en mi contenido que [sólo invierto en bitcoin](https://pau.ninja/invertir-en-bitcoins-forma-segura/) confunden muy a menudo estos dos conceptos. Y de hecho yo era el primero que pensaba que eran (casi) sinónimos.
+Aquellos que ven en mi contenido que [sólo invierto en bitcoin](./invertir-en-bitcoins-forma-segura) confunden muy a menudo estos dos conceptos. Y de hecho yo era el primero que pensaba que eran (casi) sinónimos.
 
 Pero hay diferencias importantes.
 
@@ -47,26 +52,6 @@ Una prueba de ello es que últimamente después de explicar la devaluación esto
 Mi respuesta es: no, no y no.
 
 Hoy entramos a ver cuál es la relación entre inflación, devaluación pero también velocidad del dinero. Por qué es **esencial** para nuestra supervivencia financiera entenderla y sobretodo porque no es suficiente en «tener acciones de empresas».
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Devaluación del dinero en el tiempo](#Devaluacion_del_dinero_en_el_tiempo 'Devaluación del dinero en el tiempo')
-  - [Consecuencias de la devaluación de la moneda](#Consecuencias_de_la_devaluacion_de_la_moneda 'Consecuencias de la devaluación de la moneda')
-  - [Causas de la devaluación](#Causas_de_la_devaluacion 'Causas de la devaluación')
-- [Qué es inflación y devaluación](#Que_es_inflacion_y_devaluacion 'Qué es inflación y devaluación')
-  - [Relación entre devaluación e inflación](#Relacion_entre_devaluacion_e_inflacion 'Relación entre devaluación e inflación')
-  - [Diferencia entre inflación y devaluación](#Diferencia_entre_inflacion_y_devaluacion 'Diferencia entre inflación y devaluación')
-- [Efectos de una devaluación monetaria](#Efectos_de_una_devaluacion_monetaria 'Efectos de una devaluación monetaria')
-  - [Devaluación del dólar](#Devaluacion_del_dolar 'Devaluación del dólar')
-  - [Devaluación del euro](#Devaluacion_del_euro 'Devaluación del euro')
-- [Refugio de la devaluación](#Refugio_de_la_devaluacion 'Refugio de la devaluación')
-  - [Agregados monetarios M1, M2 y M3](#Agregados_monetarios_M1_M2_y_M3 'Agregados monetarios M1, M2 y M3')
-  - [Invertir en indexados](#Invertir_en_indexados 'Invertir en indexados')
-  - [Bitcoin: el gran filtro](#Bitcoin_el_gran_filtro 'Bitcoin: el gran filtro')
-  - [Velocidad del dinero](#Velocidad_del_dinero 'Velocidad del dinero')
-  - [Velocidad de bitcoin](#Velocidad_de_bitcoin 'Velocidad de bitcoin')
 
 ## Devaluación del dinero en el tiempo
 
@@ -123,7 +108,7 @@ Por ejemplo tanto La Oficina de Estadísticas Laborales ([BLS](https://www.bls.g
 
 Reitero: para comprar **exactamente lo mismo**.
 
-![pérdida poder adquisitivo](https://pau.ninja/wp-content/uploads/2021/01/perdida-poder-adquisitivo.png)
+![pérdida poder adquisitivo](./wp-content/uploads/2021/01perdida-poder-adquisitivo.png)
 
 Calculamos y nos sale que la perdida de poder adquisitivo ha sido de 2.534% que son **más de 24% por año**.
 
@@ -141,7 +126,7 @@ Pues que lo que tenemos pase a valer automáticamente menos aunque no sea hasta 
 
 Para ponerlo en lenguaje algo más técnico en vez de lenguaje ninja, digamos que la devaluación viene dada por culpa de la **divergencia**, la separación entre lo que ganamos con el coste de la vida. El PIB es cada vez más alto, la deuda va creciendo y demás.
 
-![incremento precios](https://pau.ninja/wp-content/uploads/2020/12/incremento-precios.png)
+![incremento precios](./wp-content/uploads/2020/12incremento-precios.png)
 
 Miles de millones de divisa en dólares y euros se han creado de la nada, pero no ha habido un incremento equivalente en la devaluación.
 
@@ -182,7 +167,7 @@ La diferencia entre inflación y devaluación es que la inflación está ligada 
 
 ## Efectos de una devaluación monetaria
 
-Pero para entender más la devaluación tenemos que tener perspectiva en historia monetaria. Hacer un *zoom out* que nos ayude a entender mejor el mundo.
+Pero para entender más la devaluación tenemos que tener perspectiva en historia monetaria. Hacer un _zoom out_ que nos ayude a entender mejor el mundo.
 
 ### Devaluación del dólar
 
@@ -196,13 +181,13 @@ En este acuerdo la comunidad internacional aceptó **vincular el valor de sus di
 
 > Por ejemplo (me lo invento), tus 2 yenes. Tus 2 yenes valen $5 (rato fijo) y estos cinco dólares son medio gramo de oro (siempre).
 
-Una [especie de patrón oro](https://pau.ninja/patron-oro-actualidad/). Un estándar para la mayoría del mundo.
+Una [especie de patrón oro](./patron-oro-actualidad). Un estándar para la mayoría del mundo.
 
 Pero claro, como dice nuestro querido Tío Ben de Spiderman: **un gran poder conlleva una gran responsabilidad**, y EEUU no supo manejarlo.
 
-Estados Unidos imprimió más dólares que oro tenían en las cámaras (mentirosos de los *collons*).
+Estados Unidos imprimió más dólares que oro tenían en las cámaras (mentirosos de los _collons_).
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 Los franceses fueron los primeros en darse cuento y dijeron «nai, nai». Se salieron de ese «truco o trato» y el resto del mundo les siguieron.
 
@@ -224,7 +209,7 @@ Aún así no es muy difícil ver la tendencia.
 
 A día de hoy Estados Unidos lleva la batuta con más de un [60%](https://es.wikipedia.org/wiki/Econom%C3%ADa_de_los_Estados_Unidos) de peso en la economía mundial, así que cuando imprimió 3 billiones, el Banco Central Europeo no se quiso quedar atrás y le dio a la impresora para [inyectar](https://cincodias.elpais.com/cincodias/2020/03/18/mercados/1584572265_236844.html) 750.000 millones.
 
-![devaluación del euro](https://pau.ninja/wp-content/uploads/2021/02/devaluacion-del-euro.png)
+![devaluación del euro](./wp-content/uploads/2021/02devaluacion-del-euro.png)
 
 Si miramos el valor de bitcoin con el euro vemos exactamente la misma tendencia: **bajista** (por parte del euro, claro).
 
@@ -283,7 +268,7 @@ Devaluar al dólar como ya se ha hecho permite que se puedan inyectar en la bols
 
 Por esto hemos visto esa descorrelación abismal entre la economía y los mercados.
 
-![economia vs bolsa](https://pau.ninja/wp-content/uploads/2020/12/economia-vs-bolsa.jpg)
+![economia vs bolsa](./wp-content/uploads/2020/12economia-vs-bolsa.jpg)
 
 La economía estando en la mierda y el mercado de valores subiendo y sobrepasando valores históricos.
 
@@ -293,7 +278,7 @@ Mi humilde opinión es que ya lo está haciendo.
 
 Hay un gráfico dinámico en internet llamado [M1Chart](https://m1chart.com/) que lo que muestra es el precio de los mercados de valores frente al precio intrínseco real ajustado a la inflación de la oferta monetaria de Estados Unidos.
 
-![sp500 ajustado a devaluación](https://pau.ninja/wp-content/uploads/2021/02/sp500-ajustado-a-devaluacion.png)
+![sp500 ajustado a devaluación](./wp-content/uploads/2021/02sp500-ajustado-a-devaluacion.png)
 
 Gráfico: últimos tres años del índice S&P500 ajustándolo al M1.
 
@@ -301,7 +286,7 @@ Gráfico: últimos tres años del índice S&P500 ajustándolo al M1.
 
 En lenguaje ninja de la vida: que aunque tuviéramos nuestros ahorros metidos a un fondo indexado que replique al índice más fuerte de todos, el de EEUU, **no nos saldría cuenta porque la devaluación nos saca más que lo que podemos ganar estado invertidos en indexados**.
 
-Y aún hay quien me pregunta [por qué he dejado de diversificar](https://pau.ninja/diversificar-inversiones/) en indexados.
+Y aún hay quien me pregunta [por qué he dejado de diversificar](./diversificar-inversiones) en indexados.
 
 Muchos me han dicho que el hecho de estar invertidos en empresas y estando bien diversificados, que ellos tienen «pedacitos de compañías», que la devaluación les da igual porque tienen posiciones, pero acabamos de ver como esto **no es suficiente**.
 
@@ -319,7 +304,7 @@ Y esto como decía el compañero Javier Del Valle, no sabemos hasta que punto no
 
 Llegados a este punto una alternativa monetaria tenía que llegar en algún momento.
 
-Desde que el presidente Nixon dijo al mundo a partir de entonces las divisas dejaban de estar vincular [directa o indirectamente con un patrón oro](https://pau.ninja/patron-oro-actualidad/), todo el sistema monetario empezó con un experimento global.
+Desde que el presidente Nixon dijo al mundo a partir de entonces las divisas dejaban de estar vincular [directa o indirectamente con un patrón oro](./patron-oro-actualidad), todo el sistema monetario empezó con un experimento global.
 
 A ver qué pasaba.
 
@@ -331,19 +316,19 @@ La ironía es que para salvar este sistema los bancos centrales quieren imprimir
 
 En mi forma de verlo o tengo el dinero en el sistema monetario actual, o en contra. No tiene sentido que vaya a contracorriente de mis convicciones, lo que creo, pero sobretodo de los datos que tengo delante de la cara.
 
-![diversificar inversiones](https://pau.ninja/wp-content/uploads/2021/01/diversificar-inversiones.png)
+![diversificar inversiones](./wp-content/uploads/2021/01diversificar-inversiones.png)
 
-Para combatir esta imprimida masiva de devaluación masiva, muchas personas ya han gravitado [hacia los valores refugio](https://pau.ninja/valores-refugio/).
+Para combatir esta imprimida masiva de devaluación masiva, muchas personas ya han gravitado [hacia los valores refugio](./valores-refugio).
 
 Y adivinad qué, sólo hay dos que cumplan al 100% las propiedades de reservas de valor.
 
-Una de ellas [es tener oro físico](https://pau.ninja/donde-comprar-oro-fisico/). Que ya sabéis que yo tengo un poquito, pero el que creo que es el rey y que cumple con todo es Bitcoin.
+Una de ellas [es tener oro físico](./donde-comprar-oro-fisico). Que ya sabéis que yo tengo un poquito, pero el que creo que es el rey y que cumple con todo es Bitcoin.
 
 Bitcoin está programado para que pase lo que pase no haya más de 21 millones en circulación (restando los perdidos). Esto lo que hace es que BTC sea **un filtro de dinero infinito a dinero duro**.
 
 Por eso digo que es el traspaso de riqueza más grande de la historia.
 
-![cantidad divisa vs bitcoin](https://pau.ninja/wp-content/uploads/2021/02/cantidad-divisa-vs-bitcoin.png)
+![cantidad divisa vs bitcoin](./wp-content/uploads/2021/02cantidad-divisa-vs-bitcoin.png)
 
 Si compramos 1 BTC de 21 millones en el año 2010, seguiremos teniendo 1 BTC de 21 millones en el año 2040. Por contra si tenemos $1 de $8.4 billones en el año 2010, en 2020 hemos pasado a tener $1 de $15.62 billones.
 
@@ -363,7 +348,7 @@ Yi Wen, vicepresidente adjunto y economista de la Fed de St. Louis [dijo](https:
 
 Y adivinad qué. Esto es exactamente lo que pasó en el periodo de creación de dinero durante la pandemia.
 
-![expansión vs velocidad dinero](https://pau.ninja/wp-content/uploads/2021/02/expansion-vs-velocidad-dinero.png)
+![expansión vs velocidad dinero](./wp-content/uploads/2021/02expansion-vs-velocidad-dinero.png)
 
 Se imprimió un montón de dinero, aumentando el M2 por las nubes, pero como esto era una respuesta a la pandemia, la gente decidió ser precavida y el efectivo que les llegó a la cuenta se lo guardaron.
 
@@ -396,10 +381,100 @@ En este momento ya estamos hablando de que ha habido un gran filtrado, y todo el
 
 Tal vez es cuando el precio de BTC ronde aproximadamente el millón, o los 100.000€ o los 5 milliones.
 
-![cómic bitcoin Thanos](https://pau.ninja/wp-content/uploads/2020/11/comic-bitcoin-thanos.png)
+![cómic bitcoin Thanos](./wp-content/uploads/2020/11comic-bitcoin-thanos.png)
 
 Quien sabe. Lo que está claro es que esta conversión ya ha empezado.
 
 Para convertirse en una moneda global, primero bitcoin tiene que convertirse en una reserva de valor. Su valor tiene que ser al menos igual a la oferta monetaria global, y hoy día no es el caso.
 
 La [capitalización](https://coinmarketcap.com/es/currencies/bitcoin/) del mercado de bitcoin es de casi 900 miles de millones en el momento de crear esta pedazo de joya (xD). O sea que aún hay muchos miles de millones esperados a ser convertidos en bitcoin, y esto sólo significa esperanza tanto para los que ya estamos dentro, como los que están pensando las opciones de valores refugio.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en youtube](https://pau.ninja/wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [💰 Dinero](./dinero)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/devaluacion-de-la-moneda/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10317,"title":"Los%203%20efectos%20de%20la%20DEVALUACI%C3%93N...%20que%20NO%20es%20inflaci%C3%B3n%20%F0%9F%A4%A6","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/02\\/atracador-robando-dinero.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

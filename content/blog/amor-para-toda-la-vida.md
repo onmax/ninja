@@ -1,13 +1,20 @@
 ---
-title: "El amor (no) dura 3 años ¿cuánto dura el enamoramiento? ¿existe el amor para toda la vida?"
+title: "El amor (no) dura 3 años"
+url: https://pau.ninja/amor-para-toda-la-vida
+slug: amor-para-toda-la-vida
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: relaciones-de-pareja
+    label: Relaciones de pareja
 image: pareja-enamorada-1.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/pareja-enamorada-1.jpeg
 published: 2023-08-22T13:33:46+00:00
 modified: 2024-01-16T14:18:22+00:00
+scrappedAt: 2024-10-14T09:19:54.528Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75641849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F346234540-44100-2-d141595030aa.mp3
-slug: amor-para-toda-la-vida
+bibliography: ["Bartels A, Zeki S. The neural basis of romantic love. Neuroreport. 2000 Nov 27;11(17):3829-34. doi: 10.1097/00001756-200011270-00046. PMID: 11117499.","Acevedo BP, Aron A, Fisher HE, Brown LL. Neural correlates of long-term intense romantic love. Soc Cogn Affect Neurosci. 2012 Feb;7(2):145-59. doi: 10.1093/scan/nsq092. Epub 2011 Jan 5. PMID: 21208991; PMCID: PMC3277362.","Shih HC, Kuo ME, Wu CW, Chao YP, Huang HW, Huang CM. The Neurobiological Basis of Love: A Meta-Analysis of Human Functional Neuroimaging Studies of Maternal and Passionate Love. Brain Sci. 2022 Jun 26;12(7):830. doi: 10.3390/brainsci12070830. PMID: 35884637; PMCID: PMC9313376.","Noriuchi M, Kikuchi Y, Senoo A. The functional neuroanatomy of maternal love: mother’s response to infant’s attachment behaviors. Biol Psychiatry. 2008 Feb 15;63(4):415-23. doi: 10.1016/j.biopsych.2007.05.018. Epub 2007 Aug 7. PMID: 17686467.","Woosnam, Kyle M. 2010. “The Inclusion of Other in the Self (Ios) Scale.” Annals of Tourism Research 37 (3): 857–860. ‌","Zeifman D, Hazan Z. Pair bonds as attachments. Reevaluating the evidence. In: Cassidy J, Shaver PR, editors. Handbook of attachment: Theory, research, and clinical applications. New York: Guilford; 2008. pp. 436–455.","Doherty NA, Feeney JA. 2004. The composition of attachment networks throughout the adult years. Personal Relatsh. 11: 469–88","“Attachment in Adulthood: Recent Developments, Emerging Debates, and Future Directions.” 2019. Annual Review of Psychology.‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/75641849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F346234540-44100-2-d141595030aa.mp3](https://anchor.fm/s/98566448/podcast/play/75641849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F346234540-44100-2-d141595030aa.mp3)
 
 El 90% de parejas dejan de estar enamoradas la una de la otra al cabo de unos 3 años.
@@ -26,36 +33,15 @@ Haciendo que hubiera una luz esperanzadora al final del túnel.
 
 ¿Estaban enamoradas de verdad esos matrimonios? ¿O sólo lo decían? Porque claro, ¿quien no quiere sentir de forma extendida que va por la vida con ese marinado hormonal en el que sientes que vuelves a casa flotando en una nube de buenas sensaciones?
 
-![meme método karezza](https://pau.ninja/wp-content/uploads/2023/08/meme-metodo-karezza.jpeg)
+![meme método karezza](./wp-content/uploads/2023/08meme-metodo-karezza.jpeg)
 
-Sería una pena perder esos sentimientos cada 3 años. Tener que volver a [salir a la calle a hacer _daygame_](https://pau.ninja/daygame/) para conocer a mujeres nuevas, volverte a enamorar y volver a repetir ese proceso pensando que has conocido la persona de tu vida.
+Sería una pena perder esos sentimientos cada 3 años. Tener que volver a [salir a la calle a hacer _daygame_](./daygame) para conocer a mujeres nuevas, volverte a enamorar y volver a repetir ese proceso pensando que has conocido la persona de tu vida.
 
 Cada 3 años estarías conociendo al (nuevo) amor de tu vida.
 
 Imaginaros lo que cuesta, no sólo enamorarse, sino que encima te correspondan y que encima la burocracia y logística de la relación termine siendo un éxito para después dejarlo a los 3 años.
 
 Por esto hoy exploramos: cuanto dura realmente el enamoramiento, el amor, y sobretodo qué tienen de especial esas parejas que después de décadas casadas aseguran estar tan enamorados como un par de adolescentes en celo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [¿Por qué nos enamoramos?](#%C2%BFPor_que_nos_enamoramos '¿Por qué nos enamoramos?')
-- [¿Cuánto dura el enamoramiento?](#%C2%BFCuanto_dura_el_enamoramiento '¿Cuánto dura el enamoramiento?')
-  - [¿Cuándo dura el amor?](#%C2%BFCuando_dura_el_amor '¿Cuándo dura el amor?')
-  - [¿Cuándo se acaba el amor?](#%C2%BFCuando_se_acaba_el_amor '¿Cuándo se acaba el amor?')
-- [Diferencia entre amor y enamoramiento](#Diferencia_entre_amor_y_enamoramiento 'Diferencia entre amor y enamoramiento')
-  - [Qué es el enamoramiento](#Que_es_el_enamoramiento 'Qué es el enamoramiento')
-  - [Qué es el amor de pareja](#Que_es_el_amor_de_pareja 'Qué es el amor de pareja')
-  - [¿Cuánto dura el deseo de un hombre por una mujer?](#%C2%BFCuanto_dura_el_deseo_de_un_hombre_por_una_mujer '¿Cuánto dura el deseo de un hombre por una mujer?')
-  - [¿Existe el amor para toda la vida?](#%C2%BFExiste_el_amor_para_toda_la_vida '¿Existe el amor para toda la vida?')
-- [Las señales para identificar al amor para toda la vida](#Las_senales_para_identificar_al_amor_para_toda_la_vida 'Las señales para identificar al amor para toda la vida')
-  - [Practicar actividad afectivas no sexuales](#Practicar_actividad_afectivas_no_sexuales 'Practicar actividad afectivas no sexuales')
-  - [Mantener viva la fogosidad y pasión](#Mantener_viva_la_fogosidad_y_pasion 'Mantener viva la fogosidad y pasión')
-  - [Ejercer actos de servicio para la pareja](#Ejercer_actos_de_servicio_para_la_pareja 'Ejercer actos de servicio para la pareja')
-  - [Mantener la sensación de seguridad](#Mantener_la_sensacion_de_seguridad 'Mantener la sensación de seguridad')
-  - [Pasar juntos tiempo suficiente](#Pasar_juntos_tiempo_suficiente 'Pasar juntos tiempo suficiente')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## ¿Por qué nos enamoramos?
 
@@ -85,7 +71,7 @@ No es casualidad que…
 
 Pero aquí es indispensable diferenciar entre enamoramiento y amor porque aunque es verdad que se inician de la misma manera (en el cerebro, segregando las llamadas hormonas del amor que nos hacen sentir flotando para cumplir todos estos cometidos biológicos) quizás _románticamente hablando_ podemos decir que «el enamoramiento empieza en la cabeza pero el amor continúa en el corazón».
 
-Porque todas estas personas que dicen que el amor dura 3 años, lo que en realidad quieren decir es que es el *enamoramiento* el que dura 3 años.
+Porque todas estas personas que dicen que el amor dura 3 años, lo que en realidad quieren decir es que es el _enamoramiento_ el que dura 3 años.
 
 No el amor.
 
@@ -99,11 +85,11 @@ Esta es seguramente la hazaña más grande en una relación. Sobretodo en occide
 
 Lo que abunda en la sociedad actual es lo contrario… parejas rotas.
 
-Sólo hace falta ver el ratio de divorcios en occidente para ver que [pocas parejas consigues formar una relación sana](https://pau.ninja/relacion-de-pareja-sana/) que se fundamente en algo que **sobrepase lo pasional**.
+Sólo hace falta ver el ratio de divorcios en occidente para ver que [pocas parejas consigues formar una relación sana](./relacion-de-pareja-sana) que se fundamente en algo que **sobrepase lo pasional**.
 
 A la naturaleza le interesa que tengamos (al menos 3 años) esa pasión, esa llama, esa fogosidad, ese enamoramiento… antes que el amor. La naturaleza quiere enamoramiento antes que amor para que actuemos ya. Para que pongamos nuestra semilla movidos por la lujuria.
 
-Por esto [la adicción a la pornografía es tan común](https://pau.ninja/adiccion-al-porno/), porque la industria del porno explota nuestro instinto más básico.
+Por esto [la adicción a la pornografía es tan común](./adiccion-al-porno), porque la industria del porno explota nuestro instinto más básico.
 
 La diferencia con sólo el sexo, es que con el enamoramiento la naturaleza se asegura que el hombre querrá seguir encima de la pareja. Que estará más presente para cuidar al bebé.
 
@@ -152,7 +138,7 @@ Si ha habido suficiente intimidad, el hombre se encariñará, sintiendo un cóct
 - Noradrenalina
 - Luliberina
 
-Estas hormonas nos hacen sentir literalmente los mismos efectos que la adicción a las drogas[1](<javascript:void(0)>)Bartels A, Zeki S. The neural basis of romantic love. Neuroreport. 2000 Nov 27;11(17):3829-34. doi: 10.1097/00001756-200011270-00046. PMID: 11117499..
+Estas hormonas nos hacen sentir literalmente los mismos efectos que la adicción a las drogas[ref-1](#ref-1){.ref}.
 
 Lo que pasa es que cuando estos 3 años terminan, se considera que el efecto de la procreación ya ha completado.
 
@@ -178,7 +164,7 @@ Muchas menos.
 
 Esto me recuerda a una historia un poco loca que viví con una chica que conocí en Tinder por ahi en 2016(…).
 
-Aunque ahora [mi opinión de Tinder ha cambiado](https://pau.ninja/tinder-opiniones/) por completo (#497), es verdad que es un recurso que me dio muchas historias que contar y experiencias.
+Aunque ahora [mi opinión de Tinder ha cambiado](./tinder-opiniones) por completo (#497), es verdad que es un recurso que me dio muchas historias que contar y experiencias.
 
 En ese viaje a Nueva York con la de Tinder, recuerdo una conversación que tuve con un tipo de su grupo, Stephen. Un holandés que me aseguró que seguía enamoradísimo de su novia… a pesar de llevar 10 años de relación juntos.
 
@@ -207,7 +193,7 @@ Todos son factores que se tienen que cuidar proactivamente por parte de ambas pa
 
 A pesar de que en las últimas décadas lo que primaba era confiar en que el amor duraría de 18 meses a 3 años, hace unos años la renombrada antropóloga Dra. Helen Fisher y su equipo llevaron a cambio una investigación que daría esperanza a los románticos empedernidos como Pau Ninja.
 
-Escanearon el cerebro de personas a sus 50 años de edad que habían estado casados +20 años, junto con personas que decían estar enamoradas de más recientemente[2](<javascript:void(0)>)Acevedo BP, Aron A, Fisher HE, Brown LL. Neural correlates of long-term intense romantic love. Soc Cogn Affect Neurosci. 2012 Feb;7(2):145-59. doi: 10.1093/scan/nsq092. Epub 2011 Jan 5. PMID: 21208991; PMCID: PMC3277362..
+Escanearon el cerebro de personas a sus 50 años de edad que habían estado casados +20 años, junto con personas que decían estar enamoradas de más recientemente[ref-2](#ref-2){.ref}.
 
 Todos los sujetos aseguraban que seguían locamente enamorados de sus parejas.
 
@@ -219,9 +205,9 @@ En vez de esto sí tenían actividad en la región cerebral de la calma y la tra
 
 ## Las señales para identificar al amor para toda la vida
 
-De hecho las mismas áreas que están involucradas con el amor románticas (el tálamo y la sustancia negra) también lo están con el apego materno[3](<javascript:void(0)>)Shih HC, Kuo ME, Wu CW, Chao YP, Huang HW, Huang CM. The Neurobiological Basis of Love: A Meta-Analysis of Human Functional Neuroimaging Studies of Maternal and Passionate Love. Brain Sci. 2022 Jun 26;12(7):830. doi: 10.3390/brainsci12070830. PMID: 35884637; PMCID: PMC9313376..
+De hecho las mismas áreas que están involucradas con el amor románticas (el tálamo y la sustancia negra) también lo están con el apego materno[ref-3](#ref-3){.ref}.
 
-Son unas zonas con montones de receptores de oxitocina y vasopresina. Las hormonas del amor que como no, tendrá que tener una madre para estar loca por su hijo[4](<javascript:void(0)>)Noriuchi M, Kikuchi Y, Senoo A. The functional neuroanatomy of maternal love: mother’s response to infant’s attachment behaviors. Biol Psychiatry. 2008 Feb 15;63(4):415-23. doi: 10.1016/j.biopsych.2007.05.018. Epub 2007 Aug 7. PMID: 17686467..
+Son unas zonas con montones de receptores de oxitocina y vasopresina. Las hormonas del amor que como no, tendrá que tener una madre para estar loca por su hijo[ref-4](#ref-4){.ref}.
 
 Faltaría más que la naturaleza creara las madres sin apego…
 
@@ -251,11 +237,11 @@ No estoy hablando del sexo convencional.
 
 De hecho el sexo sólo es un porcentaje. Importante, sí. Pero sólo una cara de la moneda. Sólo una de las cartas que forma el castillo de cartas.
 
-![intimidad en pareja metáfora](https://pau.ninja/wp-content/uploads/2023/08/intimidad-en-pareja-metafora.jpg)
+![intimidad en pareja metáfora](./wp-content/uploads/2023/08intimidad-en-pareja-metafora.jpg)
 
 Lo que una pareja necesita para seguir construyendo ese perfil hormonal de enamoramiento es no sólo el sexo sino también el afecto físico no sexual.
 
-Construir la suficiente [intimidad en pareja usando Karezza](https://pau.ninja/intimidad-en-pareja-con-karezza/) por ejemplo, haciendo que resurjan (o se mantengan) las actividades de unión, de vínculos afectivos físicos **no sexuales**.
+Construir la suficiente [intimidad en pareja usando Karezza](./intimidad-en-pareja-con-karezza) por ejemplo, haciendo que resurjan (o se mantengan) las actividades de unión, de vínculos afectivos físicos **no sexuales**.
 
 Se dice que esas relaciones fallidas son el resultado de una o ambas partes no queriendo poner suficiente curro a la relación, y es algo que los que llevan décadas de matrimonio están de acuerdo: que **se requiere trabajo consciente para construir una relación y mantener el amor**.
 
@@ -298,9 +284,9 @@ Indirectamente esto nos dice que el hecho de querer estar cerca de tu pareja, ha
 
 > Si vamos perdiendo estas actividades de unión, iremos perdiendo el vínculo.
 
-Veréis, en psicología hay un ratio, una escala llamada Escala de Inclusión del Otro en el Yo[5](<javascript:void(0)>)Woosnam, Kyle M. 2010. “The Inclusion of Other in the Self (Ios) Scale.” Annals of Tourism Research 37 (3): 857–860. ‌, en el que se postula donde las relaciones romántica  nos sirven para expandir nuestro sentido del «yo» a medida que vamos incorporando la pareja de largo plazo como parte de nuestra identidad.
+Veréis, en psicología hay un ratio, una escala llamada Escala de Inclusión del Otro en el Yo[ref-5](#ref-5){.ref}, en el que se postula donde las relaciones romántica  nos sirven para expandir nuestro sentido del «yo» a medida que vamos incorporando la pareja de largo plazo como parte de nuestra identidad.
 
-![Escala de Inclusión del Otro en el Yo](https://pau.ninja/wp-content/uploads/2023/08/Escala-de-Inclusion-del-Otro-en-el-Yo.jpeg)
+![Escala de Inclusión del Otro en el Yo](./wp-content/uploads/2023/08Escala-de-Inclusion-del-Otro-en-el-Yo.jpeg)
 
 Es decir, expandimos nuestro sentido del «yo» con perspectivas, recursos y experiencias de la pareja **como si fueran propias** a través de estas relaciones.
 
@@ -338,7 +324,7 @@ Este apego no viene de forma casual. De hecho los escáneres han visto como las 
 
 Que este apego es un vínculo que tarda en desarrollarse.
 
-Casi dos años se dicen algunos estudios previos[6](<javascript:void(0)>)Zeifman D, Hazan Z. Pair bonds as attachments. Reevaluating the evidence. In: Cassidy J, Shaver PR, editors. Handbook of attachment: Theory, research, and clinical applications. New York: Guilford; 2008. pp. 436–455.[7](<javascript:void(0)>)Doherty NA, Feeney JA. 2004. The composition of attachment networks throughout the adult years. Personal Relatsh. 11: 469–88[8](<javascript:void(0)>)“Attachment in Adulthood: Recent Developments, Emerging Debates, and Future Directions.” 2019. Annual Review of Psychology.‌.
+Casi dos años se dicen algunos estudios previos[ref-6](#ref-6){.ref}[ref-7](#ref-7){.ref}[ref-8](#ref-8){.ref}.
 
 Claro, el amor a largo plazo está activando regiones del cerebro de apego y simpatía: un comportamiento que a su vez es vital para el amor basado en la amistad (que como hemos visto no es lo mismo porque la amistad es puramente emocional, pero que comparten).
 
@@ -349,39 +335,3 @@ Que el amor romántico a largo plazo (que a la vez es intenso y cercano) se sost
 O en lenguaje ninja: que para que un enamoramiento se vaya transformando en amor, la parte lógica del cerebro tiene que cada vez a empezar encontrando más sentido, más metas para intentar entender por qué ese enamoramiento tiene sentido.
 
 Valores compartidos (labios divididos), visión, objetivos y hasta algunos intereses.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Bartels A, Zeki S. The neural basis of romantic love. Neuroreport. 2000 Nov 27;11(17):3829-34. doi: 10.1097/00001756-200011270-00046. PMID: 11117499.
-
-- 2
-
-  Acevedo BP, Aron A, Fisher HE, Brown LL. Neural correlates of long-term intense romantic love. Soc Cogn Affect Neurosci. 2012 Feb;7(2):145-59. doi: 10.1093/scan/nsq092. Epub 2011 Jan 5. PMID: 21208991; PMCID: PMC3277362.
-
-- 3
-
-  Shih HC, Kuo ME, Wu CW, Chao YP, Huang HW, Huang CM. The Neurobiological Basis of Love: A Meta-Analysis of Human Functional Neuroimaging Studies of Maternal and Passionate Love. Brain Sci. 2022 Jun 26;12(7):830. doi: 10.3390/brainsci12070830. PMID: 35884637; PMCID: PMC9313376.
-
-- 4
-
-  Noriuchi M, Kikuchi Y, Senoo A. The functional neuroanatomy of maternal love: mother’s response to infant’s attachment behaviors. Biol Psychiatry. 2008 Feb 15;63(4):415-23. doi: 10.1016/j.biopsych.2007.05.018. Epub 2007 Aug 7. PMID: 17686467.
-
-- 5
-
-  Woosnam, Kyle M. 2010. “The Inclusion of Other in the Self (Ios) Scale.” Annals of Tourism Research 37 (3): 857–860. ‌
-
-- 6
-
-  Zeifman D, Hazan Z. Pair bonds as attachments. Reevaluating the evidence. In: Cassidy J, Shaver PR, editors. Handbook of attachment: Theory, research, and clinical applications. New York: Guilford; 2008. pp. 436–455.
-
-- 7
-
-  Doherty NA, Feeney JA. 2004. The composition of attachment networks throughout the adult years. Personal Relatsh. 11: 469–88
-
-- 8
-
-  “Attachment in Adulthood: Recent Developments, Emerging Debates, and Future Directions.” 2019. Annual Review of Psychology.‌

@@ -1,14 +1,21 @@
 ---
-title: "Bitcoin NO tiene valor ¿O sí? una mirada a lo que significa \"valor\""
+title: "Bitcoin NO tiene valor"
+url: https://pau.ninja/por-que-tiene-valor-el-bitcoin
+slug: por-que-tiene-valor-el-bitcoin
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: mirando-valor-bitcoin.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/02/mirando-valor-bitcoin.jpg
 published: 2021-02-18T09:26:06+00:00
 modified: 2024-02-11T06:34:24+00:00
+scrappedAt: 2024-10-14T09:21:21.444Z
 audioLink: https://www.ivoox.com/bitcoin-no-tiene-valor_md_65687700_wp_1.mp3
-slug: por-que-tiene-valor-el-bitcoin
+bibliography: []
 ---
-
-[https://www.ivoox.com/bitcoin-no-tiene-valor_md_65687700_wp_1.mp3](https://www.ivoox.com/bitcoin-no-tiene-valor_md_65687700_wp_1.mp3)
+[https://www.ivoox.com/bitcoin-no-tiene-valor\_md\_65687700\_wp\_1.mp3](https://www.ivoox.com/bitcoin-no-tiene-valor_md_65687700_wp_1.mp3)
 
 > «Es que Pau, ¿cómo voy a depositar mis ahorros o invertir en algo que no puedo sujetar con las manos igual que puedo hacer con el oro?»
 
@@ -26,28 +33,11 @@ Si decimos que Bitcoin no tiene valor porque no es algo que podamos sujetar, ent
 - Hormonas
 - El sabor…
 
-Y **hasta el dinero que usamos actualmente**. Que ya sabéis que [menos de un 5% existe](https://pau.ninja/sistema-monetario-actual/#Creacion_de_dinero) en formato físico, el resto está todo en digital. En pantallitas.
+Y **hasta el dinero que usamos actualmente**. Que ya sabéis que [menos de un 5% existe](./sistema-monetario-actual#Creacion_de_dinero) en formato físico, el resto está todo en digital. En pantallitas.
 
 Aunque el tema del valor suena a algo muy objetivo, lo que nos enseñan las corrientes de pensamientos de las escuelas económicas clásicas, neoclásicas y austríacas, es que podemos saber si existe «valor» de algún activo monetario, con una lista bien clara.
 
 Hoy descubrimos si bitcoin tiene valor… o no.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué valor tiene un bitcoin](#Que_valor_tiene_un_bitcoin 'Qué valor tiene un bitcoin')
-- [En qué se basa el valor de bitcoin](#En_que_se_basa_el_valor_de_bitcoin 'En qué se basa el valor de bitcoin')
-  - [Según la teoría económica clásica](#Segun_la_teoria_economica_clasica 'Según la teoría económica clásica')
-  - [Según la teoría económica neoclásica](#Segun_la_teoria_economica_neoclasica 'Según la teoría económica neoclásica')
-  - [Según la escuela austríaca](#Segun_la_escuela_austriaca 'Según la escuela austríaca')
-- [Por qué tiene valor el bitcoin](#Por_que_tiene_valor_el_bitcoin 'Por qué tiene valor el bitcoin')
-  - [Es una reserva de valor](#Es_una_reserva_de_valor 'Es una reserva de valor')
-  - [Es escaso](#Es_escaso 'Es escaso')
-  - [Tiene valor intrínseco](#Tiene_valor_intrinseco 'Tiene valor intrínseco')
-  - [Es dinero duro](#Es_dinero_duro 'Es dinero duro')
-  - [Por su "efecto red"](#Por_su_%22efecto_red%22 'Por su "efecto red"')
-- [¿Tiene valor el Bitcoin?](#%C2%BFTiene_valor_el_Bitcoin '¿Tiene valor el Bitcoin?')
 
 ## Qué valor tiene un bitcoin
 
@@ -63,7 +53,7 @@ Según la teoría económica clásica el valor de bitcoin está determinado por 
 
 Entonces según esta teoría bitcoin a penas tendría valor porque su coste energético es **una minucia** comparado con el coste que tiene mantener el sistema bancario actual.
 
-![coste energético bitcoin](https://pau.ninja/wp-content/uploads/2021/02/coste-energetico-bitcoin.jpeg)
+![coste energético bitcoin](./wp-content/uploads/2021/02coste-energetico-bitcoin.jpeg)
 
 Gráfico: [comparación](https://news.bitcoin.com/bitcoin-energy-consumption-is-far-more-efficient-and-greener-than-todays-banking-system/) entre el coste energético del sistema bancario actual, del oro y de bitcoin.
 
@@ -73,7 +63,7 @@ O sea la electricidad.
 
 Pero claro, si nos guiamos por la escuela clásica, de la misma manera que un bitcoin a penas tendría valor por lo que cuesta minarlo, entonces un billete de 500€ debe valer igual que uno de 5€ porque producirlo cuesta exactamente lo mismo.
 
-O en el supuesto de que bitcoin tenga que remplazar el sistema monetario actual y lo único que importa es la producción, entonces el valor de bitcoin tendría que estar cerca de la [oferta monetaria M3](https://pau.ninja/devaluacion-de-la-moneda/#Agregados_monetarios_M1,_M2_y_M3) para los Estados Unidos.
+O en el supuesto de que bitcoin tenga que remplazar el sistema monetario actual y lo único que importa es la producción, entonces el valor de bitcoin tendría que estar cerca de la [oferta monetaria M3](./devaluacion-de-la-moneda#Agregados_monetarios_M1,_M2_y_M3) para los Estados Unidos.
 
 ### Según la teoría económica neoclásica
 
@@ -85,7 +75,7 @@ Vamos, que no se podrán crear más y encima algunos se irán perdiendo a medida
 
 Que la demanda aumentará. Y más demanda significa **precios más altos**. Y encima según esta corriente de pensamiento el límite de oferta hará que haya una demanda **constante**.
 
-Hoy la capitalización de bitcoin es de \[crypto coins=»BTC» type=»text» show=»market_cap»\], o sea que demanda… hay.
+Hoy la capitalización de bitcoin es de \[crypto coins=»BTC» type=»text» show=»market\_cap»\], o sea que demanda… hay.
 
 Pero aquí entra en juego nuestra amiga: la volatilidad, que hace desequilibrar un poco esta idea.
 
@@ -97,13 +87,13 @@ Los austríacos descartan por completo la idea de que el dinero tenga valor porq
 
 > Mises [propuso](https://mises.org/library/principle-sound-money-0) el Teorema Regresivo del Dinero que sostenía que «ningún bien puede usarse como medio de intercambio si desde el principio de empezar a usarse no se usaba ya para intercambiarse por otras cosas».
 
-Un poco lioso, pero en lenguaje ninja esto vendría a decir que el dinero que usamos tiene valor porque **ya se ha usado** para intercambiar anteriormente. Lo que nos hace volver atrás a [algún origen monetario](https://pau.ninja/historia-del-dinero/) cuando se usaba por otro propósito que no fuera dinero.
+Un poco lioso, pero en lenguaje ninja esto vendría a decir que el dinero que usamos tiene valor porque **ya se ha usado** para intercambiar anteriormente. Lo que nos hace volver atrás a [algún origen monetario](./historia-del-dinero) cuando se usaba por otro propósito que no fuera dinero.
 
-Por ejemplo en el caso del oro, antes de que [el patrón oro y dinero fiduciario](https://pau.ninja/patron-oro-actualidad/) se pusieran por el medio, durante miles de años la gente lo valoró porque sí, por «ser oro», y no por un medio de intercambio usado en un hipotético pasado.
+Por ejemplo en el caso del oro, antes de que [el patrón oro y dinero fiduciario](./patron-oro-actualidad) se pusieran por el medio, durante miles de años la gente lo valoró porque sí, por «ser oro», y no por un medio de intercambio usado en un hipotético pasado.
 
 Pero desde el punto de vista austríaco, la subida del dinero fiduciario significó la habilidad de los bancos centrales de imprimir e hinchar la divisa a placer sin sentido.
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 Así que según la escuela austríaca, la **idea del valor del dinero** como hemos visto, viene determinado entonces por **valores subjetivos**.
 
@@ -121,7 +111,7 @@ Primero el de ser reserva de valor como tal.
 
 Reserva de valor, depósito de valor, valor refugio. Son maneras de llamar lo mismo: un activo que **mantenga su valor** a lo largo del tiempo y por lo tanto se pueda transferir por poder adquisitivo en el futuro.
 
-Por eso los euros y los dólares **no son** reserva de valor, porque van perdiéndolo con el tiempo [con una devaluación constante](https://pau.ninja/devaluacion-de-la-moneda/). Para que algo lo sea:
+Por eso los euros y los dólares **no son** reserva de valor, porque van perdiéndolo con el tiempo [con una devaluación constante](./devaluacion-de-la-moneda). Para que algo lo sea:
 
 - Debería haber demanda del activo y ser líquido, es decir, ser fácil de intercambiar
 - No debe disminuir significativamente en valor en períodos de tiempo
@@ -133,7 +123,7 @@ Es verdad que el punto de «disminuir de valor en períodos de tiempo y de maner
 
 Aunque claro, nadie puede saber si puede llegar el día de que baje tanto de golpe, porque en el pasado lo ha hecho.
 
-![cómic predicción bolsa](https://pau.ninja/wp-content/uploads/2021/01/comic-prediccion-bolsa.png)
+![cómic predicción bolsa](./wp-content/uploads/2021/01comic-prediccion-bolsa.png)
 
 Lo que es innegable es que la confianza reciente que ha ido acumulando bitcoin a medida que pasa el tiempo, ha hecho que cada vez haya menos y menos ventas.
 
@@ -149,7 +139,7 @@ Pues muy relacionado con lo de la reserva de valor. Porque la idea de Bitcoin e
 
 La deflación básicamente es lo opuesto a la inflación. En vez de que se incrementen los precios, con la deflación los precios **van bajando**. Aunque esto es sólo una consecuencia porque va bajando el dinero que existe.
 
-![combatiendo inflación](https://pau.ninja/wp-content/uploads/2020/10/combatiendo-inflacion.png)
+![combatiendo inflación](./wp-content/uploads/2020/10combatiendo-inflacion.png)
 
 Suena muy bien pero para algunos economista esto no es tan chulo. Por ejemplo antes hablábamos de la corriente de pensamiento de la escuela económica austríaca y a algunos [no les mola](https://austrianeconomics.fandom.com/wiki/Deflation) demasiado la deflación.
 
@@ -175,7 +165,7 @@ Bitcoin no se puede utilizar como materia prima, del mismo modo que podríamos u
 
 Es por esto que los escépticos de Bitcoin argumentan que para que sea viable como idea, antes que nada se tiene que aceptar y usar con **otro propósito básico**.
 
-Claro, como las personas [compran oro como refugio de valor](https://pau.ninja/valores-refugio/#Oro) pero a la vez se puede usar para industria y joyería, pues tenemos que pedir lo mismo para Bitcoin, ¿no?
+Claro, como las personas [compran oro como refugio de valor](./valores-refugio#Oro) pero a la vez se puede usar para industria y joyería, pues tenemos que pedir lo mismo para Bitcoin, ¿no?
 
 - En la publicación llamada [Los Orígenes del Dinero](https://mises-media.s3.amazonaws.com/On%20the%20Origins%20of%20Money_5.pdf) de Carl Menger, este economista austriaco describió el dinero como «ciertas materias primas convertidas en medios de intercambio universalmente aceptables».
 - Por su lado el economista Ludwig von Mises se basó en el trabajo de Menger para publicar [Teoría del Dinero y el Crédito](https://mises-media.s3.amazonaws.com/Theory%20of%20Money%20and%20Credit.pdf) en el que definió al dinero como algo que usamos para intercambiar pero a la vez tiene un bien comercial. Diciendo además que el dinero fiduciario no deja de ser lo mismo pero «con una calificación legal».
@@ -188,11 +178,11 @@ Pero…
 
 En África y partes de América del Norte, las perlas de vidrio se usaban con fines monetarios aunque tenían **cero uso** en industria.
 
-Otro ejemplo como vimos [en los orígenes del dinero](https://pau.ninja/historia-del-dinero/) y como compartió el compañero Rubo en la [comunidad](#comunidad), el pueblo de Yap usaba como monedas las piedras Ray.
+Otro ejemplo como vimos [en los orígenes del dinero](./historia-del-dinero) y como compartió el compañero Rubo en la [comunidad](#comunidad), el pueblo de Yap usaba como monedas las piedras Ray.
 
 Unas piedras enormes con un agujero en el medio más grande que el que dejó mi ex en mi corazón.
 
-![piedras rai](https://pau.ninja/wp-content/uploads/2021/01/piedras-rai.jpg)
+![piedras rai](./wp-content/uploads/2021/01piedras-rai.jpg)
 
 Lo que hacían los habitantes de esa isla era simplemente gritar: «¡ahora esta piedra pasa a ser propiedad de Juanito que me ha comprado una vaca!»
 
@@ -208,7 +198,7 @@ No necesita ser intrínsecamente valioso como el oro y tampoco necesita derechos
 
 Y esto está hecho a propósito.
 
-Está diseñado para ser la otra cara de la moneda (literalmente) contra el [sistema monetario que usamos en la actualidad](https://pau.ninja/sistema-monetario-actual/).
+Está diseñado para ser la otra cara de la moneda (literalmente) contra el [sistema monetario que usamos en la actualidad](./sistema-monetario-actual).
 
 Su naturaleza digital y el hecho de ser un activo nuevo hacen que bitcoin requiera una nueva base teórica de cómo entenderlo. Es gracias a Bitcoin que los economistas se han dado cuenta de que hay **limitaciones** en los metales preciosos y el dinero fiduciario.
 
@@ -218,7 +208,7 @@ Punto.
 
 ### Es dinero duro
 
-Recordemos que bitcoin [tiene todas las propiedades del dinero](https://pau.ninja/propiedades-del-dinero/):
+Recordemos que bitcoin [tiene todas las propiedades del dinero](./propiedades-del-dinero):
 
 - Escaso
 - Durable
@@ -232,9 +222,9 @@ Más seguro e inquebrantable que esto, poca cosa podemos encontrar.
 
 > Tal vez lo segundo más seguro que las matemáticas es que el hecho de que cuando vayas al gimnasio a hacer sentadillas no bajarás de paralela.
 
-A parte Bitcoin también es descentralizado, que como hemos visto según la escuela austríaca económica, es esencial para que sea fiable para el largo plazo. Estamos hablando de varios siglos aquí. Algo que como la [economía en Roma](https://pau.ninja/la-economia-en-el-imperio-romano/), es una característica que el dinero fiduciario **no tiene**.
+A parte Bitcoin también es descentralizado, que como hemos visto según la escuela austríaca económica, es esencial para que sea fiable para el largo plazo. Estamos hablando de varios siglos aquí. Algo que como la [economía en Roma](./la-economia-en-el-imperio-romano), es una característica que el dinero fiduciario **no tiene**.
 
-![caída imperio romano](https://pau.ninja/wp-content/uploads/2021/01/caida-imperio-romano.png)
+![caída imperio romano](./wp-content/uploads/2021/01caida-imperio-romano.png)
 
 Así que aunque en la historia la «descentralización» no lo hayamos añadido a la lista de dinero, hemos visto con el tiempo que para el largo plazo sí importa. Y mucho.
 
@@ -270,7 +260,7 @@ Un tren que nunca es el último, porque a medida que hay más [adopción](https:
 
 > Gana valor adicional a medida que más personas se apuntan a usarla.
 
-Y ya desmentí porque [bitcoin es lo opuesto a una estafa piramidal](https://pau.ninja/bitcoin-estafa-piramidal/). Básicamente porque los inversores se suman **sin presiones de reclutamiento**, y otros factores.
+Y ya desmentí porque [bitcoin es lo opuesto a una estafa piramidal](./bitcoin-estafa-piramidal). Básicamente porque los inversores se suman **sin presiones de reclutamiento**, y otros factores.
 
 Instagram, el teléfono, Facebook, el propio internet, el iPhone, Whatsapp, hasta el fax… Todos tuvieron su propio «efecto red» en el que más y más usuarios se apuntaban y al final nos decían: «oye, ¿no tienes Whatsapp bicho raro? ¡que los sms ya no se usan!».
 
@@ -297,6 +287,92 @@ Un cóctel perfecto, que como en la poción de las Super Nenas sale algo que no 
 
 Al fin y al cabo después de esto, lo único que se requiere de una forma válida de dinero es que **mantenga su valor, confianza y se adopte**.
 
-En el caso de Bitcoin todo esto lo podemos medir con este «efecto red». Una base de usuarios que aumenta exponencialmente rollo bola de nieve, startups y empresas que lo adoptan, medios que hablan cada vez más y más del tema, empresa enormes que deciden que en vez de sucumbir a la [devaluación del dinero](https://pau.ninja/devaluacion-de-la-moneda/) fiduciario convierten **miles de millones** de sus reservas de dólares en Bitcoin.
+En el caso de Bitcoin todo esto lo podemos medir con este «efecto red». Una base de usuarios que aumenta exponencialmente rollo bola de nieve, startups y empresas que lo adoptan, medios que hablan cada vez más y más del tema, empresa enormes que deciden que en vez de sucumbir a la [devaluación del dinero](./devaluacion-de-la-moneda) fiduciario convierten **miles de millones** de sus reservas de dólares en Bitcoin.
 
 Así que esto ya ha empezado, porque como en todas las formas de dinero, el valor de Bitcoin viene **sólo y directamente** de las personas que voluntariamente (sin Estados de por medio forzando su uso) lo aceptan como primeramente como reserva de valor y después como método de pago.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Bitcoin](./bitcoin)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/por-que-tiene-valor-el-bitcoin/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10813,"title":"Los%204%20motivos%20por%20los%20que%20BITCOIN%20tiene%20valor%20%F0%9F%A4%B7%20%E3%80%90Gu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/02\\/mirando-valor-bitcoin.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,20 +1,27 @@
 ---
-title: "Veganismo: malo para la salud. Punto. (consecuencias de ser vegano)"
+title: "Veganismo: malo para la salud. Punto."
+url: https://pau.ninja/consecuencias-del-veganismo
+slug: consecuencias-del-veganismo
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: antiveganismo
+    label: Antiveganismo
 image: vegano-enfermo.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/vegano-enfermo.jpeg
 published: 2021-10-05T07:25:40+00:00
 modified: 2023-07-26T08:15:55+00:00
+scrappedAt: 2024-10-14T09:21:09.880Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284109-44100-2-089192c40d80cc2c.mp3
-slug: consecuencias-del-veganismo
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284109-44100-2-089192c40d80cc2c.mp3](https://anchor.fm/s/98566448/podcast/play/52171869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284109-44100-2-089192c40d80cc2c.mp3)
 
 Para decir algo tan pedante como que ser vegano es malo para la salud no hace faltar que elija estudios que soporten mi narrativa o que marque mi opinión como hechos.
 
 Sólo hace falta mirar lo que el cuerpo necesita: a las dietas veganas les faltan +20 nutrientes esenciales para la vida humana. Ya sea porque **no existen** en las plantas o porque no hay suficiente **biodisponibilidad** (que el cuerpo no pueda absorberlos).
 
-Aunque ahora esté con una dieta [carnívora (de sólo carne)](https://pau.ninja/dieta-carnivora/), no hace tanto estuve 6 años entre dietas veganas y vegetarianas. ¿Por qué iba alternando entre ser vegano y vegetariano? pues por las deficiencias nutricionales en mi cuerpo cuando era vegano.
+Aunque ahora esté con una dieta [carnívora (de sólo carne)](./dieta-carnivora), no hace tanto estuve 6 años entre dietas veganas y vegetarianas. ¿Por qué iba alternando entre ser vegano y vegetariano? pues por las deficiencias nutricionales en mi cuerpo cuando era vegano.
 
 - De vegetariano pasaba a una dieta vegana.
 - Algo iba mal en cuanto a salud.
@@ -26,37 +33,6 @@ Con esta espiral del infierno anti-nutricional ya vemos que ser vegetariano ser�
 > Tardé 6 años en darme cuenta que una dieta vegana no puede ser completa para nuestra salud.
 
 Sé que la policía vegana se me va tirar al cuello como una águila imperial, lo que es irónico porque para ver las cosas en perspectiva necesitamos vista de pájaro.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Por qué ser vegano es malo](#Por_que_ser_vegano_es_malo 'Por qué ser vegano es malo')
-- [Deficiencias nutricionales de la dieta vegana](#Deficiencias_nutricionales_de_la_dieta_vegana 'Deficiencias nutricionales de la dieta vegana')
-  - [Vitamina B12, B6, B3 y B2](#Vitamina_B12_B6_B3_y_B2 'Vitamina B12, B6, B3 y B2')
-  - [Ácidos grasos omega-3](#Acidos_grasos_omega-3 'Ácidos grasos omega-3')
-  - [Hierro](#Hierro 'Hierro')
-  - [Vitamina D3](#Vitamina_D3 'Vitamina D3')
-  - [Vitamina A (retinol)](#Vitamina_A_retinol 'Vitamina A (retinol)')
-  - [Colesterol](#Colesterol 'Colesterol')
-  - [Aminoácidos](#Aminoacidos 'Aminoácidos')
-  - [Creatina, taurina, carnosina y carnitina](#Creatina_taurina_carnosina_y_carnitina 'Creatina, taurina, carnosina y carnitina')
-  - [Selenio, yodo, cobre](#Selenio_yodo_cobre 'Selenio, yodo, cobre')
-  - [Calcio y zinc](#Calcio_y_zinc 'Calcio y zinc')
-- [Problemas con los suplementos para veganos](#Problemas_con_los_suplementos_para_veganos 'Problemas con los suplementos para veganos')
-- [Consecuencias del veganismo](#Consecuencias_del_veganismo 'Consecuencias del veganismo')
-  - [Fatiga crónica](#Fatiga_cronica 'Fatiga crónica')
-  - [Depresión y salud mental](#Depresion_y_salud_mental 'Depresión y salud mental')
-  - [Anemia](#Anemia 'Anemia')
-  - [Disrupción hormonal](#Disrupcion_hormonal 'Disrupción hormonal')
-  - [Falta de colesterol](#Falta_de_colesterol 'Falta de colesterol')
-  - [Problemas digestivos](#Problemas_digestivos 'Problemas digestivos')
-  - [Deficiencias nutricionales](#Deficiencias_nutricionales 'Deficiencias nutricionales')
-- [Preguntas frecuentes](#Preguntas_frecuentes 'Preguntas frecuentes')
-  - [Veganismo: ¿sí o no?](#Veganismo_%C2%BFsi_o_no 'Veganismo: ¿sí o no?')
-  - [¿Es el veganismo natural?](#%C2%BFEs_el_veganismo_natural '¿Es el veganismo natural?')
-  - [¿Ser vegano es malo para la salud?](#%C2%BFSer_vegano_es_malo_para_la_salud '¿Ser vegano es malo para la salud?')
-  - [¿Cómo ser un vegano saludable?](#%C2%BFComo_ser_un_vegano_saludable '¿Cómo ser un vegano saludable?')
 
 ## Por qué ser vegano es malo
 
@@ -106,8 +82,6 @@ Lo que es vital porque es una fuente de energía, sirve para que el cerebro func
 
 Los adultos convierten [máximo](https://pubmed.ncbi.nlm.nih.gov/12936959/) de un 3% a un 10% de ALA a DHA y los bebés menos de [un 1%](https://pubmed.ncbi.nlm.nih.gov/19269799/). Normal que la leche materna tenga buenas cantidades de DHA.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Después salen padres locos veganos y terminan con bebés muertos. En serio, hay [cientos](https://www.nytimes.com/2019/08/24/health/vegan-parents-malnourished-baby.html) de casos.
 
 No es casualidad que los veganos tengan casi un [60% menos](https://watermark.silverchair.com/znu00805000327.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAsowggLGBgkqhkiG9w0BBwagggK3MIICswIBADCCAqwGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMk9yztSZUsT3Z9gmIAgEQgIICfRtY23JJy_0LTOK7PxdgAedLkjTKWBthLmVh5VAvsiae7S0XPGFWQYdm0rn2pJFj8FrTf2m59UL5SeFa7PJbK5Zg8R9H4Qyp7W6YgCAnXZe2YaQtXs8e94dipoMjJbfUqeNN_M8ygbm3L6ztBrWTL_h6cfwNH6YAQ-SRZXyj9D8fkxVbHQDhj56Ywv1Rij8uS76gkCnEyP2nk28uqh129JulGw-ujmnWlMhZUKODNlAca4sLlFYj9fJWOs_vHZyFJQXsRosy689oQ4YeIuqYPfp3z73YrwztxjXBoEkghQ8XitekYn-jG9zG8F58HgKRak2hUsfKJ3LdlfTnT2-gAKDnnVnCo6rVURCLncte908DGIRHsJ9lu7PqS7AnADXElge5DuCSz7pkrSyqSIg9-rpPyh8G2DqfQaIxe7cmEA5CvhO5QMTVh-Q6bloZRL5JspUyYt8kxq83swIMFwsEvnEJ6YvOmhAbbVDyECDS9TlKPaCAdjp7xXkrlOsuI-FBXU-LxyEvkPtTQDcPQqLHkdV9Bb1OJp5zX5R3ystSjexUw9hYihshPG9_kP8epxV03gbfVrcOjxSJ-6evE11AO1141jEyBFabefgpiPTb5_QcmpfJE-cTeK9W42Ob23HHdiw_fOuCuDM7UdJWuDQWOPhLR8RvVJ74SVbt5r7QULFCPOjS3gCS979bCiHxj8SxfIDorO5JlNY1RvC5mmTXSrf-MzVAHG8jFDqlbAScYqNKyYK9nySqRBsb-kBCnKkDlP1-3A1V_yyvpTnHi2jtdBr8HAOAgc2dkD5iUsHZgwZDsbKw4yVq_vAOP3P2ZSoa5915aCZAxwDtqO6-MCw) de DHA y EPA que el resto de mortales. ¿Cómo puede ser si dicen suplementarse? Pues porque el 99% de suplementos de omega 3 o DHA **no funcionan** porque son poco tolerantes al estrés oxidativo.
@@ -132,7 +106,7 @@ El hierro hemo es uno de los componentes que nos hace sentirnos con energía, pa
 
 También ha habido varios estudios que han [demostrado](https://academic.oup.com/ajcn/article/85/3/778/4633060) que la falta de hierro nos hace más tontos. Literalmente.
 
-![deficiencia-hierro](https://pau.ninja/wp-content/uploads/2021/10/deficiencia-hierro.png)
+![deficiencia-hierro](./wp-content/uploads/2021/10deficiencia-hierro.png)
 
 Cuando le dieron más hierro a las mujeres de este estudio que les faltaba, se volvieron más listas.
 
@@ -150,8 +124,6 @@ La gente no toma suficiente sol. Por eso no tenemos cantidades óptimas de D3 as
 
 Pero es que además necesitamos **grasas saturadas (que las plantas NO tienen) para poder absorberla**.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Si el ciudadano medio ya tiene deficiencias de vitamina D, **los veganos aún tienen más**. En [un estudio](https://pubmed.ncbi.nlm.nih.gov/21811293/) longevo se vio como el 73% de los veganos comparado con un 46% tenían más deficiencia de vitamina D.
 
 Si tenemos que coronar una vitamina como esencial, yo diría que se trata de la D3.
@@ -168,7 +140,7 @@ Para empezar **menos de un 50%** de personas que pueden [convertir](https://www.
 
 Lo que estoy diciendo es que menos de la mitad de la población no puede convertir el betacaroteno de las plantas a vitamina A.
 
-Normal que haya veganos también [deficientes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628270/) en vitamina A. Una de las cuatros que consideramos [vitaminas más importantes](https://pau.ninja/las-vitaminas-mas-importantes/).
+Normal que haya veganos también [deficientes](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4628270/) en vitamina A. Una de las cuatros que consideramos [vitaminas más importantes](./las-vitaminas-mas-importantes).
 
 El retinol es la forma bioactiva de la vitamina A y lo necesitamos para el [sistema inmune](https://pubmed.ncbi.nlm.nih.gov/30200565/), reproducción, [desarrollo](https://pubmed.ncbi.nlm.nih.gov/22254103/) y para salud óptima en [general](https://pubmed.ncbi.nlm.nih.gov/10466190/).
 
@@ -188,9 +160,7 @@ No, no y no.
 
 La producción de colesterol acostumbra a no ser suficiente para la mayoría de personas y de hecho la mayoría de personas se sentirán mucho mejor con más colesterol en sus dietas porque al igual que la vitamina D, también es una maldita pre-hormona.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Ya comente [por qué las grasas saturadas son buenas](https://pau.ninja/grasas-saturadas-son-buenas/) (#189) y por qué [la gran mentira del colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/) provoca enfermedades del corazón cuando meta análisis más recientes ya lo [desmienten](https://pubmed.ncbi.nlm.nih.gov/26109578/).
+Ya comente [por qué las grasas saturadas son buenas](./grasas-saturadas-son-buenas/) (#189) y por qué [la gran mentira del colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/) provoca enfermedades del corazón cuando meta análisis más recientes ya lo [desmienten](https://pubmed.ncbi.nlm.nih.gov/26109578).
 
 Pocos niveles de colesterol (que es precisamente lo que tienen la mayoría de [vegetarianos](https://pubmed.ncbi.nlm.nih.gov/21139125/) y veganos), están relacionados con [depresión](https://pubmed.ncbi.nlm.nih.gov/21802743/), [ansiedad](https://pubmed.ncbi.nlm.nih.gov/10367605/) e [incremento](https://pubmed.ncbi.nlm.nih.gov/21160131/) de enfermedades cardiovasculares y cáncer.
 
@@ -262,7 +232,7 @@ El yodo puede ser incluso más importante porque debe estar presente en todas la
 
 - **Argumento vegano:** suficiente con comer legumbres o algunas semillas. Tienen zinc. Para el calcio cómete kale, espinacas o [suplementos](#Problemas_con_los_suplementos_para_veganos)…
 
-La ironía es que aunque las plantas contienen fitatos ([ácido fítico](https://pau.ninja/no-comer-verduras/#Acido_fitico)). Sí, uno de estos maravillosos antinutrientes de las plantas. ¿Y qué hacen los fitatos? pues [prevenir la absorción](https://pubmed.ncbi.nlm.nih.gov/25439135/) del zinc.
+La ironía es que aunque las plantas contienen fitatos ([ácido fítico](./no-comer-verduras/#Acido_fitico)). Sí, uno de estos maravillosos antinutrientes de las plantas. ¿Y qué hacen los fitatos? pues [prevenir la absorción](https://pubmed.ncbi.nlm.nih.gov/25439135) del zinc.
 
 Es la misma miiierda de siempre. Si analizas, yo qué sé, pipas de calabaza en una laboratorio te dirá que tope de bien de zinc, pero ¿de qué te sirve si tiene fitatos y no deja que le cuerpo lo absorba?
 
@@ -292,8 +262,6 @@ Nuestra biología siendo la **misma** de hace cientos de miles de años.
 
 Si necesitas un suplemento en tu dieta para estar sano, ya es una pista de sentido común que tal vez la dieta que estás haciendo de entrada no es tan buena como pensabas.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Además, fijaros que el Professor Napier afirmaba que por ejemplo estos suplementos de algas no son sostenibles a escala global por la infraestructura que necesitaría.
 
 No sólo eso, sino que para sacar este omega 3 de las algas y ponerlo en el potecito del suplemento se necesita hexano.
@@ -306,13 +274,13 @@ Pero como hoy nos centramos en la salud, vale la pena tener en cuenta a qué nos
 
 ## Consecuencias del veganismo
 
-El [veganismo es insostenible para el medio ambiente](https://pau.ninja/veganismo-y-medio-ambiente/), animales, planeta y personas. Pero para la salud aún es peor, y deberíamos siempre empezar por estar bien nosotros antes de querer ayudar a los demás.
+El [veganismo es insostenible para el medio ambiente](./veganismo-y-medio-ambiente), animales, planeta y personas. Pero para la salud aún es peor, y deberíamos siempre empezar por estar bien nosotros antes de querer ayudar a los demás.
 
 Los que llevan más un año en el veganismo empiezan a ver síntomas que vienen dados por estas deficiencias que comentábamos al principio.
 
 ### Fatiga crónica
 
-Para mí una de las peores consecuencias del veganismo es la fatiga crónica. Una fatiga constante que no cesa nunca. Tal vez tienes suerte y las primeras horas de la mañana en ayunas son llevaderas con nuestra [adicción al café](https://pau.ninja/beneficios-de-dejar-el-cafe/)… pero después se hace insoportable.
+Para mí una de las peores consecuencias del veganismo es la fatiga crónica. Una fatiga constante que no cesa nunca. Tal vez tienes suerte y las primeras horas de la mañana en ayunas son llevaderas con nuestra [adicción al café](./beneficios-de-dejar-el-cafe)… pero después se hace insoportable.
 
 Una de las causas de sentirnos débiles, cansados y con niebla mental puede ser por la falta de B12. Además que nos [incrementa](https://academic.oup.com/ajcn/article/78/1/131/4689908) un aminoácido llamado homocisteína que con niveles elevados nos puede llevar a [enfermedades cardiovasculares](https://www.elsevier.es/es-revista-medicina-integral-63-articulo-la-homocisteina-como-factor-riesgo-10022224) y [cognitivas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3875920/) como demencia o Alzheimer.
 
@@ -352,25 +320,21 @@ Otra de las cosas más jodidas en este sentido es la disrupción hormonal del cu
 
 ¿El motivo? pues que en una dieta vegana faltan ácidos grasos, minerales y vitaminas en general y el cuerpo lo expresa de distinta manera.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Es increíble ver la cantidad de ex-veganas que hay en YouTube, donde el denominador común y uno de los motivos principales por los que dejan de ser veganas al cabo de unos pocos años es que han «perdido la regla».
 
 Han dejado de menstruar.
 
 Cuando tu propio cuerpo te impide ser fértil, es que es hora de mirarte de cerca lo que estás haciendo.
 
-La [infertilidad vegana y peligros del embarazo](https://pau.ninja/dieta-vegana-embarazo/) son muy reales.
+La [infertilidad vegana y peligros del embarazo](./dieta-vegana-embarazo) son muy reales.
 
 ### Falta de colesterol
 
 Precisamente la falta de colesterol es uno de los motivos del desbalance hormonal. Porque el colesterol que muchos llaman «malo» es **increíblemente necesario** para el cuerpo.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 ### Problemas digestivos
 
-También hay muchos problemas digestivos. Yo soy un claro ejemplo de cuando [fui vegano y casi muero en el intento](https://pau.ninja/razones-para-no-ser-vegano/).
+También hay muchos problemas digestivos. Yo soy un claro ejemplo de cuando [fui vegano y casi muero en el intento](./razones-para-no-ser-vegano).
 
 ### Deficiencias nutricionales
 
@@ -378,7 +342,7 @@ Y finalmente para no hacer la lista súper larga, tenemos deficiencias nutricion
 
 La vitamina B12 es la más popular y por lo tanto los veganos se aseguran de suplementarse con ella. Pero pocos saben todas las deficiencias de nutrientes de las que hemos hablado hoy.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
 Si eres vegano y algo empieza a ir mal en tu cuerpo, da por sentado que tiene que ver con la dieta. Y no te tires de los pelos. Seguramente lo has controlado todo al detalle con tu Excel y tablas nutricionales, pero lo que sale en papel no es lo que hay dentro de tu cuerpo.
 
@@ -394,13 +358,13 @@ No. Ser vegano es malo para la salud por todas las deficiencias nutricionales qu
 
 ### ¿Es el veganismo natural?
 
-Consideramos antes al ser humano como [carnívoro «facultativo»](https://pau.ninja/el-ser-humano-es-carnivoro/) (#194). Quien piense que no es así, ¿qué tipo de dieta «natural» necesita suplementos? Por lo tanto el veganismo no es natural.
+Consideramos antes al ser humano como [carnívoro «facultativo»](./el-ser-humano-es-carnivoro) (#194). Quien piense que no es así, ¿qué tipo de dieta «natural» necesita suplementos? Por lo tanto el veganismo no es natural.
 
 Cada animal tiene una dieta «asignada» por la naturaleza.
 
 La de los humanos **no son las plantas**. Lo que nos hizo evolucionar fue la carne, y esto es un hecho aceptado por historiadores, antropólogos y arqueólogos.
 
-![armas-vs-fuego](https://pau.ninja/wp-content/uploads/2021/10/armas-vs-fuego.png)
+![armas-vs-fuego](./wp-content/uploads/2021/10armas-vs-fuego.png)
 
 Gráfico: la evolución cerebral humana desde el descubrimiento de herramientas para cazar y acceder a más carne.
 
@@ -415,3 +379,89 @@ Ser vegano será malo para la salud si no nos suplementamos.
 Si se decide tirar por la vía purista **no se puede**. Los menos puristas pueden optar por comprar suplementos aunque teniendo en cuenta que obtienen los nutrientes de menos calidad. Menos biodisponibles.
 
 La otra manera sería comer al menos pescado y huevos una vez a la semana para poder resistir algunos años siendo veganos. Es decir, no ser veganos de verdad pero aún así decir a los cuatro vientos que sí lo somos.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Antiveganismo](./antiveganismo)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/consecuencias-del-veganismo/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14952,"title":"Las%207%20consecuencias%20de%20ser%20VEGANO%20y%20por%20qu%C3%A9%20es%20MALO","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/vegano-enfermo.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

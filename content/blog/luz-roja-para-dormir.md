@@ -1,13 +1,18 @@
 ---
-title: "Luz roja para dormir es hora del adiós a tus bombillas"
+title: "Luz roja para dormir"
+url: https://pau.ninja/luz-roja-para-dormir
+slug: luz-roja-para-dormir
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-con-bombillas-rojas-de-noche.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/04/persona-con-bombillas-rojas-de-noche.jpeg
 published: 2023-04-12T06:44:06+00:00
 modified: 2023-09-09T11:03:34+00:00
+scrappedAt: 2024-10-14T09:20:05.149Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/74200413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-3%2F341750408-44100-2-b1bd4ce50ad85.mp3
-slug: luz-roja-para-dormir
+bibliography: ["James, Steven R. (February 1989). «Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence» (PDF). Current Anthropology.","Berna, Francesco (2012). «Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa». Proceedings of the National Academy of Sciences of the United States of America.","Swann G. The skin is the body’s largest organ. J Vis Commun Med. 2010 Dec;33(4):148-9. doi: 10.3109/17453054.2010.525439. PMID: 21087182.","Journal of Neuroscience 15 August 2001, 21 (16) 6405-6412; DOI: 10.1523/JNEUROSCI.21-16-06405.2001","Does the iPad Night Shift mode reduce melatonin suppression? R Nagare, MS, B Plitnick, RN, and MG Figueiro, PhD","Barolet D, Christiaens F, Hamblin MR. Infrared and skin: Friend or foe. J Photochem Photobiol B. 2016 Feb;155:78-85. doi: 10.1016/j.jphotobiol.2015.12.014. Epub 2015 Dec 21. PMID: 26745730; PMCID: PMC4745411.","Inger R, Bennie J, Davies TW, Gaston KJ. Potential biological and ecological effects of flickering artificial light. PLoS One. 2014 May 29;9(5):e98631. doi: 10.1371/journal.pone.0098631. PMID: 24874801; PMCID: PMC4038456."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/74200413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-3%2F341750408-44100-2-b1bd4ce50ad85.mp3](https://anchor.fm/s/98566448/podcast/play/74200413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-3%2F341750408-44100-2-b1bd4ce50ad85.mp3)
 
 ¿Por qué hacer que tu casa parezca un put1 de noche? Pues las razones no son pocas.
@@ -30,7 +35,7 @@ Sólo estamos emitiendo luz roja «a secas» con un único objetivo: evitar la l
 
 Mi última experiencia con un fuego así fue precisamente en el retiro de la comunidad ([Sociedad Ninja](#unirse)).
 
-![fuego de campamento](https://pau.ninja/wp-content/uploads/2023/04/fuego-de-campamento.jpeg)
+![fuego de campamento](./wp-content/uploads/2023/04fuego-de-campamento.jpeg)
 
 Foto: hecha en el retiro ninja. Para el próximo tendremos más reservas de leña 😀
 
@@ -40,13 +45,13 @@ Hemos evolucionado haciendo frente a días duros y oscuros de invierno, a noches
 
 Hay debate sobre cuando se descubrió y controló el fuego.
 
-Algunas fuentes dicen que hay evidencia de control sobre 1,5 – 2 millones de años[1](<javascript:void(0)>)James, Steven R. (February 1989). «Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence» (PDF). Current Anthropology.. Otras dicen que fue cosa del *Homo Herectus* hace 1 millón de años[2](<javascript:void(0)>)Berna, Francesco (2012). «Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa». Proceedings of the National Academy of Sciences of the United States of America., pero aunque quizás nunca lo sabremos, algo sí podemos asegurar…
+Algunas fuentes dicen que hay evidencia de control sobre 1,5 – 2 millones de años[ref-1](#ref-1){.ref}. Otras dicen que fue cosa del _Homo Herectus_ hace 1 millón de años[ref-2](#ref-2){.ref}, pero aunque quizás nunca lo sabremos, algo sí podemos asegurar…
 
 El fuego nos ha acompañado durante nuestra evolución.
 
 Es por esto que algunos hemos cambiado todas las luces de casa a [bombillas de luz roja](#Bombilla_de_luz_roja_linterna_de_luz_roja), para recrear un entorno nocturno en el que habría **cero luz azul y verde** entre los 380-580 nanómetros.
 
-![bombilla de luz roja bloquea luz azul](https://pau.ninja/wp-content/uploads/2023/04/bombilla-de-luz-roja-bloquea-luz-azul.jpeg)
+![bombilla de luz roja bloquea luz azul](./wp-content/uploads/2023/04bombilla-de-luz-roja-bloquea-luz-azul.jpeg)
 
 Por esto hoy os voy a argumentar porque tiene todo el sentido del mundo cambiar las luces de toda la casa a luces LED rojas.
 
@@ -54,27 +59,12 @@ Si es algo que discutirías hacer para la salud de un bebé, ¿por qué no lo ha
 
 Los beneficios no son pocos, y hoy los descubrimos aquí.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [¿Para qué sirve la luz roja?](#%C2%BFPara_que_sirve_la_luz_roja '¿Para qué sirve la luz roja?')
-- [Beneficios de la luz roja para dormir](#Beneficios_de_la_luz_roja_para_dormir 'Beneficios de la luz roja para dormir')
-  - [Evitar la luz azul LED artificial](#Evitar_la_luz_azul_LED_artificial 'Evitar la luz azul LED artificial')
-  - [Promueve la producción de melatonina](#Promueve_la_produccion_de_melatonina 'Promueve la producción de melatonina')
-- [¿Qué bombilla de luz roja comprar?](#%C2%BFQue_bombilla_de_luz_roja_comprar '¿Qué bombilla de luz roja comprar?')
-  - [Bajo porcentaje de parpadeo o "anti flicker"](#Bajo_porcentaje_de_parpadeo_o_%22anti_flicker%22 'Bajo porcentaje de parpadeo o "anti flicker"')
-  - [Bombilla incandescente vs LED](#Bombilla_incandescente_vs_LED 'Bombilla incandescente vs LED')
-  - [Que no genera electricidad sucia](#Que_no_genera_electricidad_sucia 'Que no genera electricidad sucia')
-- [Bombilla de luz roja + linterna de luz roja](#Bombilla_de_luz_roja_linterna_de_luz_roja 'Bombilla de luz roja + linterna de luz roja')
-- [Fuentes, referencias y notas](#Fuentes_referencias_y_notas 'Fuentes, referencias y notas')
-
 ## ¿Para qué sirve la luz roja?
 
 Hay un poco de confusión cuando se habla de la luz roja en el mundo de la salud porque nos podemos referir a dos cosas distintas con dos propósitos distintos:
 
-- **Terapia de luz roja (NIR):** de la que hablamos extensamente en el #473, explicando como la luz solar durante el amanecer y anochecer tiene unas frecuencias de [luz roja e infrarroja con beneficios terapéuticos](https://pau.ninja/terapia-de-luz-roja-beneficios/) increíbles para la salud con miles de estudios y evidencia que siguen aún descubriéndose. Algunos _biohackers_ nos hemos [comprado una lámpara de luz roja e infrarroja](https://pau.ninja/lampara-luz-roja-e-infrarroja/) para estar expuestos a estas ondas cuando lo creamos suficiente. Un aparato que podríamos evitar al 100% si pudiéramos estar expuesto al amanecer y anochecer, lo cuál sería lo ideal.
-- **Utilizar luz roja para dormir:** donde el objetivo ya no es replicar estas ondas del sol, sino [evitar la luz azul durante la noche](https://pau.ninja/como-protegerse-de-la-luz-azul/) (#456) porque de lo contrario le estamos dando información a nuestras células que es de día y que inicien (o dejen de hacer) ciertos procesos que en realidad no tendrían que hacer porque es de noche. Pero esta luz azul que existe en toda la sociedad moderna durante la noche por culpa de la invención del LED, crea un entorno que hace que nuestras células se descoloquen y funcionen mal.
+- **Terapia de luz roja (NIR):** de la que hablamos extensamente en el #473, explicando como la luz solar durante el amanecer y anochecer tiene unas frecuencias de [luz roja e infrarroja con beneficios terapéuticos](./terapia-de-luz-roja-beneficios/) increíbles para la salud con miles de estudios y evidencia que siguen aún descubriéndose. Algunos _biohackers_ nos hemos [comprado una lámpara de luz roja e infrarroja](https://pau.ninja/lampara-luz-roja-e-infrarroja) para estar expuestos a estas ondas cuando lo creamos suficiente. Un aparato que podríamos evitar al 100% si pudiéramos estar expuesto al amanecer y anochecer, lo cuál sería lo ideal.
+- **Utilizar luz roja para dormir:** donde el objetivo ya no es replicar estas ondas del sol, sino [evitar la luz azul durante la noche](./como-protegerse-de-la-luz-azul) (#456) porque de lo contrario le estamos dando información a nuestras células que es de día y que inicien (o dejen de hacer) ciertos procesos que en realidad no tendrían que hacer porque es de noche. Pero esta luz azul que existe en toda la sociedad moderna durante la noche por culpa de la invención del LED, crea un entorno que hace que nuestras células se descoloquen y funcionen mal.
 
 De este segundo propósito vamos a hablar hoy. De utilizar luz roja (sin ninguna frecuencia en especial) para evitar la luz azul y la luz verde.
 
@@ -84,18 +74,18 @@ No tienen nada que ver con los beneficios de la fotobiomodulación, de la terapi
 
 ## Beneficios de la luz roja para dormir
 
-Y me diréis, «pero Pau, ¿por qué no utilizar unas gafas rojas que tu también tienes de las que nos habías hablado en el #456 para [protegernos de la luz azul](https://pau.ninja/como-protegerse-de-la-luz-azul/)?»
+Y me diréis, «pero Pau, ¿por qué no utilizar unas gafas rojas que tu también tienes de las que nos habías hablado en el #456 para [protegernos de la luz azul](./como-protegerse-de-la-luz-azul)?»
 
 Muy buena pregunta.
 
 Las gafas anti luz azul o «gafas rojas» que tengo son una muy buena herramienta cuando estás en un entorno en el que no puedes controlar la luz. O si por trabajo tienes que hacer algo en el ordenador de noche.
 
-[![gafas luz roja protección luz azul](https://pau.ninja/wp-content/uploads/2023/07/gafas-luz-roja-proteccion-luz-azul.jpeg)](https://pau.ninja/gafas)
+[![gafas luz roja protección luz azul](./wp-content/uploads/2023/07/gafas-luz-roja-proteccion-luz-azul.jpeg)](https://pau.ninjagafas)  
 [Comprar aquí](https://pau.ninja/gafas)
 
 - **Cupón descuento:** _RECURSOS_
 - **Modelo:** Sport de máxima protección (gafas de noche)
-- **Precio:** 55€ aprox (sin aplicar cupón)
+- **Precio:** 55€ aprox (sin aplicar cupón) 
 
 Por ejemplo hace unos días iba a un festival de baile social que es por la tarde noche. Sabía que iba a volver tarde a casa y que tendría que estar 20 minutos en un autobús + ascensor y pasillos de mi residencia, todo lleno de LEDs.
 
@@ -111,13 +101,13 @@ Digo «mente» literalmente, porque los ojos son un trozo de cerebro que tenemos
 
 Pero no es el único que dará esa información a las células.
 
-> De hecho, el otro órgano que dará información a nuestra cabeza sobre la hora que es, es el órganos más grande de todo el cuerpo es… la piel[3](<javascript:void(0)>)Swann G. The skin is the body’s largest organ. J Vis Commun Med. 2010 Dec;33(4):148-9. doi: 10.3109/17453054.2010.525439. PMID: 21087182..
+> De hecho, el otro órgano que dará información a nuestra cabeza sobre la hora que es, es el órganos más grande de todo el cuerpo es… la piel[ref-3](#ref-3){.ref}.
 
 Con esto empecé a entender por qué odio (aún más) no tener persianas cuando estoy viviendo en el norte y por qué nunca he dormido tan bien como una habitación oscura española, portuguesa, italiana o del Mediterráneo.
 
 En serio os lo digo. En Estonia he encartronado mis ventanas porque las persianas no existen virtualmente.
 
-![ventanas con cartones de persianas](https://pau.ninja/wp-content/uploads/2023/04/ventanas-con-cartones-de-persianas.jpeg)
+![ventanas con cartones de persianas](./wp-content/uploads/2023/04ventanas-con-cartones-de-persianas.jpeg)
 
 Foto: mis ventanas en Estonia, donde la puesta de sol es a las 11 de la noche durante el verano.
 
@@ -129,9 +119,9 @@ Y tiene sentido.
 
 ¿Cómo no van esas células a pasar esta información al cuerpo? Si ya sabemos que un montón de cosas ocurren fuera del cerebro.
 
-Por ejemplo [generamos la vitamina del sol en la propia piel](https://pau.ninja/como-tomar-vitamina-d-del-sol/) (#459) aunque se empiezan a sintetizar en los ojos ([por esto es malo para la salud llevar gafas de sol](https://pau.ninja/es-malo-llevar-gafas-de-sol/)).
+Por ejemplo [generamos la vitamina del sol en la propia piel](./como-tomar-vitamina-d-del-sol/) (#459) aunque se empiezan a sintetizar en los ojos ([por esto es malo para la salud llevar gafas de sol](https://pau.ninja/es-malo-llevar-gafas-de-sol)).
 
-![luz led blanca vs luz solar](https://pau.ninja/wp-content/uploads/2023/04/luz-led-blanca-vs-luz-solar.jpeg)
+![luz led blanca vs luz solar](./wp-content/uploads/2023/04luz-led-blanca-vs-luz-solar.jpeg)
 
 Pero esta información falsa, información errónea no sólo es descargada por las células si vives en el norte temporalmente como es mi caso. Quizás estamos en España y sí, duermes con las persianas bajadas… o abiertas pero a fuera es oscuro.
 
@@ -145,7 +135,7 @@ Por esto he cambiado todas mis bombillas de luz blanca (en el fondo luz azul), a
 
 ### Promueve la producción de melatonina
 
-Mirad, durante la noche si estamos expuestos a las luces LED de la sociedad moderna -bombillas que emite luz azul y luz verde- nuestro cuerpo reduce la producción natural de melatonina[4](<javascript:void(0)>)Journal of Neuroscience 15 August 2001, 21 (16) 6405-6412; DOI: 10.1523/JNEUROSCI.21-16-06405.2001.
+Mirad, durante la noche si estamos expuestos a las luces LED de la sociedad moderna -bombillas que emite luz azul y luz verde- nuestro cuerpo reduce la producción natural de melatonina[ref-4](#ref-4){.ref}.
 
 La melatonina es una hormona que nos «hace de madre».
 
@@ -155,15 +145,15 @@ Le dice a nuestro cuerpo que tiene que ir a dormir, pero lo que muchos no saben 
 
 Suprimirla significa un mal sueño -y todo lo que esto implica para la salud- pero también una reducción en nuestra capacidad para combatir enfermedades.
 
-![peligros de luz azul en bombillas de luz blanca](https://pau.ninja/wp-content/uploads/2023/04/peligros-de-luz-azul-en-bombillas-de-luz-blanca.jpeg)
+![peligros de luz azul en bombillas de luz blanca](./wp-content/uploads/2023/04peligros-de-luz-azul-en-bombillas-de-luz-blanca.jpeg)
 
-Mirad que los sujetos de un estudio[5](<javascript:void(0)>)Does the iPad Night Shift mode reduce melatonin suppression? R Nagare, MS, B Plitnick, RN, and MG Figueiro, PhD leyeron durante 1 sola hora en un iPad, y sólo este hecho hizo que se **retrasara su producción de melatonina a 3 horas**.
+Mirad que los sujetos de un estudio[ref-5](#ref-5){.ref} leyeron durante 1 sola hora en un iPad, y sólo este hecho hizo que se **retrasara su producción de melatonina a 3 horas**.
 
 Pero no es sólo porque esta luz nos entre por los ojos, sino que aunque estuviéramos usando unas gafas anti luz azul, el brillo de la pantalla es reflejada en nuestra piel, y cómo hemos visto antes, las piel descargará la información de esta luz azul a las células para **decirles que es una hora… que en realidad no es**.
 
 Es verdad que la fuente más intensa de luz azul es el sol… **pero** ni queremos ni necesitamos bloquearlo porque el propio sol nos está ofreciendo un balance de ondas electromagnéticas de luces rojas e infrarrojas que nos curan y nos protegen.
 
-![luz infrarroja del sol](https://pau.ninja/wp-content/uploads/2023/04/luz-infrarroja-del-sol.jpeg)
+![luz infrarroja del sol](./wp-content/uploads/2023/04luz-infrarroja-del-sol.jpeg)
 
 Esto hace que cuando se combinan estas frecuencias naturales con la luz azul que también emite, haya **el ratio perfecto de lo que necesitamos y lo que no**.
 
@@ -171,7 +161,7 @@ Enjuaga. Lava lo malo de la luz azul con sus otras frecuencias.
 
 Pero aquí nos tienes a nosotros.
 
-Con luces LED que **sólo** emiten luz azul y luz verde dentro de nuestra casa, y cristales de ventana que **sólo** dejan pasar la luz azul, mientras que el 50% de la luz del sol es infrarroja[6](<javascript:void(0)>)Barolet D, Christiaens F, Hamblin MR. Infrared and skin: Friend or foe. J Photochem Photobiol B. 2016 Feb;155:78-85. doi: 10.1016/j.jphotobiol.2015.12.014. Epub 2015 Dec 21. PMID: 26745730; PMCID: PMC4745411..
+Con luces LED que **sólo** emiten luz azul y luz verde dentro de nuestra casa, y cristales de ventana que **sólo** dejan pasar la luz azul, mientras que el 50% de la luz del sol es infrarroja[ref-6](#ref-6){.ref}.
 
 ## ¿Qué bombilla de luz roja comprar?
 
@@ -196,7 +186,7 @@ El parpadeo o «flicker» es la métrica más subestimada pero es un problema de
 
 En lenguaje ninja esto significa que si la luz parpadea mucho (muchas veces este parpadeo no es percibida por los ojos, pero el cerebro si la registra a nivel subconsciente), entonces su intensidad media también disminuye.
 
-Esto a efectos prácticos significa que si estás haciendo tu vida de noche con bombillas con mucho parpadeo alrededor, pueden surgir problemas de sensibilidad ocular a este «flicker» imperceptible y poca broma porque también nos llevamos de regalo algunos problemas de salud importantes[7](<javascript:void(0)>)Inger R, Bennie J, Davies TW, Gaston KJ. Potential biological and ecological effects of flickering artificial light. PLoS One. 2014 May 29;9(5):e98631. doi: 10.1371/journal.pone.0098631. PMID: 24874801; PMCID: PMC4038456., porque recordemos que el ojo no lo ve, pero el cerebro lo percibe.
+Esto a efectos prácticos significa que si estás haciendo tu vida de noche con bombillas con mucho parpadeo alrededor, pueden surgir problemas de sensibilidad ocular a este «flicker» imperceptible y poca broma porque también nos llevamos de regalo algunos problemas de salud importantes[ref-7](#ref-7){.ref}, porque recordemos que el ojo no lo ve, pero el cerebro lo percibe.
 
 Aunque igualmente también hay parpadeos visibles a nuestro ojo que entonces nos h0de más al corto plazo en vez de al largo plazo.
 
@@ -219,7 +209,7 @@ Me explico.
 - **Parpadeo:** muchos ninjas de la salud y de la vida se sorprenderán de saber que las bombillas incandescentes (las que todo el mundo usaba antes que las LED) tienen uno de los porcentajes de parpadeo más altos que las LED buenas, y parpadean menos que las LED de mala calidad.
 - **Gasto alto:** le añadimos que las antiguas no son energéticamente eficientes. Estamos hablando de que las bombillas incandescentes consumen 40 vatios en comparación con esas bombillas que estuve mirando que eran LED rojas que consumen de 3 a 9 vatios de media.
 - **Vida útil:** esto no termina aquí porque la bombilla incandescente sólo tiene una vida útil de poco más de 1 año. En cambio una LED te va a durar más de 14-22 años.
-- **Radiaciones:** finalmente un punto muy importante para mí también es que con las LED existe la posibilidad de encontrar modelos con pocas radiaciones electromagnéticas, de lo contrario lo tienes sumando a [los otros aparatos que producen radiaciones ionizantes en casa](https://pau.ninja/radiaciones-ionizantes-en-casa/) (#395).
+- **Radiaciones:** finalmente un punto muy importante para mí también es que con las LED existe la posibilidad de encontrar modelos con pocas radiaciones electromagnéticas, de lo contrario lo tienes sumando a [los otros aparatos que producen radiaciones ionizantes en casa](./radiaciones-ionizantes-en-casa) (#395).
 
 ### Que no genera electricidad sucia
 
@@ -259,13 +249,13 @@ O sea que una de las cosas a tener en cuenta es si este LED emite electricidad s
 
 Sólo con comprar cualquier bombilla de luz roja ya nos evitaremos el espectro de luz azul, que es lo que nos interesa principalmente aunque queremos considerar tanto el parpadeo como la electricidad sucia y radiaciones… pero nosotros al ser unos ninjas de la vida vamos un paso más allá.
 
-[![Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFdFpGRmlPVTlIY1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5Njk2Nw=)](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...')
+[![Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFdFpGRmlPVTlIY1V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDQ0NQ=)](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Klarlight 9W E27 Bombillas LED de Colores, 9w, A60A19, Incandescente, Rojo, E26, 720LM (4 Pack)...")
 
-[Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...')
+[Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...")
 
-12,60 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+12,60 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 - **Enrosque:** E27 para Europa
 - Sin parpadeo («flicker») y sin radiaciones EMF según el fabricante
@@ -297,29 +287,120 @@ Lo que sí se seguro son los beneficios de utilizar bombillas rojas durante la n
 Pulsa aquí para plegarlas/desplegarlas.
 
 - 1
-
-  James, Steven R. (February 1989). «Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence» (PDF). Current Anthropology.
-
+    
+    
+    
 - 2
-
-  Berna, Francesco (2012). «Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa». Proceedings of the National Academy of Sciences of the United States of America.
-
+    
+    
+    
 - 3
-
-  Swann G. The skin is the body’s largest organ. J Vis Commun Med. 2010 Dec;33(4):148-9. doi: 10.3109/17453054.2010.525439. PMID: 21087182.
-
+    
+    
+    
 - 4
-
-  Journal of Neuroscience 15 August 2001, 21 (16) 6405-6412; DOI: 10.1523/JNEUROSCI.21-16-06405.2001
-
+    
+    
+    
 - 5
-
-  Does the iPad Night Shift mode reduce melatonin suppression? R Nagare, MS, B Plitnick, RN, and MG Figueiro, PhD
-
+    
+    
+    
 - 6
-
-  Barolet D, Christiaens F, Hamblin MR. Infrared and skin: Friend or foe. J Photochem Photobiol B. 2016 Feb;155:78-85. doi: 10.1016/j.jphotobiol.2015.12.014. Epub 2015 Dec 21. PMID: 26745730; PMCID: PMC4745411.
-
+    
+    
+    
 - 7
+    
+    
+    
 
-  Inger R, Bennie J, Davies TW, Gaston KJ. Potential biological and ecological effects of flickering artificial light. PLoS One. 2014 May 29;9(5):e98631. doi: 10.1371/journal.pone.0098631. PMID: 24874801; PMCID: PMC4038456.
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Hábitos saludables](./habitos-saludables)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/luz-roja-para-dormir/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":17455,"title":"3%20secretos%20%2B%202%20bombillas%20de%20LUZ%20ROJA%20para%20dormir","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/04\\/persona-con-bombillas-rojas-de-noche.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,13 +1,18 @@
 ---
-title: "El dilema de los lácteos ¿es bueno o malo beber leche?"
+title: "El dilema de los lácteos"
+url: https://pau.ninja/es-bueno-beber-leche
+slug: es-bueno-beber-leche
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: bebiendo-leche-cruda.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/10/bebiendo-leche-cruda.jpeg
 published: 2022-11-07T08:38:14+00:00
 modified: 2023-09-21T05:27:07+00:00
+scrappedAt: 2024-10-14T09:20:22.519Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60979277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-21%2F298374766-44100-2-d15a360b1ac0c.mp3
-slug: es-bueno-beber-leche
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/60979277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-21%2F298374766-44100-2-d15a360b1ac0c.mp3](https://anchor.fm/s/98566448/podcast/play/60979277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-21%2F298374766-44100-2-d15a360b1ac0c.mp3)
 
 Claro que vas a notar mejoras si dejas los lácteos un tiempo… pero no es porque sean malos, sino porque estás consumiendo lácteos de mi3rda. Del Mercadona.
@@ -16,7 +21,7 @@ Pedro, Heidi y su abuelo tenían razón cuando comían leche de sus cabras y eso
 
 ¿Por qué os pensáis que Clara se pudo levantar de la silla de ruedas al poco de llegar a Los Alpes? Por los lácteos… Seguro.
 
-![meme lácteos](https://pau.ninja/wp-content/uploads/2022/11/meme-lacteos.jpeg)
+![meme lácteos](./wp-content/uploads/2022/11meme-lacteos.jpeg)
 
 Los lácteos son el alimento más incomprendido. Una comida que roza la superalimentación como (al igual que la carne) viene de fuentes de calidad.
 
@@ -26,35 +31,13 @@ Es normal que a la mayoría de cuerpos no les siente bien un proceso industrial 
 
 En cambio conocemos casos de monjes del Tibet o de civilizaciones antiguas que eran intolerantes a la lactosa… y aún así [bebían](https://www.ancient-origins.net/news-evolution-human-origins/lactose-intolerance-0017076) leche de sus cabras sin problemas. ¿Cómo puede ser? Porque estamos hablando de leche **fresca**. Leche cruda. Un alimento totalmente diferente a la del super.
 
-![monje con leche fresca](https://pau.ninja/wp-content/uploads/2022/11/monje-con-leche-fresca.jpeg)
+![monje con leche fresca](./wp-content/uploads/2022/11monje-con-leche-fresca.jpeg)
 
-Normal que compres cualquier leche, queso o manteca del Mercadona, te sienta mal y pases a beber la maldita [leche de avena y sus contraindicaciones](https://pau.ninja/leche-de-avena-contraindicaciones/) (#410) pensándote que es sano cuando en verdad te estás tomando un vaso de popurrí de agroquímicos que te pasarán factura a largo plazo.
+Normal que compres cualquier leche, queso o manteca del Mercadona, te sienta mal y pases a beber la maldita [leche de avena y sus contraindicaciones](./leche-de-avena-contraindicaciones) (#410) pensándote que es sano cuando en verdad te estás tomando un vaso de popurrí de agroquímicos que te pasarán factura a largo plazo.
 
-¿Qué alternativas nos quedan entonces al café de la mañana? A mí me gusta negro, como mi alma. Y sí, [dejarlo tiene beneficios](https://pau.ninja/beneficios-de-dejar-el-cafe/) asegurados (#239), pero bueno. No voy a ser yo quien nos quite una pequeña alegría mañanera, pero si queremos añadirle leche, comer manteca o queso con tranquilidad, hoy vamos cómo. Entendiendo un poco más el yin-yang de los lácteos.
+¿Qué alternativas nos quedan entonces al café de la mañana? A mí me gusta negro, como mi alma. Y sí, [dejarlo tiene beneficios](./beneficios-de-dejar-el-cafe) asegurados (#239), pero bueno. No voy a ser yo quien nos quite una pequeña alegría mañanera, pero si queremos añadirle leche, comer manteca o queso con tranquilidad, hoy vamos cómo. Entendiendo un poco más el yin-yang de los lácteos.
 
 Para que veamos que lo que nos han vendido los medios de «lo malo» que son, es **otra mentira** para colarte una agenda medioambiental y de salud, y así hacerte esclavo de su mercado. Para que no podamos producir nuestros alimentos en casa y por esto los lácteos estarán cada vez más atacados. Porque es un potencial súper alimento muy accesible para la mayoría.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué son los lácteos](#Que_son_los_lacteos 'Qué son los lácteos')
-  - [Tipos de lácteos](#Tipos_de_lacteos 'Tipos de lácteos')
-  - [Qué es la homogeneización](#Que_es_la_homogeneizacion 'Qué es la homogeneización')
-  - [Qué es la pasteurización](#Que_es_la_pasteurizacion 'Qué es la pasteurización')
-- [Lácteos crudos](#Lacteos_crudos 'Lácteos crudos')
-- [Beneficios de la leche fresca](#Beneficios_de_la_leche_fresca 'Beneficios de la leche fresca')
-  - [Omegas](#Omegas 'Omegas')
-  - [Vitaminas esenciales](#Vitaminas_esenciales 'Vitaminas esenciales')
-  - [Minerales sin antinutrientes](#Minerales_sin_antinutrientes 'Minerales sin antinutrientes')
-  - [Ácidos grasos](#Acidos_grasos 'Ácidos grasos')
-  - [Nutrientes de los lácteos](#Nutrientes_de_los_lacteos 'Nutrientes de los lácteos')
-  - [Alto valor nutricional](#Alto_valor_nutricional 'Alto valor nutricional')
-- [¿Es bueno beber leche?](#%C2%BFEs_bueno_beber_leche '¿Es bueno beber leche?')
-  - [Civilizaciones con dietas basadas en lácteos](#Civilizaciones_con_dietas_basadas_en_lacteos 'Civilizaciones con dietas basadas en lácteos')
-  - [Congelar y conservar lácteos](#Congelar_y_conservar_lacteos 'Congelar y conservar lácteos')
-- [Queso de leche cruda](#Queso_de_leche_cruda 'Queso de leche cruda')
-- [¿Se puede vivir sin tomar leche?](#%C2%BFSe_puede_vivir_sin_tomar_leche '¿Se puede vivir sin tomar leche?')
 
 ## Qué son los lácteos
 
@@ -62,7 +45,7 @@ Los lácteos son cualquier alimento elaborado a partir de la leche de los mamíf
 
 ¿Qué no es un lácteo? La bebida de avena, soja o almendras. Por eso no lo pueden llamar leche. Porque las almendras no no tienen t3tas.
 
-![almendra sacando leche](https://pau.ninja/wp-content/uploads/2022/09/almendra-sacando-leche.jpeg)
+![almendra sacando leche](./wp-content/uploads/2022/09almendra-sacando-leche.jpeg)
 
 Lo interesante de los los lácteos es que por un lado pueden contener **todos los nutrientes que nuestro cuerpo necesita** para estar más sanos que Matusalén, pero por otro lado, cuando estos lácteos se han fabricado en condiciones modernas, puede causar inflamación masiva. Por ejemplo si eres alérgico a ellos o tienes ciertas intolerancias que veremos en otro episodio. Y si es tu caso… lo siento pero te han tocado malas cartas.
 
@@ -98,7 +81,7 @@ La parte de la homogeneización es cuando básicamente reducen las partículas d
 
 De aquí la palabra: de homogenizar. De hacer todo igual. ¿Y cómo lo hacen? pues poniendo la leche bajo mucha presión, los glóbulos de grasa se empequeñecen (igual que lo hace tu cosita cuando tienes una ducha muy fría), y algunos os preguntaréis, ¿por qué esto tiene que ser un problema para la salud?
 
-![meme partículas grasa](https://pau.ninja/wp-content/uploads/2022/10/meme-particulas-grasa.jpeg)
+![meme partículas grasa](./wp-content/uploads/2022/10meme-particulas-grasa.jpeg)
 
 Pues porque estas partículas de grasa que se han vuelto más pequeñas que Ant-man. Como son pequeñas cuando no lo tendrían que ser, ahora se te puedan filtrar por la línea del intestino mucho más fácilmente.
 
@@ -132,7 +115,7 @@ Nuestros abuelos y padres nos recuerdan cuándo pasaban por los pueblos a repart
 
 Pero el comercio de la leche cruda no es Mad Max.
 
-![meme leche cruda](https://pau.ninja/wp-content/uploads/2022/10/meme-leche-cruda.jpg)
+![meme leche cruda](./wp-content/uploads/2022/10meme-leche-cruda.jpg)
 
 Lo ideal sería poder comprar la leche cruda **directa** al ganadero. Porque cuando se vuelve tóxica es por la contaminación cruzada por mezclar varias fuentes.
 
@@ -154,7 +137,7 @@ No escucharás a nadie decir «oh prefiero la mantequilla del supermercado que l
 
 Pensad que la leche materna humana puede ir de de 0,04% a 1,6% en DHA. Lógicamente si eres madre, quieres estar en el rango de 1,6% para alimentar a tu recién nacido con el máximo de DHA, pero el contenido que tengas en tu leche **dependerá exclusivamente de la dieta**.
 
-Lo comento porque aunque la leche de vaca no contenga EPA o DHA, sí que contiene ácido linoleico conjugado y Ácido alfa-linolénico, lo que me va genial para ilustrar la variación y **cuanta diferencia hay** en el resultado final si tenemos en cuenta la **calidad de comida** que el mamífero está consumiendo. Va directamente a su leche materna. Es por esto que [seguir una dieta vegana durante el embarazo](https://pau.ninja/dieta-vegana-embarazo/) es de todo menos una buena idea… (#406).
+Lo comento porque aunque la leche de vaca no contenga EPA o DHA, sí que contiene ácido linoleico conjugado y Ácido alfa-linolénico, lo que me va genial para ilustrar la variación y **cuanta diferencia hay** en el resultado final si tenemos en cuenta la **calidad de comida** que el mamífero está consumiendo. Va directamente a su leche materna. Es por esto que [seguir una dieta vegana durante el embarazo](./dieta-vegana-embarazo) es de todo menos una buena idea… (#406).
 
 ### Vitaminas esenciales
 
@@ -230,7 +213,7 @@ Manganeso
 
 CLA, ALA
 
-Tened en cuenta que estos minerales **no están adjuntado** a sustancias negativas como el montón de [antinutrientes](https://pau.ninja/antinutrientes-lista/) que tienen los alimentos vegetales.
+Tened en cuenta que estos minerales **no están adjuntado** a sustancias negativas como el montón de [antinutrientes](./antinutrientes-lista) que tienen los alimentos vegetales.
 
 Los minerales están quelados. Quelados significan que están adjuntados a otra molécula. En el caso del magnesio o calcio en una comida vegetal, estarán vinculados/adjuntados a una molécula de ácido oxálico: **oxalatos**. Un antinutri3nte de mi3rda del que ya hablé extensamente (#277).
 
@@ -268,7 +251,7 @@ Este es el motivo porque los vegetarianos están mucho más sanos que los vegano
 
 Los veganos dirán si «pero la leche sólo tiene un 30% de vitamina A y el kale tiene un 130%…» sí, en el laboratorio sin duda.
 
-![meme kale vitamina a](https://pau.ninja/wp-content/uploads/2022/11/meme-kale-vitamina-a.jpeg)
+![meme kale vitamina a](./wp-content/uploads/2022/11meme-kale-vitamina-a.jpeg)
 
 Pero lo que hay en el kale **no es absorbido por tu cuerpo**, así que me da igual lo que salga en tu hoja de Excel si tu cuerpo no lo absorbe.
 
@@ -307,7 +290,7 @@ Cuando ven el césped por primera vez empiezan a saltar súper felices. Lo llama
 
 Los suizos del valle Lötschental, una de las últimas civilizaciones que aún podían vivir de la tierra, acostumbraba a encender velas cuando la mantequilla cambiaba de color en el pasto de verano.
 
-![valle suizo vacas](https://pau.ninja/wp-content/uploads/2022/11/valle-suizo-vacas.jpeg)
+![valle suizo vacas](./wp-content/uploads/2022/11valle-suizo-vacas.jpeg)
 
 Claro durante otoño e invierno la mantequilla empezaba a perder el color amarillo-naranja porque el césped contiene carotenoides. Cuando llega el invierno, pierde estos carotenoides y es cuando hacen subsistir las vacas con heno.
 
@@ -317,7 +300,7 @@ Estos suizos subsistieron durante mucho tiempo con una proporción de calorías 
 
 No sé si os acordáis de Heidi. Heidi, su abuelo y Pedro no podían comer algo más simple. Pan oscuro (porque era de centeno) con un montón de queso y leche.
 
-![heidi comiendo pan y queso](https://pau.ninja/wp-content/uploads/2022/11/heidi-comiendo-pan-y-queso.jpeg)
+![heidi comiendo pan y queso](./wp-content/uploads/2022/11heidi-comiendo-pan-y-queso.jpeg)
 
 A parte también consumían algo de carne, aunque mucho menos del rollo una vez a la semana porque utilizaban el ganado para producir lácteos, no carne. Pero su dieta se seguía basando en estos lácteos lo que significa que un 80% o más de calorías venían de productos animales.
 
@@ -327,7 +310,7 @@ También hay tribus indias que consumieron muchos productos lácteos en general.
 
 Y barriendo más hacia occidente tenemos en Cerdeña, Italia (Mediterraneo), antes de la época contemporánea consumían gran parte de sus calorías vía leche y quesos crudos.
 
-Y eso que Cerdeña es una de estas [zona azules](https://pau.ninja/zonas-azules-dieta-longevidad/) centenarias donde comúnmente se ha vivido pasando los 100 años. Tanto que se vende que lo que se tiene en común es el consumo de plantas esto es virtualmente mentira. Ahora quizás sí, pero desde siempre la gente de Cerdeña ha basado esas calorías en lácteos crudos de calidad.
+Y eso que Cerdeña es una de estas [zona azules](./zonas-azules-dieta-longevidad) centenarias donde comúnmente se ha vivido pasando los 100 años. Tanto que se vende que lo que se tiene en común es el consumo de plantas esto es virtualmente mentira. Ahora quizás sí, pero desde siempre la gente de Cerdeña ha basado esas calorías en lácteos crudos de calidad.
 
 ¿Qué tienen en común estos pueblos indígenas que consumían tantos lácteos? pues que no subsistieron únicamente de ellos. Incluyeron otros alimentos (animales mayoritariamente), pero de nuevo, **no hemos visto ninguna** tribu que basara su dieta exclusivamente en leche, queso o lácteos en general. O sea que sería una g1l1p0llez seguir una dieta de exclusivamente lácteos.
 
@@ -362,19 +345,19 @@ Esto hace que el queso que tiene mucha densidad nutricional sea accesible a much
 
 Por ejemplo si compramos Parmigiano Reggiano veremos que tiene inscrito en él mismo el nombre con puntos. Como el punzón que usaba yo en el parvulario.
 
-![certificado queso](https://pau.ninja/wp-content/uploads/2021/10/certificado-queso.jpeg)
+![certificado queso](./wp-content/uploads/2021/10certificado-queso.jpeg)
 
 Cuando tiene estos puntitos y también el sello de DOP (denominación de origen) es que se ha hecho de la forma tradicional. Esto nos asegura que se ha hecho con lecha cruda de vaca y de estándares de calidad en cuanto a densidad nutricional.
 
 Hay otros con sellos así que normalmente vienen de Italia y que es un buen indicador que incluso en los supermercados los podemos encontrar y tienen buena calidad.
 
-[![Grana Padano DOP - Kg. 4,6](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelV6SkpRM1JUYVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwNzQ2Ng=)](https://www.amazon.es/dp/B07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Grana Padano DOP - Kg. 4,6')
+[![Grana Padano DOP - Kg. 4,6](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelV6SkpRM1JUYVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDUxMQ=)](https://www.amazon.es/dpB07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Grana Padano DOP - Kg. 4,6")
 
-[Grana Padano DOP - Kg. 4,6](https://www.amazon.es/dp/B07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Grana Padano DOP - Kg. 4,6')
+[Grana Padano DOP - Kg. 4,6](https://www.amazon.es/dp/B07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Grana Padano DOP - Kg. 4,6")
 
 90,00 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Por ejemplo el Gran Padano que se puede comprar en Amazon y a mi personalmente se me pone mejor porque ha estado menos tiempo envejecido que el Parmigiano Reggiano, pero ambos tienen sellos de calidad y de uso de forma tradicional.
 
@@ -393,3 +376,93 @@ Ya sabéis que mi dieta se basa en grasas saturadas y va por estar o no saciado,
 Si quieres meter más calorías y no toleras bien la mantequilla o lácteos grasos puedes probar de comer **ghee**, que es mantequilla clarificada, muy popular en la cocina India. Cogen la mantequilla, la calientan y la proteína de la leche se separa y ya tienes pura grasa.
 
 Genial y sin lactosa… pero incluso algunas personas que tienen intolerancia tampoco pueden tolerar el ghee aunque técnicamente no tiene lactosa. Así que te tocará probar.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/es-bueno-beber-leche/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14111,"title":"6%20verdades%20OCULTAS%20sobre%20si%20es%20bueno%20tomar%20leche","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/10\\/bebiendo-leche-cruda.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

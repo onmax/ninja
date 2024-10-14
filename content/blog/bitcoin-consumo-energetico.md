@@ -1,13 +1,20 @@
 ---
-title: "La falacia del consumo de energía de Bitcoin Sí. Bitcoin gasta mucha energía... pero mira cómo la gasta"
+title: "La falacia del consumo de energía de Bitcoin"
+url: https://pau.ninja/bitcoin-consumo-energetico
+slug: bitcoin-consumo-energetico
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: bitcoin
+    label: Bitcoin
 image: granja-minado-bitcoin.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/05/granja-minado-bitcoin.jpeg
 published: 2022-05-25T08:23:52+00:00
 modified: 2024-02-11T06:33:40+00:00
+scrappedAt: 2024-10-14T09:20:39.268Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/56252104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-16%2F281126765-44100-2-a3f410de208af.mp3
-slug: bitcoin-consumo-energetico
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/56252104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-16%2F281126765-44100-2-a3f410de208af.mp3](https://anchor.fm/s/98566448/podcast/play/56252104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-16%2F281126765-44100-2-a3f410de208af.mp3)
 
 Tener oro en la caja fuerte parece tener sentido cuando no lo tienes que vender, pero cuando te toca usarlo de verdad… estás h0dido.
@@ -26,22 +33,6 @@ Bitcoin gasta mucha energía, pero también la gastan mis hombros cuando intento
 
 Y no vamos a ser hipócritas. Muchos de los que defienden el consumo de energía de Bitcoin con gráficos tampoco citan fuentes. A saber de dónde salen… por esto hoy vamos a ver otra de las **falacias** de Bitcoin: «lo malo que es para el Planeta».
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [¿Por qué el Bitcoin consume tanta energía?](#%C2%BFPor_que_el_Bitcoin_consume_tanta_energia '¿Por qué el Bitcoin consume tanta energía?')
-- [Criptomonedas que menos energía consumen](#Criptomonedas_que_menos_energia_consumen 'Criptomonedas que menos energía consumen')
-- [¿Cuánta energía consume minar bitcoins?](#%C2%BFCuanta_energia_consume_minar_bitcoins '¿Cuánta energía consume minar bitcoins?')
-  - [La necesidad de consumir tanta energía](#La_necesidad_de_consumir_tanta_energia 'La necesidad de consumir tanta energía')
-  - [La energía que NO consume](#La_energia_que_NO_consume 'La energía que NO consume')
-- [Comparación de energía entre sistemas monetarios](#Comparacion_de_energia_entre_sistemas_monetarios 'Comparación de energía entre sistemas monetarios')
-  - [Bitcoin VS bancos](#Bitcoin_VS_bancos 'Bitcoin VS bancos')
-  - [Bitcoin VS oro](#Bitcoin_VS_oro 'Bitcoin VS oro')
-- [Bitcoin VS medio ambiente](#Bitcoin_VS_medio_ambiente 'Bitcoin VS medio ambiente')
-  - [Bitcoin canaliza energía que no se utilizaría](#Bitcoin_canaliza_energia_que_no_se_utilizaria 'Bitcoin canaliza energía que no se utilizaría')
-  - [Bitcoin consume mucha energía](#Bitcoin_consume_mucha_energia 'Bitcoin consume mucha energía')
-
 ## ¿Por qué el Bitcoin consume tanta energía?
 
 Si tú y tu novia rompéis la relación, acabáis de llegar a un consenso. Tú y (ahora) tu ex, varias partes, habéis llegado a un acuerdo. En este caso es fácil porque la mayoría de votos estaba de acuerdo en lo que se exponía.
@@ -56,7 +47,7 @@ Los famosos «mineros» de Bitcoin van resolviendo puzzles encriptados y se les 
 
 Estos mineros resolviendo puzzles o cubos de rubik son una de las partes que mantienen el sistema a flote, pero en vez de tener trabajadores a sueldo que van picando con picos a las piedras como se hace en el oro, en Bitcoin la minería es digital. Tienes ahí montones de ordenadores mega potentes que van resolviendo estos puzzles criptográficos.
 
-![meme minado bitcoin](https://pau.ninja/wp-content/uploads/2022/05/meme-minado-bitcoin.jpeg)
+![meme minado bitcoin](./wp-content/uploads/2022/05meme-minado-bitcoin.jpeg)
 
 Para algunos la minería de Bitcoin es un negocio, claro imagínate a lo que equivalen recibir más de 6 bitcoins de recompensa… Por eso se crean granjas: naves industriales enteras con montones de ordenadores haciendo ruido resolviendo puzzles. Similares a los típicos centros de datos con servidores.
 
@@ -64,7 +55,7 @@ Como os podéis imaginar, una nave así chupa más energía que lo que mi ex chu
 
 Que Bitcoin consuma tanta energía es necesario para mantener la seguridad de la red evitando que haya actores con intenciones maléficas que puedan manipular los nodos.
 
-¿Recordáis los nodos? es el pilar más básico de cuando aprendimos [qué es Bitcoin de forma sencilla](https://pau.ninja/que-es-bitcoin-para-tontos/). Son los libros contables digitales que mantienen el Bitcoin funcionando. Un nodo es un ordenador tan básico que te puedes montar tu uno en casa y tiene un consumo básico mínimo.
+¿Recordáis los nodos? es el pilar más básico de cuando aprendimos [qué es Bitcoin de forma sencilla](./que-es-bitcoin-para-tontos). Son los libros contables digitales que mantienen el Bitcoin funcionando. Un nodo es un ordenador tan básico que te puedes montar tu uno en casa y tiene un consumo básico mínimo.
 
 - Los mineros gastan mucha energía pero mantienen la red segura.
 - Los nodos gastan poca energía y hacen hacen que Bitcoin exista.
@@ -80,13 +71,13 @@ Y es que se puede decir que hay otras maneras de llegar a un consenso que ademá
 - **PoS:** Proof of Stake que se traduce como «prueba de participación»
 - **PoA:** Proof of Authority que se traduce como «prueba de autoridad»
 
-Realmente la mayoría de criptomonedas adoptan uno de estos modelos de consenso porque se argumenta que son más sostenibles, más rápidos *blabla*…
+Realmente la mayoría de criptomonedas adoptan uno de estos modelos de consenso porque se argumenta que son más sostenibles, más rápidos _blabla_…
 
 Pero si Bitcoin está usando PoW es por un buen motivo: primar la seguridad y descentralización antes que otros factores.
 
 ¿Para que quieres criptos que consuman menos energía si están sacrificando funciones para venderte la historia de ser más sostenibles?
 
-Estos otros métodos de consenso tienen algunas desventajas que lo dejan en segundo lugar si [estamos hablando de las propiedades **reales** del dinero duro](https://pau.ninja/propiedades-del-dinero/), porque hay:
+Estos otros métodos de consenso tienen algunas desventajas que lo dejan en segundo lugar si [estamos hablando de las propiedades **reales** del dinero duro](./propiedades-del-dinero), porque hay:
 
 Inconvenientes
 
@@ -112,7 +103,7 @@ Según la Universidad de Cambridge Bitcoin consume ~114 GW anual que correspond
 
 En su web van publicando los datos estimados cada 24 horas, y dan un límite inferior teórico del consumo, un estimado y un límite superior.
 
-![histórico consumo energía bitcoin](https://pau.ninja/wp-content/uploads/2022/05/historico-consumo-energia-bitcoin.png)
+![histórico consumo energía bitcoin](./wp-content/uploads/2022/05historico-consumo-energia-bitcoin.png)
 
 Me parece una fuente fiable después de ver todos los artículos sensacionalistas sobre el consumo de Bitcoin. Igual que en la nutrición, Dependerá de a quien preguntes.
 
@@ -122,11 +113,11 @@ Quizás no sabremos nunca la cantidad exacta de energía que consume minar bitco
 
 ### La necesidad de consumir tanta energía
 
-Conocemos [la estafa del sistema monetario actual](https://pau.ninja/sistema-monetario-actual/) y por esto los _bitcoiners_ dicen eso de «fix de money, fix the world». Arregla el dinero y arreglarás el mundo.
+Conocemos [la estafa del sistema monetario actual](./sistema-monetario-actual) y por esto los _bitcoiners_ dicen eso de «fix de money, fix the world». Arregla el dinero y arreglarás el mundo.
 
 ¿Cuánta energía mundial estarías dispuesto a pagar para tener la mejor manera de conservar el tiempo que has usado en generar dinero trabajando? ¿cuánta energía mundial estarías dispuesto a pagar para que la devaluación e inflación no te fueran robando por culpa de la impresión de billetes?
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 No voy a intentar convenceros de cualquier coste de energía por muy contaminante que fuera valdría la pena. Ni mucho menos. De hecho nos vamos a encontrar que es todo lo contrario a lo que nos han estado criticando en las cenas de Navidad.
 
@@ -136,7 +127,7 @@ No voy a intentar convenceros de cualquier coste de energía por muy contaminant
 
 Muchos de los que atacan a la energía que consume minar Bitcoin hacen referencia al coste de energía por transacción, pero **no es la manera correcta** de calcular los costes de energía.
 
-¿Por qué? porque cada transacción dependerá únicamente del *hashrate* que son los cálculos por segundo que se pueden hacer.
+¿Por qué? porque cada transacción dependerá únicamente del _hashrate_ que son los cálculos por segundo que se pueden hacer.
 
 O sea que aquellas máquinas de minado que tengan mucha potencia de _hash_ son muy eficientes porque están procesando una cantidad enorme de datos en un solo segundo.
 
@@ -150,7 +141,7 @@ Vamos, que se escribe fuera de la cadena en una base de datos y después quedan 
 
 Pensad estos que utilizan gráficos y datos sin fuentes, o son inventados o se utilizan datos muy desactualizados de los inicios de Bitcoin, sin considerar que a medida que va pasando el tiempo, la minería es cada vez más y más [eficiente](https://coinshares.com/research/bitcoin-mining-network-2022).
 
-![eficiencia minado bitcoin](https://pau.ninja/wp-content/uploads/2022/05/eficiencia-minado-bitcoin.png)
+![eficiencia minado bitcoin](./wp-content/uploads/2022/05eficiencia-minado-bitcoin.png)
 
 Izquierda: eficiencia del hardware para gastar menos energía. Derecha: coste del hardware necesario para minar Bitcoin.
 
@@ -212,7 +203,7 @@ $4.500 millones
 
 ### Bitcoin VS oro
 
-Para una economía digital necesitamos una reserva de valor digital. Si [comparamos el oro VS bitcoin](https://pau.ninja/bitcoin-vs-oro/) como ya hice anteriormente, no cabe lugar a dudas.
+Para una economía digital necesitamos una reserva de valor digital. Si [comparamos el oro VS bitcoin](./bitcoin-vs-oro) como ya hice anteriormente, no cabe lugar a dudas.
 
 Oro
 
@@ -227,7 +218,7 @@ Bitcoin
 - Fácilmente divisible
 - Con un registro histórico de transacciones auditadas por miles de ordenadores a la vez en todo el mundo (los nodos)
 
-Sabéis que cuando se paró el mundo por ese «evento mundial», [compré oro](https://pau.ninja/donde-comprar-oro-fisico/). El caso es que fue una odisea intentar venderlo, y aunque al cabo de 2 años había subido de precio, me terminaron pagando la misma cantidad de dinero que había pagado para comprarlo.
+Sabéis que cuando se paró el mundo por ese «evento mundial», [compré oro](./donde-comprar-oro-fisico). El caso es que fue una odisea intentar venderlo, y aunque al cabo de 2 años había subido de precio, me terminaron pagando la misma cantidad de dinero que había pagado para comprarlo.
 
 No sólo es menos eficiente tener oro sino que además gasta mucho más, entonces ¿para qué lo queremos? recordad que Bitcoin incentiva a la energía limpia.
 
@@ -239,7 +230,7 @@ Porque un negocio no es sólo lo que generas, sino también la cantidad que gast
 
 Entonces es lógico que los mineros, estén **minando bitcoin ahí donde la electricidad sea más barata**. ¿Sabéis que energía es gratis? la de la naturaleza. Las energías renovables.
 
-![meme consumo energía bitcoin](https://pau.ninja/wp-content/uploads/2022/05/meme-consumo-energia-bitcoin.jpeg)
+![meme consumo energía bitcoin](./wp-content/uploads/2022/05meme-consumo-energia-bitcoin.jpeg)
 
 Ya sea energía geotérmica, hidráulica, solar o la que sea, claro que necesitas ciertos instrumentos para canalizarla. A no ser que seas yo con mi calva canalizando vitamina D.
 
@@ -252,13 +243,13 @@ Mirando los datos de CoinShare ellos [estimaron](https://coinshares.com/research
 - Cada vez es más el foco a las energías renovables para minar bitcoin, y a medida que pasa el tiempo el porcentaje sólo va en aumento.
 - El minado de Bitcoin utiliza energía que **de lo contrario se desperdiciaría**, lo que hace que mejore la propia economía de las energías renovables. Por ejemplo que se use más energía hidroeléctrica durante estaciones húmedas de ciertos países. Pensad por ejemplo que sólo el gas quemado en Texas podría ([hipotéticamente](https://www.cnbc.com/2021/10/09/war-to-attract-bitcoin-miners-pits-texas-against-new-york-kentucky.html)) nutrir más de un tercio de toda la red Bitcoin.
 
-Y este punto es el que me parece más importante. O sea, aunque la energía que se utiliza para minar bitcoins no se puede usar para otra cosa, el proceso de minado actúa como una reserva de valor. [Como un valor refugio](https://pau.ninja/valores-refugio/) de la energía.
+Y este punto es el que me parece más importante. O sea, aunque la energía que se utiliza para minar bitcoins no se puede usar para otra cosa, el proceso de minado actúa como una reserva de valor. [Como un valor refugio](./valores-refugio) de la energía.
 
 Estamos haciendo un dos por uno. Reserva de valor para nuestro tiempo que hemos usado trabajando para almacenarlo en bitcoin, y de paso almacenamos energía que se desperdiciaría.
 
 Eso se lo había escuchado decir a Michael Saylor hace un par de años y al principio no tenía mucha idea de a lo que se refería, pero tenía toda la razón del mundo.
 
-Algo que expliqué en el episodio sobre la [escala de Kardashov, los tipos de civilización](https://pau.ninja/escala-kardashov-civilizaciones/) (#142) avanzan según como pueda almacenar su energía.
+Algo que expliqué en el episodio sobre la [escala de Kardashov, los tipos de civilización](./escala-kardashov-civilizaciones) (#142) avanzan según como pueda almacenar su energía.
 
 > Bitcoin almacena energía para ser aprovechada por un sistema monetario descentralizado que no se pueda corromper. Si Bitcoin gasta mucha energía es porque lo necesitamos, pero es que aunque gaste mucho estamos aprovechando la energía que de lo contrario se desperdiciaría. Estamos almacenando energía en el tiempo y en el espacio.
 
@@ -303,3 +294,94 @@ Antes de que se prohibiera en China, la minería en Estados Unidos representaba 
 - En América del Norte ha habido un buen foco de las energías renovables desde la prohibición de China, más incluso que en toda [Asia-Pacífico](https://www.researchgate.net/publication/344626767_2020_CCAF_3rd_Global_Cryptoasset_Benchmarking_Study), lo que a nivel ambiental hasta fue algo positivo la medida anti-minería de los comunistas.
 
 El 62% de la energía renovable que se añadió el año pasado (que correspondería a 162 gigavatios) tuvo muchos menos gastos que el combustible fósil que si no [se hubiera utilizado](https://www.irena.org/newsroom/pressreleases/2021/Jun/Majority-of-New-Renewables-Undercut-Cheapest-Fossil-Fuel-on-Cost).
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Bitcoin](./bitcoin)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/bitcoin-consumo-energetico/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13598,"title":"5%20datos%20%2B%205%20argumentos%20del%20consumo%20energ%C3%A9tico%20de%20Bitcoin","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/05\\/granja-minado-bitcoin.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,14 +1,19 @@
 ---
-title: "Entrenar pesas en ayunas Eficiencia para estar bien mamado 🍼💪🏼"
+title: "Entrenar pesas en ayunas"
+url: https://pau.ninja/entrenar-pesas-en-ayunas
+slug: entrenar-pesas-en-ayunas
+categories: 
+- slug: fitness
+    label: Fitness
 image: hombre-entreno-ayunas.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/04/hombre-entreno-ayunas.jpg
 published: 2021-04-19T15:04:34+00:00
 modified: 2024-02-28T06:44:04+00:00
+scrappedAt: 2024-10-14T09:21:17.854Z
 audioLink: https://www.ivoox.com/entrenar-pesas-ayunas_md_69057724_wp_1.mp3
-slug: entrenar-pesas-en-ayunas
+bibliography: []
 ---
-
-[https://www.ivoox.com/entrenar-pesas-ayunas_md_69057724_wp_1.mp3](https://www.ivoox.com/entrenar-pesas-ayunas_md_69057724_wp_1.mp3)
+[https://www.ivoox.com/entrenar-pesas-ayunas\_md\_69057724\_wp\_1.mp3](https://www.ivoox.com/entrenar-pesas-ayunas_md_69057724_wp_1.mp3)
 
 No hace mucho os comentaba mis experiencias con el ayuno intermitente. Ya sabéis que en internet hay que creerse todas las anécdotas de los que escriben como si fueran verdades irrefutables…
 
@@ -23,34 +28,9 @@ Me lo dejé por hoy porque hay **mucho mito y mentira** sobre el tema. Afirmacio
 
 Si estar en ayunas se promueve esta activación de grasas… en teoría, tendría sentido hacer un entrenamiento en ayunas, ¿no? pero ¿qué pasa si quiero ganar volumen, hipertrofia muscular? entonces, ¿me voy deshinchando? ¿es sólo para los que quieren adelgazar?
 
-No es fácil estar buenorro (y saludable) pero recordemos que el objetivo final es [ganar en flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/) (#172) para que nuestro cuerpo sea cada vez más eficiente en crear músculo y quemar grasa.
+No es fácil estar buenorro (y saludable) pero recordemos que el objetivo final es [ganar en flexibilidad metabólica](./flexibilidad-metabolica) (#172) para que nuestro cuerpo sea cada vez más eficiente en crear músculo y quemar grasa.
 
 Hoy entramos en las arenas movedizas del papel que juega entrenar **en ayunas**, pesas o cardio en la ecuación de la recomposición corporal.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Mitos de entrenar en ayunas](#Mitos_de_entrenar_en_ayunas 'Mitos de entrenar en ayunas')
-  - [Pérdida de músculo en ayunas](#Perdida_de_musculo_en_ayunas 'Pérdida de músculo en ayunas')
-  - [Se quema músculo en vez de grasas](#Se_quema_musculo_en_vez_de_grasas 'Se quema músculo en vez de grasas')
-  - [El glucógeno se vacía](#El_glucogeno_se_vacia 'El glucógeno se vacía')
-  - [El ayuno no elimina la grasa localizada](#El_ayuno_no_elimina_la_grasa_localizada 'El ayuno no elimina la grasa localizada')
-  - [El cuerpo se "acostumbra" a quemar grasas](#El_cuerpo_se_%22acostumbra%22_a_quemar_grasas 'El cuerpo se "acostumbra" a quemar grasas')
-- [Beneficios de entrenar en ayunas](#Beneficios_de_entrenar_en_ayunas 'Beneficios de entrenar en ayunas')
-  - [Por la claridad mental](#Por_la_claridad_mental 'Por la claridad mental')
-  - [Incremento de AMP cíclico y AMPK](#Incremento_de_AMP_ciclico_y_AMPK 'Incremento de AMP cíclico y AMPK')
-- [Maneras de entrenar en ayunas](#Maneras_de_entrenar_en_ayunas 'Maneras de entrenar en ayunas')
-  - [🏃🏻‍♂️ Cardio en ayunas](#%F0%9F%8F%83%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F_Cardio_en_ayunas '🏃🏻‍♂️ Cardio en ayunas')
-  - [🏋🏻‍♂️ Pesas en ayunas](#%F0%9F%8F%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F_Pesas_en_ayunas '🏋🏻‍♂️ Pesas en ayunas')
-- [Ganar músculo con ayuno intermitente](#Ganar_musculo_con_ayuno_intermitente 'Ganar músculo con ayuno intermitente')
-  - [Hormona del crecimiento](#Hormona_del_crecimiento 'Hormona del crecimiento')
-  - [mTOR](#mTOR 'mTOR')
-  - [El batido de proteínas en el ayuno intermitente](#El_batido_de_proteinas_en_el_ayuno_intermitente 'El batido de proteínas en el ayuno intermitente')
-  - [Hipertrofia en ayuno intermitente](#Hipertrofia_en_ayuno_intermitente 'Hipertrofia en ayuno intermitente')
-  - [Entrenar sin desayunar](#Entrenar_sin_desayunar 'Entrenar sin desayunar')
-  - [Protocolo LeanGains de 16/8](#Protocolo_LeanGains_de_168 'Protocolo LeanGains de 16/8')
-- [¿Entrenar musculación en ayunas o no?](#%C2%BFEntrenar_musculacion_en_ayunas_o_no '¿Entrenar musculación en ayunas o no?')
 
 ## Mitos de entrenar en ayunas
 
@@ -64,13 +44,13 @@ Por mucho que hayamos visto en documentales de culturistas que hay que comer cad
 
 #### Hormona del crecimiento
 
-Para empezar estar en ayunas ha demostrado que incrementa (de manera substancial) la hormona del crecimiento y resulta que la hormona del crecimiento decrece (irónicamente) la «decomposición» de los aminoácidos por energía[1](<javascript:void(0)>)Forbes SC, Harber V, Bell GJ. Oral L-arginine before resistance exercise blunts growth hormone in strength trained males. Int J Sport Nutr Exerc Metab. 2014 Apr;24(2):236-44. doi: 10.1123/ijsnem.2013-0106. Epub 2013 Nov 13. PMID: 24225560.[2](<javascript:void(0)>)Collier SR, Collins E, Kanaley JA. Oral arginine attenuates the growth hormone response to resistance exercise. J Appl Physiol (1985). 2006 Sep;101(3):848-52. doi: 10.1152/japplphysiol.00285.2006. Epub 2006 Jun 1. PMID: 16741262..
+Para empezar estar en ayunas ha demostrado que incrementa (de manera substancial) la hormona del crecimiento y resulta que la hormona del crecimiento decrece (irónicamente) la «decomposición» de los aminoácidos por energía[ref-1](#ref-1){.ref}Forbes SC, Harber V, Bell GJ. Oral L-arginine before resistance exercise blunts growth hormone in strength trained males. Int J Sport Nutr Exerc Metab. 2014 Apr;24(2):236-44. doi: 10.1123/ijsnem.2013-0106. Epub 2013 Nov 13. PMID: 24225560.[ref-2](#ref-2){.ref}Collier SR, Collins E, Kanaley JA. Oral arginine attenuates the growth hormone response to resistance exercise. J Appl Physiol (1985). 2006 Sep;101(3):848-52. doi: 10.1152/japplphysiol.00285.2006. Epub 2006 Jun 1. PMID: 16741262..
 
 Es por esto que algunos culturistas que se pinchan tanta hormona del crecimiento terminan creciendo algunos centímetros extra de altura en la adultez.
 
 Claro, a ellos **no** les interesa la activación de esta hormona en ayunas porque ya se la pinchan externamente.
 
-![](https://pau.ninja/wp-content/uploads/2021/04/hombre-hormona-crecimiento.jpeg)
+![](./wp-content/uploads/2021/04hombre-hormona-crecimiento.jpeg)
 
 Foto: el secreto para tener unos pezones bien grandes. El recorrido de la GH desde la glándula pituitaria.
 
@@ -86,7 +66,7 @@ Y me preguntaréis: ¿qué es esto que tiene nombre de criptomoneda?
 
 Pues es un cuerpo cetogénico. Que no es un cuerpo en forma de seta, pero eso que crea nuestro hígado cuando empieza a utilizar nuestras reservas de grasa como fuente de energía.
 
-Pues esta querida [BHB](https://es.wikipedia.org/wiki/%C3%81cido_betahidroxibut%C3%ADrico) ha demostrado [promover la síntesis proteica](https://pau.ninja/sintesis-proteica-muscular/) en humanos y bajar la **oxidación** de la leucina. Un aminoacido esencial…
+Pues esta querida [BHB](https://es.wikipedia.org/wiki/%C3%81cido_betahidroxibut%C3%ADrico) ha demostrado [promover la síntesis proteica](./sintesis-proteica-muscular) en humanos y bajar la **oxidación** de la leucina. Un aminoacido esencial…
 
 Esencial para construir músculo, porque si tenemos la suerte de tener Leucina en la ecuación, significa que nuestros músculos se están preservando. Como los políticos españoles aferrándose a la silla, al poder.
 
@@ -96,13 +76,13 @@ Normal que el suplemento de Leucina sea de los más populares que se compran en 
 
 Bestseller No. 1
 
-[![L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSFNYUXhiMHBpVUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5ODYwMw=)](https://www.amazon.es/dp/B09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn 'L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...')
+[![L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSFNYUXhiMHBpVUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MjYzNQ=)](https://www.amazon.es/dpB09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn "L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...")
 
-[L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...](https://www.amazon.es/dp/B09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn 'L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...')
+[L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...](https://www.amazon.es/dp/B09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn "L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...")
 
 14,90 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn "Comprar en Amazon")
 
 Si la Leucina se está oxidando entonces **sí** estamos degradando músculo. Por esto, nos interesa tener este cuerpo cetónico con nombre de cripto (BHB). Porque **baja los niveles** de oxidación de Leucina y por lo tanto, ayuda a que preservemos el músculo que nos ha llevado tantos entrenos de conseguir.
 
@@ -117,11 +97,11 @@ Vemos que con la hormona del crecimiento y BHB el músculo se preserva, pero en
 
 Pues resulta que **no** es verdad. Es otra de esas falacias nutricionales.
 
-El Journal of Physiology se metieron de calle dentro de este debate[3](<javascript:void(0)>)Stannard SR, Thompson MW, Fairbairn K, Huard B, Sachinwalla T, Thompson CH. Fasting for 72 h increases intramyocellular lipid content in nondiabetic, physically fit men. Am J Physiol Endocrinol Metab. 2002 Dec;283(6):E1185-91. doi: 10.1152/ajpendo.00108.2002. Epub 2002 Jul 30. PMID: 12388154.. Seguramente esos científicos miraron algunas páginas de Reddit o de Twitter y dijeron «qué m\*erda están diciendo estos trolls, tenemos que demostrar lo contrario».
+El Journal of Physiology se metieron de calle dentro de este debate[ref-3](#ref-3){.ref}Stannard SR, Thompson MW, Fairbairn K, Huard B, Sachinwalla T, Thompson CH. Fasting for 72 h increases intramyocellular lipid content in nondiabetic, physically fit men. Am J Physiol Endocrinol Metab. 2002 Dec;283(6):E1185-91. doi: 10.1152/ajpendo.00108.2002. Epub 2002 Jul 30. PMID: 12388154.. Seguramente esos científicos miraron algunas páginas de Reddit o de Twitter y dijeron «qué m\*erda están diciendo estos trolls, tenemos que demostrar lo contrario».
 
 Lo que miraron fueron los lípidos intra_mio_celulares que vendrían a ser trocitos diminutos de grasas dentro de nuestros músculos.
 
-![grasas intramiocelulares](https://pau.ninja/wp-content/uploads/2021/04/grasas-intramiocelulares.png)
+![grasas intramiocelulares](./wp-content/uploads/2021/04grasas-intramiocelulares.png)
 
 Estos trocitos no están allí porque sí. Como si fueran mis hermanas en casa mis padres. No. En este caso, estos pequeños trozos de grasas si hacen cosas.
 
@@ -151,7 +131,7 @@ Quemamos estos pedacitos de grasa dentro de los músculos ,se trasladan a la sa
 
 Esto significa que ahora nuestro querido cuerpo, querrá hacer de nosotros mismos una estatua griega y cogerá grasa de otras partes de nuestro cuerpo donde nos sobre… y los llevará dentro del músculo para restaurarlos.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/09/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/09comic-masa-muscular.png)
 
 Pero además, lo que el estudio también descubrió es que aquellos que habían estado ayunando fueron capaces de rellenar sus reservas de glucógeno **tres veces más rápido** que los que había entrenado cargados de carbohidratos hasta las cejas (para mi 150gr ya son muchos).
 
@@ -167,13 +147,13 @@ Y hablando de «todo Dios», he visto mucho youtuber que dice que eliminar la gr
 
 Tal vez tengan razón en cuanto a ponerte una faja de plástico durante horas, o ponerte un cinturón que tiembla del teletienda.
 
-![cinturón abdominal](https://pau.ninja/wp-content/uploads/2021/04/cinturon-abdominal.jpeg)
+![cinturón abdominal](./wp-content/uploads/2021/04cinturon-abdominal.jpeg)
 
 Foto: tan fácil como ponértelo encima y empezar a ver como bajan tus niveles de autorespeto.
 
 Pero los Daneses quisieron meter el dedo en la llaga como un PCR de bichito: lo más adentro posible.
 
-Este estudio en Dinamarca vio que cuando estamos en ayunas tenemos más flujo de sangre en la sección abdominal[4](<javascript:void(0)>)Gjedsted J, Gormsen LC, Nielsen S, Schmitz O, Djurhuus CB, Keiding S, Ørskov H, Tønnesen E, Møller N. Effects of a 3-day fast on regional lipid and glucose metabolism in human skeletal muscle and adipose tissue. Acta Physiol (Oxf). 2007 Nov;191(3):205-16. doi: 10.1111/j.1748-1716.2007.01740.x. Epub 2007 Sep 3. PMID: 17784905., lo que se traduce en una **reducción más grande de cartucheras**. De la manteca en el centro de gravedad de nuestro cuerpo que tanto odiamos.
+Este estudio en Dinamarca vio que cuando estamos en ayunas tenemos más flujo de sangre en la sección abdominal[ref-4](#ref-4){.ref}Gjedsted J, Gormsen LC, Nielsen S, Schmitz O, Djurhuus CB, Keiding S, Ørskov H, Tønnesen E, Møller N. Effects of a 3-day fast on regional lipid and glucose metabolism in human skeletal muscle and adipose tissue. Acta Physiol (Oxf). 2007 Nov;191(3):205-16. doi: 10.1111/j.1748-1716.2007.01740.x. Epub 2007 Sep 3. PMID: 17784905., lo que se traduce en una **reducción más grande de cartucheras**. De la manteca en el centro de gravedad de nuestro cuerpo que tanto odiamos.
 
 Por lo que entiendo, aunque he visto montones de contenidos diciendo que **no** se puede reducir la grasa localizada… este estudio tan loco demostraría que **sí**, se puede eliminar la grasa localizada… siempre y cuando la localización de la grasa que queremos matar sea en la zona abdominal.
 
@@ -191,7 +171,7 @@ Digamos que estas franquicias no son otra cosa que estaciones para quemar grasas
 
 De cierta manera esta enzima es como Amancio Ortega. El hombre más rico de España que se ha forrado creando tiendas Zara por todo el mundo.
 
-![con ropa gano mucho](https://pau.ninja/wp-content/uploads/2021/04/con-ropa-gano-mucho.jpeg)
+![con ropa gano mucho](./wp-content/uploads/2021/04con-ropa-gano-mucho.jpeg)
 
 Pero en vez de abrir Zara’s lo que hacemos es abrir estaciones de quemas de grasas.
 
@@ -221,7 +201,7 @@ Para cazarla o recolectarla.
 
 Es por esto que durante los ayunos una de las ventajas es esa claridad mental que muchos tenemos y que en mi caso utilizo para centrarme en mi trabajo. Por ejemplo en preparar contenido como este en cafeterías o a administrar negocios.
 
-![ayuno con café](https://pau.ninja/wp-content/uploads/2021/04/ayuno-con-cafe.jpg)
+![ayuno con café](./wp-content/uploads/2021/04ayuno-con-cafe.jpg)
 
 Foto: con cara de bien sobado pero muy despierto mentalmente… como cada mañana.
 
@@ -253,27 +233,27 @@ Pues para estimular más quema de grasas. Como no…
 
 «Muy bonito Pau, ¿pero es bueno entrenar en ayunas o mejor comer algo antes?»
 
-Odio la palabra «depende» como respuesta, pero os la sirvo en bandeja y con un plato de pasta al dente como [cuando hacemos el ciclado de carbohidratos](https://pau.ninja/ciclado-de-carbohidratos/).
+Odio la palabra «depende» como respuesta, pero os la sirvo en bandeja y con un plato de pasta al dente como [cuando hacemos el ciclado de carbohidratos](./ciclado-de-carbohidratos).
 
 Mirad. Sabemos que la respuesta del cuerpo en ayunas será diferente con entrenamientos aeróbicos y los anaeróbicos.
 
 ### 🏃🏻‍♂️ Cardio en ayunas
 
-He visto alguna web y vídeos de referentes del sector como la de PowerExplosive en la que citan varios estudios que asegura que **no** hay más perdida de grasas **extra** corriendo en ayunas a largo plazo, que los que lo hacen sin estar en ayunas[5](<javascript:void(0)>)Febbraio MA, Chiu A, Angus DJ, Arkinstall MJ, Hawley JA. Effects of carbohydrate ingestion before and during exercise on glucose kinetics and performance. J Appl Physiol (1985). 2000 Dec;89(6):2220-6. doi: 10.1152/jappl.2000.89.6.2220. PMID: 11090571..
+He visto alguna web y vídeos de referentes del sector como la de PowerExplosive en la que citan varios estudios que asegura que **no** hay más perdida de grasas **extra** corriendo en ayunas a largo plazo, que los que lo hacen sin estar en ayunas[ref-5](#ref-5){.ref}Febbraio MA, Chiu A, Angus DJ, Arkinstall MJ, Hawley JA. Effects of carbohydrate ingestion before and during exercise on glucose kinetics and performance. J Appl Physiol (1985). 2000 Dec;89(6):2220-6. doi: 10.1152/jappl.2000.89.6.2220. PMID: 11090571..
 
 Pero fijaros que son estudios que hacen referencia a individuos con dietas **estándares**. No a individuos en cetosis o que llevan varias semanas en cetosis como los estudios que he citado yo, que es lo que me interesa a mí por estar adaptándome a las grasas como fuente de energía principal.
 
 Recordad: cetosis significa que nuestro cuerpo utiliza grasas como combustible principal. Yo utilizo un medidor en sangre, sobretodo las primeras semanas para controlar esto un poco.
 
-[![Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFdGJIRXlSbWRSVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5ODYwMw=)](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...')
+[![Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFdGJIRXlSbWRSVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MjYzNQ=)](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOLL),...")
 
-[Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...')
+[Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...")
 
 Este es el que tengo yo.
 
-75,00 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+75,00 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 También recordar que estando en cetosis, se aumenta mucho más la producción de estos pequeñajos que hacen de sustituto de los carbohidratos, cuando ayunamos y lo combinamos con una dieta ceto: de alta en grasas y bajísima en carbohidratos.
 
@@ -301,11 +281,11 @@ O bueno, en nuestro caso… posar delante del espejo. Pero el trasfondo es sobre
 
 ## Ganar músculo con ayuno intermitente
 
-O sea a la pregunta de, ¿se puede ganar músculo estando en ayunas? la respuesta es que sí. Siempre que estemos en superhábitat calórico, claro. Es decir, si [con un dieta de 2.500 calorías cómo la mía](https://pau.ninja/dieta-2500-calorias-volumen/) nos mantenemos de peso, si le metemos 2.700kcal entonces esto ya sería un superhábitat.
+O sea a la pregunta de, ¿se puede ganar músculo estando en ayunas? la respuesta es que sí. Siempre que estemos en superhábitat calórico, claro. Es decir, si [con un dieta de 2.500 calorías cómo la mía](./dieta-2500-calorias-volumen) nos mantenemos de peso, si le metemos 2.700kcal entonces esto ya sería un superhábitat.
 
 Empezamos recordando que cuando estamos en ayunas tenemos un incremento en cetonas, que (de nuevo) son esos cuerpos que generamos quemando grasas cuando no hay suficiente glucógeno.
 
-![análisis cetonas sangre](https://pau.ninja/wp-content/uploads/2021/04/analisis-cetonas-sangre.jpeg)
+![análisis cetonas sangre](./wp-content/uploads/2021/04analisis-cetonas-sangre.jpeg)
 
 Foto: yo usando [mi medidor](#%F0%9F%8F%83%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F_Cardio_en_ayunas) con un 1.6 de cetonas en sangre justo antes de romper un ayuno de 16 horas.
 
@@ -315,7 +295,7 @@ También hemos tocado que hay hormona del crecimiento, pero fijaros lo relevante
 
 ### Hormona del crecimiento
 
-Un estudio analizó[6](<javascript:void(0)>)Godfrey RJ, Whyte GP, Buckley J, Quinlivan R. The role of lactate in the exercise-induced human growth hormone response: evidence from McArdle disease. Br J Sports Med. 2009 Jul;43(7):521-5. doi: 10.1136/bjsm.2007.041970. Epub 2008 Jan 9. PMID: 18184755. a personas que ayunaron entre 20-24 horas (que no son pocas) y vieron un incremento de **entre 1.300-2.000%** en la hormona del crecimiento.
+Un estudio analizó[ref-6](#ref-6){.ref}Godfrey RJ, Whyte GP, Buckley J, Quinlivan R. The role of lactate in the exercise-induced human growth hormone response: evidence from McArdle disease. Br J Sports Med. 2009 Jul;43(7):521-5. doi: 10.1136/bjsm.2007.041970. Epub 2008 Jan 9. PMID: 18184755. a personas que ayunaron entre 20-24 horas (que no son pocas) y vieron un incremento de **entre 1.300-2.000%** en la hormona del crecimiento.
 
 Una maldita locura, porque es que la hormona del crecimiento es **brutal** para crecer en cuanto a masa muscular.
 
@@ -323,9 +303,9 @@ Pero claro, esto **sólo** con ayunar.
 
 Cuando levantamos hierros se eleva el ácido láctico. Eso que nos quema en el músculo (otra forma de estrés, al fin y al cabo) y que al día siguiente se transforma en agujetas.
 
-![usando straps](https://pau.ninja/wp-content/uploads/2021/03/usando-straps.jpg)
+![usando straps](./wp-content/uploads/2021/03usando-straps.jpg)
 
-Foto: yo [entrenando en mi gimnasio casero](https://pau.ninja/montar-gimnasio-en-casa/). Indispensables los straps. Cada maldito entreno de piernas tengo agujetas con ese maldito ácido láctico.
+Foto: yo [entrenando en mi gimnasio casero](./montar-gimnasio-en-casa). Indispensables los straps. Cada maldito entreno de piernas tengo agujetas con ese maldito ácido láctico.
 
 En el cardio esto **no** sucede porque en el ejercicio aeróbico **no** hay tanta intensidad como en el ejercicio anaeróbico.
 
@@ -343,11 +323,11 @@ No se trata del superhéroe Thor pensando: mhmmmTOR.
 
 Es una proteína que activa la creación de músculo a parte de otras funciones de la que ya hablé más a fondo cuando hablamos de la proliferación celular en longevidad.
 
-Pues un estudio analizo a mTOR y vieron que se eleva durante unas 24 horas desde que tocamos una pesa aunque estemos en ayunas[7](<javascript:void(0)>)Norrelund H, Nair KS, Jorgensen JO, Christiansen JS, Moller N (2001) The protein-retaining effects of growth hormone during fasting involve inhibition of muscle-protein breakdown. Diabetes 50: 96–104..
+Pues un estudio analizo a mTOR y vieron que se eleva durante unas 24 horas desde que tocamos una pesa aunque estemos en ayunas[ref-7](#ref-7){.ref}Norrelund H, Nair KS, Jorgensen JO, Christiansen JS, Moller N (2001) The protein-retaining effects of growth hormone during fasting involve inhibition of muscle-protein breakdown. Diabetes 50: 96–104..
 
 ¿Lo queremos? ¿Queremos mTOR en nuestro cuerpo? porque mTOR crea músculo pero **decrece** longevidad. Pues tengo buenas noticias porque de alguna manera se obtiene lo mejor de mTOR cuando entrenamos en ayunas con pesas.
 
-![célula anabólica](https://pau.ninja/wp-content/uploads/2020/11/celula-anabolica.jpg)
+![célula anabólica](./wp-content/uploads/2020/11celula-anabolica.jpg)
 
 Este estudio lo que veía es que con mTOR las células musculares, de alguna manera pueden actuar con cierta **independencia** aunque las otras células del cuerpo se estén canibalizando y comiendo para reciclarse. La autofagia.
 
@@ -367,7 +347,7 @@ Supongo que quien siempre ha dicho esto han sido las empresas de suplementos.
 
 Realmente este estudio nos mostraba que la rotura de proteínas llegó a su punto más alto, no durante el entreno o justo después, pero a unas **3 horas y media**.
 
-Y lo que es aún más revelador[8](<javascript:void(0)>)Tipton KD, Hamilton DL, Gallagher IJ. Assessing the Role of Muscle Protein Breakdown in Response to Nutrition and Exercise in Humans. Sports Med. 2018 Mar;48(Suppl 1):53-64. doi: 10.1007/s40279-017-0845-5. PMID: 29368185; PMCID: PMC5790854. es que incluso la síntesis de proteínas, el proceso por el que todo culturista sueña para ganar músculo, **también** llegó a su momento más alto a las 3 horas y media después de entrenar.
+Y lo que es aún más revelador[ref-8](#ref-8){.ref}Tipton KD, Hamilton DL, Gallagher IJ. Assessing the Role of Muscle Protein Breakdown in Response to Nutrition and Exercise in Humans. Sports Med. 2018 Mar;48(Suppl 1):53-64. doi: 10.1007/s40279-017-0845-5. PMID: 29368185; PMCID: PMC5790854. es que incluso la síntesis de proteínas, el proceso por el que todo culturista sueña para ganar músculo, **también** llegó a su momento más alto a las 3 horas y media después de entrenar.
 
 - De hecho la rotura de proteínas incrementó en un 17%
 - Y a su vez la síntesis subió un 21%
@@ -382,7 +362,7 @@ Así que mientras estemos consumiendo suficiente proteína cuando estamos comien
 
 ### Hipertrofia en ayuno intermitente
 
-El resumen es que podemos entrenar durante el ayuno, o después de romperlo, pero a nivel de ciencia si queremos un poco más de [recomposición corporal](https://pau.ninja/recomposicion-corporal/) (#107) tiene sentido levantar pesas **mientras estamos ayunando**.
+El resumen es que podemos entrenar durante el ayuno, o después de romperlo, pero a nivel de ciencia si queremos un poco más de [recomposición corporal](./recomposicion-corporal) (#107) tiene sentido levantar pesas **mientras estamos ayunando**.
 
 Y digo «mientras» porque podemos entrenar pesas antes de romper el ayuno pero tendría incluso más sentido, entrenar y **esperar** algunas horas antes de romper el ayuno y meternos ahí las calorías. A nivel hormonal todo sería más armonioso así. Es decir:
 
@@ -401,11 +381,11 @@ Cuando estamos entrenando claro que quemamos algo de músculo, pero no es algo p
 
 Además que llegados a este punto estamos usando grasas como fuente principal de combustible si estamos haciendo un ayuno relativamente importante, de 16 horas o más.
 
-Y sobretodo si tenemos [un metabolismo flexible](https://pau.ninja/flexibilidad-metabolica/) el cuerpo no tendrá problema en usar todo el combustible como toca. Pensemos otra vez con sentido común:
+Y sobretodo si tenemos [un metabolismo flexible](./flexibilidad-metabolica) el cuerpo no tendrá problema en usar todo el combustible como toca. Pensemos otra vez con sentido común:
 
 > ¿Por qué nuestro cuerpo querría usar músculo como energía si tiene grasas de sobra que es mucho más densa calóricamente?
 
-Con todo esto vemos que sí se puede hipertrofiar y ganar volumen en ayuno intermitente. ¿Cómo? bueno el primer paso será tener un buen plan de [entrenamiento para aumentar volumen, masa muscular](https://pau.ninja/entrenamiento-ganar-masa-muscular/) (#117), un buen descanso y la nutrición acorde con el objetivo, pero sí.
+Con todo esto vemos que sí se puede hipertrofiar y ganar volumen en ayuno intermitente. ¿Cómo? bueno el primer paso será tener un buen plan de [entrenamiento para aumentar volumen, masa muscular](./entrenamiento-ganar-masa-muscular) (#117), un buen descanso y la nutrición acorde con el objetivo, pero sí.
 
 Entrenar en ayunas puede ser un buen acompañamiento por todo lo que hemos visto.
 
@@ -423,13 +403,13 @@ Ahora ya sabemos que esto es beneficioso porque entonces la síntesis proteica, 
 
 Para aquel entonces LeanGains era «broscience» sin mucha base científica, sólo un poco de sentido común, pero ya se ha respaldado con estudios y ciencia en el libro que publicó su autor.
 
-[![The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaVoyczBRMWhsTUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5ODYwMw=)](https://www.amazon.es/dp/B07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)')
+[![The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaVoyczBRMWhsTUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MjYzNQ=)](https://www.amazon.es/dpB07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)")
 
-[The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)](https://www.amazon.es/dp/B07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)')
+[The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)](https://www.amazon.es/dp/B07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)")
 
 8,53 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 [LeanGains](https://barbend.com/leangains/) traducido significa «ganancias magras», y el protocolo es básicamente un ayuno de 16 horas y después comer 8 horas. Es decir: un ayuno intermitente de 16/8 que se ha glorificado un poco demasiado y se le ha dado un nombre chulo.
 
@@ -442,3 +422,93 @@ Yo personalmente estoy haciendo sólo una comida al día.
 Entreno **en ayunas**, lo cual tardé un tiempo en acostumbrarme pero me he estado sintiendo con más energía que nunca. Tanto a nivel físico como cognitivo.
 
 Cuando rompo el ayuno, al seguir la dieta carnívora de sólo carne, lo rompo con +2.500kcal sobre las 5 de la tarde y no tengo hambre hasta el día siguiente a la misma hora porque es muy nutricionalmente densa.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Fitness](./fitness)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/entrenar-pesas-en-ayunas/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":11555,"title":"5%20mitos%20%2B%206%20consejos%20de%20ENTRENAR%20en%20ayunas%20%E3%80%90Ciencia%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/04\\/hombre-entreno-ayunas.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,44 +1,49 @@
 ---
-title: "EMOM el método (infravalorado) más eficiente de fuerza + resistencia"
+title: "EMOM"
+url: https://pau.ninja/emom-que-es
+slug: emom-que-es
+categories: 
+- slug: fitness
+    label: Fitness
 image: persona-usando-entrenamiento-emom.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/12/persona-usando-entrenamiento-emom.jpeg
 published: 2023-12-20T11:31:44+00:00
 modified: 2024-05-21T19:49:11+00:00
+scrappedAt: 2024-10-14T09:19:44.113Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83747872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-8%2F370183974-44100-2-b3652d65b0bcb.mp3
-slug: emom-que-es
+bibliography: ["Parolin ML, Chesley A, Matsos MP, Spriet LL, Jones NL, Heigenhauser GJ. Regulation of skeletal muscle glycogen phosphorylase and PDH during maximal intermittent exercise. Am J Physiol. 1999 Nov;277(5):E890-900. doi: 10.1152/ajpendo.1999.277.5.E890. PMID: 10567017.","ESCUELA TÉCNICA SUPERIOR de INGENIEROS INDUSTRIALES Y de TELECOMUNICACIÓN. 2023. Accessed November 29.","Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.","Tufano JJ, Halaj M, Kampmiller T, Novosad A, Buzgo G. Cluster sets vs. traditional sets: Levelling out the playing field using a power-based threshold. PLoS One. 2018 Nov 26;13(11):e0208035. doi: 10.1371/journal.pone.0208035. PMID: 30475910; PMCID: PMC6257924.","Newton RU, Kraemer WJ. Developing explosive muscular power: implications for a mixed methods training strategy. Strength Cond J. 1994;16(5):20–31.","Paddon-Jones D, Leveritt M, Lonergan A, Abernethy P. Adaptation to chronic eccentric exercise in humans: the influence of contraction velocity. Eur J Appl Physiol, 2001 Sep;85(5):466-71.","Powers SK, Ji LL, Kavazis AN, Jackson MJ. Reactive oxygen species: impact on skeletal muscle. Compr Physiol. 2011 Apr;1(2):941-69. doi: 10.1002/cphy.c100054. PMID: 23737208; PMCID: PMC3893116.","McDougle JM, Mangine GT, Townsend JR, Jajtner AR, Feito Y. Acute physiological outcomes of high-intensity functional training: a scoping review. PeerJ. 2023 Jan 3;11:e14493. doi: 10.7717/peerj.14493. PMID: 36620744; PMCID: PMC9817969.","Izquierdo, Mikel & Ibáñez, Javier & González-Badillo, Juan & Häkkinen, Keijo & Ratamess, Nicholas & Kraemer, William & French, Duncan & Eslava, Jesus & Altadill, Aritz & Asiain, Xabier & Gorostiaga, Esteban. (2006). Differential effects of strength training leading to failure versus not to failure on hormonal responses, strength, and muscle power gains. Journal of applied physiology (Bethesda, Md. : 1985). 100. 1647-56. 10.1152/japplphysiol.01400.2005."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/83747872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-8%2F370183974-44100-2-b3652d65b0bcb.mp3](https://anchor.fm/s/98566448/podcast/play/83747872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-8%2F370183974-44100-2-b3652d65b0bcb.mp3)
 
 Hace un par de años en el gimnasio de Estonia empecé a ver a una chica jovencita en la zona de calistenia.
 
-Cada día hacía el pino, dominadas lastradas, _dragon flags_, *front lever* y un porrón de ejercicios muy demandantes.
+Cada día hacía el pino, dominadas lastradas, _dragon flags_, _front lever_ y un porrón de ejercicios muy demandantes.
 
 Me llamó la atención no sólo lo _mazada_ que estaba (además que para mujeres es más difícil ganar músculo), sino su manera de organizar los ejercicios y las series.
 
 Lógicamente no puede evitar ir a hablar con ella…
 
-Y antes de que me saltéis a decir que lo hice con el afán de usar mis trucos para [ligar en el gym](https://pau.ninja/como-ligar-en-un-gym/) (#472), que sepáis que también hablo con los pavos que lucen naturales & *mamaos* con la misma intención que con las chicas _fit_: chupar (chuparles… información).
+Y antes de que me saltéis a decir que lo hice con el afán de usar mis trucos para [ligar en el gym](./como-ligar-en-un-gym) (#472), que sepáis que también hablo con los pavos que lucen naturales & _mamaos_ con la misma intención que con las chicas _fit_: chupar (chuparles… información).
 
-Mi interés para desarrollar [un cuerpo estético de buenas medidas](https://pau.ninja/cuerpo-estetico-hombre-medidas/) y convertirme en una estatua griega viviente es más fuerte que cualquier otro sentimiento.
+Mi interés para desarrollar [un cuerpo estético de buenas medidas](./cuerpo-estetico-hombre-medidas) y convertirme en una estatua griega viviente es más fuerte que cualquier otro sentimiento.
 
 Bueno, quizás el amor o los fundamentales de Bitcoin son más fuertes… pero ya me entendéis.
 
 Pero ninguna de estas cosas eran más fuertes que Marite, la chica _mazada_ que con sólo 19 años, vería convertirse en la campeona del mundo de Calistenia de «fuerza resistencia» en 2023.
 
-![campeona método emom](https://pau.ninja/wp-content/uploads/2023/12/campeona-metodo-emom.jpeg)
+![campeona método emom](./wp-content/uploads/2023/12campeona-metodo-emom.jpeg)
 
 Imagen: ojalá pudiera tener los brazos y resistencia de Marite. Por esto la «entrevisté» y tomé notas. Para sacar todos los conocimientos sobre un método del que apenas hay información veraz en internet.
 
-Me dijo que para prepararse el campeonato usó un método que le hizo ganar tanto fuerza, como resistencia y además (muy a su pesar) es lo que [le había hecho ganar más masa muscular más rápido](https://pau.ninja/como-ganar-masa-muscular-rapido/) (#477).
+Me dijo que para prepararse el campeonato usó un método que le hizo ganar tanto fuerza, como resistencia y además (muy a su pesar) es lo que [le había hecho ganar más masa muscular más rápido](./como-ganar-masa-muscular-rapido) (#477).
 
-Un método que tenía que combinar con baile para sentirse más *femenina*.
+Un método que tenía que combinar con baile para sentirse más _femenina_.
 
-Le dije «h0er, pero si esto es lo único que quiero yo. Hipertrofiar para sentirme *poco femenino*«.
+Le dije «h0er, pero si esto es lo único que quiero yo. Hipertrofiar para sentirme _poco femenino_«.
 
 La contraté como coach durante 1 hora en la que estuve literalmente haciéndole una entrevista sobre su método: **EMOM. Un método de entrenamiento infravalorado**.
 
-La mayoría de personas que hacen EMOM, es en Crossfit, calistenia o entrenando en casa, pero lo tratan como un *finisher*. Una de manera de tantas para terminar el entreno, pero en realidad…
+La mayoría de personas que hacen EMOM, es en Crossfit, calistenia o entrenando en casa, pero lo tratan como un _finisher_. Una de manera de tantas para terminar el entreno, pero en realidad…
 
 > El método EMOM es un diamante en bruto si te tomas en serio la sobrecarga progresiva. Tanto en fuerza, como en resistencia.
 
@@ -50,45 +55,17 @@ Me dijo que al terminar la competición, aún estaba fresca y podría haber dado
 
 Marite no fue la única que lo usó para petarlo. ¿Os suena Rich Froning? El que había sido el tío más _fit_ del mundo.
 
-![Rich Froning y Louie Simmons con metodo emom](https://pau.ninja/wp-content/uploads/2023/12/Rich-Froning-y-Louie-Simmons-con-metodo-emom.jpg)
+![Rich Froning y Louie Simmons con metodo emom](./wp-content/uploads/2023/12Rich-Froning-y-Louie-Simmons-con-metodo-emom.jpg)
 
 ¿Louie Simmons? Uno de los mejores coach de fuerza del mundo.
 
-Poco parecen tener en común el *crossfitero* por excelencia y un *powerlifter gordi-fuerte,* pero en realidad sí lo tienen: el método EMOM aplicado [con periodización de entrenamiento](https://pau.ninja/periodizacion-del-entrenamiento/).
+Poco parecen tener en común el _crossfitero_ por excelencia y un _powerlifter gordi-fuerte,_ pero en realidad sí lo tienen: el método EMOM aplicado [con periodización de entrenamiento](./periodizacion-del-entrenamiento).
 
 Aunque es verdad que lucen de forma distinta.
 
-Desde que investigué [para saber si tengo buena genética](https://pau.ninja/como-saber-si-tienes-buena-genetica/) para algún tipo de entrenamiento específica, el EMOM me encaja a la perfección.
+Desde que investigué [para saber si tengo buena genética](./como-saber-si-tienes-buena-genetica) para algún tipo de entrenamiento específica, el EMOM me encaja a la perfección.
 
 Veamos 1) todo lo que he podido investigar (hay poca información técnica en internet), 2) las respuestas a todas las preguntas que le hice a Marite, 3) los resultados que ha tenido en mi físico.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Significado de EMOM](#Significado_de_EMOM 'Significado de EMOM')
-- [Qué es el entreno EMOM](#Que_es_el_entreno_EMOM 'Qué es el entreno EMOM')
-- [Ejemplos de EMOM](#Ejemplos_de_EMOM 'Ejemplos de EMOM')
-  - [EMOM 30 minutos](#EMOM_30_minutos 'EMOM 30 minutos')
-  - [EMOM 20 minutos](#EMOM_20_minutos 'EMOM 20 minutos')
-  - [EMOM 10 minutos](#EMOM_10_minutos 'EMOM 10 minutos')
-- [Por qué funciona el método EMOM](#Por_que_funciona_el_metodo_EMOM 'Por qué funciona el método EMOM')
-- [Cómo funciona el método EMOM](#Como_funciona_el_metodo_EMOM 'Cómo funciona el método EMOM')
-- [Beneficios del entrenamiento EMOM](#Beneficios_del_entrenamiento_EMOM 'Beneficios del entrenamiento EMOM')
-  - [Incrementa las motoneuronas](#Incrementa_las_motoneuronas 'Incrementa las motoneuronas')
-  - [Desbloquea más fuerza con fatiga](#Desbloquea_mas_fuerza_con_fatiga 'Desbloquea más fuerza con fatiga')
-  - [Elimina la parálisis por análisis](#Elimina_la_paralisis_por_analisis 'Elimina la parálisis por análisis')
-  - [Automatiza la técnica](#Automatiza_la_tecnica 'Automatiza la técnica')
-  - [Genera estrés metabólico](#Genera_estres_metabolico 'Genera estrés metabólico')
-  - [Es más eficiente entrenar así](#Es_mas_eficiente_entrenar_asi 'Es más eficiente entrenar así')
-  - [Hormonas](#Hormonas 'Hormonas')
-- [Cómo planificar un EMOM](#Como_planificar_un_EMOM 'Cómo planificar un EMOM')
-- [Entrenamientos EMOM](#Entrenamientos_EMOM 'Entrenamientos EMOM')
-- [Progresión de EMOM](#Progresion_de_EMOM 'Progresión de EMOM')
-  - [Progresión por tiempo](#Progresion_por_tiempo 'Progresión por tiempo')
-  - [Progresión por repeticiones](#Progresion_por_repeticiones 'Progresión por repeticiones')
-  - [Progresión por peso](#Progresion_por_peso 'Progresión por peso')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Significado de EMOM
 
@@ -156,17 +133,17 @@ Cuando van al parque a entrenar, ¿cómo creéis que se estructuran los entrenam
 
 Absolutamente no.
 
-Quizás muy de vez en cuando para ver cuantas dominadas *tienen*, pero por lo general no. Por puro sentido común. Bajarían al parque de calistenia, harían sus dominadas y se volverían a casa.
+Quizás muy de vez en cuando para ver cuantas dominadas _tienen_, pero por lo general no. Por puro sentido común. Bajarían al parque de calistenia, harían sus dominadas y se volverían a casa.
 
 Nada divertido.
 
-Si se funden y no pueden meterse su sesión y *practicar* sus movimiento.
+Si se funden y no pueden meterse su sesión y _practicar_ sus movimiento.
 
-Aquí está la palabra clave: *practicar*.
+Aquí está la palabra clave: _practicar_.
 
-Los atletas de calistenia son mucho más inteligentes en [entrenar al fallo muscular](https://pau.ninja/entrenar-al-fallo-muscular/) (#427) que los culturistas.
+Los atletas de calistenia son mucho más inteligentes en [entrenar al fallo muscular](./entrenar-al-fallo-muscular) (#427) que los culturistas.
 
-Por algo que algunos *strongman* y _powerlisters_ ya conocen. Por uno de los mantras del gurú de fuerza Pavel Tsatsouline, y que los calisténicos también aplican en cambio los culturistas NO… Y es que:
+Por algo que algunos _strongman_ y _powerlisters_ ya conocen. Por uno de los mantras del gurú de fuerza Pavel Tsatsouline, y que los calisténicos también aplican en cambio los culturistas NO… Y es que:
 
 > La fuerza es una habilidad.
 
@@ -174,7 +151,7 @@ Vamos entrando a ver como el método EMOM está infravalorado y por qué los que
 
 También hipotetizo que hay muchísimos menos atletas que entrenan en el parque que se ciclen en comparación con culturistas de gimnasios comerciales. Que entonces podrán permitirse el lujo de _fallar_ porque se recuperarán mucho más rápido gracias a los _pinchitos_.
 
-Una de las cosas que he observado en estos *atletas de parque* naturales, es que en sus ejercicios con el propio cuerpo acostumbran entrenar **no necesariamente a muchas repeticiones, sino a muchas series**.
+Una de las cosas que he observado en estos _atletas de parque_ naturales, es que en sus ejercicios con el propio cuerpo acostumbran entrenar **no necesariamente a muchas repeticiones, sino a muchas series**.
 
 Es decir, con un volumen alto de entrenamiento y sin fallar.
 
@@ -184,9 +161,9 @@ El tipo comentaba como él mismo se sorprendío de ganar en ejercicios donde se 
 
 ¿Por qué? Pues porque **nunca entrena a repeticiones máximas (intensidad)**.
 
-Explicaba como sus entrenos eran puramente de muchas series y repeticiones, pocos descansos y así va ganando tanto fuerza como hipertrofia como [las características de la «fuerza-resistencia»](https://pau.ninja/que-es-la-fuerza-resistencia/).
+Explicaba como sus entrenos eran puramente de muchas series y repeticiones, pocos descansos y así va ganando tanto fuerza como hipertrofia como [las características de la «fuerza-resistencia»](./que-es-la-fuerza-resistencia).
 
-¿Cómo puede ser que esta gente se vuelva tan fuerte sin apretar al máximo la intensidad? Pues por algo que conocemos gracias a estudios que se llevan haciendo desde 1999: que en realidad cualquier actividad que no sea un esfuerzo máximo en el fondo es más aeróbico que anaeróbico.[1](<javascript:void(0)>)Parolin ML, Chesley A, Matsos MP, Spriet LL, Jones NL, Heigenhauser GJ. Regulation of skeletal muscle glycogen phosphorylase and PDH during maximal intermittent exercise. Am J Physiol. 1999 Nov;277(5):E890-900. doi: 10.1152/ajpendo.1999.277.5.E890. PMID: 10567017.
+¿Cómo puede ser que esta gente se vuelva tan fuerte sin apretar al máximo la intensidad? Pues por algo que conocemos gracias a estudios que se llevan haciendo desde 1999: que en realidad cualquier actividad que no sea un esfuerzo máximo en el fondo es más aeróbico que anaeróbico.[ref-1](#ref-1){.ref}
 
 > Es decir que quien construye _cierta_ capacidad de resistencia, también está construyendo fuerza.
 
@@ -194,7 +171,7 @@ En estos estudios se ve como la capacidad de trabajo, incluso a intensidades mu
 
 Esta falta de intensidad, falta de fallo muscular para poner énfasis en resistencia es un factor que se ve una y otra vez en las otras entrevistas de atletas (exclusivamente naturales) que llevo viendo en los últimos años.
 
-Fijaros como en el mundo del culturismo, el hecho de *ir al fallo* se menciona tanto por una sola razón, y es el hecho de que:
+Fijaros como en el mundo del culturismo, el hecho de _ir al fallo_ se menciona tanto por una sola razón, y es el hecho de que:
 
 > Entrenar al fallo es usado en los estudios simplemente porque es la manera más fiable de controlar el esfuerzo de los participantes.
 
@@ -238,17 +215,17 @@ Lo que sucede es que a medida que la serie va progresando, **mi cuerpo encontra
 
 ### Incrementa las motoneuronas
 
-La primera estrategia que usará es incrementar la llamada «tasa de disparo» o «descarga de motoneurona». Como lo llaman en inglés, *the firing rate* (FR).[2](<javascript:void(0)>)ESCUELA TÉCNICA SUPERIOR de INGENIEROS INDUSTRIALES Y de TELECOMUNICACIÓN. 2023. Accessed November 29.
+La primera estrategia que usará es incrementar la llamada «tasa de disparo» o «descarga de motoneurona». Como lo llaman en inglés, _the firing rate_ (FR).[ref-2](#ref-2){.ref}
 
 Esto significa que al principio las fibras se contraen de una forma lenta, pero a medida que van pasando los minutos con EMOM, a medida que vamos creando fatiga, se contraerán cada vez más rápidamente.
 
 > Cuanto más rápido se contraigan las fibras, más fuerza producirán.
 
-Como decía Pavel Tsatsouline, el creador [del método Grease The Groove](https://pau.ninja/metodo-grease-the-groove/) (#362), la fuerza es una _habilidad_.
+Como decía Pavel Tsatsouline, el creador [del método Grease The Groove](./metodo-grease-the-groove) (#362), la fuerza es una _habilidad_.
 
 Y aquí, con el método EMOM, sale a relucir esta habilidad.
 
-![meme Pavel Tsatsouline](https://pau.ninja/wp-content/uploads/2022/05/meme-Pavel-Tsatsouline.jpeg)
+![meme Pavel Tsatsouline](./wp-content/uploads/2022/05meme-Pavel-Tsatsouline.jpeg)
 
 Porque el hecho de hacer contraer estas fibras cada vez más rápido, **es una habilidad motora**.
 
@@ -266,13 +243,13 @@ Pues que **no te permitirá** de usar la máxima fuerza en esos motores primari
 
 A efectos teóricos (bueno, y prácticos) te está protegiendo contra imbalances y posibles lesiones.
 
-![fatiga vs retroalimentación](https://pau.ninja/wp-content/uploads/2023/12/fatiga-vs-retroalimentacion.png)
+![fatiga vs retroalimentación](./wp-content/uploads/2023/12fatiga-vs-retroalimentacion.png)
 
 En cambio las series de EMOM entrena al cuerpo para disparar unidades motoras más rápido, de forma más explosiva y más potente, y luego apagarlas rápidamente, que es el santo grial en los deportes.
 
 Además (aquí otra de las funcionalidades más potentes del método EMOM), a medida que vamos **fatigando poco a poco**, de forma estratégica estos músculos, nuestro cuerpo va a ir permitiendo usar más de nuestra fuerza potencial.
 
-![fatiga vs retroalimentación en EMOM](https://pau.ninja/wp-content/uploads/2023/12/fatiga-vs-retroalimentacion-en-EMOM.png)
+![fatiga vs retroalimentación en EMOM](./wp-content/uploads/2023/12fatiga-vs-retroalimentacion-en-EMOM.png)
 
 Ahora el cuerpo no se siente desbalanceado.
 
@@ -296,7 +273,7 @@ Pero no sólo esto sino que incluso crea una mentalidad distinta. Esa mentalidad
 
 > Como decía el Coach Christian Thibaudeau, «los mejores atletas son los atletas más tontos» porque no (sobre)complican nada. Van a moverse. No a pensar.
 
-Lo que EMOM nos enseña es precisamente esto: *sólo ejecuta*.
+Lo que EMOM nos enseña es precisamente esto: _sólo ejecuta_.
 
 Toma una maldita acción.
 
@@ -310,19 +287,19 @@ O sea cuando un atleta hace una repetición por serie, tiene cierta fatiga debi
 
 Con series de 3 en levantamientos tan técnicos como por ejemplo el _snatch_, Glenn Pendlay vio que la primera repetición era a menudo técnicamente la mejor, la segunda era ligeramente peor y la tercera quedaba por lo suelos.
 
-![acumulación de fatiga](https://pau.ninja/wp-content/uploads/2023/12/acumulacion-fatiga.png)
+![acumulación de fatiga](./wp-content/uploads/2023/12acumulacion-fatiga.png)
 
 Claro, la fatiga aumenta (muy) rápidamente durante cada serie y luego disminuye, y rara vez alcanza el nivel básico de la serie anterior.
 
 La técnica puede tener una relación inversa con la fatiga cuando la fatiga se dosifica demasiado alta, esto significa que junto con los aumentos graduales de la fatiga, también habrá una disminución gradual de la técnica.
 
-¿Y qué sucede? Pues que a más series, peor (porque tenemos más fatiga acumulada). O sea por este *token* la serie final será una patraña.
+¿Y qué sucede? Pues que a más series, peor (porque tenemos más fatiga acumulada). O sea por este _token_ la serie final será una patraña.
 
 Pero… ocurre un cambio interesante con el método EMOM.
 
 Al no haber picos dramáticos en la fatiga debido a la carga de trabajo distribuida uniformemente de una repetición cada minuto durante 18 minutos, no hay picos en la caída técnica.
 
-![mejorar técnica menos fatiga](https://pau.ninja/wp-content/uploads/2023/12/mejorar-tecnica-menos-fatiga.png)
+![mejorar técnica menos fatiga](./wp-content/uploads/2023/12mejorar-tecnica-menos-fatiga.png)
 
 Glenn Pendlay notó que la técnica no solo no tenía una tendencia a la baja, sino que en realidad mejoraba en el transcurso de un entrenamiento, y la repetición final casi siempre lucía mejor que la primera.
 
@@ -340,7 +317,7 @@ Además hay el otro factor crítico de la hipertrofia que es el _estrés metabó
 
 El estrés metabólico es el primer hijo del que todo el mundo se ha olvidado porque sólo le prestan atención al segundo hijo: la tensión mecánica.
 
-![tensión mecánica y estrés metabólico](https://pau.ninja/wp-content/uploads/2022/10/tension-mecanica-estres-metabolico.jpeg)
+![tensión mecánica y estrés metabólico](./wp-content/uploads/2022/10tension-mecanica-estres-metabolico.jpeg)
 
 Pensad lo qué es la tensión mecánica: simplificándolo es básicamente reclutar el máximo de fibras musculares para mover peso.
 
@@ -352,7 +329,7 @@ O no.
 
 Pensémoslo un momento.
 
-La tensión mecánica está ligada al volumen y el volumen está directamente ligado a la hipertrofia.[3](<javascript:void(0)>)Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.
+La tensión mecánica está ligada al volumen y el volumen está directamente ligado a la hipertrofia.[ref-3](#ref-3){.ref}
 
 Si hacemos pocas repeticiones a mucha intensidad como vemos en los gimnasios, esto hará que podamos entrenar menos (menos series).
 
@@ -362,7 +339,7 @@ Me refiero a que en el fondo para ganar masa necesitamos tanto tensión mecánic
 
 Mucha parte de la literatura especulativa actual está descartando la fatiga, el estrés metabólico.
 
-Por eso algunos *fitfluencers* hablan de la tensión mecánica como más importante cuando en realidad… es importante pero no *el más* importante. Sino _igual_ de importante.
+Por eso algunos _fitfluencers_ hablan de la tensión mecánica como más importante cuando en realidad… es importante pero no _el más_ importante. Sino _igual_ de importante.
 
 > Se necesita esta fatiga (estrés metabólico) para que el componente de tensión desencadene una respuesta adaptativa.
 
@@ -380,9 +357,9 @@ En cambio entrenando cerca del fallo duda mucho que sea sostenible (mentalmente 
 
 Hay días que mentalmente no estarás ahí. Que haces una serie «al fallo» (entre comillas) pero que quizás en otro estado mental podrías haber sacado unas cuentas más.
 
-En cambio entrenando con el método EMOM estamos evitando la acumulación metabólica. Esto significa que podemos entrenar pesado y más explosivo, algo que se ha demostrado que aumenta la hipertrofia.[4](<javascript:void(0)>)Tufano JJ, Halaj M, Kampmiller T, Novosad A, Buzgo G. Cluster sets vs. traditional sets: Levelling out the playing field using a power-based threshold. PLoS One. 2018 Nov 26;13(11):e0208035. doi: 10.1371/journal.pone.0208035. PMID: 30475910; PMCID: PMC6257924.[5](<javascript:void(0)>)Newton RU, Kraemer WJ. Developing explosive muscular power: implications for a mixed methods training strategy. Strength Cond J. 1994;16(5):20–31.[6](<javascript:void(0)>)Paddon-Jones D, Leveritt M, Lonergan A, Abernethy P. Adaptation to chronic eccentric exercise in humans: the influence of contraction velocity. Eur J Appl Physiol, 2001 Sep;85(5):466-71.
+En cambio entrenando con el método EMOM estamos evitando la acumulación metabólica. Esto significa que podemos entrenar pesado y más explosivo, algo que se ha demostrado que aumenta la hipertrofia.[ref-4](#ref-4){.ref}[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}
 
-Pero ojo, porque esto no significa que no estemos produciendo suficiente inundación de lactato y restos oxidativos.[7](<javascript:void(0)>)Powers SK, Ji LL, Kavazis AN, Jackson MJ. Reactive oxygen species: impact on skeletal muscle. Compr Physiol. 2011 Apr;1(2):941-69. doi: 10.1002/cphy.c100054. PMID: 23737208; PMCID: PMC3893116.
+Pero ojo, porque esto no significa que no estemos produciendo suficiente inundación de lactato y restos oxidativos.[ref-7](#ref-7){.ref}
 
 Porque sorpresa: esto son los componentes del estrés metabólico: uno de los factores indispensables para construir masa.
 
@@ -398,19 +375,19 @@ Y encima llegar al fallo sólo te dará un 10% más de beneficio que si te hubie
 
 Valor tú mismo si vale la pena.
 
-Por esto EMOM se adapta para los que entrenan pocas veces y quieren meter mucho volumen, o los que como yo, preferimos entrenar menos ratos pero [entrenar cada día](https://pau.ninja/es-bueno-entrenar-todos-los-dias/).
+Por esto EMOM se adapta para los que entrenan pocas veces y quieren meter mucho volumen, o los que como yo, preferimos entrenar menos ratos pero [entrenar cada día](./es-bueno-entrenar-todos-los-dias).
 
 Intentar sacar el jugo de este 10% viene con un coste muy alto.
 
 Muchas veces es más inteligente hacer menos pero ser capaces de hacer más series.
 
-Es como la gente que se sorprende de que [no consuma verduras](https://pau.ninja/no-comer-verduras/) (#268). Me dicen que las plantas te dan un efecto de hormesis, pero puedes obtener el mismo efecto con factores ambientales y encima evitarte el coste de ingerir un porrón [de la lista de antinutrientes](https://pau.ninja/antinutrientes-lista/) que tienen las plantas.
+Es como la gente que se sorprende de que [no consuma verduras](./no-comer-verduras/) (#268). Me dicen que las plantas te dan un efecto de hormesis, pero puedes obtener el mismo efecto con factores ambientales y encima evitarte el coste de ingerir un porrón [de la lista de antinutrientes](https://pau.ninja/antinutrientes-lista) que tienen las plantas.
 
 Algo que podemos extrapolar en este caso: si puedes hacer un tipo de entreno como no fallar, puedes hacer más y encima no sólo tener muchos menos efectos negativos sino más respuesta del cuerpo, ¿por qué no hacerlo?
 
 ### Hormonas
 
-Encima hay evidencia chula que muestran como los entrenamientos tipo EMOM producen más hormona del crecimiento y otras hormonas anabólicas en comparación con descansar más de dos minutos entre series.[8](<javascript:void(0)>)McDougle JM, Mangine GT, Townsend JR, Jajtner AR, Feito Y. Acute physiological outcomes of high-intensity functional training: a scoping review. PeerJ. 2023 Jan 3;11:e14493. doi: 10.7717/peerj.14493. PMID: 36620744; PMCID: PMC9817969.[9](<javascript:void(0)>)Izquierdo, Mikel & Ibáñez, Javier & González-Badillo, Juan & Häkkinen, Keijo & Ratamess, Nicholas & Kraemer, William & French, Duncan & Eslava, Jesus & Altadill, Aritz & Asiain, Xabier & Gorostiaga, Esteban. (2006). Differential effects of strength training leading to failure versus not to failure on hormonal responses, strength, and muscle power gains. Journal of applied physiology (Bethesda, Md. : 1985). 100. 1647-56. 10.1152/japplphysiol.01400.2005.
+Encima hay evidencia chula que muestran como los entrenamientos tipo EMOM producen más hormona del crecimiento y otras hormonas anabólicas en comparación con descansar más de dos minutos entre series.[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}
 
 ## Cómo planificar un EMOM
 
@@ -436,7 +413,7 @@ Eso sí, para muchos hacer un EMOM de resistencia de 30 minutos os será aburrid
 
 **Peso de tu 1RM**
 
-**Repeticiones
+**Repeticiones  
 x minuto**
 
 **Minutos**
@@ -457,7 +434,7 @@ Fuerza
 
 8-12
 
-Resistencia
+Resistencia  
 Hipertrofia
 
 \-65%
@@ -474,7 +451,7 @@ Fui añadiendo repeticiones a cada entreno y en unas 6 semanas, probé la banca 
 
 ## Progresión de EMOM
 
-Se habla poco de progresiones EMOM porque se ponen en los entrenamiento *al tun tun*. Cuando en realidad con una buena progresión, un EMOM bien programado es el mejor método multipotencial que he encontrado que te construye tanto fuerza, como músculo, como resistencia.
+Se habla poco de progresiones EMOM porque se ponen en los entrenamiento _al tun tun_. Cuando en realidad con una buena progresión, un EMOM bien programado es el mejor método multipotencial que he encontrado que te construye tanto fuerza, como músculo, como resistencia.
 
 ¿Y cómo progresamos? Pues podemos hacerlo de varias maneras y lo que he estado haciendo es combinarlo todo:
 
@@ -490,10 +467,10 @@ Es rápido de hacer e incluso tiene descargas y sobrecarga progresiva **de seri
 
 **Entreno**
 
-**Minutos
+**Minutos  
 totales**
 
-**Repeticiones
+**Repeticiones  
 x minuto**
 
 Entreno 1
@@ -524,10 +501,10 @@ Entreno 4
 
 **Entreno**
 
-**Minutos
+**Minutos  
 totales**
 
-**Repeticiones
+**Repeticiones  
 x minuto**
 
 Entreno 1
@@ -540,14 +517,14 @@ Entreno 2
 
 30 minutos
 
-10 minutos: 6
+10 minutos: 6  
 20 minutos: 5
 
 Entreno 3
 
 30 minutos
 
-20 minutos: 6
+20 minutos: 6  
 10 minutos: 5
 
 Entreno 4
@@ -560,10 +537,10 @@ Entreno 4
 
 **Entreno**
 
-**Minutos
+**Minutos  
 totales**
 
-**Repeticiones
+**Repeticiones  
 x minuto**
 
 Entreno 1
@@ -576,14 +553,14 @@ Entreno 2
 
 10 minutos
 
-4 minutos: x4
+4 minutos: x4  
 8 minutos: x3
 
 Entreno 3
 
 10 minutos
 
-8 minutos: x4
+8 minutos: x4  
 4 minutos: x3
 
 Entreno 4
@@ -591,43 +568,3 @@ Entreno 4
 10 minutos
 
 60kg x4
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Parolin ML, Chesley A, Matsos MP, Spriet LL, Jones NL, Heigenhauser GJ. Regulation of skeletal muscle glycogen phosphorylase and PDH during maximal intermittent exercise. Am J Physiol. 1999 Nov;277(5):E890-900. doi: 10.1152/ajpendo.1999.277.5.E890. PMID: 10567017.
-
-- 2
-
-  ESCUELA TÉCNICA SUPERIOR de INGENIEROS INDUSTRIALES Y de TELECOMUNICACIÓN. 2023. Accessed November 29.
-
-- 3
-
-  Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.
-
-- 4
-
-  Tufano JJ, Halaj M, Kampmiller T, Novosad A, Buzgo G. Cluster sets vs. traditional sets: Levelling out the playing field using a power-based threshold. PLoS One. 2018 Nov 26;13(11):e0208035. doi: 10.1371/journal.pone.0208035. PMID: 30475910; PMCID: PMC6257924.
-
-- 5
-
-  Newton RU, Kraemer WJ. Developing explosive muscular power: implications for a mixed methods training strategy. Strength Cond J. 1994;16(5):20–31.
-
-- 6
-
-  Paddon-Jones D, Leveritt M, Lonergan A, Abernethy P. Adaptation to chronic eccentric exercise in humans: the influence of contraction velocity. Eur J Appl Physiol, 2001 Sep;85(5):466-71.
-
-- 7
-
-  Powers SK, Ji LL, Kavazis AN, Jackson MJ. Reactive oxygen species: impact on skeletal muscle. Compr Physiol. 2011 Apr;1(2):941-69. doi: 10.1002/cphy.c100054. PMID: 23737208; PMCID: PMC3893116.
-
-- 8
-
-  McDougle JM, Mangine GT, Townsend JR, Jajtner AR, Feito Y. Acute physiological outcomes of high-intensity functional training: a scoping review. PeerJ. 2023 Jan 3;11:e14493. doi: 10.7717/peerj.14493. PMID: 36620744; PMCID: PMC9817969.
-
-- 9
-
-  Izquierdo, Mikel & Ibáñez, Javier & González-Badillo, Juan & Häkkinen, Keijo & Ratamess, Nicholas & Kraemer, William & French, Duncan & Eslava, Jesus & Altadill, Aritz & Asiain, Xabier & Gorostiaga, Esteban. (2006). Differential effects of strength training leading to failure versus not to failure on hormonal responses, strength, and muscle power gains. Journal of applied physiology (Bethesda, Md. : 1985). 100. 1647-56. 10.1152/japplphysiol.01400.2005.

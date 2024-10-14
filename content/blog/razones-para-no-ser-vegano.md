@@ -1,20 +1,27 @@
 ---
-title: "De vegano a carnívoro: salud, animales y medio ambiente (razones para no ser vegano)"
+title: "De vegano a carnívoro: salud, animales y medio ambiente"
+url: https://pau.ninja/razones-para-no-ser-vegano
+slug: razones-para-no-ser-vegano
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: antiveganismo
+    label: Antiveganismo
 image: medio-vegano-medio-carnivoro.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/medio-vegano-medio-carnivoro.jpeg
 published: 2021-10-05T07:25:53+00:00
 modified: 2024-02-06T10:57:39+00:00
+scrappedAt: 2024-10-14T09:21:09.281Z
 audioLink: https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3
-slug: razones-para-no-ser-vegano
+bibliography: []
 ---
-
-[https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3](https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3)
+[https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio\_md\_70322533\_wp\_1.mp3](https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3)
 
 Estos últimos 6 años he estado probando todo tipo de dietas: vegana, vegetariana y pescetariana hasta llegar al otro extremo del veganismo: la carnívora.
 
-Después de todos estos experimentos ya puedo decir que para mí, [la dieta carnívora (comer exclusivamente carne)](https://pau.ninja/dieta-carnivora/) es la **mejor** dieta que he probado, para mí. Tanto por salud, fuerza, recomposición corporal, sueño, inflamación…
+Después de todos estos experimentos ya puedo decir que para mí, [la dieta carnívora (comer exclusivamente carne)](./dieta-carnivora) es la **mejor** dieta que he probado, para mí. Tanto por salud, fuerza, recomposición corporal, sueño, inflamación…
 
-Hoy **os la voy a comparar con la vegana** en todo lo que nos preocupa: salud, animales y medio ambiente. Seguramente terminaréis tanto en *shock* como yo cuando me di cuenta con los datos en la mano, que…
+Hoy **os la voy a comparar con la vegana** en todo lo que nos preocupa: salud, animales y medio ambiente. Seguramente terminaréis tanto en _shock_ como yo cuando me di cuenta con los datos en la mano, que…
 
 > Ser vegano es más destructivo tanto para el Planeta como los animales. También es peor para la salud que ser carnívora.
 
@@ -28,7 +35,7 @@ Sé que es una afirmación atrevida, pero quiero a lo que me dedico es a investi
 
 Cuando hago estas pruebas intento que el resto de variables de mi vida sean constantes: sigo trabajando por las mañanas en la cafetería, voy al gym casero, salgo a caminar, leo libros…
 
-![pilares-nutricion](https://pau.ninja/wp-content/uploads/2021/10/pilares-nutricion.png)
+![pilares-nutricion](./wp-content/uploads/2021/10pilares-nutricion.png)
 
 Sabéis que si hay dos cosas que busco en esta vida son la libertad, y también lo que yo llamo: «mejora egoísta», que vendría a ser mejora constante con fines totalmente personales:
 
@@ -44,27 +51,6 @@ Que necesito probar esos **extremos** (aunque sea temporalmente) para realmente 
 He probado todos los extremos y parece mentira como incluso en la nutrición aplicar la filosofía minimalista hace maravillas. Porque esto es lo que es la carnívora: la dieta más minimalista e intuitiva que he probado. No como la vegano que tenía que controlar mil y una variables para no tener deficiencias, ¿cómo puede ser algo así natural?
 
 Así que vamos a ver hoy por qué creo que la dieta carnívora es superior a la vegana, o vegetariana.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Motivos para ser vegano VS carnívoro](#Motivos_para_ser_vegano_VS_carnivoro 'Motivos para ser vegano VS carnívoro')
-  - [🐮 Animales](#%F0%9F%90%AE_Animales '🐮 Animales')
-  - [🌍 Medio ambiente](#%F0%9F%8C%8D_Medio_ambiente '🌍 Medio ambiente')
-  - [🕺🏻 Salud](#%F0%9F%95%BA%F0%9F%8F%BB_Salud '🕺🏻 Salud')
-- [Carencias nutricionales de la dieta vegana](#Carencias_nutricionales_de_la_dieta_vegana 'Carencias nutricionales de la dieta vegana')
-  - [Hierro "hemo"](#Hierro_%22hemo%22 'Hierro "hemo"')
-  - [Creatina](#Creatina 'Creatina')
-  - [Vitamina B12](#Vitamina_B12 'Vitamina B12')
-  - [Omega 3 y omega 6](#Omega_3_y_omega_6 'Omega 3 y omega 6')
-- [Razones para NO ser vegano](#Razones_para_NO_ser_vegano 'Razones para NO ser vegano')
-  - [Exceso de fibra](#Exceso_de_fibra 'Exceso de fibra')
-  - [Proteína baja e incompleta](#Proteina_baja_e_incompleta 'Proteína baja e incompleta')
-  - [Antinutrientes vegetales](#Antinutrientes_vegetales 'Antinutrientes vegetales')
-  - [Mala absorción de nutrientes](#Mala_absorcion_de_nutrientes 'Mala absorción de nutrientes')
-  - [Hay que usar suplementación vegana](#Hay_que_usar_suplementacion_vegana 'Hay que usar suplementación vegana')
-- [No se puede ser vegano sin morir en el intento](#No_se_puede_ser_vegano_sin_morir_en_el_intento 'No se puede ser vegano sin morir en el intento')
 
 ## Motivos para ser vegano VS carnívoro
 
@@ -96,7 +82,7 @@ Me refiero a que mi narrativa es la de «probarlo todo», no la de vender produc
 
 > Cuando hablo de comer animales, **no son de granjas industriales**. Me refiero a comer **el animal de pasto y aprovechar todas sus partes**. Nada de animales que comen grano e industrializados. Si no son animales que campan libremente, prefiero comer otra cosa.
 
-Porque este es uno de los [argumentos en contra del veganismo](https://pau.ninja/argumentos-en-contra-del-veganismo/) que tiene más fuerza.
+Porque este es uno de los [argumentos en contra del veganismo](./argumentos-en-contra-del-veganismo) que tiene más fuerza.
 
 ### 🐮 Animales
 
@@ -131,7 +117,7 @@ Aquellos que sobreviven los pesticidas, mueren igualmente de hambre cuando los a
 
 ¿Qué comer si queremos minimizar nuestro impacto medioambiental?
 
-![vegano vs carnívoro](https://pau.ninja/wp-content/uploads/2021/10/vegano-vs-carnivoro.jpeg)
+![vegano vs carnívoro](./wp-content/uploads/2021/10vegano-vs-carnivoro.jpeg)
 
 Encima la mayoría de los monocultivos es para alimentar el ganado industrial… En cambio comiendo 1 vaca de pasto = 1 muerte. No miles.
 
@@ -155,7 +141,7 @@ Pero claro, como son pequeños no cuentan, ¿no?
 
 Como digo, no existe un sistema de comida sin impacto pero el de la vaca para mí tiene mucho más sentido que la escabechina que se hace en los cultivos.
 
-![cita-de-mufasa](https://pau.ninja/wp-content/uploads/2021/10/cita-de-mufasa.jpg)
+![cita-de-mufasa](./wp-content/uploads/2021/10cita-de-mufasa.jpg)
 
 Esto nos lo explicó muy bien otro carnívoro: Mufasa, en la película de El Rey León cuando le enseña a Simba sobre el círculo de la vida.
 
@@ -176,7 +162,7 @@ Estamos hablando de miles de millones de ratones. ¿Sabéis cómo terminarán es
 ### 🌍 Medio ambiente
 
 - **Argumento:** ser vegano es lo más ecológico para el medio ambiente y el Planeta.
-- **Realidad:** el [veganismo es insostenible para el medio ambiente](https://pau.ninja/veganismo-y-medio-ambiente/) pero además mucho más contaminante para el Planeta porque los animales de pasto son los únicos que pueden regenerar las capas fértiles de la tierra a través de la agricultura regenerativa.
+- **Realidad:** el [veganismo es insostenible para el medio ambiente](./veganismo-y-medio-ambiente) pero además mucho más contaminante para el Planeta porque los animales de pasto son los únicos que pueden regenerar las capas fértiles de la tierra a través de la agricultura regenerativa.
 
 #### Pata 1. Ciencia fiable
 
@@ -192,7 +178,7 @@ Desde que nuestro planeta existe, el suelo, la tierra ha prosperado con números
 
 Los animales se comen el césped, las plantas, la vegetación, después con lo que cagan [fertilizan](https://www.epa.gov/npdes/animal-feeding-operations-uses-manure) el suelo alimentándolo con nutrientes y **revierten** la erosión.
 
-![](https://pau.ninja/wp-content/uploads/2021/10/ganado-beneficia-clima.jpg)
+![](./wp-content/uploads/2021/10ganado-beneficia-clima.jpg)
 
 Pensad que [Scientific American](https://www.scientificamerican.com/article/only-60-years-of-farming-left-if-soil-degradation-continues/) y las Naciones Unidas ha [estimado](https://www.theguardian.com/us-news/2019/may/30/topsoil-farming-agriculture-food-toxic-america) que nos quedan **menos de 60 años** de tierra en la que se pueda cultivar, y cuando esto suceda nuestra cadena de comida rebentará.
 
@@ -220,11 +206,11 @@ La agricultura regenerativa funciona **copiando lo que hace la naturaleza**, y p
 
 > Empezando con reparar el daño que hemos hecho.
 
-No sé si algunos veganos presentes (aunque seguro que pocos han llegado hasta aquí…) han visto la película Game Changers. Un documental que apoya al veganismo y que da muchos datos *chocantes* que te hace plantear si esto de ser vegano tiene sentido…
+No sé si algunos veganos presentes (aunque seguro que pocos han llegado hasta aquí…) han visto la película Game Changers. Un documental que apoya al veganismo y que da muchos datos _chocantes_ que te hace plantear si esto de ser vegano tiene sentido…
 
 Pero resulta que esta gente del documental, a parte de estar [financiados](https://lancengym.medium.com/is-game-changers-funded-by-impossible-foods-or-beyond-meat-d9f323133350) por empresas de suplementos veganos, **omite** un montón de datos muy relevantes. Es decir, deja cosas en el tintero que son importantísimas para que tengamos contexto.
 
-![mentiras-veganas](https://pau.ninja/wp-content/uploads/2021/10/mentiras-veganas.jpeg)
+![mentiras-veganas](./wp-content/uploads/2021/10mentiras-veganas.jpeg)
 
 Mirad si se dejan cosas en el tintero que hasta hay [algún vegano](https://carnivoremd.com/former-celebrity-vegans-now-thriving-on-a-carnivore-diet-the-amazing-stories-of-alyse-parker-and-tim-shieff/) que tenían que salir en el documental pero pidió que no lo sacaran porque se había vuelto carnívoro.
 
@@ -236,7 +222,7 @@ Aunque podríamos desacreditar la mayoría de la peli, uno de los puntos que toc
 
 Necesitamos animales y resulta que [tenemos](https://www.weforum.org/agenda/2019/02/chart-of-the-day-this-is-how-many-animals-we-eat-each-year/) a miles de millones [de ellos](https://stage.economist.com/graphic-detail/2011/07/27/counting-chickens) encarcelados como si fueran objetos listos para ser convertidos en comida de baja calidad.
 
-Estos animales que tenemos sólo como recurso económico (y no nutricional), estamos alimentándolos de una manera **muy pobre** que encima repercute en una carne de muy poca calidad, como hablé a fondo en [las bondades de las grasas saturadas](https://pau.ninja/grasas-saturadas-son-buenas/) (#189).
+Estos animales que tenemos sólo como recurso económico (y no nutricional), estamos alimentándolos de una manera **muy pobre** que encima repercute en una carne de muy poca calidad, como hablé a fondo en [las bondades de las grasas saturadas](./grasas-saturadas-son-buenas) (#189).
 
 > O sea que en esto los veganos y carnívoros estamos de acuerdo: tenemos que **decir no** a los animales encarcelados y dejarlos pastar a su aire.
 
@@ -250,7 +236,7 @@ Un granjero industrial que sólo piensa en la pasta ni de coña usará agua de s
 
 Y ya ni os digo un granjero que tiene a todo su ganado pastando libremente.
 
-![fuente-agua-carne-de-pasto](https://pau.ninja/wp-content/uploads/2021/10/fuente-agua-carne-de-pasto.png)
+![fuente-agua-carne-de-pasto](./wp-content/uploads/2021/10fuente-agua-carne-de-pasto.png)
 
 El estudio publicado en [ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0308521X18305675) del año 2019 separaba los tipos de agua que se consume en producir 1kg de ternera:
 
@@ -290,7 +276,7 @@ Sin animales, hay más desertificación lo que lleva a aún más CO2 (dióxido d
 
 La presentación Ted es chocante y Allan muestra fotos del «antes y después» de sus tierras. En unas sale un suelo totalmente seco, desierto y drenado. La típica foto que te imaginarías de África.
 
-![antes-y-despues-animales](https://pau.ninja/wp-content/uploads/2021/10/antes-y-despues-animales.jpg)
+![antes-y-despues-animales](./wp-content/uploads/2021/10antes-y-despues-animales.jpg)
 
 En el «después» vemos un montón de césped y agua en los ríos y explica como para poner solución al problema incrementaron en un 400% la inclusión de los animales en esa tierra.
 
@@ -303,7 +289,7 @@ Si hacemos caso a lo que dicen películas como [Game Changers](https://carnivore
 ### 🕺🏻 Salud
 
 - **Argumento:** la dieta vegana es mejor para la salud e incluso óptima para el ser humano.
-- **Realidad:** [ser vegano es malo para la salud](https://pau.ninja/consecuencias-del-veganismo/) porque hay +20 nutrientes que las plantas no aportan, por lo tanto los veganos se tienen que suplementar, lo que es una pista importante de que es imposible estar sano de forma natural con esta dieta. La dieta carnívora es la que seguían nuestros ancestros y no tiene ninguna carencia nutricional.
+- **Realidad:** [ser vegano es malo para la salud](./consecuencias-del-veganismo) porque hay +20 nutrientes que las plantas no aportan, por lo tanto los veganos se tienen que suplementar, lo que es una pista importante de que es imposible estar sano de forma natural con esta dieta. La dieta carnívora es la que seguían nuestros ancestros y no tiene ninguna carencia nutricional.
 
 #### Pata 1. Ciencia fiable
 
@@ -324,7 +310,7 @@ Y es que las plantas nos hacen un _combo_ porque las jodidas tienen **antinutri
 
 Hablaré de las [deficiencias nutricionales en los veganos](#Deficiencias_nutricionales_de_los_veganos) en un momento, pero ya os puedo adelantar que para estar más o menos sanos comiendo así, no sólo hay que tener disponible un montón de comida de distintos tipos de distintas partes del mundo (lo cuál no tiene ningún put\* sentido), sino que además tienes que ser casi matemático para calcular como maximizar la poca absorción.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
 Además hay 6 nutrientes que las plantas simplemente **no tienen**. O sea que a menos que seas un herbívoro que no necesita estos componentes de las plantas, **te mueres**.
 
@@ -348,11 +334,11 @@ Al otro lado de la moneda tenemos montones de [tribus](https://www.diagnosisdie
 
 El explorador Ártico Vilhjalmur Stefansson [vivió](https://www.atlasobscura.com/articles/all-meat-diet) con **y como** los Inuit durante más de 5 años. Comiendo sólo carne y agua. **Nada más**. Cuando volvió, tenía una salud de hierro, y el canadiense no fue la excepción.
 
-![inuit-comiendo-carne](https://pau.ninja/wp-content/uploads/2021/10/inuit-comiendo-carne.jpeg)
+![inuit-comiendo-carne](./wp-content/uploads/2021/10inuit-comiendo-carne.jpeg)
 
 ¿Cómo puede ser que los Masai, los Samburu o los Inuit tengan esta **salud de hierro**? Debe ser por todo el hierro llamado «hemo» que se meten de los animales que las plantas no tienen.
 
-Si me estáis siguiendo en esta «investigación carnívora» ya vimos [lo buenas que son las grasas saturadas](https://pau.ninja/grasas-saturadas-son-buenas/) (#189). Indispensable para que nuestro cuerpo y mente funcione correctamente.
+Si me estáis siguiendo en esta «investigación carnívora» ya vimos [lo buenas que son las grasas saturadas](./grasas-saturadas-son-buenas) (#189). Indispensable para que nuestro cuerpo y mente funcione correctamente.
 
 Que se lo digan a todas esas tribus.
 
@@ -368,7 +354,7 @@ Tanto las inflamaciones continuas como los bajos niveles de energía eran cosas 
 
 Fue hacer el paso de ir a la carnívora que mi cuerpo me transmitió al instante que algo iba bien.
 
-Os expandiré más en [mi experiencia, opinión y ciencia de la dieta carnívora](https://pau.ninja/dieta-carnivora/).
+Os expandiré más en [mi experiencia, opinión y ciencia de la dieta carnívora](./dieta-carnivora).
 
 ## Carencias nutricionales de la dieta vegana
 
@@ -380,7 +366,7 @@ Análisis de sangre que aunque salían bien, no daban a entender mi auténtica s
 
 Pensad en el hierro.
 
-La carne es rica en hierro y las mujeres acostumbran a ser **aún** más deficientes en hierro que los hombres. Casualmente las mujeres consumen **50% menos carne roja** que los hombres. ¿Qué alimento tiene mucho hierro? la [carne roja](https://pau.ninja/grasas-saturadas-son-buenas/#La_carne_roja_es_buena_para_el_colesterol).
+La carne es rica en hierro y las mujeres acostumbran a ser **aún** más deficientes en hierro que los hombres. Casualmente las mujeres consumen **50% menos carne roja** que los hombres. ¿Qué alimento tiene mucho hierro? la [carne roja](./grasas-saturadas-son-buenas#La_carne_roja_es_buena_para_el_colesterol).
 
 «Pero un momento Pau, hay plantas que ricas en hierro». Totalmente, pero esto no significa que sean un hierro biodisponible. Utilizable.
 
@@ -396,7 +382,7 @@ Un [estudio](https://academic.oup.com/ajcn/article/85/3/778/4633060) miró a muj
 
 En el gráfico del análisis se ve una mejora importante de las mujeres que tuvieron (y pudieron usar bien) ese hierro de más. Básicamente se volvieron más inteligentes. Tal cuál os lo digo.
 
-![deficiencia-hierro](https://pau.ninja/wp-content/uploads/2021/10/deficiencia-hierro.png)
+![deficiencia-hierro](./wp-content/uploads/2021/10deficiencia-hierro.png)
 
 Hay mucha **menos** concentración de minerales como el zinc, el hierro y el cobre en alimentos basados en plantas, que no en animales.
 
@@ -420,7 +406,7 @@ Pero el hierro hemo no es el único que se asocia a una buena inteligencia, tamb
 
 La creatina mejora la inteligencia, la memoria, como se ha demostrado ya en varios de los miles de estudios que hay sobre la creatina.
 
-![estudios-creatina](https://pau.ninja/wp-content/uploads/2021/10/estudios-creatina.png)
+![estudios-creatina](./wp-content/uploads/2021/10estudios-creatina.png)
 
 ¿Sabéis quien es deficiente en creatina? Los veganos que no se suplementan con ella claro. Yo era uno de ellos y esta era un nutriente al que le ponía importancia para ser más fuerte en el gimnasio.
 
@@ -432,7 +418,7 @@ Pasamos a la carencia más obvia: la de la vitamina B12.
 
 Ya sabéis que hago de mamá pájaro. Investigo, pruebo y divulgo para después dar masticadas mis conclusiones y que las podáis desechar, abrazar o profundizar más.
 
-![mamá pájaro audiencia](https://pau.ninja/wp-content/uploads/2021/10/mama-pajaro-audiencia.jpeg)
+![mamá pájaro audiencia](./wp-content/uploads/2021/10mama-pajaro-audiencia.jpeg)
 
 Esta es mi excusa para aprender de todo lo que me interesa, y para poner las cosas en perspectiva siempre busco información «de los dos bandos».
 
@@ -468,7 +454,7 @@ Si obtenemos estas fuentes de plantas, tenemos muchas más posibilidades de que 
 
 No sólo esto pero si obtenemos algo de Omega 3 hay muy poca conversión a DHA.
 
-![conversion-ala-dha](https://pau.ninja/wp-content/uploads/2021/10/conversion-ala-dha.jpg)
+![conversion-ala-dha](./wp-content/uploads/2021/10conversion-ala-dha.jpg)
 
 Imagen: conversión máxima de 9% de ALA a DHA, que es lo que nuestro cerebro quiere.
 
@@ -488,11 +474,11 @@ Había un estudio que se hizo en Ecuador que [vio las ventajas](https://pediatri
 
 ## Razones para NO ser vegano
 
-No sé si hasta ahora he explicado suficientes los [motivos y carencias nutricionales](https://pau.ninja/razones-para-no-ser-vegano/#Carencias_nutricionales_de_la_dieta_vegana) que me llevaron a dejar de ser vegano.
+No sé si hasta ahora he explicado suficientes los [motivos y carencias nutricionales](./razones-para-no-ser-vegano#Carencias_nutricionales_de_la_dieta_vegana) que me llevaron a dejar de ser vegano.
 
 Podríamos indagar en un debate más subjetivo sobre los animales, el medio ambiente y la ética, pero he intentado ser imparcial en cuanto a los datos, porque los datos están allí y cómo diría Ben Shapiro:
 
-![datos-vs-sentimientos](https://pau.ninja/wp-content/uploads/2021/10/datos-vs-sentimientos.jpg)
+![datos-vs-sentimientos](./wp-content/uploads/2021/10datos-vs-sentimientos.jpg)
 
 «A los datos no le importan tus sentimientos».
 
@@ -524,11 +510,11 @@ Con el tema de la fibra fue de lo que fui más escéptico porque pensaba que er
 
 El primer par de semanas en una dieta de sólo carne, hay bastante diarrea porque el colon se está adaptando. Volviendo a los orígenes. A partir de allí, una caquita perfecta al día. Es increíble.
 
-![reduccion-fibra](https://pau.ninja/wp-content/uploads/2021/10/reduccion-fibra.jpeg)
+![reduccion-fibra](./wp-content/uploads/2021/10reduccion-fibra.jpeg)
 
 Fuente: genial trabajo de doctores australianos investigando el [efecto](https://asweetlife.org/is-fiber-really-good-for-you/) real de la fibra. Se ha [visto](https://watermark.silverchair.com/47.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAp0wggKZBgkqhkiG9w0BBwagggKKMIIChgIBADCCAn8GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMJC88VaL5WY2H6aPRAgEQgIICUA6gYZd9-QPlcPFKbLC9iCRBtgriVZeYQVs3alI3Hsk5yPX5hRkeqdQ32FTsZrxgGkeIvTSDi5vHzyuNcyrXDcVMipGvPDvtyL_nbAB2JRd7-htQ33aFaJCldO8DzQS2Sj3lMOI6LaIngxkFIDgM-5R6UVvLenfq_kvzxttFE8NNEp5zWb9nE7bbUraIRGUFio2UjFCSyaHwvRLLuCkgzuDnalWxqgp_O9g7cSOAb1144y89oS39p2kjLD8nRut3o2fRxAe7Trw4S8IoxMN_WfHxfWSjAojBQQljjtU9vIU-udH8aycw-smTGP1QL8hzT6qcC4yITWz9-wjQV8YZDCggZsHb35rOtjMeHbqfVwkoFtkH0Eo926zCd8USNsx26wMDJcxwIqszdbdpRojSXGPOG3ZoZudWJ_oFNkiWRa_DPB9TV5bHp4dOLkdI4_sR_9JmJ7JuS00usixaXLNsDK0mDwVKfugBaplr2RkgvWL-rmRuhl0qdIkFHreNk33SprA9yha96xYYR39yGWTskwXDpa7aKJ6B9sB5yzzkmmIB79hjQueSh-RQXPhteXS-DQhP66dDN49m7QdOrAWHhevVW1-jBqOWuJoAgpQ0Cq1MW7KowG3pUzt-5rMMQmourK0JUf6KhLNZKztZKM49rKH7kz7FUG0KrnQQ71HLx08il2pTYTcdyXf4Myd7JfN4o4xm1V1Ml9-ECZIaeZftDml2dxVVGilo7mYWugGcKfZ5pJr3nGRF6opPbCPOK7GciHaE2Vse7p_PBTk7O0QqFDw) como en los niños la fibra no ayuda, así que esto daría puerta a una supuesta hipótesis.
 
-Claro, a parte de mi experiencia, miré qué ciencia. Pues bien, sólo ha habido **un** [estudio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435786/) experimental que mirara los síntomas del estreñimiento y comparara dietas altas y bajas en fibra. El nombre del *paper* es literalmente:
+Claro, a parte de mi experiencia, miré qué ciencia. Pues bien, sólo ha habido **un** [estudio](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3435786/) experimental que mirara los síntomas del estreñimiento y comparara dietas altas y bajas en fibra. El nombre del _paper_ es literalmente:
 
 > «Detener o reducir la ingesta de fibra dietética reduce el estreñimiento y sus síntomas asociados.»
 
@@ -538,7 +524,7 @@ Yo el primero.
 
 Tenemos la ciencia, la experiencia, ¿y el sentido común de la fibra? mirad. Tener estreñimiento es básicamente querer empujar algo por un agujero pequeño. ¿Tiene sentido hacer las **heces más grandes** para empujar con más fuerza por ese agujero?
 
-![esqueleto-en-el-wc](https://pau.ninja/wp-content/uploads/2021/10/esqueleto-en-el-wc.jpeg)
+![esqueleto-en-el-wc](./wp-content/uploads/2021/10esqueleto-en-el-wc.jpeg)
 
 Joer que daño.
 
@@ -582,9 +568,9 @@ Nuestros ancestros cavernícolas **no eran matemáticos**. Tampoco eran biólogo
 
 Vamos. Que no hubiéramos llegado a 2024 si nuestros antepasados de las cavernas hubieran sido veganos.
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2021/10/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2021/10comic-longevidad.png)
 
-Cuando trate el tema de la [proteína en la dieta carnívora](https://pau.ninja/dieta-carnivora/#Proteina) veremos que es más que probable que se hayan subestimado las cantidades diarias recomendadas.
+Cuando trate el tema de la [proteína en la dieta carnívora](./dieta-carnivora#Proteina) veremos que es más que probable que se hayan subestimado las cantidades diarias recomendadas.
 
 Se consideró en su momento que necesitamos proteínas para «construir» pero no para respuestas enzimáticas del cuerpo.
 
@@ -612,7 +598,7 @@ Pero estos antinutrientes no sólo pueden causar inflamación, sino que también
 
 Por ejemplo se han hecho algunos estudios mirando a la absorción del zinc, y si combinamos un alimento como las ostras que son muy ricas en zinc y las combinas con (por ejemplo) alubias negras al mismo tiempo. ¿Qué sucede? pues que reducimos la absorción de este zinc **a más del 50%**.
 
-![absorcion-zinc](https://pau.ninja/wp-content/uploads/2021/10/absorcion-zinc.jpeg)
+![absorcion-zinc](./wp-content/uploads/2021/10absorcion-zinc.jpeg)
 
 O sea que en efecto estamos absorbiendo la mitad de lo que absorberíamos habitualmente.
 
@@ -620,7 +606,7 @@ Y si lo combinamos con tortillas de maíz la absorción es **del 0%**. O sea qu
 
 De nuevo, no creo que nuestros ancestros supieron de combinaciones, biología y fueran con una hoja Excel para ver si llegaban a sus necesidades de micronutrientes diarias que les habían recomendado la Asociación de Salud de Hombres de las Cavernas.
 
-No me imagino a un *homo-sapiens* que hace años que está usando el fuego y al que se le está expandiendo el cerebro, haciendo cálculos de los tipos de plantas, frutas y alimentos que tiene que tomar cuando ya no tendría abundancia de estos vegetales en primera instancia.
+No me imagino a un _homo-sapiens_ que hace años que está usando el fuego y al que se le está expandiendo el cerebro, haciendo cálculos de los tipos de plantas, frutas y alimentos que tiene que tomar cuando ya no tendría abundancia de estos vegetales en primera instancia.
 
 Sólo entendían lo que les nutría. Lo que les hacía sentir saciados después de un periodo de hambruna.
 
@@ -644,4 +630,95 @@ Y creo que esto es suficiente indicador de que no estamos siguiendo los pasos po
 
 Éticamente más de lo mismo: seguir una dieta vegana sigue implicando miles de muertes de animales y la desertización de los suelos. Y a nivel nutrición también puedo ser redundante:
 
-> No podemos tener por definición, una dieta nutricionalmente completa con una dieta vegana.
+> No podemos tener por definición, una dieta nutricionalmente completa con una dieta vegana. 
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Antiveganismo](./antiveganismo)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/razones-para-no-ser-vegano/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14953,"title":"Los%205%20motivos%20cient%C3%ADficos%20para%20NO%20ser%20vegano%20%E3%80%90%2B%C3%89tica%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/medio-vegano-medio-carnivoro.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

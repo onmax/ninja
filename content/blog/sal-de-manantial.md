@@ -1,28 +1,33 @@
 ---
-title: "Deja de usar sal del Himalaya… (esta es mejor) Te presento la \"sal de manantial\""
+title: "Deja de usar sal del Himalaya… (esta es mejor)"
+url: https://pau.ninja/sal-de-manantial
+slug: sal-de-manantial
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: poniendo-sal-en-comida.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/01/poniendo-sal-en-comida.jpeg
 published: 2023-01-16T09:52:31+00:00
 modified: 2023-09-04T15:38:54+00:00
+scrappedAt: 2024-10-14T09:20:15.309Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65711050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315134945-44100-2-90d3fd601a5ad.mp3
-slug: sal-de-manantial
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/65711050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315134945-44100-2-90d3fd601a5ad.mp3](https://anchor.fm/s/98566448/podcast/play/65711050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315134945-44100-2-90d3fd601a5ad.mp3)
 
 La sal ha sido otra de estas mentiras nutricionales que nos ha colado la industria alimentaria.
 
-Como vimos (#450) los [beneficios de la sal](https://pau.ninja/beneficios-de-la-sal/) para el cuerpo y nuestra salud no son pocos. Siendo el sodio uno de tantos minerales necesarios para estar sanos, para algunas personas poner sal en las comida les subirá automáticamente el nivel de salud.
+Como vimos (#450) los [beneficios de la sal](./beneficios-de-la-sal) para el cuerpo y nuestra salud no son pocos. Siendo el sodio uno de tantos minerales necesarios para estar sanos, para algunas personas poner sal en las comida les subirá automáticamente el nivel de salud.
 
 Incluso llegando a ver en estudios como consumir **el doble** de sal que el Estado recomienda era beneficioso para la hipertensión.
 
-![estudio sal hipertensión](https://pau.ninja/wp-content/uploads/2023/01/estudio-sal-hipertension.png)
+![estudio sal hipertensión](./wp-content/uploads/2023/01estudio-sal-hipertension.png)
 
 ¿Cómo no me voy a ir volviendo cada vez más conspiranoico?
 
 Entre las mentiras de la sal, el colesterol, los carbohidratos, las grasas saturadas, la carne roja…
 
-Pero del mismo modo que algunos etiquetan [la carne roja como mala para la salud](https://pau.ninja/carne-roja-es-mala-para-la-salud/) (#403) y encasillan toda la carne como lo mismo, no todas las carnes son iguales ni tienen la misma densidad nutricional aunque tengan el mismo nombre.
+Pero del mismo modo que algunos etiquetan [la carne roja como mala para la salud](./carne-roja-es-mala-para-la-salud) (#403) y encasillan toda la carne como lo mismo, no todas las carnes son iguales ni tienen la misma densidad nutricional aunque tengan el mismo nombre.
 
 Lo mismo sucede con la sal.
 
@@ -31,27 +36,6 @@ Hay muchos tipos de sal, y te puedo adelantar de buenas a primeras que la sal de
 Pero para tener el contexto, vamos a explorar los tipos de sal que existen, lo buenas y malas que son, y por qué queremos un tipo de sal específica para tener una salud con más salero.
 
 Me parece relevante hablar de los otros tipos de sal antes de pasar a ver al detalle la sal de manantial. Si quieres ver mi análisis y pros/contras de los otros tipos de sal, pulsa aquí para desplegar.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Tipos de sal](#Tipos_de_sal 'Tipos de sal')
-  - [Sal de mesa](#Sal_de_mesa 'Sal de mesa')
-  - [Sal marina sin refinar](#Sal_marina_sin_refinar 'Sal marina sin refinar')
-  - [Sal del Himalaya](#Sal_del_Himalaya 'Sal del Himalaya')
-  - [Sal celta](#Sal_celta 'Sal celta')
-  - [Sal gris celta](#Sal_gris_celta 'Sal gris celta')
-  - [Sal Maldon](#Sal_Maldon 'Sal Maldon')
-  - [Sal Redmond](#Sal_Redmond 'Sal Redmond')
-  - [Fleur de sel](#Fleur_de_sel 'Fleur de sel')
-- [Sal sin microplásticos](#Sal_sin_microplasticos 'Sal sin microplásticos')
-- [Sal de manantial](#Sal_de_manantial 'Sal de manantial')
-  - [Qué es la sal de manantial](#Que_es_la_sal_de_manantial 'Qué es la sal de manantial')
-  - [Cómo se obtiene la sal de manantial](#Como_se_obtiene_la_sal_de_manantial 'Cómo se obtiene la sal de manantial')
-  - [Beneficios de la sal de manantial](#Beneficios_de_la_sal_de_manantial 'Beneficios de la sal de manantial')
-- [¿Cuál es la mejor sal para la salud?](#%C2%BFCual_es_la_mejor_sal_para_la_salud '¿Cuál es la mejor sal para la salud?')
-- [¿Cuál es la mejor sal para cocinar?](#%C2%BFCual_es_la_mejor_sal_para_cocinar '¿Cuál es la mejor sal para cocinar?')
 
 ## Tipos de sal
 
@@ -71,7 +55,7 @@ Asumimos que este tipo de sal viene del océano pero en realidad la sal de mesa 
 
 ¿Es este el motivo por el que el consumo de sodio se asocia con cosas negativas como la hipertensión? Podría ser que sí.
 
-Algunos están tan asustados de la sal como de [tomar el sol sin crema](https://pau.ninja/tomar-el-sol-sin-crema/), [el colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/) o hasta la [carne roja](https://pau.ninja/carne-roja-es-mala-para-la-salud/) y todos estos otros mitos que ya hemos desmentido en este podcast con estudios y sentido común.
+Algunos están tan asustados de la sal como de [tomar el sol sin crema](./tomar-el-sol-sin-crema/), [el colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/) o hasta la [carne roja](https://pau.ninja/carne-roja-es-mala-para-la-salud) y todos estos otros mitos que ya hemos desmentido en este podcast con estudios y sentido común.
 
 Igual que muchas otras cosas que consumimos, no es sólo la comida (el nombre de la comida). La carne es un alimento totalmente diferente si es de pasto que cuando lo compras en el supermercado. Tan diferente como el día o la noche a pesar de tener el mismo nombre.
 
@@ -92,9 +76,9 @@ Pasa exactamente lo mismo con el sodio y la sal.
 
 La sal de mesa está procesada mientras que típicamente la que viene de rocas o océano, no lo está.
 
-Mirad si está procesada la sal de mesa que **se calienta a más de 1.000 grados** para eliminar impurezas pero como sucede con la [leche pasteurizada](https://pau.ninja/es-bueno-beber-leche/#Que_es_la_pasteurizacion) esto también tira por la borda a los beneficios como los minerales traza que inicialmente se encontraban en esa sal.
+Mirad si está procesada la sal de mesa que **se calienta a más de 1.000 grados** para eliminar impurezas pero como sucede con la [leche pasteurizada](./es-bueno-beber-leche#Que_es_la_pasteurizacion) esto también tira por la borda a los beneficios como los minerales traza que inicialmente se encontraban en esa sal.
 
-![minerales traza](https://pau.ninja/wp-content/uploads/2023/01/minerales-traza.png)
+![minerales traza](./wp-content/uploads/2023/01minerales-traza.png)
 
 Aunque es verdad que tampoco es tan significativo porque la sal está compuesta de sodio y cloruro principalmente. Los otros minerales sólo componen menos del 2% de la sal independientemente del tipo.
 
@@ -215,13 +199,13 @@ Pero precisamente por esto, no compraría este tipo de sal. Al ser copos enormes
 
 La sal Redmond es presuntamente de unos antiguos fondos marinos minerales en el Estado de Utah en Estados Unidos.
 
-[![Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUWMyeEpUV2RxYzB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTExNw=)](https://www.amazon.es/dp/B00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)')
+[![Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUWMyeEpUV2RxYzB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDQ4Nw=)](https://www.amazon.es/dpB00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)")
 
-[Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)](https://www.amazon.es/dp/B00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)')
+[Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)](https://www.amazon.es/dp/B00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)")
 
 64,09 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Para mí esta vendría ser uno de los mejores tipos de sal de 360 grados para cocinar, comer… todo. Es la sal multipotencial.
 
@@ -229,15 +213,15 @@ Además si alguien está pensando en reducir la cantidad de sal que consumen por
 
 ### Fleur de sel
 
-Y también tenemos la *fleur de sel*, seguramente la sal más famosa del mundo.
+Y también tenemos la _fleur de sel_, seguramente la sal más famosa del mundo.
 
-[![Le Saunier De Camargue Flor de Sal de la Camargue - 125 g](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFcmQxUmhOek5FTjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTExOQ=)](https://www.amazon.es/dp/B003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Le Saunier De Camargue Flor de Sal de la Camargue - 125 g')
+[![Le Saunier De Camargue Flor de Sal de la Camargue - 125 g](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFcmQxUmhOek5FTjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDQ4Nw=)](https://www.amazon.es/dpB003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Le Saunier De Camargue Flor de Sal de la Camargue - 125 g")
 
-[Le Saunier De Camargue Flor de Sal de la Camargue - 125 g](https://www.amazon.es/dp/B003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Le Saunier De Camargue Flor de Sal de la Camargue - 125 g')
+[Le Saunier De Camargue Flor de Sal de la Camargue - 125 g](https://www.amazon.es/dp/B003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Le Saunier De Camargue Flor de Sal de la Camargue - 125 g")
 
 12,43 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Aunque creo que la sal del Himalaya la está superando ya en términos de marketing porque muchos habrán escuchado sobre la sal rosa pero no sobre esta.
 
@@ -249,9 +233,9 @@ Encontraréis que el tipo de sal que os sabe más salado será la que venga del 
 
 Cuando se tritura la sal, a más pequeño, más dejan ir el sabor a sodio, pero, el sabor de _fleur de sel_ es igual de salado que el de sal más finas porque no se os tiene que olvidar que nosotros también trituramos con los dientes.
 
-Es seguramente la sal más cara porque tiene un sabor salado muy balanceado y salado a pesar de tener copos grandes, porque lo que sucede es que tomas tu primer bocado de tu entrecot con un pedazo de copo de sal y te revienta un poco en la boca como si fuera un *peta zetas*.
+Es seguramente la sal más cara porque tiene un sabor salado muy balanceado y salado a pesar de tener copos grandes, porque lo que sucede es que tomas tu primer bocado de tu entrecot con un pedazo de copo de sal y te revienta un poco en la boca como si fuera un _peta zetas_.
 
-A medida que vas masticando la carne, la *fleur de sel* va dejando ir su sabor. Digamos que es un condimento más consistente pero no significa necesariamente que guste más.
+A medida que vas masticando la carne, la _fleur de sel_ va dejando ir su sabor. Digamos que es un condimento más consistente pero no significa necesariamente que guste más.
 
 Por esto la sal _fleur de sel_ sería una buena opción para servir antes de comer, pero en cuanto a mejor sal para cocinar, tendría más sentido usar un tipo de sal de copos finos, porque tendrán un golpe inicial de sabor salado momentáneo que se va al cabo de poco, en comparación con _fleur de sel_.
 
@@ -277,7 +261,7 @@ Los microplásticos pueden transportar toxinas del plástico en sí, así como o
 
 ## Sal de manantial
 
-El último tipo es una sal de la que seguramente no has escuchado hablar nunca: la sal de manantial ([mira mis recursos](https://pau.ninja/recursos/) para ver la marca que utilizo yo).
+El último tipo es una sal de la que seguramente no has escuchado hablar nunca: la sal de manantial ([mira mis recursos](./recursos) para ver la marca que utilizo yo).
 
 ### Qué es la sal de manantial
 
@@ -286,8 +270,6 @@ La sal de manantial es una especie de híbrido entre sal de mar y sal de roca co
 ### Cómo se obtiene la sal de manantial
 
 Se obtiene a través de las aguas de manantial que hay en los acuíferos subterráneos. Esta agua fluye y la sal se queda en la roca donde se vuelve hipersalinizada. Entonces pasa a fluir por encima del suelo donde se evapora de forma natural y los cristales restantes se cosechan a mano.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 ### Beneficios de la sal de manantial
 
@@ -301,13 +283,13 @@ La mejor sal para la salud es la sal de manantial porque para recolectarla se us
 
 De buenas a primeras evitamos los problemas de contaminación tanto de los océanos como de la maquinaria usada en la tierra para extraerla.
 
-[![Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWVkzcFBSbk01Tmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5OTExOQ=)](https://www.amazon.es/dp/B087JNMDVW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...')
+[![Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWVkzcFBSbk01Tmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDQ4Nw=)](https://www.amazon.es/dpB087JNMDVW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...")
 
-[Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...](https://www.amazon.es/dp/B087JNMDVW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...')
+[Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...](https://www.amazon.es/dp/B087JNMDVW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Ancestral Sal de Manantial en Escamas 1500g. Sal de Manantial 100% Natural, Sin Aditivos ni...")
 
 29,90 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B087JNMDVW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B087JNMDVW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 No recomiendo sal de manantial porque sea miraculosa, sino porque es tan importante **evitar lo negativo** como hacerte con lo positivo.
 
@@ -330,3 +312,93 @@ La sal marina no es que sea muy placentera. Parece que metas la boca en el agua 
 La sal de manantial es mucho más blanda porque como tiene más porcentaje de materiales traza esto hace que el sabor quede nivelado.
 
 Al ser los copos más grandes si que os podría recomendar comprarla con triturador pequeño porque así se «abren» con vuestra carne.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06compartir-en-tiktok.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/sal-de-manantial/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":16063,"title":"%E3%80%90Sal%20de%20manantial%E3%80%91%20%C2%BFMejor%20sal%20de%20cocina%20y%20salud%3F","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/01\\/poniendo-sal-en-comida.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,13 +1,18 @@
 ---
 title: "El lado oscuro de las gafas (de sol)"
+url: https://pau.ninja/es-malo-llevar-gafas-de-sol
+slug: es-malo-llevar-gafas-de-sol
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-con-gafas-de-sol-en-la-playa.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/05/persona-con-gafas-de-sol-en-la-playa.jpeg
 published: 2023-05-23T05:16:31+00:00
 modified: 2023-09-09T11:07:27+00:00
+scrappedAt: 2024-10-14T09:19:59.896Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/73871551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-26%2F340719942-44100-2-bc4a1b9be4aae.mp3
-slug: es-malo-llevar-gafas-de-sol
+bibliography: ["Janich P, Toufighi K, Solanas G, Luis NM, Minkwitz S, Serrano L, Lehner B, Benitah SA. Human epidermal stem cell function is regulated by circadian oscillations. Cell Stem Cell. 2013 Dec 5;13(6):745-53. doi: 10.1016/j.stem.2013.09.004. Epub 2013 Oct 10. PMID: 24120744.","Alsalem JA, Patel D, Susarla R, Coca-Prados M, Bland R, Walker EA, Rauz S, Wallace GR. Characterization of vitamin D production by human ocular barrier cells. Invest Ophthalmol Vis Sci. 2014 Apr 7;55(4):2140-7. doi: 10.1167/iovs.13-13019. PMID: 24576880.","Lin Y, Ubels JL, Schotanus MP, Yin Z, Pintea V, Hammock BD, Watsky MA. Enhancement of vitamin D metabolites in the eye following vitamin D3 supplementation and UV-B irradiation. Curr Eye Res. 2012 Oct;37(10):871-8. doi: 10.3109/02713683.2012.688235. Epub 2012 May 25. PMID: 22632164; PMCID: PMC3572765.","Radiation: Ultraviolet (UV) radiation 9 March 2016 | Q&A, WHO","Grønskov K, Ek J, Brondum-Nielsen K. Oculocutaneous albinism. Orphanet J Rare Dis. 2007 Nov 2;2:43. doi: 10.1186/1750-1172-2-43. PMID: 17980020; PMCID: PMC2211462.","Ham WT Jr, Mueller HA, Ruffolo JJ Jr, Clarke AM. Sensitivity of the retina to radiation damage as a function of wavelength. Photochem Photobiol. 1979 Apr;29(4):735-43. doi: 10.1111/j.1751-1097.1979.tb07759.x. PMID: 109869.","Lazzerini Ospri L, Prusky G, Hattar S. Mood, the Circadian System, and Melanopsin Retinal Ganglion Cells. Annu Rev Neurosci. 2017 Jul 25;40:539-556. doi: 10.1146/annurev-neuro-072116-031324. Epub 2017 May 17. PMID: 28525301; PMCID: PMC5654534.","Son, J.-H., et al. (2017). Five cases of phytophotodermatitis caused by fig leaves and relevant literature review.","Johnson-Arbor, K. (n.d.). Lime juice + sun can cause skin rashes. All about phytophotodermatitis.","Hankinson, A., et al. (2014). Lime-induced phytophotodermatitis.","Almeida, H. L., Jr., et al. (2016). Phytophotodermatitis: A review of its clinical and pathogenic aspects."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/73871551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-26%2F340719942-44100-2-bc4a1b9be4aae.mp3](https://anchor.fm/s/98566448/podcast/play/73871551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-26%2F340719942-44100-2-bc4a1b9be4aae.mp3)
 
 ¿Alguna vez has visto a un gorila con **gafas de sol**? ¿Y a un lobo? ¿Has visto algún documental sobre indígenas que las estuvieran usando?
@@ -26,7 +31,7 @@ Y ya sé que me vas a decir: «Pau pero es que a mí el sol me molesta». Yo er
 
 Quizás de pequeño tus padres te ponían una gorra al revés, unas gafas de sol de esas de plástico para que fueras el niño molón cada vez que te sacaban de paseo. Pues claro que eres sensible a la luz.
 
-![meme gafas de sol](https://pau.ninja/wp-content/uploads/2023/05/meme-gafas-de-sol.jpeg)
+![meme gafas de sol](./wp-content/uploads/2023/05meme-gafas-de-sol.jpeg)
 
 Es como si teniendo tus piernas increíblemente sanas decides sentarte en una silla de ruedas y no levantarte durante años. ¿Qué sucederá? Pues que tus músculos se van a atrofiar. Entonces lo que me vas a decir es «Pau es que no puedo caminar, por esto voy en silla de ruedas».
 
@@ -36,37 +41,11 @@ A pesar de estar en silla de ruedas, tus piernas están sanas. Débiles, pero sa
 
 Esta analogía no está tan lejos de la realidad, y si no, miraros la película Wall-E de Disney, en lo que los pocos humanos que quedan han atrofiado sus músculos dejando todo el trabajo duro de la vida para los robots.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Los que os habéis roto algún hueso lo sabéis perfectamente. El músculo se te debilita y cuando te sacan el yeso lo que tienes que hacer para volverlo a tener con la musculatura normal es… **usar el músculo**.
 
 Sólo por esta razón de sentido común, ya podemos ver que tiene todo el sentido del mundo **no usar gafas de sol**, pero como siempre hacemos este podcast, a parte de haber apelado al sentido común, vamos a utilizar datos para respaldar esta conclusión.
 
 ¿Son las gafas de sol (ya no innecesarias) sino incluso **malas** para la salud?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Razones para (no) usar gafas de sol](#Razones_para_no_usar_gafas_de_sol 'Razones para (no) usar gafas de sol')
-  - [Quemarte la piel](#Quemarte_la_piel 'Quemarte la piel')
-  - [Daños del sol](#Danos_del_sol 'Daños del sol')
-  - [Cataratas](#Cataratas 'Cataratas')
-  - [Sintetizar vitamina D](#Sintetizar_vitamina_D 'Sintetizar vitamina D')
-  - [Declaración de moda](#Declaracion_de_moda 'Declaración de moda')
-- [Excepciones cuando (sí) usar gafas de sol](#Excepciones_cuando_si_usar_gafas_de_sol 'Excepciones cuando (sí) usar gafas de sol')
-  - [En el coche](#En_el_coche 'En el coche')
-  - [En la nieve](#En_la_nieve 'En la nieve')
-  - [En alta mar](#En_alta_mar 'En alta mar')
-  - [En bicicleta](#En_bicicleta 'En bicicleta')
-- [Ojos claros VS ojos oscuros](#Ojos_claros_VS_ojos_oscuros 'Ojos claros VS ojos oscuros')
-- [La mejores gafas de sol para la salud](#La_mejores_gafas_de_sol_para_la_salud 'La mejores gafas de sol para la salud')
-  - [Día: gafas para fotosensibilidad](#Dia_gafas_para_fotosensibilidad 'Día: gafas para fotosensibilidad')
-  - [Noche: gafas de luz roja](#Noche_gafas_de_luz_roja 'Noche: gafas de luz roja')
-  - [¿Qué hay de las lentillas?](#%C2%BFQue_hay_de_las_lentillas '¿Qué hay de las lentillas?')
-- [Por qué los carnívoros nos quemamos menos (y vemos mejor)](#Por_que_los_carnivoros_nos_quemamos_menos_y_vemos_mejor 'Por qué los carnívoros nos quemamos menos (y vemos mejor)')
-- [Buenos hábitos para tus ojos](#Buenos_habitos_para_tus_ojos 'Buenos hábitos para tus ojos')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Razones para (no) usar gafas de sol
 
@@ -76,11 +55,11 @@ Para proteger la cara en un entorno social, no para bloquear el sol… que es en
 
 Dormimos dentro. Nos levantamos y vivimos dentro de los sitios. Trabajamos dentro. Eso sí, siempre rodeados de luz artificial. Nos vamos a otro sitio y para hacerlo, vamos en el autobús o en el coche. Pero resulta que las ventanillas usan cristales que bloquean la luz beneficios del sol. Por eso encontramos camioneros con media cara arrugada ([motivo](https://www.instagram.com/p/CsO5J_3ARj4/)).
 
-![camionero con arrugas del sol](https://pau.ninja/wp-content/uploads/2023/04/camionero-con-arrugas-del-sol.jpeg)
+![camionero con arrugas del sol](./wp-content/uploads/2023/04camionero-con-arrugas-del-sol.jpeg)
 
 En occidente todo sucede dentro.
 
-Nuestra «dieta solar» termina siendo de luz azul artificial, [omitiendo por competo los beneficios de la luz roja](https://pau.ninja/terapia-de-luz-roja-beneficios/) (#473) por el miedo al sol. Y es que encima el poco rato que estamos fuera para caminar hasta la oficina, la cafetería, el gimnasio o donde sea… **encima** nos ponemos gafas de sol.
+Nuestra «dieta solar» termina siendo de luz azul artificial, [omitiendo por competo los beneficios de la luz roja](./terapia-de-luz-roja-beneficios) (#473) por el miedo al sol. Y es que encima el poco rato que estamos fuera para caminar hasta la oficina, la cafetería, el gimnasio o donde sea… **encima** nos ponemos gafas de sol.
 
 ¿Qué sucede cuando nos las ponemos? Estamos trampeando la información. Le estamos diciendo al cerebro que es más oscuro de lo que en realidad es y esto tiene consecuencias nefastas para la salud.
 
@@ -94,7 +73,7 @@ Nuestros ojos ven cierta cantidad de luz, mandan información al cuerpo para ini
 
 Cuando tienes las tienes puestas le están diciendo a tu cerebro que no hay UVA y UVB. Básicamente llevándolas **estás engañando a tu cerebro** sobre el tipo de luz que hay.
 
-Sin gafas de sol, los ojos mandarán señales para activar la melanina que tiene un componente de protección de piel[1](<javascript:void(0)>)Janich P, Toufighi K, Solanas G, Luis NM, Minkwitz S, Serrano L, Lehner B, Benitah SA. Human epidermal stem cell function is regulated by circadian oscillations. Cell Stem Cell. 2013 Dec 5;13(6):745-53. doi: 10.1016/j.stem.2013.09.004. Epub 2013 Oct 10. PMID: 24120744.. Por esto no verás negros quemados y un montón de albinos quemándose. Porque la melanina protege de daño solar.
+Sin gafas de sol, los ojos mandarán señales para activar la melanina que tiene un componente de protección de piel[ref-1](#ref-1){.ref}. Por esto no verás negros quemados y un montón de albinos quemándose. Porque la melanina protege de daño solar.
 
 ### Daños del sol
 
@@ -118,13 +97,13 @@ Esta cirugía es una solución moderna a un problema moderno: las gafas de sol y
 
 ### Sintetizar vitamina D
 
-[El sol crea vitamina D](https://pau.ninja/como-tomar-vitamina-d-del-sol/) en nuestra piel, pero como llevamos repitiendo en el podcast, el cuerpo es sinergístico. De hecho nuestros ojos tienen células que forman parte de la síntesis de la vitamina D[2](<javascript:void(0)>)Alsalem JA, Patel D, Susarla R, Coca-Prados M, Bland R, Walker EA, Rauz S, Wallace GR. Characterization of vitamin D production by human ocular barrier cells. Invest Ophthalmol Vis Sci. 2014 Apr 7;55(4):2140-7. doi: 10.1167/iovs.13-13019. PMID: 24576880.[3](<javascript:void(0)>)Lin Y, Ubels JL, Schotanus MP, Yin Z, Pintea V, Hammock BD, Watsky MA. Enhancement of vitamin D metabolites in the eye following vitamin D3 supplementation and UV-B irradiation. Curr Eye Res. 2012 Oct;37(10):871-8. doi: 10.3109/02713683.2012.688235. Epub 2012 May 25. PMID: 22632164; PMCID: PMC3572765..
+[El sol crea vitamina D](./como-tomar-vitamina-d-del-sol) en nuestra piel, pero como llevamos repitiendo en el podcast, el cuerpo es sinergístico. De hecho nuestros ojos tienen células que forman parte de la síntesis de la vitamina D[ref-2](#ref-2){.ref}[ref-3](#ref-3){.ref}.
 
 ### Declaración de moda
 
 Entiendo que pueda ser una declaración de moda. Porque las h0didas estilizan la cara un montón haciéndote x100 veces más atractivo.
 
-![pau ninja en fotos](https://pau.ninja/wp-content/uploads/2021/09/pau-ninja-en-fotos.jpeg)
+![pau ninja en fotos](./wp-content/uploads/2021/09pau-ninja-en-fotos.jpeg)
 
 [Fotos de mi Instagram](https://www.instagram.com/pau_ninja/): ahora ya no puedo hacer estos truquitos de ocultar el feo porque las que tengo no son para usar fuera en la calle (ni en verano).
 
@@ -136,7 +115,7 @@ Las gafas de sol hacen exactamente lo mismo. Si la mascarilla nos tapaba el feo 
 
 Y me diréis, «vale Pau, esto debe significar que ya no eres dueño de unas gafas de sol, ¿no?». Pues os equivocáis.
 
-Igual que tengo [un par de modelos de lámparas de luz roja e infrarroja](https://pau.ninja/lampara-luz-roja-e-infrarroja/) para **solucionar un problema moderno** (no tener la logística para ver los amaneceres), tener gafas de sol pueden ser útiles en situaciones… lo habéis adivinado: «antinaturales».
+Igual que tengo [un par de modelos de lámparas de luz roja e infrarroja](./lampara-luz-roja-e-infrarroja) para **solucionar un problema moderno** (no tener la logística para ver los amaneceres), tener gafas de sol pueden ser útiles en situaciones… lo habéis adivinado: «antinaturales».
 
 > Un invento moderno para contrarrestar un entorno moderno.
 
@@ -152,11 +131,11 @@ Claro que si conduces por una carretera secundaria y tienes la opción de bajar 
 
 ### En la nieve
 
-La nieve y el hielo reflejan un 80% de la radiación ultravioleta (UV)[4](<javascript:void(0)>)Radiation: Ultraviolet (UV) radiation 9 March 2016 | Q&A, WHO y estar expuesto ahí te podría hacer tener una [queratopatía](https://www.msdmanuals.com/es/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-la-c%C3%B3rnea/queratopat%C3%ADa-ampollar) (hinchazón en la cornea por una especie de «quemazón»).
+La nieve y el hielo reflejan un 80% de la radiación ultravioleta (UV)[ref-4](#ref-4){.ref} y estar expuesto ahí te podría hacer tener una [queratopatía](https://www.msdmanuals.com/es/hogar/trastornos-oft%C3%A1lmicos/trastornos-de-la-c%C3%B3rnea/queratopat%C3%ADa-ampollar) (hinchazón en la cornea por una especie de «quemazón»).
 
 Es por esto que se han encontrado gafas de sol (propiamente dichas) aún más antiguas que las Chinas: las de los inuit. Los nativos del norte del Planeta que habían fabricado una gafas hechas con marfil de morsa con pequeñas ranuras talladas en él para poder mirar en estos pequeños cortes y así tener menos expuestos los ojos al reflejo de la nieve.
 
-![inuit con gafas de sol](https://pau.ninja/wp-content/uploads/2023/05/inuit-con-gafas-de-sol.jpeg)
+![inuit con gafas de sol](./wp-content/uploads/2023/05inuit-con-gafas-de-sol.jpeg)
 
 «Ah ves Pau. ¿No decías que lo indígenas no las usaban?». Recordemos donde viven los Inuit… en el norte del planeta rodeados de nieve. Sus gafas no tienen cristales, y están hechos para poder reducir el brillo que refleja la nieve por el sol.
 
@@ -184,11 +163,9 @@ Nuestros ancestros (los llamados «humanos originales») tenían los ojos oscuro
 
 Ya he hablado de esta fecha fatídica en el podcast más de una vez. Cuando se inventa la agricultura, cuando domesticamos las plantas es cuando nuestra salud empezara a h0derse. A degradarse poco a poco… **incluyendo los ojos**.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Es en ese momento (hace 10.000 años) cuando empiezan a aparecer las **primeras personas con una mutación genética** que hacía que sus ojos fueran de colores claros como azul o verde o gris.
 
-> Este gen llamado OCA2 no «hace» azul (o verde) el iris del ojo, sino que lo que hace es «apagar» el mecanismo que produce el pigmento de melanina marrón[5](<javascript:void(0)>)Grønskov K, Ek J, Brondum-Nielsen K. Oculocutaneous albinism. Orphanet J Rare Dis. 2007 Nov 2;2:43. doi: 10.1186/1750-1172-2-43. PMID: 17980020; PMCID: PMC2211462..
+> Este gen llamado OCA2 no «hace» azul (o verde) el iris del ojo, sino que lo que hace es «apagar» el mecanismo que produce el pigmento de melanina marrón[ref-5](#ref-5){.ref}.
 
 Sería el equivalente a ser albino de piel y no producir melanina para ponerte moreno, pero en vez de esto sucede en los ojos. De hecho las siglas de este gen vienen para describir el [albinismo](https://medlineplus.gov/spanish/ency/article/001479.htm): el defecto genético de producir melanina.
 
@@ -240,7 +217,7 @@ El color de tus ojos te dice el tipo de ojos que tienes.
 
 **Si tienes un color más claro tipo azul o verde, tus ojos serán más sensibles** a la luz porque tienes menos pigmento. Menos carbono, menos melanina en tu iris (la parte de color de tu ojo). Esto es lo que hace que tus ojos sean más sensibles al sol.
 
-![partes del ojo](https://pau.ninja/wp-content/uploads/2023/05/partes-del-ojo.jpeg)
+![partes del ojo](./wp-content/uploads/2023/05partes-del-ojo.jpeg)
 
 Tanto a nivel del iris como de la [coroides](https://www.cancer.gov/espanol/publicaciones/diccionarios/diccionario-cancer/def/coroides) del ojo, que es la membrana, la capa delgadita superficial que rodea el ojo en la parte trasera del ojo que no vemos, hay pigmentación.
 
@@ -296,15 +273,13 @@ Primero hay que distinguir si realmente tienes fotofobia o eres fotosensible, o 
 
 ### Día: gafas para fotosensibilidad
 
-El problema de las luces LED y fluorescentes no es tanto la luz azul en general cuando es de día (y sí estaríamos expuestos a ciertas frecuencias de luz azul), sino **la intensidad dentro del espectro azul** al que se expone nuestra retina. Específicamente a 450 nanómetros de luz azul porque esa intensidad supera con crecer la capacidad que tiene la retina del ojo[6](<javascript:void(0)>)Ham WT Jr, Mueller HA, Ruffolo JJ Jr, Clarke AM. Sensitivity of the retina to radiation damage as a function of wavelength. Photochem Photobiol. 1979 Apr;29(4):735-43. doi: 10.1111/j.1751-1097.1979.tb07759.x. PMID: 109869..
+El problema de las luces LED y fluorescentes no es tanto la luz azul en general cuando es de día (y sí estaríamos expuestos a ciertas frecuencias de luz azul), sino **la intensidad dentro del espectro azul** al que se expone nuestra retina. Específicamente a 450 nanómetros de luz azul porque esa intensidad supera con crecer la capacidad que tiene la retina del ojo[ref-6](#ref-6){.ref}.
 
-Todo lo que son frecuencias que pasan los 450 nanómetros es beneficioso para los ojos porque nos los protegen además de ayudar en funciones cognitivas, además de que se ha demostrado que estimula las células de la retina que son fotosensibles y también forman parte de este reloj biológico que tenemos[7](<javascript:void(0)>)Lazzerini Ospri L, Prusky G, Hattar S. Mood, the Circadian System, and Melanopsin Retinal Ganglion Cells. Annu Rev Neurosci. 2017 Jul 25;40:539-556. doi: 10.1146/annurev-neuro-072116-031324. Epub 2017 May 17. PMID: 28525301; PMCID: PMC5654534..
+Todo lo que son frecuencias que pasan los 450 nanómetros es beneficioso para los ojos porque nos los protegen además de ayudar en funciones cognitivas, además de que se ha demostrado que estimula las células de la retina que son fotosensibles y también forman parte de este reloj biológico que tenemos[ref-7](#ref-7){.ref}.
 
 O sea que puede ser una buena idea hacerse con una gafas de sol que no son realmente de sol sino especiales, sino que son unas… llamémoslas **gafas de día** si haces vida en entornos con un montón de luz artificial.
 
-Son [gafas para fotofobia que protegen de la fotosensibilidad](https://pau.ninja/tienda/gafas-para-fotofobia/) de aquellos que las luz les molesta extra. Aunque todo el mundo se beneficiaría de llevarlas.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+Son [gafas para fotofobia que protegen de la fotosensibilidad](./tienda/gafas-para-fotofobia) de aquellos que las luz les molesta extra. Aunque todo el mundo se beneficiaría de llevarlas.
 
 En este caso las **gafas tintadas de color amarillo** son la mejor opción. No naranja, no rojo, no ámbar. Amarillo.
 
@@ -314,14 +289,14 @@ El cerebro tiene que saber que sí hay luz azul, el problema recordemos que es l
 
 ### Noche: gafas de luz roja
 
-[Si te proteges de la luz azul](https://pau.ninja/como-protegerse-de-la-luz-azul/) por completo durante el día (#456) con [unas gafas rojas anti luz azul](https://pau.ninja/como-protegerse-de-la-luz-azul/#Mejores_gafas_anti_luz_azul) cuando es la hora del día donde sí habría luz azul, sería el equivalente a ponerte luz azul a propósito por la noche.
+[Si te proteges de la luz azul](./como-protegerse-de-la-luz-azul/) por completo durante el día (#456) con [unas gafas rojas anti luz azul](https://pau.ninja/como-protegerse-de-la-luz-azul#Mejores_gafas_anti_luz_azul) cuando es la hora del día donde sí habría luz azul, sería el equivalente a ponerte luz azul a propósito por la noche.
 
-[![gafas luz roja protección luz azul](https://pau.ninja/wp-content/uploads/2023/07/gafas-luz-roja-proteccion-luz-azul.jpeg)](https://pau.ninja/gafas)
+[![gafas luz roja protección luz azul](./wp-content/uploads/2023/07/gafas-luz-roja-proteccion-luz-azul.jpeg)](https://pau.ninjagafas)  
 [Comprar aquí](https://pau.ninja/gafas)
 
 - **Cupón descuento:** _RECURSOS_
 - **Modelo:** Sport de máxima protección (gafas de noche)
-- **Precio:** 55€ aprox (sin aplicar cupón)
+- **Precio:** 55€ aprox (sin aplicar cupón) 
 
 La gafas rojas anti luz azul **sólo** deberíamos usarlas cuando ya se ha puesto el sol. Cuando no tendría que haber luz azul en el cielo (pero que desgraciadamente sí ponemos artificialmente).
 
@@ -345,11 +320,11 @@ Es ir en contra de _status quo_… Y ya sabéis como termina este cuento cuando 
 
 ## Por qué los carnívoros nos quemamos menos (y vemos mejor)
 
-Yo he dejado de usar gafas de sol (menos en la nieve, en alta mar o en coche por autopistas). Con una mejora que como no, vino a partir de [tomar la decisión de no comer verduras](https://pau.ninja/no-comer-verduras/) (#268). A comer sólo productos animales desde hace +2 años.
+Yo he dejado de usar gafas de sol (menos en la nieve, en alta mar o en coche por autopistas). Con una mejora que como no, vino a partir de [tomar la decisión de no comer verduras](./no-comer-verduras) (#268). A comer sólo productos animales desde hace +2 años.
 
 Hay montones de reportes anecdóticos de personas que siguen una dieta carnívora **quemándose menos** y con menos sensibilidad a la luz.
 
-«Ya Pau, pero son anécdotas…» Lo interesante de una dieta de sólo carne es que la ciencia tradicional dice no querer hacer ciertos estudios porque «no es ético [porque la carne es mala para la salud](https://pau.ninja/carne-roja-es-mala-para-la-salud/)» (#403). Y con esto, hay muy pocos estudios.
+«Ya Pau, pero son anécdotas…» Lo interesante de una dieta de sólo carne es que la ciencia tradicional dice no querer hacer ciertos estudios porque «no es ético [porque la carne es mala para la salud](./carne-roja-es-mala-para-la-salud)» (#403). Y con esto, hay muy pocos estudios.
 
 Pero nunca hagas un feo a un buen volumen de anécdotas. En especial si seguimos al sentido común.
 
@@ -359,13 +334,13 @@ Una teoría que intenta explicar **por qué los carnívoros se queman menos** qu
 
 Una dieta de sólo carne restablece (o lo hace mucho mejor) el ratio 1:1 que debe haber entre los ácidos grasos omega-3 y omega-6.
 
-![omega3 animales pasto](https://pau.ninja/wp-content/uploads/2021/10/omega3-animales-pasto.jpeg)
+![omega3 animales pasto](./wp-content/uploads/2021/10omega3-animales-pasto.jpeg)
 
 La fotosensibilidad tanto de los ojos como de la piel, puede ser afectada directamente por lo que comemos. Esto incluye tanto medicamentos como tipos de plantas.
 
-Por ejemplo la fotodermatitis está directamente ligada al sol **y** las plantas. Elementos que van de la mano[8](<javascript:void(0)>)Son, J.-H., et al. (2017). Five cases of phytophotodermatitis caused by fig leaves and relevant literature review.[9](<javascript:void(0)>)Johnson-Arbor, K. (n.d.). Lime juice + sun can cause skin rashes. All about phytophotodermatitis.[10](<javascript:void(0)>)Hankinson, A., et al. (2014). Lime-induced phytophotodermatitis.[11](<javascript:void(0)>)Almeida, H. L., Jr., et al. (2016). Phytophotodermatitis: A review of its clinical and pathogenic aspects..
+Por ejemplo la fotodermatitis está directamente ligada al sol **y** las plantas. Elementos que van de la mano[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}.
 
-Otra de las consecuencias de no comer verduras es omitir ya no sólo [los antinutrientes](https://pau.ninja/antinutrientes-lista/) (#277), sino los componentes que nos hacen más fotosensibles. Y a pesar de que es sólo una teoría, podría tener sentido si consideramos que las plantas que nos estamos comiendo, son altamente sensibles a la luz por su desarrollo.
+Otra de las consecuencias de no comer verduras es omitir ya no sólo [los antinutrientes](./antinutrientes-lista) (#277), sino los componentes que nos hacen más fotosensibles. Y a pesar de que es sólo una teoría, podría tener sentido si consideramos que las plantas que nos estamos comiendo, son altamente sensibles a la luz por su desarrollo.
 
 ## Buenos hábitos para tus ojos
 
@@ -384,51 +359,3 @@ Esta va a ser la primera información que nuestro cerebro va a recibir del entor
 - Qué momento del día es para empezar (o no hacer) ciertos procesos en el cuerpo
 
 Así que deja de engañar a tu cerebro dándole información falsa de la luz que hay en el cielo.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Janich P, Toufighi K, Solanas G, Luis NM, Minkwitz S, Serrano L, Lehner B, Benitah SA. Human epidermal stem cell function is regulated by circadian oscillations. Cell Stem Cell. 2013 Dec 5;13(6):745-53. doi: 10.1016/j.stem.2013.09.004. Epub 2013 Oct 10. PMID: 24120744.
-
-- 2
-
-  Alsalem JA, Patel D, Susarla R, Coca-Prados M, Bland R, Walker EA, Rauz S, Wallace GR. Characterization of vitamin D production by human ocular barrier cells. Invest Ophthalmol Vis Sci. 2014 Apr 7;55(4):2140-7. doi: 10.1167/iovs.13-13019. PMID: 24576880.
-
-- 3
-
-  Lin Y, Ubels JL, Schotanus MP, Yin Z, Pintea V, Hammock BD, Watsky MA. Enhancement of vitamin D metabolites in the eye following vitamin D3 supplementation and UV-B irradiation. Curr Eye Res. 2012 Oct;37(10):871-8. doi: 10.3109/02713683.2012.688235. Epub 2012 May 25. PMID: 22632164; PMCID: PMC3572765.
-
-- 4
-
-  Radiation: Ultraviolet (UV) radiation 9 March 2016 | Q&A, WHO
-
-- 5
-
-  Grønskov K, Ek J, Brondum-Nielsen K. Oculocutaneous albinism. Orphanet J Rare Dis. 2007 Nov 2;2:43. doi: 10.1186/1750-1172-2-43. PMID: 17980020; PMCID: PMC2211462.
-
-- 6
-
-  Ham WT Jr, Mueller HA, Ruffolo JJ Jr, Clarke AM. Sensitivity of the retina to radiation damage as a function of wavelength. Photochem Photobiol. 1979 Apr;29(4):735-43. doi: 10.1111/j.1751-1097.1979.tb07759.x. PMID: 109869.
-
-- 7
-
-  Lazzerini Ospri L, Prusky G, Hattar S. Mood, the Circadian System, and Melanopsin Retinal Ganglion Cells. Annu Rev Neurosci. 2017 Jul 25;40:539-556. doi: 10.1146/annurev-neuro-072116-031324. Epub 2017 May 17. PMID: 28525301; PMCID: PMC5654534.
-
-- 8
-
-  Son, J.-H., et al. (2017). Five cases of phytophotodermatitis caused by fig leaves and relevant literature review.
-
-- 9
-
-  Johnson-Arbor, K. (n.d.). Lime juice + sun can cause skin rashes. All about phytophotodermatitis.
-
-- 10
-
-  Hankinson, A., et al. (2014). Lime-induced phytophotodermatitis.
-
-- 11
-
-  Almeida, H. L., Jr., et al. (2016). Phytophotodermatitis: A review of its clinical and pathogenic aspects.

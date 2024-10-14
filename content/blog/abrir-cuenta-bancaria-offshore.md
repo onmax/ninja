@@ -1,13 +1,18 @@
 ---
-title: "Georgia: bancos tan opacos como su contaminación ¿La mejor cuenta bancaria offshore?"
+title: "Georgia: bancos tan opacos como su contaminación"
+url: https://pau.ninja/abrir-cuenta-bancaria-offshore
+slug: abrir-cuenta-bancaria-offshore
+categories: 
+- slug: impuestos
+    label: Impuestos
 image: tibilisi-georgia.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2022/01/tibilisi-georgia.jpg
 published: 2022-01-17T06:53:45+00:00
 modified: 2023-06-22T20:28:26+00:00
+scrappedAt: 2024-10-14T09:20:54.216Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283754-44100-2-3dcf9777bdc3425b.mp3
-slug: abrir-cuenta-bancaria-offshore
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283754-44100-2-3dcf9777bdc3425b.mp3](https://anchor.fm/s/98566448/podcast/play/52171582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283754-44100-2-3dcf9777bdc3425b.mp3)
 
 ¿Cuál es el país del mundo en el que puedes abrir una cuenta bancaria offshore con cero problemas, anonimatos y barata?
@@ -18,7 +23,7 @@ Esto ya llegará. Empecemos por el principio, que sería lo más obvio: que no e
 
 De hecho, en el momento de deciros esto me encuentro en su capital, en Tibilisi. En español se llama Tiflis, que suena a enfermedad, lo que le encaja bastante si consideras la polución que hay en la parte antigua de la ciudad.
 
-![país de Georgia](https://pau.ninja/wp-content/uploads/2022/01/pais-de-Georgia.gif)
+![país de Georgia](./wp-content/uploads/2022/01pais-de-Georgia.gif)
 
 No sé si en el caso hipotético que hubiera venido a aquí únicamente a abrir una cuenta (no a hacerme residente) os lo diría tan a la ligera. Tal vez sólo a los miembros de la [comunidad](#unirse), claro.
 
@@ -32,7 +37,7 @@ Y digo «tendría» porque aunque sea legal, **no está bien visto**. A las ins
 
 Es por esto que aunque yo esté aquí públicamente hablando de fiscalidad y de la soberanía, **una cosa es hablar de estas cosas, y otra muy distinta es el perfil fiscal que tienes**.
 
-![cómico impuestos](https://pau.ninja/wp-content/uploads/2020/10/comico-impuestos.png)
+![cómico impuestos](./wp-content/uploads/2020/10comico-impuestos.png)
 
 Me refiero a que puedes hablar de bajos impuestos y teoría de las banderas, pero tener un perfil fiscal bajo.
 
@@ -45,29 +50,6 @@ Es tan fácil como plantarte en un banco en Georgia y de pronto tener algo que m
 
 Vamos a ver por qué querríamos abrir una cuenta bancaria en este país del Cáucaso en primera instancia, y de paso os mencionaré porque personalmente **no me haría residente fiscal** o montaría ahí ningún negocio. Sólo abriría una cuenta.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Mejores cuentas bancarias offshore](#Mejores_cuentas_bancarias_offshore 'Mejores cuentas bancarias offshore')
-  - [Bank of Georgia: la más opaca](#Bank_of_Georgia_la_mas_opaca 'Bank of Georgia: la más opaca')
-  - [Wise: la mejor cuenta online](#Wise_la_mejor_cuenta_online 'Wise: la mejor cuenta online')
-  - [Revolut: la mejor para nómadas digitales](#Revolut_la_mejor_para_nomadas_digitales 'Revolut: la mejor para nómadas digitales')
-  - [N26: la mejor como "seguro"](#N26_la_mejor_como_%22seguro%22 'N26: la mejor como "seguro"')
-- [Características de la mejor cuenta bancaria offshore](#Caracteristicas_de_la_mejor_cuenta_bancaria_offshore 'Características de la mejor cuenta bancaria offshore')
-  - [Servicio de acompañamiento](#Servicio_de_acompanamiento 'Servicio de acompañamiento')
-  - [Sin normativa CRS](#Sin_normativa_CRS 'Sin normativa CRS')
-  - [En un Estado fiable](#En_un_Estado_fiable 'En un Estado fiable')
-  - [Te lo ponen fácil para abrir](#Te_lo_ponen_facil_para_abrir 'Te lo ponen fácil para abrir')
-  - [No levanta sospechas](#No_levanta_sospechas 'No levanta sospechas')
-- [Desventajas de una cuenta offshore](#Desventajas_de_una_cuenta_offshore 'Desventajas de una cuenta offshore')
-- [Banco... ¿y empresa offshore?](#Banco_%C2%BFy_empresa_offshore 'Banco... ¿y empresa offshore?')
-- [Consejos antes de abrir una cuenta bancaria offshore](#Consejos_antes_de_abrir_una_cuenta_bancaria_offshore 'Consejos antes de abrir una cuenta bancaria offshore')
-  - [Olvídate de abrir cuenta en Suiza o Andorra](#Olvidate_de_abrir_cuenta_en_Suiza_o_Andorra 'Olvídate de abrir cuenta en Suiza o Andorra')
-  - [Cuidar la jurisdicción](#Cuidar_la_jurisdiccion 'Cuidar la jurisdicción')
-  - [Calidad de la institución](#Calidad_de_la_institucion 'Calidad de la institución')
-  - [Abrir cuenta offshore online gratis](#Abrir_cuenta_offshore_online_gratis 'Abrir cuenta offshore online gratis')
-
 ## Mejores cuentas bancarias offshore
 
 Vamos a hacer un resumen rápido de mis recomendaciones bancarias offshore, pero la «chicha» de la cuestión está en los consejos que daré en un ratito.
@@ -78,7 +60,7 @@ Bank of Georgia y su «premium» llamado Solo Bank son las mejores opciones en G
 
 [Cuenta georgiana con acompañamiento](#Servicio_de_acompanamiento)
 
-![Oficina del banco de georgia](https://pau.ninja/wp-content/uploads/2022/01/Oficina-del-banco-de-georgia.jpg)
+![Oficina del banco de georgia](./wp-content/uploads/2022/01Oficina-del-banco-de-georgia.jpg)
 
 Ventajas
 
@@ -95,7 +77,7 @@ Si tienes una empresa online fuera de España, Wise es la única cuenta bancaria
 
 [Abrir cuenta Wise aquí](https://pau.me/wise)
 
-![oficina de wise](https://pau.ninja/wp-content/uploads/2022/01/oficina-de-wise.jpg)
+![oficina de wise](./wp-content/uploads/2022/01oficina-de-wise.jpg)
 
 Ventajas
 
@@ -112,7 +94,7 @@ A nivel personal y como nómada digital, abrí un par de cuentas de Revolut con 
 
 [Abrir cuenta Revolut aquí](https://pau.me/revolut)
 
-![oficina de revolut](https://pau.ninja/wp-content/uploads/2022/01/oficina-de-revolut.jpg)
+![oficina de revolut](./wp-content/uploads/2022/01oficina-de-revolut.jpg)
 
 Ventajas
 
@@ -128,7 +110,7 @@ Para un nacional español, el banco de N26 también se considera offshore y pued
 
 [Abrir cuenta N26 aquí](https://pau.me/n26)
 
-![oficina de n26](https://pau.ninja/wp-content/uploads/2022/01/oficina-de-n26.jpg)
+![oficina de n26](./wp-content/uploads/2022/01oficina-de-n26.jpg)
 
 Ventajas
 
@@ -200,7 +182,7 @@ Hasta 1991, Georgia formaba parte de la Unión Soviética al igual que Estonia 
 
 Después de ganar independencia, los georgianos implementaron democracia, mercados libres, sacaron del medio la mayor parte de la corrupción e invirtieron en infraestructura.
 
-Hoy en día, Georgia es un lugar muy bien visto al que hacer negocios, aunque si me preguntáis a mí, de todos esos países que salieron de la Unión Soviética, Estonia fue el ganador de cómo se organizaron. Por esto [abrí empresa en Estonia](https://pau.ninja/crear-empresa-en-estonia/) y no en Georgia.
+Hoy en día, Georgia es un lugar muy bien visto al que hacer negocios, aunque si me preguntáis a mí, de todos esos países que salieron de la Unión Soviética, Estonia fue el ganador de cómo se organizaron. Por esto [abrí empresa en Estonia](./crear-empresa-en-estonia) y no en Georgia.
 
 El «problema» de Estonia que no tiene Georgia, es la Unión Europa. Claro que Europa tendrá muchas cosas buenas (seguridad alimentaria y cosas por el estilo), pero el hecho de estar ligado con países como Alemania, es que estás a la merced de algunos peces más gordos en cuanto a fiscalidad, que es el tema que nos une hoy, ninjas de la vida.
 
@@ -262,7 +244,7 @@ Con una «mid-shore» como Georgia no levantamos sospechas. Y no me refiero a qu
 
 Esto sí es vivir. No recibir cartas de ninguna agencia tributaria y hacer negocios sin que te pidan contabilidades o explicaciones siempre que te mantengas en el marco de las cosas bien hechas.
 
-Por ejemplo, el [Exchange que uso para criptomonedas](https://pau.ninja/bitcoin-wallet/#Kraken_mejor_exchange_bitcoin), opera tranquilamente en Georgia. Pero ahora intenta hacer una transferencia a/desde Belice, Santa Lucía o alguna de estas jurisdicciones.
+Por ejemplo, el [Exchange que uso para criptomonedas](./bitcoin-wallet/#Kraken_mejor_exchange_bitcoin), opera tranquilamente en Georgia. Pero ahora intenta hacer una transferencia adesde Belice, Santa Lucía o alguna de estas jurisdicciones.
 
 Te dirán que nai-nai.
 
@@ -298,17 +280,15 @@ El caso ninjas de la vida, es que este miedo, esta desventaja (la de no tener se
 
 Fijaros.
 
-Desde que [empecé a invertir con los bitcoins](https://pau.ninja/invertir-en-bitcoins-forma-segura/), una regla que siempre he tenido con mis finanzas personales ha sido… **no tener más de 10.000€ en ninguna cuenta bancaria**.
+Desde que [empecé a invertir con los bitcoins](./invertir-en-bitcoins-forma-segura), una regla que siempre he tenido con mis finanzas personales ha sido… **no tener más de 10.000€ en ninguna cuenta bancaria**.
 
 Ni de empresa ni personal.
 
-Mi regla es que todo lo que pase de este umbral tiene que estar metido [en este valor refugio: BTC](https://pau.ninja/valores-refugio/).
+Mi regla es que todo lo que pase de este umbral tiene que estar metido [en este valor refugio: BTC](./valores-refugio).
 
 Ya veis por donde voy, ¿no?
 
 El hecho de no tener ningún seguro en mis depósitos bancarios georgianos esto haría que tuviera **más presente que nunca que no quiero tener dinero fiduciario**. Dinero deuda. En mis cuentas sólo quiero tener ahí lo mínimo y esencial para los gastos mensuales de los próximos de 6 a 12 meses (como máximo).
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 El llamado: depósito de seguridad. El colchón donde caerte. ¿El resto? pues el resto lo considero ahorros a largo plazo que paso todo a Bitcoin.
 
@@ -320,7 +300,7 @@ Pintándolo todo tan bien con la banca de Georgia, dan ganas de abrir allí tu e
 
 Si yo no lo he hecho es porque tengo mis motivos.
 
-El primero es que para administración, burocracia y acercamiento, [Estonia me parece una opción superior](https://pau.ninja/crear-empresa-en-estonia/). El truco está en encontrar unos **buenos contables**, pero la administración pública estoniana ahora mismo no tiene rival.
+El primero es que para administración, burocracia y acercamiento, [Estonia me parece una opción superior](./crear-empresa-en-estonia). El truco está en encontrar unos **buenos contables**, pero la administración pública estoniana ahora mismo no tiene rival.
 
 Lo que sí podría recomendar como complemento a una empresa Estoniana, es tener una empresa en una jurisdicción lejos de Europa. Las típicas empresas LLC que se pueden montar en los Emiratos Árabes, Ucrania o sitios así, pero también en Estados Unidos.
 
@@ -349,3 +329,88 @@ Pero aquí estamos hablando **sólo** de la calidad de las jurisdicciones. De c
 ### Abrir cuenta offshore online gratis
 
 Abrir una cuenta offshore gratis en buen banco no debería requerir ir con nadie (a menos que [necesites traductor](#Servicio_de_acompanamiento)). Hay montones de agencias que han empezado a quererse aprovechar del auge georgiano y te ofrecen servicios revendidos a tres veces el coste.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Impuestos](./impuestos)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/abrir-cuenta-bancaria-offshore/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":15064,"title":"Este%20pa%C3%ADs%20ofrece%20las%20mejores%20cuentas%20OFFSHORE%20%E3%80%90Gu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/01\\/tibilisi-georgia.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

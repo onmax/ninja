@@ -1,20 +1,29 @@
 ---
-title: "Sin milongas: entrarle a una chica (en frío) Cómo entrarle a una chica que no conoces"
+title: "Sin milongas: entrarle a una chica (en frío)"
+url: https://pau.ninja/como-entrarle-a-una-chica
+slug: como-entrarle-a-una-chica
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: masculinidad
+    label: Masculinidad
+  - slug: seduccion
+    label: Seducción
 image: entrarle-a-una-chica.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/10/entrarle-a-una-chica.jpeg
 published: 2021-09-28T06:19:27+00:00
 modified: 2023-08-29T05:20:00+00:00
+scrappedAt: 2024-10-14T09:21:16.119Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3
-slug: como-entrarle-a-una-chica
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3](https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3)
 
 Esta publicación cubre los **10 primeros segundos de la interacción**. Desde que ves a la chica, sientes que quieres conocerla y cómo hacerlo para ir a hablar con ella.
 
 Aprender a entrarle a un chica que me guste por la calle, en el parque, en la biblioteca o la playa ha sido una de las herramientas más potentes que he aprendido nunca para desarrollar mi habilidad social.
 
-Al principio me lo tomé como uno de **mis experimentos periodísticos** y de divulgación, pero terminé adoptándolo tanto como he podido en mi vida personal por todo lo que [he aprendido en la vida](https://pau.ninja/como-entrarle-a-una-chica/#Aprendizajes_de_la_vida) gracias a «entrar en frío».
+Al principio me lo tomé como uno de **mis experimentos periodísticos** y de divulgación, pero terminé adoptándolo tanto como he podido en mi vida personal por todo lo que [he aprendido en la vida](./como-entrarle-a-una-chica#Aprendizajes_de_la_vida) gracias a «entrar en frío».
 
 Entra otras cosas, aprender a separar **lo que no se puede controlar y lo que sí**.
 
@@ -26,39 +35,7 @@ A los andaluces les viene de forma natural esto de hablar con desconocidas, y a 
 
 Pero el precio a pagar por no tener huevos de entrar alguien que te gusta es un precio bien elevado. ¿Cuál es el precio? escasez de relaciones con personas que realmente te gusten y tener que «contentarte» con las circunstancias.
 
-Estás leyendo sobre «abrir», que es el primer paso del [daygame](https://pau.ninja/daygame/) (ligar en la calle).
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Entrar en frío no es sexista](#Entrar_en_frio_no_es_sexista 'Entrar en frío no es sexista')
-- [Pasos para entrarle a una chica que no conoces](#Pasos_para_entrarle_a_una_chica_que_no_conoces 'Pasos para entrarle a una chica que no conoces')
-  - [Entrar con mentalidad estoica](#Entrar_con_mentalidad_estoica 'Entrar con mentalidad estoica')
-  - [Lanzarse a la piscina](#Lanzarse_a_la_piscina 'Lanzarse a la piscina')
-  - [Decir algo sin importar el qué](#Decir_algo_sin_importar_el_que 'Decir algo sin importar el qué')
-  - [Mostrar intenciones claras](#Mostrar_intenciones_claras 'Mostrar intenciones claras')
-  - [Cuidar el lenguaje no verbal](#Cuidar_el_lenguaje_no_verbal 'Cuidar el lenguaje no verbal')
-  - [Divertirse haciendo volumen](#Divertirse_haciendo_volumen 'Divertirse haciendo volumen')
-- [Frases para entrarle a una chica](#Frases_para_entrarle_a_una_chica 'Frases para entrarle a una chica')
-  - [Me has parecido atractiva](#Me_has_parecido_atractiva 'Me has parecido atractiva')
-  - [Tenía que conocerte](#Tenia_que_conocerte 'Tenía que conocerte')
-  - [Me gustas](#Me_gustas 'Me gustas')
-  - [Nuestros bebés serían guapísimos](#Nuestros_bebes_serian_guapisimos 'Nuestros bebés serían guapísimos')
-  - [¿Me puedes ayudar a encontrar... tu número?](#%C2%BFMe_puedes_ayudar_a_encontrar_tu_numero '¿Me puedes ayudar a encontrar... tu número?')
-  - [No nos conocemos... por esto vengo a presentarme](#No_nos_conocemos_por_esto_vengo_a_presentarme 'No nos conocemos... por esto vengo a presentarme')
-- [Aprendizajes de la vida](#Aprendizajes_de_la_vida 'Aprendizajes de la vida')
-  - [Superar miedos irracionales](#Superar_miedos_irracionales 'Superar miedos irracionales')
-  - [Moldear tu vida](#Moldear_tu_vida 'Moldear tu vida')
-  - [Mejorar en lo que te propongas](#Mejorar_en_lo_que_te_propongas 'Mejorar en lo que te propongas')
-  - [Hay que seguir picando piedra](#Hay_que_seguir_picando_piedra 'Hay que seguir picando piedra')
-  - [Potencial verdadero](#Potencial_verdadero 'Potencial verdadero')
-- [Sitios donde conocer chicas](#Sitios_donde_conocer_chicas 'Sitios donde conocer chicas')
-  - [De noche en bares y discotecas](#De_noche_en_bares_y_discotecas 'De noche en bares y discotecas')
-  - [En actividades grupales](#En_actividades_grupales 'En actividades grupales')
-  - [A través de internet](#A_traves_de_internet 'A través de internet')
-  - [Entrarle a una chica por Instagram](#Entrarle_a_una_chica_por_Instagram 'Entrarle a una chica por Instagram')
-  - [En lugares del día a día](#En_lugares_del_dia_a_dia 'En lugares del día a día')
+Estás leyendo sobre «abrir», que es el primer paso del [daygame](./daygame) (ligar en la calle).
 
 ## Entrar en frío no es sexista
 
@@ -66,7 +43,7 @@ Vengo de un pueblo en Cataluña que si se enteran que has parado a una chica por
 
 Y eso aunque la chica se lo haya tomado genial y haya sacado una sonrisa de oreja a oreja. No importa.
 
-![cómic chico entra a chica](https://pau.ninja/wp-content/uploads/2021/09/comic-chico-entra-a-chica-1.png)
+![cómic chico entra a chica](./wp-content/uploads/2021/09comic-chico-entra-a-chica-1.png)
 
 Con el afán de demonizar al hombre usando el pretexto de las atrocidades que han cometido algunos gilipooollas, con el tiempo se va empujado una agenda más y más, ya no sólo anti-machista sino anti-hombre.
 
@@ -92,7 +69,7 @@ Hay quienes lo harán simplemente porque tienen los huevos un poco llenos, y su 
 
 No deja de ser una terapia de shock contra un miedo, y cuando superas un miedo, mejoras. Subes de nivel.
 
-![cómic miedo al rechazo](https://pau.ninja/wp-content/uploads/2021/09/comic-miedo-al-rechazo.png)
+![cómic miedo al rechazo](./wp-content/uploads/2021/09comic-miedo-al-rechazo.png)
 
 Saltar en paracaídas vale pasta en cambio abordar a alguien por la calle se puede hacer cada día y totalmente gratis (veis como soy muy catalán).
 
@@ -102,15 +79,15 @@ Toda la miiierda teórica que leamos en libros sobre desarrollo personal no nos 
 
 Ahora mismo rebajado
 
-[![Todo está j*dido: Un libro sobre la esperanza (No ficción)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQ1YyTlZObXR5V0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwMDc2MQ=)](https://www.amazon.es/dp/8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Todo está j*dido: Un libro sobre la esperanza (No ficción)')
+[![Todo está j*dido: Un libro sobre la esperanza (No ficción)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQ1YyTlZObXR5V0V3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjM0MQ=)](https://www.amazon.es/dp8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está j*dido: Un libro sobre la esperanza (No ficción)")
 
-[Todo está j\*dido: Un libro sobre la esperanza (No ficción)](https://www.amazon.es/dp/8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Todo está j*dido: Un libro sobre la esperanza (No ficción)')
+[Todo está j\*dido: Un libro sobre la esperanza (No ficción)](https://www.amazon.es/dp/8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está j*dido: Un libro sobre la esperanza (No ficción)")
 
 Mark Manson lo llama el Feeling Brain & Thinking Brain.
 
-19,85 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+19,85 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pues que viva la terapia de shock, porque es lo que realmente hace aprender a nuestro cerebro subconsciente.
 
@@ -124,7 +101,7 @@ Y una miierda.
 
 > La confianza de verdad crece y se cultiva cuando hacemos lo que nos dan miedo, que nos hacen dudar de nosotros mismos y dudar de nuestra confianza en nuestra persona.
 
-El sargeo, el «game», entrar en frío, [nos enseña un montón de cosas sobre nosotros](https://pau.ninja/como-entrarle-a-una-chica/#Aprendizajes_de_la_vida). Como lo que nos falta moldear o los miedos que tenemos que trabajar (o aceptar).
+El sargeo, el «game», entrar en frío, [nos enseña un montón de cosas sobre nosotros](./como-entrarle-a-una-chica#Aprendizajes_de_la_vida). Como lo que nos falta moldear o los miedos que tenemos que trabajar (o aceptar).
 
 Así que para saltar directamente a la piscina y ponernos en terapia de shock, ¿cómo entrarle a una chica que nos gusta en la calle sin que sea acoso y que sea percibido como algo positivo para nosotros, ella y quien sea que nos escuche?
 
@@ -136,7 +113,7 @@ Pongámonos en situación.
 
 Te interesará:
 
-- [La guía de cómo superar el miedo al rechazo](https://pau.ninja/superar-el-miedo-al-rechazo/)
+- [La guía de cómo superar el miedo al rechazo](./superar-el-miedo-al-rechazo)
 
 Lo primero que quiero que entendamos es que no tiene sentido tomárselo personalmente.
 
@@ -191,7 +168,7 @@ Mañana puede que haya muerto.
 
 Lo que venga después de haber pasado la barrera de desconocidos, ya es un «bonus».
 
-¿Por qué? porque me he demostrado que puedo superar [este miedo](https://pau.ninja/como-entrarle-a-una-chica/#Superar_miedos_irracionales). Si no hubiera tenido los huevos de entrar a esta chica me hubiera pasado por el lado y no la hubiera visto nunca más.
+¿Por qué? porque me he demostrado que puedo superar [este miedo](./como-entrarle-a-una-chica#Superar_miedos_irracionales). Si no hubiera tenido los huevos de entrar a esta chica me hubiera pasado por el lado y no la hubiera visto nunca más.
 
 Por eso, cuando veo una chica que me gusta mucho tengo presente que si no le digo nada, entonces el «no» ya lo tengo, pero que si soy capaz de ir ahí, decir «hola» y de pronto me quedo en silencio y quiero que la tierra me trague, **da igual, porque ya he ganado**.
 
@@ -242,8 +219,6 @@ Lo que tenemos que aprender es a hacer el cambio de paradigma.
 Hacer que estas mariposas jueguen a nuestro favor.
 
 Entonces, ¿cómo convertimos esta «lógica» en una acción, algo práctico, una manera de actuar cuando vemos a la chica, nos decimos que tenemos que entrarle y vienen todas las excusas y miedos?
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Primero empezaría por algo súper básico.
 
@@ -299,7 +274,7 @@ Muchos tíos intentan encontrar la frase perfecta para entrarle a una chica por 
 
 Alguien puede preguntarte la hora y que te de una malas vibraciones de la hostia mientras que alguien que te hace la misma exacta pregunta te de ganas de preguntarle por su infancia.
 
-Y no nos vamos a engañar, si nunca hemos entrado a ninguna chica por la calle es más que probable que al principio sonemos como el primer tipo de persona, pero a medida que lo vayamos haciendo ([volumen](https://pau.ninja/como-entrarle-a-una-chica/ #Divertirse_haciendo_volumen)) sentiremos que estamos preguntando la hora a la persona cuando en verdad le estaremos tirando los tejos.
+Y no nos vamos a engañar, si nunca hemos entrado a ninguna chica por la calle es más que probable que al principio sonemos como el primer tipo de persona, pero a medida que lo vayamos haciendo ([volumen](./como-entrarle-a-una-chica #Divertirse_haciendo_volumen)) sentiremos que estamos preguntando la hora a la persona cuando en verdad le estaremos tirando los tejos.
 
 Por esto esta primera frase no es tan importante como muchos creen. Se puede romper el hielo con cualquier cosas.
 
@@ -379,7 +354,7 @@ Es por esto que otro de los pilares es precisamente este, cuidar el lenguaje no 
 
 Algo que para algunos ya les viene de forma natural pero otros tendrán que pensar en ello activamente hasta que se convierta en una segunda naturaleza.
 
-¿Y cómo se consigue esto? [entrando a muchas](https://pau.ninja/como-entrarle-a-una-chica/#Divertirse_haciendo_volumen), siendo social constantemente y después de cada interacción, parar y analizar cómo nos hemos sentido, qué ha ido bien, y qué ha ido mal.
+¿Y cómo se consigue esto? [entrando a muchas](./como-entrarle-a-una-chica#Divertirse_haciendo_volumen), siendo social constantemente y después de cada interacción, parar y analizar cómo nos hemos sentido, qué ha ido bien, y qué ha ido mal.
 
 Cuando hablamos de lenguaje no verbal entran en juego un montón de cosas, pero al menos lo más importante vendría a ser:
 
@@ -403,11 +378,11 @@ Sobretodo si la conversación es de una naturaleza emocional con sentimientos y 
 
 Por esto desde el momento de la entrada y durante la interacción hay que mantener ese contacto visual y sonreír. No como un maníaco, pero hacerlo de manera natural.
 
-Si estás cagado y todo esto no te sale de forma natural, es lo de siempre. [Hacer más. Hacer volumen](https://pau.ninja/como-entrarle-a-una-chica/#Divertirse_haciendo_volumen). Lo iremos haciendo cada vez mejor y el cuerpo y mente lo terminan adoptando con el tiempo.
+Si estás cagado y todo esto no te sale de forma natural, es lo de siempre. [Hacer más. Hacer volumen](./como-entrarle-a-una-chica#Divertirse_haciendo_volumen). Lo iremos haciendo cada vez mejor y el cuerpo y mente lo terminan adoptando con el tiempo.
 
 > Por esto es importante hacer una comprobación antes y después de cada interacción. ¿He sonreído? ¿la he mirado? ¿qué podría haber ido mejor?
 
-La atmósfera (el *vibe*) con la que transmitimos nuestras intenciones es incluso más importante que las palabras que decimos. Recordemos que [más del 90%](https://www.psychologytoday.com/us/blog/beyond-words/201109/is-nonverbal-communication-numbers-game) de la manera en la que nos comuniquemos es no verbal.
+La atmósfera (el _vibe_) con la que transmitimos nuestras intenciones es incluso más importante que las palabras que decimos. Recordemos que [más del 90%](https://www.psychologytoday.com/us/blog/beyond-words/201109/is-nonverbal-communication-numbers-game) de la manera en la que nos comuniquemos es no verbal.
 
 - Mirar a la chica constantemente (se puede apartar la mirada cuando pensamos y demás de manera orgánica).
 - Sonreír.
@@ -425,7 +400,7 @@ Con una buena postura corporal, no sólo somos percibidos como más confiados si
 
 Por ejemplo yo me encuentro haciendo el «Superman» constantemente ya sin darme cuenta, que es la posición esa en la que tienes las dos manos en las caderas.
 
-![entrando a chica en Croacia](https://pau.ninja/wp-content/uploads/2021/09/entrando-a-chica-en-croacia.jpeg)
+![entrando a chica en Croacia](./wp-content/uploads/2021/09entrando-a-chica-en-croacia.jpeg)
 
 Foto: un amigo me hizo esta foto en Croacia haciendo el Superman y hablando con una chica en la plaza de Zagreb.
 
@@ -453,7 +428,7 @@ Es una buena excusa para pasárselo bien probando frases de entrada de todo tipo
 
 - «You are cute» (me has parecido maja/guapita)
 - «You are glowing» («¡brillas!»)
-- «¿Sabes lo que es un *thumbnail* en los vídeos de YouTube? pues bien… si todas las chicas de este gimnasio fueran vídeos, yo pulsaría en ti»
+- «¿Sabes lo que es un _thumbnail_ en los vídeos de YouTube? pues bien… si todas las chicas de este gimnasio fueran vídeos, yo pulsaría en ti»
 - «¿Me puedes ayudar a encontrar una dirección? si estoy buscando… mhmm… tu número de teléfono ;)»
 - En un centro comercial o sitio cerrado: «perdona, estoy buscando a mi novia, ¿la has visto? lleva puesto…» (y describir lo que la chica lleva puesto en ese momento)
 
@@ -541,7 +516,7 @@ Estirarme ahí por completo. Solo. En medio de toda la gente que pasaba por ahí
 
 Pero cuándo estás allí de pie pensando si tienes huevos de hacerlo o no empiezan a venir todas estas excusas en la cabeza. Que el suelo está sucio. Que es una gilimierdez. Qué van a pensar de mí…
 
-![reto de tumbarse](https://pau.ninja/wp-content/uploads/2021/09/reto-de-tumbarse.jpeg)
+![reto de tumbarse](./wp-content/uploads/2021/09reto-de-tumbarse.jpeg)
 
 Foto: cuando me relajé hasta lancé una foto para acordarme del momento.
 
@@ -601,7 +576,7 @@ Como cualquier habilidad.
 
 Habrán los que son naturalmente buenos con el miedo y las interacciones, pero la mayoría tenemos que **trabajar para mejorar substancialmente** en lo que sea que nos propongamos.
 
-![ser malo en algo](https://pau.ninja/wp-content/uploads/2021/09/ser-malo-en-algo.jpeg)
+![ser malo en algo](./wp-content/uploads/2021/09ser-malo-en-algo.jpeg)
 
 Como diría Jake el Perro «ser malo en algo es el primer paso de volverse bueno en algo».
 
@@ -613,7 +588,7 @@ Pero resulta los gatitos pueden tener alma de leones.
 
 Algo de lo que nos damos cuenta sólo cuando hemos algunas entradas, especialmente en el mismo día. Porque coges una especie de «carrerilla» en la que cada entrada te cuesta un poquito menos.
 
-![píldora roja y azul](https://pau.ninja/wp-content/uploads/2021/09/pildora-roja-y-azul.jpeg)
+![píldora roja y azul](./wp-content/uploads/2021/09pildora-roja-y-azul.jpeg)
 
 Por eso en esta comunidad se hace referencia a la [pastilla roja](https://es.wikipedia.org/wiki/P%C3%ADldora_roja_y_p%C3%ADldora_azul) de Matrix. Porque cuando has visto lo que hay al otro lado de la puerta, ya no quieres volver atrás.
 
@@ -647,7 +622,7 @@ Era yo mismo. Mi propio miedo y las dudas en mí mismo las que me mantenían ah�
 
 ## Sitios donde conocer chicas
 
-Hemos visto [cómo entrarle a una chica que no conoces](https://pau.ninja/como-entrarle-a-una-chica/#Pasos_para_entrarle_a_una_chica_que_no_conoces), fijémonos un segundo donde nos están conociendo tías los hombres por tal de no «abrir en frío».
+Hemos visto [cómo entrarle a una chica que no conoces](./como-entrarle-a-una-chica#Pasos_para_entrarle_a_una_chica_que_no_conoces), fijémonos un segundo donde nos están conociendo tías los hombres por tal de no «abrir en frío».
 
 ### De noche en bares y discotecas
 
@@ -667,17 +642,17 @@ Ahora entendemos porque hay tantos hombres que bailan Salsa o Bachata que en la
 
 Existe otra opción cada vez más popular: las webs y apps para ligar.
 
-Un estudio de Stanford comentaba como ya son [el 40%](https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf) de las parejas se han conocido online. Normal que [Tinder (con sus trucos)](https://pau.ninja/trucos-tinder/) y otros portales de internet para ligar estén sacando fuego constantemente.
+Un estudio de Stanford comentaba como ya son [el 40%](https://web.stanford.edu/~mrosenfe/Rosenfeld_et_al_Disintermediating_Friends.pdf) de las parejas se han conocido online. Normal que [Tinder (con sus trucos)](./trucos-tinder) y otros portales de internet para ligar estén sacando fuego constantemente.
 
 Supongo que por esto el logotipo de Tinder es una llama. Porque te quemas el dedo dándole hacia la derecha y hacia la izquierda.
 
 El sentir que tienes tantas opciones en una App o portal de internet, es una sensación de abundancia. ¿Pero es abundancia lo que tenemos si para muchos esos contactos online **no** se convertirá en citas?
 
-Responder estas preguntas es lo que [me hizo cambiar de opinión en cuanto a Tinder](https://pau.ninja/tinder-opiniones/).
+Responder estas preguntas es lo que [me hizo cambiar de opinión en cuanto a Tinder](./tinder-opiniones).
 
 ### Entrarle a una chica por Instagram
 
-¿A qué recurren? pues a *espamear* a chicas por sus redes sociales.
+¿A qué recurren? pues a _espamear_ a chicas por sus redes sociales.
 
 La de hombres que intentan entrarle a una chica por Instagram o Facebook, intentando encontrar la frase perfecta.
 
@@ -698,3 +673,94 @@ Lo estamos trasladando todo al móvil, que encima llevamos encima nuestro cuando
 > Aquí es cuando entra el arte de «sargear». De tener los huevos de poder entrarle a una chica que no conoces y que te gusta por la calle, flirtear y pedirle el teléfono.
 
 Sin remilgos.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en twitter](./wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Relaciones](./relaciones)  
+O si quieres ser más específico:[Masculinidad](./masculinidad/), [Seducción](https://pau.ninja/seduccion)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/como-entrarle-a-una-chica/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":40,"title":"6%20pasos%20%2B%206%20frases%20para%20ENTRAR%20a%20una%20chica%20desconocida","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/10\\/entrarle-a-una-chica.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

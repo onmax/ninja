@@ -1,18 +1,25 @@
 ---
 title: "Zonas azules: la (engañosa) dieta de la longevidad"
+url: https://pau.ninja/zonas-azules-dieta-longevidad
+slug: zonas-azules-dieta-longevidad
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: mitos-nutricionales
+    label: Mentiras nutricionales
 image: persona-centenaria.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/04/persona-centenaria.jpeg
 published: 2023-05-02T08:33:14+00:00
 modified: 2023-09-10T20:33:34+00:00
+scrappedAt: 2024-10-14T09:20:01.419Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/70975568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-24%2F331391484-44100-2-d510cfbff2ce3.mp3
-slug: zonas-azules-dieta-longevidad
+bibliography: ["Ancel Keys (ed), Seven Countries: A multivariate analysis of death and coronary heart disease, 1980. Cambridge, Mass.: Harvard University Press. ISBN 0-674-80237-3.","Shibata H, Nagai H, Haga H, Yasumura S, Suzuki T, Suyama Y. Nutrition for the Japanese elderly. Nutr Health. 1992;8(2-3):165-75. doi: 10.1177/026010609200800312. PMID: 1407826.","Supercentenarians and the oldest-old are concentrated into regions with no birth certificates and short lifespans Saul Justin Newman bioRxiv 704080;","Rosero-Bixby L, Dow WH, Rehkopf DH. The Nicoya region of Costa Rica: a high longevity island for elderly males. Vienna Yearb Popul Res. 2013;11:109-136. doi: 10.1553/populationyearbook2013s109. PMID: 25426140; PMCID: PMC4241350.","Rodríguez S., Irene. Alegre nicoyana se convierte en tataratataratatarabuela. La Nación, January 26, 2014.","nstitute national de la statistique et des études économiques. Bilan démographique 2015.","Enstrom JE, Breslow L. Lifestyle and reduced mortality among active California Mormons, 1980-2004. Prev Med. 2008 Feb;46(2):133-6. doi: 10.1016/j.ypmed.2007.07.030. Epub 2007 Aug 3. PMID: 17920112.","Countries with the highest number of diabetics worldwide in 2021(in millions) – Statia.com","Finegold JA, Asaria P, Francis DP. Mortality from ischaemic heart disease by country, region, and age: statistics from World Health Organisation and United Nations. Int J Cardiol. 2013 Sep 30;168(2):934-45. doi: 10.1016/j.ijcard.2012.10.046. Epub 2012 Dec 4. PMID: 23218570; PMCID: PMC3819990.","Zannas AS, Arloth J, Carrillo-Roa T, Iurato S, Röh S, Ressler KJ, Nemeroff CB, Smith AK, Bradley B, Heim C, Menke A, Lange JF, Brückl T, Ising M, Wray NR, Erhardt A, Binder EB, Mehta D. Lifetime stress accelerates epigenetic aging in an urban, African American cohort: relevance of glucocorticoid signaling. Genome Biol. 2015 Dec 17;16:266. doi: 10.1186/s13059-015-0828-5. Erratum in: Genome Biol. 2018 May 23;19(1):61. PMID: 26673150; PMCID: PMC4699359.","P. G. Lindqvist, E. Epstein, K. Nielsen, M. Landin-Olsson, C. Ingvar, H. Olsson. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. Journal of Internal Medicine, 2016; DOI: 10.1111/joim.12496","What the World Eats | National Geographic","Cordain L, Miller JB, Eaton SB, Mann N, Holt SH, Speth JD. Plant-animal subsistence ratios and macronutrient energy estimations in worldwide hunter-gatherer diets. Am J Clin Nutr. 2000 Mar;71(3):682-92. doi: 10.1093/ajcn/71.3.682. PMID: 10702160.","Shammas MA. Telomeres, lifestyle, cancer, and aging. Curr Opin Clin Nutr Metab Care. 2011 Jan;14(1):28-34. doi: 10.1097/MCO.0b013e32834121b1. PMID: 21102320; PMCID: PMC3370421.","Adwan Shekhidem H, Sharvit L, Leman E, Manov I, Roichman A, Holtze S, M Huffman D, Y Cohen H, Bernd Hildebrandt T, Shams I, Atzmon G. Telomeres and Longevity: A Cause or an Effect? Int J Mol Sci. 2019 Jul 1;20(13):3233. doi: 10.3390/ijms20133233. PMID: 31266154; PMCID: PMC6651551.","Kasielski M, Eusebio MO, Pietruczuk M, Nowak D. The relationship between peripheral blood mononuclear cells telomere length and diet – unexpected effect of red meat. Nutr J. 2016 Jul 14;15(1):68. doi: 10.1186/s12937-016-0189-2. PMID: 27418163; PMCID: PMC4944490.","Aykan NF. Red Meat and Colorectal Cancer. Oncol Rev. 2015 Dec 28;9(1):288. doi: 10.4081/oncol.2015.288. PMID: 26779313; PMCID: PMC4698595.","Sato, Yuki & Nakaya, Naoki & Kuriyama, Shinichi & Nishino, Yoshikazu & Tsubono, Yoshitaka & Tsuji, Ichiro. (2006). Meat consumption and risk of colorectal cancer in Japan: The Miyagi Cohort Study. European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP). 15. 211-8. 10.1097/01.cej.0000197455.87356.05."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/70975568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-24%2F331391484-44100-2-d510cfbff2ce3.mp3](https://anchor.fm/s/98566448/podcast/play/70975568/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-24%2F331391484-44100-2-d510cfbff2ce3.mp3)
 
 Los medios nos han vendido de que las zonas azules (5 poblaciones del mundo donde hay más personas que pasan los +100 años por habitante), son el modelo a seguir para tener una vida larga y además con calidad de vida.
 
-![mapa zonas azules del mundo](https://pau.ninja/wp-content/uploads/2023/05/mapa-zonas-azules-del-mundo.jpeg)
+![mapa zonas azules del mundo](./wp-content/uploads/2023/05mapa-zonas-azules-del-mundo.jpeg)
 
 Estas cinco poblaciones son: Okinawa (Japón), Cerdeña (Italia), Nicoya (Costa Rica), Icaria (Grecia), Loma Linda (California).
 
@@ -22,7 +29,7 @@ El autor que popularizó la idea ya tiene **10 libros** sobre este tema pero cas
 
 Hace poco se hacía viral [Bryan Johnson](https://www.youtube.com/watch?v=NdZHo3xuZvw). Un multimillonario que gasta 2 millones de dólares al año en (intentar) revertir su edad biológica. No le desearía esta vida a nadie aunque consiguiera vivir 150 años porque paradójicamente gasta tiempo en intentar conseguir más tiempo. ¿Y para qué?
 
-![meme longevidad Bryan Johnson](https://pau.ninja/wp-content/uploads/2023/05/meme-longevidad-Bryan-Johnson.jpeg)
+![meme longevidad Bryan Johnson](./wp-content/uploads/2023/05meme-longevidad-Bryan-Johnson.jpeg)
 
 Su tiempo está destinado a intentar alargar su vida biológica… lo que a su vez hace que no pueda hacer otras cosas mientras gasta este tiempo. Vemos vídeos de este hombre metiéndose (literalmente) decenas de pastillas de buena mañana, viviendo esclavizado por sus propios hábitos y tragándose +30kg mensuales de verduras porque en teoría es uno de los pilares que le harán vivir más.
 
@@ -37,28 +44,6 @@ El bueno de Bryan no es el único que se ha «tragado» la historia de que las v
 Un país que gasta poquísimo en sanidad y está en el top de la lista como sociedad más inteligente del mundo.
 
 Vamos a verlo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Las cinco zonas azules del mundo](#Las_cinco_zonas_azules_del_mundo 'Las cinco zonas azules del mundo')
-- [El origen de las zonas azules](#El_origen_de_las_zonas_azules 'El origen de las zonas azules')
-- [El problema de las Blue Zones](#El_problema_de_las_Blue_Zones 'El problema de las Blue Zones')
-- [La dieta de las cinco zonas azules](#La_dieta_de_las_cinco_zonas_azules 'La dieta de las cinco zonas azules')
-  - [Cerdeña, Italia](#Cerdena_Italia 'Cerdeña, Italia')
-  - [Okinawa, Japón](#Okinawa_Japon 'Okinawa, Japón')
-  - [Nicoya, Costa Rica](#Nicoya_Costa_Rica 'Nicoya, Costa Rica')
-  - [Icaria, Grecia](#Icaria_Grecia 'Icaria, Grecia')
-  - [Loma Linda, California](#Loma_Linda_California 'Loma Linda, California')
-- [El misterio de los centenarios](#El_misterio_de_los_centenarios 'El misterio de los centenarios')
-  - [Los 9 hábitos de las zonas azules](#Los_9_habitos_de_las_zonas_azules 'Los 9 hábitos de las zonas azules')
-  - [La esperanza de vida](#La_esperanza_de_vida 'La esperanza de vida')
-  - [Las enfermedades cardiovasculares](#Las_enfermedades_cardiovasculares 'Las enfermedades cardiovasculares')
-  - [El alto consumo animal](#El_alto_consumo_animal 'El alto consumo animal')
-- [La (verdadera) dieta de la longevidad](#La_verdadera_dieta_de_la_longevidad 'La (verdadera) dieta de la longevidad')
-- [El caso de las personas centenarias en España](#El_caso_de_las_personas_centenarias_en_Espana 'El caso de las personas centenarias en España')
-- [Fuentes, referencias y notas](#Fuentes_referencias_y_notas 'Fuentes, referencias y notas')
 
 ## Las cinco zonas azules del mundo
 
@@ -82,15 +67,11 @@ Ojalá me hubiera hecho él los zumos de naranja de pequeño, porque este tío s
 
 Todas sus empresas y libros están centradas en el concepto de las [Blue Zones](https://www.bluezones.com/), De hecho, en una entrevista, el propio Dan nos deja esta perla de 30 segundos que ahora os traduzco.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 El entrevistador le dice que hay una oleada masiva de inversores a empresas veganas y de carnes sintéticas. Le hace la coña con una marca específica de carne de laboratorio: [Memphis Meats](https://www.npr.org/sections/thesalt/2020/01/22/798515259/ready-for-meat-grown-from-animal-cells-a-startup-plans-a-pilot-plant), diciéndole «uf no se si querrías comer eso», hay un silencio… y Dan dice «sí bueno, de hecho soy inversor en esta empresa» Y se crea otro silencio bastante más incómodo que el anterior.
 
 Cómo no va a haberlo, si el pavo ha cogido con pinzas las partes de una dieta que le ha interesado para vendernos todos sus libros, todos sus negocios, todas sus inversiones en start-ups veganas como la carne de laboratorio… de la que por cierto, el señor [Bill Gates también es inversor](https://www.cnbc.com/2018/03/23/bill-gates-and-richard-branson-bet-on-lab-grown-meat-startup.html).
 
 Pero esto no termina aquí, porque más adelante en la misma entrevista, el bueno de Dan hace la siguiente confesión de 40 segundos:
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Básicamente él mismo **dice como en las Blue Zones sí consumen carne** (y de hecho analizaremos la dieta de cada unas de esas poblaciones en un rato), y es que encima, él mismo dice a continuación: «en el proyecto de Blue Zones decidimos coger **sólo** la parte vegana dentro de la propia dieta».
 
@@ -104,13 +85,11 @@ Pillar 5 localizaciones del mundo donde hay más probabilidades que la gente viv
 
 De hecho la dieta de las Blue Zones podríamos decir que tiene su origen en Ancel Keys.
 
-A muchos os sonará este hombre porque ya lo mencioné como uno de los propulsores de la mentira más grande que nos hemos tragado (literalmente y figuradamente) para nuestra salud: [la mentira de que el colesterol es malo](https://pau.ninja/la-gran-mentira-del-colesterol/) (#270).
+A muchos os sonará este hombre porque ya lo mencioné como uno de los propulsores de la mentira más grande que nos hemos tragado (literalmente y figuradamente) para nuestra salud: [la mentira de que el colesterol es malo](./la-gran-mentira-del-colesterol) (#270).
 
-Este pavo no se cansó de h0dernos la salud incluso décadas después de su muert, y es que con su llamado Estudios de Los Siete Países[1](<javascript:void(0)>)Ancel Keys (ed), Seven Countries: A multivariate analysis of death and coronary heart disease, 1980. Cambridge, Mass.: Harvard University Press. ISBN 0-674-80237-3., popularizó esta creencia errónea de que que [la carne es mala para salud](https://pau.ninja/carne-roja-es-mala-para-la-salud/), el colesterol nos mata, y que las [grasas saturadas](https://pau.ninja/grasas-saturadas-son-buenas/) más de lo mismo. Algo que ya he desmentido con varios episodios en este podcast.
+Este pavo no se cansó de h0dernos la salud incluso décadas después de su muert, y es que con su llamado Estudios de Los Siete Países[ref-1](#ref-1){.ref}, popularizó esta creencia errónea de que que [la carne es mala para salud](./carne-roja-es-mala-para-la-salud/), el colesterol nos mata, y que las [grasas saturadas](https://pau.ninja/grasas-saturadas-son-buenas) más de lo mismo. Algo que ya he desmentido con varios episodios en este podcast.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Ah. Recordemos que el bueno de Ancel Keys utilizó conejos en sus estudios para probar que la grasa saturada era mala. Consejos. Un maldito herbívoro. Es como si yo le diera verduras a los leones, se murieran y lo utilizara como argumentos para enseñaros [las consecuencias del veganismo para la salud](https://pau.ninja/consecuencias-del-veganismo/). Por esto nunca he usado [esta argumento contra el veganismo](https://pau.ninja/argumentos-en-contra-del-veganismo/). Sino estudios en humanos, y sentido común.
+Ah. Recordemos que el bueno de Ancel Keys utilizó conejos en sus estudios para probar que la grasa saturada era mala. Consejos. Un maldito herbívoro. Es como si yo le diera verduras a los leones, se murieran y lo utilizara como argumentos para enseñaros [las consecuencias del veganismo para la salud](./consecuencias-del-veganismo/). Por esto nunca he usado [esta argumento contra el veganismo](https://pau.ninja/argumentos-en-contra-del-veganismo). Sino estudios en humanos, y sentido común.
 
 Fijaros que en este estudio de los 7 países, eran 7 países donde se consumía menos carne, menos grasas saturadas y vivían más tiempo de media… pero, ¿se puede llamar «estudio» si lo único que hizo fue mirar a donde le interesaba?
 
@@ -138,7 +117,7 @@ Al principio mencionábamos com Hong Kong consume más carne que ninguna poblaci
 
 El ejemplo que siempre pongo es un titular que decía «ver películas de Nicolas Cafe aumenta el riesgo ahogarse en una piscina». Una burla a la epidemiología, en la que puedes asociar datos como te venga en gana.
 
-![relación nicolas cage](https://pau.ninja/wp-content/uploads/2021/10/relacion-nicolas-cage.jpeg)
+![relación nicolas cage](./wp-content/uploads/2021/10relacion-nicolas-cage.jpeg)
 
 Juntaron las veces que Nicolas Cage salía en una peli con las muertes por ahogo… y las gráficas coincidían. ¿Significa esto que el pobre Nicolas era la causa de ahogarse? Pues claro que no, pero para que veáis que cualquiera puede relacionar cosas.
 
@@ -150,7 +129,7 @@ Exactamente lo mismo sucede con las zonas azules, producto de la epidemiología,
 
 Se ha especulado que la dieta de lo que las personas que viven en las zonas azules es 95% o hasta 100% basadas en plantas (vegana). Lo que pasa es que… esto **no es cierto**.
 
-![zonas azules vegetarianos veganos](https://pau.ninja/wp-content/uploads/2023/05/zonas-azules-vegetarianos-veganos.png)
+![zonas azules vegetarianos veganos](./wp-content/uploads/2023/05zonas-azules-vegetarianos-veganos.png)
 
 El mismo propulso de esta errónea idea, afirmaba en la entrevista que hemos visto que sí comen carne, pero no es sólo esto. Tenemos que mirar a cada una de las cinco poblaciones, y también hablaremos a una muy, muy longeva que nos queda de hecho cerca de casa.
 
@@ -162,7 +141,7 @@ Las personas de Cerdeña, una de las cinco zonas azules del mundo, consumen más
 
 Entonces, ¿por qué son más sanos que el resto del mundo? Esta respuesta se responde en varias partes, la primera es la calidad de comida.
 
-Las poblaciones de las zonas azules no son gente que vivan en grandes ciudades. Son personas en pueblecitos que no van precisamente a comprar pollo de mi3rda del Mercadona hinchado con agua o de cerdos que no se han podido mover en toda su vida. Tampoco beben leche homogenizada y pasteurizada. Beben [leche buena](https://pau.ninja/es-bueno-beber-leche/). No beben [leche de avena con sus implicaciones para la salud](https://pau.ninja/leche-de-avena-contraindicaciones/). Consumen el cerdo y el cordero que ha pastado por sus extensiones de terreno.
+Las poblaciones de las zonas azules no son gente que vivan en grandes ciudades. Son personas en pueblecitos que no van precisamente a comprar pollo de mi3rda del Mercadona hinchado con agua o de cerdos que no se han podido mover en toda su vida. Tampoco beben leche homogenizada y pasteurizada. Beben [leche buena](./es-bueno-beber-leche/). No beben [leche de avena con sus implicaciones para la salud](https://pau.ninja/leche-de-avena-contraindicaciones). Consumen el cerdo y el cordero que ha pastado por sus extensiones de terreno.
 
 Tened en cuenta eso sí, que estoy hablando de las dietas más tradicionales de las zonas azules. Estoy seguro que la sociedad moderna ha empezado también a manchar los hábitos de consumo de las nuevas generaciones de esas áreas.
 
@@ -176,9 +155,9 @@ Algo similar para con la peña de Okinawa. «Pero un momento, Pau ¿No obtenían
 
 Pues no exactamente.
 
-En un paper analizando a 94 hombres centenarios de Japón, se vio una proporción elevada de comida animal más elevada que el japonés medio[2](<javascript:void(0)>)Shibata H, Nagai H, Haga H, Yasumura S, Suzuki T, Suyama Y. Nutrition for the Japanese elderly. Nutr Health. 1992;8(2-3):165-75. doi: 10.1177/026010609200800312. PMID: 1407826..»La subida de la ingesta de leches, grasas y aceites tienen efectos saludables en su longevidad», decía el *paper*. De hecho, cito textualmente:
+En un paper analizando a 94 hombres centenarios de Japón, se vio una proporción elevada de comida animal más elevada que el japonés medio[ref-2](#ref-2){.ref}.»La subida de la ingesta de leches, grasas y aceites tienen efectos saludables en su longevidad», decía el _paper_. De hecho, cito textualmente:
 
-> «Inesperadamente, no encontramos ningún vegetariano entre los centenarios»[3](<javascript:void(0)>)Supercentenarians and the oldest-old are concentrated into regions with no birth certificates and short lifespans Saul Justin Newman bioRxiv 704080;.
+> «Inesperadamente, no encontramos ningún vegetariano entre los centenarios»[ref-3](#ref-3){.ref}.
 
 Lo que la gente no sabe es que la dieta de Okinawa verdadera está centrada alrededor de la carne. Especialmente el cerdo, pero de lo único que escuchas a hablar es de su consumo de boniato/batata.
 
@@ -192,13 +171,13 @@ El estudio de las Zonas Azules de Okinawa fue realizado en 1949, y mientras que 
 
 El hombre medio de Nicoya tiene **7 veces más probabilidades de ser un centenario** que el hombre medio Japonés. Que como acabamos de ver es una de las sociedades con más esperanza de vida.
 
-Los hombres y personas de Nicoya consumen[4](<javascript:void(0)>)Rosero-Bixby L, Dow WH, Rehkopf DH. The Nicoya region of Costa Rica: a high longevity island for elderly males. Vienna Yearb Popul Res. 2013;11:109-136. doi: 10.1553/populationyearbook2013s109. PMID: 25426140; PMCID: PMC4241350. altas cantidades de pescado, aves de corral, huevos, hasta tortugas y muchos tipos de animales en sus cazas según varios reportes[5](<javascript:void(0)>)Rodríguez S., Irene. Alegre nicoyana se convierte en tataratataratatarabuela. La Nación, January 26, 2014.[6](<javascript:void(0)>)nstitute national de la statistique et des études économiques. Bilan démographique 2015..
+Los hombres y personas de Nicoya consumen[ref-4](#ref-4){.ref} altas cantidades de pescado, aves de corral, huevos, hasta tortugas y muchos tipos de animales en sus cazas según varios reportes[ref-5](#ref-5){.ref}[ref-6](#ref-6){.ref}.
 
-![centenarios de costa rica](https://pau.ninja/wp-content/uploads/2023/04/centenarios-de-costa-rica.jpeg)
+![centenarios de costa rica](./wp-content/uploads/2023/04centenarios-de-costa-rica.jpeg)
 
 > Una señora de 109 años describió su plato favorito como pierna de cerdo, cocinado con hígado, riñón, oreja, cerebro y corazón.
 
-¿Os suena este plato a algo? La [dieta carnívora de sólo carne](https://pau.ninja/dieta-carnivora/) ya se llevaba mucho antes de que se inventara internet, y aunque seguro que algunas verduras ponen, no están llenas de pesticidas y a la vez no forman parte de la mayoría de sus calorías como está sucediendo con las dietas occidentales actuales, o con la dieta de la longevidad falsa que se vende en estos libros.
+¿Os suena este plato a algo? La [dieta carnívora de sólo carne](./dieta-carnivora) ya se llevaba mucho antes de que se inventara internet, y aunque seguro que algunas verduras ponen, no están llenas de pesticidas y a la vez no forman parte de la mayoría de sus calorías como está sucediendo con las dietas occidentales actuales, o con la dieta de la longevidad falsa que se vende en estos libros.
 
 Se conoce que esta zona de Costa Rica cocina con más grasa animal que vegetal en comparación con el resto de la población costarricense.
 
@@ -218,9 +197,9 @@ Pero, ¿qué pasa en Loma Linda, en California, dónde los religiosos de la Igle
 
 No beben ni fuman, hacen montones de ejercicios, tiene propósito, un círculo social muy fuerte… y aunque no consumen lácteos, si que se alimentan de productos animales: de lácteos (que están muy presentes en su dieta).
 
-Si miramos la esperanza de vida, la gente de Loma Linda vive 7 años más de media que el resto de California, pero es que resulta que los mormones del resto de California, no son mencionados como zonas azules pero también viven 7 años más de media que el resto de la población[7](<javascript:void(0)>)Enstrom JE, Breslow L. Lifestyle and reduced mortality among active California Mormons, 1980-2004. Prev Med. 2008 Feb;46(2):133-6. doi: 10.1016/j.ypmed.2007.07.030. Epub 2007 Aug 3. PMID: 17920112..
+Si miramos la esperanza de vida, la gente de Loma Linda vive 7 años más de media que el resto de California, pero es que resulta que los mormones del resto de California, no son mencionados como zonas azules pero también viven 7 años más de media que el resto de la población[ref-7](#ref-7){.ref}.
 
-Si miramos de cerca como viven tanto estos mormones como los centenarios de Loma Linda, vemos que seguramente son los factores como el estilo de vida sano, la calidad de la comida, los bajos niveles de estrés, tener propósito centrado en espiritualidad en este caso, su actividad, su [exposición a la vitamina del sol](https://pau.ninja/como-tomar-vitamina-d-del-sol/)… ¿es su dieta y la proporción de fuentes de calorías? ¿O son todos estos factores enormes que afectan a su esperanza y calidad de vida?
+Si miramos de cerca como viven tanto estos mormones como los centenarios de Loma Linda, vemos que seguramente son los factores como el estilo de vida sano, la calidad de la comida, los bajos niveles de estrés, tener propósito centrado en espiritualidad en este caso, su actividad, su [exposición a la vitamina del sol](./como-tomar-vitamina-d-del-sol)… ¿es su dieta y la proporción de fuentes de calorías? ¿O son todos estos factores enormes que afectan a su esperanza y calidad de vida?
 
 ## El misterio de los centenarios
 
@@ -251,7 +230,7 @@ Si miramos la esperanza de vida de el top 10 mundial y hasta top 20 de la [lista
 - Bangladesh está en la posición 138 en la lista, con 11 años menos de vida que el español medio.
 - India está en la posición 187, con una población que vive 5 años menos que Bangladesh.
 
-Países que por cierto no sólo son los países con dietas más basadas en plantas, sino además ven más niveles de enfermedades cardiovasculares, diabetes y prediabetes[8](<javascript:void(0)>)Countries with the highest number of diabetics worldwide in 2021(in millions) – Statia.com[9](<javascript:void(0)>)Finegold JA, Asaria P, Francis DP. Mortality from ischaemic heart disease by country, region, and age: statistics from World Health Organisation and United Nations. Int J Cardiol. 2013 Sep 30;168(2):934-45. doi: 10.1016/j.ijcard.2012.10.046. Epub 2012 Dec 4. PMID: 23218570; PMCID: PMC3819990..
+Países que por cierto no sólo son los países con dietas más basadas en plantas, sino además ven más niveles de enfermedades cardiovasculares, diabetes y prediabetes[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}.
 
 ### Las enfermedades cardiovasculares
 
@@ -276,23 +255,23 @@ Y que podremos argumentar que es casualidad o no, pero no me manipules los datos
 
 - Calidad de la comida
 - Densidad nutricional
-- Tener pocos niveles de estrés[10](<javascript:void(0)>)Zannas AS, Arloth J, Carrillo-Roa T, Iurato S, Röh S, Ressler KJ, Nemeroff CB, Smith AK, Bradley B, Heim C, Menke A, Lange JF, Brückl T, Ising M, Wray NR, Erhardt A, Binder EB, Mehta D. Lifetime stress accelerates epigenetic aging in an urban, African American cohort: relevance of glucocorticoid signaling. Genome Biol. 2015 Dec 17;16:266. doi: 10.1186/s13059-015-0828-5. Erratum in: Genome Biol. 2018 May 23;19(1):61. PMID: 26673150; PMCID: PMC4699359.
+- Tener pocos niveles de estrés[ref-10](#ref-10){.ref}
 - Estilo de vida sano
-- Tomar el sol[11](<javascript:void(0)>)P. G. Lindqvist, E. Epstein, K. Nielsen, M. Landin-Olsson, C. Ingvar, H. Olsson. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. Journal of Internal Medicine, 2016; DOI: 10.1111/joim.12496
+- Tomar el sol[ref-11](#ref-11){.ref}
 
-Los [argumentos para la salud en contra de ser vegano no son pocos](https://pau.ninja/argumentos-en-contra-del-veganismo/) (#304) pero obtener estas vitaminas de fuentes animales tienen precedentes mucho más relevantes en las primeras etapas de la vida y del desarrollo de bebés y niños. Lo que hará que marque su salud de adulto.
+Los [argumentos para la salud en contra de ser vegano no son pocos](./argumentos-en-contra-del-veganismo) (#304) pero obtener estas vitaminas de fuentes animales tienen precedentes mucho más relevantes en las primeras etapas de la vida y del desarrollo de bebés y niños. Lo que hará que marque su salud de adulto.
 
-Por esto también es relevante que para entender esta falacia también entendamos la fuente de calorías de una dieta occidental[12](<javascript:void(0)>)What the World Eats | National Geographic.
+Por esto también es relevante que para entender esta falacia también entendamos la fuente de calorías de una dieta occidental[ref-12](#ref-12){.ref}.
 
-![calorías diarias en el mundo](https://pau.ninja/wp-content/uploads/2023/05/calorias-diarias-en-el-mundo.jpeg)
+![calorías diarias en el mundo](./wp-content/uploads/2023/05calorias-diarias-en-el-mundo.jpeg)
 
 En España aún lo tenemos bastante bien en comparación a otros países, pero si miramos porcentajes calóricos, **más del 70% de las dietas occidentales ya son de fuentes vegetales**. ¿A caso no es esto una dieta casi vegana? En la mayoría de casos incluso menos de un 20% de calorías vienen de fuentes animales.
 
-Lo que me parece un despropósito por ser una descorrelación enorme de lo que hubieran comido nuestros ancestros indígenas. El neandertal mismo (nuestro pariente más cercano) era [más carnívoro](https://pau.ninja/el-ser-humano-es-carnivoro/) que el lobo o la hiena.
+Lo que me parece un despropósito por ser una descorrelación enorme de lo que hubieran comido nuestros ancestros indígenas. El neandertal mismo (nuestro pariente más cercano) era [más carnívoro](./el-ser-humano-es-carnivoro) que el lobo o la hiena.
 
-![nitrógeno carnívoros](https://pau.ninja/wp-content/uploads/2021/10/nitrogeno-carnivoros.jpg)
+![nitrógeno carnívoros](./wp-content/uploads/2021/10nitrogeno-carnivoros.jpg)
 
-Ancestros que según estudios consumían (al menos) una media de un 65% de sus calorías de fuentes de origen animal[13](<javascript:void(0)>)Cordain L, Miller JB, Eaton SB, Mann N, Holt SH, Speth JD. Plant-animal subsistence ratios and macronutrient energy estimations in worldwide hunter-gatherer diets. Am J Clin Nutr. 2000 Mar;71(3):682-92. doi: 10.1093/ajcn/71.3.682. PMID: 10702160..
+Ancestros que según estudios consumían (al menos) una media de un 65% de sus calorías de fuentes de origen animal[ref-13](#ref-13){.ref}.
 
 No hace falta que consumas una dieta de sólo carne como hago yo porque piense que [el humano es un carnívoro facultativo](https://carnismo.com/el-ser-humano-es-carnivoro/) (cuando los vegetales te h0dan la salud, la piel y la energía ya te lo pensarás) pero… ¿eliminar la carne por completo?
 
@@ -300,13 +279,13 @@ No hace falta que consumas una dieta de sólo carne como hago yo porque piense q
 
 En realidad estoy convencido de que la dieta de la longevidad incluye carne sí o sí y tengo pruebas para demostrarlo.
 
-La primera es que hay estudios que han visto asociación entre carne roja y longitud de los [telómeros](https://www.nationalgeographic.com.es/ciencia/telomeros-posible-secreto-eterna-juventud_18848). Secuencias de nuestro ADN asociadas a nuestra longevidad. A más longitud de telómeros, más longevidad[14](<javascript:void(0)>)Shammas MA. Telomeres, lifestyle, cancer, and aging. Curr Opin Clin Nutr Metab Care. 2011 Jan;14(1):28-34. doi: 10.1097/MCO.0b013e32834121b1. PMID: 21102320; PMCID: PMC3370421.[15](<javascript:void(0)>)Adwan Shekhidem H, Sharvit L, Leman E, Manov I, Roichman A, Holtze S, M Huffman D, Y Cohen H, Bernd Hildebrandt T, Shams I, Atzmon G. Telomeres and Longevity: A Cause or an Effect? Int J Mol Sci. 2019 Jul 1;20(13):3233. doi: 10.3390/ijms20133233. PMID: 31266154; PMCID: PMC6651551..
+La primera es que hay estudios que han visto asociación entre carne roja y longitud de los [telómeros](https://www.nationalgeographic.com.es/ciencia/telomeros-posible-secreto-eterna-juventud_18848). Secuencias de nuestro ADN asociadas a nuestra longevidad. A más longitud de telómeros, más longevidad[ref-14](#ref-14){.ref}[ref-15](#ref-15){.ref}.
 
-Me hace gracia ver como en estos estudios, a pesar de ver una relación directa entre veces que una persona consume carne roja con longitud de telómeros[16](<javascript:void(0)>)Kasielski M, Eusebio MO, Pietruczuk M, Nowak D. The relationship between peripheral blood mononuclear cells telomere length and diet – unexpected effect of red meat. Nutr J. 2016 Jul 14;15(1):68. doi: 10.1186/s12937-016-0189-2. PMID: 27418163; PMCID: PMC4944490. y por lo tanto más longevidad, en las conclusiones no ponen «asociación directa».
+Me hace gracia ver como en estos estudios, a pesar de ver una relación directa entre veces que una persona consume carne roja con longitud de telómeros[ref-16](#ref-16){.ref} y por lo tanto más longevidad, en las conclusiones no ponen «asociación directa».
 
-![carne roja y longevidad](https://pau.ninja/wp-content/uploads/2023/05/carne-roja-y-longevidad.png)
+![carne roja y longevidad](./wp-content/uploads/2023/05carne-roja-y-longevidad.png)
 
-Sino que dicen: «mhmmm, no nos lo esperábamos. Hay que hacer más estudios». Algo que hemos visto una y otra vez en estudios de la carne que se relacionan con más esperanza de vida como los que ya mencioné que se hicieron a Holanda[17](<javascript:void(0)>)Aykan NF. Red Meat and Colorectal Cancer. Oncol Rev. 2015 Dec 28;9(1):288. doi: 10.4081/oncol.2015.288. PMID: 26779313; PMCID: PMC4698595. o Japón[18](<javascript:void(0)>)Sato, Yuki & Nakaya, Naoki & Kuriyama, Shinichi & Nishino, Yoshikazu & Tsubono, Yoshitaka & Tsuji, Ichiro. (2006). Meat consumption and risk of colorectal cancer in Japan: The Miyagi Cohort Study. European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP). 15. 211-8. 10.1097/01.cej.0000197455.87356.05. .
+Sino que dicen: «mhmmm, no nos lo esperábamos. Hay que hacer más estudios». Algo que hemos visto una y otra vez en estudios de la carne que se relacionan con más esperanza de vida como los que ya mencioné que se hicieron a Holanda[ref-17](#ref-17){.ref} o Japón[ref-18](#ref-18){.ref} .
 
 > A más consumo de carne roja, más longevidad y menos enfermedades.
 
@@ -355,73 +334,160 @@ Estas preguntas se responden solas, pero ya es cosa tuya ver si la carne ayuda a
 Pulsa aquí para plegarlas/desplegarlas.
 
 - 1
-
-  Ancel Keys (ed), Seven Countries: A multivariate analysis of death and coronary heart disease, 1980. Cambridge, Mass.: Harvard University Press. ISBN 0-674-80237-3.
-
+    
+    
+    
 - 2
-
-  Shibata H, Nagai H, Haga H, Yasumura S, Suzuki T, Suyama Y. Nutrition for the Japanese elderly. Nutr Health. 1992;8(2-3):165-75. doi: 10.1177/026010609200800312. PMID: 1407826.
-
+    
+    
+    
 - 3
-
-  Supercentenarians and the oldest-old are concentrated into regions with no birth certificates and short lifespans Saul Justin Newman bioRxiv 704080;
-
+    
+    
+    
 - 4
-
-  Rosero-Bixby L, Dow WH, Rehkopf DH. The Nicoya region of Costa Rica: a high longevity island for elderly males. Vienna Yearb Popul Res. 2013;11:109-136. doi: 10.1553/populationyearbook2013s109. PMID: 25426140; PMCID: PMC4241350.
-
+    
+    
+    
 - 5
-
-  Rodríguez S., Irene. Alegre nicoyana se convierte en tataratataratatarabuela. La Nación, January 26, 2014.
-
+    
+    
+    
 - 6
-
-  nstitute national de la statistique et des études économiques. Bilan démographique 2015.
-
+    
+    
+    
 - 7
-
-  Enstrom JE, Breslow L. Lifestyle and reduced mortality among active California Mormons, 1980-2004. Prev Med. 2008 Feb;46(2):133-6. doi: 10.1016/j.ypmed.2007.07.030. Epub 2007 Aug 3. PMID: 17920112.
-
+    
+    
+    
 - 8
-
-  Countries with the highest number of diabetics worldwide in 2021(in millions) – Statia.com
-
+    
+    
+    
 - 9
-
-  Finegold JA, Asaria P, Francis DP. Mortality from ischaemic heart disease by country, region, and age: statistics from World Health Organisation and United Nations. Int J Cardiol. 2013 Sep 30;168(2):934-45. doi: 10.1016/j.ijcard.2012.10.046. Epub 2012 Dec 4. PMID: 23218570; PMCID: PMC3819990.
-
+    
+    
+    
 - 10
-
-  Zannas AS, Arloth J, Carrillo-Roa T, Iurato S, Röh S, Ressler KJ, Nemeroff CB, Smith AK, Bradley B, Heim C, Menke A, Lange JF, Brückl T, Ising M, Wray NR, Erhardt A, Binder EB, Mehta D. Lifetime stress accelerates epigenetic aging in an urban, African American cohort: relevance of glucocorticoid signaling. Genome Biol. 2015 Dec 17;16:266. doi: 10.1186/s13059-015-0828-5. Erratum in: Genome Biol. 2018 May 23;19(1):61. PMID: 26673150; PMCID: PMC4699359.
-
+    
+    
+    
 - 11
-
-  P. G. Lindqvist, E. Epstein, K. Nielsen, M. Landin-Olsson, C. Ingvar, H. Olsson. Avoidance of sun exposure as a risk factor for major causes of death: a competing risk analysis of the Melanoma in Southern Sweden cohort. Journal of Internal Medicine, 2016; DOI: 10.1111/joim.12496
-
+    
+    
+    
 - 12
-
-  What the World Eats | National Geographic
-
+    
+    
+    
 - 13
-
-  Cordain L, Miller JB, Eaton SB, Mann N, Holt SH, Speth JD. Plant-animal subsistence ratios and macronutrient energy estimations in worldwide hunter-gatherer diets. Am J Clin Nutr. 2000 Mar;71(3):682-92. doi: 10.1093/ajcn/71.3.682. PMID: 10702160.
-
+    
+    
+    
 - 14
-
-  Shammas MA. Telomeres, lifestyle, cancer, and aging. Curr Opin Clin Nutr Metab Care. 2011 Jan;14(1):28-34. doi: 10.1097/MCO.0b013e32834121b1. PMID: 21102320; PMCID: PMC3370421.
-
+    
+    
+    
 - 15
-
-  Adwan Shekhidem H, Sharvit L, Leman E, Manov I, Roichman A, Holtze S, M Huffman D, Y Cohen H, Bernd Hildebrandt T, Shams I, Atzmon G. Telomeres and Longevity: A Cause or an Effect? Int J Mol Sci. 2019 Jul 1;20(13):3233. doi: 10.3390/ijms20133233. PMID: 31266154; PMCID: PMC6651551.
-
+    
+    
+    
 - 16
-
-  Kasielski M, Eusebio MO, Pietruczuk M, Nowak D. The relationship between peripheral blood mononuclear cells telomere length and diet – unexpected effect of red meat. Nutr J. 2016 Jul 14;15(1):68. doi: 10.1186/s12937-016-0189-2. PMID: 27418163; PMCID: PMC4944490.
-
+    
+    
+    
 - 17
-
-  Aykan NF. Red Meat and Colorectal Cancer. Oncol Rev. 2015 Dec 28;9(1):288. doi: 10.4081/oncol.2015.288. PMID: 26779313; PMCID: PMC4698595.
-
+    
+    
+    
 - 18
+    
+    
+    
 
-  Sato, Yuki & Nakaya, Naoki & Kuriyama, Shinichi & Nishino, Yoshikazu & Tsubono, Yoshitaka & Tsuji, Ichiro. (2006). Meat consumption and risk of colorectal cancer in Japan: The Miyagi Cohort Study. European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP). 15. 211-8. 10.1097/01.cej.0000197455.87356.05.
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Mentiras nutricionales](./mitos-nutricionales)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/zonas-azules-dieta-longevidad/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":17927,"title":"Las%205%20zonas%20azules%20con%20m%C3%A1s%20longevidad%20son%20FALSAS","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/04\\/persona-centenaria.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

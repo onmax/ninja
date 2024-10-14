@@ -1,13 +1,20 @@
 ---
-title: "Deja de usar auriculares Bluetooth (échate un cable) ¿son malos para la salud?"
+title: "Deja de usar auriculares Bluetooth (échate un cable)"
+url: https://pau.ninja/auriculares-bluetooth-son-malos
+slug: auriculares-bluetooth-son-malos
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
+  - slug: radiaciones-electromagn
+    label: Radiaciones electromagnéticas
 image: persona-con-auriculares-bluetooth.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/07/persona-con-auriculares-bluetooth.jpeg
 published: 2023-07-08T04:57:29+00:00
 modified: 2023-09-11T08:25:43+00:00
+scrappedAt: 2024-10-14T09:19:58.669Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/74476258/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-10%2F342600969-44100-2-5a7d9a7be4be1.mp3
-slug: auriculares-bluetooth-son-malos
+bibliography: ["PRESS RELEASE N° 208 31 May 2011, IARC CLASSIFIES RADIOFREQUENCY ELECTROMAGNETIC FIELDS AS POSSIBLY CARCINOGENIC TO HUMANS","“Bluetooth.” 2022. Bluetooth | Institute of Physics.‌","Mia De Graaf, and Natalie Rahhal. 2018. “The Male Fertility Crisis Continues: Quality of Sperm Plummets.” Mail Online. Daily Mail.‌","FCC ID. 2023. “A2565 Bluetooth Earbuds RF Exposure Info 1 Apple .” _FCC ID_.","FCC ID. 2023. “A2564 Bluetooth Earbuds RF Exposure Info 1 Apple .” FCC ID.","Frey AH, Feld SR, Frey B. Neural function and behavior: defining the relationship. Ann N Y Acad Sci. 1975 Feb 28;247:433-9. doi: 10.1111/j.1749-6632.1975.tb36019.x. PMID: 46734.","“Glosario: Barrera Hematoencefálica – Comisión Europea.” 2023. Europa.eu.‌","Mandalà M, Colletti V, Sacchetto L, Manganotti P, Ramat S, Marcocci A, Colletti L. Effect of Bluetooth headset and mobile phone electromagnetic fields on the human auditory nerve. Laryngoscope. 2014 Jan;124(1):255-9. doi: 10.1002/lary.24103. Epub 2013 Apr 25. PMID: 23619813.","Balachandran R, Prepageran N, Rahmat O, Zulkiflee AB, Hufaida KS. Effects of Bluetooth device electromagnetic field on hearing: pilot study. J Laryngol Otol. 2012 Apr;126(4):345-8. doi: 10.1017/S0022215112000047. Epub 2012 Feb 6. Erratum in: J Laryngol Otol. 2012 Apr;126(4):348. Prepagaran, N \\[corrected to Prepageran, N\\]. PMID: 22310164.","Lai, Henry. 2023. “Henry Lai RFR-Oxidative Effect-Study Absracts 2-4-2023.Pdf.” Google Docs. https://drive.google.com/file/d/1IphXqR-7NIxq1P-Xd7bm37Wz5GJPDZza/","bioadmin. 2012. “Henry Lai’s Research Summaries – BioInitiative Report 2012.” The BioInitiative Report | a Rationale for a Biologically-Based Exposure Standards for Low-Intensity Electromagnetic Radiation.‌","Redazione L. International Appeal: Scientists call for protection from non-ionizing electromagnetic field exposure. Eur J Oncol \\[Internet\\]. 2015 Dec. 20 \\[cited 2023 Jul. 5\\];20(3/4):180-2.","PRESS RELEASE N° 208 31 May 2011. IARC CLASSIFIES RADIOFREQUENCY ELECTROMAGNETIC FIELDS AS POSSIBLY CARCINOGENIC TO HUMANS","Boseley, Sarah. 2000. “Hands-Free Mobiles ‘Increase Radiation Risk.’” The Guardian. The Guardian.","Garg, Vijay K. 2007. “Wireless Personal Area Network — Bluetooth,” January.","Clear Sound, Sleek Styling, and Microwave Radiation October 18, 2016 by Katia Savchuk","Schieszer, John. 2009. “Cell Phone Use Could Damage Semen.” Renal and Urology News.","Salford, Leif & Nittby, Henrietta & Brun, Arne & Grafstrom, Gustav & Malmgren, Lars & Sommarin, Marianne & Eberhardt, Jacob & Persson, Bertil. (2008). The Mammalian Brain in the Electromagnetic Fields Designed by Man with Special Reference to Blood-Brain Barrier Function, Neuronal Damage and Possible Physical Mechanisms. Progress of Theoretical Physics Supplement – PROG THEOR PHYS SUPPL. 173. 283-309. 10.1143/PTPS.173.283.","Salford LG, Brun AE, Eberhardt JL, Malmgren L, Persson BR. Nerve cell damage in mammalian brain after exposure to microwaves from GSM mobile phones. Environ Health Perspect. 2003 Jun;111(7):881-3; discussion A408. doi: 10.1289/ehp.6039. PMID: 12782486; PMCID: PMC1241519.","Redmayne M, Johansson O. Could myelin damage from radiofrequency electromagnetic field exposure help explain the functional impairment electrohypersensitivity? A review of the evidence. J Toxicol Environ Health B Crit Rev. 2014;17(5):247-58. doi: 10.1080/10937404.2014.923356. PMID: 25205214.","Kolodynski AA, Kolodynska VV. Motor and psychological functions of school children living in the area of the Skrunda Radio Location Station in Latvia. Sci Total Environ. 1996 Feb 2;180(1):87-93. doi: 10.1016/0048-9697(95)04924-x. PMID: 8717320.","Abdel-Rassoul G, El-Fateh OA, Salem MA, Michael A, Farahat F, El-Batanouny M, Salem E. Neurobehavioral effects among inhabitants around mobile phone base stations. Neurotoxicology. 2007 Mar;28(2):434-40. doi: 10.1016/j.neuro.2006.07.012. Epub 2006 Aug 1. PMID: 16962663."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/74476258/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-10%2F342600969-44100-2-5a7d9a7be4be1.mp3](https://anchor.fm/s/98566448/podcast/play/74476258/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-10%2F342600969-44100-2-5a7d9a7be4be1.mp3)
 
 ¿Nos van a pasar factura los Airpods y auriculares Bluetooth?
@@ -28,9 +35,7 @@ Aquí tenéis un truco para conocer chicas… Pero ojo, porque si le pides sali
 
 Se de lo que hablo…
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-El *statuos quo* lo ha hecho tan bien que hemos llegado a un punto en el que se tacha de conspiranoico al que piense (como yo) que [la radiación electromagnética nos afecta la salud](https://pau.ninja/efectos-ondas-electromagneticas/).
+El _statuos quo_ lo ha hecho tan bien que hemos llegado a un punto en el que se tacha de conspiranoico al que piense (como yo) que [la radiación electromagnética nos afecta la salud](./efectos-ondas-electromagneticas).
 
 La narrativa es perfecta.
 
@@ -49,13 +54,13 @@ Se han encargado de hacernos creer que no hay ningún tipo de peligro ni con:
 
 ¿Por qué **no** tendríamos que fiarnos de las instituciones que nos dicen que son seguras? ¿Cuando nos han engañado? ¿A caso no anteponen nuestro bienestar por encima de cualquier cosa?
 
-Pues tengo noticias para los enamorados de los títulos, los organismos públicos y en general de los fans del [argumento de autoridad](https://pau.ninja/argumento-de-autoridad/) (#457)…
+Pues tengo noticias para los enamorados de los títulos, los organismos públicos y en general de los fans del [argumento de autoridad](./argumento-de-autoridad) (#457)…
 
-Os recuerdo que hace ya una década que la Organización Mundial **clasificó la radiación de radio frecuencia (como es el Bluetooth) como uno de los posibles carcinógenos humanos** del grupo 2B[1](<javascript:void(0)>)PRESS RELEASE N° 208 31 May 2011, IARC CLASSIFIES RADIOFREQUENCY ELECTROMAGNETIC FIELDS AS POSSIBLY CARCINOGENIC TO HUMANS.
+Os recuerdo que hace ya una década que la Organización Mundial **clasificó la radiación de radio frecuencia (como es el Bluetooth) como uno de los posibles carcinógenos humanos** del grupo 2B[ref-1](#ref-1){.ref}.
 
 Lógicamente esto viene muchos años más tarde de que todo dios ya haya adoptado el Bluetooth en sus vidas.
 
-![meme radiaciones no ionizantes](https://pau.ninja/wp-content/uploads/2022/08/meme-radiaciones.jpeg)
+![meme radiaciones no ionizantes](./wp-content/uploads/2022/08meme-radiaciones.jpeg)
 
 Vamos, que para las instituciones, los potenciales agentes cancerígenos son «inocentes hasta que se demuestre lo contrario». Lo cuál no tiene put0 sentido porque tendría que ser al revés (¿podría ser peligroso? pues no permitimos su venta…)
 
@@ -79,27 +84,11 @@ Sólo hace falta mirar qué gadget tiene todo adolescente: un móvil y unos auri
 
 Y ya os puedo asegurar que será **nefasto** para su salud al largo plazo.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el Bluetooth](#Que_es_el_Bluetooth 'Qué es el Bluetooth')
-- [Tienes un microondas (en la oreja)](#Tienes_un_microondas_en_la_oreja 'Tienes un microondas (en la oreja)')
-- [Oficialmente el Bluetooth es seguro pero...](#Oficialmente_el_Bluetooth_es_seguro_pero 'Oficialmente el Bluetooth es seguro pero...')
-- [En la dosis (no) está el veneno](#En_la_dosis_no_esta_el_veneno 'En la dosis (no) está el veneno')
-- [Contraindicaciones de usar audífonos](#Contraindicaciones_de_usar_audifonos 'Contraindicaciones de usar audífonos')
-- [¿Por qué me duele la cabeza con audífonos?](#%C2%BFPor_que_me_duele_la_cabeza_con_audifonos '¿Por qué me duele la cabeza con audífonos?')
-- [Fertilidad también "inalámbrica"](#Fertilidad_tambien_%22inalambrica%22 'Fertilidad también "inalámbrica"')
-- [¿Los auriculares inalámbricos producen cáncer?](#%C2%BFLos_auriculares_inalambricos_producen_cancer '¿Los auriculares inalámbricos producen cáncer?')
-- [¿Es malo dormir con Airpods?](#%C2%BFEs_malo_dormir_con_Airpods '¿Es malo dormir con Airpods?')
-- [¿Es mejor los auriculares con cable al Bluetooth?](#%C2%BFEs_mejor_los_auriculares_con_cable_al_Bluetooth '¿Es mejor los auriculares con cable al Bluetooth?')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Qué es el Bluetooth
 
 Cuando nos conectamos al Bluetooth, los dispositivos se comunican entre ellos usando ondas de radio de frecuencia ultra alta (UHF).
 
-Las ondas UHF de distintas frecuencias se utilizan en microondas, sistemas GPS y muchos otros dispositivos[2](<javascript:void(0)>)“Bluetooth.” 2022. Bluetooth | Institute of Physics.‌.
+Las ondas UHF de distintas frecuencias se utilizan en microondas, sistemas GPS y muchos otros dispositivos[ref-2](#ref-2){.ref}.
 
 En el fondo esto es lo que estamos mirando: cómo nos afectan estas ondas.
 
@@ -107,25 +96,25 @@ En el fondo esto es lo que estamos mirando: cómo nos afectan estas ondas.
 
 Me consta que muchos empezasteis a poner el móvil en modo avión como hago yo cuando me lo guardo en el bolsillo porque hay una relación directa con estas radiaciones y la baja fertilidad (cada vez más alta) que estamos viendo en occidente.
 
-A las [embarazadas siguiendo dietas veganas](https://pau.ninja/dieta-vegana-embarazo/) (#406) le sumas las radiaciones, y tienes una población cada vez más infértil[3](<javascript:void(0)>)Mia De Graaf, and Natalie Rahhal. 2018. “The Male Fertility Crisis Continues: Quality of Sperm Plummets.” Mail Online. Daily Mail.‌.
+A las [embarazadas siguiendo dietas veganas](./dieta-vegana-embarazo) (#406) le sumas las radiaciones, y tienes una población cada vez más infértil[ref-3](#ref-3){.ref}.
 
-![efectos radiaciones testosterona](https://pau.ninja/wp-content/uploads/2022/08/efectos-radiaciones-testosterona.jpeg)
+![efectos radiaciones testosterona](./wp-content/uploads/2022/08efectos-radiaciones-testosterona.jpeg)
 
 Una infertilidad incrementándose un 5-10% más **cada año**.
 
 Si ya eres consciente de que deberías poner el móvil en modo avión, considera que para algunos dispositivos Bluetooth como los AirPods de Apple, la tasa de absorción específica (el SAR) es mucho mayor que en un móvil.
 
-¿Qué es el SAR? Pues en lenguaje ninja es una medida de la exposición máxima del cuerpo a la radiación de microondas, que como digo en algunos auriculares supera la de muchos _smartphones_[4](<javascript:void(0)>)FCC ID. 2023. “A2565 Bluetooth Earbuds RF Exposure Info 1 Apple .” *FCC ID*.[5](<javascript:void(0)>)FCC ID. 2023. “A2564 Bluetooth Earbuds RF Exposure Info 1 Apple .” FCC ID..
+¿Qué es el SAR? Pues en lenguaje ninja es una medida de la exposición máxima del cuerpo a la radiación de microondas, que como digo en algunos auriculares supera la de muchos _smartphones_[ref-4](#ref-4){.ref}[ref-5](#ref-5){.ref}.
 
 > Vamos. Que te estás _microondeando_ el cerebreo.
 
 ¿Y cómo de malo es esto?
 
-Pues si te digo que les dije a mi familia que tiraran [su microonda por los efectos en la salud](https://pau.ninja/el-microondas-es-malo/), ya te lo digo todo (#288).
+Pues si te digo que les dije a mi familia que tiraran [su microonda por los efectos en la salud](./el-microondas-es-malo), ya te lo digo todo (#288).
 
-Algo que no es nuevo. Ya sabemos lo malo que son estas radiaciones desde 1975, cuando Allan Frey publicó un _paper_ donde reportó como la exposición de baja intensidad a la radiación de microondas abría la barrera hematoencefálica en ratas[6](<javascript:void(0)>)Frey AH, Feld SR, Frey B. Neural function and behavior: defining the relationship. Ann N Y Acad Sci. 1975 Feb 28;247:433-9. doi: 10.1111/j.1749-6632.1975.tb36019.x. PMID: 46734..
+Algo que no es nuevo. Ya sabemos lo malo que son estas radiaciones desde 1975, cuando Allan Frey publicó un _paper_ donde reportó como la exposición de baja intensidad a la radiación de microondas abría la barrera hematoencefálica en ratas[ref-6](#ref-6){.ref}.
 
-La barrera hematoencefálica en lenguaje ninja es básicamente una barrera protectora[7](<javascript:void(0)>)“Glosario: Barrera Hematoencefálica – Comisión Europea.” 2023. Europa.eu.‌ que tenemos entre los vasos sanguíneos del cerebro y los tejidos que nos permita que la sangre pueda fluir sin obstrucciones en dirección al cerebro, pero a la vez impidiendo el contacto entre la mayoría de otras cosas que tengamos en el torrente sanguíneo.
+La barrera hematoencefálica en lenguaje ninja es básicamente una barrera protectora[ref-7](#ref-7){.ref} que tenemos entre los vasos sanguíneos del cerebro y los tejidos que nos permita que la sangre pueda fluir sin obstrucciones en dirección al cerebro, pero a la vez impidiendo el contacto entre la mayoría de otras cosas que tengamos en el torrente sanguíneo.
 
 Lo que se vio con estos estudios es que ondas de radiofrecuencia pulsadas (como Bluetooth, esas ondas que duran una fracción de segundo) eran **más propensas (incluso que las ondas continuas) a crear este efecto** negativo. Más propensas a «romper» (o franquear) esta barrera protectora.
 
@@ -137,9 +126,9 @@ Es como sacar los peajes.
 
 Enfermedades del neurodesarrollo y neurodegenerativas y cáncer cerebral.
 
-Por esto no es casualidad que más de una docena de estudios _peer-reviewed_ han replicados lo que Frey encontró con la exposición a la radiación microondas[8](<javascript:void(0)>)Mandalà M, Colletti V, Sacchetto L, Manganotti P, Ramat S, Marcocci A, Colletti L. Effect of Bluetooth headset and mobile phone electromagnetic fields on the human auditory nerve. Laryngoscope. 2014 Jan;124(1):255-9. doi: 10.1002/lary.24103. Epub 2013 Apr 25. PMID: 23619813.[9](<javascript:void(0)>)Balachandran R, Prepageran N, Rahmat O, Zulkiflee AB, Hufaida KS. Effects of Bluetooth device electromagnetic field on hearing: pilot study. J Laryngol Otol. 2012 Apr;126(4):345-8. doi: 10.1017/S0022215112000047. Epub 2012 Feb 6. Erratum in: J Laryngol Otol. 2012 Apr;126(4):348. Prepagaran, N \[corrected to Prepageran, N\]. PMID: 22310164..
+Por esto no es casualidad que más de una docena de estudios _peer-reviewed_ han replicados lo que Frey encontró con la exposición a la radiación microondas[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref}.
 
-A todos los que decís eso de «aaah pero el Bluetooth no son [radiaciones ionizantes, no tienen ningún efecto](https://pau.ninja/radiaciones-ionizantes-en-casa/) en casa…», escuchad de nuevo:
+A todos los que decís eso de «aaah pero el Bluetooth no son [radiaciones ionizantes, no tienen ningún efecto](./radiaciones-ionizantes-en-casa) en casa…», escuchad de nuevo:
 
 El efecto de la radiación de microondas en la barrera hematoencefálica no es lineal, es decir:
 
@@ -159,7 +148,7 @@ Forzándonos a adoptar los auriculares Bluetooth en nuestras cabezas.
 
 ¿Y qué asumimos como consumidores?
 
-Pues que habrá cero problemas con la salud porque los estándares de seguridad estarán bien establecidos, de lo contrario *no nos dejarían usarlo, ¿no?*
+Pues que habrá cero problemas con la salud porque los estándares de seguridad estarán bien establecidos, de lo contrario _no nos dejarían usarlo, ¿no?_
 
 Pero un momento, si acabamos de ver que las informaciones oficiales vienen más tarde que el mercado.
 
@@ -183,17 +172,17 @@ Ninjas de la vida, ahora tenemos cientos. Repito. Cientos de estudios que muest
 
 Aquí tenemos que agradecer a personas que han dedicado su vida a advertir sobre estos peligros y que lógicamente los medios se han ocupado de enterrar.
 
-Por ejemplo el profesor emérito Dr. Henry Lai, del Departamento de Bioingeniería de la Universidad de Washington, que tiene un documento colgado internet recopilando **más de 290 estudios** en los que más del 90% han reportado efectos estadísticamente significativos de la radiación de radiofrecuencia en los procesos celulares relacionados con los radicales libres[10](<javascript:void(0)>)Lai, Henry. 2023. “Henry Lai RFR-Oxidative Effect-Study Absracts 2-4-2023.Pdf.” Google Docs. https://drive.google.com/file/d/1IphXqR-7NIxq1P-Xd7bm37Wz5GJPDZza/[11](javascript:void\(0\))bioadmin. 2012. “Henry Lai’s Research Summaries – BioInitiative Report 2012.” The BioInitiative Report | a Rationale for a Biologically-Based Exposure Standards for Low-Intensity Electromagnetic Radiation.‌.
+Por ejemplo el profesor emérito Dr. Henry Lai, del Departamento de Bioingeniería de la Universidad de Washington, que tiene un documento colgado internet recopilando **más de 290 estudios** en los que más del 90% han reportado efectos estadísticamente significativos de la radiación de radiofrecuencia en los procesos celulares relacionados con los radicales libres[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}.
 
 ## En la dosis (no) está el veneno
 
-Por qué os pensáis que más de 250 investigadores en más de 44 países lleven años firmado peticiones[12](<javascript:void(0)>)Redazione L. International Appeal: Scientists call for protection from non-ionizing electromagnetic field exposure. Eur J Oncol \[Internet\]. 2015 Dec. 20 \[cited 2023 Jul. 5\];20(3/4):180-2. a las Naciones Unidas y a la Organización Mundial de la Salud expresando una «seria preocupación» por estos campos electromagnéticos no ionizantes.
+Por qué os pensáis que más de 250 investigadores en más de 44 países lleven años firmado peticiones[ref-12](#ref-12){.ref} a las Naciones Unidas y a la Organización Mundial de la Salud expresando una «seria preocupación» por estos campos electromagnéticos no ionizantes.
 
 No dejan de ser el tipo de radiación que emiten los dispositivos inalámbricos, lo que incluye el Bluetooth.
 
 Estos científicos hasta han hecho una asociación llamada [International EMF Scientist Appeal](https://emfscientist.org/) pidiendo a las instituciones que dejen de ser (oficialmente) tan permisivos.
 
-De hecho hace más de 10 años la Agencia Internacional para la Investigación del Cáncer ya dijo que las radiaciones son «posiblemente cancerígenas para los humanos»[13](<javascript:void(0)>)PRESS RELEASE N° 208 31 May 2011. IARC CLASSIFIES RADIOFREQUENCY ELECTROMAGNETIC FIELDS AS POSSIBLY CARCINOGENIC TO HUMANS… Y ahí se quedó la cosa.
+De hecho hace más de 10 años la Agencia Internacional para la Investigación del Cáncer ya dijo que las radiaciones son «posiblemente cancerígenas para los humanos»[ref-13](#ref-13){.ref}… Y ahí se quedó la cosa.
 
 Es verdad que comparándolo con un teléfono a secas, la cantidad de radiación emitida por el Bluetooth puede ser significantemente menos.
 
@@ -219,13 +208,13 @@ Las marcas lógicamente anuncian encantadas que sus cascos son de clase 1.
 
 ¡Más conectividad!
 
-Pero es que un informe encontró[14](<javascript:void(0)>)Boseley, Sarah. 2000. “Hands-Free Mobiles ‘Increase Radiation Risk.’” The Guardian. The Guardian. que los manos libres canalizaban tres veces la dosis de radiación hacia el cráneo en comparación con el teléfono móvil.
+Pero es que un informe encontró[ref-14](#ref-14){.ref} que los manos libres canalizaban tres veces la dosis de radiación hacia el cráneo en comparación con el teléfono móvil.
 
 ¡Tres veces más!
 
 ## Contraindicaciones de usar audífonos
 
-Por esto cada pocos meses reitero que [estas ondas electromagnéticas tiene efectos para todos](https://pau.ninja/efectos-ondas-electromagneticas/).
+Por esto cada pocos meses reitero que [estas ondas electromagnéticas tiene efectos para todos](./efectos-ondas-electromagneticas).
 
 Repito: **para todos**.
 
@@ -234,14 +223,14 @@ Seas más o menos sensible los efectos están ahí y que lo notes más o menos e
 Si comparamos 10-15 minutos de llamada con tu teléfono al lado de la oreja cada día, con horas y horas de auriculares bluetooth, es un **contraste enorme** para el estrés oxidativo que estamos causando a nuestra cabeza.
 
 - Memoria
-- [Niebla mental](https://pau.ninja/niebla-mental-causas-sintomas/)
+- [Niebla mental](./niebla-mental-causas-sintomas)
 - Sueño
 - Migrañas
 - Dolores de cabeza
 
 Y os voy a proponer un ejercicio muy simple: os vais de camping a dormir con el teléfono apagado o en modo avión, y me comentáis qué tal habéis dormido y como os habéis sentido (…).
 
-¿Creéis que es casualidad que en España y muchos otros países una práctica como acampar dónde te de la gana esté prohibido por ley? ¿Que nos digan [que tomar el sol sin crema es malo para la salud](https://pau.ninja/tomar-el-sol-sin-crema/)?
+¿Creéis que es casualidad que en España y muchos otros países una práctica como acampar dónde te de la gana esté prohibido por ley? ¿Que nos digan [que tomar el sol sin crema es malo para la salud](./tomar-el-sol-sin-crema)?
 
 Para mí, todo está conectado.
 
@@ -275,7 +264,7 @@ Con auriculares Bluetooth no sólo estamos expuestos a la radiación, sino que i
 
 El ninja de la vida de [nuestra comunidad](#unirse), Sergio Elortegi, lo explicó de maravilla en el canal que tenemos de radiaciones electromagnéticas.
 
-_Explicaba como la comunicación entre auriculares es de tipo maestro-esclavo[15](<javascript:void(0)>)Garg, Vijay K. 2007. “Wireless Personal Area Network — Bluetooth,” January.._
+_Explicaba como la comunicación entre auriculares es de tipo maestro-esclavo[ref-15](#ref-15){.ref}._
 
 _Uno recibe la comunicación desde el emisor de la transmisión, (móvil, TV etc…), y se lo pasa al otro._
 
@@ -301,7 +290,7 @@ Ahora ya sabemos que tener los auriculares en el canal auditivo, expone tejidos 
 
 Me saca de quicio que la mayoría sabe y está de acuerdo en que sujetar tu teléfono al lado de la oreja está asociado a la creación de tumores cerebrales, en cambio nos metemos el auricular **dentro de la oreja** (lo que hace que aún esté más cerca del cerebro) y nadie dice ni pio.
 
-Los llamados *expertos* involucrados en estas multinacionales nunca han dicho «usar Bluetooth o nuestros dispositivos es sano», lo que sí no se dejan de cansar de repetir es «nuestros dispositivos cumplen con con las directrices de seguridad actuales»[16](<javascript:void(0)>)Clear Sound, Sleek Styling, and Microwave Radiation October 18, 2016 by Katia Savchuk.
+Los llamados _expertos_ involucrados en estas multinacionales nunca han dicho «usar Bluetooth o nuestros dispositivos es sano», lo que sí no se dejan de cansar de repetir es «nuestros dispositivos cumplen con con las directrices de seguridad actuales»[ref-16](#ref-16){.ref}.
 
 Una respuesta muy políticamente correcta, porque se saca la responsabilidad a la vez que no miente.
 
@@ -315,9 +304,9 @@ Unas ondas que crea tumores y otras condiciones asociadas con el funcionamiento 
 
 ## Fertilidad también «inalámbrica»
 
-Lo vemos claramente con un estudio que combinaba móvil + Bluetooth para llegar a la conclusión que ya os podéis imaginar: que tener tener el teléfono en el bolsillo y encima conectado Bluetooth es **de las peores cosas que podemos hacer para la cantidad y calidad de nuestro esperma**[17](<javascript:void(0)>)Schieszer, John. 2009. “Cell Phone Use Could Damage Semen.” Renal and Urology News..
+Lo vemos claramente con un estudio que combinaba móvil + Bluetooth para llegar a la conclusión que ya os podéis imaginar: que tener tener el teléfono en el bolsillo y encima conectado Bluetooth es **de las peores cosas que podemos hacer para la cantidad y calidad de nuestro esperma**[ref-17](#ref-17){.ref}.
 
-Se multiplica el efecto si lo tenemos en el bolsillo así que para mí un paso obligatorio es o bien tenerlo en modo avión, y/o [comprar una funda anti radiación para el móvil](https://pau.ninja/tienda/funda-anti-radiacion-movil/).
+Se multiplica el efecto si lo tenemos en el bolsillo así que para mí un paso obligatorio es o bien tenerlo en modo avión, y/o [comprar una funda anti radiación para el móvil](./tienda/funda-anti-radiacion-movil).
 
 Por cierto que el mismo estudio encontraba que después de unas cuantas horas de las radiaciones provenientes del Bluetooth, se creaba un daño considerable en el ADN.
 
@@ -331,10 +320,10 @@ Vamos, que puede llevar mucho tiempo a que se desarrolle.
 
 Lo que si podemos decir con un **«sí» rotundo** gracias a los estudios que ya lo han confirmado, es que la exposición prolongada a las radiaciones electromagnéticas causan problemas en el cerebro como:
 
-- Fuga a través de la barrera hematoencefálica[18](<javascript:void(0)>)Salford, Leif & Nittby, Henrietta & Brun, Arne & Grafstrom, Gustav & Malmgren, Lars & Sommarin, Marianne & Eberhardt, Jacob & Persson, Bertil. (2008). The Mammalian Brain in the Electromagnetic Fields Designed by Man with Special Reference to Blood-Brain Barrier Function, Neuronal Damage and Possible Physical Mechanisms. Progress of Theoretical Physics Supplement – PROG THEOR PHYS SUPPL. 173. 283-309. 10.1143/PTPS.173.283.
-- Daño a las células nerviosas[19](<javascript:void(0)>)Salford LG, Brun AE, Eberhardt JL, Malmgren L, Persson BR. Nerve cell damage in mammalian brain after exposure to microwaves from GSM mobile phones. Environ Health Perspect. 2003 Jun;111(7):881-3; discussion A408. doi: 10.1289/ehp.6039. PMID: 12782486; PMCID: PMC1241519.
-- Daño de la vaina de mielina[20](<javascript:void(0)>)Redmayne M, Johansson O. Could myelin damage from radiofrequency electromagnetic field exposure help explain the functional impairment electrohypersensitivity? A review of the evidence. J Toxicol Environ Health B Crit Rev. 2014;17(5):247-58. doi: 10.1080/10937404.2014.923356. PMID: 25205214., que es una substancia grasa que envuelve tus neuronas que conocemos como «los cables del sistema nervioso». Claro si dañas a algo así, es cuando se retrasa la transferencia de información haciendo que sientas un retraso en el mover, ver, escuchar, o pensar claramente (vamos, niebla mental). Es como si destrozas las carreteras y autopistas de tu cabeza. El transporte (en este caso de información) tarda muchísimo más en llegar.
-- Y trastornos cognitivos neurológicos[21](<javascript:void(0)>)Kolodynski AA, Kolodynska VV. Motor and psychological functions of school children living in the area of the Skrunda Radio Location Station in Latvia. Sci Total Environ. 1996 Feb 2;180(1):87-93. doi: 10.1016/0048-9697(95)04924-x. PMID: 8717320.[22](<javascript:void(0)>)Abdel-Rassoul G, El-Fateh OA, Salem MA, Michael A, Farahat F, El-Batanouny M, Salem E. Neurobehavioral effects among inhabitants around mobile phone base stations. Neurotoxicology. 2007 Mar;28(2):434-40. doi: 10.1016/j.neuro.2006.07.012. Epub 2006 Aug 1. PMID: 16962663.
+- Fuga a través de la barrera hematoencefálica[ref-18](#ref-18){.ref}
+- Daño a las células nerviosas[ref-19](#ref-19){.ref}
+- Daño de la vaina de mielina[ref-20](#ref-20){.ref}, que es una substancia grasa que envuelve tus neuronas que conocemos como «los cables del sistema nervioso». Claro si dañas a algo así, es cuando se retrasa la transferencia de información haciendo que sientas un retraso en el mover, ver, escuchar, o pensar claramente (vamos, niebla mental). Es como si destrozas las carreteras y autopistas de tu cabeza. El transporte (en este caso de información) tarda muchísimo más en llegar.
+- Y trastornos cognitivos neurológicos[ref-21](#ref-21){.ref}[ref-22](#ref-22){.ref}
 
 Y si continúan, algunos de estos pueden causar que uno desarrolle tumores cerebrales y eventualmente cáncer, claro.
 
@@ -346,7 +335,7 @@ Como todo en la salud, en la dosis está el veneno.
 
 A pesar de que sabemos que la CocaCola es mala para la salud, si te bebes una cada X meses, pues el impacto que tendrá en tu salud será minúsculo.
 
-Cuando usamos el teléfono es más puntual. No estamos llamando 3 horas al día. Lo tienes el el bolsillo… Idealmente en modo avión o incluso [con una funda anti radiación](https://pau.ninja/tienda/funda-anti-radiacion-movil/). Haces alguna que otra llamada.. vale.
+Cuando usamos el teléfono es más puntual. No estamos llamando 3 horas al día. Lo tienes el el bolsillo… Idealmente en modo avión o incluso [con una funda anti radiación](./tienda/funda-anti-radiacion-movil). Haces alguna que otra llamada.. vale.
 
 Pero, ¿qué hacemos con los auriculares Bluetooth?
 
@@ -356,98 +345,6 @@ Lo que emiten estos auriculares es la llamada «radiación electromagnética» m
 
 ## ¿Es mejor los auriculares con cable al Bluetooth?
 
-- En vez de auriculares Bluetooth utilizar un modelo [de tubo de aire](https://pau.ninja/tienda/auriculares-con-tubo-de-aire/) que son más sencillos, o si quieres más calidad la segunda opción es como hago yo en el gimnasio, usando [un adaptador de auriculares para el iPhone](https://pau.ninja/tienda/adaptador-auriculares-iphone/), y enchufando unos cascos que cubran más.
-- Uso mi propia [ropa antiradiación](https://pau.ninja/tienda/ropa-anti-radiacion-electromagnetica/) (próximamente quiero incorporar mosquitera)
+- En vez de auriculares Bluetooth utilizar un modelo [de tubo de aire](./tienda/auriculares-con-tubo-de-aire/) que son más sencillos, o si quieres más calidad la segunda opción es como hago yo en el gimnasio, usando [un adaptador de auriculares para el iPhone](https://pau.ninja/tienda/adaptador-auriculares-iphone), y enchufando unos cascos que cubran más.
+- Uso mi propia [ropa antiradiación](./tienda/ropa-anti-radiacion-electromagnetica) (próximamente quiero incorporar mosquitera)
 - Limito el uso del móvil teniéndolo siempre en modo avión
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  PRESS RELEASE N° 208 31 May 2011, IARC CLASSIFIES RADIOFREQUENCY ELECTROMAGNETIC FIELDS AS POSSIBLY CARCINOGENIC TO HUMANS
-
-- 2
-
-  “Bluetooth.” 2022. Bluetooth | Institute of Physics.‌
-
-- 3
-
-  Mia De Graaf, and Natalie Rahhal. 2018. “The Male Fertility Crisis Continues: Quality of Sperm Plummets.” Mail Online. Daily Mail.‌
-
-- 4
-
-  FCC ID. 2023. “A2565 Bluetooth Earbuds RF Exposure Info 1 Apple .” *FCC ID*.
-
-- 5
-
-  FCC ID. 2023. “A2564 Bluetooth Earbuds RF Exposure Info 1 Apple .” FCC ID.
-
-- 6
-
-  Frey AH, Feld SR, Frey B. Neural function and behavior: defining the relationship. Ann N Y Acad Sci. 1975 Feb 28;247:433-9. doi: 10.1111/j.1749-6632.1975.tb36019.x. PMID: 46734.
-
-- 7
-
-  “Glosario: Barrera Hematoencefálica – Comisión Europea.” 2023. Europa.eu.‌
-
-- 8
-
-  Mandalà M, Colletti V, Sacchetto L, Manganotti P, Ramat S, Marcocci A, Colletti L. Effect of Bluetooth headset and mobile phone electromagnetic fields on the human auditory nerve. Laryngoscope. 2014 Jan;124(1):255-9. doi: 10.1002/lary.24103. Epub 2013 Apr 25. PMID: 23619813.
-
-- 9
-
-  Balachandran R, Prepageran N, Rahmat O, Zulkiflee AB, Hufaida KS. Effects of Bluetooth device electromagnetic field on hearing: pilot study. J Laryngol Otol. 2012 Apr;126(4):345-8. doi: 10.1017/S0022215112000047. Epub 2012 Feb 6. Erratum in: J Laryngol Otol. 2012 Apr;126(4):348. Prepagaran, N \[corrected to Prepageran, N\]. PMID: 22310164.
-
-- 10
-
-  Lai, Henry. 2023. “Henry Lai RFR-Oxidative Effect-Study Absracts 2-4-2023.Pdf.” Google Docs. https://drive.google.com/file/d/1IphXqR-7NIxq1P-Xd7bm37Wz5GJPDZza/
-
-- 11
-
-  bioadmin. 2012. “Henry Lai’s Research Summaries – BioInitiative Report 2012.” The BioInitiative Report | a Rationale for a Biologically-Based Exposure Standards for Low-Intensity Electromagnetic Radiation.‌
-
-- 12
-
-  Redazione L. International Appeal: Scientists call for protection from non-ionizing electromagnetic field exposure. Eur J Oncol \[Internet\]. 2015 Dec. 20 \[cited 2023 Jul. 5\];20(3/4):180-2.
-
-- 13
-
-  PRESS RELEASE N° 208 31 May 2011. IARC CLASSIFIES RADIOFREQUENCY ELECTROMAGNETIC FIELDS AS POSSIBLY CARCINOGENIC TO HUMANS
-
-- 14
-
-  Boseley, Sarah. 2000. “Hands-Free Mobiles ‘Increase Radiation Risk.’” The Guardian. The Guardian.
-
-- 15
-
-  Garg, Vijay K. 2007. “Wireless Personal Area Network — Bluetooth,” January.
-
-- 16
-
-  Clear Sound, Sleek Styling, and Microwave Radiation October 18, 2016 by Katia Savchuk
-
-- 17
-
-  Schieszer, John. 2009. “Cell Phone Use Could Damage Semen.” Renal and Urology News.
-
-- 18
-
-  Salford, Leif & Nittby, Henrietta & Brun, Arne & Grafstrom, Gustav & Malmgren, Lars & Sommarin, Marianne & Eberhardt, Jacob & Persson, Bertil. (2008). The Mammalian Brain in the Electromagnetic Fields Designed by Man with Special Reference to Blood-Brain Barrier Function, Neuronal Damage and Possible Physical Mechanisms. Progress of Theoretical Physics Supplement – PROG THEOR PHYS SUPPL. 173. 283-309. 10.1143/PTPS.173.283.
-
-- 19
-
-  Salford LG, Brun AE, Eberhardt JL, Malmgren L, Persson BR. Nerve cell damage in mammalian brain after exposure to microwaves from GSM mobile phones. Environ Health Perspect. 2003 Jun;111(7):881-3; discussion A408. doi: 10.1289/ehp.6039. PMID: 12782486; PMCID: PMC1241519.
-
-- 20
-
-  Redmayne M, Johansson O. Could myelin damage from radiofrequency electromagnetic field exposure help explain the functional impairment electrohypersensitivity? A review of the evidence. J Toxicol Environ Health B Crit Rev. 2014;17(5):247-58. doi: 10.1080/10937404.2014.923356. PMID: 25205214.
-
-- 21
-
-  Kolodynski AA, Kolodynska VV. Motor and psychological functions of school children living in the area of the Skrunda Radio Location Station in Latvia. Sci Total Environ. 1996 Feb 2;180(1):87-93. doi: 10.1016/0048-9697(95)04924-x. PMID: 8717320.
-
-- 22
-
-  Abdel-Rassoul G, El-Fateh OA, Salem MA, Michael A, Farahat F, El-Batanouny M, Salem E. Neurobehavioral effects among inhabitants around mobile phone base stations. Neurotoxicology. 2007 Mar;28(2):434-40. doi: 10.1016/j.neuro.2006.07.012. Epub 2006 Aug 1. PMID: 16962663.

@@ -1,13 +1,22 @@
 ---
-title: "La farsa de Tinder están manipulando tu valor de mercado (+20 estudios)"
+title: "La farsa de Tinder"
+url: https://pau.ninja/tinder-opiniones
+slug: tinder-opiniones
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: masculinidad
+    label: Masculinidad
+  - slug: seduccion
+    label: Seducción
 image: hombre-usando-tinder.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/07/hombre-usando-tinder.jpeg
 published: 2023-07-12T04:52:44+00:00
 modified: 2023-09-09T11:06:13+00:00
+scrappedAt: 2024-10-14T09:19:58.495Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/73771220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-24%2F340437269-44100-2-fdfa6c8ebd611.mp3
-slug: tinder-opiniones
+bibliography: ["Holtzhausen N, Fitzgerald K, Thakur I, Ashley J, Rolfe M, Pit SW. Swipe-based dating applications use and its association with mental health outcomes: a cross-sectional study. BMC Psychol. 2020 Mar 4;8(1):22. doi: 10.1186/s40359-020-0373-1. PMID: 32127048; PMCID: PMC7055053.","Portingale J, Fuller-Tyszkiewicz M, Liu S, Eddy S, Liu X, Giles S, Krug I. Love me Tinder: The effects of women’s lifetime dating app use on daily body dissatisfaction, disordered eating urges, and negative mood. Body Image. 2022 Mar;40:310-321. doi: 10.1016/j.bodyim.2022.01.005. Epub 2022 Feb 1. PMID: 35121567.","Rodgers, R.F., Campagna, J., Attawala, R. et al. In the eye of the swiper: a preliminary analysis of the relationship between dating app use and dimensions of body image. Eat Weight Disord 25, 1469–1473 (2020).","Lenton-Brym AP, Santiago VA, Fredborg BK, Antony MM. Associations Between Social Anxiety, Depression, and Use of Mobile Dating Applications. Cyberpsychol Behav Soc Netw. 2021 Feb;24(2):86-93. doi: 10.1089/cyber.2019.0561. Epub 2020 Oct 12. PMID: 33047973.","Tyson, Gareth & Perta, Vasile & Haddadi, Hamed & Seto, Michael. (2016). A First Look at User Activity on Tinder.","Barnett, Liam. 2021. “Tinder Statistics 2023 & Fun Facts That You Didn’t Know Before.” DatingZest.‌","Editor. 2019. “Online Dating Trends: Men Outnumber Women on Tinder by 9 to 1 ( While Grinder Wins for Age Diversity).” Netimperative‌","worst-online-dater. 2015. “Tinder Experiments II: Guys, Unless You Are Really Hot You Are Probably Better off Not Wasting Your Time on Tinder — a Quantitative Socio-Economic Study.” Medium.","worst-online-dater. 2023. “Tinder Experiments — Answering Questions and Criticisms Part II: A Response to a Criticism That Mostly Turned into a Long Post about OKCupid Data from 2009 and 2014.” Medium.‌‌","“La Evolución de La Pareja En España: Del Rito Del Matrimonio Para Toda La Vida a La Diversidad de Relaciones Basadas En El Pacto Privado Y La Aceptación de La Ruptura Y El Re-Emparejamiento – Fundación BBVA.” 2022. Fundación BBVA.‌","U.S. Tinder User Ratio By Gender 2020 | Statista”. 2021. Statista.","Tinder Made $1.2 Billion Last Year Off People Who Can’T Stop Swiping”. 2021. The Verge.","Campbell, Patrick. 2021. “Why Tinder’s Charging Older Users More, And Why It Makes Perfect Sense","Tinder Paid Dating Subscribers 2020 | Statista”. 2021. Statista.","“Tinder Revenue And Usage Statistics (2020)”. 2021. Business Of Apps.","“Bumble Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌","“Tinder Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌","“Hinge Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌","Yang, Angela. 2023. “Most Tinder Users Are Already in a Relationship, New Survey Finds.” NBC News. NBC News.‌","Kincaid, Jason. 2009. “OkCupid Checks out the Dynamics of Attraction and Your Love Inbox.” TechCrunch.","Roshchupkina, Olga, Olga Kim, and Eun-Ju Lee. 2022. “Rules of Attraction: Females Perception of Male Self-Representation in a Dating App.","Advaney, Martina. 2017. “To Talk or Not to Talk That Is the Question! – Youth Time Magazine.” Youth Time Magazine.‌","“How Much of Communication Is Nonverbal? | UT Permian Basin Online.” 2020. The University of Texas Permian Basin | UTPB.‌","Gerrard, Brayden. 2018. “117 Days of My Tinder Profile in Data – towards Data Science.” Medium. Towards Data Science.‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/73771220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-24%2F340437269-44100-2-fdfa6c8ebd611.mp3](https://anchor.fm/s/98566448/podcast/play/73771220/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-24%2F340437269-44100-2-fdfa6c8ebd611.mp3)
 
 Si estás soltero probablemente tengas instalado Tinder para ver si pescas algo.
@@ -32,7 +41,7 @@ Estamos delante de otra de las ruedas de la sociedad moderna de la que no quiere
 
 Por el motivo de siempre (en el que hoy también indagaremos).
 
-Y no me he convertido en un *hater* de Tinder porque no haya pescado nada. Considero que los «resultados» estos últimos años no han sido malos. Depende de lo que consideres resultados, claro.
+Y no me he convertido en un _hater_ de Tinder porque no haya pescado nada. Considero que los «resultados» estos últimos años no han sido malos. Depende de lo que consideres resultados, claro.
 
 Lo que está claro es que las apps de citas nos puede dar algunas herramientas y experiencias muy valiosas:
 
@@ -55,32 +64,9 @@ Quizás lo digo por estar en una época de mi vida muy diferente de cuando tení
 
 Por esto tanto tú, como yo, como el amigo soltero al que le mandes esto, necesita escuchar estas estadísticas y opiniones sobre Tinder.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es Tinder y cómo funciona](#Que_es_Tinder_y_como_funciona 'Qué es Tinder y cómo funciona')
-- [Por qué dejé de usar Tinder](#Por_que_deje_de_usar_Tinder 'Por qué dejé de usar Tinder')
-- [Estadísticas de Tinder](#Estadisticas_de_Tinder 'Estadísticas de Tinder')
-- [Opiniones sobre Tinder que necesitas saber](#Opiniones_sobre_Tinder_que_necesitas_saber 'Opiniones sobre Tinder que necesitas saber')
-  - [Tinder manipula tu valor en el mercado](#Tinder_manipula_tu_valor_en_el_mercado 'Tinder manipula tu valor en el mercado')
-  - [Tinder sólo es aprovechado por minoría](#Tinder_solo_es_aprovechado_por_minoria 'Tinder sólo es aprovechado por minoría')
-  - [Tinder es una farsa para sacar beneficios](#Tinder_es_una_farsa_para_sacar_beneficios 'Tinder es una farsa para sacar beneficios')
-  - [Tinder crea malas dinámicas de relaciones](#Tinder_crea_malas_dinamicas_de_relaciones 'Tinder crea malas dinámicas de relaciones')
-  - [Tinder impide tu crecimiento personal](#Tinder_impide_tu_crecimiento_personal 'Tinder impide tu crecimiento personal')
-  - [Tinder incentiva a que pierdas el tiempo](#Tinder_incentiva_a_que_pierdas_el_tiempo 'Tinder incentiva a que pierdas el tiempo')
-  - [Tinder promueve las ONS (líos de una noche)](#Tinder_promueve_las_ONS_lios_de_una_noche 'Tinder promueve las ONS (líos de una noche)')
-  - [Tinder engaña tu percepción de la realidad](#Tinder_engana_tu_percepcion_de_la_realidad 'Tinder engaña tu percepción de la realidad')
-  - [Tinder elimina la necesidad de tomar acción](#Tinder_elimina_la_necesidad_de_tomar_accion 'Tinder elimina la necesidad de tomar acción')
-  - [Tinder te puede dar match pero no hablan](#Tinder_te_puede_dar_match_pero_no_hablan 'Tinder te puede dar match pero no hablan')
-- [Razones para SÍ abrirse Tinder](#Razones_para_SI_abrirse_Tinder 'Razones para SÍ abrirse Tinder')
-- [Hacerse Tinder: ¿sí o no?](#Hacerse_Tinder_%C2%BFsi_o_no 'Hacerse Tinder: ¿sí o no?')
-- [Poder decir "no nos conocimos por Tinder"](#Poder_decir_%22no_nos_conocimos_por_Tinder%22 'Poder decir "no nos conocimos por Tinder"')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Qué es Tinder y cómo funciona
 
-Tinder es la aplicación más popular de citas. Los usuarios deslizan el dedo hacia la derecha si les gusta el perfil de la otra persona, o deslizan el perfil hacia la izquierda si no quieren ser emparejados. En el caso de que ambos usuarios deslicen hacia la derecha, se producirá un *match* (emparejamiento) y podrán empezar a chatear.
+Tinder es la aplicación más popular de citas. Los usuarios deslizan el dedo hacia la derecha si les gusta el perfil de la otra persona, o deslizan el perfil hacia la izquierda si no quieren ser emparejados. En el caso de que ambos usuarios deslicen hacia la derecha, se producirá un _match_ (emparejamiento) y podrán empezar a chatear.
 
 ## Por qué dejé de usar Tinder
 
@@ -98,13 +84,11 @@ Se utiliza mucho en inglés ([ver](https://www.urbandictionary.com/define.php?te
 
 Seguramente no encontraron traducción y dejaron la palabra «mojo» como con el nombre de la salsa Canaria. Y desde entonces utilizo la palabreja.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 O sea que «mojo» no es la salsa canaria, sino la jerga que se utiliza en seducción para describir tu _seggs appeal_, glamour, tu encanto, al que también lo podemos extrapolar en temas económicos o de éxito en general.
 
 El caso es que sentía que había perdido mi mojo.
 
-Intenté forzar un poco la situación pero por mucho que intentara [ligar de día en la calle usando](https://pau.ninja/daygame/) *[daygame](https://pau.ninja/daygame/)…* o Tinder, Bumble o Badoo, cero resultados.
+Intenté forzar un poco la situación pero por mucho que intentara [ligar de día en la calle usando](./daygame/) _[daygame](https://pau.ninja/daygame)…_ o Tinder, Bumble o Badoo, cero resultados.
 
 Ahí es cuando me di cuenta que estaba viviendo el símil de la mariposa.
 
@@ -116,7 +100,7 @@ Lógicamente seguía siendo social con los amigos, en las clases de baile, en la
 
 En cuestión de unas semanas de trabajar a tope, entrenar, centrarme en las clases de baile y los otros «fogones» de mi entorno, la vida decidió enseñarme (otra vez) que no podemos ser estructurados con todo.
 
-![sistema ser flexible en la vida](https://pau.ninja/wp-content/uploads/2023/07/sistema-ser-flexible-en-la-vida.png)
+![sistema ser flexible en la vida](./wp-content/uploads/2023/07sistema-ser-flexible-en-la-vida.png)
 
 Que el control que tenemos sobre la vida, es mínimo.
 
@@ -130,11 +114,11 @@ Pensé: «h0der, es que estoy teniendo más oportunidades que cuando tenía Tind
 
 ## Estadísticas de Tinder
 
-- Mirando a casi 500 personas se ha visto una relación directa entre usar apps de citas con estrés y ansiedad[1](<javascript:void(0)>)Holtzhausen N, Fitzgerald K, Thakur I, Ashley J, Rolfe M, Pit SW. Swipe-based dating applications use and its association with mental health outcomes: a cross-sectional study. BMC Psychol. 2020 Mar 4;8(1):22. doi: 10.1186/s40359-020-0373-1. PMID: 32127048; PMCID: PMC7055053..
-- También hay una correlación directa entre el uso de Tinder con una falta de satisfacción física personal y una baja autoestima[2](<javascript:void(0)>)Portingale J, Fuller-Tyszkiewicz M, Liu S, Eddy S, Liu X, Giles S, Krug I. Love me Tinder: The effects of women’s lifetime dating app use on daily body dissatisfaction, disordered eating urges, and negative mood. Body Image. 2022 Mar;40:310-321. doi: 10.1016/j.bodyim.2022.01.005. Epub 2022 Feb 1. PMID: 35121567., y había un estudio que vio que los especialmente afectados eran los hombres[3](<javascript:void(0)>)Rodgers, R.F., Campagna, J., Attawala, R. et al. In the eye of the swiper: a preliminary analysis of the relationship between dating app use and dimensions of body image. Eat Weight Disord 25, 1469–1473 (2020)., que al principio me sorprendió pero después de conocer algunas estadísticas más veremos un denominador común que… asusta.
-- Porque de los dos sexos son quienes las usamos y más. Pues bien. Quien usa apps de citas también tiene más posibilidades de caer en una depresión y tener ansiedad social que los que no las usan[4](<javascript:void(0)>)Lenton-Brym AP, Santiago VA, Fredborg BK, Antony MM. Associations Between Social Anxiety, Depression, and Use of Mobile Dating Applications. Cyberpsychol Behav Soc Netw. 2021 Feb;24(2):86-93. doi: 10.1089/cyber.2019.0561. Epub 2020 Oct 12. PMID: 33047973..
+- Mirando a casi 500 personas se ha visto una relación directa entre usar apps de citas con estrés y ansiedad[ref-1](#ref-1){.ref}.
+- También hay una correlación directa entre el uso de Tinder con una falta de satisfacción física personal y una baja autoestima[ref-2](#ref-2){.ref}, y había un estudio que vio que los especialmente afectados eran los hombres[ref-3](#ref-3){.ref}, que al principio me sorprendió pero después de conocer algunas estadísticas más veremos un denominador común que… asusta.
+- Porque de los dos sexos son quienes las usamos y más. Pues bien. Quien usa apps de citas también tiene más posibilidades de caer en una depresión y tener ansiedad social que los que no las usan[ref-4](#ref-4){.ref}.
 
-Y tiene sentido porque según más estadísticas al menos el 50% de las mujeres con las que vas a conectar, **te van a dejar de responder**[5](<javascript:void(0)>)Tyson, Gareth & Perta, Vasile & Haddadi, Hamed & Seto, Michael. (2016). A First Look at User Activity on Tinder., ¿cómo no vas a sentirte mal si más de la mitad dejan de responderte?
+Y tiene sentido porque según más estadísticas al menos el 50% de las mujeres con las que vas a conectar, **te van a dejar de responder**[ref-5](#ref-5){.ref}, ¿cómo no vas a sentirte mal si más de la mitad dejan de responderte?
 
 Ya sé que muchos dirán que esto a ellos no les afecta, pero un porcentaje muy grande nos lo tomamos a nivel personal.
 
@@ -148,7 +132,7 @@ Fijaros.
 
 ### Tinder manipula tu valor en el mercado
 
-En [el mercado sexual, lo que busca una mujer en un hombre](https://pau.ninja/que-busca-una-mujer-en-un-hombre/) es distinto a lo que busca un hombre de una mujer (#465), y casualmente este tipo de aplicaciones sólo está potenciando/beneficiando a una de estas partes… **a costa** de la otra parte.
+En [el mercado sexual, lo que busca una mujer en un hombre](./que-busca-una-mujer-en-un-hombre/) es distinto a lo que busca un hombre de una mujer (#465), y casualmente este tipo de aplicaciones sólo está potenciandobeneficiando a una de estas partes… **a costa** de la otra parte.
 
 No hace falta ser un lumbreras para deducir quien es quien.
 
@@ -156,13 +140,13 @@ Por esto en lo que me quiero centrar es en cómo salimos perjudicados nosotros. 
 
 Recordemos que en el mercado sexual la mujer y el hombre llegan a sus picos de valor percibido en edades muy distintas. Una 23 años y el otro 38 años.
 
-![infografía mercado sexual](https://pau.ninja/wp-content/uploads/2023/03/infografia-mercado-sexual.jpeg)
+![infografía mercado sexual](./wp-content/uploads/2023/03infografia-mercado-sexual.jpeg)
 
 Esta divergencia de más de 10 años es tan pronunciada porque los dos _seggsos_ buscan cosas distintas y Tinder está **hackeando, manipulando tu valor real de mercado**.
 
 Si eres una mujer lo potencia. En cambio si eres hombre lo hace añicos.
 
-¿Por qué? Pues porque la ventaja del hombre en el mercado es poder exhibir su poder externo y sobretodo el [poder adquirido](https://pau.ninja/que-busca-una-mujer-en-un-hombre/#Poder_adquirido), en cambio las aplicaciones de citas cortan nuestro valor al poder adscrito. Al genético, que es donde las mujeres tienen ventaja porque es lo que un hombre busca de una mujer (al menos inicialmente).
+¿Por qué? Pues porque la ventaja del hombre en el mercado es poder exhibir su poder externo y sobretodo el [poder adquirido](./que-busca-una-mujer-en-un-hombre#Poder_adquirido), en cambio las aplicaciones de citas cortan nuestro valor al poder adscrito. Al genético, que es donde las mujeres tienen ventaja porque es lo que un hombre busca de una mujer (al menos inicialmente).
 
 Par los hombres, Tinder es la criptonita. Nos saca el poder que tanto hemos trabajado para conseguir.
 
@@ -180,11 +164,11 @@ Eso le decía a mi ex.
 
 #### 1ª estadística aplastante
 
-> Según las estadísticas en la mayoría de aplicaciones de citas **el 80% de los usuarios son hombres**[6](<javascript:void(0)>)Barnett, Liam. 2021. “Tinder Statistics 2023 & Fun Facts That You Didn’t Know Before.” DatingZest.‌[7](<javascript:void(0)>)Editor. 2019. “Online Dating Trends: Men Outnumber Women on Tinder by 9 to 1 ( While Grinder Wins for Age Diversity).” Netimperative‌.
+> Según las estadísticas en la mayoría de aplicaciones de citas **el 80% de los usuarios son hombres**[ref-6](#ref-6){.ref}[ref-7](#ref-7){.ref}.
 
 Veis por donde voy con esto, ¿no?
 
-Siempre he alegado que la ventaja de [entrar (en frío) a mujeres en la calle](https://pau.ninja/como-entrarle-a-una-chica/) (#252) es que muy pocos lo hacen, pero incluso en el *night game* (ir a ligar de noche), sale más a cuenta que Tinder.
+Siempre he alegado que la ventaja de [entrar (en frío) a mujeres en la calle](./como-entrarle-a-una-chica) (#252) es que muy pocos lo hacen, pero incluso en el _night game_ (ir a ligar de noche), sale más a cuenta que Tinder.
 
 En Tinder te estás metiendo en una pecera con más peces macho compitiendo por menor cantidad de mujeres.
 
@@ -194,7 +178,7 @@ Mucha menor cantidad.
 
 O sea que los hombres tienen el 80% de las mujeres fuera de las aplicaciones, pero siguen utilizando Tinder como foco central para ligar.
 
-![matches vs tiempo en tinder](https://pau.ninja/wp-content/uploads/2023/07/matches-vs-tiempo-en-tinder.jpeg)
+![matches vs tiempo en tinder](./wp-content/uploads/2023/07matches-vs-tiempo-en-tinder.jpeg)
 
 Lo que me hizo recordar que de las parejas que tuve, ninguna había usado Tinder en su vida… o eso dicen, da igual. Lo relevante es que **a todas las conocí en persona** y lo que estamos viendo hoy me ha hecho entender el por qué.
 
@@ -216,13 +200,13 @@ De todos los usuarios en Tinder, de los cuales el 80% son hombres (compitiendo p
 
 O sea no sólo estás compitiendo con un 80% de usuarios totales que son hombres, sino que encima unos pocos hombres se quedan las pocas mujeres que hay.
 
-Es lo que revelaba un artículo brillante llamado The Tinder Experiment[8](<javascript:void(0)>)worst-online-dater. 2015. “Tinder Experiments II: Guys, Unless You Are Really Hot You Are Probably Better off Not Wasting Your Time on Tinder — a Quantitative Socio-Economic Study.” Medium.[9](<javascript:void(0)>)worst-online-dater. 2023. “Tinder Experiments — Answering Questions and Criticisms Part II: A Response to a Criticism That Mostly Turned into a Long Post about OKCupid Data from 2009 and 2014.” Medium.‌‌ aunque es verdad que tampoco podemos llamar algo así de estudio, sino una muestra que podría (o no) representarnos estadísticamente.
+Es lo que revelaba un artículo brillante llamado The Tinder Experiment[ref-8](#ref-8){.ref}[ref-9](#ref-9){.ref} aunque es verdad que tampoco podemos llamar algo así de estudio, sino una muestra que podría (o no) representarnos estadísticamente.
 
-De todas formas si normalizamos los *likes* a las mujeres más atractivas, vemos una discrepancia de lo que se llevan los hombres más atractivos (esa minoría que se queda con todo el pastel).
+De todas formas si normalizamos los _likes_ a las mujeres más atractivas, vemos una discrepancia de lo que se llevan los hombres más atractivos (esa minoría que se queda con todo el pastel).
 
 Es decir, que un hombre que es un 10 se llevara un 80% menos de likes que una mujer que es un 10, que estadísticamente se llevará un 100% de likes.
 
-![likes de mujeres atractivas en tinder](https://pau.ninja/wp-content/uploads/2023/07/likes-de-mujeres-atractivas-en-tinder.jpeg)
+![likes de mujeres atractivas en tinder](./wp-content/uploads/2023/07likes-de-mujeres-atractivas-en-tinder.jpeg)
 
 ¿Y sabéis por qué sucede esto? Por la tercera estadística aplastante.
 
@@ -246,7 +230,7 @@ Vamos. Que la mayoría nos encuentran feos.
 
 Claro, este cóctel estadístico crea un entorno en el que al haber muchos más hombres, las mujeres en Tinder se pueden permitir el lujo de ser menos atractivas mientras reciben muchos más _likes_ que los hombres, haciendo que las mujeres jueguen con (mucha) ventaja.
 
-![atracción masculino vs femenino en tinder](https://pau.ninja/wp-content/uploads/2023/07/atraccion-masculino-vs-femenino-en-tinder.jpeg)
+![atracción masculino vs femenino en tinder](./wp-content/uploads/2023/07atraccion-masculino-vs-femenino-en-tinder.jpeg)
 
 Desgraciadamente para el hombre medio, esta app juega en nuestra contra porque no somos parte del 20% de más atractivos.
 
@@ -258,9 +242,9 @@ No os olvidéis de hacer la vista de pájaro/zoom out porque aquí está ocurrie
 
 Porque aunque si se les enseñan fotos de hombre a las mujeres y la mayoría piense que el 80% de esos hombres están por debajo de la media (según ellas), igualmente… **la gente se sigue emparejando**.
 
-Según los datos en España más del 70% de la población tiene algún tipo de relación de pareja[10](<javascript:void(0)>)“La Evolución de La Pareja En España: Del Rito Del Matrimonio Para Toda La Vida a La Diversidad de Relaciones Basadas En El Pacto Privado Y La Aceptación de La Ruptura Y El Re-Emparejamiento – Fundación BBVA.” 2022. Fundación BBVA.‌.
+Según los datos en España más del 70% de la población tiene algún tipo de relación de pareja[ref-10](#ref-10){.ref}.
 
-Entonces los datos «no hacen *match*«.
+Entonces los datos «no hacen _match_«.
 
 La explicación es fácil: Tinder es una burbuja.
 
@@ -276,17 +260,17 @@ Cuando ven al chico haciendo algo en lo que es bueno, o cuando muestra pasión p
 
 > Que Tinder y las aplicaciones de citas son el peor sitio para crear una primera impresión… al menos si eres hombre.
 
-Ya sabíamos que las mujeres y los hombres buscan cosas distintas inicialmente en el mercado *seggsual*. ¿Por qué nos hemos olvidado de ello usando Tinder?
+Ya sabíamos que las mujeres y los hombres buscan cosas distintas inicialmente en el mercado _seggsual_. ¿Por qué nos hemos olvidado de ello usando Tinder?
 
 Nos estamos bajando el valor masculino del mercado a propósito usando Tinder y lo peor es que **nos lo podemos terminar creyendo**.
 
 ### Tinder es una farsa para sacar beneficios
 
-- A efectos teóricos estos datos significan que la economía de Tinder tiene más desigualdad que el 95,1% de todas las economías del mundo[11](<javascript:void(0)>)U.S. Tinder User Ratio By Gender 2020 | Statista”. 2021. Statista..
+- A efectos teóricos estos datos significan que la economía de Tinder tiene más desigualdad que el 95,1% de todas las economías del mundo[ref-11](#ref-11){.ref}.
 - También significa que el hombre medio en una escala de atractivo, sólo puede esperar ser visto por menos de un 1% de mujeres en la app (concretamente un 0,87%).
-- O que este hombre medio tiene que dar unos 115 *swipes* a la derecha para obtener 1 match. Es de este hombre medio de donde Tinder saca pasta, de hecho el año pasado hizo más de 1.000 millones sólo de esto[12](<javascript:void(0)>)Tinder Made $1.2 Billion Last Year Off People Who Can’T Stop Swiping”. 2021. The Verge..
-- Como la empresa (Tinder) lo sabe (faltaría más), está utilizando las mismas prácticas que las discotecas nocturnas. Haciendo que las mujeres tengan resultados en la app sin pagar, pero que los que ligan menos (la mayoría) terminen pagando por las versiones premium. Y cuanto más avanzada sea tu edad, más pagarás para las versiones premium[13](<javascript:void(0)>)Campbell, Patrick. 2021. “Why Tinder’s Charging Older Users More, And Why It Makes Perfect Sense. Ya lo aprendimos en el episodio sobre mercado sexual, porque la única moneda de cambio usada en Tinder es el [poder adscrito](https://pau.ninja/que-busca-una-mujer-en-un-hombre/#Poder_adscrito).
-- Por esto los beneficios de los suscriptores recurrentes activos son cada vez mayores[14](<javascript:void(0)>)Tinder Paid Dating Subscribers 2020 | Statista”. 2021. Statista.. Se superan año tras año haciendo que esta app sea de las que más ha crecido en todo el sector tecnológico[15](<javascript:void(0)>)“Tinder Revenue And Usage Statistics (2020)”. 2021. Business Of Apps.. Porque estamos creando una nueva cultura del ligoteo.
+- O que este hombre medio tiene que dar unos 115 _swipes_ a la derecha para obtener 1 match. Es de este hombre medio de donde Tinder saca pasta, de hecho el año pasado hizo más de 1.000 millones sólo de esto[ref-12](#ref-12){.ref}.
+- Como la empresa (Tinder) lo sabe (faltaría más), está utilizando las mismas prácticas que las discotecas nocturnas. Haciendo que las mujeres tengan resultados en la app sin pagar, pero que los que ligan menos (la mayoría) terminen pagando por las versiones premium. Y cuanto más avanzada sea tu edad, más pagarás para las versiones premium[ref-13](#ref-13){.ref}. Ya lo aprendimos en el episodio sobre mercado sexual, porque la única moneda de cambio usada en Tinder es el [poder adscrito](./que-busca-una-mujer-en-un-hombre#Poder_adscrito).
+- Por esto los beneficios de los suscriptores recurrentes activos son cada vez mayores[ref-14](#ref-14){.ref}. Se superan año tras año haciendo que esta app sea de las que más ha crecido en todo el sector tecnológico[ref-15](#ref-15){.ref}. Porque estamos creando una nueva cultura del ligoteo.
 
 Una cultura tóxica creada y manipulada por estas empresas que ya mueven miles de millones.
 
@@ -296,9 +280,9 @@ El negocio de Tinder es **la esperanza** del 80% de sus usuarios: los hombres.
 
 Lo que quieren es que no perdamos la esperanza. Idealmente haciendo deslices de perfiles para siempre.
 
-- Bumble facturó $900 millones el año pasado. Casi mil millones de dólares[16](<javascript:void(0)>)“Bumble Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌.
-- Tinder está a punto de llegar a los 2.000 millones de dólares ($2 billones americanos)[17](<javascript:void(0)>)“Tinder Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌.
-- Hinge que es más nueva se les empieza a acercar, estando sobre los $300 millones nada más habiendo empezado[18](<javascript:void(0)>)“Hinge Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌.
+- Bumble facturó $900 millones el año pasado. Casi mil millones de dólares[ref-16](#ref-16){.ref}.
+- Tinder está a punto de llegar a los 2.000 millones de dólares ($2 billones americanos)[ref-17](#ref-17){.ref}.
+- Hinge que es más nueva se les empieza a acercar, estando sobre los $300 millones nada más habiendo empezado[ref-18](#ref-18){.ref}.
 
 Y hay muchas más. Si combinamos todas sus facturaciones, nos sale una industria increíblemente poderos .
 
@@ -312,7 +296,7 @@ Pero volvemos a lo de siempre, el interés es que sigamos enganchados a la aplic
 
 ### Tinder crea malas dinámicas de relaciones
 
-A todo esto, nadie te está garantizando que esta conversación vaya a ser fructífera, por [muchos trucos de Tinder que funcionen](https://pau.ninja/trucos-tinder/).
+A todo esto, nadie te está garantizando que esta conversación vaya a ser fructífera, por [muchos trucos de Tinder que funcionen](./trucos-tinder).
 
 Yo tengo la teoría que cuanto más rápido empieza algo, más rápido terminará.
 
@@ -320,11 +304,11 @@ Algo que se cumple a la perfección en Tinder y las otras apps de citas.
 
 Es el efecto Lindy de Taleb, que nos dice que cuanto más tiempo lleve existiendo algo, más probabilidades hay de que perdure en el tiempo.
 
-![efecto lindy de taleb](https://pau.ninja/wp-content/uploads/2023/05/efecto-lindy-de-taleb.png)
+![efecto lindy de taleb](./wp-content/uploads/2023/05efecto-lindy-de-taleb.png)
 
 Seguro que has conocido a alguna tía que te gusta, tú a ella también le has hecho tilín y ya parece que tengas que quedar con ella cada dos días o se te va a escapar.
 
-La cultura de las citas ahora es un *ya, ya, ya*. Que es a lo que nos ha acostumbrado las redes.
+La cultura de las citas ahora es un _ya, ya, ya_. Que es a lo que nos ha acostumbrado las redes.
 
 Las apps de citas promueven una «base cero» para conocer a alguien, haciendo que no haya fundamentos ni para que tengas que hablar con esta persona, ni para que tengas que contestarle.
 
@@ -338,7 +322,7 @@ Es por esto que te puedes encontrar con:
 - Que si no le hablas tú ella no te va a hablar.
 - Que si le pides de quedar muy rápido sea un problema, pero que si vas demasiado lento y alargues la conversación… también lo sea.
 - Que puedas llegar a quedar un día y una hora para tener una cita, pero que al mismo día o un rato antes te diga que «se ha puesto enferma» o que no pueda… y esta cita nunca suceda.
-- O que te lleves un *unmatch* en vez de una excusa.
+- O que te lleves un _unmatch_ en vez de una excusa.
 
 Quizás me estás escuchando y estás asintiendo con la cabeza pero ninjas de la vida, no vamos a ser hipócritas.
 
@@ -362,7 +346,7 @@ Mi teoría es que en la fase inicial del cortejo, es el momento que es más rele
 
 Se lo comentaba a mi amigo Juan el otro día.
 
-Nos acordamos de esas palpitaciones, manos frías y sensación adrenalina cuando queremos [besar por primera vez](https://pau.ninja/como-perder-el-miedo-a-besar/) a esa chica que te gusta. Pero también vivimos todo esto, (que en el fondo son distintas formas de [cómo expresamos el miedo a ser rechazados](https://pau.ninja/superar-el-miedo-al-rechazo/)), lo vivimos ya no sólo lanzándonos a por el beso, pero cuando le pedimos salir a una chica o le confesamos que nos gusta… **en persona**.
+Nos acordamos de esas palpitaciones, manos frías y sensación adrenalina cuando queremos [besar por primera vez](./como-perder-el-miedo-a-besar/) a esa chica que te gusta. Pero también vivimos todo esto, (que en el fondo son distintas formas de [cómo expresamos el miedo a ser rechazados](https://pau.ninja/superar-el-miedo-al-rechazo)), lo vivimos ya no sólo lanzándonos a por el beso, pero cuando le pedimos salir a una chica o le confesamos que nos gusta… **en persona**.
 
 Si no sientes todo esto es porque la chica te pone a nivel físico, pero no te gusta a nivel emociona, por esto os quiero hacer una pregunta a cada uno de vosotros.
 
@@ -390,7 +374,7 @@ No se crea ningún momento épico en la memoria.
 
 No sientes nada porque sabes que si te dice que no le vas a pedir a otra. Ella también sabe que si te dice que sí, o que no, o que si no le gustas en al cita, puede elegir entre sus cientos de _matches_.
 
-Incluso aunque el hombre medio tenga pocos *matches*, el hecho de no acordarnos de momentos culminantes en una relación (sea seria o pasajera), tendría que ser una **pista** suficiente para entender que nos están hackeando el sistema de recompensas. La dopamina, endorfinas y hormonas no están presentes al pedir salir a una desconocida por app porque… no es de verdad.
+Incluso aunque el hombre medio tenga pocos _matches_, el hecho de no acordarnos de momentos culminantes en una relación (sea seria o pasajera), tendría que ser una **pista** suficiente para entender que nos están hackeando el sistema de recompensas. La dopamina, endorfinas y hormonas no están presentes al pedir salir a una desconocida por app porque… no es de verdad.
 
 Y se lo que algunos me vais a decir…
 
@@ -402,7 +386,7 @@ Os puedo asegurar que Tinder es de las pérdidas más grandes de tiempo.
 
 No estoy hablando de usarlo como causa de procrastinación mientras se está usando la app. Que te va dando chutes de dopamina igual que lo puede hacer mirar vídeos cortos en internet.
 
-![sistema de recompensa cerebral dopamina](https://pau.ninja/wp-content/uploads/2023/07/sistema-de-recompensa-cerebral-dopamina-.png)
+![sistema de recompensa cerebral dopamina](./wp-content/uploads/2023/07sistema-de-recompensa-cerebral-dopamina-.png)
 
 No.
 
@@ -414,7 +398,7 @@ Estamos yendo a una cita en la que **no** sabes si habrá conexión emocional co
 
 En cambio cuando conocemos o pedimos salir a alguien en person y después le pedimos el contacto, ya lo hacemos sabiendo lo que hemos «conectado» con esa persona o no.
 
-Lo hacemos sabiendo de entrada si hay *feeling*. Un *feeling* físico _seggsual_. Un _feeling_ emocional. Lo que sea.
+Lo hacemos sabiendo de entrada si hay _feeling_. Un _feeling_ físico _seggsual_. Un _feeling_ emocional. Lo que sea.
 
 A mi sentir este tipo de conexión me fascina y hablaremos de ella pronto porque quiero entender qué sucede psicológicamente. Como puede ser que dos cerebros que físicamente están separados (aunque cerca), desde el minuto uno  de hablar ya saben que estén en la misma sintonía.
 
@@ -430,7 +414,7 @@ Si la sientes, lo más probable es que la otra persona también la sienta y a pa
 
 Algunos de vosotros se que sí, pero a la mayoría nos sabe mal y nos terminamos chupando como hora y media de cita pensando algo tipo «pobre, tiene que engañar a la peña de Tinder porque no debe tener mucha compañía…»
 
-Quizás no es que no te parezca atractiva. Quizás no es fea. Quizás no te ha engañado con las fotos, pero hay un «algo» que sabes que no te va a poder atraer nunca. O no se ha creado un *feeling*.
+Quizás no es que no te parezca atractiva. Quizás no es fea. Quizás no te ha engañado con las fotos, pero hay un «algo» que sabes que no te va a poder atraer nunca. O no se ha creado un _feeling_.
 
 ¿Y que haces?
 
@@ -448,29 +432,25 @@ Si ves «ONS» en Tinder significa One Night Stand que en español se traduce co
 
 Por cierto que los datos dicen que 1/3 de los usuarios en Tinder **no** están solteros…
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Y adivina qué le interesa promover a Tinder, ¿las relaciones serias o los líos de una noche?
 
 Pues claro que las apps de citas promueven los rolletes corto, si **el negocio de Tinder está en que mantengas la esperanza**. A que vuelvas a usar la aplicación.
 
 No está en su interés que encuentres pareja. Lo que les interesa es que vuelvas.
 
-Sería difícil que volvieras si hicieras *match* con alguien que te gusta de verdad y empezarais una relación… que no digo que no suceda, pero el uso promovido en la aplicación son citas rápidas y frecuentes.
+Sería difícil que volvieras si hicieras _match_ con alguien que te gusta de verdad y empezarais una relación… que no digo que no suceda, pero el uso promovido en la aplicación son citas rápidas y frecuentes.
 
 Frecuentes con distintas personas.
 
 Que por cierto, comparado con cuando empecé a usar Tinder hace unos años, la cantidad de gente que se describe con «mente abierta» o en algún tipo de relación se ha multiplicado enormemente.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Y claro empiezas a mirar más estadísticas y ves que 1/3 de los usuarios que usan apps de citas **no** están solteros[19](<javascript:void(0)>)Yang, Angela. 2023. “Most Tinder Users Are Already in a Relationship, New Survey Finds.” NBC News. NBC News.‌.
+Y claro empiezas a mirar más estadísticas y ves que 1/3 de los usuarios que usan apps de citas **no** están solteros[ref-19](#ref-19){.ref}.
 
 Que si compartes estas dinámicas perfecto, pero para la gente que es monógama…
 
 No sé. Encuentro interesante que las mujeres con las que he conectado más, los valores acostumbran a estar a la par con los míos cuando las he conocido más.
 
-O sea con a penas una frase o dos tenéis muy buen *feeling*, y cuando las he conocido más como persona nunca me han dicho «ah pues me va el poliamor».
+O sea con a penas una frase o dos tenéis muy buen _feeling_, y cuando las he conocido más como persona nunca me han dicho «ah pues me va el poliamor».
 
 Hay algo ahí. Mental. De frecuencias cerebrales o algo. Os lo juro que investigaré más…
 
@@ -486,15 +466,15 @@ Volviendo a las ex parejas reales (no la ex hipotética el podcast de la que sie
 
 > Este es mi punto: tu media de las chicas que potencialmente puedes conocer en las aplicaciones, no es la media real en la escala de atracción a la que puedes aspirar.
 
-La mayoría de hombres pueden aspirar a bastante más que a los *matches* que tienen en Tinder.
+La mayoría de hombres pueden aspirar a bastante más que a los _matches_ que tienen en Tinder.
 
 Algo que sucede exactamente por lo que hemos visto.
 
-Que las mujeres usando Tinder encuentran que el 80% de los hombres estaban por debajo de la media de atracción[20](<javascript:void(0)>)Kincaid, Jason. 2009. “OkCupid Checks out the Dynamics of Attraction and Your Love Inbox.” TechCrunch..
+Que las mujeres usando Tinder encuentran que el 80% de los hombres estaban por debajo de la media de atracción[ref-20](#ref-20){.ref}.
 
-Solo uno de cada 100 perfiles es gustado por más del 80% de las mujeres[21](<javascript:void(0)>) Roshchupkina, Olga, Olga Kim, and Eun-Ju Lee. 2022. “Rules of Attraction: Females Perception of Male Self-Representation in a Dating App..
+Solo uno de cada 100 perfiles es gustado por más del 80% de las mujeres[ref-21](#ref-21){.ref} .
 
-![estudio atracción mujeres tinder](https://pau.ninja/wp-content/uploads/2023/07/estudio-atraccion-mujeres-tinder.jpeg)
+![estudio atracción mujeres tinder](./wp-content/uploads/2023/07estudio-atraccion-mujeres-tinder.jpeg)
 
 Con estos datos podríamos empezar a concluir que aunque no hay reglas universales de atracción, si hay patrones universales en rechazar _matches_.
 
@@ -508,7 +488,7 @@ Si usas Tinder, Hinge, Badoo, Bumble o lo que sea, te creas una imagen de ti mis
 
 > Es la que el algoritmo ha decidido que en su app puedes aspirar.
 
-Entonces llega el día que quizás tengas la suerte de tener una conexión emocional enorme con una chica que justo acabas de conocer, pero que está muy por encima de tu escala de atractivo **en comparación con tus *match* de Tinder, no de lo que tu realmente puedes aspirar**.
+Entonces llega el día que quizás tengas la suerte de tener una conexión emocional enorme con una chica que justo acabas de conocer, pero que está muy por encima de tu escala de atractivo **en comparación con tus _match_ de Tinder, no de lo que tu realmente puedes aspirar**.
 
 Y no te lo crees.
 
@@ -518,15 +498,13 @@ Entonces piensas, ¿para qué le voy a pedir salir? ¿Para que pasar por todo es
 
 ### Tinder elimina la necesidad de tomar acción
 
-Por esto mi hipótesis es que Tinder juega en contra tuyo no sólo por todas las estadísticas, sino porque te dirás a ti mismo que en vez de entrarle a la que te gusta que te parece «demasiado para ti», siempre puedes volver a casa (arrepintiéndote de que no le has pedido salir en persona, claro), y hacer unos cuantos *swipes* más, ¿no?
+Por esto mi hipótesis es que Tinder juega en contra tuyo no sólo por todas las estadísticas, sino porque te dirás a ti mismo que en vez de entrarle a la que te gusta que te parece «demasiado para ti», siempre puedes volver a casa (arrepintiéndote de que no le has pedido salir en persona, claro), y hacer unos cuantos _swipes_ más, ¿no?
 
-Esto nos lleva a hacer lo opuesto a uno de [los pilares que crean un hombre de alto valor](https://pau.ninja/hombre-de-alto-valor/)…
+Esto nos lleva a hacer lo opuesto a uno de [los pilares que crean un hombre de alto valor](./hombre-de-alto-valor)…
 
 La toma de acción.
 
 Las apps de citas **aniquilan** el impulso del hombre de correr riesgos y conocer mujeres en la vida real.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Si en la vida real te estás **demostrando a ti mismo (tomando acción)** que en una escala de atracción puedes aspirar a un 8, si el algoritmo de Tinder te hace aspirar a un 5, mi hipótesis es que si combinas tanto Tinder como entrar en la vida real, tu subconsciente hace una media a la baja.
 
@@ -544,7 +522,7 @@ Puede que la interacción vaya bien o puede que no, pero el hombre que toma un r
 
 En cambio, Tinder simplemente remueve la capacidad de ser rechazado… en teoría.
 
-Lo enmascara con los *swipes* haciendo que lo que pueda sonar como una ventaja, en verdad juegue en nuestra contra como hombres.
+Lo enmascara con los _swipes_ haciendo que lo que pueda sonar como una ventaja, en verdad juegue en nuestra contra como hombres.
 
 Mirad.
 
@@ -580,7 +558,7 @@ Ya, ya.
 
 La metáfora no sirve porque con Tinder si que vas pudiendo quedar con las chicas de vez en cuando, pero se entiende lo que quiero transmitir.
 
-> El 70%-90% de la comunicación es **no verbal**[22](<javascript:void(0)>)Advaney, Martina. 2017. “To Talk or Not to Talk That Is the Question! – Youth Time Magazine.” Youth Time Magazine.‌[23](<javascript:void(0)>)“How Much of Communication Is Nonverbal? | UT Permian Basin Online.” 2020. The University of Texas Permian Basin | UTPB.‌. ¿Vas a intentar ir en contra de la máxima eficiencia humana?
+> El 70%-90% de la comunicación es **no verbal**[ref-22](#ref-22){.ref}[ref-23](#ref-23){.ref}. ¿Vas a intentar ir en contra de la máxima eficiencia humana?
 
 Me acuerdo de ver una entrevista de una mujer joven donde explicaba que siempre le había gustado hacer jabones o cosméticos en casa y que un día le explotaron en la cara y se quedó ciega.
 
@@ -588,7 +566,7 @@ Cuando le preguntaron qué es lo que más echaba de menos de cuando tenía visi�
 
 La magia de las citas, no es pedir salir a todos, sino pedir salir a las que hay ese _feeling_, que puedes saber que está ahí por una sola mirada. Una conexión que sabes que tenéis por la subcomunicación que ocurre exclusivamente en persona.
 
-Y este es el propósito tanto de conocer chicas de día por la calle haciendo daygame, de noche en la disco, o [ligando en el gimnasio](https://pau.ninja/como-ligar-en-un-gym/).
+Y este es el propósito tanto de conocer chicas de día por la calle haciendo daygame, de noche en la disco, o [ligando en el gimnasio](./como-ligar-en-un-gym).
 
 En última instancia no es sacar un montón de volumen de número o Instagram, sino 1) ver con cuales tienes esta conexión que no sabemos exactamente como explicar, o 2) desensibilizarnos del rechazo siendo muy rechazados entrando a todas.
 
@@ -596,15 +574,15 @@ En última instancia no es sacar un montón de volumen de número o Instagram, s
 
 Esta es en la etapa en la que estoy yo, y entiendo que habrá otros hombres que no la compartirán. Que quizás sientan que necesitan más experiencia, lo cuál no tengo nada en contra. Estoy seguro que en un momento dado Tinder me ha servido. Por ejemplo:
 
-- Si has estado mucho tiempo fuera del mercado y necesitas tantear el terreno de las primeras citas, aunque tendrás que darle mucha caña porque se estima un 1-2% de citas entre los matches que se tengan[24](<javascript:void(0)>)Gerrard, Brayden. 2018. “117 Days of My Tinder Profile in Data – towards Data Science.” Medium. Towards Data Science.‌.
-- Para crear cierta tolerancia a las prácticas de las que hemos hablado antes: el *ghosting*, las excusas baratas… al principio te puede dar rabia pero cuando te lo han hecho 100 veces ya ves que no es personal.
+- Si has estado mucho tiempo fuera del mercado y necesitas tantear el terreno de las primeras citas, aunque tendrás que darle mucha caña porque se estima un 1-2% de citas entre los matches que se tengan[ref-24](#ref-24){.ref}.
+- Para crear cierta tolerancia a las prácticas de las que hemos hablado antes: el _ghosting_, las excusas baratas… al principio te puede dar rabia pero cuando te lo han hecho 100 veces ya ves que no es personal.
 - Para probarlo y ver de qué va.
 
 El problema es que es muy fácil caer en la tentación, una tentación que me recuerda a un tema el pasado noviembre… el NoPor.
 
 ## Hacerse Tinder: ¿sí o no?
 
-Mi opinión sobre Tinder es la misma a [mi opinión que tengo de la pornografía](https://pau.ninja/opinion-sobre-la-pornografia/) (#377).
+Mi opinión sobre Tinder es la misma a [mi opinión que tengo de la pornografía](./opinion-sobre-la-pornografia) (#377).
 
 > Si el p0rn0 prostituye las relaciones sexuales (ya sea de pareja o casuales) entonces Tinder prostituye las relaciones sentimentales y las citas.
 
@@ -612,7 +590,7 @@ _H0de_ todo lo que viene antes de acostaros.
 
 Son el combo de control masculino perfecto.
 
-Pero mientras que el NoPor está bien documentado por la ciencia con cientos de estudios de [por qué es malo](https://pau.ninja/es-malo-ver-porno/) (#368), los efectos al largo plazo de Tinder aún no son tan concluyentes, aunque esas estadísticas del principio ya nos daban un buen indicador.
+Pero mientras que el NoPor está bien documentado por la ciencia con cientos de estudios de [por qué es malo](./es-malo-ver-porno) (#368), los efectos al largo plazo de Tinder aún no son tan concluyentes, aunque esas estadísticas del principio ya nos daban un buen indicador.
 
 ## Poder decir «no nos conocimos por Tinder»
 
@@ -636,7 +614,7 @@ Recuerdo con las que quedé a través de la app y hubo una muy buena conexión. 
 
 Siempre habrá muchas más.
 
-Y siento mucho decirlo, pero los que me digan «ya Pau, pero yo lo que quiero ahora es *frungir* sin parar». Pues perfecto, pero te puedo asegurar una cosa.
+Y siento mucho decirlo, pero los que me digan «ya Pau, pero yo lo que quiero ahora es _frungir_ sin parar». Pues perfecto, pero te puedo asegurar una cosa.
 
 En algún momento dejarás de querer hacerlo.
 
@@ -645,108 +623,3 @@ O dejarás de hacerlo cuando no te aporten porque de nuevo, nos engañamos dici�
 Que es interminable.
 
 Y como un pozo sin fondo, ver el final de algo así es difícil de ver. A veces no sabes ni a que altura del pozo estás y tienes que hacer un esfuerzo bestial para salir de este pozo.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Holtzhausen N, Fitzgerald K, Thakur I, Ashley J, Rolfe M, Pit SW. Swipe-based dating applications use and its association with mental health outcomes: a cross-sectional study. BMC Psychol. 2020 Mar 4;8(1):22. doi: 10.1186/s40359-020-0373-1. PMID: 32127048; PMCID: PMC7055053.
-
-- 2
-
-  Portingale J, Fuller-Tyszkiewicz M, Liu S, Eddy S, Liu X, Giles S, Krug I. Love me Tinder: The effects of women’s lifetime dating app use on daily body dissatisfaction, disordered eating urges, and negative mood. Body Image. 2022 Mar;40:310-321. doi: 10.1016/j.bodyim.2022.01.005. Epub 2022 Feb 1. PMID: 35121567.
-
-- 3
-
-  Rodgers, R.F., Campagna, J., Attawala, R. et al. In the eye of the swiper: a preliminary analysis of the relationship between dating app use and dimensions of body image. Eat Weight Disord 25, 1469–1473 (2020).
-
-- 4
-
-  Lenton-Brym AP, Santiago VA, Fredborg BK, Antony MM. Associations Between Social Anxiety, Depression, and Use of Mobile Dating Applications. Cyberpsychol Behav Soc Netw. 2021 Feb;24(2):86-93. doi: 10.1089/cyber.2019.0561. Epub 2020 Oct 12. PMID: 33047973.
-
-- 5
-
-  Tyson, Gareth & Perta, Vasile & Haddadi, Hamed & Seto, Michael. (2016). A First Look at User Activity on Tinder.
-
-- 6
-
-  Barnett, Liam. 2021. “Tinder Statistics 2023 & Fun Facts That You Didn’t Know Before.” DatingZest.‌
-
-- 7
-
-  Editor. 2019. “Online Dating Trends: Men Outnumber Women on Tinder by 9 to 1 ( While Grinder Wins for Age Diversity).” Netimperative‌
-
-- 8
-
-  worst-online-dater. 2015. “Tinder Experiments II: Guys, Unless You Are Really Hot You Are Probably Better off Not Wasting Your Time on Tinder — a Quantitative Socio-Economic Study.” Medium.
-
-- 9
-
-  worst-online-dater. 2023. “Tinder Experiments — Answering Questions and Criticisms Part II: A Response to a Criticism That Mostly Turned into a Long Post about OKCupid Data from 2009 and 2014.” Medium.‌‌
-
-- 10
-
-  “La Evolución de La Pareja En España: Del Rito Del Matrimonio Para Toda La Vida a La Diversidad de Relaciones Basadas En El Pacto Privado Y La Aceptación de La Ruptura Y El Re-Emparejamiento – Fundación BBVA.” 2022. Fundación BBVA.‌
-
-- 11
-
-  U.S. Tinder User Ratio By Gender 2020 | Statista”. 2021. Statista.
-
-- 12
-
-  Tinder Made $1.2 Billion Last Year Off People Who Can’T Stop Swiping”. 2021. The Verge.
-
-- 13
-
-  Campbell, Patrick. 2021. “Why Tinder’s Charging Older Users More, And Why It Makes Perfect Sense
-
-- 14
-
-  Tinder Paid Dating Subscribers 2020 | Statista”. 2021. Statista.
-
-- 15
-
-  “Tinder Revenue And Usage Statistics (2020)”. 2021. Business Of Apps.
-
-- 16
-
-  “Bumble Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌
-
-- 17
-
-  “Tinder Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌
-
-- 18
-
-  “Hinge Revenue and Usage Statistics (2023).” 2023. Business of Apps.‌
-
-- 19
-
-  Yang, Angela. 2023. “Most Tinder Users Are Already in a Relationship, New Survey Finds.” NBC News. NBC News.‌
-
-- 20
-
-  Kincaid, Jason. 2009. “OkCupid Checks out the Dynamics of Attraction and Your Love Inbox.” TechCrunch.
-
-- 21
-
-  Roshchupkina, Olga, Olga Kim, and Eun-Ju Lee. 2022. “Rules of Attraction: Females Perception of Male Self-Representation in a Dating App.
-
-- 22
-
-  Advaney, Martina. 2017. “To Talk or Not to Talk That Is the Question! – Youth Time Magazine.” Youth Time Magazine.‌
-
-- 23
-
-  “How Much of Communication Is Nonverbal? | UT Permian Basin Online.” 2020. The University of Texas Permian Basin | UTPB.‌
-
-- 24
-
-  Gerrard, Brayden. 2018. “117 Days of My Tinder Profile in Data – towards Data Science.” Medium. Towards Data Science.‌
-
-¿Te ha gustado la publicación?
-**Divulga** conmigo compartiéndola en:
-
-[![compartir en instragram](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-instragram.png)](https://www.instagram.com/p/CvptKkKNKLs/) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-twitter.png) [![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png)](https://www.tiktok.com/@pau_ninja/video/7264634212924329249) ![compartir en youtube](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-youtube.png)

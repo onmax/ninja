@@ -1,24 +1,29 @@
 ---
-title: "Atención deliberada la mentira de practicar 10.000 horas"
+title: "Atención deliberada"
+url: https://pau.ninja/practica-deliberada
+slug: practica-deliberada
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: practica-deliberada.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/04/practica-deliberada.jpg
 published: 2024-04-02T04:53:42+00:00
 modified: 2024-08-10T19:41:25+00:00
+scrappedAt: 2024-10-14T09:19:30.198Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86774742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693696-44100-2-f4b383200498a.mp3
-slug: practica-deliberada
+bibliography: ["“Ben Franklin Taught Himself to Write with a Few Clever Tricks | the Freelancer, by Contently.” 2014.","KueppersStaff, Alfred. 2001. “Blindfolded Monkey Beats Humans with Stock Picks.” WSJ. The Wall Street Journal."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/86774742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693696-44100-2-f4b383200498a.mp3](https://anchor.fm/s/98566448/podcast/play/86774742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693696-44100-2-f4b383200498a.mp3)
 
 En el libro Outliers (fuera de serie, en español) de Malcolm Gladwell, se popularizó la idea de que necesitas 10.000 horas para convertirte en el amo y señor de lo que quieras.
 
-En el libro de _Peak_ en el que se indaga [si el talento es innato o adquirido](https://pau.ninja/el-talento-es-innato-o-adquirido/) (#600), lo desmiente.
+En el libro de _Peak_ en el que se indaga [si el talento es innato o adquirido](./el-talento-es-innato-o-adquirido) (#600), lo desmiente.
 
 Y es que esta teoría está basada en observaciones subjetivas, no objetivas.
 
 > Porque no es verdad que necesitas 10.000 horas para convertirte en un maestro de algo.
 
-No hay nada mágico en la cifra de 10.000 horas (la misma que se usa con los [pasos de caminar para adelgazar](https://pau.ninja/adelgazar-caminando/) o estar sano, por cierto).
+No hay nada mágico en la cifra de 10.000 horas (la misma que se usa con los [pasos de caminar para adelgazar](./adelgazar-caminando) o estar sano, por cierto).
 
 Es una cifra que no deja de ser la que el autor decidió elegir porque era la media de las horas que los mejores violinistas habían practicado cuando tenían 20 años.
 
@@ -62,19 +67,6 @@ Las técnicas de entrenamiento se mejoran constantemente y se alcanzan nuevos ni
 
 Lo que quiero remarcar es que no vale con practicar, sino que hay dos tipos de práctica.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Práctica con propósito VS práctica deliberada](#Practica_con_proposito_VS_practica_deliberada 'Práctica con propósito VS práctica deliberada')
-  - [Un campo altamente desarrollado](#Un_campo_altamente_desarrollado 'Un campo altamente desarrollado')
-- [Los principios de la práctica deliberada](#Los_principios_de_la_practica_deliberada 'Los principios de la práctica deliberada')
-- [Las mentiras de disfrutar una práctica](#Las_mentiras_de_disfrutar_una_practica 'Las mentiras de disfrutar una práctica')
-- [Un profesor para potenciar(te)](#Un_profesor_para_potenciarte 'Un profesor para potenciar(te)')
-- [La meseta](#La_meseta 'La meseta')
-- [Aplicando los principios de la práctica deliberada](#Aplicando_los_principios_de_la_practica_deliberada 'Aplicando los principios de la práctica deliberada')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Práctica con propósito VS práctica deliberada
 
 - **Práctica con propósito:** la persona se esfuerza por mejorar.
@@ -82,7 +74,7 @@ Navega por el contenido
 
 ¿Qué se necesita para una práctica con propósito?
 
-En la práctica con propósito, estás centrado… pero en la deliberada [hay un estado de _flow_ en si mismo](https://pau.ninja/estado-de-flow/) (#483, #486).
+En la práctica con propósito, estás centrado… pero en la deliberada [hay un estado de _flow_ en si mismo](./estado-de-flow) (#483, #486).
 
 Ir más allá de estar centrados y de apretar más de la zona de confort.
 
@@ -105,7 +97,7 @@ Si ponemos como ejemplo el piano o el violín vemos como se requieren unos 20 a�
 
 Porque ya es de estos ámbitos refinados donde el nivel es altísimo. La propia sociedad ha decidido que este es el nivel experto, por una cuestión de lo difícil que es ser mucho mejor que la media. Porque la media lleva aumentando desde hace siglos.
 
-Precisamente en el propio libro de *Peak* el propio Ericsson reclutó a 20 violinistas para poner todo esto a prueba.
+Precisamente en el propio libro de _Peak_ el propio Ericsson reclutó a 20 violinistas para poner todo esto a prueba.
 
 De hecho a propósito pilló: los buenos, los mejores, y los «jefazos amos y señores», para ver qué los diferenciaba.
 
@@ -115,7 +107,7 @@ Vio que de media todos habían empezado sobre los 8 años de edad. Que generalme
 
 Y uno de los factores que confieso que me sorprendió de primeras de ver, pero no de segundas fue que…
 
-Ninguno de los profesionales dijo que *amaba* practicar en casa.
+Ninguno de los profesionales dijo que _amaba_ practicar en casa.
 
 Alegaban que se les hacía difícil practicar en el sentido de que era todo un reto.
 
@@ -123,8 +115,8 @@ No hubo violinistas a quienes les encantara ensayar o necesitar menos motivació
 
 Entonces la única diferencia entre los 3 grupos fueron las horas de práctica en solitario.
 
-- De media aquellos violinistas que se consideraron *buenos*, habían practicado 3.420 horas cuando tenían 18 años.
-- Los considerados *mejores* 7.410 horas, una diferencia principalmente producida en los años de adolescencia y preadolescencia.
+- De media aquellos violinistas que se consideraron _buenos_, habían practicado 3.420 horas cuando tenían 18 años.
+- Los considerados _mejores_ 7.410 horas, una diferencia principalmente producida en los años de adolescencia y preadolescencia.
 
 Y cuando Ericsson estudió los bailarines encontró el mismo patrón.
 
@@ -152,13 +144,13 @@ Por esto la práctica deliberada que es distinta a la práctica con propósito p
 - Sucede fuera de la zona de confort, en la incomodidad mental y física. Ahí es cuando ocurre la homeostasis. O sea que requiere de un esfuerzo máximo que en la mayoría de casos no es agradable.
 - Además implica establecer objetivos de cierta manera para mejorar algo específico. No para que haya una mejora generalista.
 - También requiere de que haya atención plena. O plenamente consciente como a mí me gusta decir.
-- Implica que haya retroalimentación y modificación del comportamiento. O sea a nuestra manera de responder a esa retroalimentación. A adaptarnos. Por eso es trabajo del profesor, maestro, *coach* o mentor de mirar de cerca el progreso del «pupilo». Así puede señalar los problemas o ofrecer mejorar según los sistemas que se han demostrado que funcionan.
+- Implica que haya retroalimentación y modificación del comportamiento. O sea a nuestra manera de responder a esa retroalimentación. A adaptarnos. Por eso es trabajo del profesor, maestro, _coach_ o mentor de mirar de cerca el progreso del «pupilo». Así puede señalar los problemas o ofrecer mejorar según los sistemas que se han demostrado que funcionan.
 - Además en estos principios de práctica deliberada también se depende de las representaciones mentales que ayudan a controlar cómo se está haciendo lo que se está haciendo.
 - Se desarrollan (o modifican) habilidades que ya se tenían pero esta vez yendo a centrarnos en algo más específico dentro de esa habilidad.
 
 Por esto en ciertos círculos se habla de aprender las habilidades más fundamentales desde el principio para no tener que volver a atrás a aprenderlas si no las has aprendido o has aprendido mal.
 
-Como cuando te sacas el carnet de coche y el instructor te hace tanto énfasis en no pillar ningún *tic* raro al conducir.
+Como cuando te sacas el carnet de coche y el instructor te hace tanto énfasis en no pillar ningún _tic_ raro al conducir.
 
 Para así dejar las bases bien sólidas para más adelante.
 
@@ -173,9 +165,9 @@ Dentro del libro se habla de como es mentira que:
 
 Y una de las mentiras más grandes debe ser el disfrute constante…
 
-Recordemos que el estado de *flow*, para *entrar* en él se necesita una parte de reto e incomodidad.
+Recordemos que el estado de _flow_, para _entrar_ en él se necesita una parte de reto e incomodidad.
 
-![gráfico estado de flow](https://pau.ninja/wp-content/uploads/2024/01/grafico-estado-de-flow.jpeg)
+![gráfico estado de flow](./wp-content/uploads/2024/01grafico-estado-de-flow.jpeg)
 
 El disfrutar o no hacerlo es otra de las partes de la práctica deliberada, porque sé que muchos de vosotros pensaréis que os diré que _hay que disfrutar_.
 
@@ -187,13 +179,13 @@ Lo vemos en los cantantes novatos, que salen de clases de canto sintiéndose fel
 
 Les quema la cabeza.
 
-Lo mismo con los corredores *amateur*, que se tienen que buscar trucos para distraer la mente mientras corren, en cambio los profesionales están en sintonía con su cuerpo.
+Lo mismo con los corredores _amateur_, que se tienen que buscar trucos para distraer la mente mientras corren, en cambio los profesionales están en sintonía con su cuerpo.
 
 > Cualquier actividad en los límites de nuestra habilidad requerirá de nuestra máxima concentración y esfuerzo.
 
 Por esto supongo que el bueno de Ericsson encontró como los estudiantes de violín, también tocaban entre sesiones de ensayo porque estaban ya tan enfocados, tan en _flow_, que les era más natural seguir ensayando entre ensayos que no dejarlo.
 
-Supongo que por esto lo llamamos *flow* al fin y al cabo.
+Supongo que por esto lo llamamos _flow_ al fin y al cabo.
 
 ## Un profesor para potenciar(te)
 
@@ -207,11 +199,9 @@ Incluso aunque mires porrones de vídeos para aprender una habilidad, podemos pe
 
 Por esto el hecho de tener un profesor lo cambia todo, claro que no todo el mundo tiene esta oportunidad.
 
-Yo mismo me enseñé inglés a mi mismo utilizando la técnica *shadowing* para *actuar* lo que decían en inglés en mis series favoritas y para después memorizar las palabras que no entendía [creando flashcards](https://pau.ninja/crear-flashcards/).
+Yo mismo me enseñé inglés a mi mismo utilizando la técnica _shadowing_ para _actuar_ lo que decían en inglés en mis series favoritas y para después memorizar las palabras que no entendía [creando flashcards](./crear-flashcards).
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Incluso antes de la era de internet, Ben Franklin se autoenseñó a escribir imitando artículos de The Spectator.[1](<javascript:void(0)>)“Ben Franklin Taught Himself to Write with a Few Clever Tricks | the Freelancer, by Contently.” 2014.
+Incluso antes de la era de internet, Ben Franklin se autoenseñó a escribir imitando artículos de The Spectator.[ref-1](#ref-1){.ref}
 
 - Escribió descripciones cortas de cada frase en el artículo, entonces esperaba algunos días e intentaba reproducir las originales en sus notas.
 - También transformaba artículos de periódicos en poesía y después las volvía a traducir a artículos desde poesía al cabo de unos días.
@@ -219,7 +209,7 @@ Incluso antes de la era de internet, Ben Franklin se autoenseñó a escribir imi
 
 Oportunidades para fabricar nuestras propias oportunidades hay de sobras.
 
-No necesitamos que *el profesor* o *el mentor* sea una persona física como tal. Muchas personas han aprendido todo lo que han querido saber siempre utilizando internet o libros o cursos.
+No necesitamos que _el profesor_ o _el mentor_ sea una persona física como tal. Muchas personas han aprendido todo lo que han querido saber siempre utilizando internet o libros o cursos.
 
 El proceso sería estar enfocado > tener algún tipo de retroalimentación > arreglar el resultado de esa retroalimentación.
 
@@ -285,9 +275,9 @@ Incluso esas habilidades que parecen o son arbitrarias tienen que ser divididas 
 
 La mayoría de nosotros ahora mismo estamos en campos donde se permite la práctica deliberada, ¿no?
 
-Algo de entrenamiento, el *trading*, el aprendizaje de algo…
+Algo de entrenamiento, el _trading_, el aprendizaje de algo…
 
-Si estamos en un campo que lo permite, lo único que necesitamos es usar el tiempo, pero en *Peak* también se hace hincapié en como ser aún más eficientes que simplemente *usar el tiempo*:
+Si estamos en un campo que lo permite, lo único que necesitamos es usar el tiempo, pero en _Peak_ también se hace hincapié en como ser aún más eficientes que simplemente _usar el tiempo_:
 
 - Identificar quienes son los mejores
 - Descubrir qué los hace tan buenos
@@ -295,15 +285,15 @@ Si estamos en un campo que lo permite, lo único que necesitamos es usar el tiem
 
 Entonces en esta identificación de quienes son los mejores se nos habla de utilizar una medida objetivo.
 
-Claro que puede ser muy difícil encontrar esta media si tus referentes son médicos, pilotos, empresarios, pero hay otros sectores donde es mucho más fácil: cuanto ha ganado un _trader_, cuánto ha publicado un escritor, *podcaster* o editor…
+Claro que puede ser muy difícil encontrar esta media si tus referentes son médicos, pilotos, empresarios, pero hay otros sectores donde es mucho más fácil: cuanto ha ganado un _trader_, cuánto ha publicado un escritor, _podcaster_ o editor…
 
 Es importante buscar esas _puntuaciones_, valoraciones, notas, porque son más objetivas que los juicios subjetivos, donde entran a jugar montones de sesgos.
 
 Supongo que con esto es cómo nos venden tantísimos cursos de personas con dudable reputación. Sólo porque los hemos visto anunciados en Instagram.
 
-- ¿Por qué os pensáis que en 2008 el Journal of Wine Economics publicaba ese artículo donde se veía que los etiquetados de *expertos del vino* ni siquiera estaban de acuerdos entre ellos? Porque se basa en pura sujeción antes que objetividad.
+- ¿Por qué os pensáis que en 2008 el Journal of Wine Economics publicaba ese artículo donde se veía que los etiquetados de _expertos del vino_ ni siquiera estaban de acuerdos entre ellos? Porque se basa en pura sujeción antes que objetividad.
 - También se veía en House of Cards, de Robyn Dawes. Viendo como los psiquiatras/psicólogos profesionales no son mejores dando terapia que los ciudadanos de a pie a quienes se les dio una formación mínima.
-- O los «expertos» financieros con acreditaciones y títulos molones. Se ha visto como un mono eligiendo acciones de forma aleatoria puede obtener más rentabilidad en su cartera de inversión ([aquí mi cartera de inversión](https://pau.ninja/mi-cartera-de-inversion/)) que aquellos que cobran una burrada como asesores financieros.[2](<javascript:void(0)>)KueppersStaff, Alfred. 2001. “Blindfolded Monkey Beats Humans with Stock Picks.” WSJ. The Wall Street Journal.
+- O los «expertos» financieros con acreditaciones y títulos molones. Se ha visto como un mono eligiendo acciones de forma aleatoria puede obtener más rentabilidad en su cartera de inversión ([aquí mi cartera de inversión](./mi-cartera-de-inversion)) que aquellos que cobran una burrada como asesores financieros.[ref-2](#ref-2){.ref}
 
 Por eso hay que prestar tanta atención a los medidores objetivos de los considerados «expertos».
 
@@ -335,18 +325,6 @@ Vieron que lo que estaba haciendo no era tener un mejor talento, sino un mejor s
 
 El señor Nurmi marchaba al ritmo con un cronómetro. También usaba el entrenamiento a intervalos para aumentar la velocidad. Seguía un régimen de un año para estar siempre entrenando… etc.
 
-Los otros corredores *simplemente* adoptaron estas técnicas, y todo el campo del *running* elevó el nivel.
+Los otros corredores _simplemente_ adoptaron estas técnicas, y todo el campo del _running_ elevó el nivel.
 
 Las marcas subieron para todo el mundo al adoptar un mejor sistema.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  “Ben Franklin Taught Himself to Write with a Few Clever Tricks | the Freelancer, by Contently.” 2014.
-
-- 2
-
-  KueppersStaff, Alfred. 2001. “Blindfolded Monkey Beats Humans with Stock Picks.” WSJ. The Wall Street Journal.

@@ -1,20 +1,25 @@
 ---
-title: "La peor estafa de la historia (así funciona el sistema monetario actual)"
+title: "La peor estafa de la historia"
+url: https://pau.ninja/sistema-monetario-actual
+slug: sistema-monetario-actual
+categories: 
+- slug: dinero
+    label: 💰 Dinero
 image: dibujo-billete-arrugado.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2020/12/dibujo-billete-arrugado.jpeg
 published: 2020-12-21T11:55:36+00:00
 modified: 2023-10-11T04:58:58+00:00
+scrappedAt: 2024-10-14T09:21:28.076Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61682785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301134837-44100-2-d76f2f35b3e7a.mp3
-slug: sistema-monetario-actual
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/61682785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301134837-44100-2-d76f2f35b3e7a.mp3](https://anchor.fm/s/98566448/podcast/play/61682785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301134837-44100-2-d76f2f35b3e7a.mp3)
 
-Después de ver [las propiedades del dinero](https://pau.ninja/propiedades-del-dinero/) hemos entendido que lo que estamos usando en nuestro día a día no es dinero duro, pero fiduciario. Es decir, dinero que «sólo» se respalda por la confianza y el control de los gobiernos y que como la historia nos ha demostrado una y otra vez… tiene fecha de caducidad.
+Después de ver [las propiedades del dinero](./propiedades-del-dinero) hemos entendido que lo que estamos usando en nuestro día a día no es dinero duro, pero fiduciario. Es decir, dinero que «sólo» se respalda por la confianza y el control de los gobiernos y que como la historia nos ha demostrado una y otra vez… tiene fecha de caducidad.
 
 Además, este dinero fiduciario tiene otro secreto sucio. Lo veremos hoy, pero antes tendremos que entender un poco cómo funciona el circuito del dinero.
 
-Y es que el dinero está integrado dentro de nuestro **sistema monetario actual** por motivos lógicos. No podríamos ver nuestra serie favorita en Netflix, mandar *memes* a nuestros amigos invisibles, hacer la compra del super o pedir un capuchino con leche de coco sin un medio de intercambio que funcionara.
+Y es que el dinero está integrado dentro de nuestro **sistema monetario actual** por motivos lógicos. No podríamos ver nuestra serie favorita en Netflix, mandar _memes_ a nuestros amigos invisibles, hacer la compra del super o pedir un capuchino con leche de coco sin un medio de intercambio que funcionara.
 
 El dinero es necesario para vivir en una sociedad avanzada como la nuestra. Esto lo sabemos. Aún así, al igual que el capitalismo, hay muchas direcciones que se puedan tomar.
 
@@ -27,23 +32,6 @@ Pues obviamente que podamos proteger nuestro patrimonio personal. Aquel por el q
 Cuando este sistema colapse, los que se hayan adelantado a los acontecimientos verán cómo el traspaso de riqueza más grande de toda la historia les beneficia, mientras ven a los demás volverse más pobres.
 
 Hoy tocamos un poco más de teoría, para más adelante poder tomar acción.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Cómo funciona el sistema monetario](#Como_funciona_el_sistema_monetario 'Cómo funciona el sistema monetario')
-  - [Creación de dinero](#Creacion_de_dinero 'Creación de dinero')
-  - [Creación de deuda](#Creacion_de_deuda 'Creación de deuda')
-  - [Crecimiento artificial](#Crecimiento_artificial 'Crecimiento artificial')
-  - [Devaluación de divisa](#Devaluacion_de_divisa 'Devaluación de divisa')
-- [Pilares del sistema monetario internacional actual](#Pilares_del_sistema_monetario_internacional_actual 'Pilares del sistema monetario internacional actual')
-  - [Deuda del sistema financiero](#Deuda_del_sistema_financiero 'Deuda del sistema financiero')
-  - [Crecimiento insostenible](#Crecimiento_insostenible 'Crecimiento insostenible')
-  - [Inflación infinita](#Inflacion_infinita 'Inflación infinita')
-- [Destapando la gran estafa](#Destapando_la_gran_estafa 'Destapando la gran estafa')
-  - [La solución teórica](#La_solucion_teorica 'La solución teórica')
-  - [La solución práctica](#La_solucion_practica 'La solución práctica')
 
 ## Cómo funciona el sistema monetario
 
@@ -61,7 +49,7 @@ Nos ponemos las manos a la cabeza cuando vemos que los bancos centrales crean di
 
 Ya vimos que durante la crisis de la pandemia la Reserva Federal inyectó 3 billones en la economía de EEUU, y en Europa hicimos lo mismo con 700.000 millones.
 
-![expansión cuantitativa](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![expansión cuantitativa](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 Pero atención porque aquí se pone de manifiesto el secreto sucio del dinero fiduciario. Que no sólo se basa en la confianza ciega entre Estados, bancos y ciudadanos… sino que este dinero fiduciario es en realidad **deuda**.
 
@@ -104,7 +92,7 @@ Normal que todos los países tengamos [récord](https://www.aa.com.tr/en/economy
 
 Tal vez la mía o la tuya.
 
-![deuda pública y bitcoin](https://pau.ninja/wp-content/uploads/2020/12/deuda-publica-y-bitcoin.jpg)
+![deuda pública y bitcoin](./wp-content/uploads/2020/12deuda-publica-y-bitcoin.jpg)
 
 La gracia es que esta estafa mundial está lejos de ser una teoría de conspiración, porque ha sido confirmada mil veces por organismos oficiales en sus webs y artículos.
 
@@ -130,7 +118,7 @@ Porque hay más posibilidades que las pequeñas empresas y los individuos que ne
 
 Pero como hay una percepción de que tanto el valor de los inmuebles como la bolsa siempre va hacia arriba a largo plazo, toda la deuda se inyecta allí. Porque aunque terminemos no pudiendo pagar, el banco se quedará con un inmueble.
 
-![economia vs bolsa](https://pau.ninja/wp-content/uploads/2020/12/economia-vs-bolsa.jpg)
+![economia vs bolsa](./wp-content/uploads/2020/12economia-vs-bolsa.jpg)
 
 Tenemos que recordar que los bancos **no** están reasignando dinero que hubieran usado en otros sitios, si no que lo están literalmente **creando**.
 
@@ -150,7 +138,7 @@ De nuevo, acabamos de inyectar más liquidez.
 
 Los más común son inmuebles o unos buenos fondos de bolsa indexados. Al fin y al cabo, estos dos vehículos de inversión al largo plazo siempre suben, ¿no?
 
-![combatiendo inflación](https://pau.ninja/wp-content/uploads/2020/10/combatiendo-inflacion.png)
+![combatiendo inflación](./wp-content/uploads/2020/10combatiendo-inflacion.png)
 
 Sí. Siempre subirán. Siempre subirán mientras el sistema monetario actual siga funcionando. La pregunta es, ¿hasta cuándo?
 
@@ -168,11 +156,11 @@ De hecho, si lo comparamos con el oro en los últimos 100 años, el dólar ha [p
 
 Si este mal llamado refugio ha perdido ya casi la totalidad de su valor, imaginaros las otras divisas. Todas en el mismo tren dirección a estrellarse.
 
-![valor de divisas y oro](https://pau.ninja/wp-content/uploads/2020/11/valor-de-divisas-y-oro.jpg)
+![valor de divisas y oro](./wp-content/uploads/2020/11valor-de-divisas-y-oro.jpg)
 
 Pero no es evidente en nuestro día a día porque todos los países usan el mismo sistema. Pero como habíamos comentado, la historia nos ha enseñado que todas esas civilizaciones que usaron dinero fiduciario en algún momento, o bien tuvieron que adoptar un sistema monetario con dinero duro, o terminaron colapsando.
 
-El [imperio romano y su sistema monetario](https://pau.ninja/la-economia-en-el-imperio-romano/) es un buen ejemplo.
+El [imperio romano y su sistema monetario](./la-economia-en-el-imperio-romano) es un buen ejemplo.
 
 Como conquistaron la mayor parte del mundo conocido, tenían que pagar esas guerras de algún modo. Los soldados no sacrificarán su vida de gratis…
 
@@ -228,7 +216,7 @@ Adivinad hacia cuál de estas dos opciones nuestros Estados acostumbran a gravit
 
 Las economías [basadas](https://www.imf.org/external/pubs/ft/wp/2015/wp15248.pdf) en deuda como la nuestra son como un pulmón. Hay una expansión y contracción que lleva a unos ciclos muy marcados. El crédito -la deuda- es el aire del pulmón.
 
-![ciclo de deuda](https://pau.ninja/wp-content/uploads/2020/12/ciclo-de-deuda.png)
+![ciclo de deuda](./wp-content/uploads/2020/12ciclo-de-deuda.png)
 
 Cuando se deja dinero, el pulmón de la economía puede respirar de forma momentánea hasta que se queda sin aire y vuelve a necesitar que la deuda le inyecte pasta.
 
@@ -246,7 +234,7 @@ Eso de…
 
 Pero…
 
-La deuda no puede crecer más rápido que el dinero y los salarios así que cuando se llega a un límite el proceso hace un buen *backflip*.
+La deuda no puede crecer más rápido que el dinero y los salarios así que cuando se llega a un límite el proceso hace un buen _backflip_.
 
 - Bajan los precios de los activos.
 - Los que deben pasta tienen problemas en devolverla.
@@ -269,13 +257,13 @@ No vamos a pedir dinero por muy bajo que estén los intereses.
 
 Al igual que las muñecas rusas que sacan más _matrioshkas_ pequeñitas de dentro, un ciclo de deuda es corto pero **se agregará** a una crisis financiera que será más larga en el futuro.
 
-![matrioshkas atrapadas](https://pau.ninja/wp-content/uploads/2020/12/matrioshkas-atrapadas.png)
+![matrioshkas atrapadas](./wp-content/uploads/2020/12matrioshkas-atrapadas.png)
 
 Esto sucede porque el pico y culo de cada uno de los ciclos pequeños va siendo más y más pronunciado en el ratio de deuda-renta que el último que hubo.
 
 Es decir, cada vez, la pasta que tenemos que devolver se aleja más de los ingresos que tenemos, hasta que se llega a un punto de no retorno.
 
-Como haciendo *edging*, los bancos centrales intentan ponerle parches. Por ejemplo, uno de los últimos recursos que hacen es bajar a tope los ratios de interés de los créditos que ayudaban a dejar dinero casi de gratis, para que pidamos pasta y la gastemos re-inyectándola en la economía.
+Como haciendo _edging_, los bancos centrales intentan ponerle parches. Por ejemplo, uno de los últimos recursos que hacen es bajar a tope los ratios de interés de los créditos que ayudaban a dejar dinero casi de gratis, para que pidamos pasta y la gastemos re-inyectándola en la economía.
 
 Pero… se llega al punto de no retorno y esto deja de funcionar.
 
@@ -297,7 +285,7 @@ Tú se lo cuentas a tus amigos como si ya estuviera hecho, pero después… nada
 
 > Los bancos centrales también son como un «microondas». Calientan, pero no cocinando.
 
-Y es que como ya hemos visto, saltarse [la propiedad de escasez del dinero](https://pau.ninja/propiedades-del-dinero/#Escaso) e imprimirlo a tutiplén y crearlo de la nada en cada depósito bancario o crédito, hace que no se deje la recuperación orgánica de la economía, y se **aplaza el problema**, pero…
+Y es que como ya hemos visto, saltarse [la propiedad de escasez del dinero](./propiedades-del-dinero#Escaso) e imprimirlo a tutiplén y crearlo de la nada en cada depósito bancario o crédito, hace que no se deje la recuperación orgánica de la economía, y se **aplaza el problema**, pero…
 
 > Pan para hoy, hambre para mañana.
 
@@ -354,9 +342,9 @@ En este momento la única opción que tienen los Estados es «monetizar» la deu
 
 Haciendo que nuestro dinero no sea realmente dinero, pero deuda. Tal como hemos visto.
 
-Pero si esto se va haciendo de manera prolongada, entonces todo dios se empieza a cuestionar [si el dinero que usan retiene valor](https://pau.ninja/propiedades-del-dinero/#Deposito_de_valor) a lo largo del tiempo.
+Pero si esto se va haciendo de manera prolongada, entonces todo dios se empieza a cuestionar [si el dinero que usan retiene valor](./propiedades-del-dinero#Deposito_de_valor) a lo largo del tiempo.
 
-Esta impresión masiva funciona durante poco tiempo en la mayoría de países precisamente porque se deja de confiar en la divisa del país, pero por las razones equivocadas el mundo adoptó el dólar americano como **falso** [valor refugio](https://pau.ninja/valores-refugio/).
+Esta impresión masiva funciona durante poco tiempo en la mayoría de países precisamente porque se deja de confiar en la divisa del país, pero por las razones equivocadas el mundo adoptó el dólar americano como **falso** [valor refugio](./valores-refugio).
 
 Por eso, hasta el día de hoy, EEUU se ha salido con la suya. Porque hasta ahora aquellos que dejan su dinero al gobierno americano como promesa de «deuda segura» saben que se les pagará.
 
@@ -367,7 +355,7 @@ A día de hoy los bancos centrales sólo tienen dos opciones:
 - Dejar de imprimir, dejar que los intereses suban, que la economía siga su curse y haya un colapso más grande que la Gran Depresión [de 1930](https://www.lavanguardia.com/historiayvida/historia-contemporanea/20191024/471148958651/gran-depresion-1929-eeuu.html), o…
 - Seguir imprimiendo para generar burbujas hasta quedarnos sin jabón. Es decir una devaluación increíble en las divisas fiduciarias y potencialmente, terminando con un nuevo sistema monetario.
 
-Por eso [no creo en diversificar mi inversiones](https://pau.ninja/diversificar-inversiones/), porque creo que sólo se pueda apostar por una de esas dos opciones.
+Por eso [no creo en diversificar mi inversiones](./diversificar-inversiones), porque creo que sólo se pueda apostar por una de esas dos opciones.
 
 Así que resumiendo…
 
@@ -407,17 +395,17 @@ Sin la creación imaginaria de dinero para hacer subir artificialmente los preci
 
 Claro que saldrían otro tipo de problemas. Por ejemplo dependiendo del tipo de dinero escaso que se usara, no se limitaría el poder del gobierno.
 
-Por ejemplo [en la época del patrón oro](https://pau.ninja/patron-oro-actualidad/), el valor del dólar americano estaba ligado (y por lo tanto limitado) a las reservas de oro que Estados Unidos tenía en las cámaras acorazadas.
+Por ejemplo [en la época del patrón oro](./patron-oro-actualidad), el valor del dólar americano estaba ligado (y por lo tanto limitado) a las reservas de oro que Estados Unidos tenía en las cámaras acorazadas.
 
 Pero claro, este tratado de Bretton Woods dejó de tener efectividad. ¿Por qué? porque la Reserva Federal empezó a imprimir más dólares sin tener el oro que los respaldaba.
 
 Desde entonces hemos visto como el valor del dólar ha ido bajando mientras que el coste de la vida ha subido sin parar.
 
-![incremento precios](https://pau.ninja/wp-content/uploads/2020/12/incremento-precios.png)
+![incremento precios](./wp-content/uploads/2020/12incremento-precios.png)
 
 _Si sólo hubiera algún tipo de dinero que no pudiera ser controlado y que al igual fuera escaso y seguro…_
 
-Pero tal vez hay alguna solución intermedia. La gente querrá bancos (o al menos intermediarios) para pedir préstamos sea cual sea el sistema monetario, lo que tenemos que intentar es que sea lo menos corrupto posible. Que cumpla a la ralla todas las [propiedades del dinero](https://pau.ninja/propiedades-del-dinero/), y que se utilice sin especulación ilimitada.
+Pero tal vez hay alguna solución intermedia. La gente querrá bancos (o al menos intermediarios) para pedir préstamos sea cual sea el sistema monetario, lo que tenemos que intentar es que sea lo menos corrupto posible. Que cumpla a la ralla todas las [propiedades del dinero](./propiedades-del-dinero), y que se utilice sin especulación ilimitada.
 
 ### La solución práctica
 
@@ -425,6 +413,91 @@ Ahora bien, un cambio tan radical e importante nos tomará décadas. Pero os pue
 
 La única solución a la estafa del sistema monetario actual, es adelantarse a los acontecimientos y transformar el dinero fiduciario (el dinero de deuda) a el valor refugio por excelencia.
 
-> Es decir: [invertir en bitcoin de forma segura](https://pau.ninja/invertir-en-bitcoins-forma-segura/).
+> Es decir: [invertir en bitcoin de forma segura](./invertir-en-bitcoins-forma-segura).
 
 Estamos delante del mayor traspaso de riqueza de toda la historia de la humanidad.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [💰 Dinero](./dinero)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/sistema-monetario-actual/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":9630,"title":"Los%203%20pilares%20del%20sistema%20monetario%20que%20PETAR%C3%81N%20pronto%20%F0%9F%A4%AB","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2020\\/12\\/dibujo-billete-arrugado.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

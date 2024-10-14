@@ -1,13 +1,20 @@
 ---
-title: "Kindle antiguo Por qué ESTE es el mejor modelo"
+title: "Kindle antiguo"
+url: https://pau.ninja/kindle
+slug: kindle
+categories: 
+- slug: productividad
+    label: Productividad
+  - slug: minimalismo
+    label: Minimalismo
 image: kindle-antiguo.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/02/kindle-antiguo.jpg
 published: 2021-02-28T11:07:51+00:00
 modified: 2024-02-19T05:54:47+00:00
-audioLink:
-slug: kindle
+scrappedAt: 2024-10-14T09:21:19.762Z
+audioLink: 
+bibliography: ["ppp es la menor resolución."]
 ---
-
 Los modelos de Kindle **antiguos** siguen siendo los mejores **ebook** que puedes comprar en comparación con todos los otros nuevos que han salido al mercado.
 
 Al menos si lo que te interesa es **leer y punto**.
@@ -18,45 +25,19 @@ En todo momento de la innovación tecnológica, pasamos el punto de «necesitar�
 
 Confieso que acabo de sacarme este porcentaje de la manga, pero se entiende la idea.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [No necesitas el último Kindle](#No_necesitas_el_ultimo_Kindle 'No necesitas el último Kindle')
-- [Los 2 modelos de Kindle antiguos](#Los_2_modelos_de_Kindle_antiguos 'Los 2 modelos de Kindle antiguos')
-  - [Kindle original](#Kindle_original 'Kindle original')
-  - [Kindle Paperwhite](#Kindle_Paperwhite 'Kindle Paperwhite')
-- [Por qué comprar un Kindle antiguo](#Por_que_comprar_un_Kindle_antiguo 'Por qué comprar un Kindle antiguo')
-  - [Para no llevar libros encima](#Para_no_llevar_libros_encima 'Para no llevar libros encima')
-  - [Para usarlo de posavasos](#Para_usarlo_de_posavasos 'Para usarlo de posavasos')
-  - [Para leer ficción por la noche](#Para_leer_ficcion_por_la_noche 'Para leer ficción por la noche')
-  - [Para estudiar idiomas](#Para_estudiar_idiomas 'Para estudiar idiomas')
-  - [Protege al corazón](#Protege_al_corazon 'Protege al corazón')
-  - [Usarlo como arma letal](#Usarlo_como_arma_letal 'Usarlo como arma letal')
-  - [Para decorarlo](#Para_decorarlo 'Para decorarlo')
-- [Consideraciones de los Kindle antiguos](#Consideraciones_de_los_Kindle_antiguos 'Consideraciones de los Kindle antiguos')
-  - [No tiene botones y es táctil](#No_tiene_botones_y_es_tactil 'No tiene botones y es táctil')
-  - [Sus problemas](#Sus_problemas 'Sus problemas')
-- [Por qué Kindle y no otro ebook](#Por_que_Kindle_y_no_otro_ebook 'Por qué Kindle y no otro ebook')
-- [Por qué un ebook y no una tablet](#Por_que_un_ebook_y_no_una_tablet 'Por qué un ebook y no una tablet')
-  - [Por la tinta electrónica](#Por_la_tinta_electronica 'Por la tinta electrónica')
-  - [Por la batería](#Por_la_bateria 'Por la batería')
-  - [Por las distracciones](#Por_las_distracciones 'Por las distracciones')
-- [¡Pero los libros en papel...!](#%C2%A1Pero_los_libros_en_papel '¡Pero los libros en papel...!')
-
 ## No necesitas el último Kindle
 
 Este es el último modelo con el que nos ha salido Amazon.
 
-[![Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT1EyZHhXRGx0Ymt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTY0Mw=)](https://www.amazon.es/dp/B07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito')
+[![Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT1EyZHhXRGx0Ymt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcyNg=)](https://www.amazon.es/dpB07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito")
 
-[Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito](https://www.amazon.es/dp/B07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito')
+[Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito](https://www.amazon.es/dp/B07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito")
 
-[Comprar en Amazon](https://www.amazon.es/dp/B07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 No lo necesitas porque las únicas diferencias con el Paperwhite son **insignificantes** mientras que estamos pagando **100€ más** para el Oasis.
 
-![paperwhite vs oasis](https://pau.ninja/wp-content/uploads/2021/02/paperwhite-vs-oasis.png)
+![paperwhite vs oasis](./wp-content/uploads/2021/02paperwhite-vs-oasis.png)
 
 Diferencias: 1 pulgada, más LED pero sobretodo… 150 euros más.
 
@@ -64,17 +45,17 @@ Diferencias: 1 pulgada, más LED pero sobretodo… 150 euros más.
 
 ### Kindle original
 
-[![Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamRUSTNWbkExYUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTY0Mw=)](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...')
+[![Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamRUSTNWbkExYUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcyNw=)](https://www.amazon.es/dpB09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...")
 
-[Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...')
+[Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...")
 
 Mi modelo antiguo favorito no es este, pero el siguiente del que voy a hablar.
 
-124,96 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+124,96 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-- 167 ppp es la menor resolución.
+- 167 
 - 4GB de memoria.
 
 ### Kindle Paperwhite
@@ -83,13 +64,13 @@ Hay un motivo por el que Kindle Paperwhite **sigue siendo el ebook más vendido
 
 Que para leer libros de manera digital, este dispositivo cumple los **objetivos exactos de relación calidad-precio**.
 
-[![Kindle Paperwhite (16 GB) | Ahora con una pantalla de 6,8' y luz cálida ajustable, sin publicidad](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUGRTdFRNalpFZFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTY0Mw=)](https://www.amazon.es/dp/B09TMF6742?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Paperwhite (16 GB) | Ahora con una pantalla de 6,8' y luz cálida ajustable, sin publicidad")
+[![Kindle Paperwhite (16 GB) | Ahora con una pantalla de 6,8' y luz cálida ajustable, sin publicidad](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUGRTdFRNalpFZFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcyNw=)](https://www.amazon.es/dpB09TMF6742?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Paperwhite (16 GB) | Ahora con una pantalla de 6,8' y luz cálida ajustable, sin publicidad")
 
 [Kindle Paperwhite (16 GB) | Ahora con una pantalla de 6,8" y luz cálida ajustable, sin publicidad](https://www.amazon.es/dp/B09TMF6742?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Paperwhite (16 GB) | Ahora con una pantalla de 6,8' y luz cálida ajustable, sin publicidad")
 
 Hay modelos más avanzados y caros, pero con el Paperwhite hay más que de sobras y es el mejor en calidad-precio.
 
-[Comprar en Amazon](https://www.amazon.es/dp/B09TMF6742?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B09TMF6742?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Tiene todo lo que un lector corriente pueda desear:
 
@@ -127,7 +108,7 @@ Aún así, mi opinión por lo que hace a tener un lector electrónico, es que *
 
 No me gusta ir dejando marcas circulares en mesas ajenas, así que cuando estaba haciendo una ruta por los países bálticos, decidí empezar a usarlo de posavasos para mi café.
 
-![kindle posavasos](https://pau.ninja/wp-content/uploads/2021/02/kindle-posavasos.jpg)
+![kindle posavasos](./wp-content/uploads/2021/02kindle-posavasos.jpg)
 
 En un café de Estonia. Tampoco es que recomiende hacerlo mucho pero seguro que te daría un ataque si se tratara de un Oasis y no un Peperwhite.
 
@@ -175,13 +156,13 @@ Pero como tengo intención de **no comprarme otro durante muchos años**, a pod
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGaFF6RlphRGhTWWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTY0Mw=)](https://www.amazon.es/dp/B0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite "Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...")
+[![Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGaFF6RlphRGhTWWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcyNw=)](https://www.amazon.es/dpB0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite "Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...")
 
 [Funda para Kindle Paperwhite de 6,8" (11ª Generación 2021)&6" (11ª Generación 2022) (Deep Black,...](https://www.amazon.es/dp/B0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite "Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...")
 
-12,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+12,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite "Comprar en Amazon")
 
 Con esta ya no hacen falta protectores de pantalla, y mi opinión es que, si se tiene un Kindle Paperwhite, mejor ponerle una pegatina de algo.
 
@@ -199,15 +180,15 @@ Ahora puedo confirmar que soy un **bicho raro que borra el libro que acaba de le
 
 Mi opinión sobre Kindle Paperwhite y cualquier otro dispositivo electrónico, es que lo compramos y después nos damos cuenta de que **nos faltan o sobran opciones**. Este lector no es distinto.
 
-[![Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamRUSTNWbkExYUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTY0Mw=)](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...')
+[![Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamRUSTNWbkExYUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcyNw=)](https://www.amazon.es/dpB09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...")
 
-[Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...')
+[Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle (modelo de 2022): nuestro Kindle más compacto y ligero, con una pantalla de alta resolución...")
 
 Hay modelos más avanzados y caros, pero con el Paperwhite hay más que de sobras y es el mejor en calidad-precio.
 
-124,96 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+124,96 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B09SWS16W6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 ### No tiene botones y es táctil
 
@@ -255,7 +236,7 @@ El Kindle Paperwhite tiene luz interna, pero no toda su superficie de lectura es
 
 La tinta electrónica **no cansa la vista**. Es del mismo tipo de material que esas pantallas gigantes para dibujar que teníamos cuando éramos pequeños. Al menos yo que soy de los noventa.
 
-![tinta electrónica](https://pau.ninja/wp-content/uploads/2021/02/tinta-electronica.jpg)
+![tinta electrónica](./wp-content/uploads/2021/02tinta-electronica.jpg)
 
 Ya había comentado que irse a dormir justo después de mirar las **luces azules** de las pantallas es difícil, pero teniendo tinta electrónica, **esto no pasa**.
 
@@ -281,7 +262,7 @@ Bueno. Seguro que hay alguna persona que se pasa horas leyendo, pero no sé yo s
 
 Lo sé. Inspiran, tienen un olor especial, al pasar página las mariposas vuelan y los pájaros cantan…
 
-![oliendo libros](https://pau.ninja/wp-content/uploads/2021/02/oliendo-libros.jpg)
+![oliendo libros](./wp-content/uploads/2021/02oliendo-libros.jpg)
 
 Hace unos años terminé el libro en formato papel En La Carretera de Jack Kerouac. Lo puse a vender por eBay, y un hombre de cincuenta años quedó conmigo para que se lo vendiera.
 
@@ -298,3 +279,84 @@ Ver a ese hombre tan tranquilo, con su olor a café, sentado en esa terraza tom�
 No es que una manera me motive más que la otra. Es que simplemente, al comprarme mi Kindle Paperwhite y empezar a leer tranquilamente, pasando páginas con el dedo, me hacía llegar **otro tipo de inspiración** similar a la de escribir.
 
 Es difícil de expresar con texto. Entiendo que pasar página y el olor de un libro en formato papel es **una experiencia. Pero con un ebook se crea otro recuerdo distinto**.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Productividad](./productividad)  
+O si quieres ser más específico:[Minimalismo](./minimalismo)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/kindle/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":10964,"title":"%E3%80%90Kindle%20antiguo%E3%80%91%20Por%20qu%C3%A9%20ESTE%20es%20el%20mejor%20modelo","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/02\\/kindle-antiguo.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

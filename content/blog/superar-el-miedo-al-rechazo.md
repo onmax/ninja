@@ -1,14 +1,25 @@
 ---
-title: "Hola rechazo, adiós miedo Pasos para superar el miedo al rechazo"
+title: "Hola rechazo, adiós miedo"
+url: https://pau.ninja/superar-el-miedo-al-rechazo
+slug: superar-el-miedo-al-rechazo
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
+  - slug: habilidades-sociales
+    label: Habilidades sociales
+  - slug: masculinidad
+    label: Masculinidad
+  - slug: seduccion
+    label: Seducción
 image: chica-rechazando.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/09/chica-rechazando.jpeg
 published: 2021-09-28T06:26:58+00:00
 modified: 2023-08-29T05:17:57+00:00
+scrappedAt: 2024-10-14T09:21:15.416Z
 audioLink: https://www.ivoox.com/hola-rechazo-adios-miedo_md_76032891_wp_1.mp3
-slug: superar-el-miedo-al-rechazo
+bibliography: []
 ---
-
-[https://www.ivoox.com/hola-rechazo-adios-miedo_md_76032891_wp_1.mp3](https://www.ivoox.com/hola-rechazo-adios-miedo_md_76032891_wp_1.mp3)
+[https://www.ivoox.com/hola-rechazo-adios-miedo\_md\_76032891\_wp\_1.mp3](https://www.ivoox.com/hola-rechazo-adios-miedo_md_76032891_wp_1.mp3)
 
 Una de las veces que viví en Suecia hice un reto de psicología social.
 
@@ -18,13 +29,13 @@ La idea no era sólo hacer un comentario, sino también «profundizar» en la co
 
 Les explicaba por qué los paraba, les preguntaba cosas del tipo «dime algo en lo que estés pensando demasiado últimamente» o «cuál es tu pasión», y al final de la interacción les pedía una foto.
 
-![reto desconocidos](https://pau.ninja/wp-content/uploads/2021/09/reto-desconocidos.jpeg)
+![reto desconocidos](./wp-content/uploads/2021/09reto-desconocidos.jpeg)
 
 Fotos: ninja con pelo y desconocidos.
 
 Una de las cosas que me enseñó ese reto es que **el resultado es peor en nuestra imaginación** que lo que termina pasando en la realidad.
 
-Un aprendizaje que me llevé conmigo cuando empecé a [aprender sobre daygame](https://pau.ninja/daygame/) (ligar en la calle con chicas que no conoces).
+Un aprendizaje que me llevé conmigo cuando empecé a [aprender sobre daygame](./daygame) (ligar en la calle con chicas que no conoces).
 
 Una época que me pilló viviendo en Rumanía y Croacia, en la que también buscaba más **libertad social para expresarme sin preocuparme de lo que pensarán de mí**.
 
@@ -34,7 +45,7 @@ Quería ser capaz de ir a una chica desconocida que me parecía atractiva y dec�
 
 Esta epifanía de ser un cagado socialmente me llevó a hacer otros experimentos como tumbarme en medio de la plaza más concurrida de la capital de Croacia: Zagreb.
 
-![reto de tumbarse](https://pau.ninja/wp-content/uploads/2021/09/reto-de-tumbarse.jpeg)
+![reto de tumbarse](./wp-content/uploads/2021/09reto-de-tumbarse.jpeg)
 
 Foto: yo 10 segundos después de que mi cuerpo se calmara.
 
@@ -48,7 +59,7 @@ Eso sí.
 
 > Cuando lo terminaba haciendo, fuera cuál fuera del resultado instantáneamente me subía la moral durante todo el día y la confianza en mí mismo.
 
-Empecé a centrar mi atención [a entrarle a chicas durante el día](https://pau.ninja/como-entrarle-a-una-chica/) porque era cuando me salían más excusas para no hacerlo, lo que para mí era una señal de que me necesitaba hacerlo más que otra cosa.
+Empecé a centrar mi atención [a entrarle a chicas durante el día](./como-entrarle-a-una-chica) porque era cuando me salían más excusas para no hacerlo, lo que para mí era una señal de que me necesitaba hacerlo más que otra cosa.
 
 La estrategia fue exactamente la misma que cuando paraba esos desconocidos en Suecia, con la diferencia que ahora eran chicas atractivas.
 
@@ -58,7 +69,7 @@ El problema con el que me encontré es que… bueno. Si te para un tío por la c
 
 Esto significa menos chicas dispuestas a darte coba, lo que se traduce en **recibir rechazos constantes**.
 
-![cómic chico entra a chica](https://pau.ninja/wp-content/uploads/2021/09/comic-chico-entra-a-chica-1.png)
+![cómic chico entra a chica](./wp-content/uploads/2021/09comic-chico-entra-a-chica-1.png)
 
 Por lógica sé que como más rechazos reciba más inmune me vuelvo a ellos, pero **¿cómo voy a aceptar el rechazo si me da miedo ponerme en situaciones para ser rechazado en primera instancia?**
 
@@ -90,31 +101,13 @@ Pensadlo un poco.
 
 Todo el mundo que lleva una vida que cada día les parecen iguales, necesita irse de vacaciones, ir a un parque de atracciones o buscarse algún hobby que le haga sentirse «más vivo», pero lo que os estoy diciendo es que puedes sentir todo esto sólo con salir a la calle.
 
-![cómic miedo al rechazo](https://pau.ninja/wp-content/uploads/2021/09/comic-miedo-al-rechazo.png)
+![cómic miedo al rechazo](./wp-content/uploads/2021/09comic-miedo-al-rechazo.png)
 
 Veréis, cada persona siente el mismo cóctel de emociones cuando sube a una montaña rusa, pero algunos lo llaman miedo y otros emoción.
 
 La psicología social nos ha [enseñado](https://breathemagazine.com.au/mindfulness/excitement-over-fear/) que los cuerpos de estos dos tipos de persona **sienten es exactamente lo mismo**. La diferencia es cómo decidimos etiquetarlo en su cabeza.
 
 Lo que aprendí en Suecia y Croacia me enseñó que este miedo a ser rechazado se puede redefinir, y hoy vamos a ver cómo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Maneras para superar el miedo al rechazo amoroso](#Maneras_para_superar_el_miedo_al_rechazo_amoroso 'Maneras para superar el miedo al rechazo amoroso')
-  - [Redefinir el rechazo](#Redefinir_el_rechazo 'Redefinir el rechazo')
-  - [Desensibilizar sistematicamente](#Desensibilizar_sistematicamente 'Desensibilizar sistematicamente')
-  - [Adoptar un miedo compensatorio](#Adoptar_un_miedo_compensatorio 'Adoptar un miedo compensatorio')
-  - [Cambiar la motivación](#Cambiar_la_motivacion 'Cambiar la motivación')
-  - [Aprende a saber qué hacer](#Aprende_a_saber_que_hacer 'Aprende a saber qué hacer')
-  - [Hacer práctica deliberada](#Hacer_practica_deliberada 'Hacer práctica deliberada')
-- [Qué decir cuando te rechazan](#Que_decir_cuando_te_rechazan 'Qué decir cuando te rechazan')
-  - [En rechazos negativos](#En_rechazos_negativos 'En rechazos negativos')
-  - [En rechazos positivos](#En_rechazos_positivos 'En rechazos positivos')
-- [Qué hacer cuando te rechazan](#Que_hacer_cuando_te_rechazan 'Qué hacer cuando te rechazan')
-  - [No confundir inseguridad por narcisismo](#No_confundir_inseguridad_por_narcisismo 'No confundir inseguridad por narcisismo')
-  - [Analizar](#Analizar 'Analizar')
 
 ## Maneras para superar el miedo al rechazo amoroso
 
@@ -158,7 +151,7 @@ Nuestro problema no es que queramos entrarle a la chica, es que **queremos entra
 
 Nos estamos **poniendo un montón de presión** porque mentalmente hemos creado una lista de cosas que tienen que pasar para auto-validarnos.
 
-![cómic charlar y ligar](https://pau.ninja/wp-content/uploads/2021/09/comic-charlar-y-ligar.png)
+![cómic charlar y ligar](./wp-content/uploads/2021/09comic-charlar-y-ligar.png)
 
 Pero, ¿qué pasa si lo redefinimos?
 
@@ -241,14 +234,14 @@ Hombre, no sienta bien si te lo tomas personalmente. Pero más miedo dan otras c
 
 - Más miedo me da **no ser capaz** de hacer lo que quiero hacer. Encima cuando es algo bueno para todos.
 - Más miedo me da tener que contentarme con quien el universo me lance y tener que conformarme.
-- Más miedo me da tener que depender de los _match_ y [los trucos de Tinder](https://pau.ninja/trucos-tinder/) en vez de en la vida real, y de ver si hay conexión de verdad.
+- Más miedo me da tener que depender de los _match_ y [los trucos de Tinder](./trucos-tinder) en vez de en la vida real, y de ver si hay conexión de verdad.
 - Más miedo me da no levantar la voz cuando quiero decir algo en público. De no tener libertad social. De estar cohibido por el «qué pensarán».
 
 Ver a una chica por la calle y sólo el hecho de pensar en entrarle da miedo, pero más miedo me da todo esto. No quiero ser este tipo de persona y el «miedo compensatorio» puede ayudar a hombres que tengan muchos **arrepentimientos acumulados**.
 
 Tómatelo como si fuera un intercambio. Como en el anime Fullmetal Alchemist.
 
-![intercambio Fullmetal Alchemist](https://pau.ninja/wp-content/uploads/2021/09/intercambio-Fullmetal-Alchemist.png)
+![intercambio Fullmetal Alchemist](./wp-content/uploads/2021/09intercambio-Fullmetal-Alchemist.png)
 
 Pillar una acción que me da miedo (abrir a una chica) e intentar superarla como ejercicio para que no se hagan realidad todos estos otros miedos que para mí son peores.
 
@@ -256,7 +249,7 @@ Y aunque todo esto tiene sentido, sólo por pensar así **no dejamos de tener m
 
 Volvemos a lo de siempre. La teoría nos va genial para recordárnoslo en frío, pero es que lo que queremos hacer es entrar en frío, y cuando estamos a punto de hacerlo, los sudores fríos, las palpitaciones se apoderan de nosotros y no hay huevos.
 
-Hemos sido más prácticos cuando hemos hablado de la [desensibilización sistemática](https://pau.ninja/superar-el-miedo-al-rechazo/#Desensibilizar_sistematicamente). Con los pasos para gradualmente ir «subiendo de nivel», pero hay otras cosas prácticas que podemos hacer.
+Hemos sido más prácticos cuando hemos hablado de la [desensibilización sistemática](./superar-el-miedo-al-rechazo#Desensibilizar_sistematicamente). Con los pasos para gradualmente ir «subiendo de nivel», pero hay otras cosas prácticas que podemos hacer.
 
 - **Plan de acción práctica:** recordarnos en voz alta qué nos da más miedo: lo que sea que nos puedan decir, o el arrepentimiento de no haberlo hecho cuando haya pasado el momento.
 
@@ -280,7 +273,7 @@ Cuando empiecen los sudores fríos y las mariposa al ver la chica que te gusta p
 
 «Oh Dios, espero no liarla. Que miedo, blah, blah, blah». Ahí **cambiemos la mentalidad** diciéndonos en voz alta: «buah mira que oportunidad, que adrenalina, que ganas de tomar acción».
 
-Lo que estamos haciendo es «reencuadrar» (lo que en inglés llaman *reframing*) ese miedo como entusiasmo.
+Lo que estamos haciendo es «reencuadrar» (lo que en inglés llaman _reframing_) ese miedo como entusiasmo.
 
 Y lo bueno es que **ni siquiera nos estamos diciendo ninguna mentira**, porque miedo y entusiasmo… son lo mismo para el cuerpo.
 
@@ -309,9 +302,9 @@ Y con «plan» no me refiero a un diálogo preparado al completo que si la otra 
 
 De la misma manera que los jugadores de futbol o basquet van al gimnasio y hacen rutinas repetitivas (los «drills») para que movimientos salgan automáticos, es exactamente lo que hacemos aquí.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/09/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/09comic-masa-muscular.png)
 
-Tener unos puntos de partida teóricos en los que trabajaremos haciendo una [práctica deliberada](https://pau.ninja/superar-el-miedo-al-rechazo/#Hacer_practica_deliberada).
+Tener unos puntos de partida teóricos en los que trabajaremos haciendo una [práctica deliberada](./superar-el-miedo-al-rechazo#Hacer_practica_deliberada).
 
 Claro que estaremos nerviosos y tendremos ese miedo al rechazo, pero lo estaremos menos que si no hubiéramos pasado «esas horas al gimnasio» repitiendo o sabiendo lo que teníamos que decir o hacer. Por ejemplo con:
 
@@ -337,13 +330,13 @@ En el libro de Anders Ericsson llamado «Peak» el autor profundiza sobre la pr�
 
 Ahora mismo rebajado
 
-[![Peak: Secrets from the New Science of Expertise](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU1l6ZFdXRmRIZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDEwMg=)](https://www.amazon.es/dp/0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Peak: Secrets from the New Science of Expertise')
+[![Peak: Secrets from the New Science of Expertise](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU1l6ZFdXRmRIZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDcxMA=)](https://www.amazon.es/dp0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise")
 
-[Peak: Secrets from the New Science of Expertise](https://www.amazon.es/dp/0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Peak: Secrets from the New Science of Expertise')
+[Peak: Secrets from the New Science of Expertise](https://www.amazon.es/dp/0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise")
 
-16,57 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+16,57 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Habla de cómo la gente llega a una cima de máximo rendimiento, a un nivel de experiencia en cualquier habilidad.
 
@@ -351,7 +344,7 @@ Ericsson apuesta por un método de práctica deliberada en el que nos **centramo
 
 No simplemente salir ahí, cruzar los dedos y esperar que vamos a tener un buen día, pero **tener un punto a mejorar en mente y trabajar en ello**.
 
-¿Que el miedo se apodera de nosotros antes de entrar y no nos atrevemos? pues centrarnos en esto con [las maneras](https://pau.ninja/superar-el-miedo-al-rechazo/#Maneras_para_superar_el_miedo_al_rechazo_amoroso) que hemos comentado.
+¿Que el miedo se apodera de nosotros antes de entrar y no nos atrevemos? pues centrarnos en esto con [las maneras](./superar-el-miedo-al-rechazo#Maneras_para_superar_el_miedo_al_rechazo_amoroso) que hemos comentado.
 
 ¿Que el miedo nos viene cuando ya hemos dicho la frase a la chica y no sabemos qué decir? pues trabajar en los fundamentos de la comunicación y el flirteo.
 
@@ -375,7 +368,7 @@ Si no te rechazan a menudo, experimentarlo pica. Por esto es una buena idea que
 
 De vez en cuando al «abrir» a alguna chica, se detiene, le digo el piropo, me sonríe, pero no contesta y pasa de mí siguiendo su camino.
 
-Este tipo de rechazo neutro, duele un poco igualmente. Probad de decir «ok I love you!» sonriendo también. Es jugón y te pone en ese estado de «vale, no pasa nada, sigue vivo, esto es *game*, estamos jugando».
+Este tipo de rechazo neutro, duele un poco igualmente. Probad de decir «ok I love you!» sonriendo también. Es jugón y te pone en ese estado de «vale, no pasa nada, sigue vivo, esto es _game_, estamos jugando».
 
 Si nos rechazan mal: girándonos la cara, diciéndonos «feo» o estrellándonos una copa en el craneo, la primera reacción sería meterle un tortazo o llamarlo fulanaca de la forma menos educada posible.
 
@@ -480,4 +473,95 @@ Pero si el rechazo ha venido una vez hemos tenido la oportunidad de hablar aunqu
 
 Te interesará:
 
-- [La guía de cómo entrar a una chica](https://pau.ninja/como-entrarle-a-una-chica/) (los primeros 10 segundos de la interacción)
+- [La guía de cómo entrar a una chica](./como-entrarle-a-una-chica) (los primeros 10 segundos de la interacción)
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en twitter](./wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Desarrollo personal](./desarrollo-personal)  
+O si quieres ser más específico:[Habilidades sociales](./habilidades-sociales/), [Masculinidad](https://pau.ninja/masculinidad/), [Seducción](https://pau.ninja/seduccion)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/superar-el-miedo-al-rechazo/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14803,"title":"2%20trucos%20%2B%206%20pasos%20para%20SUPERAR%20el%20miedo%20al%20rechazo","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/09\\/chica-rechazando.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,14 +1,19 @@
 ---
-title: "Mi rutina de gym para volverme un Dios griego Rutina de empuje, tirón, pierna (push, pull, legs)"
+title: "Mi rutina de gym para volverme un Dios griego"
+url: https://pau.ninja/rutina-empuje-tiron-pierna
+slug: rutina-empuje-tiron-pierna
+categories: 
+- slug: fitness
+    label: Fitness
 image: dominando-cuerpo.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/04/dominando-cuerpo.jpg
 published: 2021-05-28T09:35:36+00:00
 modified: 2023-06-27T17:46:18+00:00
+scrappedAt: 2024-10-14T09:21:17.286Z
 audioLink: https://www.ivoox.com/mi-rutina-gym-para-volverme-dios_md_78674320_wp_1.mp3
-slug: rutina-empuje-tiron-pierna
+bibliography: ["repeticiones a 10kg","repeticiones a 10kg","repeticiones a 10kg","repeticiones a 10kg","repeticiones a 10kg","repeticiones a 11kg","Radaelli R, Fleck SJ, Leite T, Leite RD, Pinto RS, Fernandes L, Simão R. Dose-response of 1, 3, and 5 sets of resistance exercise on strength, local muscular endurance, and hypertrophy. J Strength Cond Res. 2015 May;29(5):1349-58. doi: 10.1519/JSC.0000000000000758. PMID: 25546444.","Schoenfeld BJ, Ogborn D, Krieger JW. Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Med. 2016 Nov;46(11):1689-1697. doi: 10.1007/s40279-016-0543-8. PMID: 27102172."]
 ---
-
-[https://www.ivoox.com/mi-rutina-gym-para-volverme-dios_md_78674320_wp_1.mp3](https://www.ivoox.com/mi-rutina-gym-para-volverme-dios_md_78674320_wp_1.mp3)
+[https://www.ivoox.com/mi-rutina-gym-para-volverme-dios\_md\_78674320\_wp\_1.mp3](https://www.ivoox.com/mi-rutina-gym-para-volverme-dios_md_78674320_wp_1.mp3)
 
 De los tipos de rutina de gimnasio que existen, mi favorita es la que distribuye los días de entrenamiento según la biomecánica de los músculos (según su función). Es decir: **empuje, tirón y pierna**.
 
@@ -16,13 +21,13 @@ No importa si he estado en gimnasios comerciales o en mi gym casero, me encanta 
 
 He llegado a ir de 3-4 días a 7 días a la semana si me viene en gana. Lo que hace que nunca pasen demasiados días hasta volver a tocar un músculo que he entrenado (frecuencia de entreno).
 
-El objetivo que persigo con la rutina de empuje, tirón y pierna es el de siempre: estar buenorro sin ropa. [Un cuerpo estético ideal](https://pau.ninja/cuerpo-estetico-hombre-medidas/) según las proporciones áureas de los griegos.
+El objetivo que persigo con la rutina de empuje, tirón y pierna es el de siempre: estar buenorro sin ropa. [Un cuerpo estético ideal](./cuerpo-estetico-hombre-medidas) según las proporciones áureas de los griegos.
 
-![cuerpo en forma de v](https://pau.ninja/wp-content/uploads/2021/09/cuerpo-en-forma-de-v.jpg)
+![cuerpo en forma de v](./wp-content/uploads/2021/09cuerpo-en-forma-de-v.jpg)
 
 Con el tiempo he visto que **no** tenía sentido intentar «estar equilibrado» si lo que buscaba era el «_look_ de superhéroe». Con buenos hombros, dorsales y cintura estrecha.
 
-¿Y qué rutina nos deja priorizar ejercicios que hagan destacar estos músculos? bueno. Cualquiera si te la distribuyes así, pero la ciencia sigue validando que una buena [rutina o plan para aumentar de masa muscular](https://pau.ninja/entrenamiento-ganar-masa-muscular/) debe tener:
+¿Y qué rutina nos deja priorizar ejercicios que hagan destacar estos músculos? bueno. Cualquiera si te la distribuyes así, pero la ciencia sigue validando que una buena [rutina o plan para aumentar de masa muscular](./entrenamiento-ganar-masa-muscular) debe tener:
 
 **Frecuencia**
 
@@ -54,34 +59,11 @@ Quería encontrar una planificación que **no** me hiciera buscar una nueva ruti
 
 Una rutina que desde el primer día ya me llevara en la dirección para ser una escultura griega andante.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2020/01/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2020/01comic-masa-muscular.png)
 
 Una rutina que he ido esculpiendo como cuando Sandow medía las estatuas griegas de los museos para saber las proporciones a las que tenía que aspirar.
 
 Hoy os explico a fondo el plan. La rutina ninja dividida de empuje, tirón, pierna.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es una rutina de empuje/tirón/pierna](#Que_es_una_rutina_de_empujetironpierna 'Qué es una rutina de empuje/tirón/pierna')
-  - [Distribución de ejercicios](#Distribucion_de_ejercicios 'Distribución de ejercicios')
-  - [Mi distribución personal](#Mi_distribucion_personal 'Mi distribución personal')
-- [Pilares de la rutina push pull leg](#Pilares_de_la_rutina_push_pull_leg 'Pilares de la rutina push pull leg')
-  - [Ejercicios compuestos](#Ejercicios_compuestos 'Ejercicios compuestos')
-  - [Series y repeticiones](#Series_y_repeticiones 'Series y repeticiones')
-  - [Progresión en cada entreno](#Progresion_en_cada_entreno 'Progresión en cada entreno')
-  - [Cuantos días entrenar](#Cuantos_dias_entrenar 'Cuantos días entrenar')
-  - [Frecuencia de entrenamiento por músculo](#Frecuencia_de_entrenamiento_por_musculo 'Frecuencia de entrenamiento por músculo')
-- [Ventajas de la rutina](#Ventajas_de_la_rutina 'Ventajas de la rutina')
-  - [Saltarse días aleatorios](#Saltarse_dias_aleatorios 'Saltarse días aleatorios')
-  - [Alta frecuencia](#Alta_frecuencia 'Alta frecuencia')
-  - [Es motivante](#Es_motivante 'Es motivante')
-  - [Es minimalista](#Es_minimalista 'Es minimalista')
-- [Desventajas de la rutina](#Desventajas_de_la_rutina 'Desventajas de la rutina')
-  - [El manejo de la fatiga](#El_manejo_de_la_fatiga 'El manejo de la fatiga')
-  - [Sensación de poco volumen](#Sensacion_de_poco_volumen 'Sensación de poco volumen')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Qué es una rutina de empuje/tirón/pierna
 
@@ -125,7 +107,7 @@ Para nivelar todo esto tenemos esta bonita rutina de empuje, tirón y piernas. D
 
 Tríceps
 
-- [Fondos para tríceps en paralelas](https://pau.ninja/fondos-en-paralelas/#Para_triceps)
+- [Fondos para tríceps en paralelas](./fondos-en-paralelas#Para_triceps)
 
 Hombros
 
@@ -187,58 +169,58 @@ Por ejemplo el día de empuje, empiezo con fondos para tríceps antes que hombro
 #### Día de empuje
 
 - **Tríceps:** fondos
-  - Día A: 1x serie de 8-12 repeticiones con lastre
-  - Día B: 1x serie a máximas repeticiones sin lastre
-  - 3x series de volumen sin lastre a máximas repeticiones sin fallar
+    *   Día A: 1x serie de 8-12 repeticiones con lastre
+    *   Día B: 1x serie a máximas repeticiones sin lastre
+    *   3x series de volumen sin lastre a máximas repeticiones sin fallar
 - **Hombros:** press hombro con mancuernas
-  - 1x serie de 8-12 repeticiones
-  - 3x series de volumen bajando peso y sintiendo bien el músculo
+    *   1x serie de 8-12 repeticiones
+    *   3x series de volumen bajando peso y sintiendo bien el músculo
 - **Pecho:** press declinado con mancuernas
-  - 1x serie de 8-12 repeticiones
-  - 3x series de volumen bajando peso y sintiendo bien el músculo
+    *   1x serie de 8-12 repeticiones
+    *   3x series de volumen bajando peso y sintiendo bien el músculo
 - **Hombros:** Elevaciones laterales (mancuernas, máquinas, polea)
-  - Series a placer con peso liviano sintiéndolo bien
+    *   Series a placer con peso liviano sintiéndolo bien
 - **Pecho:** +volumen en máquinas con poco peso
-  - Series a placer con peso liviano sintiéndolo bien
+    *   Series a placer con peso liviano sintiéndolo bien
 
 #### Día de tirón
 
 - **Dorsales:** dominadas supinas
-  - Día A: 1x serie con lastre
-  - Día B: 1x serie a máximas repeticiones sin lastre
-  - 3x series de volumen sin lastre a máximas repeticiones
+    *   Día A: 1x serie con lastre
+    *   Día B: 1x serie a máximas repeticiones sin lastre
+    *   3x series de volumen sin lastre a máximas repeticiones
 - **Resto de espalda:** remos en máquinas
-  - 4x series: 10-15 repeticiones
+    *   4x series: 10-15 repeticiones
 - **Dorsales:** en poleas
-  - Series a placer entre poleas/ejercicios: 10-15 repeticiones
+    *   Series a placer entre poleas/ejercicios: 10-15 repeticiones
 - **Hombro posterior:** face pulls en polea
-  - 4x series: 12-15 repeticiones
+    *   4x series: 12-15 repeticiones
 - **Bíceps:** mantener discos levantados con palmas mirando hacia arriba
-  - 2x series: por tiempo (60 segundos)
+    *   2x series: por tiempo (60 segundos)
 
 #### Día de piernas
 
 - **Cuádriceps:** sentadillas en máquina guiada
-  - 4x series: 8-12 repeticiones
-  - Notas: piernas juntas, con discos en el suelo para elevar talones, sin descansar arriba
+    *   4x series: 8-12 repeticiones
+    *   Notas: piernas juntas, con discos en el suelo para elevar talones, sin descansar arriba
 - **Glúteos:** hip-thrust
-  - 3x series: 6-10 repeticiones
-  - Notas: parando 1 segundo arriba a la contracción
+    *   3x series: 6-10 repeticiones
+    *   Notas: parando 1 segundo arriba a la contracción
 - **Cuádriceps:** prensa
-  - 3x series: 8-12 repeticiones
-  - Notas: a una pierna, sentado de lado (rollo patada de karate)
+    *   3x series: 8-12 repeticiones
+    *   Notas: a una pierna, sentado de lado (rollo patada de karate)
 - **Femoral:** zancadas con mancuernas
-  - 3x series: 8-12 repeticiones
+    *   3x series: 8-12 repeticiones
 - **Cuádriceps:** a gusto
-  - 3x series: 8-12 repeticiones
-  - Ejercicios: step-ups en caja elevada, sentadilla goblet, sentadilla búlgara
-  - Notas: muy poco peso, no empujar con pierna trasera
+    *   3x series: 8-12 repeticiones
+    *   Ejercicios: step-ups en caja elevada, sentadilla goblet, sentadilla búlgara
+    *   Notas: muy poco peso, no empujar con pierna trasera
 - **Femoral:** peso muerto rumano
-  - Día A: con barra
-  - Dia B: con mancuernas
-  - 3x series: 12-15 repeticiones
+    *   Día A: con barra
+    *   Dia B: con mancuernas
+    *   3x series: 12-15 repeticiones
 - **Gemelos:** elevaciones de talones
-  - 4x series: 8-12 repeticiones
+    *   4x series: 8-12 repeticiones
 
 Esta es mi distribución personal, pero para que se pueda extrapolar a otra persona tengo que dejar claras algunas cosas.
 
@@ -293,7 +275,7 @@ Empezando con 1-2-3-4 series y vamos incrementando **según sensaciones**. Eso 
 
 El volumen (el número total de series y repeticiones) por grupo muscular es **vital** para el volumen muscular. Para la hipetrofia.
 
-Como más estudios salen más claramente se ve[1](<javascript:void(0)>)Radaelli R, Fleck SJ, Leite T, Leite RD, Pinto RS, Fernandes L, Simão R. Dose-response of 1, 3, and 5 sets of resistance exercise on strength, local muscular endurance, and hypertrophy. J Strength Cond Res. 2015 May;29(5):1349-58. doi: 10.1519/JSC.0000000000000758. PMID: 25546444..
+Como más estudios salen más claramente se ve[ref-1](#ref-1){.ref}.
 
 > A más volumen de entrenamiento, más hipertrofia. Es decir, que volumen de entreno = volumen muscular.
 
@@ -317,12 +299,12 @@ Si hoy me saco 3 repeticiones con 50kg y si mañana soy capaz de: o bien sacarme
 
 Si mi rango en un ejercicio es de 8-12 repeticiones:
 
-- **Entreno A:** 8 repeticiones a 10kg
-- **Entreno B:** 9 repeticiones a 10kg
-- **Entreno C:** 10 repeticiones a 10kg
-- **Entreno D:** 11 repeticiones a 10kg
-- **Entreno E:** 12 repeticiones a 10kg
-- **Entreno F:** 8 repeticiones a 11kg
+- **Entreno A:** 8 
+- **Entreno B:** 9 
+- **Entreno C:** 10 
+- **Entreno D:** 11 
+- **Entreno E:** 12 
+- **Entreno F:** 8 
 
 Vuelta a empezar.
 
@@ -350,7 +332,7 @@ Por eso me gusta la rutina de empuje, tirón, pierna, porque **se adapta a mi v
 
 - **3 días a la semana**: lunes empuje, miércoles tirón, viernes pierna y finde libre.
 - **4 días a la semana**: o en vez de finde libre, entrenar también el domingo y ya lo convertimos en 4 días a la semana y frecuencia 1.5 que a mí me gusta mucho.
-- **5 días a la semana**: y si se quiere ir más, se va más y punto. *Why not*.
+- **5 días a la semana**: y si se quiere ir más, se va más y punto. _Why not_.
 
 Estaba yendo unos 5-6 días a la semana. Acostumbraba a hacer **tres sí y uno no**, pero como me siento tan bien después de cada sesión de entreno, pues terminé yendo cada día.
 
@@ -358,7 +340,7 @@ Estaba yendo unos 5-6 días a la semana. Acostumbraba a hacer **tres sí y uno n
 
 ¿Y por qué decidí montar la rutina con esta estructura en primera instancia y no coger otro modelo con otra distribución de músculos?
 
-Pues considero que una *push*, *pull*, *legs* es la reina por varias razones. Tiene algunas ventajas que con otras distribuciones no tenemos.
+Pues considero que una _push_, _pull_, _legs_ es la reina por varias razones. Tiene algunas ventajas que con otras distribuciones no tenemos.
 
 ### Saltarse días aleatorios
 
@@ -370,11 +352,11 @@ Si hubiera cogido una Weider donde entrenamos sólo 1 músculo al día y una sem
 
 ### Alta frecuencia
 
-La ciencia es clara con respecto a la alta frecuencia[2](<javascript:void(0)>)Schoenfeld BJ, Ogborn D, Krieger JW. Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Med. 2016 Nov;46(11):1689-1697. doi: 10.1007/s40279-016-0543-8. PMID: 27102172., es decir, con las veces que entrenamos por semana para sacar más jugo de nuestros músculos y ser lo más óptimos posibles.
+La ciencia es clara con respecto a la alta frecuencia[ref-2](#ref-2){.ref}, es decir, con las veces que entrenamos por semana para sacar más jugo de nuestros músculos y ser lo más óptimos posibles.
 
 Pero como digo, el volumen tiene que ser el rey. Lo que pasa es que la gente piensa que el volumen de entreno es por sesión (por día) de entreno. En verdad cuando hablamos de volumen de entrenamiento estamos hablando **de volumen total** de varios días. Semanal por ejemplo.
 
-Esto lo expliqué a fondo cuando hablé de las bases del entrenamiento para [ganar masa muscular según la ciencia](https://pau.ninja/entrenamiento-ganar-masa-muscular/) (#107).
+Esto lo expliqué a fondo cuando hablé de las bases del entrenamiento para [ganar masa muscular según la ciencia](./entrenamiento-ganar-masa-muscular) (#107).
 
 ### Es motivante
 
@@ -388,7 +370,7 @@ Como limitamos la cantidad de series y volumen semanal de entrenamiento, esto ha
 
 Pero a parte de ser motivante también es minimalista. Menos es más en muchos aspectos de la vida y en el entrenamiento no es menos.
 
-Precisamente por la filosofía minimalista funciona tan bien usar una rutina de empuje, tirón, pierna combinado con la dieta de volumen o con el hecho [de entrenar pesas en ayunas](https://pau.ninja/entrenar-pesas-en-ayunas/) si estamos acostumbrados.
+Precisamente por la filosofía minimalista funciona tan bien usar una rutina de empuje, tirón, pierna combinado con la dieta de volumen o con el hecho [de entrenar pesas en ayunas](./entrenar-pesas-en-ayunas) si estamos acostumbrados.
 
 ## Desventajas de la rutina
 
@@ -407,15 +389,3 @@ En cuestión de una o dos semanas si es las primera vez que hacemos una de tiró
 Si venimos de entrenar Weider o torso-pierna la primera semana se hace rara. Yo tuve la sensación que no había hecho suficiente volumen para cada grupo muscular porque… bueno. Era así.
 
 Aún sabiendo y siendo consciente que al cabo de poco tiempo tenía que volver a tocar todos esos músculos desde distintos ángulos, la primera semana me hizo sentir un poco raro en este sentido.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Radaelli R, Fleck SJ, Leite T, Leite RD, Pinto RS, Fernandes L, Simão R. Dose-response of 1, 3, and 5 sets of resistance exercise on strength, local muscular endurance, and hypertrophy. J Strength Cond Res. 2015 May;29(5):1349-58. doi: 10.1519/JSC.0000000000000758. PMID: 25546444.
-
-- 2
-
-  Schoenfeld BJ, Ogborn D, Krieger JW. Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Med. 2016 Nov;46(11):1689-1697. doi: 10.1007/s40279-016-0543-8. PMID: 27102172.

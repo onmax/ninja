@@ -1,14 +1,19 @@
 ---
-title: "Keto adaptación: claridad mental, foco y energía La dieta cetogénica cíclica"
+title: "Keto adaptación: claridad mental, foco y energía"
+url: https://pau.ninja/dieta-cetogenica-ciclica
+slug: dieta-cetogenica-ciclica
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: nueces-grasas-y-cerebros.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/nueces-grasas-y-cerebros.jpg
 published: 2021-10-05T07:26:50+00:00
 modified: 2023-09-21T04:37:06+00:00
+scrappedAt: 2024-10-14T09:21:04.348Z
 audioLink: https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia_md_70911893_wp_1.mp3
-slug: dieta-cetogenica-ciclica
+bibliography: ["– 0,4 mmol/L"]
 ---
-
-[https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia_md_70911893_wp_1.mp3](https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia_md_70911893_wp_1.mp3)
+[https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia\_md\_70911893\_wp\_1.mp3](https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia_md_70911893_wp_1.mp3)
 
 Nos encanta repetir que no todos los carbohidratos son iguales… Que mientras nos alejemos de los refinados no tiene que haber ningún problema.
 
@@ -30,7 +35,7 @@ Pero, ¿y si pudiéramos vivir más sanos que nunca con casi nada de carbohidrat
 
 ¿En que se basa esta manera de comer? a modos prácticos menos de 20-30 gramos de hidratos al día, un 20-25% de proteínas, y el retos de grasas.
 
-![piramide-cetogenica](https://pau.ninja/wp-content/uploads/2021/10/piramide-cetogenica.png)
+![piramide-cetogenica](./wp-content/uploads/2021/10piramide-cetogenica.png)
 
 ¿Por qué creo que a nivel salud es mucho más interesante que no una dieta alta en hidratos? sólo hace falta ver la ciencia largoplacistas en dietas altas en carbohidratos (la mayoría de la población), **contra** las que son altas en grasas que están dando tan buenos [resultados](https://drc.bmj.com/content/5/1/e000354) en marcadores de inflamación, de longevidad e incluso de enfermedades como el cáncer, la demencia y el Alzheimer. La [evidencia](https://www.healthline.com/nutrition/23-studies-on-low-carb-and-low-fat-diets) nos enciende cuando escuchamos:
 
@@ -38,7 +43,7 @@ Pero, ¿y si pudiéramos vivir más sanos que nunca con casi nada de carbohidrat
 
 ¿Cómo no nos vamos a poner a la defensiva si toda la comida que tiene un sabor increíble es alta en carbohidratos? bueno. Los debemos defender por su sabor… o tal vez porque la ciencia nos [confirmaba](https://www.npr.org/sections/thesalt/2013/06/26/195292850/can-you-be-addicted-to-carbs-scientists-are-checking-that-out) que los hidratos estimulan áreas del cerebro de la **adición.**
 
-Como un heroinómano al que le intentamos sacar la cucharilla, me saltaron al cuello cuando dije que **a largo plazo** [en verdad, los carbohidratos son malos](https://pau.ninja/la-verdad-sobre-los-carbohidratos/) (#181).
+Como un heroinómano al que le intentamos sacar la cucharilla, me saltaron al cuello cuando dije que **a largo plazo** [en verdad, los carbohidratos son malos](./la-verdad-sobre-los-carbohidratos) (#181).
 
 > Y lo entiendo perfectamente. La nutrición es muy difícil de debatir porque para muchos, como en toda adicción, no se trata de lógica sino de **sentimientos**.
 
@@ -46,11 +51,11 @@ A todos nos encantan los platos de pasta, pan, helados o fruta que nos hace sent
 
 Por esto cuando nos quieren tocar los carbohidratos también **actuamos como niños**. Con emoción, en vez de lógica. Ahí es cuando empezamos a soltar falacias como «dietas balanceadas» o «sólo los refinados son malos» sin saber explicar el por qué de las cosas.
 
-![datos-vs-sentimientos](https://pau.ninja/wp-content/uploads/2021/10/datos-vs-sentimientos.jpg)
+![datos-vs-sentimientos](./wp-content/uploads/2021/10datos-vs-sentimientos.jpg)
 
 Pero como diría Ben Shapiro: «a los datos no le importan nuestros sentimientos».
 
-Después de 6 años con dietas veganas y vegetarianas ya sabréis que a día de hoy [sigo la dieta carnívora en la que sólo se come carne](https://pau.ninja/dieta-carnivora/). Pero hoy **no** hablaremos de ella.
+Después de 6 años con dietas veganas y vegetarianas ya sabréis que a día de hoy [sigo la dieta carnívora en la que sólo se come carne](./dieta-carnivora). Pero hoy **no** hablaremos de ella.
 
 La menciono porque lo que muchos no saben es que la dieta carnívora es **un tipo de dieta cetogénica**. ¿Por qué? pues porque como sólo se consume carne, se termina no comiendo carbohidratos. Sólo grasas.
 
@@ -68,56 +73,7 @@ Todos los procesos que explicaré aquí, se cumplen en la carnívora, y en todas
 
 La cetogénica es «balanceada» si excluimos los hidratos, claro.
 
-Hoy hacemos *zoom out*, para ver las cosas en perspectiva y entender por qué las dietas que se basan en muchas grasas y pocos hidratos funcionan tan bien.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Que es la dieta cetogénica](#Que_es_la_dieta_cetogenica 'Que es la dieta cetogénica')
-  - [Cómo funciona la cetosis](#Como_funciona_la_cetosis 'Cómo funciona la cetosis')
-  - [Estar en cetosis nutricional](#Estar_en_cetosis_nutricional 'Estar en cetosis nutricional')
-  - [Medidor cetonas en sangre](#Medidor_cetonas_en_sangre 'Medidor cetonas en sangre')
-  - [Gluconeogénesis](#Gluconeogenesis 'Gluconeogénesis')
-  - [La dieta cetogénica es saludable](#La_dieta_cetogenica_es_saludable 'La dieta cetogénica es saludable')
-  - [Resistencia a la insulina](#Resistencia_a_la_insulina 'Resistencia a la insulina')
-- [Beneficios de la dieta cetogénica según estudios científicos](#Beneficios_de_la_dieta_cetogenica_segun_estudios_cientificos 'Beneficios de la dieta cetogénica según estudios científicos')
-  - [Control de la insulina](#Control_de_la_insulina 'Control de la insulina')
-  - [Dieta cetogénica para perder peso](#Dieta_cetogenica_para_perder_peso 'Dieta cetogénica para perder peso')
-  - [Longevidad](#Longevidad 'Longevidad')
-  - [Cognitivo](#Cognitivo 'Cognitivo')
-  - [Para tratar y prevenir el cáncer](#Para_tratar_y_prevenir_el_cancer 'Para tratar y prevenir el cáncer')
-  - [Para tratar y prevenir la epilepsia](#Para_tratar_y_prevenir_la_epilepsia 'Para tratar y prevenir la epilepsia')
-  - [Prevenir demencia y Alzheimer](#Prevenir_demencia_y_Alzheimer 'Prevenir demencia y Alzheimer')
-- [Contraindicaciones de la dieta cetogénica](#Contraindicaciones_de_la_dieta_cetogenica 'Contraindicaciones de la dieta cetogénica')
-  - [Antojo de carbohidratos](#Antojo_de_carbohidratos 'Antojo de carbohidratos')
-  - [Hígado](#Higado 'Hígado')
-  - [PPAR-alpha](#PPAR-alpha 'PPAR-alpha')
-  - [Microbiota](#Microbiota 'Microbiota')
-- [Pasos para hacer la dieta cetogénica para principiantes](#Pasos_para_hacer_la_dieta_cetogenica_para_principiantes 'Pasos para hacer la dieta cetogénica para principiantes')
-  - [Dejar de comer carbohidratos](#Dejar_de_comer_carbohidratos 'Dejar de comer carbohidratos')
-  - [Controlar los gramos de hidratos en cetosis](#Controlar_los_gramos_de_hidratos_en_cetosis 'Controlar los gramos de hidratos en cetosis')
-  - [Controlar minerales y vitaminas](#Controlar_minerales_y_vitaminas 'Controlar minerales y vitaminas')
-  - [Bajar la proteína](#Bajar_la_proteina 'Bajar la proteína')
-  - [Ayuno intermitente y dieta keto](#Ayuno_intermitente_y_dieta_keto 'Ayuno intermitente y dieta keto')
-  - [Pasar por la "ceto adaptación"](#Pasar_por_la_%22ceto_adaptacion%22 'Pasar por la "ceto adaptación"')
-- [Cómo saber si estoy en cetosis sin las tiras](#Como_saber_si_estoy_en_cetosis_sin_las_tiras 'Cómo saber si estoy en cetosis sin las tiras')
-  - [Sed y boca seca](#Sed_y_boca_seca 'Sed y boca seca')
-  - [Ir más veces a hacer pis](#Ir_mas_veces_a_hacer_pis 'Ir más veces a hacer pis')
-  - [Mal aliento](#Mal_aliento 'Mal aliento')
-  - [Poco apetito](#Poco_apetito 'Poco apetito')
-  - [Usando un medidor de sangre](#Usando_un_medidor_de_sangre 'Usando un medidor de sangre')
-- [Dieta cetogénica de por vida](#Dieta_cetogenica_de_por_vida 'Dieta cetogénica de por vida')
-- [Dieta cetogénica cíclica](#Dieta_cetogenica_ciclica 'Dieta cetogénica cíclica')
-- [Cetosis culturismo](#Cetosis_culturismo 'Cetosis culturismo')
-  - [Cardio en cetosis](#Cardio_en_cetosis 'Cardio en cetosis')
-  - [Ganar masa muscular en cetosis](#Ganar_masa_muscular_en_cetosis 'Ganar masa muscular en cetosis')
-  - [Entrenamiento de fuerza en cetosis](#Entrenamiento_de_fuerza_en_cetosis 'Entrenamiento de fuerza en cetosis')
-  - [Pre y post entreno](#Pre_y_post_entreno 'Pre y post entreno')
-- [Mi antes y después con la dieta keto](#Mi_antes_y_despues_con_la_dieta_keto 'Mi antes y después con la dieta keto')
-  - [Keto adaptación](#Keto_adaptacion 'Keto adaptación')
-  - [Gripe cetogénica](#Gripe_cetogenica 'Gripe cetogénica')
-  - [30 días de experiencias con la dieta cetogénica](#30_dias_de_experiencias_con_la_dieta_cetogenica '30 días de experiencias con la dieta cetogénica')
+Hoy hacemos _zoom out_, para ver las cosas en perspectiva y entender por qué las dietas que se basan en muchas grasas y pocos hidratos funcionan tan bien.
 
 ## Que es la dieta cetogénica
 
@@ -125,7 +81,7 @@ La dieta cetogénica es un plan nutricional que consiste en comer mayoritariamen
 
 ¿De dónde salió? Fue en los años 70 que salió a la luz la famosa dieta del doctor [Atkins](https://www.mayoclinic.org/healthy-lifestyle/weight-loss/in-depth/atkins-diet/art-20048485), que era básicamente una versión comercial de la dieta cetogénica.
 
-![comercializando-dietas](https://pau.ninja/wp-content/uploads/2021/10/comercializando-dietas.png)
+![comercializando-dietas](./wp-content/uploads/2021/10comercializando-dietas.png)
 
 No entraremos a discutir como la Atkins se ha comercializado y ordeñado más que la saga de Star Wars, pero como siempre digo… la respuesta acostumbra a salir siguiendo una filosofía minimalista.
 
@@ -139,11 +95,11 @@ Distribuyendo la dieta por sus macronutrientes nos quedaríamos que la fuentes d
 
 Si lo comparamos con el consumo [recomendado](https://www2.uned.es/pea-nutricion-y-dietetica-I/guia/guia_nutricion/la_dieta_equilibrada.htm) de carbohidratos y grasas, lo que la dieta cetogénica nos propone es algo totalmente al revés a lo que hace la mayoría de la población.
 
-![carbohidratos-en-dieta](https://pau.ninja/wp-content/uploads/2021/10/carbohidratos-en-dieta.jpeg)
+![carbohidratos-en-dieta](./wp-content/uploads/2021/10carbohidratos-en-dieta.jpeg)
 
 ¿Tiene sentido eliminar casi por completo uno de los tres macronutrientes que existen?
 
-Cuando hablé de la [hipótesis del ser humano como carnívoro **facultativo**](https://pau.ninja/el-ser-humano-es-carnivoro/) (lo que muchos confunden por omnívoro), vimos que el hecho de que nuestro cuerpo pueda utilizar carbohidratos, no significa que sea lo óptimo o que estén designados a ser nuestro combustible principal.
+Cuando hablé de la [hipótesis del ser humano como carnívoro **facultativo**](./el-ser-humano-es-carnivoro) (lo que muchos confunden por omnívoro), vimos que el hecho de que nuestro cuerpo pueda utilizar carbohidratos, no significa que sea lo óptimo o que estén designados a ser nuestro combustible principal.
 
 Asociamos los hidratos a tener (o no) energía, pero lo que muchos no saben es que la grasa da mucha más energía por [gramo](https://www.nal.usda.gov/fnic/how-many-calories-are-one-gram-fat-carbohydrate-or-protein) consumido:
 
@@ -210,7 +166,7 @@ Nos miramos la sangre y hay distintos rangos que nos ayudan a interpretar en qu�
 
 **Tipo de cetosis**
 
-0 – 0,4 mmol/L
+0 
 
 No estamos en cetosis
 
@@ -236,17 +192,17 @@ Personalmente cuando he estado meses sin comer carbohidratos, mis rangos van de 
 
 Los primeras meses me hacía ilusión comprobar la cantidad de cetonas en sangre y me compré un medidor de estos.
 
-Para seguir una dieta cetogénica para nada hace falta comprar ningún *gadget* ni medidor, pero como soy un poco *friki* me hacía gracia ver de cerca como se adaptaba mi cuerpo.
+Para seguir una dieta cetogénica para nada hace falta comprar ningún _gadget_ ni medidor, pero como soy un poco _friki_ me hacía gracia ver de cerca como se adaptaba mi cuerpo.
 
 Bestseller No. 1
 
-[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwMjg1NQ=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre 'Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...')
+[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MjA1Ng=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmoll) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
-[Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre 'Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...')
+[Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
-46,90 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+46,90 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Comprar en Amazon")
 
 El medidor es un aparatito como el de los que son diabéticos, que se pinchan una gotita de sangre, la ponen en una tira con un aparato y nos dice la glucosa en sangre.
 
@@ -258,7 +214,7 @@ No me obsesionaría con mirar las cetonas con el medidor porque el cuerpo hará 
 
 También existen tiras reactivas a pis, pero las veo menos fiables.
 
-![tiras-orina-cetonas](https://pau.ninja/wp-content/uploads/2021/10/tiras-orina-cetonas.jpg)
+![tiras-orina-cetonas](./wp-content/uploads/2021/10tiras-orina-cetonas.jpg)
 
 Foto: yo confuso al no poder asociar bien el color cambiante. O debe ser porque me acerqué la tira de pis demasiado a la nariz.
 
@@ -278,13 +234,13 @@ Los hidratos son moléculas de azúcar y nuestro cuerpo se encarga de convertirl
 
 Necesitamos glucosa sí o sí en el cuerpo, eso está claro. No sólo porque tenemos que necesitemos una parte para nuestro cerebro, pero también para las células rojas, músculos, órganos, tejidos…
 
-La glucosa es la forma de energía más rápida que tenemos, y en un entorno de supervivencia de nuestros antepasados, de vez en cuando tocaba hacer un *sprint*. Para escapar o para cazar.
+La glucosa es la forma de energía más rápida que tenemos, y en un entorno de supervivencia de nuestros antepasados, de vez en cuando tocaba hacer un _sprint_. Para escapar o para cazar.
 
 En un entorno de cetosis constante con mucha grasa y proteína de animales, el cuerpo ideó un sistema para tener tipo de combustible más rápido que pudiéramos usar, que en el humano es la glucosa.
 
 Aquí es cuando entra en juego nuestra amiga [gluconeogénesis](https://www.uv.es/marcof/Tema17.pdf).
 
-![gluconeogenesis](https://pau.ninja/wp-content/uploads/2021/10/gluconeogenesis.jpg)
+![gluconeogenesis](./wp-content/uploads/2021/10gluconeogenesis.jpg)
 
 Aunque la gluconeogénesis tenga nombre de el villano final de una triología de Marvel, es el [proceso](https://www.sciencedirect.com/topics/medicine-and-dentistry/gluconeogenesis) en el que el hígado y los riñones hacen de laboratorio del cuerpo.
 
@@ -294,13 +250,13 @@ Digno de Walter White de Breaking Bad.
 
 ### La dieta cetogénica es saludable
 
-Es normal entrar un poco en *shock* al escuchar estos términos y procesos que suenan tan técnicos.
+Es normal entrar un poco en _shock_ al escuchar estos términos y procesos que suenan tan técnicos.
 
-Suenan a funcionalidades de emergencia del cuerpo pero más bien la opción de emergencia es la que estamos usando desde hace décadas consumiendo montones de hidratos y [olvidando que las grasas saturadas son buenas y esenciales](https://pau.ninja/grasas-saturadas-son-buenas/).
+Suenan a funcionalidades de emergencia del cuerpo pero más bien la opción de emergencia es la que estamos usando desde hace décadas consumiendo montones de hidratos y [olvidando que las grasas saturadas son buenas y esenciales](./grasas-saturadas-son-buenas).
 
 > En cambio esta dieta que suena tan «nueva» ha sido la que el ser humano ha seguido durante 2 millones de años.
 
-Podemos debatir si mucha o poca carne, o qué tipo de alimentos consumir en una dieta cetogénica aunque ya dejé mi posición clara cuando os expliqué [por qué decidí ya no ser vegano](https://pau.ninja/razones-para-no-ser-vegano/) y pasarme a la carnívoro.
+Podemos debatir si mucha o poca carne, o qué tipo de alimentos consumir en una dieta cetogénica aunque ya dejé mi posición clara cuando os expliqué [por qué decidí ya no ser vegano](./razones-para-no-ser-vegano) y pasarme a la carnívoro.
 
 Pero en lo que no hay duda es que el _homo sapiens_ de hace unos pocos miles de años, antes de descubrir la agricultura estaba en cetosis constante.
 
@@ -310,7 +266,7 @@ Y sí, la leche materna también tiene grasas saturadas. Y azúcar claro, sería
 
 Yo me lo tomo como una pista naturaleza sobre la dieta primitiva del ser humano, porque en el mundo moderno no hay nada más primitivo que un bebé siendo amamantado.
 
-Como un bebé, la dieta cetogénica nos hace [tener más flexibilidad en nuestro metabolismo](https://pau.ninja/flexibilidad-metabolica/) (#172). **Estar más sanos metabólicamente** y esto es una ventaja para nuestra salud a largo plazo y potencialmente, no rebotar y volver a ganar peso.
+Como un bebé, la dieta cetogénica nos hace [tener más flexibilidad en nuestro metabolismo](./flexibilidad-metabolica) (#172). **Estar más sanos metabólicamente** y esto es una ventaja para nuestra salud a largo plazo y potencialmente, no rebotar y volver a ganar peso.
 
 > Para mí esto es la ventaja más grande de la dieta cetogénica cíclica: **ganamos salud metabólica**.
 
@@ -338,7 +294,7 @@ Necesitamos combustible constante y claro, después de que hayamos distribuido l
 
 Lo interesante es que a parte de sentirnos tan cansados, al cabo de muy poco tiempo volvemos a tener hambre porque al contrario que las proteínas y las grasas, los hidratos no sacian.
 
-![resistencia-insulina](https://pau.ninja/wp-content/uploads/2021/10/resistencia-insulina.jpg)
+![resistencia-insulina](./wp-content/uploads/2021/10resistencia-insulina.jpg)
 
 Volvemos a comer, y a penas sin dar tiempo a la insulina a que baje, volvemos a generar un pico.
 
@@ -356,9 +312,9 @@ Muchos ya lo intuís y más adelante [os contaré mi experiencia](#Mi_antes_y_de
 
 ### Control de la insulina
 
-Con la dieta *keto* conseguimos controlar los niveles de insulina y los de azúcar en sangre.
+Con la dieta _keto_ conseguimos controlar los niveles de insulina y los de azúcar en sangre.
 
-![control-insulina](https://pau.ninja/wp-content/uploads/2021/10/control-insulina.jpg)
+![control-insulina](./wp-content/uploads/2021/10control-insulina.jpg)
 
 Foto: en la parte de arriba, picos de glucosa antes de empezar una dieta cetogénica. En la parte de abajo, después de empezarla. Mucho más estable todo.
 
@@ -390,7 +346,7 @@ Así que si probáis de eliminar los hidratos y subir las grasas, sí. En la bal
 
 El beneficio va mucho más allá de «simplemente» bajar de peso y estar más s3xy delante del espejo.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
 La dieta cetogénica ha demostrado ser una herramienta muy poderosa para nuestra longevidad. ¿Por qué?
 
@@ -400,7 +356,7 @@ Cynthia Kenyon nos [mostró](https://www.nature.com/articles/366461a0) en los 90
 
 Se [validó](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5052015/) varias veces con otros estudios, pero la simplificación sería: a más insulina, menos vida y resulta que los carbohidratos no hacen crear estos picos insulínicos.
 
-¿Por qué esta correlación tan directa? pues porque más y más activamos la ruta para la insulina. La insulina, esta tía otra vez… por eso ya os comente (#172) que estoy convencido que [a más flexibilidad metabólica, más salud](https://pau.ninja/flexibilidad-metabolica/).
+¿Por qué esta correlación tan directa? pues porque más y más activamos la ruta para la insulina. La insulina, esta tía otra vez… por eso ya os comente (#172) que estoy convencido que [a más flexibilidad metabólica, más salud](./flexibilidad-metabolica).
 
 Que es el maldito santo grial del fitness.
 
@@ -412,19 +368,19 @@ Mi beneficio favorito y también muy **robusto** científicamente de la dieta c
 
 En ratas como yo. No. Me refiero al animal, pero también yo mismo lo he vivido y la mayoría que entra en una dieta alta en grasas y baja en carbohidratos lo experimenta, aunque tarda unas semanas a aparecer este efecto de claridad mental, foco y demás.
 
-Es un *biohack* de productividad.
+Es un _biohack_ de productividad.
 
 En el estudio que os comentaba se les cambió la dieta a las ratas cuando tenían 1 año de edad, que si hacemos regla de tres sería el equivalente de un humano de 30 años que ha comido de cierta manera toda la vida y de pronto le cambian la dieta.
 
 Y aún así, mejora importantísima tanto de años de vida (vivieron más que las otras ratas), como cognitiva. Del cerebro.
 
-![memoria-ratas-cetosis](https://pau.ninja/wp-content/uploads/2021/10/memoria-ratas-cetosis.png)
+![memoria-ratas-cetosis](./wp-content/uploads/2021/10memoria-ratas-cetosis.png)
 
 Gráfico del estudio que os enlazaba.
 
 De hecho se vio como las ratas más ancianas (como Maestro Astilla, Estallicó de las Tortugas Ninja) que estaban bajo una dieta cetogénica tenían **mejor memoria** que las ratas más jóvenes que no estaban en cetosis.
 
-Digamos que una dieta así **imita** lo que sucede cuando hacemos [un ayuno intermitente](https://pau.ninja/ayuno-intermitente-experiencias/) (#176). ¿Cómo lo imita? pues porque estamos produciendo cetonas que hemos visto que es el **combustible Super** para el cerebro.
+Digamos que una dieta así **imita** lo que sucede cuando hacemos [un ayuno intermitente](./ayuno-intermitente-experiencias) (#176). ¿Cómo lo imita? pues porque estamos produciendo cetonas que hemos visto que es el **combustible Super** para el cerebro.
 
 Fijaros lo lista que es la naturaleza, por qué muchos os preguntaréis, ¿cuál es la lógica de volverse más alerta si tengo hambre? a nivel supervivencia, ¿no querría ahorrar energía?
 
@@ -442,7 +398,7 @@ De momento dejaremos la puerta abierta a esta idea para no decir un sí rotundo.
 
 Donde sí se ha demostrado que funciona, es en el campo de las personas con epilepsia. La cetogénica salió inicialmente mucho antes de que el Dr. Atkins la empezara a promocionar.
 
-Fue en los años 20 que se uso como [tratamiento](<https://www.jbc.org/article/S0021-9258(18)85833-1/pdf>) para manejar la epilepsia y desde entonces hemos descubierto montones de aplicaciones beneficiosas.
+Fue en los años 20 que se uso como [tratamiento](https://www.jbc.org/article/S0021-9258\(18\)85833-1/pdf) para manejar la epilepsia y desde entonces hemos descubierto montones de aplicaciones beneficiosas.
 
 Se demostró que la «keto» era superior a las terapias con medicamentos anticonvulsivos para la reducción de los ataques en la mayoría de pacientes.
 
@@ -466,7 +422,7 @@ Estas personas eran señores mayores ya, pero vieron que había una relación di
 
 ¿Cómo lo podemos revertir? **más grasas, menos carbohidratos**.
 
-![pirámide nutricional](https://pau.ninja/wp-content/uploads/2021/10/piramide-nutricional.jpeg)
+![pirámide nutricional](./wp-content/uploads/2021/10piramide-nutricional.jpeg)
 
 Revertir la pirámide nutricional española que todos esos años nos hemos tragado con patatas. Literalmente. Y pan. Mucho pan.
 
@@ -484,13 +440,13 @@ En épocas donde se pasaba más hambre, el pan era lo más barato para asegurar 
 
 Como yo con el café. Aunque por suerte este hábito está de mi lado (de momento). Quizás en unos años será lo peor que se puede beber.
 
-Y si bien no estoy diciendo que pan = demencia, si que estoy diciendo que estamos creando un hábito que forma un entorno de picos de insulina, glucosa y todo este *jazz* que hemos visto.
+Y si bien no estoy diciendo que pan = demencia, si que estoy diciendo que estamos creando un hábito que forma un entorno de picos de insulina, glucosa y todo este _jazz_ que hemos visto.
 
 El caso es que ver a una persona que quieres perder la memoria, los recuerdos hasta el punto de preguntarte que quieres, crea una experiencia que asegura que alguien como yo se tome todos estudios científicos muy en serio y empiece a mirar los carbohidratos más simples con otros ojos.
 
 Un tipo de dieta como la cetogénica ayudó a retrasas algunas enfermedades relacionadas con la edad porque [mantiene](https://www.nature.com/articles/s41387-020-00142-z) la insulina a ralla. Recordamos que ahora se sabe que enfermedades como el Alzheimer están muy [relacionadas](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3540744/) con esta hormona.
 
-![estudio-ratas-cetogenica](https://pau.ninja/wp-content/uploads/2021/10/estudio-ratas-cetogenica.jpg)
+![estudio-ratas-cetogenica](./wp-content/uploads/2021/10estudio-ratas-cetogenica.jpg)
 
 Pero no sólo son ventajas que no notamos, sino que se «siente» en el día a día cuando hacemos que nuestro cerebro haga el «clic» en el interruptor para dejar de demandar glucosa, y quiere cetonas.
 
@@ -506,7 +462,7 @@ Pues sí. Pero sólo por algún tipo específico de persona.
 
 De la misma manera que a algunos una dieta X les sienta de maravilla y a otros todos los indicadores de salud les empiezan a empeorar, en la _keto_ también hay un factor de individualidad.
 
-Y sin sonar pedante, quiero decir que sigo pensando que mientras la *keto* no será para todo el mundo porque se incluyen todo tipo de alimentos, la [carnívora](https://pau.ninja/dieta-carnivora/) sí lo será. Pero esto ya otro día…
+Y sin sonar pedante, quiero decir que sigo pensando que mientras la _keto_ no será para todo el mundo porque se incluyen todo tipo de alimentos, la [carnívora](./dieta-carnivora) sí lo será. Pero esto ya otro día…
 
 ### Antojo de carbohidratos
 
@@ -546,15 +502,15 @@ Y es que la crítica que más resonaba conmigo sobre comer mayoritariamente gras
 
 Ahora mismo rebajado
 
-[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwMjg1NQ=)](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'I Contain Multitudes: The Microbes Within Us and a Grander View of Life')
+[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MjA1Ng=)](https://www.amazon.es/dp1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
-[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'I Contain Multitudes: The Microbes Within Us and a Grander View of Life')
+[I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
 Libro: el mejor libro que me he leído sobre la microbiota. Lenguaje muy claro aunque en inglés.
 
-13,49 €
+13,14 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Pero lo que la ciencia ha [demostrado](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6678592/) es que al cabo de unas 12 semanas, empiezan a volver a aumentar el número de los otros tipos de bacterias en el estomago aumentando otra vez la diversidad después de esas 12 semanas. Y que al cabo de unos 6 semanas o incluso menos, el balance de la flora es total.
 
@@ -591,15 +547,15 @@ Se puede calcular cuál es nuestro ratio de macronutrientes (grasas, proteínas 
 
 Entrar en una nueva manera de comer y estilo de vida es también una oportunidad para asegurarnos de que incluimos aquellas comidas que nos ayudarán a estar sanos. Yo lo que priorizaría sería carne y electrolitos.
 
-[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwMjg1NQ=)](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...')
+[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2MjA1Ng=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 
-[Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...')
+[Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 
 Nada como un poquito de agua de mar.
 
 6,66 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Así nos aseguramos que mientras el glucógeno va saliendo de nuestro cuerpo estamos cubiertos en cuanto a sodio y otros electrolitos.
 
@@ -615,7 +571,7 @@ En un _paper_ pudimos ver como las personas que están en dietas donde se consum
 
 Así que si **de forma natural** se termina comiendo menos veces, creo que se se balancea lo malo de comer muchas veces, y mucha proteína con este riesgo.
 
-### Ayuno intermitente y dieta *keto*
+### Ayuno intermitente y dieta _keto_
 
 También si se quiere entrar en cetosis rápido, un buen truco es combinarlo con el ayuno intermitente (si estamos acostumbrados).
 
@@ -673,7 +629,7 @@ De las mejores sensaciones que existe también. Por primera vez he sentido que m
 
 ### Usando un medidor de sangre
 
-Y lógico, si queremos controlar las cetonas en sangre rollo numérico, mejor usar un [medidor](#Medidor_cetonas_en_sangre) antes que tiras. Pero de nuevo, yo no me obsesionaría con el número a menos que seas diabético por ejemplo, que entonces si que tienes que controlar que no te vayan las cetonas + glucosa por las nubes porque existe el concepto de cetoacidosis que puede ser peligroso. Pero como siempre, mejor consultar todo esto con un «doctor *low carb*» experto en el tema.
+Y lógico, si queremos controlar las cetonas en sangre rollo numérico, mejor usar un [medidor](#Medidor_cetonas_en_sangre) antes que tiras. Pero de nuevo, yo no me obsesionaría con el número a menos que seas diabético por ejemplo, que entonces si que tienes que controlar que no te vayan las cetonas + glucosa por las nubes porque existe el concepto de cetoacidosis que puede ser peligroso. Pero como siempre, mejor consultar todo esto con un «doctor _low carb_» experto en el tema.
 
 ## Dieta cetogénica de por vida
 
@@ -681,7 +637,7 @@ Y lógico, si queremos controlar las cetonas en sangre rollo numérico, mejor us
 
 Vivir en cetosis para siempre es **casi imposible por temas culturales**.
 
-Hay pocos restaurantes que sean amigables a *lo keto*. Y más aún con el miedo que tenemos a las grasas [saturadas](https://pau.ninja/grasas-saturadas-son-buenas/). Esto sin contar que a efectos teóricos no podríamos beber ni una cerveza nunca más.
+Hay pocos restaurantes que sean amigables a _lo keto_. Y más aún con el miedo que tenemos a las grasas [saturadas](./grasas-saturadas-son-buenas). Esto sin contar que a efectos teóricos no podríamos beber ni una cerveza nunca más.
 
 Es por esto que existe esta versión de esta dieta llamada «dieta cetogénica cíclica», en la que cada ciertas semanas podemos comer carbohidratos.
 
@@ -700,7 +656,7 @@ Comeremos menos grasas durante 1-2 días la semana, y subiremos el nivel de carb
 
 No es un mal plan la verdad para vivir sano y a la vez no olvidar del todo lo social.
 
-Vamos a hablar más al detalle de [la recarga o ciclado de carbohidratos](https://pau.ninja/ciclado-de-carbohidratos/).
+Vamos a hablar más al detalle de [la recarga o ciclado de carbohidratos](./ciclado-de-carbohidratos).
 
 ## Cetosis culturismo
 
@@ -716,7 +672,7 @@ Vemos a atletas de alto nivel que utilizan las grasas como motor de energía pri
 
 ### Ganar masa muscular en cetosis
 
-La dieta *keto* también tiene su lugar en culturismo, donde la podemos utilizar para ganar más masa muscular con un buen entrenamiento.
+La dieta _keto_ también tiene su lugar en culturismo, donde la podemos utilizar para ganar más masa muscular con un buen entrenamiento.
 
 > Si escucháis que no se puede ganar músculo en cetosis que sepáis que es un mito.
 
@@ -762,7 +718,7 @@ Pero yo sospecho que el pre-post entreno es un invento de las empresas de suplem
 
 Y en cuanto a experiencia personal yo tampoco vi nada especial en el comer antes o después de entrenar.
 
-## Mi antes y después con la dieta *keto*
+## Mi antes y después con la dieta _keto_
 
 Lo primero que vi yo es una bajada en el número de la balanza, pero eso es porque el cuerpo va perdiendo glucógeno. Se va depletando.
 
@@ -774,9 +730,9 @@ Lo más difícil de todo de este tipo de dieta es pasar una época grogui hacien
 
 El cerebro **estrujará** cada molécula de glucosa que pueda porque bueno… así lo hemos acostumbrado durante décadas.
 
-A lo que me refiero con esto es que hay una diferencia abismal entre estar en cetosis para llegar a la «[cetoadaptación](https://pau.ninja/cetoadaptacion/)» (Mark Zuckerberg y Elon Musk también están CEO-adaptados).
+A lo que me refiero con esto es que hay una diferencia abismal entre estar en cetosis para llegar a la «[cetoadaptación](./cetoadaptacion)» (Mark Zuckerberg y Elon Musk también están CEO-adaptados).
 
-![adaptacion-ceto](https://pau.ninja/wp-content/uploads/2021/10/adaptacion-ceto.jpg)
+![adaptacion-ceto](./wp-content/uploads/2021/10adaptacion-ceto.jpg)
 
 Yo tardé unas 5 semanas si no recuerdo más de que me notaba con un nivel de energía constante. Pero fijaros que podría ser que me hubiera adaptado antes, pero fue pasar a comer 90% carne que entonces note el cambio.
 
@@ -784,7 +740,7 @@ Muy probablemente porque lo que me hacía sentir cansado constantemente eran las
 
 Tengo que hablar de la carnívora pronto y a fondo, lo sé, pero quiero experimentar un poco más antes de exponérosla.
 
-> Por eso digo que si alguien va a probar una dieta *keto*, daros **90 días, no menos**.
+> Por eso digo que si alguien va a probar una dieta _keto_, daros **90 días, no menos**.
 
 ### Gripe cetogénica
 
@@ -815,3 +771,88 @@ Pero sabía que era algo que podía pasar.
 Si decidís poneros el reto para ver como os sentís y como reacciona vuestro cuerpo, lo bueno de la _keto_ es que está bien documentada. Si hay cualquier duda, hay montones de foros y Reddits (en inglés eso sí) que responderán a todo.
 
 Tanto si queréis bajar de peso o sentiros con más energía, por ahora no os retaré a comer sólo carne como hago yo, pero sí a probar durante 90 días, de dejar el dogma de que las grasas son malas.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/dieta-cetogenica-ciclica/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14960,"title":"5%20beneficios%20%2B%206%20pasos%20hacer%20dieta%20cetog%C3%A9nica%20%E3%80%90C%C3%ADclica%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/nueces-grasas-y-cerebros.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

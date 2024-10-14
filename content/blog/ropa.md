@@ -1,48 +1,37 @@
 ---
-title: "Ropa minimalista Cómo (y por qué) simplifiqué mi armario"
+title: "Ropa minimalista"
+url: https://pau.ninja/ropa
+slug: ropa
+categories: 
+- slug: estilo-de-vida
+    label: Estilo de vida
+  - slug: minimalismo
+    label: Minimalismo
 image: ropa-minimalista.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2018/01/ropa-minimalista.jpg
 published: 2019-01-02T14:36:00+00:00
 modified: 2023-10-02T05:34:48+00:00
-audioLink:
-slug: ropa
+scrappedAt: 2024-10-14T09:21:41.850Z
+audioLink: 
+bibliography: []
 ---
-
 Salgo de la ducha, miro el armario y digo: «joder, no tengo nada para vestir». ¿Cómo es posible si está lleno de ropa? Saco cada pantalón y camiseta para intentar combinar, pero no hay manera.
 
-Me hago a la idea de que tengo que ir de *shopping* para solucionar este «problema». Estoy horas en el centro comercial o la tienda local para encontrar una camiseta de un color que quede bien con lo que tengo. ¿Por qué decidí comprarme esos pantalones de color kaki?
+Me hago a la idea de que tengo que ir de _shopping_ para solucionar este «problema». Estoy horas en el centro comercial o la tienda local para encontrar una camiseta de un color que quede bien con lo que tengo. ¿Por qué decidí comprarme esos pantalones de color kaki?
 
 Lo mando todo a la mierda.
 
 Este problema del primer mundo se puede solucionar con **la ropa minimalista**.
 
-![mi ropa minimalista](https://pau.ninja/wp-content/uploads/2020/11/comic-minimalista.png)
+![mi ropa minimalista](./wp-content/uploads/2020/11comic-minimalista.png)
 
-Y no. No hace falta [vestir todo de negro como hago yo](https://pau.ninja/vestir-todo-de-negro-hombre/) ahora o como hacía a los 16 años cuando era emo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Problema: ropa que tengo](#Problema_ropa_que_tengo 'Problema: ropa que tengo')
-  - [Problema 1: comprar ropa](#Problema_1_comprar_ropa 'Problema 1: comprar ropa')
-  - [Problema 2: estilo de ropa](#Problema_2_estilo_de_ropa 'Problema 2: estilo de ropa')
-- [Solución: ropa minimalista](#Solucion_ropa_minimalista 'Solución: ropa minimalista')
-  - [Solución 1: comprar menos](#Solucion_1_comprar_menos 'Solución 1: comprar menos')
-  - [Solución 2: moda minimalista](#Solucion_2_moda_minimalista 'Solución 2: moda minimalista')
-  - [No hay que olvidarse de...](#No_hay_que_olvidarse_de 'No hay que olvidarse de...')
-- [Guía práctica del armario minimalista](#Guia_practica_del_armario_minimalista 'Guía práctica del armario minimalista')
-  - [Tengo demasiado](#Tengo_demasiado 'Tengo demasiado')
-  - [Cuantas prendas uso](#Cuantas_prendas_uso 'Cuantas prendas uso')
-  - [Más calidad que cantidad](#Mas_calidad_que_cantidad 'Más calidad que cantidad')
-  - [Menos colores](#Menos_colores 'Menos colores')
-- [¿Dónde comprar ropa minimalista?](#%C2%BFDonde_comprar_ropa_minimalista '¿Dónde comprar ropa minimalista?')
+Y no. No hace falta [vestir todo de negro como hago yo](./vestir-todo-de-negro-hombre) ahora o como hacía a los 16 años cuando era emo.
 
 ## Problema: ropa que tengo
 
 A groso modo cuando abría el armario me encontraba con un paradoja bastante clara. La paradoja de la elección. Es esa en la que a más opciones, más difícil es decidir.
 
-![paradoja de la ropa](https://pau.ninja/wp-content/uploads/2018/01/paradoja-de-la-ropa.jpg)
+![paradoja de la ropa](./wp-content/uploads/2018/01paradoja-de-la-ropa.jpg)
 
 También lo siento en mis carnes cuando voy a un restaurante y el menú es inacabable. Que no sabes qué diantre elegir. Después tu cita te mira como si fueras un inseguro de mierda y esto te vuelve inseguro.
 
@@ -86,7 +75,7 @@ Si no intentáramos estar a la última con colores que destacan y cambian cada 
 
 No. No voy a decir que todo lo que tengo es de un color pero es para ponerlo en perspectiva.
 
-![camisetas negras y blancas](https://pau.ninja/wp-content/uploads/2019/01/camisetas-negras-y-blancas.jpg)
+![camisetas negras y blancas](./wp-content/uploads/2019/01camisetas-negras-y-blancas.jpg)
 
 Vale. No todo es de un solo color, pero mi última compra fue de 6 camisetas negras y 6 camisetas blancas. Imposible fallar en la combinación. Sí. Es del Zara, lo que es bastante mala calidad, pero como las camisetas las usaba cada día, las necesitaba cambiar al cabo de algunos meses igualmente… Hasta que creé Armablanda.
 
@@ -149,7 +138,7 @@ Aunque ahora entreno mucho en casa y lo puedo hacer en calzoncillos, en la reser
 
 Un truco que uso yo en este sentido es que planifico la ropa de una semana, y el domingo es el día de la colada. A parte de esto considero algunas cosas personales como: mis pies no sudan ni hacen peste, los pantalones tejanos acumulan mucho menos gérmenes que los otros, puedo evitar los países de mucho frío por lo que mucha de esta ropa se puede quedar guardada.
 
-![comic arrastra mochila](https://pau.ninja/wp-content/uploads/2020/11/comic-arrastra-mochila.png)
+![comic arrastra mochila](./wp-content/uploads/2020/11comic-arrastra-mochila.png)
 
 Si las temperaturas son bajas, puedo hacer capas de ropa como las cebollas. Muy práctico incluso para lavar porque es la primera capa la que coge dures. Pero incluyo ropa de invierno puro porque bajo cero las capas no sirve.
 
@@ -167,7 +156,7 @@ Volvería entrar en el círculo, así que las dos soluciones van de la mano.
 
 La moda de la ropa minimalista es sencilla: gama de colores de blanco a negro, marrones y azules. Tanto los extremos como los entremedios están permitidos mientras me centre en estas gamas.
 
-![combinando ropa minimalista](https://pau.ninja/wp-content/uploads/2018/01/combinando-ropa-minimalista.jpg)
+![combinando ropa minimalista](./wp-content/uploads/2018/01combinando-ropa-minimalista.jpg)
 
 Una combinación para cada día de la semana.
 
@@ -244,13 +233,13 @@ Con la ropa minimalista se está a la moda sin tenerse que preocupar de estarlo
 
 Como he comentado anteriormente una escala de negros a blancos siempre es una idea para combinar, pero no son los únicos colores.
 
-![escala de negro y blanco](https://pau.ninja/wp-content/uploads/2018/01/escala-negro-blanco.jpg)
+![escala de negro y blanco](./wp-content/uploads/2018/01escala-negro-blanco.jpg)
 
 No soy experto en moda. Pero es de sentido común que usando la memoria el color azul tejano y los marrones combinan bien con todo.
 
 Pues sí. Resulta que los pantalones tejanos y la camiseta negra nunca ha pasado de moda y nunca lo estarán. Un modelito que por cierto es el favorito de Zac Efron, un vídeo entrevista que prometo que vi de casualidad en una de esas tardes donde la productividad me pudo.
 
-[![Minimalismo práctico: Vivir con menos para 'ser más'](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTQ2NA=)](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
+[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDc5Ng=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
 [Minimalismo práctico: Vivir con menos para "ser más"](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
@@ -258,7 +247,7 @@ Si te gusta el minimalismo tanto como leer, disfrutarás del ebook que he public
 
 2,69 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 ## ¿Dónde comprar ropa minimalista?
 
@@ -266,7 +255,7 @@ Hay alguna que otra marca de ropa minimalista que valga la pena. De hecho yo só
 
 Si quieres una buena opción, también puedes tirar por esta marca, con tejidos similares a la anterior que os enlazaba, aunque no puedo decir mucho de la calidad y duración a largo plazo.
 
-![hombre minimalista](https://pau.ninja/wp-content/uploads/2019/01/hombre-minimalista.jpg)
+![hombre minimalista](./wp-content/uploads/2019/01hombre-minimalista.jpg)
 
 Sudaderas y camisetas de materiales orgánicos y residuo cero a 30 y 15€ respectivamente. Cinco euritos más que en H&M pero con mucha más calidad.
 
@@ -276,3 +265,84 @@ Sudaderas y camisetas de materiales orgánicos y residuo cero a 30 y 15€ respe
 - Paradoja de la [elección](https://www.saraclip.com/la-paradoja-de-elegir/)
 - Consejos de [Peter](https://www.instagram.com/theessentialman)
 - Acorde de sostenibilidad de [H&M](http://sustainability.hm.com/content/dam/hm/about/documents/en/CSR/Sustainability%20Commitment/Sustainability%20Commitment_en.pdf)
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Estilo de vida](./estilo-de-vida)  
+O si quieres ser más específico:[Minimalismo](./minimalismo)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/ropa/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":1930,"title":"3%20marcas%20%2B%204%20trucos%20para%20vestir%20ROPA%20minimalista","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2018\\/01\\/ropa-minimalista.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

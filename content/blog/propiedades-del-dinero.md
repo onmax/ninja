@@ -1,13 +1,18 @@
 ---
-title: "El dinero es una mentira (propiedades del dinero hechas para manipularte)"
+title: "El dinero es una mentira"
+url: https://pau.ninja/propiedades-del-dinero
+slug: propiedades-del-dinero
+categories: 
+- slug: dinero
+    label: 💰 Dinero
 image: persona-con-dinero-falso.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2020/12/persona-con-dinero-falso.jpeg
 published: 2020-12-20T08:32:02+00:00
 modified: 2023-09-21T05:29:13+00:00
+scrappedAt: 2024-10-14T09:21:28.434Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283903-44100-2-71ba56335532bd91.mp3
-slug: propiedades-del-dinero
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283903-44100-2-71ba56335532bd91.mp3](https://anchor.fm/s/98566448/podcast/play/52171676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283903-44100-2-71ba56335532bd91.mp3)
 
 Siempre nos han dicho que el dinero **no** crece de los árboles. Pero yo hasta hace poco siempre me había preguntado, «¿cómo que no?» al fin y al cabo los Euros están hechos de papel, y el papel sí crece de los árboles, ¿no?
@@ -16,7 +21,7 @@ Nunca había querido dedicar energía a responder este pregunta hasta que en ple
 
 El Banco Central Europeo no se quedó atrás dándole también a la maquinita y creando por arte de magia **700 mil millones** para que se [repartieran](https://www.greeneuropeanjournal.eu/the-eu-printed-e700-billion-as-a-desperate-plan-to-save-the-economy-it-failed-what-now/) en la economía y mercados.
 
-![](https://pau.ninja/wp-content/uploads/2020/12/expansion-cuantitativa.png)
+![](./wp-content/uploads/2020/12expansion-cuantitativa.png)
 
 Si lo pensamos fríamente nos encontramos que en plena crisis… una institución se puso delante de su ordenador, puso un número en la pantallita, pulsó un botón y… _puf_.
 
@@ -33,24 +38,6 @@ Pasamos la mayor parte de nuestra vida adulta trabajando. Intercambiando nuestro
 O sea, que utilizamos el dinero para almacenar y encapsular nuestra energía vital.
 
 Precisamente porque el uso del dinero está tan ligado a nuestro tiempo y vida, os voy a pedir llegar al final de lo que vamos a ver hoy.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Las características del dinero](#Las_caracteristicas_del_dinero 'Las características del dinero')
-  - [Escaso](#Escaso 'Escaso')
-  - [Durable](#Durable 'Durable')
-  - [Divisible](#Divisible 'Divisible')
-  - [Fungible](#Fungible 'Fungible')
-  - [Intrínseco](#Intrinseco 'Intrínseco')
-- [Las tres funciones del dinero en la economía](#Las_tres_funciones_del_dinero_en_la_economia 'Las tres funciones del dinero en la economía')
-  - [Medio de cambio](#Medio_de_cambio 'Medio de cambio')
-  - [Unidad de cuenta](#Unidad_de_cuenta 'Unidad de cuenta')
-  - [Depósito de valor](#Deposito_de_valor 'Depósito de valor')
-- [La gran mentira del dinero](#La_gran_mentira_del_dinero 'La gran mentira del dinero')
-  - [La estafa de las inversiones](#La_estafa_de_las_inversiones 'La estafa de las inversiones')
-  - [Lecciones de la historia del sistema monetario](#Lecciones_de_la_historia_del_sistema_monetario 'Lecciones de la historia del sistema monetario')
 
 ## Las características del dinero
 
@@ -76,7 +63,7 @@ Ponemos este pilar como el primero porque sólo con esta base se eliminan de la 
 
 Algo que llevamos haciendo de hace décadas: **crearlo de la nada**.
 
-Especialmente desde 1971 [cuando Nixon desligó el patrón oro del dólar](https://pau.ninja/patron-oro-actualidad/) firmando un nuevo tratado de Bretton Woods con el único fin de ir a la Guerra de Vietnam. Guerra que posteriormente EEUU perdió.
+Especialmente desde 1971 [cuando Nixon desligó el patrón oro del dólar](./patron-oro-actualidad) firmando un nuevo tratado de Bretton Woods con el único fin de ir a la Guerra de Vietnam. Guerra que posteriormente EEUU perdió.
 
 Es verdad que los ciudadanos de a pie lo tenemos difícil, pero mientras terceros como los gobiernos, o Estados en este caso, puedan mandar a crearlo, esta propiedad no se cumple.
 
@@ -106,7 +93,7 @@ Me explico.
 
 Los bancos sólo están obligados a mantener **un 10% del dinero** que ponemos en nuestras cuentas. ¿Por qué? pues porque **se supone** que no todo el mundo irá de golpe a sacar todo su efectivo. Así que tienen un 90% de margen para moverlo y hacer sus maldades nazis.
 
-A *groso modo* funciona de la siguiente manera:
+A _groso modo_ funciona de la siguiente manera:
 
 - Vamos al banco a ingresar 1.000€. Nos los ponen a nuestra cuenta corriente pero ellos sólo están obligados a mantener un 10%, en este caso 100€.
 - En nuestra cuenta vemos los 1.000€ ingresados, pero la realidad es que de pronto se crean 900€ ficticios que no es que precisamente se vayan a usar para crear polvo en los libros contables. Ni mucho menos. Se usarán para dejárselos a clientes que piden préstamos, invertirlo o lo que sea.
@@ -120,7 +107,7 @@ Estamos sumergidos en una espiral de creación de números infinita digna de qu
 
 Por esto me hace gracia ver estas querellas contra estafas piramidales pero nadie se querella de un sistema que crea divisa ilimitada y que funciona **exactamente** igual que estos negocios ilegítimos.
 
-![definición estafa piramidal](https://pau.ninja/wp-content/uploads/2020/12/definicion-estafa-piramidal.png)
+![definición estafa piramidal](./wp-content/uploads/2020/12definicion-estafa-piramidal.png)
 
 De hecho la definición de estafa piramidal se alinea bastante con esto. Leemos…
 
@@ -194,7 +181,7 @@ Este es el valor intrínseco de la manzana.
 
 Como veis las características del dinero no son pocas, pero es normal porque, si no, cualquier cosa podría colgarse la medalla. Pero a parte de esto también tiene que cumplir tres funciones principales.
 
-En la última volveremos a poner en evidencia el [sistema monetario actual](https://pau.ninja/sistema-monetario-actual/) en el que estamos inmersos de hace décadas, y por fin entraremos a ver las consecuencias y soluciones de esta gran mentira.
+En la última volveremos a poner en evidencia el [sistema monetario actual](./sistema-monetario-actual) en el que estamos inmersos de hace décadas, y por fin entraremos a ver las consecuencias y soluciones de esta gran mentira.
 
 ### Medio de cambio
 
@@ -228,13 +215,13 @@ Es por esto que no utilizamos los kiwis como medio de intercambio. Porque aunque
 
 Ya veis.
 
-Con este punto, al igual que con la escasez, desbancamos a cualquiera de las divisas, como euros o dólares, [como depósitos para refugiar valor](https://pau.ninja/valores-refugio/). Y es que **no mantiene su valor a lo largo del tiempo**.
+Con este punto, al igual que con la escasez, desbancamos a cualquiera de las divisas, como euros o dólares, [como depósitos para refugiar valor](./valores-refugio). Y es que **no mantiene su valor a lo largo del tiempo**.
 
 Si no me creéis, podéis dejar 1.000€ en el banco y a ver si siguen tendiendo el mismo valor al cabo de 10 años.
 
 Es verdad que seguiremos viendo el número «mil» en nuestra cuenta corriente, pero el precio de las cosas va subiendo una media de **2-3% cada año**. Es lo que llamamos «inflación» con la que muchos ya estáis familiarizados.
 
-![combatiendo inflación](https://pau.ninja/wp-content/uploads/2020/10/combatiendo-inflacion.png)
+![combatiendo inflación](./wp-content/uploads/2020/10combatiendo-inflacion.png)
 
 Por esto nuestros padres y abuelos siempre nos han dicho eso de «en mi época, el cine costaba 30 céntimos». Y podría ser que nosotros también tengamos que decir algo similar a nuestros descendientes.
 
@@ -250,7 +237,7 @@ Ya podemos responder a la pregunta que nos hemos hecho al principio de si el din
 
 La respuesta: una cosa es el **dinero fiduciario** y otra muy distinta es el **dinero duro**.
 
-- El **dinero fiduciario** es aquel respaldado por los gobiernos y la sociedad pero que no cumple con las propiedades de dinero duro. Este dinero *fiat* sí crece de los árboles cuando los bancos centrales lo quieren en efectivo. Y **sí**. También sale de los ordenadores cuando les sale del sobaco.
+- El **dinero fiduciario** es aquel respaldado por los gobiernos y la sociedad pero que no cumple con las propiedades de dinero duro. Este dinero _fiat_ sí crece de los árboles cuando los bancos centrales lo quieren en efectivo. Y **sí**. También sale de los ordenadores cuando les sale del sobaco.
 - El dinero **no**. Una de las características más importantes del **dinero duro** es que es limitado precisamente porque **nadie** pueda manipular su valor aumentando su volumen.
 
 Si os fijáis, si viajamos a Croacia y en el aeropuerto decidimos cambiar euros a _kunas_ croatas, no vamos a una ventanilla de «cambio de dinero» si no que vamos a una empresa de «cambio de divisa».
@@ -281,7 +268,7 @@ Los ahorradores inyectamos este dinero al sistema (de vuelta de donde ha venido
 
 Ya sabéis que yo mismo había invertido en indexados a largo plazo durante muchos años. No me malinterpretéis. Sigo pensando que era una **estrategia ganadora, pero sólo si jugamos** bajo las reglas del sistema monetario al que todos hemos estado regidos en las últimas décadas.
 
-Si hacemos un *zoom out*, y nuestra perspectiva se aleja más y más, nos damos cuenta de algo.
+Si hacemos un _zoom out_, y nuestra perspectiva se aleja más y más, nos damos cuenta de algo.
 
 ¿El qué?
 
@@ -301,6 +288,96 @@ Pasando por la impresión de dinero en las Guerras Mundiales, para financiar pro
 
 Nuestra civilización parece que tiene unos cimientos más sólidos… hasta que ves la cantidad de dinero que se ha imprimido en poco tiempo.
 
-![estudiando historia](https://pau.ninja/wp-content/uploads/2020/11/estudiando-historia.png)
+![estudiando historia](./wp-content/uploads/2020/11estudiando-historia.png)
 
 Como nuestro predecesores, podemos seguir décadas o hasta algún siglo con este sistema, pero la historia nos asegura que repetiremos el mismo plato para cenar.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [💰 Dinero](./dinero)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/propiedades-del-dinero/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":9636,"title":"Las%205%20cualidades%20del%20dinero%20que%20desvelan%20una%20MENTIRA%20%F0%9F%A4%AB","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2020\\/12\\/persona-con-dinero-falso.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

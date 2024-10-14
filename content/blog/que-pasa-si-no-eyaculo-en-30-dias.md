@@ -1,20 +1,27 @@
 ---
-title: "Superpoderes de NO eyacular durante 30 días (+20 estudios)"
+title: "Superpoderes de NO eyacular durante 30 días"
+url: https://pau.ninja/que-pasa-si-no-eyaculo-en-30-dias
+slug: que-pasa-si-no-eyaculo-en-30-dias
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
+  - slug: masculinidad
+    label: Masculinidad
 image: hombre-30-dias-sin-eyacular.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/hombre-30-dias-sin-eyacular.jpg
 published: 2023-10-01T06:17:51+00:00
 modified: 2024-10-03T06:48:42+00:00
+scrappedAt: 2024-10-14T09:19:50.546Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/77273957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-16%2F351328646-44100-2-055c05d1a111c.mp3
-slug: que-pasa-si-no-eyaculo-en-30-dias
+bibliography: ["vez cada 4 días","vez cada 8 días","vez cada 16 días","vez cada 21 días","vez cada 30 días","vez cada 30 días","“Teens Are Watching Pornography, and It’s Time to Talk about It.” 2023. Common Sense Media.‌","Cristian Vázquez. 2019. “Abstinencia Sexual: Nueve Consecuencias Negativas Para La Salud.” ElDiario.es.‌","Porn Addicts Anonymous. 2020. “PAA | Home – Porn Addicts Anonymous.” Pornaddictsanonymous.org.‌","David Paul Fernandez, Eugene Y. J. Tee & Elaine Frances Fernandez (2017) Do Cyber Pornography Use Inventory-9 Scores Reflect Actual Compulsivity in Internet Pornography Use? Exploring the Role of Abstinence Effort, Sexual Addiction & Compulsivity, 24:3, 156-179, DOI: 10.1080/10720162.2017.1344166","“Do You Need a Chaser after Sex? (2010).” 2020. Your Brain on Porn.‌","Brown, Richard E. (1974). «Sexual arousal, the coolidge effect and dominance in the rat (rattus norvegicus)». Animal Behaviour. 22 (3): 634–637. doi:10.1016/S0003-3472(74)80009-6.","Tlachi-López JL, Eguibar JR, Fernández-Guasti A, Lucio RA. Copulation and ejaculation in male rats under sexual satiety and the Coolidge effect. Physiol Behav. 2012 Jul 16;106(5):626-30. doi: 10.1016/j.physbeh.2012.04.020. Epub 2012 Apr 28. PMID: 22564534.","Pouso, Paula. Bases Neuroendócrinas Del Comportamiento Sexual: Oxitocina Y Feromonas En Mamíferos.‌","“Women: Does Orgasm Give You a Hangover? (2012).” 2020. Your Brain on Porn.‌","“Hombres: ¿La Eyaculación Frecuente Causa Una Resaca? (2012).” 2022. Your Brain on Porn.‌","[11](javascript:void\\(0\\))Sørensen MB, Bergdahl IA, Hjøllund NH, Bonde JP, Stoltenberg M, Ernst E. Zinc, magnesium and calcium in human seminal fluid: relations to other semen parameters and fertility. Mol Hum Reprod. 1999 Apr;5(4):331-7. doi: 10.1093/molehr/5.4.331. PMID: 10321804.","Fallah A, Mohammad-Hasani A, Colagar AH. Zinc is an Essential Element for Male Fertility: A Review of Zn Roles in Men’s Health, Germination, Sperm Quality, and Fertilization. J Reprod Infertil. 2018 Apr-Jun;19(2):69-81. PMID: 30009140; PMCID: PMC6010824.","Hunt CD, Johnson PE, Herbel J, Mullen LK. Effects of dietary zinc depletion on seminal volume and zinc loss, serum testosterone concentrations, and sperm morphology in young men. Am J Clin Nutr. 1992 Jul;56(1):148-57. doi: 10.1093/ajcn/56.1.148. PMID: 1609752.","Omu AE, Al-Bader AA, Dashti H, Oriowo MA. Magnesium in human semen: possible role in premature ejaculation. Arch Androl. 2001 Jan-Feb;46(1):59-66. doi: 10.1080/01485010150211164. PMID: 11204619.","Akhigbe RE, Hamed MA, Odetayo AF, et al.. Zinc improves sexual and erectile function in HAART-treated rats via the upregulation of erectogenic enzymes and maintenance of redox balance. Aging Male. 2023;26(1):2205517.","Sanna A, Firinu D, Zavattari P, Valera P. Zinc Status and Autoimmunity: A Systematic Review and Meta-Analysis. Nutrients. 2018 Jan 11;10(1):68. doi: 10.3390/nu10010068. PMID: 29324654; PMCID: PMC5793296.","Krüger TH, Haake P, Hartmann U, Schedlowski M, Exton MS. Orgasm-induced prolactin secretion: feedback control of sexual drive? Neurosci. Biobehav. Rev. 2002;26:31–44. doi: 10.1016/S0149-7634(01)00036-7.","Kruger TH, Leeners B, Naegeli E, Schmidlin S, Schedlowski M, Hartmann U, Egli M. Prolactin secretory rhythm in women: immediate and long-term alterations after sexual contact. Hum. Reprod. 2012;27:1139–1143. doi: 10.1093/humrep/des003.","Marta Barranquero Gómez, Valeria Sotelo, and Rebeca Reus. 2022. “Consecuencias de Altos Niveles de Prolactina En El Hombre.‌","Krüger T, Exton MS, Pawlak C, von zur Mühlen A, Hartmann U, Schedlowski M. Neuroendocrine and cardiovascular response to sexual arousal and orgasm in men. Psychoneuroendocrinology. 1998 May;23(4):401-11. doi: 10.1016/s0306-4530(98)00007-9. PMID: 9695139.","Exton, M., Krüger, T., Bursch, N. et al. Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol 19, 377–382 (2001).","Nestler EJ, Barrot M, Self DW. DeltaFosB: a sustained molecular switch for addiction. Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11042-6. doi: 10.1073/pnas.191352698. PMID: 11572966; PMCID: PMC58680.","“Taoist Ejaculation Formulas by Kris Deva North.” 2023. Healing-Tao.co.uk.‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/77273957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-16%2F351328646-44100-2-055c05d1a111c.mp3](https://anchor.fm/s/98566448/podcast/play/77273957/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-16%2F351328646-44100-2-055c05d1a111c.mp3)
 
 Los orgasmos _continuados_ nos destrozan las relaciones.
 
 No sólo las relaciones de pareja, sino también de la relación que tenemos con nosotros mismos.
 
-Con [la adicción al porno](https://pau.ninja/adiccion-al-porno/) (#394) más normalizada que nunca (y cada vez a edades más tempranas)[1](<javascript:void(0)>)“Teens Are Watching Pornography, and It’s Time to Talk about It.” 2023. Common Sense Media.‌ nos estamos convirtiendo en esclavos de nuestros propios instintos sexuales.
+Con [la adicción al porno](./adiccion-al-porno) (#394) más normalizada que nunca (y cada vez a edades más tempranas)[ref-1](#ref-1){.ref} nos estamos convirtiendo en esclavos de nuestros propios instintos sexuales.
 
 Unos instintos que tendrían todo el sentido del mundo que escucháramos… pero bajo circunstancias correctas y naturales.
 
@@ -30,11 +37,11 @@ En cambio ahora hemos adoptado la eyaculación y orgasmo como un hábito que no 
 
 Y muchos de nosotros nos damos cuenta de este coste al toparnos con el mismo problema.
 
-Miras porno, te sientes mal cada vez que *terminas*, no sabes exactamente el por qué, así que decides hacer una búsqueda rápida por internet para encontrarte pseudociencia de los [beneficios de la retención seminal](https://pau.ninja/beneficios-de-la-retencion-seminal/), pero también con lecciones milenarias del Tao donde ya se hablaba de no tocarse.
+Miras porno, te sientes mal cada vez que _terminas_, no sabes exactamente el por qué, así que decides hacer una búsqueda rápida por internet para encontrarte pseudociencia de los [beneficios de la retención seminal](./beneficios-de-la-retencion-seminal), pero también con lecciones milenarias del Tao donde ya se hablaba de no tocarse.
 
 > Ahí es cuando muchos hombres elegimos no eyacular durante 30 días al año para experimentar qué se siente. Y muchos lo hacemos exclusivamente en Noviembre. Es lo que se conoce como el fenómeno No Nut November.
 
-Que saca a relucir no sólo cómo de esclavos nos han convertido de nuestros propios deseos sexuales, sino de [los beneficios de No Nut November](https://pau.ninja/no-nut-november-beneficios/) y de no tocarse, que no son pocos (#408).
+Que saca a relucir no sólo cómo de esclavos nos han convertido de nuestros propios deseos sexuales, sino de [los beneficios de No Nut November](./no-nut-november-beneficios) y de no tocarse, que no son pocos (#408).
 
 Algunos de estos efectos quizás serán puramente placebo, en cambio otros sí están basados en evidencia científica, pero sin importar _por qué_ funciona no tocarse durante 30 días, lo que está claro es que _funciona_.
 
@@ -42,9 +49,9 @@ _Funciona_… ¿para qué?
 
 Buena pregunta, querido ninja de la vida.
 
-Algunos hombres han definido la retención seminal como una disciplina (porqué créeme que [necesitarás ser disciplinado](https://pau.ninja/como-ser-disciplinado/)) como una práctica que roza la *supermasculinidad*.
+Algunos hombres han definido la retención seminal como una disciplina (porqué créeme que [necesitarás ser disciplinado](./como-ser-disciplinado)) como una práctica que roza la _supermasculinidad_.
 
-Como si pasar estos 30 días te llevara a una cúspide en la que te esperan *superpoderes*.
+Como si pasar estos 30 días te llevara a una cúspide en la que te esperan _superpoderes_.
 
 - Canalizas un montón de energía
 - Te vuelves un imán de mujeres
@@ -55,39 +62,17 @@ Como si pasar estos 30 días te llevara a una cúspide en la que te esperan *su
 - Confianza desbocada
 - Más salud hormonal
 
-¿Queréis saber una cosa? Seguro que hay una parte de estos efectos descritos que será puramente placebo, pero en cambio otros estoy 100% convencido que serán una consecuencia *indirecta* de todos los beneficios científicos de no eyacular.
+¿Queréis saber una cosa? Seguro que hay una parte de estos efectos descritos que será puramente placebo, pero en cambio otros estoy 100% convencido que serán una consecuencia _indirecta_ de todos los beneficios científicos de no eyacular.
 
 Porque los orgasmos están más que bien estudiados y se sabe muy bien el coste que tiene en el cuerpo cuando se hace de forma continuada.
 
 Especialmente para el hombre.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Efectos de eyacular todos los días](#Efectos_de_eyacular_todos_los_dias 'Efectos de eyacular todos los días')
-  - [Efecto perseguidor](#Efecto_perseguidor 'Efecto perseguidor')
-  - [Efecto Coolidge](#Efecto_Coolidge 'Efecto Coolidge')
-  - [Resaca hormonal](#Resaca_hormonal 'Resaca hormonal')
-  - [Ciclo de la pasión](#Ciclo_de_la_pasion 'Ciclo de la pasión')
-- [Consecuencias de no eyacular durante 30 días](#Consecuencias_de_no_eyacular_durante_30_dias 'Consecuencias de no eyacular durante 30 días')
-  - [Retención de minerales en el cuerpo](#Retencion_de_minerales_en_el_cuerpo 'Retención de minerales en el cuerpo')
-  - [Incrementa la testosterona](#Incrementa_la_testosterona 'Incrementa la testosterona')
-  - [Niveles sanos de dopamina](#Niveles_sanos_de_dopamina 'Niveles sanos de dopamina')
-  - [Reduce los síntomas de depresión](#Reduce_los_sintomas_de_depresion 'Reduce los síntomas de depresión')
-  - [Mejora las relaciones sentimentales](#Mejora_las_relaciones_sentimentales 'Mejora las relaciones sentimentales')
-- [Cada cuánto eyacular según el taoísmo](#Cada_cuanto_eyacular_segun_el_taoismo 'Cada cuánto eyacular según el taoísmo')
-  - [Según regla general](#Segun_regla_general 'Según regla general')
-  - [Según número de veces](#Segun_numero_de_veces 'Según número de veces')
-  - [Según la estación](#Segun_la_estacion 'Según la estación')
-  - [Según edad](#Segun_edad 'Según edad')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Efectos de eyacular todos los días
 
-Me flipa que buscas en los medios convencionales, periódicos y redes, y te hablan de que lo bueno que es tener el máximo de orgasmos al día y de como la abstinencia sexual es mala[2](<javascript:void(0)>)Cristian Vázquez. 2019. “Abstinencia Sexual: Nueve Consecuencias Negativas Para La Salud.” ElDiario.es.‌.
+Me flipa que buscas en los medios convencionales, periódicos y redes, y te hablan de que lo bueno que es tener el máximo de orgasmos al día y de como la abstinencia sexual es mala[ref-2](#ref-2){.ref}.
 
-![motivos para tener un orgasmo](https://pau.ninja/wp-content/uploads/2023/08/motivos-para-tener-un-orgasmo.png)
+![motivos para tener un orgasmo](./wp-content/uploads/2023/08motivos-para-tener-un-orgasmo.png)
 
 En cambio, si vamos a la lógica, a la ciencia, a los datos, vemos que es totalmente lo contrario.
 
@@ -99,7 +84,7 @@ La respuesta es no, lo que significa que seguramente nuestros ancestros tampoco 
 
 > El problema que tenemos es que hemos hipersexualizado la sociedad.
 
-De los [motivos por los que ver porno es malo](https://pau.ninja/es-malo-ver-porno/) (#368) uno de los peores es la eyaculación diaria. El orgasmo constante que es totalmente antinatural.
+De los [motivos por los que ver porno es malo](./es-malo-ver-porno) (#368) uno de los peores es la eyaculación diaria. El orgasmo constante que es totalmente antinatural.
 
 Muchos tíos no os dais cuenta de en qué se traduce esto.
 
@@ -109,9 +94,9 @@ De lo que tienen entre las manos… (literalmente).
 
 Fijaros como muchas veces después de experimentar el orgasmo, el deseo de sexo orgásmico aumenta.
 
-Esto es bien conocido en la comunidad de adictos al porno en remisión al que se le llama «chaser effect» o «efecto perseguidor».[3](<javascript:void(0)>)Porn Addicts Anonymous. 2020. “PAA | Home – Porn Addicts Anonymous.” Pornaddictsanonymous.org.‌[4](<javascript:void(0)>)David Paul Fernandez, Eugene Y. J. Tee & Elaine Frances Fernandez (2017) Do Cyber Pornography Use Inventory-9 Scores Reflect Actual Compulsivity in Internet Pornography Use? Exploring the Role of Abstinence Effort, Sexual Addiction & Compulsivity, 24:3, 156-179, DOI: 10.1080/10720162.2017.1344166
+Esto es bien conocido en la comunidad de adictos al porno en remisión al que se le llama «chaser effect» o «efecto perseguidor».[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}
 
-Pero no hace falta ser un adicto al porno porque sucede también con la masturbación donde el efecto perseguidor son las ganas de masturbarse otra vez aún habiéndote masturbado una vez.[5](<javascript:void(0)>)“Do You Need a Chaser after Sex? (2010).” 2020. Your Brain on Porn.‌
+Pero no hace falta ser un adicto al porno porque sucede también con la masturbación donde el efecto perseguidor son las ganas de masturbarse otra vez aún habiéndote masturbado una vez.[ref-5](#ref-5){.ref}
 
 Por esto si quieres parar un (mal) hábito, yo soy un adepto de dejarlo de sopetón que todo el rollo de ir decreciéndolo gradualmente.
 
@@ -119,7 +104,7 @@ Porque el efecto perseguidor te perseguirá a ti para que tú sigas persiguiendo
 
 ### Efecto Coolidge
 
-El otro problema es un fenómeno llamado efecto Coolidge es un comportamiento que se ha visto en casi todos los mamíferos.[6](<javascript:void(0)>)Brown, Richard E. (1974). «Sexual arousal, the coolidge effect and dominance in the rat (rattus norvegicus)». Animal Behaviour. 22 (3): 634–637. doi:10.1016/S0003-3472(74)80009-6.[7](<javascript:void(0)>)Tlachi-López JL, Eguibar JR, Fernández-Guasti A, Lucio RA. Copulation and ejaculation in male rats under sexual satiety and the Coolidge effect. Physiol Behav. 2012 Jul 16;106(5):626-30. doi: 10.1016/j.physbeh.2012.04.020. Epub 2012 Apr 28. PMID: 22564534.
+El otro problema es un fenómeno llamado efecto Coolidge es un comportamiento que se ha visto en casi todos los mamíferos.[ref-6](#ref-6){.ref}[ref-7](#ref-7){.ref}
 
 Incluyendo los humanos, claro.
 
@@ -133,25 +118,25 @@ Es decir que la anticipación y motivación **solo al pensamiento** de una nuev
 
 ¿Por qué? Pues porque tu naturaleza interpreta que tu intento de fecundación ha sido exitoso y ya puedes pasar a la siguiente _víctima_.
 
-Por esto una de las metas del [método _karezza_](https://pau.ninja/intimidad-en-pareja-con-karezza/) es evitar el Efecto Coolidge, no necesariamente evitando el orgasmo por completo, pero sí controlándolo. Siendo conscientes que un orgasmo tras otro tiene un coste muy elevado.
+Por esto una de las metas del [método _karezza_](./intimidad-en-pareja-con-karezza) es evitar el Efecto Coolidge, no necesariamente evitando el orgasmo por completo, pero sí controlándolo. Siendo conscientes que un orgasmo tras otro tiene un coste muy elevado.
 
 ### Resaca hormonal
 
-Pensad que la sensación del orgasmo es producido por una metralleta de neuroendocrinos al cerebro[8](<javascript:void(0)>)Pouso, Paula. Bases Neuroendócrinas Del Comportamiento Sexual: Oxitocina Y Feromonas En Mamíferos.‌.
+Pensad que la sensación del orgasmo es producido por una metralleta de neuroendocrinos al cerebro[ref-8](#ref-8){.ref}.
 
 El tiempo que nos tarda el cerebro en volver a su equilibro hormonal me recuerda al motivo por el que dejé de tomar alcohol hace años.
 
-No era sólo la resaca del día después, sino la «resaca del equilibro». De volverme a sentir mentalmente *normal*.
+No era sólo la resaca del día después, sino la «resaca del equilibro». De volverme a sentir mentalmente _normal_.
 
 Sentía que mi cerebro, mi foco, mi «yo» no volvían a ser el mismo hasta que no habían pasado 3 o 4 días.
 
-Me era imposible [alcanzar el estado de _flow_ para concentrarme](https://pau.ninja/estado-de-flow/).
+Me era imposible [alcanzar el estado de _flow_ para concentrarme](./estado-de-flow).
 
 Y sucede lo mismo con la eyaculación.
 
-La «resaca del orgasmo» es muy real tanto en hombres como mujeres[9](<javascript:void(0)>)“Women: Does Orgasm Give You a Hangover? (2012).” 2020. Your Brain on Porn.‌[10](<javascript:void(0)>)“Hombres: ¿La Eyaculación Frecuente Causa Una Resaca? (2012).” 2022. Your Brain on Porn.‌.
+La «resaca del orgasmo» es muy real tanto en hombres como mujeres[ref-9](#ref-9){.ref}[ref-10](#ref-10){.ref}.
 
-![cerebro en abstinencia](https://pau.ninja/wp-content/uploads/2023/09/cerebro-en-abstinencia.jpeg)
+![cerebro en abstinencia](./wp-content/uploads/2023/09cerebro-en-abstinencia.jpeg)
 
 Si nos paramos a observar como nos sentimos antes y después del orgasmo, muchos se darán cuenta que les es más fácil sentirse irritados.
 
@@ -187,11 +172,11 @@ Son subidas y bajadas hormonales (y por lo tanto emocionales) que causa esta des
 
 Llega incluso a cambiar las percepciones de nuestras parejas, haciendo que una relación se empiece a distanciar y a distanciar.
 
-Lo más asustadizo es que esta distancia entre la pareja *parece* no tener una causa concreta… cuando en realidad ha sido el orgasmo (y la falta de actividad afectivas no orgásmicas).
+Lo más asustadizo es que esta distancia entre la pareja _parece_ no tener una causa concreta… cuando en realidad ha sido el orgasmo (y la falta de actividad afectivas no orgásmicas).
 
 Unas fluctuaciones que de hecho pueden llegar a durar hasta dos semanas.
 
-![efectos del orgasmo](https://pau.ninja/wp-content/uploads/2023/08/efectos-del-orgasmo.png)
+![efectos del orgasmo](./wp-content/uploads/2023/08efectos-del-orgasmo.png)
 
 Para algunas personas la sensación de incomodidad, de malestar con la pareja sale a la luz al final de estas dos semanas, justo antes de volver al equilibro hormonal, de humor, de estado de ánimo.
 
@@ -213,7 +198,7 @@ Cada orgasmo es una fruta.
 
 Sin agua para regar el árbol de la relación (actividad afectivas), no tienes el derecho a recoger las frutas que han crecido porque no existen.
 
-![meme actividades íntimas de pareja](https://pau.ninja/wp-content/uploads/2023/08/meme-actividades-intimas-de-pareja.jpeg)
+![meme actividades íntimas de pareja](./wp-content/uploads/2023/08meme-actividades-intimas-de-pareja.jpeg)
 
 Cada actividad afectiva física no sexual es la pólvora del amor que usamos para disparar cada pistoletazo cuando llegamos al orgasmo con nuestra pareja.
 
@@ -225,7 +210,7 @@ Siente maravillosamente durante un momento, pero tiene un efecto secundario que 
 
 Algo que puede extenderse hasta las dos semanas.
 
-![intimidad en pareja metáfora](https://pau.ninja/wp-content/uploads/2023/08/intimidad-en-pareja-metafora.jpg)
+![intimidad en pareja metáfora](./wp-content/uploads/2023/08intimidad-en-pareja-metafora.jpg)
 
 La tendencia habitual de las relaciones serias es que a medida que vayan pasando los años, se tengan menos orgasmos, es normal entonces que nos salga una pregunta…
 
@@ -246,21 +231,21 @@ Cualquiera que quiera llegar al orgasmo como único objetivo, pues que tenga tan
 
 ¿Y qué nos podemos esperar de no tocarnos durante 1 mes a parte de los beneficios de no estar viciados a los orgasmos que acabamos de ver?
 
-Pues no dejan de ser [los beneficios del NoFap](https://pau.ninja/beneficios-nofap/) (#426) pero poniéndolos en un periodo de tiempo determinado para probar lo que sentimos o dejamos de sentir.
+Pues no dejan de ser [los beneficios del NoFap](./beneficios-nofap) (#426) pero poniéndolos en un periodo de tiempo determinado para probar lo que sentimos o dejamos de sentir.
 
 ### Retención de minerales en el cuerpo
 
 Pensad que cuando eyaculamos estamos dejando ir muchos minerales que tienen un coste muy grane para el cuerpo de volver a producir.
 
-Por ejemplo el zinc, calcio y magnesio.[11](<javascript:void(0)>)[11](<javascript:void(0)>)Sørensen MB, Bergdahl IA, Hjøllund NH, Bonde JP, Stoltenberg M, Ernst E. Zinc, magnesium and calcium in human seminal fluid: relations to other semen parameters and fertility. Mol Hum Reprod. 1999 Apr;5(4):331-7. doi: 10.1093/molehr/5.4.331. PMID: 10321804.\[/mfn\]
+Por ejemplo el zinc, calcio y magnesio.[ref-11](#ref-11){.ref}\[/mfn\]
 
-Sólo el zinc ya juega un rol vital en el apoyo de la producción de testosterona, la función saludable de la próstata, la calidad del esperma y la fertilidad del hombre en general.[12](<javascript:void(0)>)Fallah A, Mohammad-Hasani A, Colagar AH. Zinc is an Essential Element for Male Fertility: A Review of Zn Roles in Men’s Health, Germination, Sperm Quality, and Fertilization. J Reprod Infertil. 2018 Apr-Jun;19(2):69-81. PMID: 30009140; PMCID: PMC6010824.
+Sólo el zinc ya juega un rol vital en el apoyo de la producción de testosterona, la función saludable de la próstata, la calidad del esperma y la fertilidad del hombre en general.[ref-12](#ref-12){.ref}
 
 Y repito: el cuerpo se toma su tiempo en volver a reponer todos estos minerales.
 
-Un estudio de hace ya un par de décadas confirmaba como la pérdida de semen en hombres jóvenes conducía a *agotar las reservas de zinc a corto plazo*.[13](<javascript:void(0)>)Hunt CD, Johnson PE, Herbel J, Mullen LK. Effects of dietary zinc depletion on seminal volume and zinc loss, serum testosterone concentrations, and sperm morphology in young men. Am J Clin Nutr. 1992 Jul;56(1):148-57. doi: 10.1093/ajcn/56.1.148. PMID: 1609752.
+Un estudio de hace ya un par de décadas confirmaba como la pérdida de semen en hombres jóvenes conducía a _agotar las reservas de zinc a corto plazo_.[ref-13](#ref-13){.ref}
 
-Si pensad que incluso bajas reservas de zinc y magnesio está ligado a eyaculación prematura, disfunción eréctil y retraso en el crecimiento.[14](<javascript:void(0)>)Omu AE, Al-Bader AA, Dashti H, Oriowo MA. Magnesium in human semen: possible role in premature ejaculation. Arch Androl. 2001 Jan-Feb;46(1):59-66. doi: 10.1080/01485010150211164. PMID: 11204619.[15](<javascript:void(0)>)Akhigbe RE, Hamed MA, Odetayo AF, et al.. Zinc improves sexual and erectile function in HAART-treated rats via the upregulation of erectogenic enzymes and maintenance of redox balance. Aging Male. 2023;26(1):2205517.[16](<javascript:void(0)>)Sanna A, Firinu D, Zavattari P, Valera P. Zinc Status and Autoimmunity: A Systematic Review and Meta-Analysis. Nutrients. 2018 Jan 11;10(1):68. doi: 10.3390/nu10010068. PMID: 29324654; PMCID: PMC5793296.
+Si pensad que incluso bajas reservas de zinc y magnesio está ligado a eyaculación prematura, disfunción eréctil y retraso en el crecimiento.[ref-14](#ref-14){.ref}[ref-15](#ref-15){.ref}[ref-16](#ref-16){.ref}
 
 Cada eyaculación significa tirar por la borda todos estos minerales. Que el cuerpo tenga que volver a reponerlos.
 
@@ -272,9 +257,9 @@ Y no es sólo los minerales. Te lo creas o no, tocarte semanalmente tiene un co
 
 En serio.
 
-Hay una [relación entre masturbación y bajar la testosterona](https://pau.ninja/la-masturbacion-y-la-testosterona/) (#414), ¿sabes por qué?
+Hay una [relación entre masturbación y bajar la testosterona](./la-masturbacion-y-la-testosterona) (#414), ¿sabes por qué?
 
-Porque la ciencia ha demostrado como tocarse incrementa los niveles de prolactina, una hormona que a su vez te hace **decrecer los niveles de testosterona**.[17](<javascript:void(0)>)Krüger TH, Haake P, Hartmann U, Schedlowski M, Exton MS. Orgasm-induced prolactin secretion: feedback control of sexual drive? Neurosci. Biobehav. Rev. 2002;26:31–44. doi: 10.1016/S0149-7634(01)00036-7.[18](<javascript:void(0)>)Kruger TH, Leeners B, Naegeli E, Schmidlin S, Schedlowski M, Hartmann U, Egli M. Prolactin secretory rhythm in women: immediate and long-term alterations after sexual contact. Hum. Reprod. 2012;27:1139–1143. doi: 10.1093/humrep/des003.[19](<javascript:void(0)>)Marta Barranquero Gómez, Valeria Sotelo, and Rebeca Reus. 2022. “Consecuencias de Altos Niveles de Prolactina En El Hombre.‌[20](<javascript:void(0)>)Krüger T, Exton MS, Pawlak C, von zur Mühlen A, Hartmann U, Schedlowski M. Neuroendocrine and cardiovascular response to sexual arousal and orgasm in men. Psychoneuroendocrinology. 1998 May;23(4):401-11. doi: 10.1016/s0306-4530(98)00007-9. PMID: 9695139.[21](<javascript:void(0)>)Exton, M., Krüger, T., Bursch, N. et al. Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol 19, 377–382 (2001).
+Porque la ciencia ha demostrado como tocarse incrementa los niveles de prolactina, una hormona que a su vez te hace **decrecer los niveles de testosterona**.[ref-17](#ref-17){.ref}[ref-18](#ref-18){.ref}[ref-19](#ref-19){.ref}[ref-20](#ref-20){.ref}[ref-21](#ref-21){.ref}
 
 Lo que indirectamente se traduce en más estrógeno, menos testosterona, menos libido, menos masa ósea, más distribución de grasa, menos masa y fuerza muscular, y menos producción de glóbulos rojos y espermatozoides.
 
@@ -282,7 +267,7 @@ Todo esto sin contar que más niveles de prolactina en hombre están asociados e
 
 Incluso a infertilidad.
 
-Además podría ser perfectamente por la que hay esta bajada de testosterona, es porque al eyacular convertimos parte de esta *testo* a dihidrotestosterona (DHT) y estradiol, que son formas menos activas de la hormona.
+Además podría ser perfectamente por la que hay esta bajada de testosterona, es porque al eyacular convertimos parte de esta _testo_ a dihidrotestosterona (DHT) y estradiol, que son formas menos activas de la hormona.
 
 En cambio al retener el semen, el cuerpo mantiene los niveles altos.
 
@@ -290,7 +275,7 @@ En cambio al retener el semen, el cuerpo mantiene los niveles altos.
 
 Lo que también sube al eyacular es a la acumulación de la DeltaFosB.
 
-Podemos visualizar este DeltaFosB como un interruptor del cerebro. El sistema de dopamina lo usa para determinar nuestras recompensas y castigos.[22](<javascript:void(0)>)Nestler EJ, Barrot M, Self DW. DeltaFosB: a sustained molecular switch for addiction. Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11042-6. doi: 10.1073/pnas.191352698. PMID: 11572966; PMCID: PMC58680.
+Podemos visualizar este DeltaFosB como un interruptor del cerebro. El sistema de dopamina lo usa para determinar nuestras recompensas y castigos.[ref-22](#ref-22){.ref}
 
 Mantener un registro de los niveles de dopamina.
 
@@ -298,7 +283,7 @@ Cualquier estimulante nos da una dosis de dopamina, que el cerebro registra util
 
 Entonces la idea es que la liberación constante de dopamina en estos estimulantes como es el orgasmo, desensibiliza las neuronas haciendo que el cerebro necesite ser cada vez más estimulado para conseguir el mismo efecto.
 
-![adicción y DeltaFosB](https://pau.ninja/wp-content/uploads/2023/09/adiccion-y-DeltaFosB.jpeg)
+![adicción y DeltaFosB](./wp-content/uploads/2023/09adiccion-y-DeltaFosB.jpeg)
 
 La intensidad y durabilidad de esta DeltaFosB son muy potentes porque pensad que se mantiene elevado durante 10 días antes de volver a bajar.
 
@@ -338,17 +323,17 @@ Y ojo porque no estoy hablando de empezar a sentir desinterés a medida que toma
 
 Es uno de los síntomas de abstinencia más vistos entre los alcohólicos, consumidores de cannabis, cocaína y también de la pornografía, claro.
 
-Por esto [la opinión que tengo sobre la pornografía](https://pau.ninja/opinion-sobre-la-pornografia/) (#377) es como la de alguien adicto a las metanfetaminas o cualquier droga dura.
+Por esto [la opinión que tengo sobre la pornografía](./opinion-sobre-la-pornografia) (#377) es como la de alguien adicto a las metanfetaminas o cualquier droga dura.
 
 No es una metáfora.
 
-![no eyacular durante 30 días](https://pau.ninja/wp-content/uploads/2023/09/no-eyacular-durante-30-dias.jpeg)
+![no eyacular durante 30 días](./wp-content/uploads/2023/09no-eyacular-durante-30-dias.jpeg)
 
 Es una comparación seria al no ser casualidad que se sientan exactamente los mismos síntomas de abstinencia.
 
 Que sucede porque el consumo excesivo de recompensas naturales nos lleva a dañar loas receptores de dopamina causando incluso cambios en la corteza frontal.
 
-Algunos pasan por [una área de su vida](https://pau.ninja/areas-de-la-vida/) que sienten que ni siquiera pueden mirar a los demás a los ojos durante este periodo.
+Algunos pasan por [una área de su vida](./areas-de-la-vida) que sienten que ni siquiera pueden mirar a los demás a los ojos durante este periodo.
 
 ### Mejora las relaciones sentimentales
 
@@ -360,9 +345,9 @@ Poderosa y sagrada.
 
 En vez de buscar ese placer instantáneo.
 
-Haciendo que [la relación de pareja se vuelva más sana](https://pau.ninja/relacion-de-pareja-sana/).
+Haciendo que [la relación de pareja se vuelva más sana](./relacion-de-pareja-sana).
 
-Si uno de los factores que más se pierde en la pareja es esa intimidad que muchos confundimos como sexo cuando en realidad el sexo sólo es una de las caras para [mejorar la intimidad en pareja](https://pau.ninja/intimidad-en-pareja-con-karezza/).
+Si uno de los factores que más se pierde en la pareja es esa intimidad que muchos confundimos como sexo cuando en realidad el sexo sólo es una de las caras para [mejorar la intimidad en pareja](./intimidad-en-pareja-con-karezza).
 
 ## Cada cuánto eyacular según el taoísmo
 
@@ -390,7 +375,7 @@ Porque así agotamos nuestra fuerza vital mucho más lentamente. Usando todos es
 
 Que así nuestros encuentros sexuales se vuelven más largos y placenteros.
 
-Las fórmulas del Tao son muy interesantes.[23](<javascript:void(0)>)“Taoist Ejaculation Formulas by Kris Deva North.” 2023. Healing-Tao.co.uk.‌
+Las fórmulas del Tao son muy interesantes.[ref-23](#ref-23){.ref}
 
 ### Según número de veces
 
@@ -404,111 +389,15 @@ Esto sin importar la edad o la estación del año.
 - Cada 15 días en verano y otoño.
 - Nada de eyaculación durante el invierno.
 
-Porqué según ellos las relaciones también tienen sus *estaciones*.
+Porqué según ellos las relaciones también tienen sus _estaciones_.
 
 ### Según edad
 
-- **Adolescentes y en la veintena:** 1 vez cada 4 días
-- **A los treinta:** 1 vez cada 8 días
-- **A los cuarenta:** 1 vez cada 16 días
-- **A los cincuenta:** 1 vez cada 21 días
-- **A los sesenta:** 1 vez cada 30 días
-- **A los de más de sesenta:** 1 vez cada 30 días
+- **Adolescentes y en la veintena:** 1 
+- **A los treinta:** 1 
+- **A los cuarenta:** 1 
+- **A los cincuenta:** 1 
+- **A los sesenta:** 1 
+- **A los de más de sesenta:** 1 
 
 A mi esta última fórmula me cuadra mucho, pero es algo que he visto a nivel experimentación y es lo que os incitaría a probar después de pasar 30 días del reto.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  “Teens Are Watching Pornography, and It’s Time to Talk about It.” 2023. Common Sense Media.‌
-
-- 2
-
-  Cristian Vázquez. 2019. “Abstinencia Sexual: Nueve Consecuencias Negativas Para La Salud.” ElDiario.es.‌
-
-- 3
-
-  Porn Addicts Anonymous. 2020. “PAA | Home – Porn Addicts Anonymous.” Pornaddictsanonymous.org.‌
-
-- 4
-
-  David Paul Fernandez, Eugene Y. J. Tee & Elaine Frances Fernandez (2017) Do Cyber Pornography Use Inventory-9 Scores Reflect Actual Compulsivity in Internet Pornography Use? Exploring the Role of Abstinence Effort, Sexual Addiction & Compulsivity, 24:3, 156-179, DOI: 10.1080/10720162.2017.1344166
-
-- 5
-
-  “Do You Need a Chaser after Sex? (2010).” 2020. Your Brain on Porn.‌
-
-- 6
-
-  Brown, Richard E. (1974). «Sexual arousal, the coolidge effect and dominance in the rat (rattus norvegicus)». Animal Behaviour. 22 (3): 634–637. doi:10.1016/S0003-3472(74)80009-6.
-
-- 7
-
-  Tlachi-López JL, Eguibar JR, Fernández-Guasti A, Lucio RA. Copulation and ejaculation in male rats under sexual satiety and the Coolidge effect. Physiol Behav. 2012 Jul 16;106(5):626-30. doi: 10.1016/j.physbeh.2012.04.020. Epub 2012 Apr 28. PMID: 22564534.
-
-- 8
-
-  Pouso, Paula. Bases Neuroendócrinas Del Comportamiento Sexual: Oxitocina Y Feromonas En Mamíferos.‌
-
-- 9
-
-  “Women: Does Orgasm Give You a Hangover? (2012).” 2020. Your Brain on Porn.‌
-
-- 10
-
-  “Hombres: ¿La Eyaculación Frecuente Causa Una Resaca? (2012).” 2022. Your Brain on Porn.‌
-
-- 11
-
-  [11](<javascript:void(0)>)Sørensen MB, Bergdahl IA, Hjøllund NH, Bonde JP, Stoltenberg M, Ernst E. Zinc, magnesium and calcium in human seminal fluid: relations to other semen parameters and fertility. Mol Hum Reprod. 1999 Apr;5(4):331-7. doi: 10.1093/molehr/5.4.331. PMID: 10321804.
-
-- 12
-
-  Fallah A, Mohammad-Hasani A, Colagar AH. Zinc is an Essential Element for Male Fertility: A Review of Zn Roles in Men’s Health, Germination, Sperm Quality, and Fertilization. J Reprod Infertil. 2018 Apr-Jun;19(2):69-81. PMID: 30009140; PMCID: PMC6010824.
-
-- 13
-
-  Hunt CD, Johnson PE, Herbel J, Mullen LK. Effects of dietary zinc depletion on seminal volume and zinc loss, serum testosterone concentrations, and sperm morphology in young men. Am J Clin Nutr. 1992 Jul;56(1):148-57. doi: 10.1093/ajcn/56.1.148. PMID: 1609752.
-
-- 14
-
-  Omu AE, Al-Bader AA, Dashti H, Oriowo MA. Magnesium in human semen: possible role in premature ejaculation. Arch Androl. 2001 Jan-Feb;46(1):59-66. doi: 10.1080/01485010150211164. PMID: 11204619.
-
-- 15
-
-  Akhigbe RE, Hamed MA, Odetayo AF, et al.. Zinc improves sexual and erectile function in HAART-treated rats via the upregulation of erectogenic enzymes and maintenance of redox balance. Aging Male. 2023;26(1):2205517.
-
-- 16
-
-  Sanna A, Firinu D, Zavattari P, Valera P. Zinc Status and Autoimmunity: A Systematic Review and Meta-Analysis. Nutrients. 2018 Jan 11;10(1):68. doi: 10.3390/nu10010068. PMID: 29324654; PMCID: PMC5793296.
-
-- 17
-
-  Krüger TH, Haake P, Hartmann U, Schedlowski M, Exton MS. Orgasm-induced prolactin secretion: feedback control of sexual drive? Neurosci. Biobehav. Rev. 2002;26:31–44. doi: 10.1016/S0149-7634(01)00036-7.
-
-- 18
-
-  Kruger TH, Leeners B, Naegeli E, Schmidlin S, Schedlowski M, Hartmann U, Egli M. Prolactin secretory rhythm in women: immediate and long-term alterations after sexual contact. Hum. Reprod. 2012;27:1139–1143. doi: 10.1093/humrep/des003.
-
-- 19
-
-  Marta Barranquero Gómez, Valeria Sotelo, and Rebeca Reus. 2022. “Consecuencias de Altos Niveles de Prolactina En El Hombre.‌
-
-- 20
-
-  Krüger T, Exton MS, Pawlak C, von zur Mühlen A, Hartmann U, Schedlowski M. Neuroendocrine and cardiovascular response to sexual arousal and orgasm in men. Psychoneuroendocrinology. 1998 May;23(4):401-11. doi: 10.1016/s0306-4530(98)00007-9. PMID: 9695139.
-
-- 21
-
-  Exton, M., Krüger, T., Bursch, N. et al. Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World J Urol 19, 377–382 (2001).
-
-- 22
-
-  Nestler EJ, Barrot M, Self DW. DeltaFosB: a sustained molecular switch for addiction. Proc Natl Acad Sci U S A. 2001 Sep 25;98(20):11042-6. doi: 10.1073/pnas.191352698. PMID: 11572966; PMCID: PMC58680.
-
-- 23
-
-  “Taoist Ejaculation Formulas by Kris Deva North.” 2023. Healing-Tao.co.uk.‌

@@ -1,20 +1,25 @@
 ---
-title: "¿Mintió Platón con la leyenda de Atlántida? El misterio de Atlántida: la ciudad perdida"
+title: "¿Mintió Platón con la leyenda de Atlántida?"
+url: https://pau.ninja/ciudad-perdida-atlantida-ubicacion
+slug: ciudad-perdida-atlantida-ubicacion
+categories: 
+- slug: enigmas-de-la-historia
+    label: Enigmas de la historia
 image: atlantida-bajo-el-agua.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2020/11/atlantida-bajo-el-agua.jpg
 published: 2020-11-07T07:35:19+00:00
 modified: 2023-06-26T19:36:10+00:00
+scrappedAt: 2024-10-14T09:21:32.621Z
 audioLink: https://www.ivoox.com/mintio-platon-leyenda-atlantida_md_80892754_wp_1.mp3
-slug: ciudad-perdida-atlantida-ubicacion
+bibliography: []
 ---
-
-[https://www.ivoox.com/mintio-platon-leyenda-atlantida_md_80892754_wp_1.mp3](https://www.ivoox.com/mintio-platon-leyenda-atlantida_md_80892754_wp_1.mp3)
+[https://www.ivoox.com/mintio-platon-leyenda-atlantida\_md\_80892754\_wp\_1.mp3](https://www.ivoox.com/mintio-platon-leyenda-atlantida_md_80892754_wp_1.mp3)
 
 Troya era el nombre de la ciudad de la Edad de Bronce que fue atacada en la Guerra de Troya. Todos conocemos el famoso caballo de Troya.
 
 Una estructura gigante de madera que usaron los soldados para colarse en la ciudad y atacarla desde dentro.
 
-![caballito de Troya](https://pau.ninja/wp-content/uploads/2020/11/caballito-de-troya.jpeg)
+![caballito de Troya](./wp-content/uploads/2020/11caballito-de-troya.jpeg)
 
 Este cuento era una historia popular en la mitología Griega, y se fue pasando de generación en generación hasta llegar a nuestros tiempos.
 
@@ -38,17 +43,17 @@ No hace tanto tiempo… Por eso ese año el descubrimiento Göbekli Tepe puso en
 
 Eso **sí** son cuentos para niños.
 
-![estudiando historia](https://pau.ninja/wp-content/uploads/2020/11/estudiando-historia.png)
+![estudiando historia](./wp-content/uploads/2020/11estudiando-historia.png)
 
 Sólo el [5%](https://www.worldwideboat.com/news/miscellaneous/ocean-vs-space) de los mares ha sido explorado y nuestra pequeñez es paradójicamente tan grande como nuestro ego.
 
-Pero también hay cosas que **sabemos que no sabemos**. Válgame la redundancia. Por ejemplo, no sabemos cómo se construyeron las pirámides, por qué el método no está documentado en geogríficos, hay montones de [secretos, curiosidades y misterios de La Gran Pirámide](https://pau.ninja/piramides-de-giza-curiosidades/), o tampoco sabemos dónde está la tumba de Cleopatra.
+Pero también hay cosas que **sabemos que no sabemos**. Válgame la redundancia. Por ejemplo, no sabemos cómo se construyeron las pirámides, por qué el método no está documentado en geogríficos, hay montones de [secretos, curiosidades y misterios de La Gran Pirámide](./piramides-de-giza-curiosidades), o tampoco sabemos dónde está la tumba de Cleopatra.
 
 Pero no hace falta que nos centremos sólo en Egipto para ver hasta qué punto llega nuestra ignorancia histórica.
 
 Uno de esos **desconocimientos** que nuestra sociedad ya ha decidido convertir en mito y leyenda cada vez más fantasiosa, es el de la ciudad perdida de la Atlántida (o Atlantis en inglés).
 
-![atlantis de Aquaman](https://pau.ninja/wp-content/uploads/2020/11/atlantis-de-aquaman.jpg)
+![atlantis de Aquaman](./wp-content/uploads/2020/11atlantis-de-aquaman.jpg)
 
 Se ha llegado hasta el punto que el superhéroe Aquaman vive en esta ciudad hundida en el fondo del mar, y viven por allí Sirenitas y seres mágicos de la mitología.
 
@@ -59,26 +64,6 @@ Pero antes de dejar que la ficción y el entretenimiento nos prostituya la reali
 No fue otro que **Platón,** el filósofo.
 
 Desde allí, hoy empezaremos a tirar del hilo hasta encontrar posibles pistas que nos puedan decir, no sólo si la Atlántida existió, pero también cuál podría ser su paradero.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Origen de la Atlántida](#Origen_de_la_Atlantida 'Origen de la Atlántida')
-  - [De dónde viene el nombre de Atlántida](#De_donde_viene_el_nombre_de_Atlantida 'De dónde viene el nombre de Atlántida')
-  - [Qué civilización construyó la ciudad perdida Atlántida](#Que_civilizacion_construyo_la_ciudad_perdida_Atlantida 'Qué civilización construyó la ciudad perdida Atlántida')
-  - [Qué pasó con Atlántida](#Que_paso_con_Atlantida 'Qué pasó con Atlántida')
-  - [¿Existió la Atlántida?](#%C2%BFExistio_la_Atlantida '¿Existió la Atlántida?')
-- [Historia de la ciudad perdida de Atlántida](#Historia_de_la_ciudad_perdida_de_Atlantida 'Historia de la ciudad perdida de Atlántida')
-  - [Platón explica el mito de la Atlántida perdida](#Platon_explica_el_mito_de_la_Atlantida_perdida 'Platón explica el mito de la Atlántida perdida')
-  - [Solón y la atlantida](#Solon_y_la_atlantida 'Solón y la atlantida')
-- [Donde se encuentra la Atlántida perdida](#Donde_se_encuentra_la_Atlantida_perdida 'Donde se encuentra la Atlántida perdida')
-  - [Mapa de la Atlántida: la ciudad perdida](#Mapa_de_la_Atlantida_la_ciudad_perdida 'Mapa de la Atlántida: la ciudad perdida')
-  - [Posibles lugares](#Posibles_lugares 'Posibles lugares')
-  - [Atlántida en el estrecho de Gibraltar](#Atlantida_en_el_estrecho_de_Gibraltar 'Atlántida en el estrecho de Gibraltar')
-  - [La Atlántida en Doñana](#La_Atlantida_en_Donana 'La Atlántida en Doñana')
-  - [La Atlántida en el ojo del Sahara](#La_Atlantida_en_el_ojo_del_Sahara 'La Atlántida en el ojo del Sahara')
-- [La ciudad perdida Atlántida ha sido encontrada](#La_ciudad_perdida_Atlantida_ha_sido_encontrada 'La ciudad perdida Atlántida ha sido encontrada')
 
 ## Origen de la Atlántida
 
@@ -94,7 +79,7 @@ Según algunas teorías Atlántida o Atlantis significa «ciudad de Atlas», que
 
 La leyenda dice que Poseidon y Clito tuvieron 5 pares de gemelos, que gobernaron las 10 provincias de Atlántida.
 
-![clito y poseidon](https://pau.ninja/wp-content/uploads/2020/11/clito-y-poseidon.jpg)
+![clito y poseidon](./wp-content/uploads/2020/11clito-y-poseidon.jpg)
 
 Esta pareja parecen realmente humanos en algunas pinturas. No como estamos acostumbrados a ver a Poseidón con su tridente, barba y músculos levitando en medio del mar.
 
@@ -112,7 +97,7 @@ De momento vamos a no desestimar que esta ciudad misteriosa existió, porque si 
 
 A parte del origen del nombre, se dice que Poseidón creó la Atlántida con distintas zonas de tierra y agua. Dos de tierra y tres de agua en formas redondeados alrededor del centro de la ciudad.
 
-![anillos de Atlántida](https://pau.ninja/wp-content/uploads/2020/11/anillos-de-Atlantida.jpg)
+![anillos de Atlántida](./wp-content/uploads/2020/11anillos-de-Atlantida.jpg)
 
 Es decir, cinco círculos concéntricos.
 
@@ -148,7 +133,7 @@ Los ciudadanos españoles también saben un poco de esto…
 
 Lo que nos comenta Platón es que esta civilización perdida se volvió tan segura de si misma que el universo, de alguna manera, la castigó con una inundación cataclísmica que hizo sumergirlo todo debajo de olas gigantes.
 
-![hundimiento de Atlantida](https://pau.ninja/wp-content/uploads/2020/11/hundimiento-de-atlantida.jpg)
+![hundimiento de Atlantida](./wp-content/uploads/2020/11hundimiento-de-atlantida.jpg)
 
 Los textos dicen que:
 
@@ -194,7 +179,7 @@ Solón era uno de los siete hombre sabios de Grecia y dominó por completo la po
 
 De hecho, según las escrituras de Diogones, este señor habla del hermano de Salón llamado Dropides como ancestro de Platón.
 
-![generaciones griegas](https://pau.ninja/wp-content/uploads/2020/11/generaciones-griegas.jpg)
+![generaciones griegas](./wp-content/uploads/2020/11generaciones-griegas.jpg)
 
 Seis generaciones para ser exactos, 200 años y este dato será crucial para que podamos determinar la fecha del hundimiento de Atlántida.
 
@@ -246,7 +231,7 @@ No es la primera vez que los historiadores y académicos descartan una hipótesi
 
 Por ejemplo se tardaron varias década a aceptar la hipótesis del asteroide que cayó en el Golfo de México y extinguió a los dinosaurios y **el 75% de la vida del planeta** hace 66 millones de años.
 
-![asteroide en la Tierra](https://pau.ninja/wp-content/uploads/2020/11/asteroide-en-la-tierra.jpg)
+![asteroide en la Tierra](./wp-content/uploads/2020/11asteroide-en-la-tierra.jpg)
 
 ¿Por qué demonios no podría repetirse algo así en mayor o menor escala?
 
@@ -254,7 +239,7 @@ Al menos con este asteroide se pudo ubicar el impacto.
 
 Pues bien… Hace poco tiempo, en 2018 se **descubrieron dos cráteres** con una hipotética **misma fecha** del hundimiento de nuestra civilización, y todo lo que podría suceder potencialmente… Se asemeja un montón a lo que nos cuenta Platón.
 
-La [nueva teoría del meteorito](https://pau.ninja/teoria-del-meteorito/) está más viva que nunca, y recomiendo que te la leas para ver como **sea alinea con los datos de la Atlántida a la perfección**.
+La [nueva teoría del meteorito](./teoria-del-meteorito) está más viva que nunca, y recomiendo que te la leas para ver como **sea alinea con los datos de la Atlántida a la perfección**.
 
 ## Donde se encuentra la Atlántida perdida
 
@@ -282,7 +267,7 @@ Tal vez podría haberle dicho un par de teorías a Platón, pero nuestro amigo P
 
 En su ambición por documentar todo lo que pudiera, Heródoto nos dejó con un mapa de cómo creía él que era el mundo actual de esa época.
 
-![mapa del mundo según Herodoto](https://pau.ninja/wp-content/uploads/2020/11/mapa-del-mundo-segun-Herodoto.jpg)
+![mapa del mundo según Herodoto](./wp-content/uploads/2020/11mapa-del-mundo-segun-Herodoto.jpg)
 
 La imagen y representación de su mapa es como un monigote. Me imagino a un mapa mundi actual hecho una bolita a punto de ser tirada a la papelera, y eso es lo que veríamos. Aquí marco algunos puntos de referencia importantes para poner en perspectiva cómo se veía el mundo en comparación con el planeta Tierra actual.
 
@@ -292,7 +277,7 @@ La respuesta está en nuestra habilidad de «hacerle zoom».
 
 Y es que tenemos una sorpresa muy grande cuando lo ampliamos para la esquina izquierda.
 
-![Atlántida en mapa de Herodoto](https://pau.ninja/wp-content/uploads/2020/11/atlantida-en-mapa-de-Herodoto.jpg)
+![Atlántida en mapa de Herodoto](./wp-content/uploads/2020/11atlantida-en-mapa-de-Herodoto.jpg)
 
 Aparece «Atlantes», en una ubicación cercana a las Columnas de Hércules en el estrecho de Gibraltar.
 
@@ -322,8 +307,6 @@ Esta es una teoría que emocionará a muchos patriotas españoles.
 
 De hecho hay un documental llamado El resurgir de la Atlántida de James Cameron.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Hace pocos años también hizo resurgir el despertar científico en el sur de España, aunque no exactamente en el estrecho de Gibraltar.
 
 ### La Atlántida en Doñana
@@ -332,7 +315,7 @@ A través de fotografías por satélite se encontraron restos de una ciudad sume
 
 Fue en el Parque Nacional de Doñana, en Andalucía.
 
-![círculos en parque natural](https://pau.ninja/wp-content/uploads/2020/11/circulos-en-parque-natural.jpg)
+![círculos en parque natural](./wp-content/uploads/2020/11circulos-en-parque-natural.jpg)
 
 Me gusta la idea de esta teoría, que se podría encontrar la Atlántida potencialmente en un parque natural, donde porrones de biodiversidad.
 
@@ -367,7 +350,7 @@ Pero tengo que decir que no se trata de mi hipótesis favorita.
 
 Se trata de la teoría de que el «ojo del Sahara» son los restos de la Atlántida. Ahora mismo vendría a ser mi lugar hipotético favorito.
 
-![ojo del Sahara](https://pau.ninja/wp-content/uploads/2020/11/ojo-del-sahara.jpg)
+![ojo del Sahara](./wp-content/uploads/2020/11ojo-del-sahara.jpg)
 
 Es necesario ver una imagen para entenderlo…
 
@@ -375,7 +358,7 @@ El ojo del Sahara se encuentra, lógicamente, en el desierto del Sahara que si t
 
 También tiene el nombre de «Estructura de Richat» pero si nos gusta llamarlo el ojo del Sahara (un nombre también aceptado) es porque es más coloquial y la propia manera de llamarlo ya dice mucho de las formas que tiene.
 
-![ojo del sahara vs atlantis](https://pau.ninja/wp-content/uploads/2020/11/ojo-del-sahara-vs-atlantis.jpg)
+![ojo del sahara vs atlantis](./wp-content/uploads/2020/11ojo-del-sahara-vs-atlantis.jpg)
 
 Si tenemos en cuenta la representación que se ha hecho de la Atlántida, de los textos que explicaban como eran, con esas formas redondeadas y círculos, y lo comparamos con ese «ojo», las apariencias ya dicen mucho.
 
@@ -389,7 +372,7 @@ Con esta idea en mente estamos infravalorando los cambios geológicos que pueden
 
 ¿Sabéis la superficie del ojo del Sahara? **Exactamente la misma**.
 
-Pero a parte de esto también podemos listar otras similitudes con las descripciones que se dieron del lugar y las que tienen esta área del desierto tan *trombotika*.
+Pero a parte de esto también podemos listar otras similitudes con las descripciones que se dieron del lugar y las que tienen esta área del desierto tan _trombotika_.
 
 - «El ojo» también tiene una obertura en la parte sur.
 - Tiene montañas en el norte que contienen ríos.
@@ -405,7 +388,7 @@ Todos o algunos de los elementos de esta lista los podemos tachar de «casualida
 
 Pero lo que me hace mirarlo con otros ojos es el mapa de nuestro antiguo amigo Heródoto y la coincidencia en ubicación de la supuesta Atlántida.
 
-![Sahara y Atlántida](https://pau.ninja/wp-content/uploads/2020/11/sahara-y-atlantida.jpg)
+![Sahara y Atlántida](./wp-content/uploads/2020/11sahara-y-atlantida.jpg)
 
 Vaya, vaya…
 
@@ -429,7 +412,7 @@ La hipótesis del agua, el océano y el Atlantis sumergiéndose toma aún más f
 
 En LiveSince comentaban cómo la Antártica se ha ido elevando 41 milímetros cada años, como consecuencia del «empuje» de la Tierra desde debajo, y aunque poco tiene que ver este dato con la ciudad perdida, nos da una perspectiva de que hay un montón de motivos geológicos que podrían hacer que una superficie se moviera para arriba o para abajo.
 
-![Islandia tectónica](https://pau.ninja/wp-content/uploads/2020/11/islandia-tectonica.gif)
+![Islandia tectónica](./wp-content/uploads/2020/11islandia-tectonica.gif)
 
 Si 41mm al año nos parece poco, también podemos tomar como ejemplo a Islandia, donde cada mitad de la isla se va desplazando 2cm cada año.
 
@@ -446,3 +429,88 @@ Yo sigo pensando que algún día se encontrará y espero, como digo, estar vivo 
 Este es el titular que quiero publicar en todos los sitios cuando se haga oficial.
 
 No creo que estemos muy lejos así que de momento lo dejaré aquí para editarlo en este futuro muy lejano, porque **sí**. Creo que aún hay muchas cosas por descubrir y los libros de historia de la educación pública empezarán a cambiar dentro de pocos años.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Enigmas de la historia](./enigmas-de-la-historia)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/ciudad-perdida-atlantida-ubicacion/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":8943,"title":"%E3%80%90Atl%C3%A1ntida%E3%80%91%20TODO%20sobre%20origen%2C%20civilizaci%C3%B3n%2C%20ubicaci%C3%B3n...","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2020\\/11\\/atlantida-bajo-el-agua.jpg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,13 +1,18 @@
 ---
-title: "Teoría de los 4 fogones el marco mental para (no) equilibrar tu vida"
+title: "Teoría de los 4 fogones"
+url: https://pau.ninja/areas-de-la-vida
+slug: areas-de-la-vida
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-gestionando-areas-de-la-vida.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2023/08/persona-gestionando-areas-de-la-vida.jpg
 published: 2023-09-06T05:17:50+00:00
 modified: 2023-12-22T21:21:35+00:00
+scrappedAt: 2024-10-14T09:19:52.601Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/76088192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F347630672-44100-2-a3cfb91399c65.mp3
-slug: areas-de-la-vida
+bibliography: ["La primera vez que oí hablar de La Teoría de los Cuatro Fogones fue en el blog de James Clear, que lo aprendió de Chris Guillebeau, quien se enteró por Jocelyn Glei, quien leyó sobre la teoría en un artículo del New Yorker escrito por David Sedaris, quien se enteró sobre la teoría por una mujer australiana llamada Pat, quien escuchó sobre ella en un seminario de gestión al que asistió. Si intentamos descubrir de dónde se originó la teoría de los cuatro quemadores… buena suerte. Avísame si llegas a la raíz de ella.","Solan, Matthew. 2017. “The Secret to Happiness? Here’s Some Advice from the Longest-Running Study on Happiness – Harvard Health.” ‌","Birditt KS, Antonucci TC. Relationship quality profiles and well-being among married adults. J Fam Psychol. 2007 Dec;21(4):595-604. doi: 10.1037/0893-3200.21.4.595. PMID: 18179331."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/76088192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F347630672-44100-2-a3cfb91399c65.mp3](https://anchor.fm/s/98566448/podcast/play/76088192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F347630672-44100-2-a3cfb91399c65.mp3)
 
 Hace ya casi una década que después de dejar mi trabajo me encerré en una casa familiar a construir mi negocio online.
@@ -16,11 +21,11 @@ Catorce horas diarias durante un año con tal cantidad de preocupación sobre el
 
 Y aún así lo repetiría todo exactamente igual.
 
-Estoy orgulloso de [la habilidad de toma de decisiones](https://pau.ninja/tomar-decisiones/) del Pau de hace 10 años porque este aislamiento (temporal) supuso un antes y un después en mi vida.
+Estoy orgulloso de [la habilidad de toma de decisiones](./tomar-decisiones) del Pau de hace 10 años porque este aislamiento (temporal) supuso un antes y un después en mi vida.
 
 Sin haber vivido esa época, abrazando sólo una área concreta de mi vida, no estaríais consumiendo este contenido, ni habría conocido a la gente que hoy conozco, ni tendría la libertad que hoy tengo.
 
-Por esto, como [buena persona multipotencial](https://pau.ninja/multipotencial/) no soy muy fan de la frase de Paulo Coelho de «puedes hacer cualquier cosa… pero no todo», prefiero la cita célebre de Pau Ninja:
+Por esto, como [buena persona multipotencial](./multipotencial) no soy muy fan de la frase de Paulo Coelho de «puedes hacer cualquier cosa… pero no todo», prefiero la cita célebre de Pau Ninja:
 
 > Puedes hacerlo y tenerlo todo… pero no todo a la vez.
 
@@ -28,7 +33,7 @@ La vida son épocas. Son áreas. Son focos.
 
 ¿A caso estarías pensando en priorizar el trabajo o de quedar con los amigos cuando acaba de nacer tu hijo?
 
-El 50% de la felicidad consiste en estar conforme con lo que *no* tienes, y la otra mitad no solo en disfrutar en qué dedicas tu energía sino entender *por qué* es importante para ti.
+El 50% de la felicidad consiste en estar conforme con lo que _no_ tienes, y la otra mitad no solo en disfrutar en qué dedicas tu energía sino entender _por qué_ es importante para ti.
 
 Porque el famoso _balance_ está en boca de todos, pero en manos de pocos.
 
@@ -38,7 +43,7 @@ Piénsalo.
 
 Imagina que tu vida está representada por uno de esos fogones de los de antes.
 
-No de los eléctricos que tenemos ahora para cocinar la comida mientras nos cocinamos el cerebro con [ondas electromagnéticas](https://pau.ninja/efectos-ondas-electromagneticas/) sino los fogones de antes. De los que iban con una bombona de butano o propano.
+No de los eléctricos que tenemos ahora para cocinar la comida mientras nos cocinamos el cerebro con [ondas electromagnéticas](./efectos-ondas-electromagneticas) sino los fogones de antes. De los que iban con una bombona de butano o propano.
 
 ¿Te acuerdas que sucedía si querías poner varias sartenes para cocinar a la vez?
 
@@ -52,9 +57,9 @@ El problema sólo venía cuando querías distribuir el gas limitado que te daba 
 
 Pues la vida puede ser representada así.
 
-Eso dice la teoría de los cuatro fogones, en la que cada uno de estos fogones representa áreas de la vida.[1](<javascript:void(0)>)La primera vez que oí hablar de La Teoría de los Cuatro Fogones fue en el blog de James Clear, que lo aprendió de Chris Guillebeau, quien se enteró por Jocelyn Glei, quien leyó sobre la teoría en un artículo del New Yorker escrito por David Sedaris, quien se enteró sobre la teoría por una mujer australiana llamada Pat, quien escuchó sobre ella en un seminario de gestión al que asistió. Si intentamos descubrir de dónde se originó la teoría de los cuatro quemadores… buena suerte. Avísame si llegas a la raíz de ella.
+Eso dice la teoría de los cuatro fogones, en la que cada uno de estos fogones representa áreas de la vida.[ref-1](#ref-1){.ref}
 
-![los cuatro ámbitos de la vida](https://pau.ninja/wp-content/uploads/2023/08/los-cuatro-ambitos-de-la-vida.jpeg)
+![los cuatro ámbitos de la vida](./wp-content/uploads/2023/08los-cuatro-ambitos-de-la-vida.jpeg)
 
 Aspectos que suponen el reto de saber gestionar o manejar con la llama, la intensidad de nuestro cuerpo y energía requiera de nosotros en ese momento.
 
@@ -73,26 +78,11 @@ Si estás soltero podrías cambiar el área de «amigos» por «relaciones» en 
 
 Que si encima quieres quemar al máximo esa área, seguramente tendrás que bajar la intensidad de las otras áreas.
 
-¿Y si eres un amante del *hustle* y quieres hackear el sistema para saltarte el límite de gas de la bombona de butano? Quizás hay alguna manera de saltárselo y trampear al sistema con tanta destreza como queremos saltarnos a Hacienda…
+¿Y si eres un amante del _hustle_ y quieres hackear el sistema para saltarte el límite de gas de la bombona de butano? Quizás hay alguna manera de saltárselo y trampear al sistema con tanta destreza como queremos saltarnos a Hacienda…
 
 O quizás es una de las peores ideas porque al igual que Hacienda, te pillarán por los huevos.
 
 Veámoslo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Balance entre trabajo y vida personal](#Balance_entre_trabajo_y_vida_personal 'Balance entre trabajo y vida personal')
-- [Estrategias para balancear una nueva etapa en la vida](#Estrategias_para_balancear_una_nueva_etapa_en_la_vida 'Estrategias para balancear una nueva etapa en la vida')
-  - [Delegación](#Delegacion 'Delegación')
-  - [Aprovechamiento](#Aprovechamiento 'Aprovechamiento')
-  - [Estaciones](#Estaciones 'Estaciones')
-- [Tipos de ámbitos de la vida personal](#Tipos_de_ambitos_de_la_vida_personal 'Tipos de ámbitos de la vida personal')
-  - [Relaciones](#Relaciones 'Relaciones')
-  - [Salud](#Salud 'Salud')
-  - [Trabajo](#Trabajo 'Trabajo')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Balance entre trabajo y vida personal
 
@@ -100,17 +90,17 @@ El famoso concepto de intentar balancear tu trabajo con tu vida personal ha hech
 
 A veces el cuerpo te pide que te centres al máximo
 
-Tu mente, tu energía, tu *todo* está perfectamente en sintonía con un nuevo proyecto de trabajo, o quizás en una relación, o quizás en mejorar tu salud.
+Tu mente, tu energía, tu _todo_ está perfectamente en sintonía con un nuevo proyecto de trabajo, o quizás en una relación, o quizás en mejorar tu salud.
 
 En poner más huevos de la cuenta en una misma cesta que en las otras…
 
 ¿Por qué tendrías que desaprovechar esta sintonía para buscar el famoso «balance» que la sociedad no deja de repetirte?
 
-Me recuerda a los que no dejan de repetir que *hay que comer balanceado*. Un consejo basado en absolutamente nada.
+Me recuerda a los que no dejan de repetir que _hay que comer balanceado_. Un consejo basado en absolutamente nada.
 
 En el fondo decimos que queremos balance porque tenemos miedo a equivocarnos.
 
-Tenemos miedo que desatender demasiado ciertas áreas y [enfocarnos en alcanzar metas personales](https://pau.ninja/como-alcanzar-metas-personales/) puede llevarnos a fallar. A cagarla en ese proyecto en el que hemos puesto demasiado energía.
+Tenemos miedo que desatender demasiado ciertas áreas y [enfocarnos en alcanzar metas personales](./como-alcanzar-metas-personales) puede llevarnos a fallar. A cagarla en ese proyecto en el que hemos puesto demasiado energía.
 
 Balancear las distintas áreas de la vida no deja de ser una defensa emocional.
 
@@ -131,9 +121,9 @@ Pero, ¿qué vas a hacer si el cuerpo te pide que abraces una nueva etapa de tu 
 
 El primer instinto para que nada se resienta puede ser ajustar todos los fogones para que la llama queda más o menos dividida a partes iguales (balance), pero entonces simplemente nos tocará aceptar que no podemos potenciarlas.
 
-No tendremos ni tiempo ni energía para [mantener o crear los hábitos que necesitamos](https://pau.ninja/como-crear-un-habito/) en todas las áreas. No podemos ni apalancarlos (#469).
+No tendremos ni tiempo ni energía para [mantener o crear los hábitos que necesitamos](./como-crear-un-habito) en todas las áreas. No podemos ni apalancarlos (#469).
 
-![interés compuesto de los hábitos](https://pau.ninja/wp-content/uploads/2023/02/interes-compuesto-habitos.png)
+![interés compuesto de los hábitos](./wp-content/uploads/2023/02interes-compuesto-habitos.png)
 
 A efectos prácticos lo que esto significa es que **estamos forzados a elegir**.
 
@@ -202,8 +192,8 @@ O en otras palabras: aceptar el número limitado de naranjas que tenemos, pero a
 
 Tener una visión en la que primero estamos aceptando las restricciones logísticas para, una vez aceptadas, preguntarnos como podemos ser lo más efectivos posibles.
 
-- Si asumo que sólo puedo trabajar en mi proyecto paralelo 2 horas al día durante 5 días la semana, ¿cómo me aseguro de que [trato la procrastinación](https://pau.ninja/procrastinacion-tratamiento/)?
-- Si asumo que sólo tengo 2 horas a la semana para hacer ejercicio, ¿qué ejercicios y rutinas me darán el máximo de beneficio y adherencia [para ganar masa muscular más rápido](https://pau.ninja/como-ganar-masa-muscular-rapido/)?
+- Si asumo que sólo puedo trabajar en mi proyecto paralelo 2 horas al día durante 5 días la semana, ¿cómo me aseguro de que [trato la procrastinación](./procrastinacion-tratamiento)?
+- Si asumo que sólo tengo 2 horas a la semana para hacer ejercicio, ¿qué ejercicios y rutinas me darán el máximo de beneficio y adherencia [para ganar masa muscular más rápido](./como-ganar-masa-muscular-rapido)?
 - Si asumo que sólo tengo 30 minutos diarios para escribir, ¿cómo puedo hackear mi entorno para aprovecharlos al máximo?
 
 Básicamente estamos apartando la frustración de desear más tiempo para maximizar lo que sí podemos manipular: el uso efectivo de nuestros recursos, como es la atención.
@@ -214,7 +204,7 @@ Ya sean autoimpuestas o no.
 
 Algo que demuestra la Ley de Parkinson, donde se ve como nuestras fechas de entrega se expanden tanto como tiempo tenemos para entregarlo.
 
-![ley de parkinson](https://pau.ninja/wp-content/uploads/2023/07/ley-de-parkinson.jpeg)
+![ley de parkinson](./wp-content/uploads/2023/07ley-de-parkinson.jpeg)
 
 Es decir, que si tienes 2 semanas para hacer algo, por estadística lo más probable es que lo termines cerca del final de estas dos semanas que no al principio.
 
@@ -232,13 +222,13 @@ Quizás temporalmente, que es precisamente la otra estrategia de cómo aprender 
 
 Del mismo modo que aprovechas la estación de invierno para ir a Andorra a esquiar y el verano para ir a la playa, abrazar una época de la vida según te pide el cuerpo es una estrategia digna de una persona multipotencial.
 
-No tiene maldito sentido que quieras abrazar la estación de *ser padre* cuando tengas 20 años, en cambio a tus 30 o 40 años, en los primeros años de vida de tus hijos tiene todo el sentido del mundo.
+No tiene maldito sentido que quieras abrazar la estación de _ser padre_ cuando tengas 20 años, en cambio a tus 30 o 40 años, en los primeros años de vida de tus hijos tiene todo el sentido del mundo.
 
 Cuando seas padre, cuando tu familia, hijo y mujer te necesiten más, sería una bofetada a la vida que dijeras «pues ahora me pongo 12 horas al día en mi proyecto».
 
 Lo interesante es que parece ser la propia vida la que nos pone en nuestro lugar.
 
-Algunas veces me he encontrado con [la pareja ideal sin buscarla](https://pau.ninja/que-buscar-en-una-pareja/). Cuando llevaba meses centrándome en mis proyectos, y cuando viene algo así de una forma tan orgánica, el propio cuerpo te dice que te entregues en cuerpo y alma a regar algo que puede crecer hasta convertirse en un árbol centenario.
+Algunas veces me he encontrado con [la pareja ideal sin buscarla](./que-buscar-en-una-pareja). Cuando llevaba meses centrándome en mis proyectos, y cuando viene algo así de una forma tan orgánica, el propio cuerpo te dice que te entregues en cuerpo y alma a regar algo que puede crecer hasta convertirse en un árbol centenario.
 
 A poner las raíces en el momento que más le hace falta, que es… al principio.
 
@@ -250,7 +240,7 @@ La mayoría de veces seguirán esperándonos, pero las épocas de la vida no.
 
 Esta es una de las estrategias que me gusta más. Supongo que porque es la que me ha funcionado mejor.
 
-![hacer muchas cosas a la vez](https://pau.ninja/wp-content/uploads/2023/06/hacer-muchas-cosas-a-la-vez.jpeg)
+![hacer muchas cosas a la vez](./wp-content/uploads/2023/06hacer-muchas-cosas-a-la-vez.jpeg)
 
 Cuando he respirado y vivido mi emprendimiento, me ha hecho avanzar tanto, que cuando siento que la época de la vida me pide que equilibre todos los fuegos, mi «modo mantenimiento» en algunas áreas hace que sean unas llamas contundentes.
 
@@ -270,23 +260,23 @@ Nuestro primer trabajo en cada uno de estos ámbitos es en haber almacenado sufi
 
 Me parece perfecto que estés dispuesto a balancear la llama de tus relaciones para combinarla con otros aspectos de tu vida, ¿pero tienes buenas relaciones de entrada?
 
-Es muy bonito decir que [quieres una relación sana de pareja](https://pau.ninja/relacion-de-pareja-sana/) para poderla combinar bien con el trabajo, los amigos y todo el rollo. Pero asegúrate de haberla cultivado antes.
+Es muy bonito decir que [quieres una relación sana de pareja](./relacion-de-pareja-sana) para poderla combinar bien con el trabajo, los amigos y todo el rollo. Pero asegúrate de haberla cultivado antes.
 
 > La teoría de los cuatro fogones sirve para entender cómo manejamos los activos emocionales de nuestra vida que ya tenemos.
 
 ### Relaciones
 
-- [Artículos sobre relaciones](https://pau.ninja/relaciones/) para llenar tu bombona
+- [Artículos sobre relaciones](./relaciones) para llenar tu bombona
 
 Empezando por las relaciones ya no románticas, sino en general (amigos, familia, pareja…) es el área que tiene más impacto en nuestras vidas.
 
-El estudio más largo sobre la felicidad de la mano de Harvard siguió a más de 700 hombres **durante 80 años** para terminar concluyendo que eran las relaciones.[2](<javascript:void(0)>)Solan, Matthew. 2017. “The Secret to Happiness? Here’s Some Advice from the Longest-Running Study on Happiness – Harvard Health.” ‌
+El estudio más largo sobre la felicidad de la mano de Harvard siguió a más de 700 hombres **durante 80 años** para terminar concluyendo que eran las relaciones.[ref-2](#ref-2){.ref}
 
 Que las relaciones no sólo nos afectaban tanto a nivel felicidad, sino incluso a la longevidad.
 
 Se acostumbran a separar las relaciones en los «fogones» porque como la evidencia nos confirma, las amistades y el amor no son mutuamente excluyentes.
 
-En un estudio de hace un par de décadas se vio como las personas casadas entre 22 y 79 años que reportaban tener al menos dos amigos cercanos (es decir, al menos uno más a parte de su pareja), tenían niveles más altos de satisfacción con la vida, más autoestima y menos niveles de depresión que los que sólo consideraban a su pareja la única _amiga_.[3](<javascript:void(0)>)Birditt KS, Antonucci TC. Relationship quality profiles and well-being among married adults. J Fam Psychol. 2007 Dec;21(4):595-604. doi: 10.1037/0893-3200.21.4.595. PMID: 18179331.
+En un estudio de hace un par de décadas se vio como las personas casadas entre 22 y 79 años que reportaban tener al menos dos amigos cercanos (es decir, al menos uno más a parte de su pareja), tenían niveles más altos de satisfacción con la vida, más autoestima y menos niveles de depresión que los que sólo consideraban a su pareja la única _amiga_.[ref-3](#ref-3){.ref}
 
 > No es la ausencia de amor sino la ausencia de amistad lo que hace infelices a los matrimonios. – El bueno de Friedrich Nietzsche
 
@@ -296,7 +286,7 @@ Te entiendo, compañero.
 
 ### Salud
 
-- [Artículos sobre salud](https://pau.ninja/salud/) para llenar tu bombona
+- [Artículos sobre salud](./salud) para llenar tu bombona
 
 Lo que no entiendo tanto es la poca importancia que le ponemos a la salud, como uno de los fogones más descuidados de todos.
 
@@ -304,25 +294,25 @@ Para mí, si no tenemos salud, no tienes absolutamente nada.
 
 Hablo de la física, pero también de la psicológica. Aunque si tenemos consciencia de las intensidades de nuestros fogones se nos será casi imposible tener días malos.
 
-Pero esta salud generalizada no sólo la entiendo como mover el cuerpo de forma intensa con [un buen plan de entrenamiento](https://pau.ninja/entrenamiento-ganar-masa-muscular/)… no.
+Pero esta salud generalizada no sólo la entiendo como mover el cuerpo de forma intensa con [un buen plan de entrenamiento](./entrenamiento-ganar-masa-muscular)… no.
 
 Estoy hablando de caminar, por ejemplo.
 
 No sabéis las veces que me han salvado las caminadas para ordenar los pensamientos en momentos de carga emocional.
 
-Se me carga la bombona de butano en el gimnasio con la música *pop-punk* que me pone de buen humor, pero a veces se me carga tanto (o más) con paseos que me organizan los pensamientos.
+Se me carga la bombona de butano en el gimnasio con la música _pop-punk_ que me pone de buen humor, pero a veces se me carga tanto (o más) con paseos que me organizan los pensamientos.
 
 Si no camino, es como ir dejando la ropa limpia y sucia encima de la cama y no dignarme a ordenarla nunca.
 
 ### Trabajo
 
-- [Artículos sobre productividad](https://pau.ninja/productividad/) para llenar tu bombona
+- [Artículos sobre productividad](./productividad) para llenar tu bombona
 
 Y finalmente el trabajo, que ha recibido tanta mala reputación en los últimos años.
 
 Normal.
 
-Si la gente odia lo que hace, lejos de [encontrar su trabajo ideal](https://pau.ninja/el-trabajo-ideal/).
+Si la gente odia lo que hace, lejos de [encontrar su trabajo ideal](./el-trabajo-ideal).
 
 Lo he dicho más de una vez por aquí: quiero seguir haciendo lo mismo que estoy haciendo ahora cuando tenga +100 años.
 
@@ -339,19 +329,3 @@ En absoluto.
 El objetivo actualmente para algunos debería ser rellenar esa bombona de butano.
 
 Para poder, entonces sí, hacer que tu trabajo sea ajustar la llama de cada ámbito de tu vida según la etapa o época en la que sientas que quieras cocinar.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  La primera vez que oí hablar de La Teoría de los Cuatro Fogones fue en el blog de James Clear, que lo aprendió de Chris Guillebeau, quien se enteró por Jocelyn Glei, quien leyó sobre la teoría en un artículo del New Yorker escrito por David Sedaris, quien se enteró sobre la teoría por una mujer australiana llamada Pat, quien escuchó sobre ella en un seminario de gestión al que asistió. Si intentamos descubrir de dónde se originó la teoría de los cuatro quemadores… buena suerte. Avísame si llegas a la raíz de ella.
-
-- 2
-
-  Solan, Matthew. 2017. “The Secret to Happiness? Here’s Some Advice from the Longest-Running Study on Happiness – Harvard Health.” ‌
-
-- 3
-
-  Birditt KS, Antonucci TC. Relationship quality profiles and well-being among married adults. J Fam Psychol. 2007 Dec;21(4):595-604. doi: 10.1037/0893-3200.21.4.595. PMID: 18179331.

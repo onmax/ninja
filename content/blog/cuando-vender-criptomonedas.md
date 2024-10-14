@@ -1,58 +1,47 @@
 ---
-title: "Adiós, criptomonedas ¿se acerca el momento de vender?"
+title: "Adiós, criptomonedas"
+url: https://pau.ninja/cuando-vender-criptomonedas
+slug: cuando-vender-criptomonedas
+categories: 
+- slug: inversion
+    label: Inversión
+  - slug: criptomonedas
+    label: Criptomonedas
 image: persona-vende-criptomonedas.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/05/persona-vende-criptomonedas.jpeg
 published: 2024-05-23T02:49:47+00:00
 modified: 2024-08-17T15:20:24+00:00
-audioLink:
-slug: cuando-vender-criptomonedas
+scrappedAt: 2024-10-14T09:19:16.419Z
+audioLink: 
+bibliography: []
 ---
-
 El mundo de las criptomonedas es peor que el salvaje oeste. Es una jungla, porque ¿qué hay en la jungla? Animales hambrientos y emocionales que funcionan puramente por instinto.
 
-Exactamente como el inversor *retail* medio o los _cryptobros_ durante un mercado alcista. Funcionamos por instinto y emociones humanas. Emociones animales.
+Exactamente como el inversor _retail_ medio o los _cryptobros_ durante un mercado alcista. Funcionamos por instinto y emociones humanas. Emociones animales.
 
 En vez de funcionar por estrategias, lógica, paciencia y disciplina.
 
-La única diferencia es que el instinto animal es en la búsqueda de caza y superviviencia mientras que la búsqueda de un *retail* es un par de Lamborghinis.
+La única diferencia es que el instinto animal es en la búsqueda de caza y superviviencia mientras que la búsqueda de un _retail_ es un par de Lamborghinis.
 
 Y es que ninja de la vida, en un mercado alcista, absolutamente cualquier persona tiene ganancias y se vuelve rico… en papel.
 
 Ahora bien, después de toda emoción con todos esos ceros en tu cuenta, llega un momento en el que toca bajarnos de la luna a la que pensábamos que habíamos llegado.
 
-![psicología de inversión en la bolsa](https://pau.ninja/wp-content/uploads/2024/05/psicologia-de-inversion-en-la-bolsa.jpg)
+![psicología de inversión en la bolsa](./wp-content/uploads/2024/05psicologia-de-inversion-en-la-bolsa.jpg)
 
 Aceptar que la euforia ha pasado.
 
-También acepta que hemos vendido demasiado tarde o demasiado pronto y que nuestras ganancias *teóricas* no han dejado de ser eso: una teoría.
+También acepta que hemos vendido demasiado tarde o demasiado pronto y que nuestras ganancias _teóricas_ no han dejado de ser eso: una teoría.
 
 > Vender cuando no se tiene que vender es lo que nos hace, no sólo «devolver» las ganancias que teníamos en papel, sino incluso perder dinero de nuestra inversión inicial.
 
-Una de las cosas que aprendí no sólo estudiando [la gestión de riesgo en el _trading_](https://pau.ninja/gestion-de-riesgo-en-el-trading/) sino por haberlo vivido en mis carnes, es algo en lo que estaréis de acuerdo conmigo.
+Una de las cosas que aprendí no sólo estudiando [la gestión de riesgo en el _trading_](./gestion-de-riesgo-en-el-trading) sino por haberlo vivido en mis carnes, es algo en lo que estaréis de acuerdo conmigo.
 
 Y es que la venta es mucho más difícil que la compra.
 
 > Esto es porque cuando compramos criptomonedas, lo hacemos de forma voluntaria (es algo premeditado). Pero vender es una decisión que nos vemos forzados a hacer.
 
 Nos vemos forzados a ellos o bien por la debilidad que está teniendo nuestra especulación, o bien por la fortaleza que está teniendo.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Cuando vender criptomonedas](#Cuando_vender_criptomonedas 'Cuando vender criptomonedas')
-  - [Vender en fortaleza](#Vender_en_fortaleza 'Vender en fortaleza')
-  - [Vender en debilidad](#Vender_en_debilidad 'Vender en debilidad')
-- [Estrategias para vender criptomonedas](#Estrategias_para_vender_criptomonedas 'Estrategias para vender criptomonedas')
-  - [Usando el dinero de la casa](#Usando_el_dinero_de_la_casa 'Usando el dinero de la casa')
-  - [Vendiendo la mitad](#Vendiendo_la_mitad 'Vendiendo la mitad')
-  - [Usando stop loss](#Usando_stop_loss 'Usando stop loss')
-  - [En resistencias clave](#En_resistencias_clave 'En resistencias clave')
-  - [Rebalanceando la cartera](#Rebalanceando_la_cartera 'Rebalanceando la cartera')
-- [Cuando saber que es momento para vender criptomonedas](#Cuando_saber_que_es_momento_para_vender_criptomonedas 'Cuando saber que es momento para vender criptomonedas')
-  - [Cuando todo el mundo hable de ello](#Cuando_todo_el_mundo_hable_de_ello 'Cuando todo el mundo hable de ello')
-  - [Usando el indicador de fin de ciclo](#Usando_el_indicador_de_fin_de_ciclo 'Usando el indicador de fin de ciclo')
-  - [Utilizando indicadores técnicos del mercado](#Utilizando_indicadores_tecnicos_del_mercado 'Utilizando indicadores técnicos del mercado')
 
 ## Cuando vender criptomonedas
 
@@ -62,7 +51,7 @@ O bien vendemos por haber ganado mucho _en papel_ y querer hacer que estas ganan
 
 Eso hará que queramos asegurar las ganancias que tenemos, o que vendamos por no querer tener más pérdidas.
 
-Por esto, querido ninja de al vida quiero que recordemos una frase que a mí me ha ido absolutamente increíble para tomar buenas decisiones de venta y que es una verdad absoluta que leí en mis [libros de trading favoritos](https://pau.ninja/mejores-libros-de-trading/) (#598):
+Por esto, querido ninja de al vida quiero que recordemos una frase que a mí me ha ido absolutamente increíble para tomar buenas decisiones de venta y que es una verdad absoluta que leí en mis [libros de trading favoritos](./mejores-libros-de-trading) (#598):
 
 > Si no vendes demasiado pronto, terminarás vendiendo demasiado tarde.
 
@@ -72,7 +61,7 @@ Es por esto que hoy me ha parecido esencial que indaguemos en la psicología de 
 
 ### Vender en fortaleza
 
-Vender en fortaleza es cuando todo el mercado está fuerte. Ves a tus altcoins subir como la espuma y hay un miedo que se apodera de ti: el *fomo*. El miedo de perderte una subida aún más grande.
+Vender en fortaleza es cuando todo el mercado está fuerte. Ves a tus altcoins subir como la espuma y hay un miedo que se apodera de ti: el _fomo_. El miedo de perderte una subida aún más grande.
 
 Aunque antes de un mercado alcista un +100% de ganancias nos parecía espectacular, ahora de pronto ya nos parece poco y nos empezamos a imaginar que tenemos la opción de hacer un +1000%.
 
@@ -86,7 +75,7 @@ Pero está claro que nunca querremos vender en debilidad.
 
 O sea si nos vemos en una situación de hacerlo lo tendremos que hacer, pero siempre queremos vender en una posición de fortaleza y pagarnos a nosotros mismos.
 
-![vender cripto en máximos](https://pau.ninja/wp-content/uploads/2024/05/vender-cripto-en-maximos.jpg)
+![vender cripto en máximos](./wp-content/uploads/2024/05vender-cripto-en-maximos.jpg)
 
 Claro que esto no quiere decir que no queramos intentar encontrar el máximo de fortaleza y euforia para no vender demasiado pronto.
 
@@ -98,7 +87,7 @@ Es una de mis frases favoritas en el mundo del trading ahora mismo porque sale a
 
 Si vamos más a lo pragmático, hay varias estrategias para vender criptomonedas que podemos adoptar según el perfil psicológico que tengamos.
 
-Y os comentaré cuál utilizo yo, pero ya os puedo adelantar que de todas las estrategias, la más *bruta* es la que uso yo, porque como mucha gente me ha llegado a decir «soy un extremista».
+Y os comentaré cuál utilizo yo, pero ya os puedo adelantar que de todas las estrategias, la más _bruta_ es la que uso yo, porque como mucha gente me ha llegado a decir «soy un extremista».
 
 Pues viva los extremos, que a mí psicológicamente me ha ido fenomenal, tanto en el dinero como en la salud.
 
@@ -108,7 +97,7 @@ Una estrategia que psicológicamente tiene sentido es vender la totalidad no de 
 
 Es decir sí le metí 1.000€, 10.000€, 100.000€ en una criptomoneda y estoy viendo como he triplicado las ganancias o más, lo que nos acostumbra a pasar a muchos es pensar que si continúo surfeando esta ola, esta inversión me hará un x10 a final de ciclo.
 
-Por esto para los que no tienen muchos ciclos de mercado a sus espalda, una buena estrategia es tomar un *profit* (lo puedes automatizar en tu exchange) para vender a cierto precio, pero sólo una parte.
+Por esto para los que no tienen muchos ciclos de mercado a sus espalda, una buena estrategia es tomar un _profit_ (lo puedes automatizar en tu exchange) para vender a cierto precio, pero sólo una parte.
 
 La parte equivalente a la inversión que pusiste inicialmente.
 
@@ -120,7 +109,7 @@ Paradójicamente el hecho de pensar que «ese dinero no es mío porque el mío y
 
 Otra estrategia interesante para vender criptomonedas es ir recogiendo beneficios en fortaleza pero no todo de golpe sino mientras vamos subiendo hacia arriba.
 
-Vender a medida que vamos subiendo, como si fuera [una estrategia DCA (Dollar Cost Average)](https://pau.ninja/dca-que-es-inversion/) (#307) pero inverso.
+Vender a medida que vamos subiendo, como si fuera [una estrategia DCA (Dollar Cost Average)](./dca-que-es-inversion) (#307) pero inverso.
 
 Es decir de que en vez de ir comprando poco a poco, durante la subida vamos vendiendo poco a poco.
 
@@ -128,7 +117,7 @@ Quizás incluso ir apretando el acelerador como más acelerada y extendida esté
 
 Por ejemplo tomar beneficios cuando llevamos un 50%, un 100%, un 200% de ganancias, etc e ir poniéndonos ciertos hitos de _take profits_ (recoger ganancias) a distintos niveles.
 
-![vender crypto poco a poco](https://pau.ninja/wp-content/uploads/2024/05/vender-crypto-poco-a-poco.jpg)
+![vender crypto poco a poco](./wp-content/uploads/2024/05vender-crypto-poco-a-poco.jpg)
 
 Es una buena manera de ir balanceando el riesgo, además de que a la vez nos estamos pagando a nosotros mismos y a la vez tampoco salimos de la posición demasiado temprano durante una subida potencial.
 
@@ -138,17 +127,17 @@ Cuando compré una de las altcoins con más futuro en el ciclo de 2024 (menciona
 
 En serio… y no es sólo que tuviese la intención, sino que pulsé el botón de la orden en el exchange y se aceptó.
 
-¿Sabéis que sucedió? Que _sólo_ entró un 10%. Es decir, que *sólo* se terminaron comprando 50.000€, que no es poco claro, pero ¿por qué no me dejaron?
+¿Sabéis que sucedió? Que _sólo_ entró un 10%. Es decir, que _sólo_ se terminaron comprando 50.000€, que no es poco claro, pero ¿por qué no me dejaron?
 
 Es muy importante al comprar cualquier criptomoneda que consideremos la **liquidez del mercado**.
 
-Para que yo pueda comprar un *token* alguien tiene que vender los suyos. Esto significa que mi orden sólo se pudo emparejar con la de alguien que tenía una orden de venta a 50.000 euros.
+Para que yo pueda comprar un _token_ alguien tiene que vender los suyos. Esto significa que mi orden sólo se pudo emparejar con la de alguien que tenía una orden de venta a 50.000 euros.
 
-Gracias a esto me di cuenta de lo importante que es estar en activos que sean líquidos. En los que hay mucho dinero inyectado y realmente 100 millones de liquidez de un *token* como era este, significa que yo en ese momento di una orden de compra de un 0,5% de toda la liquidez del activo.
+Gracias a esto me di cuenta de lo importante que es estar en activos que sean líquidos. En los que hay mucho dinero inyectado y realmente 100 millones de liquidez de un _token_ como era este, significa que yo en ese momento di una orden de compra de un 0,5% de toda la liquidez del activo.
 
 A efectos prácticos si me hubiera entrado hubiese movido mucho el precio. Lo sé porque de hecho vi en el gráfico que **mi orden movió el precio**.
 
-![venta de criptomoneda mueve el mercado](https://pau.ninja/wp-content/uploads/2024/05/venta-de-criptomoneda-mueve-el-mercado.png)
+![venta de criptomoneda mueve el mercado](./wp-content/uploads/2024/05venta-de-criptomoneda-mueve-el-mercado.png)
 
 Foto: ahora entiendo como se sienten los institucionales moviendo el precio.
 
@@ -160,31 +149,31 @@ Algo que sabía a nivel teórico, pero no es cuando lo vives, lo experiencias y 
 
 ### Usando stop loss
 
-No sé si has pensado alguna vez que puede ser el propio *stop-loss* que decida cuando salirnos del mercado.
+No sé si has pensado alguna vez que puede ser el propio _stop-loss_ que decida cuando salirnos del mercado.
 
 Que sea un factor automático y no emocional que decida por nosotros.
 
-Lógicamente tendremos que haber dejado el *stop-loss* preestablecido desde que hacemos la compra de nuestras criptomonedas.
+Lógicamente tendremos que haber dejado el _stop-loss_ preestablecido desde que hacemos la compra de nuestras criptomonedas.
 
-Esta es una de [las estrategias del método Weinstein](https://pau.ninja/metodo-stan-weinstein/) (#582) menciona en el libro, haciendo que sea [el uso de la media móvil](https://pau.ninja/como-usar-medias-moviles-trading/) la que nos haga de _stop-loss_.
+Esta es una de [las estrategias del método Weinstein](./metodo-stan-weinstein/) (#582) menciona en el libro, haciendo que sea [el uso de la media móvil](https://pau.ninja/como-usar-medias-moviles-trading) la que nos haga de _stop-loss_.
 
 Haciendo que cuando el precio baja de la media móvil entonces nos saldríamos automáticamente de la acción.
 
-La idea es simple: si somos demasiado cagados para salirnos, entonces que sea el *stop-loss* que decida por nosotros y que sea lo que dios quiera.
+La idea es simple: si somos demasiado cagados para salirnos, entonces que sea el _stop-loss_ que decida por nosotros y que sea lo que dios quiera.
 
-Cuando más extendido esté el ciclo, más sentido tiene que el *stop-loss* esté más y más ajustado. En cambio al principio (especialmente en criptomonedas) tenemos que dejarle suficiente margen para que corra.
+Cuando más extendido esté el ciclo, más sentido tiene que el _stop-loss_ esté más y más ajustado. En cambio al principio (especialmente en criptomonedas) tenemos que dejarle suficiente margen para que corra.
 
 Para no estrangularlo.
 
 ### En resistencias clave
 
-También puede tener sentido sacar beneficios en el momento que nuestras *altcoins* lleguen en momentos claves de la estructura del gráfico.
+También puede tener sentido sacar beneficios en el momento que nuestras _altcoins_ lleguen en momentos claves de la estructura del gráfico.
 
 Por ejemplo cuando Bitcoin llegó a máximos históricos, hubo un puñado de gente inteligente que sacó parte de ganancias.
 
-![vender crypto en resistencia](https://pau.ninja/wp-content/uploads/2024/05/vender-crypto-en-resistencia.jpg)
+![vender crypto en resistencia](./wp-content/uploads/2024/05vender-crypto-en-resistencia.jpg)
 
-Esta estrategia puede tener sentido para algunos porque muchos *traders* tienen sus órdenes de venta automáticas justo en esos niveles.
+Esta estrategia puede tener sentido para algunos porque muchos _traders_ tienen sus órdenes de venta automáticas justo en esos niveles.
 
 Esto es lo que hace que el precio cueste más de que pase estas barreras.
 
@@ -198,7 +187,7 @@ Nunca es demasiado, claro. Pero me refiero subjetivamente, cuando tenían en men
 
 Cuando ven que tienen buenas ganancias y que a nivel porcentual su altcoin, memecoin, shitcoin (lo que sea) ha cogido mucho peso en su cartera, era ir sacando los beneficios para convertirlos a otro.
 
-Por ejemplo alguien pasará sus ganancias de PEPE o SHIBA o BONK a BTC porque lo consideran un activo más duro, mientras que otros dirán *no, no, yo soy aún más conservador y por esto lo voy a [meter a fondos indexados](https://pau.ninja/fondos/)*, por ejemplo.
+Por ejemplo alguien pasará sus ganancias de PEPE o SHIBA o BONK a BTC porque lo consideran un activo más duro, mientras que otros dirán _no, no, yo soy aún más conservador y por esto lo voy a [meter a fondos indexados](./fondos)_, por ejemplo.
 
 ## Cuando saber que es momento para vender criptomonedas
 
@@ -214,15 +203,15 @@ Y no podemos obtener resultados distintos al resto, si nuestras acciones tampoco
 
 En el caso del _trading_ sabemos de buena pasta que cuando hay un pico de inversores eufóricos, novatos, que sólo se dejan llevar por el montón de pasta que harán en un ciclo alcista de criptomonedas donde todo el mundo se hace rico en papel, es ahí cuando nosotros tenemos que considerar vender.
 
-![vender criptomonedas en euforia](https://pau.ninja/wp-content/uploads/2024/05/vender-criptomonedas-en-euforia.jpg)
+![vender criptomonedas en euforia](./wp-content/uploads/2024/05vender-criptomonedas-en-euforia.jpg)
 
 Es decir, queremos hacer lo contrario, pero para hacer lo contrario a la mayoría (y ser así, la minoría), necesitamos estar informados y entender qué es lo que está haciendo la mayoría.
 
 Con esto hay un problema y es el hecho de que acostumbramos a vivir en burbujas de información que alimentan nuestros sesgos. Nuestros puntos de vista.
 
-Por ejemplo en las redes sociales seguiremos mayoritariamente a personas que reafirman estos puntos de vista, y si por ejemplo estuvieras siguiendo a montones de _cryptobros_ generando un montón de pasta constantemente, podrías haber pensado que estábamos en el pico del *bull market*.
+Por ejemplo en las redes sociales seguiremos mayoritariamente a personas que reafirman estos puntos de vista, y si por ejemplo estuvieras siguiendo a montones de _cryptobros_ generando un montón de pasta constantemente, podrías haber pensado que estábamos en el pico del _bull market_.
 
-Sin embargo tenemos que hacer *zoom out*, la vista de pájaro para ver si los reponedores del Mercadona están hablando ya de las *memecoins*.
+Sin embargo tenemos que hacer _zoom out_, la vista de pájaro para ver si los reponedores del Mercadona están hablando ya de las _memecoins_.
 
 Es por esto que hay distintas estrategias para tener una idea global, de qué está pensando y haciendo la mayoría que nos pueda servir de indicador que hemos llegado a un pico.
 
@@ -252,7 +241,7 @@ Y cuando toca la campana de este indicador, hay que ser precavido de mirar todos
 
 Como siempre sabemos que resultados pasados no indican tampoco que vaya a acertar en el futuro, pero esto no saca que pueda darnos una señal de aviso, para que miremos de cerca lo que está pasando en el mercado, y si quizás estamos ya muy extendidos de un ciclo alcista.
 
-Lo que a la vez también hace que muchas personas se disparen en el pie, porque si empezamos a pensar que como este indicador nos ha dicho que se viene bajada, es bastante probable que entonces vayamos con un sesgo bajista, y todo nos parezca indicar de que realmente se termina el *show*.
+Lo que a la vez también hace que muchas personas se disparen en el pie, porque si empezamos a pensar que como este indicador nos ha dicho que se viene bajada, es bastante probable que entonces vayamos con un sesgo bajista, y todo nos parezca indicar de que realmente se termina el _show_.
 
 Así que tendremos que intentar ser objetivos en todo momento.
 
@@ -260,14 +249,96 @@ Así que tendremos que intentar ser objetivos en todo momento.
 
 Otro aspecto que no podemos obviar, es que si Bitcoin es interpretada por los mercados como si fuera el NASDAQ o como una tecnológica, significa que también tiene que seguir el resto del mercado.
 
-Por esto cuando hablé de [cómo saber el momento de vender acciones](https://pau.ninja/cuando-vender-acciones/) también hice referencia a la venta de criptomonedas.
+Por esto cuando hablé de [cómo saber el momento de vender acciones](./cuando-vender-acciones) también hice referencia a la venta de criptomonedas.
 
 Porque si el mercado está _sobrecomprado_ significa que hay una corrección que llegará pronto.
 
-![amplitud sobrecomprado](https://pau.ninja/wp-content/uploads/2024/05/amplitud-sobrecomprado.jpg)
+![amplitud sobrecomprado](./wp-content/uploads/2024/05amplitud-sobrecomprado.jpg)
 
 Así que lógicamente tenemos que vigilar de cerca al mercado porque si los índices, las acciones y las rupturas de Etapa 2 empiezan a fallar, podría ser un buen aviso de que se avecina algo chungo.
 
 No queremos ser los últimos a salir: el último euro que lo gane otro.
 
 Recordemos: si no vendemos demasiado pronto, terminaremos vendiendo demasiado tarde.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Inversión](./inversion)  
+O si quieres ser más específico:[Criptomonedas](./criptomonedas)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/cuando-vender-criptomonedas/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":24538,"title":"5%20t%C3%A1cticas%20%2B%201%20secreto%20para%20vender%20criptomonedas","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2024\\/05\\/persona-vende-criptomonedas.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

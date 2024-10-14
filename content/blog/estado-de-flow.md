@@ -1,13 +1,18 @@
 ---
-title: "Flow el estado mental de (super) concentración"
+title: "Flow"
+url: https://pau.ninja/estado-de-flow
+slug: estado-de-flow
+categories: 
+- slug: productividad
+    label: Productividad
 image: persona-en-estado-de-flow.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/05/persona-en-estado-de-flow.jpeg
 published: 2024-01-13T05:48:07+00:00
 modified: 2024-01-13T15:33:42+00:00
+scrappedAt: 2024-10-14T09:19:41.066Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/72019608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334701782-44100-2-8b4821ed35e8.mp3
-slug: estado-de-flow
+bibliography: ["Nolen-Hoeksema, S.; Wisco, B. E.; Lyubomirsky, S. (2008). «Rethinking Rumination». Perspectives on Psychological Science 3 (5): 400-424.","Fox, M. D.; Snyder, A. Z.; Vincent, J. L.; Corbetta, M.; Van Essen, D. C.; Raichle, M. E. (2005). «From The Cover: The human brain is intrinsically organized into dynamic, anticorrelated functional networks». Proceedings of the National Academy of Sciences 102 (27): 9673-9678.","pp. 44-51 The Book of Rest: The Odd Psychology of Doing Nothing","Neuroscience of Happiness – Scientific American https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/Kringelbach-Berridge-2012-Joyful-mind-Sci-Am.pdf","Rauwolf, P., et al. (2021) Reward uncertainty – as a ‘psychological salt’- Journal of Experimental Psychology: General https://doi.apa.org/doiLanding?doi=10.1037%2Fxge0001029","Loh HH, Tseng LF, Wei E, Li CH. beta-endorphin is a potent analgesic agent. Proc Natl Acad Sci U S A. 1976 Aug;73(8):2895-8. doi: 10.1073/pnas.73.8.2895. PMID: 8780; PMCID: PMC430793.","Solingen, Rini & Berghout, Egon & Latum, Frank. (1998). Interrupts: Just a Minute Never Is.. IEEE Software. 15. 97-103. 10.1109/52.714843.","Leroy, Sophie. (2009). Why is it so Hard to do My Work? The Challenge of Attention Residue when Switching Between Work Tasks. Organizational Behavior and Human Decision Processes. 109. 168-181. 10.1016/j.obhdp.2009.04.002.","Gopher, D., Armony, L. & Greenspan, Y. (2000). Switching tasks and attention policies. Journal of Experimental Psychology: General, 129, 308-229.","Mayr, U. & Kliegl, R. (2000). Task-set switching and long-term memory retrieval. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26, 1124-1140.","Meuter, R. F. I. & Allport, A. (1999). Bilingual language switching in naming: Asymmetrical costs of language selection. Journal of Memory and Language, 40(1), 25-40.","Meyer, D. E. & Kieras, D. E. (1997a). A computational theory of executive cognitive processes and multiple-task performance: Part 1. Basic mechanisms. Psychological Review, 104, 3-65.","Meyer, D. E. & Kieras, D. E. (1997b). A computational theory of executive cognitive processes and multiple-task performance: Part 2. Accounts of psychological refractory-period phenomena. Psychological Review, 104, 749-791.","Schmidt C, Collette F, Cajochen C, Peigneux P. A time to think: circadian rhythms in human cognition. Cogn Neuropsychol. 2007 Oct;24(7):755-89. doi: 10.1080/02643290701754158. PMID: 18066734.","Katahira K, Yamazaki Y, Yamaoka C, Ozaki H, Nakagawa S, Nagata N. EEG Correlates of the Flow State: A Combination of Increased Frontal Theta and Moderate Frontocentral Alpha Rhythm in the Mental Arithmetic Task. Front Psychol. 2018 Mar 9;9:300. doi: 10.3389/fpsyg.2018.00300. PMID: 29593605; PMCID: PMC5855042.","What it’s like to have a brain in permanent flow state — a qEEG report. Oksana Andreiuk, Canadian Biohacker, May 7, 2019","Lesiuk, Teresa. (2005). The effect of music listening on work performance. Psychology of Music – PSYCHOL MUSIC. 33. 173-191. 10.1177/0305735605050650."]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/72019608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334701782-44100-2-8b4821ed35e8.mp3](https://anchor.fm/s/98566448/podcast/play/72019608/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-12%2F334701782-44100-2-8b4821ed35e8.mp3)
 
 ¿Alguna vez habéis tenido esa sensación de estar haciendo algo, de una forma tan concentrada que te **pasa el tiempo volando**?
@@ -26,9 +31,9 @@ Por esto hoy vamos a describir teóricamente y pragmáticamente **la herramienta
 
 > Porque cuando estás en estado de _flow_, estás «haciendo», no «diciendo».
 
-No tienes porque ser un profesional, aunque es verdad que hay distintos niveles, distintos «estados de *flow*» a los que podemos entrar, pero lo bonito es que este estado mental está **al alcance de cualquier persona**.
+No tienes porque ser un profesional, aunque es verdad que hay distintos niveles, distintos «estados de _flow_» a los que podemos entrar, pero lo bonito es que este estado mental está **al alcance de cualquier persona**.
 
-Cuanto más _flow_ puedes dirigir a lo que te importa (sin necesidad de ser un pro), más irás aumentando el nivel de tu «estado de *flow*» y más irá aumentando el nivel de la habilidad. Recordemos:
+Cuanto más _flow_ puedes dirigir a lo que te importa (sin necesidad de ser un pro), más irás aumentando el nivel de tu «estado de _flow_» y más irá aumentando el nivel de la habilidad. Recordemos:
 
 > El éxito en cualquier área está 100% ligado con la cantidad de tu atención que puedas dirigir a esa área (twitéalo).
 
@@ -36,50 +41,13 @@ Si dominas tu atención, dominarás en esa área. No hay más secreto.
 
 Olvida el tiempo. La atención es más importante que el tiempo. Puedes tener todo el tiempo del mundo pero sin una atención bien dirigida es lo que llamamos «perder el tiempo».
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el estado de flow](#Que_es_el_estado_de_flow 'Qué es el estado de flow')
-  - [Ejemplos de estados de flow](#Ejemplos_de_estados_de_flow 'Ejemplos de estados de flow')
-  - [Tipos de estados de flow](#Tipos_de_estados_de_flow 'Tipos de estados de flow')
-  - [Historia del flow](#Historia_del_flow 'Historia del flow')
-- [La teoría del flow en psicología](#La_teoria_del_flow_en_psicologia 'La teoría del flow en psicología')
-  - [Por qué "fluir" te da un estado de felicidad](#Por_que_%22fluir%22_te_da_un_estado_de_felicidad 'Por qué "fluir" te da un estado de felicidad')
-  - [El secreto para entrar en el estado de flow](#El_secreto_para_entrar_en_el_estado_de_flow 'El secreto para entrar en el estado de flow')
-- [Características del estado de flow](#Caracteristicas_del_estado_de_flow 'Características del estado de flow')
-  - [Los objetivos son claros](#Los_objetivos_son_claros 'Los objetivos son claros')
-  - [Las tareas suponen un reto](#Las_tareas_suponen_un_reto 'Las tareas suponen un reto')
-  - [Las distracciones no existen](#Las_distracciones_no_existen 'Las distracciones no existen')
-  - [La inseguridad desaparece](#La_inseguridad_desaparece 'La inseguridad desaparece')
-  - [La actividad es autotélica](#La_actividad_es_autotelica 'La actividad es autotélica')
-- [Por qué buscar el estado flow](#Por_que_buscar_el_estado_flow 'Por qué buscar el estado flow')
-- [Cómo entra en flow el cerebro](#Como_entra_en_flow_el_cerebro 'Cómo entra en flow el cerebro')
-- [Qué necesitas para entrar en estado de flow](#Que_necesitas_para_entrar_en_estado_de_flow 'Qué necesitas para entrar en estado de flow')
-  - [Hackear el entorno](#Hackear_el_entorno 'Hackear el entorno')
-  - [Tendencia a entrar en flujo](#Tendencia_a_entrar_en_flujo 'Tendencia a entrar en flujo')
-  - [Tener la mentalidad correcta](#Tener_la_mentalidad_correcta 'Tener la mentalidad correcta')
-  - [Tener tanto salud como energía](#Tener_tanto_salud_como_energia 'Tener tanto salud como energía')
-- [Pasos para alcanzar el estado de flow](#Pasos_para_alcanzar_el_estado_de_flow 'Pasos para alcanzar el estado de flow')
-  - [Define un objetivo concreto](#Define_un_objetivo_concreto 'Define un objetivo concreto')
-  - [Encuentra el balance entre reto-habilidad](#Encuentra_el_balance_entre_reto-habilidad 'Encuentra el balance entre reto-habilidad')
-  - [Encuentra una manera de recibir feedback](#Encuentra_una_manera_de_recibir_feedback 'Encuentra una manera de recibir feedback')
-- [Rutina para alcanzar el estado flow](#Rutina_para_alcanzar_el_estado_flow 'Rutina para alcanzar el estado flow')
-- [Las fases del estado de flow](#Las_fases_del_estado_de_flow 'Las fases del estado de flow')
-  - [Lucha](#Lucha 'Lucha')
-  - [Persistencia](#Persistencia 'Persistencia')
-  - [Flujo](#Flujo 'Flujo')
-  - [Recuperación](#Recuperacion 'Recuperación')
-- [Libros sobre entrar en estado de flow](#Libros_sobre_entrar_en_estado_de_flow 'Libros sobre entrar en estado de flow')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Qué es el estado de _flow_
 
-El flujo, estado de *flow* o *flow state* es un estado mental en el que la persona está completamente **absorta en una actividad** resultando en una **pérdida del sentido del espacio y tiempo**.
+El flujo, estado de _flow_ o _flow state_ es un estado mental en el que la persona está completamente **absorta en una actividad** resultando en una **pérdida del sentido del espacio y tiempo**.
 
 - Es lo que los deportistas llaman «estar en la zona»
 - Es lo que los raperos llaman «el flow»
-- Es lo que los *pick up artist* llaman «entrar en estado»
+- Es lo que los _pick up artist_ llaman «entrar en estado»
 - Es lo que las personas productivas llaman «trabajo profundo» o _deep work_
 
 Cuando estás en ese espacio mental, estás tan absorto, tan concentrado (a la vez que relajado), que no sólo **no** te das cuentas que estás en _flow_ (sólo te darás cuenta que estabas en _flow_ cuando ya no lo estés), sino que cuando estás «ahí» tienes la sensación que todo está bien en el mundo.
@@ -88,11 +56,11 @@ Que estás exactamente dónde el cuerpo y la mente te piden que estés.
 
 No hay estrés. No hay ansiedad. La procrastinación no es una opción, no porque no tengas que forzarla, sino porque tu cerebro está ahí: en el ya y en el ahora exclusivamente.
 
-Estar en estado de *flow* significa **estar relajado**, pero con un control total de la situación. Pensando menos pero haciendo más.
+Estar en estado de _flow_ significa **estar relajado**, pero con un control total de la situación. Pensando menos pero haciendo más.
 
 ### Ejemplos de estados de _flow_
 
-Lo bonito del estado de *flow* es que la Madre Naturaleza ha creado unos circuitos neuronales en nuestras cabezas (que veremos en un segundo) que son **increíblemente genéricos**.
+Lo bonito del estado de _flow_ es que la Madre Naturaleza ha creado unos circuitos neuronales en nuestras cabezas (que veremos en un segundo) que son **increíblemente genéricos**.
 
 Esto significa que podemos experimentar esta sensación (y otras) de muchas maneras distintas.
 
@@ -108,7 +76,7 @@ Ponerte a «jugar 20 minutos» y cuando te das cuenta has pasado 12 horas en el 
 
 Quizás también lo has vivido jugando a algún deporte. Seguramente todos de pequeños entrábamos «en estado» jugando fuera con los amigos en esos días de verano sin escuela hasta que salía tu madre a decirte que era hora de comer. Ni siquiera te habías dado cuenta que ya era oscuro.
 
-En el anime sobre futbol Blue Lock se habla del *flowstate* psicológicamente [descrito](https://bluelock.fandom.com/wiki/Chapter_111) a la perfección. Los personajes entran en un estado de tal concentración que a veces hacen pases o movimientos que los hacen sorprender a ellos mismos porque son «un todo». El mundo, la pelota, ellos… son uno solo.
+En el anime sobre futbol Blue Lock se habla del _flowstate_ psicológicamente [descrito](https://bluelock.fandom.com/wiki/Chapter_111) a la perfección. Los personajes entran en un estado de tal concentración que a veces hacen pases o movimientos que los hacen sorprender a ellos mismos porque son «un todo». El mundo, la pelota, ellos… son uno solo.
 
 VIDEO BLUE LOCK
 
@@ -130,21 +98,21 @@ Por esto el estado de _flow_ es muy buscado cuando queremos ser productivos, por
 
 El herrero siente que las herramientas y la espada son «uno solo». El carpintero siente que el martillo es una extensión más de su cuerpo. El escritor siente que «él es las palabras». Sin exagerar.
 
-Pero no es sólo productividad y lo que los gurús de desarrollo personal llaman *deep work* (trabajo profundo), es cualquier disciplina en la que estemos totalmente presentes.
+Pero no es sólo productividad y lo que los gurús de desarrollo personal llaman _deep work_ (trabajo profundo), es cualquier disciplina en la que estemos totalmente presentes.
 
 #### Socializando
 
 ¿Algunas vez has conocido a la persona más social del mundo en una fiesta o evento, pero después te lo encuentras otro día en la calle y parece alguien totalmente distinto? Casi como si de pronto se haya vuelto introvertido. Lo más probable no es que estuviera drogado cuando lo conociste, sino que esta persona «estaba en estado».
 
-Cuando interactuamos con varias personas, nuestro cerebro entra a «modo socialización». Entra en un *flow* social en el que parece que las bromas salen solas.
+Cuando interactuamos con varias personas, nuestro cerebro entra a «modo socialización». Entra en un _flow_ social en el que parece que las bromas salen solas.
 
 Te pierdes en las conversaciones escuchando proactivamente, con visión de túnel, conectando pensamientos que relacionas de forma fluida en la conversación.
 
-Estas en *flow* social. En el presente. Sin miedo a ser juzgado. Con coraje para decir lo que quieras y hacer el ridículo si te da la gana. Lo que hay en tu alrededor desaparece y eres el alma de la fiesta. O al menos lo eres en tu cabeza.
+Estas en _flow_ social. En el presente. Sin miedo a ser juzgado. Con coraje para decir lo que quieras y hacer el ridículo si te da la gana. Lo que hay en tu alrededor desaparece y eres el alma de la fiesta. O al menos lo eres en tu cabeza.
 
 #### Ligando
 
-Es por esto que para muchos ligar es tan adictivo. Porque se entra en estado, en *flow* social hablando con chicas.
+Es por esto que para muchos ligar es tan adictivo. Porque se entra en estado, en _flow_ social hablando con chicas.
 
 Fue gracias a practicar [_daygame_, el arte de ligar en la calle](https://pau.ninjadaygame/) (#256) que entendí porque a los coaches de seducción se les llama «pick-up artists» (artistas de la seducción).
 
@@ -155,8 +123,6 @@ Igual que un músico o un artesano entra en _flow state_ con su oficio, cuando e
 Todo lo de tu alrededor desaparece. La mente se pone en el momento presente y tu visión en modo túnel. Sólo puedes pensar en esa interacción.
 
 Cuando no estás «en estado» esos miedos están muy presentes. Te salen mil excusas para no decirle nada a la desconocida, pero **en el momento de decir «hola»** la mente se pone «ahí» al 100%.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 En el mundo del ligoteo, cuando alguien va a hacer sesiones de «sargeo» en la calle terminas lo que en este mundo se conoce como «entrar en estado», que al final no es otra cosa que «entrar en _flow_«.
 
@@ -174,31 +140,29 @@ Se busca entrar en este estado de _flow_ para que tu mente empiece a liberarse d
 
 Aunque bueno.
 
-Por muchos comentarios que puedas hacer a desconocidos, en vez de entrar en estado gradualmente lo que también se hace es entrar a una desconocida sin «estar en estado» asumiendo que la interacción muy probablemente será pésima pero que cuando salgas de ahí estarás en un *flow* más profundo que haciendo comentarios a las viejas de la calle.
+Por muchos comentarios que puedas hacer a desconocidos, en vez de entrar en estado gradualmente lo que también se hace es entrar a una desconocida sin «estar en estado» asumiendo que la interacción muy probablemente será pésima pero que cuando salgas de ahí estarás en un _flow_ más profundo que haciendo comentarios a las viejas de la calle.
 
 #### Arriesgándote
 
-Uno de los motivos por los que se entra «en estado» tan rápido diciendo cosas a desconocidas, es porque estamos **asumiendo un riesgo**. En este caso [el miedo a que nos rechacen](https://pau.ninja/superar-el-miedo-al-rechazo/) (#263), que no es moco de pavo porque evolutivamente no nos conviene.
+Uno de los motivos por los que se entra «en estado» tan rápido diciendo cosas a desconocidas, es porque estamos **asumiendo un riesgo**. En este caso [el miedo a que nos rechacen](./superar-el-miedo-al-rechazo) (#263), que no es moco de pavo porque evolutivamente no nos conviene.
 
 El _flow_ se intensifica con **riesgo**.
 
-El riesgo es uno de los factores que hace que los atletas de deportes extremos entren en «esa zona». No es lo mismo entrar en *flow* trabajando, que en un combate de artes marciales. Uno de los motivos por los que los hace tan adictivos. Por esto Goku entra en Ultra Instinto cuando está luchando con Jiren.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+El riesgo es uno de los factores que hace que los atletas de deportes extremos entren en «esa zona». No es lo mismo entrar en _flow_ trabajando, que en un combate de artes marciales. Uno de los motivos por los que los hace tan adictivos. Por esto Goku entra en Ultra Instinto cuando está luchando con Jiren.
 
 El tío está en peligro, hay un riesgo que lo hace concentrarse. Su cuerpo sabe que si no lo hace, algo puede ir muy pero que muy mal.
 
 En el mundo real los que hacéis surf, snowboarding, esquí, escalada… aunque se intente hacer bajo cierta seguridad, siempre hay un riesgo subyacente.
 
-En los casos donde hay riesgo, no sólo se entra en estado de *flow* más rápido, sino que también la intensidad, el grado de concentración es más intenso, llegando a un punto hipnótico y meditativo.
+En los casos donde hay riesgo, no sólo se entra en estado de _flow_ más rápido, sino que también la intensidad, el grado de concentración es más intenso, llegando a un punto hipnótico y meditativo.
 
 #### Ejercitándote
 
-Por esto los atletas hablan tanto de «estar en la zona» y tienen sus rituales para adentrarse en esa zona, en este *flow*.
+Por esto los atletas hablan tanto de «estar en la zona» y tienen sus rituales para adentrarse en esa zona, en este _flow_.
 
 Cuando sales a correr y llevas 20 minutos dándole, tu mente empieza a entrar en ese estado mental y es lo que hace que muchas personas se vuelvan adictas a correr en este caso.
 
-Sinceramente no me ha pasado nunca corriendo pero dónde si lo he sentido en el gimnasio. No hay un riesgo, lo que el *flow* será de un nivel más bajo en este caso, pero [la conexión mente-músculo entrenando](https://pau.ninja/conexion-mente-musculo/) es muy real. Con la música y centrándote en contraer el músculo es como minisesiones de estado de _flow_.
+Sinceramente no me ha pasado nunca corriendo pero dónde si lo he sentido en el gimnasio. No hay un riesgo, lo que el _flow_ será de un nivel más bajo en este caso, pero [la conexión mente-músculo entrenando](./conexion-mente-musculo) es muy real. Con la música y centrándote en contraer el músculo es como minisesiones de estado de _flow_.
 
 ### Tipos de estados de _flow_
 
@@ -210,16 +174,16 @@ El que yo más he vivido es el individual sin duda, el coactivo no creo haberlo 
 
 De entrada pensaba que el estado de flow grupal era algo que no había experimentado nunca pero después pensé: no es realmente verdad. Lo he experimentado alguna vez bailando.
 
-El baile sigue todo los patrones de _flow_, y aunque sigo en el 70% de veces demasiado en mi cabeza para estar en un estado relajado pero retado que me impide «entrar en estado», algunas veces si que he sentido el *flow* bailando en pareja y es lo que me ha hecho seguir querer seguir aprendiendo a pesar de no ser naturalmente bueno.
+El baile sigue todo los patrones de _flow_, y aunque sigo en el 70% de veces demasiado en mi cabeza para estar en un estado relajado pero retado que me impide «entrar en estado», algunas veces si que he sentido el _flow_ bailando en pareja y es lo que me ha hecho seguir querer seguir aprendiendo a pesar de no ser naturalmente bueno.
 
-Poca referencia se hace al estado de *flow* en estas actividades porque todo se centra en la productividad.
+Poca referencia se hace al estado de _flow_ en estas actividades porque todo se centra en la productividad.
 
 La primera vez que escuché sobre «_flow_ en equipo» es en Estados Unidos de la mano de un diseñador danés… una historia muy loca (…).
 
-A parte de unas metas claras y sesiones de *feedback* es indispensable que para los que tengáis trabajadores y queréis ayudarles a que entren en _flow_ (o si tú mismo eres asalariado) será:
+A parte de unas metas claras y sesiones de _feedback_ es indispensable que para los que tengáis trabajadores y queréis ayudarles a que entren en _flow_ (o si tú mismo eres asalariado) será:
 
 - **Autonomía:** al menos un cierto grado. Dejar que elijan ciertas tareas o elegir el cómo abordarlas. Alguien que tiene autonomía se comprometerá a un grado mucho más elevado porqué tendrá la oportunidad de adaptarse al enfoque de manera que encaja con sus intereses y también habilidades.
-- **Interés:** que aumentará la motivación intrínseca del trabajador. Algo que los empuja mucho más que (sólo) el dinero, cumplidos u otros incentivos externos. Los que habéis experimentado *flow* sabéis bien por qué: es altamente adictivo.
+- **Interés:** que aumentará la motivación intrínseca del trabajador. Algo que los empuja mucho más que (sólo) el dinero, cumplidos u otros incentivos externos. Los que habéis experimentado _flow_ sabéis bien por qué: es altamente adictivo.
 - **Unión:** sentir que remamos todos en la misma dirección. Que tú estás currando mucho, pero yo también, y todos los demás. Este sentimiento de unión crea un entorno para sentirse seguro compartiendo tanto preguntas como ideas inusuales. Algo que aumenta la creatividad y el intercambio de conocimientos (que también se ha encontrado que está relacionado con Flow).
 
 Aparte de eso, crear estructuras que induzcan el estado de flow siempre es un idea maravillosa.
@@ -238,9 +202,7 @@ Por esto siempre estoy repitiendo que todo el mundo es estoico leyendo a Marco A
 
 Si Marco Aurelio y Séneca son la referencia estoica, es al psicólogo [Mihaly Csikszentmihalyi](https://news.uchicago.edu/story/mihaly-csikszentmihalyi-pioneering-psychologist-and-father-flow-1934-2021) (el profesor americano-húngaro moría hace un par de años), a quien se le atribuye desarrollar el concepto de «estado de flow» como lo conocemos en los años 70.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-Podríamos llamarlo «El Padrino del flow» gracias a darnos a contextualizarnos este estado mental en su [libro](https://pau.ninja/estado-de-flow/#Libros_sobre_entrar_en_estado_de_flow) «fluir: una psicología de la felicidad».
+Podríamos llamarlo «El Padrino del flow» gracias a darnos a contextualizarnos este estado mental en su [libro](./estado-de-flow#Libros_sobre_entrar_en_estado_de_flow) «fluir: una psicología de la felicidad».
 
 Este psicólogo estaba muy interesado en el sentido de la vida y estos senderos terminaron llevándolo alrededor del mundo preguntando a personas que les hacía sentir bien en la vida.
 
@@ -248,12 +210,12 @@ Ahí donde fuese siempre era lo mismo. Esa gente describía un estado alterado d
 
 ## La teoría del _flow_ en psicología
 
-La sensación de *flow* es adictiva por un buen motivo. Cuando hablamos de nuestra atención (el recurso más escaso de la Tierra, más que el agua o el petroleo), dos redes cerebrales juegan un papel importante:
+La sensación de _flow_ es adictiva por un buen motivo. Cuando hablamos de nuestra atención (el recurso más escaso de la Tierra, más que el agua o el petroleo), dos redes cerebrales juegan un papel importante:
 
-- **Red de Modo Predeterminado (DMN):** que está activa cuando el cerebro está relajado. Se correlaciona con la mente errante, la conciencia abierta y también la [rumiación](https://es.wikipedia.org/wiki/Rumiaci%C3%B3n) que es cuando conceptualizamos haciendo _overthinking_ [1](<javascript:void(0)>)Nolen-Hoeksema, S.; Wisco, B. E.; Lyubomirsky, S. (2008). «Rethinking Rumination». Perspectives on Psychological Science 3 (5): 400-424. (cuando la mente se imagina mil escenarios).
-- **Red Orientada a Tareas (TPN):** que son zonas de nuestro cerebro que se activan cuando tenemos que hacer tareas que nos demandan nuestra atención plena[2](<javascript:void(0)>)Fox, M. D.; Snyder, A. Z.; Vincent, J. L.; Corbetta, M.; Van Essen, D. C.; Raichle, M. E. (2005). «From The Cover: The human brain is intrinsically organized into dynamic, anticorrelated functional networks». Proceedings of the National Academy of Sciences 102 (27): 9673-9678..
+- **Red de Modo Predeterminado (DMN):** que está activa cuando el cerebro está relajado. Se correlaciona con la mente errante, la conciencia abierta y también la [rumiación](https://es.wikipedia.org/wiki/Rumiaci%C3%B3n) que es cuando conceptualizamos haciendo _overthinking_ [ref-1](#ref-1){.ref} (cuando la mente se imagina mil escenarios).
+- **Red Orientada a Tareas (TPN):** que son zonas de nuestro cerebro que se activan cuando tenemos que hacer tareas que nos demandan nuestra atención plena[ref-2](#ref-2){.ref}.
 
-Durante el los estados de *flow*, la Red de Modo Predeterminado baja la guardia y se nos activa la Red Orientada a Tareas para que podamos dejar ir cualquier preocupación y distracción centrándonos de lleno en la acción que tenemos delante.
+Durante el los estados de _flow_, la Red de Modo Predeterminado baja la guardia y se nos activa la Red Orientada a Tareas para que podamos dejar ir cualquier preocupación y distracción centrándonos de lleno en la acción que tenemos delante.
 
 Esto explica por qué **perdemos la noción del tiempo** cuando estamos tan centrados.
 
@@ -267,7 +229,7 @@ Lo que sucede desde el punto de vista neuroquímico es que se liberan varios neu
 - **Noradrenalina y dopamina:** activadores
 - **Serotonina y endorfinas:** sustancias químicas que nos hacen sentir bien
 
-La combinación de todos estos neurotransmisores con funciones aparentemente diferentes es lo que hacen que el *flow* sea tan único.
+La combinación de todos estos neurotransmisores con funciones aparentemente diferentes es lo que hacen que el _flow_ sea tan único.
 
 Nos sentimos concentrados y activados (por la dopamina/noradrenalina), pero también relajados (anandamidas) y felices (serotonina/endorfinas).
 
@@ -285,15 +247,15 @@ Aún siendo capaces de saltarnos los incordios logísticos de esta situación, l
 
 ### El secreto para entrar en el estado de _flow_
 
-Se ha demostrado que, ya no la novedad de la actividad, sino también la incertidumbre de la recompensa puede mejorar la experiencia sensorial[3](<javascript:void(0)>)pp. 44-51 The Book of Rest: The Odd Psychology of Doing Nothing[4](<javascript:void(0)>)Neuroscience of Happiness – Scientific American https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/Kringelbach-Berridge-2012-Joyful-mind-Sci-Am.pdf[5](javascript:void\(0\))Rauwolf, P., et al. (2021) Reward uncertainty – as a ‘psychological salt’- Journal of Experimental Psychology: General https://doi.apa.org/doiLanding?doi=10.1037%2Fxge0001029.
+Se ha demostrado que, ya no la novedad de la actividad, sino también la incertidumbre de la recompensa puede mejorar la experiencia sensorial[ref-3](#ref-3){.ref}[ref-4](#ref-4){.ref}[ref-5](#ref-5){.ref}.
 
 En lenguaje ninja: las palomitas saben mejor cuando nos las comemos en el cine mirando una película que teníamos muchas ganas de ver. Por el mismo motivo que nos sabrían peor que si nos las comiéramos en un funeral.
 
 ¿Por qué? Es por lo que se llama interacciones dopamina-opioides. De la función de la dopamina.
 
-Recordemos que aunque la gente llama a la dopamina «la hormona de la felicidad» en este podcast bautizamos **la dopamina como la hormona de la expectativa** cuando hablamos de [crear nuevos hábitos apalancándonos con otros](https://pau.ninja/como-crear-un-habito/) (#469).
+Recordemos que aunque la gente llama a la dopamina «la hormona de la felicidad» en este podcast bautizamos **la dopamina como la hormona de la expectativa** cuando hablamos de [crear nuevos hábitos apalancándonos con otros](./como-crear-un-habito) (#469).
 
-![sistema de recompensa cerebral dopamina](https://pau.ninja/wp-content/uploads/2023/07/sistema-de-recompensa-cerebral-dopamina-.png)
+![sistema de recompensa cerebral dopamina](./wp-content/uploads/2023/07sistema-de-recompensa-cerebral-dopamina-.png)
 
 Un título que le encaja mucho mejor, porque la dopamina es provocada por eventos novedosos positivos y es responsable de **un estado de excitación, que no de placer**.
 
@@ -307,7 +269,7 @@ Si ves a una persona con _flow_, desde fuera lo que te vendrá a la mente es «m
 
 Dicho así suena que la persona está con cierto estrés para llevar a cabo la tarea súper difícil en la que está puesto. Pero es todo lo contrario. En realidad el tiempo se detiene para la mente de esa persona. Sólo puede pensar en lo que está haciendo. **Su mente está relajada**. El cerebro entra en un especie de corriente. Como en un río con agua que fluye, tu mente también está fluyendo.
 
-No puedes entrar en *flow* con ansiedad. Necesitamos **estar ahí. En el presente**.
+No puedes entrar en _flow_ con ansiedad. Necesitamos **estar ahí. En el presente**.
 
 A medida que la liberación de dopamina aumenta con la dificultad de la actividad, también lo hará la satisfacción de la experiencia.
 
@@ -317,31 +279,29 @@ Un escalador que está arriesgando su vida escalando Solo (sin cuerda) tendría 
 
 Hay un vídeo de un tío grabando su escalada, de pronto se para y se fija que por detrás le está a punto de pasar otro hombre, totalmente en silencio, que está escalando esa montaña sin cuerda.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Es adelantado por este escalador sin cuerda sin decirse una palabra. Ese escalador seguramente está en un estado mental a otro nivel que a penas se entera que hay otro hombre ahí. A un estado de _flow_ más intenso y avanzado que el escalador que van con cuerda por esta respuesta dopamina-opioides.
 
 ## Características del estado de _flow_
 
 Aunque podemos aprender a entrar en _flow_ más rápido, no es un espacio mental al que puedas entrar tan fácilmente bajo demanda.
 
-> Cuando más te retes con la tarea, y cuanto más intenso busques el estado de *flow* más difícil será de conseguir.
+> Cuando más te retes con la tarea, y cuanto más intenso busques el estado de _flow_ más difícil será de conseguir.
 
 Por esto momentos en los que estar en estado (o buscar el _flow_ activamente) es particularmente común en las esferas artísticas y creativas.
 
 Los artistas y gente productiva busca el máximo rendimiento creando nuevas ideas, imágenes, sentimientos y palabras que fluyan sin igual.
 
-![fases del proceso creativo](https://pau.ninja/wp-content/uploads/2023/05/fases-del-proceso-creativo.jpeg)
+![fases del proceso creativo](./wp-content/uploads/2023/05fases-del-proceso-creativo.jpeg)
 
-El trabajo, la acción o el proyecto coge _momentum_, impulso en si mismo y todo viene… rodado (por eso este *momentum* es representado como bola de nieve que se va haciendo más grande).
+El trabajo, la acción o el proyecto coge _momentum_, impulso en si mismo y todo viene… rodado (por eso este _momentum_ es representado como bola de nieve que se va haciendo más grande).
 
 Ahora entenderéis por qué quien ha experimentado el _flow_ sabe que es una experiencia potentísima. Casi psicodélica. Entrar «en estado» nos lleva a unos sentimientos de satisfacción casi tan fuertes como mis bíceps.
 
-Es normal ver a artistas que en su búsqueda del estado de *flow* deciden hacer grandes sacrificios en otras áreas. Por ejemplo, ponerse en ridículo, drogarse o tener rituales locos.
+Es normal ver a artistas que en su búsqueda del estado de _flow_ deciden hacer grandes sacrificios en otras áreas. Por ejemplo, ponerse en ridículo, drogarse o tener rituales locos.
 
-Y lo entiendo porque llena de frustración no ser capaces de entrar en *flow state* cuando queremos hacerlo. Es como si tienes una experiencia maravillosa haciendo X, y cuando vuelves a hacerlo ya tienes las expectativas elevadas y te es imposible recrear de nuevo esas sensaciones.
+Y lo entiendo porque llena de frustración no ser capaces de entrar en _flow state_ cuando queremos hacerlo. Es como si tienes una experiencia maravillosa haciendo X, y cuando vuelves a hacerlo ya tienes las expectativas elevadas y te es imposible recrear de nuevo esas sensaciones.
 
-El padrino del *flow* Csikszentmihalyi (c*hick-sen-mi-hayi*) identificaba las características de este estado de una manera muy clara y marcada.
+El padrino del _flow_ Csikszentmihalyi (c_hick-sen-mi-hayi_) identificaba las características de este estado de una manera muy clara y marcada.
 
 ### Los objetivos son claros
 
@@ -349,7 +309,7 @@ En cada paso que damos en la vida hay metas, objetivos muy claros a los que pode
 
 En _flow_ sabemos qué queremos, lo que intentamos conseguir hace que nuestras acciones de pronto tengan una sensación de propósito y significado vital (Viktor Frankl, #310).
 
-Pero, ¿sabéis lo mágico de todos los objetivos que nos proponemos? Que aunque los objetivos sean a muy largo plazo, a años o décadas vista en _flow_ hay *feedback* en cada paso que damos. En cada acción.
+Pero, ¿sabéis lo mágico de todos los objetivos que nos proponemos? Que aunque los objetivos sean a muy largo plazo, a años o décadas vista en _flow_ hay _feedback_ en cada paso que damos. En cada acción.
 
 Si tu objetivo a 20 años es tener una casa, o generar cientos de miles de euros al mes, claro que queda lejos… pero en el fondo ya sabes **lo que tienes que estar haciendo hoy**. Esta semana. Este mes. Este año. O incluso **lo que no deberías estar haciendo**.
 
@@ -357,7 +317,7 @@ Si tu objetivo a 20 años es tener una casa, o generar cientos de miles de euros
 
 Esto hace que sea mucho más fácil pivotar. Ajustar el rendimiento.
 
-Ahá. Pero esto también significa que por definición el estado de *flow* sólo sucede cuando estás desempeñando correctamente esa acción.
+Ahá. Pero esto también significa que por definición el estado de _flow_ sólo sucede cuando estás desempeñando correctamente esa acción.
 
 Nadie está en _flow_ cuando está frustrado.
 
@@ -365,11 +325,11 @@ Nadie está en _flow_ cuando está frustrado.
 
 Si el reto es demasiado difícil, nos frustramos… pero si por el contrario es demasiado fácil, entonces nos aburrimos.
 
-> Para entrar en estado de *flow* tiene que haber un balance entre el reto y nuestra habilidad en esa tarea.
+> Para entrar en estado de _flow_ tiene que haber un balance entre el reto y nuestra habilidad en esa tarea.
 
 «Estar en estado» sucede en esta intersección: en un punto de **casi** ansiedad y **casi** aburrimiento. Cuando el reto es grande, pero no lo suficiente como para que no podamos luchar con nuestras habilidades.
 
-![diagrama del estado de flow](https://pau.ninja/wp-content/uploads/2023/05/diagrama-del-estado-de-flow.jpg)
+![diagrama del estado de flow](./wp-content/uploads/2023/05diagrama-del-estado-de-flow.jpg)
 
 La acción y la consciencia se fusionan.
 
@@ -377,7 +337,7 @@ La acción y la consciencia se fusionan.
 
 Al lado opuesto sería tener un montón de ansiedad por saber que no tienes el nivel de atacar esa tarea, o aburrimiento absoluto: esa sensación de estar físicamente en un sitio pero con nuestra mente en otro lugar (primer estado de hipnosis, #95).
 
-En cambio, en *flow* estamos 100% centrados en lo que hacemos en ese momento. Por eso es el pináculo del _mindfulness_.
+En cambio, en _flow_ estamos 100% centrados en lo que hacemos en ese momento. Por eso es el pináculo del _mindfulness_.
 
 - Acción poco demandante – nivel de habilidad alto = relajación
 - Tarea poco demandante – nivel de habilidad bajo = apatía
@@ -400,7 +360,7 @@ Un enfoque de atención único significa que no estamos juzgando nuestro rendimi
 
 ### La inseguridad desaparece
 
-Precisamente porque en estado de *flow* la inseguridad desaparece por completo. Sabes que estás haciendo lo que deberías hacer.
+Precisamente porque en estado de _flow_ la inseguridad desaparece por completo. Sabes que estás haciendo lo que deberías hacer.
 
 Pero más importante aún: el hecho de estar absorbidos en la actividad en si misma, el hecho de tener **una única cosa** en la mente y nada más, hace que nuestra mente **deje de preocuparse** por la imagen que estamos dando a los demás, o incluso nuestra propia imagen. El ego.
 
@@ -408,7 +368,7 @@ Tal cuál.
 
 El ego se disuelve durante ese espacio temporal… y sienta divinamente.
 
-Mientras estamos en estado de *flow*, incluso podemos llegarnos a identificar con algo externo o más grande que nuestro sentido del «yo».
+Mientras estamos en estado de _flow_, incluso podemos llegarnos a identificar con algo externo o más grande que nuestro sentido del «yo».
 
 - Un pintor puede llegar a sentir que él es el cuadro, o él es el pincel
 - Un escritor puede llegar a sentir que él es las teclas, o las palabras
@@ -417,15 +377,15 @@ Mientras estamos en estado de *flow*, incluso podemos llegarnos a identificar c
 
 Cuando estás «en estado» y estás hablando con una chica, el efecto túnel que he experimentado es absolutamente increíble. Es especial.
 
-Todo lo que sucede a tu alrededor pasa a un plano que tu cerebro no procesa. Es el pináculo del *mindfulness* porque ese es el único momento que existe. Tienes la mirada, el 100% de atención en esa interacción.
+Todo lo que sucede a tu alrededor pasa a un plano que tu cerebro no procesa. Es el pináculo del _mindfulness_ porque ese es el único momento que existe. Tienes la mirada, el 100% de atención en esa interacción.
 
-![Sala del Alma y el Tiempo meme](https://pau.ninja/wp-content/uploads/2023/05/Sala-del-Alma-y-el-Tiempo-meme.jpeg)
+![Sala del Alma y el Tiempo meme](./wp-content/uploads/2023/05Sala-del-Alma-y-el-Tiempo-meme.jpeg)
 
 Es como la Sala del Alma y el Tiempo en Dragon Ball… pero al revés porque cinco minutos en tu cabeza son 5 horas fuera.
 
 La sensación de tiempo queda totalmente distorsionada.
 
-Las horas vuelan para los relojes y los demás, pero para ti (que estás en *flow*) sientes como si sólo hubieran pasado unos pocos minutos.
+Las horas vuelan para los relojes y los demás, pero para ti (que estás en _flow_) sientes como si sólo hubieran pasado unos pocos minutos.
 
 ### La actividad es autotélica
 
@@ -447,13 +407,13 @@ No estamos pensando en la cantidad… y ni siquiera en la calidad. Estamos pensa
 - La motivación es lo que nos lleva a ese ámbito, acción, tarea… a ese barco
 - Aprender a navegar ese barco es lo que nos deja seguir jugando, navegando en alta mar por más tiempo
 - La creatividad es cómo giramos el timón, nuestra dirección
-- El *flow* es como amplificamos el resultado más allá de las expectativas razonables que teníamos (o los otros tenían) inicialmente
+- El _flow_ es como amplificamos el resultado más allá de las expectativas razonables que teníamos (o los otros tenían) inicialmente
 
-Estar en «estado» es de los mejores estados mentales en los que estar, por esto voy a ir un paso más allá y sugerir que estar en un estado de *flow* con ciertas acciones y tareas puede ser un buen **indicador para saber qué queremos hacer en la vida**.
+Estar en «estado» es de los mejores estados mentales en los que estar, por esto voy a ir un paso más allá y sugerir que estar en un estado de _flow_ con ciertas acciones y tareas puede ser un buen **indicador para saber qué queremos hacer en la vida**.
 
 Para ayudarnos a encontrar ese propósito del que tanto hablo en el podcast.
 
-¿No sabes qué hacer con tu vida? Piensa en esas veces en las que experimentaste el estado de *flow*. ¿Que no lo has experimentado nunca? Haz mil cosas durante periodos cortos de tiempo. Lo suficiente para probar si entras a un estado similar a este.
+¿No sabes qué hacer con tu vida? Piensa en esas veces en las que experimentaste el estado de _flow_. ¿Que no lo has experimentado nunca? Haz mil cosas durante periodos cortos de tiempo. Lo suficiente para probar si entras a un estado similar a este.
 
 ## Cómo entra en _flow_ el cerebro
 
@@ -461,7 +421,7 @@ Nuestra genética ya contiene estas capacidades. Nuestro cerebro está cableado 
 
 - **Dopamina:** cuando entramos en _flow_, la dopamina inunda tu cerebro. Aumenta la atención, el flujo de información y el reconocimiento de patrones. Es como la «estrella de Mario Bros». Te multiplica tus habilidades mientras esta hormona esté ahí.
 - **Norepinefrina:** acelera el ritmo cardíaco, la tensión muscular y la respiración. Desencadena una respuesta de glucosa, por lo que tenemos más energía, aumentando la excitación, la atención, la eficiencia neuronal y el control emocional, produciendo así un subidón.
-- **Endorfinas:** derivadas de la palabra «endógena», que significa naturalmente internas al cuerpo. Las endorfinas alivian el dolor e inducen el placer porque funcionan de manera similar a los opioides. Y ojo porque la sensación que se obtiene con las endorfinas es hasta 33 veces más potente que la morfina[6](<javascript:void(0)>)Loh HH, Tseng LF, Wei E, Li CH. beta-endorphin is a potent analgesic agent. Proc Natl Acad Sci U S A. 1976 Aug;73(8):2895-8. doi: 10.1073/pnas.73.8.2895. PMID: 8780; PMCID: PMC430793.. ¿Cómo no va a ser el _flow_ adictivo?
+- **Endorfinas:** derivadas de la palabra «endógena», que significa naturalmente internas al cuerpo. Las endorfinas alivian el dolor e inducen el placer porque funcionan de manera similar a los opioides. Y ojo porque la sensación que se obtiene con las endorfinas es hasta 33 veces más potente que la morfina[ref-6](#ref-6){.ref}. ¿Cómo no va a ser el _flow_ adictivo?
 - **Anandamida:** un cannabinoide endógeno haciéndonos sentir de forma similar al efecto psicoactivo que hay en la «maría». La anandamida se libera en estados de flujo inducidos por el ejercicio, eleva el estado de ánimo, alivia el dolor, dilata los vasos sanguíneos y ayuda en la respiración. También se ha demostrado que amplifica el pensamiento lateral: la capacidad de vincular ideas dispares.
 - **Serotonina:** al final de una sesión en estado de _flow_, la serotonina llena el cerebro y produce un efecto de «resplandor». Te deja con una sensación de felicidad posterior al ejercicio y sólo se siente una vez que el estado de flujo ya se ha ido. Es cuando te das cuenta que llevas ahí 3 horas y no 20 minutos.
 
@@ -471,13 +431,13 @@ El estado de _flow_ es un estado de consciencia que experimentamos cuando estamo
 
 El cerebro está **relajado** pero a la vez en un estado de **concentración** máxima. Estamos **presentes** en esa acción que nos absorbe a la vez que tenemos la sensación que **el tiempo se detiene** o que va mucho más despacio.
 
-El *flow* no es una metáfora.
+El _flow_ no es una metáfora.
 
 De hecho ya hay más de 10.000 _papers_ publicados mirando de cerca el estado de flujo desde una perspectiva cerebral.
 
 Han encontrado que los cambios neurofisiológicos que experimentamos cuando alcanzamos y nos mantenemos en _flow_, **multiplican habilidades críticas** que necesitamos para petarlo en el mundo contemporáneo:
 
-- [Aprender a aprender](https://pau.ninja/aprender-a-aprender/) (#454)
+- [Aprender a aprender](./aprender-a-aprender) (#454)
 - Creatividad
 - Productividad
 
@@ -485,7 +445,7 @@ Imagina alcanzar un estado de flujo constantemente haciendo que no dejaras de a
 
 Por esto el estado _flow_ es tan **adictivo**. Es cuando estamos disfrutamos como niños de lo que hacemos mientras somos productivos, creativos y encima nos estamos volviendo más sabios (porque estamos aprendiendo **haciendo**).
 
-> El problema… es que la mayoría de mortales no podemos alcanzar un estado de *flow* bajo demanda, bajo placer.
+> El problema… es que la mayoría de mortales no podemos alcanzar un estado de _flow_ bajo demanda, bajo placer.
 
 Claro que podemos tener presentes los factores que experimentamos a nivel teórico cuando **ya estamos** en flujo de los que hablé a fondo de qué es el estado de _flow_:
 
@@ -495,9 +455,9 @@ Claro que podemos tener presentes los factores que experimentamos a nivel teóri
 - Que la actividad sea autotélica
 - Que las tareas supongan un reto
 
-Pero, ¿cómo entramos «ahí»? ¿Qué condiciones se tienen que cumplir? Miraremos **qué necesitamos y qué pasos sigo yo** para entrar en *flow* bajo demanda.
+Pero, ¿cómo entramos «ahí»? ¿Qué condiciones se tienen que cumplir? Miraremos **qué necesitamos y qué pasos sigo yo** para entrar en _flow_ bajo demanda.
 
-Si estamos equipados neurológicamente para entrar en *flow*, ¿por qué se nos hace tan difícil?
+Si estamos equipados neurológicamente para entrar en _flow_, ¿por qué se nos hace tan difícil?
 
 La respuesta es simple…
 
@@ -507,71 +467,71 @@ Aunque nuestro cerebro quiera crear este cóctel de neurotransmisores y hormonas
 
 Todo lo que hay en nuestra sociedad moderna parece un complot hecho para que te distraigas de eso que sabes que deberías estar haciendo. Que si redes sociales, series, eventos, luz artificial, teléfonos…
 
-Los estudios demuestran que si interrumpes a un programador que está en este estado de consciencia, en el mejor de los casos el programador tardará 10-15 minutos en volver a entrar «en la zona»[7](<javascript:void(0)>)Solingen, Rini & Berghout, Egon & Latum, Frank. (1998). Interrupts: Just a Minute Never Is.. IEEE Software. 15. 97-103. 10.1109/52.714843..
+Los estudios demuestran que si interrumpes a un programador que está en este estado de consciencia, en el mejor de los casos el programador tardará 10-15 minutos en volver a entrar «en la zona»[ref-7](#ref-7){.ref}.
 
-Recordad cuando os hablé de cuál era [el truco para ser disciplinado](https://pau.ninja/como-ser-disciplinado/) (#322)…
+Recordad cuando os hablé de cuál era [el truco para ser disciplinado](./como-ser-disciplinado) (#322)…
 
 > Hackea el entorno, y hackearás el hábito.
 
 Vivimos con «residuo de atención», que significa que **parte de tu atención se queda atrás en la distracción anterior** con la que estaba lidiando su cerebro.
 
-![residuo de atención](https://pau.ninja/wp-content/uploads/2023/05/residuo-de-atencion.png)
+![residuo de atención](./wp-content/uploads/2023/05residuo-de-atencion.png)
 
-Según la evidencia, este «residuo de atención» dura unos 22 minutos. Esto significa que, **durante 22 minutos estarás operando con un rendimiento cognitivo deteriorado**, un cerebro de bajo rendimiento porque no estarás totalmente presente en la tarea[8](<javascript:void(0)>)Leroy, Sophie. (2009). Why is it so Hard to do My Work? The Challenge of Attention Residue when Switching Between Work Tasks. Organizational Behavior and Human Decision Processes. 109. 168-181. 10.1016/j.obhdp.2009.04.002. .
+Según la evidencia, este «residuo de atención» dura unos 22 minutos. Esto significa que, **durante 22 minutos estarás operando con un rendimiento cognitivo deteriorado**, un cerebro de bajo rendimiento porque no estarás totalmente presente en la tarea[ref-8](#ref-8){.ref} .
 
-Una de las cosas que utilizo **a diario** en mi entorno es mi agenda de productividad, que con ciencia me ayude a seguir en el *flujo* para entrar en *flow* más fácilmente y mantenerme ahí.
+Una de las cosas que utilizo **a diario** en mi entorno es mi agenda de productividad, que con ciencia me ayude a seguir en el _flujo_ para entrar en _flow_ más fácilmente y mantenerme ahí.
 
 Al fin y al cabo, la creé precisamente para ello.
 
-[![agenda de productividad](https://pau.ninja/wp-content/uploads/2023/11/agenda-de-productividad.jpeg)](https://pau.ninja/tienda/agenda-de-productividad/)
-[Comprar aquí](https://pau.ninja/tienda/agenda-de-productividad/)
+[![agenda de productividad](./wp-content/uploads/2023/11/agenda-de-productividad.jpeg)](https://pau.ninja/tienda/agenda-de-productividad)  
+[Comprar aquí](./tienda/agenda-de-productividad)
 
 - **Precio:** 32€ aprox (sin aplicar cupón)
 - **Cupón descuento:** _RECURSOS_
 - **Descripción:** la única agenda de productividad del mundo que combina evidencia científica de la Teoría del Establecimiento de Metas + Psicología Positiva para asistirte en alcanzar objetivos.
 
-El cerebro **no puede pasar de una distracción a una tarea sin algún tipo de penalización**, lo que llamamos «coste de intercambio»[9](<javascript:void(0)>)Gopher, D., Armony, L. & Greenspan, Y. (2000). Switching tasks and attention policies. Journal of Experimental Psychology: General, 129, 308-229.. Estos «costes de intercambio» tienden a disminuir la productividad en un 40% al día, impidiendo que entremos en un estado profundo de concentración o _flow_[10](<javascript:void(0)>)Mayr, U. & Kliegl, R. (2000). Task-set switching and long-term memory retrieval. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26, 1124-1140.[11](<javascript:void(0)>)Meuter, R. F. I. & Allport, A. (1999). Bilingual language switching in naming: Asymmetrical costs of language selection. Journal of Memory and Language, 40(1), 25-40.[12](<javascript:void(0)>)Meyer, D. E. & Kieras, D. E. (1997a). A computational theory of executive cognitive processes and multiple-task performance: Part 1. Basic mechanisms. Psychological Review, 104, 3-65.[13](<javascript:void(0)>)Meyer, D. E. & Kieras, D. E. (1997b). A computational theory of executive cognitive processes and multiple-task performance: Part 2. Accounts of psychological refractory-period phenomena. Psychological Review, 104, 749-791..
+El cerebro **no puede pasar de una distracción a una tarea sin algún tipo de penalización**, lo que llamamos «coste de intercambio»[ref-9](#ref-9){.ref}. Estos «costes de intercambio» tienden a disminuir la productividad en un 40% al día, impidiendo que entremos en un estado profundo de concentración o _flow_[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}[ref-12](#ref-12){.ref}[ref-13](#ref-13){.ref}.
 
 ¿Cómo lo hacemos? Ya sabéis cuál es la primera toxicidad del entorno (a parte de tu ex): el teléfono móvil. Un aparato diseñado para distraerte y que te vuelvas adicto a él. Pocas personas verás salir de casa sin su _smartphone_ o sin mirarlo cada 10 minutos.
 
 Si vas a trabajar por la mañana, de hecho incitaría incluso a no mirar el teléfono hasta que hayas hecho una sesión de 1-2 horas de _flow_ y veremos por qué en un momento.
 
-Pero el hackeo del entorno para alcanzar un estado de *flow* va más allá del teléfono. Tú mejor que nadie sabrás que es lo que te interrumpe del entorno. ¿Gente? ¿Distracciones? Lo que sea.
+Pero el hackeo del entorno para alcanzar un estado de _flow_ va más allá del teléfono. Tú mejor que nadie sabrás que es lo que te interrumpe del entorno. ¿Gente? ¿Distracciones? Lo que sea.
 
 **Bloquear lo que sepas que evita que te hace entrar en estado de _flow_** o que te lo interrumpe y tienes que volver a entrar. Que en mi experiencia es lo mismo. Esto vendría a ser todo lo que te roba la atención aunque sea un segundo y lo hace constantemente.
 
-Lo interesante es que cuando estamos en *flow*, puedes ver rabillo del ojo la pantalla de tu móvil llenarse de mensajes, que tu atención está en el *flow*. La dificultad residen en alcanzar el estado y no ser interrumpido.
+Lo interesante es que cuando estamos en _flow_, puedes ver rabillo del ojo la pantalla de tu móvil llenarse de mensajes, que tu atención está en el _flow_. La dificultad residen en alcanzar el estado y no ser interrumpido.
 
 ### Tendencia a entrar en flujo
 
 El recurso más relevante nos permitirá entrar más o menos rápido en estado (también más o menos intenso) es nuestra **tendencia a alcanzar un estado de _flow_**.
 
-> Alguien que llega al *flowstate* constantemente, día sí día también le será mucho más fácil alcanzar este estado que alguien que no lo hace a menudo.
+> Alguien que llega al _flowstate_ constantemente, día sí día también le será mucho más fácil alcanzar este estado que alguien que no lo hace a menudo.
 
-Si «entrar en estado» es la meseta de esa montaña, alguien que tiene los gemelos curtidos de subir la cuesta a menudo, llegará mucho antes y con menos esfuerzo a pesar de que tenga que superar un camino de dificultades inicial. Tendrá un **callo de *flow*.**
+Si «entrar en estado» es la meseta de esa montaña, alguien que tiene los gemelos curtidos de subir la cuesta a menudo, llegará mucho antes y con menos esfuerzo a pesar de que tenga que superar un camino de dificultades inicial. Tendrá un **callo de _flow_.**
 
 Alguien que como hábito entra en _flow_ cada mañana, será mucho más propenso a entrar en estado más rápido y más intenso que alguien que no lo hace nunca.
 
 ¿Cómo lo conseguimos si aún no tenemos esta tendencia? Realmente sólo hay dos cosas de las que tenemos que preocuparnos:
 
-- **Mentalidad:** ser conscientes de qué es el estado de *flow* y cómo entrar en él ya es una ventaja enorme. El conocimiento nos hace abrazar más fácilmente las incomodidades iniciales, pero sobretodo…
-- **Entorno:** [aprende a decir que no](https://pau.ninja/aprender-a-decir-no/) para facilitarte a ti mismo la atmósfera para entrar en _flow_.
+- **Mentalidad:** ser conscientes de qué es el estado de _flow_ y cómo entrar en él ya es una ventaja enorme. El conocimiento nos hace abrazar más fácilmente las incomodidades iniciales, pero sobretodo…
+- **Entorno:** [aprende a decir que no](./aprender-a-decir-no) para facilitarte a ti mismo la atmósfera para entrar en _flow_.
 
 Si nuestras mañanas van a ser sólo enfocadas a ser productivos, **no hay nada mejor en ponerte a trabajar lo más pronto posible** justo después de levantarte.
 
-Es como entrar a chicas en la calle haciendo *daygame*. Cuando sales con tus colegas de sargeo, cuanto más tiempo tardes a entrar en estado de *flow* y a entrarle a una, más te va a costar y al final vas a terminar no haciéndolo.
+Es como entrar a chicas en la calle haciendo _daygame_. Cuando sales con tus colegas de sargeo, cuanto más tiempo tardes a entrar en estado de _flow_ y a entrarle a una, más te va a costar y al final vas a terminar no haciéndolo.
 
-No es sólo una preferencia personal sino que la evidencia ha demostrado que nuestra tendencia para entrar en estado es más elevada a primera hora de la mañana[14](<javascript:void(0)>)Schmidt C, Collette F, Cajochen C, Peigneux P. A time to think: circadian rhythms in human cognition. Cogn Neuropsychol. 2007 Oct;24(7):755-89. doi: 10.1080/02643290701754158. PMID: 18066734.. ¿Sabéis por qué?
+No es sólo una preferencia personal sino que la evidencia ha demostrado que nuestra tendencia para entrar en estado es más elevada a primera hora de la mañana[ref-14](#ref-14){.ref}. ¿Sabéis por qué?
 
-Porque las ondas del cerebro theta (3,5 a 8 Hz) y delta (1 a 3 Hz) son similares a las ondas cerebrales de cuando hemos entrado en estado de *flow*[15](<javascript:void(0)>)Katahira K, Yamazaki Y, Yamaoka C, Ozaki H, Nakagawa S, Nagata N. EEG Correlates of the Flow State: A Combination of Increased Frontal Theta and Moderate Frontocentral Alpha Rhythm in the Mental Arithmetic Task. Front Psychol. 2018 Mar 9;9:300. doi: 10.3389/fpsyg.2018.00300. PMID: 29593605; PMCID: PMC5855042.[16](<javascript:void(0)>)What it’s like to have a brain in permanent flow state — a qEEG report. Oksana Andreiuk, Canadian Biohacker, May 7, 2019.
+Porque las ondas del cerebro theta (3,5 a 8 Hz) y delta (1 a 3 Hz) son similares a las ondas cerebrales de cuando hemos entrado en estado de _flow_[ref-15](#ref-15){.ref}[ref-16](#ref-16){.ref}.
 
-> Cuanto más rápido entres en *flow*, más profundo será este estado y más tiempo podrás mantenerlo/sostenerlo.
+> Cuanto más rápido entres en _flow_, más profundo será este estado y más tiempo podrás mantenerlo/sostenerlo.
 
 Como salías de dormir con estas ondas cerebrales, cuanto más tiempo dejes pasar, más difícil te será alcanzar ese estado otra vez.
 
 ### Tener la mentalidad correcta
 
-Se que para muchos esto no es fácil. En mi caso sí lo es porque me levanto de la cama con **ganas locas de trabajar** gracias [al hábito que he creado](https://pau.ninja/como-crear-un-habito/). Un hábito apalancado de combinar curro con café (#469).
+Se que para muchos esto no es fácil. En mi caso sí lo es porque me levanto de la cama con **ganas locas de trabajar** gracias [al hábito que he creado](./como-crear-un-habito). Un hábito apalancado de combinar curro con café (#469).
 
 Como hay novedad constante en lo que estoy aprendiendo, hay reto y sé que voy a entrar en flow, mi motivación no siempre es alta pero acostumbra a serlo.
 
@@ -579,33 +539,33 @@ Como hay novedad constante en lo que estoy aprendiendo, hay reto y sé que voy a
 
 > La motivación mental puede eliminar lo que sea que nos moleste: fatiga, dolor o cualquier otra barrera.
 
-Con motivación es la manera más «bonita» o hasta ideal de entrar en _flow_ porque de entradas ya tienes ganas, el problema es que a veces queremos entrar «en estado» por el hecho de ser productivos, con la motivación agotada y [tenemos que ser disciplinados](https://pau.ninja/como-ser-disciplinado/) sí o sí (#322).
+Con motivación es la manera más «bonita» o hasta ideal de entrar en _flow_ porque de entradas ya tienes ganas, el problema es que a veces queremos entrar «en estado» por el hecho de ser productivos, con la motivación agotada y [tenemos que ser disciplinados](./como-ser-disciplinado) sí o sí (#322).
 
 > Porque la motivación es finita. La motivación tiene un problema de sostenibilidad.
 
 Muchas veces sabemos que tenemos que hacer cosas pero no tenemos motivación para hacerlo, lo que hará indispensable que tiremos de disciplina.
 
-No es coincidencia que los jugadores de basquet tiren a canasta antes del partido. O que los jugadores de futbol tiren a puerta. No están sólo calentando los músculos. Están lubricando conexiones cerebrales para entrar en *flow*.
+No es coincidencia que los jugadores de basquet tiren a canasta antes del partido. O que los jugadores de futbol tiren a puerta. No están sólo calentando los músculos. Están lubricando conexiones cerebrales para entrar en _flow_.
 
-Es como no tener ganas de escribir las 2.000 palabras de hoy o las no se cuantas líneas de código. Lo que haces es decirte que vas a escribir 100. De pronto te das cuenta que aunque las primeras han costado muchas, las últimas 1.000 han salido muy fáciles y podrías escribir 1.000 más porque has alcanzado el estado de *flow* sin darte cuenta.
+Es como no tener ganas de escribir las 2.000 palabras de hoy o las no se cuantas líneas de código. Lo que haces es decirte que vas a escribir 100. De pronto te das cuenta que aunque las primeras han costado muchas, las últimas 1.000 han salido muy fáciles y podrías escribir 1.000 más porque has alcanzado el estado de _flow_ sin darte cuenta.
 
 Es cuando empezamos a pensar que no lo lograremos, a hacer un _overthinking_ de la h0stia preguntándonos si valemos para esto (me ha pasado mil veces con el baile)… ahí es cuando es imposible entrar en _flow_ en este estado mental negativo.
 
-> Por esto un pilar importante para entrar en *flow* es conocer qué es el flow. Porque así lo podemos abordar con la mentalidad correcta.
+> Por esto un pilar importante para entrar en _flow_ es conocer qué es el flow. Porque así lo podemos abordar con la mentalidad correcta.
 
-El entreno mental puede llegar a ser más potente que el entorno para algunas personas. Claro que meterte delante de una pared y utilizar auriculares con música lofi para evitar distracciones te puede servir, pero pero **acostumbran a ser unos hábitos pobres de emociones y mentalidad que evitan que alcancemos el estado de *flow***.
+El entreno mental puede llegar a ser más potente que el entorno para algunas personas. Claro que meterte delante de una pared y utilizar auriculares con música lofi para evitar distracciones te puede servir, pero pero **acostumbran a ser unos hábitos pobres de emociones y mentalidad que evitan que alcancemos el estado de _flow_**.
 
 Por ejemplo: dejar que la mente divague cuando queremos centrarnos, la ansiedad, procrastinación…
 
 Si somos capaces de entrenar la mente habrá procesos de neuroplasticidad en tu cerebro, que es cuando se empiezan a crear conexiones neuronales más sólidas. Es como si al principio vas tu solo por el coche con un camino, pero como de pronto como ese camino de tierra es cada vez más usado, se decide que ahora eso se convertirá en una carretera nacional o incluso una autopista.
 
-Cada vez que entras en estado de *flow*, es un coche por ese camino (por ahora) aún no pavimentado.
+Cada vez que entras en estado de _flow_, es un coche por ese camino (por ahora) aún no pavimentado.
 
-Básicamente entrenamos nuestro cerebro como un músculo. Cuanto más lo usamos a través de patrones de pensamiento y emocionales, más fuerte se hará y más fácil será circular en estos caminos mentales, es decir: alcanzar el estado de *flow* más a menudo.
+Básicamente entrenamos nuestro cerebro como un músculo. Cuanto más lo usamos a través de patrones de pensamiento y emocionales, más fuerte se hará y más fácil será circular en estos caminos mentales, es decir: alcanzar el estado de _flow_ más a menudo.
 
 ### Tener tanto salud como energía
 
-Aunque la motivación mental puede ayudarnos a entrar en ese estado de flujo, si nos sentimos mediocres todo el tiempo, será MUY difícil mantener el *flow* porque necesitamos la energía para ejecutar las tareas y también necesitamos la energía para sentirnos lo suficientemente bien como para preocuparnos de ellas, recibir el *feedback* y pivotar en nuestras acciones si hace falta.
+Aunque la motivación mental puede ayudarnos a entrar en ese estado de flujo, si nos sentimos mediocres todo el tiempo, será MUY difícil mantener el _flow_ porque necesitamos la energía para ejecutar las tareas y también necesitamos la energía para sentirnos lo suficientemente bien como para preocuparnos de ellas, recibir el _feedback_ y pivotar en nuestras acciones si hace falta.
 
 Y sobretodo, para disfrutar del _flow_.
 
@@ -613,38 +573,38 @@ Algo que será casi imposible si no tenemos una salud curtida, porque como digo,
 
 > Es muy difícil estar emocionado con algo **todo el rato**, pero se hace más fácil si tenemos el depósito de energía lleno.
 
-Tampoco que estés en picos de energía todo el tiempo, sino que me refiero a sentir lo opuesto de [los síntomas de la niebla mental](https://pau.ninja/niebla-mental-causas-sintomas/) (#399). Ahí daba 12 razones por las que alguien puede tener niebla mental y tendríamos que básicamente hacer lo opuesto:
+Tampoco que estés en picos de energía todo el tiempo, sino que me refiero a sentir lo opuesto de [los síntomas de la niebla mental](./niebla-mental-causas-sintomas) (#399). Ahí daba 12 razones por las que alguien puede tener niebla mental y tendríamos que básicamente hacer lo opuesto:
 
 - Tener todos los nutrientes y minerales
 - Estar hidratado con agua de calidad (que no nos deshidrate)
 - Niveles de estrés y ansiedad bajo control
 - Dormir las horas que realmente necesites
 - Tener un entorno adecuado (buenos ritmos circadianos)
-- Tener las [radiaciones EM de casa](https://pau.ninja/radiaciones-ionizantes-en-casa/) bajo control
+- Tener las [radiaciones EM de casa](./radiaciones-ionizantes-en-casa) bajo control
 - Y en definitiva: el mínimo de inflamación en tu cuerpo
 
-Claro que podemos entrar en un estado de *flow* cuando estamos cansados y nos ponemos a ver nuestra serie, pero será un «estado» **de bajo nivel**.
+Claro que podemos entrar en un estado de _flow_ cuando estamos cansados y nos ponemos a ver nuestra serie, pero será un «estado» **de bajo nivel**.
 
 ## Pasos para alcanzar el estado de _flow_
 
-Recordemos que hay **varios niveles de *flow* que están directamente relacionados con el riesgo que tomamos** o el uso de las habilidades que debemos usar.
+Recordemos que hay **varios niveles de _flow_ que están directamente relacionados con el riesgo que tomamos** o el uso de las habilidades que debemos usar.
 
 Escuchar atentamente una serie que te interesa te puede llegar a hacer estar en _flow_, pero nada que ver con las sensaciones de algo que requiere de utilizar tus habilidades adquiridas de forma proactiva.
 
-Las cosas que requieren esfuerzo verdadero (hacer ejercicio, estudiar, crear arte…), requerirá de que tengamos al menos un poco de energía para forzar el estado de *flow*.
+Las cosas que requieren esfuerzo verdadero (hacer ejercicio, estudiar, crear arte…), requerirá de que tengamos al menos un poco de energía para forzar el estado de _flow_.
 
 Una vez tenemos la energía, la mentalidad y el entorno bajo control, es cuando podemos centrarnos en qué necesitamos específicamente para «entrar en estado».
 
 ### Define un objetivo concreto
 
-Lo más importante es que necesitas una meta clara: definir un objetivo, para [alcanzar metas personales](https://pau.ninja/como-alcanzar-metas-personales/) de forma específica y que te puedas centrar en llegar ahí.
+Lo más importante es que necesitas una meta clara: definir un objetivo, para [alcanzar metas personales](./como-alcanzar-metas-personales) de forma específica y que te puedas centrar en llegar ahí.
 
 Por razones obvias si no sabes **exactamente** lo que tienes que hacer, no serás capaz de centrarte del todo en una tarea.
 
 Yo mismo utiliza la agenda de productividad para estar seguro del objetivo que tengo y así **me aseguro que entraré en flow**.
 
-[![agenda de productividad](https://pau.ninja/wp-content/uploads/2023/11/agenda-de-productividad.jpeg)](https://pau.ninja/tienda/agenda-de-productividad/)
-[Comprar aquí](https://pau.ninja/tienda/agenda-de-productividad/)
+[![agenda de productividad](./wp-content/uploads/2023/11/agenda-de-productividad.jpeg)](https://pau.ninja/tienda/agenda-de-productividad)  
+[Comprar aquí](./tienda/agenda-de-productividad)
 
 - **Precio:** 32€ aprox (sin aplicar cupón)
 - **Cupón descuento:** _RECURSOS_
@@ -660,17 +620,17 @@ Responder la pregunta «¿en qué c0ñ0 me supongo que tengo que centrar ahora?�
 
 Es muy fácil distraerse en tareas que demandan poco de nosotros: libros, juegos, series… pero lo que es transcendente para tu vida (sea quien seas, y lleves la vida que seas) **siempre son los objetivos largoplacistas**.
 
-Cuando te sumerges en el trabajo «real», es lo que te hace entrar en *flow*. O sea que en realidad sólo es una cuestión de alinear lo que quieres de verdad y el cerebro funcionará para lo que ha sido diseñado: una inmersión placentera.
+Cuando te sumerges en el trabajo «real», es lo que te hace entrar en _flow_. O sea que en realidad sólo es una cuestión de alinear lo que quieres de verdad y el cerebro funcionará para lo que ha sido diseñado: una inmersión placentera.
 
 ### Encuentra el balance entre reto-habilidad
 
-¿Sabéis por qué no entramos en *flow* a menudo? Pues porque aunque la tarea que vamos a atacar tenga que suponer un reto, inicialmente este reto va a costar antes de permitirnos entrar «en estado».
+¿Sabéis por qué no entramos en _flow_ a menudo? Pues porque aunque la tarea que vamos a atacar tenga que suponer un reto, inicialmente este reto va a costar antes de permitirnos entrar «en estado».
 
 Vemos la tarea, y empezamos a sentir indecisión, distracciones, mil elecciones y caminos que podemos tomar, falta de disciplina, falta de persistencia… Vemos el reto y empezamos con dudas.
 
-Pero es necesario sentir todo esto **inicialmente** antes de entrar en *flow*.
+Pero es necesario sentir todo esto **inicialmente** antes de entrar en _flow_.
 
-> Entramos en *flowstate* cuando llevamos un rato luchando contra una tarea.
+> Entramos en _flowstate_ cuando llevamos un rato luchando contra una tarea.
 
 No todo el mundo está dispuesto a subir una pendiente constante antes de llegar a la meseta para disfrutar las vistas.
 
@@ -680,32 +640,32 @@ Según [la teoría del _flow_ en psicología](#La_teoria_del_flow_en_psicologia)
 
 Si la tarea es demasiado difícil, viene la ansiedad y el estrés. Si es demasiado fácil, nos aburrimos y desmotivamos. Es por esto que necesitamos encontrar **el punto justo de reto-habilidad**.
 
-![diagrama del estado de flow](https://pau.ninja/wp-content/uploads/2023/05/diagrama-del-estado-de-flow.jpg)
+![diagrama del estado de flow](./wp-content/uploads/2023/05diagrama-del-estado-de-flow.jpg)
 
 Salir de la zona de confort pero sólo ligeramente.
 
 Se habla de que **la tarea tendría que ser un 4% más difícil** de lo que nuestra habilidad nos permite manejarla.
 
-No se como c0ñ0 han llegado justo al 4%, pero el porcentaje lo de menos. Lo que tenemos que tener presente es que sea **un poquito más difícil**. O sea que puedes esperar un poco de frustración inicial antes de entrar en *flow*.
+No se como c0ñ0 han llegado justo al 4%, pero el porcentaje lo de menos. Lo que tenemos que tener presente es que sea **un poquito más difícil**. O sea que puedes esperar un poco de frustración inicial antes de entrar en _flow_.
 
-### Encuentra una manera de recibir *feedback*
+### Encuentra una manera de recibir _feedback_
 
-Igual de importante es que la tarea que estamos desempeñando en ese momento **nos de *feedback* constante durante nuestra sesión de *flow***. Esto significa que podamos saber si lo estamos haciendo bien o mal.
+Igual de importante es que la tarea que estamos desempeñando en ese momento **nos de _feedback_ constante durante nuestra sesión de _flow_**. Esto significa que podamos saber si lo estamos haciendo bien o mal.
 
 - Haciendo surf sabemos inmediatamente si lo estamos haciendo bien porque nos caemos o estamos de pie en la tabla. No hay otra.
-- Haciendo *daygame* sabes si estás guiando bien las conversaciones con las desconocidas.
+- Haciendo _daygame_ sabes si estás guiando bien las conversaciones con las desconocidas.
 - Escribiendo puedes volver a leer lo que acabas de escribir y ver si el resultado te está gustando.
 - Programando tienes una clara visión de cómo está yendo el código que has picado.
 
-La retroalimentación (el *feedback*) nos enseña donde estamos en este punto del proceso en buscar esa meta inicial que tenemos que haber definido.
+La retroalimentación (el _feedback_) nos enseña donde estamos en este punto del proceso en buscar esa meta inicial que tenemos que haber definido.
 
 Esto nos ayuda a saber mucho más rápido qué necesitamos hacer para adaptarnos a los obstáculos que van apareciendo en este reto. Obstáculos que tienen que ir apareciendo sí o sí porque recordemos que suponen un porcentaje muy pequeño pero superior a la habilidad que tenemos para atacar ese reto.
 
 Gracias a hacer nuestro progreso visible, la dopamina empieza a liberarse y es por esto que no sólo el foco en la tarea, sino que **la motivación viene como consecuencia después de haber tomado acción**.
 
-![fases de la motivación](https://pau.ninja/wp-content/uploads/2023/05/fases-de-la-motivacion.png)
+![fases de la motivación](./wp-content/uploads/2023/05fases-de-la-motivacion.png)
 
-Cuando no hay disciplina y fuerzas el estado de *flow* baja de manda, cuando entras, el recibir este *feedback* y ver que avanzas en lo micro, inmediatamente la motivación suma.
+Cuando no hay disciplina y fuerzas el estado de _flow_ baja de manda, cuando entras, el recibir este _feedback_ y ver que avanzas en lo micro, inmediatamente la motivación suma.
 
 A efectos prácticos esto significa que si no te levantas con motivación inicialmente, pero sí tienes el hábito de alcanzar el estado _flow_, terminarás sintiendo motivación cuando hayas entrado en él.
 
@@ -713,7 +673,7 @@ Una retroalimentación no tiene que venir por otras personas. Puedes ser inheren
 
 Esto va directamente ligado con una recompensa y con al dopamina. Vas trabajando más porque vas cumpliendo microobjetivos en la propia tarea.
 
-![sistema de recompensa cerebral dopamina](https://pau.ninja/wp-content/uploads/2023/07/sistema-de-recompensa-cerebral-dopamina-.png)
+![sistema de recompensa cerebral dopamina](./wp-content/uploads/2023/07sistema-de-recompensa-cerebral-dopamina-.png)
 
 Es decir, estás obteniendo recompensas, y se te va chutando la dopamina. Micro + micro = trabajo más grande. Es por esto que la motivación aumenta a pesar de que al principio era cero.
 
@@ -723,21 +683,21 @@ También es verdad que hay otras tareas especialmente creativas que son más dif
 
 ## Rutina para alcanzar el estado _flow_
 
-Entonces a efectos prácticos para entrar en *flow* nos tenemos que hacer tres preguntas que aunque nos las decimos a nivel teórica son para aplicar a la práctica:
+Entonces a efectos prácticos para entrar en _flow_ nos tenemos que hacer tres preguntas que aunque nos las decimos a nivel teórica son para aplicar a la práctica:
 
 - ¿Tengo un objetivo concreto en el momento de ponerme a trabajar?
 - ¿Tengo delante mío un reto que suponga un esfuerzo sobretodo inicial pero lo suficiente para poder salirme con la mía con las habilidades que tengo?
-- ¿Voy a ir recibiendo *feedback* a medida que vaya trabajando?
+- ¿Voy a ir recibiendo _feedback_ a medida que vaya trabajando?
 
 Eso sí. Todas estas preguntas tienen que quedar **respondidas la noche anterior**.
 
-Si tienes las respuestas que necesitas en cada una de estas preguntas, a mí [me va muy bien tener una rutina de mañana perfecta](https://pau.ninja/rutina-de-manana-productiva/) que en realidad es un «ritual» para asegurarme que no tardo en meterme manos a la obra.
+Si tienes las respuestas que necesitas en cada una de estas preguntas, a mí [me va muy bien tener una rutina de mañana perfecta](./rutina-de-manana-productiva) que en realidad es un «ritual» para asegurarme que no tardo en meterme manos a la obra.
 
 No es casualidad que los deportistas profesionales salgan del autobús en dirección al estado con los auriculares puestos y la capucha. O que se sienten en el vestuario a hacer yo que se qué. Algunos tienen algunos rituales muy locos, pero lo que sea para entrar en ese estado de _flow_ que quieren conseguir durante un partido. Personalmente:
 
 - La noche anterior dejo claro cuál va ser mi primera y única prioridad mañana y si cumple con estos tres puntos.
 - Empezar a trabajar poco después de levantarme (hago el café, me lavo la cara y lo preparo todo para meterme en ello en 10 minutos).
-- Elimina las distracciones sonoras del entorno escuchando música lofi (evidencia científica para ser productivo[17](<javascript:void(0)>)Lesiuk, Teresa. (2005). The effect of music listening on work performance. Psychology of Music – PSYCHOL MUSIC. 33. 173-191. 10.1177/0305735605050650. )
+- Elimina las distracciones sonoras del entorno escuchando música lofi (evidencia científica para ser productivo[ref-17](#ref-17){.ref} )
 - Dejo el móvil cargando en otra habitación para no mirarlo.
 - Empiezo preparando guiones para contenido corto en redes para ir calentando la mente
 
@@ -745,11 +705,11 @@ La potencia que tiene una rutina de calentamiento es increíble no sólo en depo
 
 ## Las fases del estado de _flow_
 
-El *flow* no es como un interruptor de la luz que enciendes y apagas, sino que este estado es más como un regulador de intensidad.
+El _flow_ no es como un interruptor de la luz que enciendes y apagas, sino que este estado es más como un regulador de intensidad.
 
 Esto significa que aunque tengas la rutina perfecta y tengas tendencia de alcanzar más o menos rápido (y con más o menos intensidad) en estado de _flow_, será como girar, como regular esta luz (que podrás hacer más o menos rápido). Pero no dejará de ser un regulador.
 
-![fases para alcanzar el estado de flow](https://pau.ninja/wp-content/uploads/2023/05/fases-para-alcanzar-estado-de-flow.jpeg)
+![fases para alcanzar el estado de flow](./wp-content/uploads/2023/05fases-para-alcanzar-estado-de-flow.jpeg)
 
 O sea que tenemos que ser conscientes de que **siempre** pasaremos por cuatro fases y no nos quedará otra cosa que abrazar cada una de ellas para seguir el flujo del estado de flujo (por esto se llama así).
 
@@ -763,7 +723,7 @@ Es cuando las hormonas cortisol y norepinefrina salen a saludarte en forma de in
 
 Pero eres un ninja de la vida… y sabes que es la primera fase en el círculo del _flow_. Que sólo es parte del proceso.
 
-La verdad en todo esto es que el 99% de las personas ya abandonan aquí. Hipotetizo que por el desconocimiento de que si persistieran un poquito más podrían estar en *flow*. C0ñ0. Seguramente ni saben qué es sentirse «en estado».
+La verdad en todo esto es que el 99% de las personas ya abandonan aquí. Hipotetizo que por el desconocimiento de que si persistieran un poquito más podrían estar en _flow_. C0ñ0. Seguramente ni saben qué es sentirse «en estado».
 
 ### Persistencia
 
@@ -773,7 +733,7 @@ Sería lo equivalente a decirte que quieres leer 10-20 páginas de un libro cada
 
 De hecho lo que has hecho cada día al llegar al final es **entrenar tu atención sostenida**. Estás entrenando tu capacidad intencional.
 
-Es como hacer 5-10 minutos de meditación al día. Sabes que no llegarás a un punto de *mindfulness*, pero estás entrenando tu cerebro a persistir en una tarea para dirigir tu atención.
+Es como hacer 5-10 minutos de meditación al día. Sabes que no llegarás a un punto de _mindfulness_, pero estás entrenando tu cerebro a persistir en una tarea para dirigir tu atención.
 
 Por esto las empresas buscan universitarios. No por lo que han aprendido hipotéticamente sino porque el estudiante demuestra que es capaz de persistir en algo 4 años.
 
@@ -787,114 +747,42 @@ Bienvenido: has luchado, has persistido y ahora estás en estado de _flow_.
 
 ### Recuperación
 
-Finalmente tenemos la fase de recuperación, que es cuando el regulador de luz empieza a apagarse un poco porque un cóctel perfecto de *flow* no se puede mantener durante periodos muy largos de tiempo.
+Finalmente tenemos la fase de recuperación, que es cuando el regulador de luz empieza a apagarse un poco porque un cóctel perfecto de _flow_ no se puede mantener durante periodos muy largos de tiempo.
 
-Por ejemplo en Estonia lo que he hecho es trabajar un par de horas en el *coworking* donde no hay nadie, entonces me calmo, cierro el portátil y me voy a la cafetería dejando que la mente divague mientras estoy en el bus (lo contrario al _flow_).
+Por ejemplo en Estonia lo que he hecho es trabajar un par de horas en el _coworking_ donde no hay nadie, entonces me calmo, cierro el portátil y me voy a la cafetería dejando que la mente divague mientras estoy en el bus (lo contrario al _flow_).
 
 Cuando vuelvo a estar en la cafetería, me pido el segundo café y ahí puedo volver a dejar ir el monstruo del foco.
 
 ## Libros sobre entrar en estado de _flow_
 
-[![Fluir (Flow): Una psicología de la felicidad (Clave)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeFNqZEZWVVpoVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTgyMA=)](https://www.amazon.es/dp/8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Fluir (Flow): Una psicología de la felicidad (Clave)')
+[![Fluir (Flow): Una psicología de la felicidad (Clave)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeFNqZEZWVVpoVkV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dp8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Fluir (Flow): Una psicología de la felicidad (Clave)")
 
-[Fluir (Flow): Una psicología de la felicidad (Clave)](https://www.amazon.es/dp/8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Fluir (Flow): Una psicología de la felicidad (Clave)')
+[Fluir (Flow): Una psicología de la felicidad (Clave)](https://www.amazon.es/dp/8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Fluir (Flow): Una psicología de la felicidad (Clave)")
 
-10,95 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+10,95 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8499890377?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGVU4xWnRlSFZqWjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTgyMA=)](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...')
+[![Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGVU4xWnRlSFZqWjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar A Visionary New...")
 
-[Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...')
+[Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Florecer/ Flourish: La nueva psicología positiva y la búsqueda del bienestar/ A Visionary New...")
 
 19,04 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/6075573933?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![The Art of Learning: An Inner Journey to Optimal Performance (English Edition)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFdrMUZaVEpwUmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTgyMA=)](https://www.amazon.es/dp/B000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Art of Learning: An Inner Journey to Optimal Performance (English Edition)')
+[![The Art of Learning: An Inner Journey to Optimal Performance (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFdrMUZaVEpwUmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dpB000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art of Learning: An Inner Journey to Optimal Performance (English Edition)")
 
-[The Art of Learning: An Inner Journey to Optimal Performance (English Edition)](https://www.amazon.es/dp/B000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'The Art of Learning: An Inner Journey to Optimal Performance (English Edition)')
+[The Art of Learning: An Inner Journey to Optimal Performance (English Edition)](https://www.amazon.es/dp/B000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art of Learning: An Inner Journey to Optimal Performance (English Edition)")
 
 15,65 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B000QCQ970?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Effortless Mastery: Liberating the Master Musician Within](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMlRrVXljbVJVUjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkxOTgyMA=)](https://www.amazon.es/dp/156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Effortless Mastery: Liberating the Master Musician Within')
+[![Effortless Mastery: Liberating the Master Musician Within](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMlRrVXljbVJVUjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NjI3Mg=)](https://www.amazon.es/dp156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Effortless Mastery: Liberating the Master Musician Within")
 
-[Effortless Mastery: Liberating the Master Musician Within](https://www.amazon.es/dp/156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Effortless Mastery: Liberating the Master Musician Within')
+[Effortless Mastery: Liberating the Master Musician Within](https://www.amazon.es/dp/156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Effortless Mastery: Liberating the Master Musician Within")
 
-23,72 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+23,72 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Nolen-Hoeksema, S.; Wisco, B. E.; Lyubomirsky, S. (2008). «Rethinking Rumination». Perspectives on Psychological Science 3 (5): 400-424.
-
-- 2
-
-  Fox, M. D.; Snyder, A. Z.; Vincent, J. L.; Corbetta, M.; Van Essen, D. C.; Raichle, M. E. (2005). «From The Cover: The human brain is intrinsically organized into dynamic, anticorrelated functional networks». Proceedings of the National Academy of Sciences 102 (27): 9673-9678.
-
-- 3
-
-  pp. 44-51 The Book of Rest: The Odd Psychology of Doing Nothing
-
-- 4
-
-  Neuroscience of Happiness – Scientific American https://sites.lsa.umich.edu/berridge-lab/wp-content/uploads/sites/743/2019/10/Kringelbach-Berridge-2012-Joyful-mind-Sci-Am.pdf
-
-- 5
-
-  Rauwolf, P., et al. (2021) Reward uncertainty – as a ‘psychological salt’- Journal of Experimental Psychology: General https://doi.apa.org/doiLanding?doi=10.1037%2Fxge0001029
-
-- 6
-
-  Loh HH, Tseng LF, Wei E, Li CH. beta-endorphin is a potent analgesic agent. Proc Natl Acad Sci U S A. 1976 Aug;73(8):2895-8. doi: 10.1073/pnas.73.8.2895. PMID: 8780; PMCID: PMC430793.
-
-- 7
-
-  Solingen, Rini & Berghout, Egon & Latum, Frank. (1998). Interrupts: Just a Minute Never Is.. IEEE Software. 15. 97-103. 10.1109/52.714843.
-
-- 8
-
-  Leroy, Sophie. (2009). Why is it so Hard to do My Work? The Challenge of Attention Residue when Switching Between Work Tasks. Organizational Behavior and Human Decision Processes. 109. 168-181. 10.1016/j.obhdp.2009.04.002.
-
-- 9
-
-  Gopher, D., Armony, L. & Greenspan, Y. (2000). Switching tasks and attention policies. Journal of Experimental Psychology: General, 129, 308-229.
-
-- 10
-
-  Mayr, U. & Kliegl, R. (2000). Task-set switching and long-term memory retrieval. Journal of Experimental Psychology: Learning, Memory, and Cognition, 26, 1124-1140.
-
-- 11
-
-  Meuter, R. F. I. & Allport, A. (1999). Bilingual language switching in naming: Asymmetrical costs of language selection. Journal of Memory and Language, 40(1), 25-40.
-
-- 12
-
-  Meyer, D. E. & Kieras, D. E. (1997a). A computational theory of executive cognitive processes and multiple-task performance: Part 1. Basic mechanisms. Psychological Review, 104, 3-65.
-
-- 13
-
-  Meyer, D. E. & Kieras, D. E. (1997b). A computational theory of executive cognitive processes and multiple-task performance: Part 2. Accounts of psychological refractory-period phenomena. Psychological Review, 104, 749-791.
-
-- 14
-
-  Schmidt C, Collette F, Cajochen C, Peigneux P. A time to think: circadian rhythms in human cognition. Cogn Neuropsychol. 2007 Oct;24(7):755-89. doi: 10.1080/02643290701754158. PMID: 18066734.
-
-- 15
-
-  Katahira K, Yamazaki Y, Yamaoka C, Ozaki H, Nakagawa S, Nagata N. EEG Correlates of the Flow State: A Combination of Increased Frontal Theta and Moderate Frontocentral Alpha Rhythm in the Mental Arithmetic Task. Front Psychol. 2018 Mar 9;9:300. doi: 10.3389/fpsyg.2018.00300. PMID: 29593605; PMCID: PMC5855042.
-
-- 16
-
-  What it’s like to have a brain in permanent flow state — a qEEG report. Oksana Andreiuk, Canadian Biohacker, May 7, 2019
-
-- 17
-
-  Lesiuk, Teresa. (2005). The effect of music listening on work performance. Psychology of Music – PSYCHOL MUSIC. 33. 173-191. 10.1177/0305735605050650.
+[Comprar en Amazon](https://www.amazon.es/dp/156224003X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")

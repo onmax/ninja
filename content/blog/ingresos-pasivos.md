@@ -1,56 +1,37 @@
 ---
-title: "Mis ingresos pasivos con 6 negocios (pasos y ejemplos de negocios online)"
+title: "Mis ingresos pasivos con 6 negocios"
+url: https://pau.ninja/ingresos-pasivos
+slug: ingresos-pasivos
+categories: 
+- slug: negocios
+    label: Negocios
 image: hombre-trabajando-online.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/hombre-trabajando-online.jpeg
 published: 2021-10-04T05:26:09+00:00
 modified: 2023-05-05T15:55:12+00:00
+scrappedAt: 2024-10-14T09:21:11.264Z
 audioLink: https://www.ivoox.com/mis-ingresos-pasivos-6-negocios_md_44345770_wp_1.mp3
-slug: ingresos-pasivos
+bibliography: ["inicialmente","**Inversión de tiempo**"]
 ---
-
-[https://www.ivoox.com/mis-ingresos-pasivos-6-negocios_md_44345770_wp_1.mp3](https://www.ivoox.com/mis-ingresos-pasivos-6-negocios_md_44345770_wp_1.mp3)
+[https://www.ivoox.com/mis-ingresos-pasivos-6-negocios\_md\_44345770\_wp\_1.mp3](https://www.ivoox.com/mis-ingresos-pasivos-6-negocios_md_44345770_wp_1.mp3)
 
 Generar ingresos pasivos viene de recoger los beneficios de un **esfuerzo pasado**.
 
-Y dejo esto claro desde un buen inicio porque la idea de tener un negocio pasivo, un *business* que nos genere pasta sin mover un dedo se ha prostituido más que la política española.
+Y dejo esto claro desde un buen inicio porque la idea de tener un negocio pasivo, un _business_ que nos genere pasta sin mover un dedo se ha prostituido más que la política española.
 
 Hay mucha teoría por internet, pero la mayoría de autores escriben **sin haberlo vivido**. Por esto encontramos tantos artículos de rollo «las 10 maneras de hacerse millonario» publicados por autores pagados con el sueldo mínimo interprofesional.
 
 ¿Mi caso?
 
-Hace años empecé [posicionando](https://pau.ninja/ingresos-pasivos/#Posicionar_un_blog_utilizando_el_SEO) un blog en Google. Bueno, al final fueron decenas. Los llené de contenido, ahora tienen miles de visitas al día y recibo dinero sin tener que estar encima de ellas.
+Hace años empecé [posicionando](./ingresos-pasivos#Posicionar_un_blog_utilizando_el_SEO) un blog en Google. Bueno, al final fueron decenas. Los llené de contenido, ahora tienen miles de visitas al día y recibo dinero sin tener que estar encima de ellas.
 
 O en el caso de mis ahorros. En su momento investigué a tope donde las tenía que poner para que me dieran el máximo beneficio, y ahora **trabajan para mí**.
 
 Esta ha sido **mi experiencia** para generar ingresos pasivos de **forma práctica**.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Los mejores negocios para generar ingresos pasivos](#Los_mejores_negocios_para_generar_ingresos_pasivos 'Los mejores negocios para generar ingresos pasivos')
-  - [Posicionar un blog utilizando el SEO](#Posicionar_un_blog_utilizando_el_SEO 'Posicionar un blog utilizando el SEO')
-  - [Generar intereses con "indexados"](#Generar_intereses_con_%22indexados%22 'Generar intereses con "indexados"')
-  - [Crear y publicar vídeos en YouTube](#Crear_y_publicar_videos_en_YouTube 'Crear y publicar vídeos en YouTube')
-  - [Crear infoproductos y cursos](#Crear_infoproductos_y_cursos 'Crear infoproductos y cursos')
-  - [Publicar libros como autor independiente](#Publicar_libros_como_autor_independiente 'Publicar libros como autor independiente')
-  - [Vender blogs ya posicionado](#Vender_blogs_ya_posicionado 'Vender blogs ya posicionado')
-  - [Dropshipping](#Dropshipping 'Dropshipping')
-  - [Venta de plantillas web](#Venta_de_plantillas_web 'Venta de plantillas web')
-  - [Venta de cursos online](#Venta_de_cursos_online 'Venta de cursos online')
-  - [Venta de aplicaciones y software](#Venta_de_aplicaciones_y_software 'Venta de aplicaciones y software')
-- [Acuérdate de los negocios semipasivos](#Acuerdate_de_los_negocios_semipasivos 'Acuérdate de los negocios semipasivos')
-  - [Podcast](#Podcast 'Podcast')
-  - [Comunidades de pago](#Comunidades_de_pago 'Comunidades de pago')
-- [Antes de meterse en negocios online](#Antes_de_meterse_en_negocios_online 'Antes de meterse en negocios online')
-  - [Requisitos esenciales](#Requisitos_esenciales 'Requisitos esenciales')
-  - [Verdades como puños](#Verdades_como_punos 'Verdades como puños')
-  - [Casi todo se puede digitalizar](#Casi_todo_se_puede_digitalizar 'Casi todo se puede digitalizar')
-  - [Por qué lo quiero](#Por_que_lo_quiero 'Por qué lo quiero')
-
 ## Los mejores negocios para generar ingresos pasivos
 
-Después de años en el *business* de los ingresos online, cada vez que **establezco un negocio pasivo** intento exprimirlo al máximo.
+Después de años en el _business_ de los ingresos online, cada vez que **establezco un negocio pasivo** intento exprimirlo al máximo.
 
 A continuación la explicación de los que he probado y más abajo **los que es posible empezar**.
 
@@ -64,9 +45,7 @@ Alto
 
 Baja-media (desde 100€)
 
-**Inversión de tiempo**
-
-8 inicialmente
+8 
 
 **Dificultad**
 
@@ -74,7 +53,7 @@ Media
 
 **Guía práctica**
 
-[Cómo posicionar mi blog en Google](https://pau.ninja/posicionar-un-blog/)
+[Cómo posicionar mi blog en Google](./posicionar-un-blog)
 
 **Ejemplo de cómo lo hago yo**
 
@@ -95,21 +74,19 @@ A los blog nicho les tengo un amor especial porque son los que me hicieron **vi
 
 Una vez se ha llegado a la cumbre de algún tema, se puede decidir **mantener** (acostumbra a generar ingresos pasivos de forma práctica) o **vender**, como he hecho con unas cuantas webs de temáticas que no me motivaba seguir actualizando.
 
-[![Posicionarse en Google (sin tonterías): Guía SEO básica y completa](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTFRHdGliRVZYTFZNdVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA5NA=)](https://www.amazon.es/dp/B073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Posicionarse en Google (sin tonterías): Guía SEO básica y completa')
+[![Posicionarse en Google (sin tonterías): Guía SEO básica y completa](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTFRHdGliRVZYTFZNdVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY5Ng=)](https://www.amazon.es/dpB073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Posicionarse en Google (sin tonterías): Guía SEO básica y completa")
 
-[Posicionarse en Google (sin tonterías): Guía SEO básica y completa](https://www.amazon.es/dp/B073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Posicionarse en Google (sin tonterías): Guía SEO básica y completa')
+[Posicionarse en Google (sin tonterías): Guía SEO básica y completa](https://www.amazon.es/dp/B073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Posicionarse en Google (sin tonterías): Guía SEO básica y completa")
 
 Publiqué mi trabajo de final de carrera sobre SEO en este ebook.
 
 4,99 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 La parte negativa sería la inseguridad y el **futuro incierto**, porque dejamos **en las manos de Google** el tráfico y por lo tanto la vida de los blogs. Si se es avispado, se puede crear una audiencia (me gusta más la palabra comunidad). Algo que sólo acaba funcionando cuando los temas apasionan de verdad y se actúa correctamente.
 
 ### Generar intereses con «indexados»
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 **Potencial de ganancias**
 
@@ -118,8 +95,6 @@ Estimados de un 6% a 15% anual (a 25 años vista)
 **Inversión de dinero**
 
 Desde 10.000€
-
-**Inversión de tiempo**
 
 Cero
 
@@ -160,9 +135,7 @@ Sin techo
 
 Cero
 
-**Inversión de tiempo**
-
-Alta inicialmente
+Alta 
 
 **Dificultad**
 
@@ -179,7 +152,7 @@ Cualquier canal de YouTube
 Lo que me gusta ?
 
 - Totalmente independiente.
-- Contrariamente a lo que la gente piensa, no es sólo lo que te paga YouTube por publicidad. Existe la posibilidad de afiliaciones, *sponsors*, vender…
+- Contrariamente a lo que la gente piensa, no es sólo lo que te paga YouTube por publicidad. Existe la posibilidad de afiliaciones, _sponsors_, vender…
 
 Lo que me disgusta ?
 
@@ -191,7 +164,7 @@ En el otro lado está que, aunque un tema me guste, tal vez el mundo del vídeo 
 
 ### Crear infoproductos y cursos
 
-![cómic cursos](https://pau.ninja/wp-content/uploads/2021/10/comic-cursos-1.png)
+![cómic cursos](./wp-content/uploads/2021/10comic-cursos-1.png)
 
 **Potencial de ganancias**
 
@@ -201,9 +174,7 @@ Sin techo
 
 0
 
-**Inversión de tiempo**
-
-10/10 inicialmente
+10/10 
 
 **Dificultad**
 
@@ -235,7 +206,7 @@ Ya arrojaré un poco más de luz sobre los cursos que estoy haciendo y de que ma
 
 ### Publicar libros como autor independiente
 
-![cómic escritor](https://pau.ninja/wp-content/uploads/2021/10/comic-escritor.png)
+![cómic escritor](./wp-content/uploads/2021/10comic-escritor.png)
 
 **Potencial de ganancias**
 
@@ -244,8 +215,6 @@ Sin techo. Dependerá del volumen de libros publicados
 **Inversión de dinero**
 
 0/10
-
-**Inversión de tiempo**
 
 10/10 desde el inicio
 
@@ -285,8 +254,6 @@ Sin techo. Dependerá del volumen de libros publicados
 
 2/10
 
-**Inversión de tiempo**
-
 10/10 desde el inicio
 
 **Dificultad**
@@ -302,8 +269,6 @@ Lo contamos con [el experto SEO Jose Marquez en este podcast](https://www.youtub
 Con una red de contactos
 
 Se puede saltar directamente a comprar nichos que ya están posicionados, pero igualmente **hay que conocer del tema**. De lo contrario no podría saber si lo que estoy comprando es bueno o malo.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span><span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 No recomiendo comprar ningún blog que ya esté posicionado para empezar a generar ingresos pasivos de forma práctica. La excepción sería si ya se han subido unas cuantas webs desde cero a Google y **sé analizarla**.
 
@@ -347,7 +312,7 @@ Siendo un apasionado de hacer páginas web, ya no hace falta ir a vender indiscr
 - **Pasivo**: muy pasivo una vez publicado
 - **Guía práctica**: curso de varias [partes](http://www.ladesmesurada.com/mi-primer-producto-digital-primera-parte/) y en vídeo
 
-Los famosos *infoproductos* son documentos o archivos dónde se contiene una explicación al completo. La temática es sobre algo de lo que tengo más conocimiento que la mayoría. Se pone a la venta para aquellos que quieren aprender más sobre el tema **y se fían de mi para aprenderlo**.
+Los famosos _infoproductos_ son documentos o archivos dónde se contiene una explicación al completo. La temática es sobre algo de lo que tengo más conocimiento que la mayoría. Se pone a la venta para aquellos que quieren aprender más sobre el tema **y se fían de mi para aprenderlo**.
 
 Por esto hay mucha venta de humo en este sector, y aquellos que pueden generar ingresos pasivos de forma práctica con productos de información, son los que 1) tienen una buena audiencia, 2) saben hacerse visibles en plataformas para venderlos. Algunas de estas plataformas serían:
 
@@ -397,8 +362,6 @@ Ilimitado (depende de oyentes)
 
 Desde 0€
 
-**Inversión de tiempo**
-
 Cero
 
 **Dificultad**
@@ -431,7 +394,7 @@ Aún así, **si el contenido no es caduco y sigue siendo relevante**, se pueden 
 
 ### Comunidades de pago
 
-![mi membership site](https://pau.ninja/wp-content/uploads/2021/10/mi-membership-site.jpeg)
+![mi membership site](./wp-content/uploads/2021/10mi-membership-site.jpeg)
 
 **Potencial de ganancias**
 
@@ -440,8 +403,6 @@ Ilimitado (depende de miembros)
 **Inversión de dinero**
 
 Desde 0€
-
-**Inversión de tiempo**
 
 Cero
 
@@ -465,7 +426,7 @@ Lo que me gusta ?
 
 Lo que me disgusta ?
 
-- Depende del tiempo que requiera estar encima de la comunidad, uno puede llegar a sentir que está siendo un maldito *community manager*…
+- Depende del tiempo que requiera estar encima de la comunidad, uno puede llegar a sentir que está siendo un maldito _community manager_…
 - Si no externalizas la administración de los miembros y la comunidad, entonces estás detrás de un negocio que es semi-pasivo.
 - Es difícil encontrar un nicho.
 - Hay que tener tráfico generado.
@@ -484,7 +445,7 @@ Es importante entender que:
 
 Tener esto en mente es muy importante, porque **se tiene que estar activo en algún momento**. Por ejemplo, cuando publiqué mis libros, en algún momento los tuve que escribir. Pero ahora, la gente sigue comprándolos.
 
-Este concepto es el *evergreen*. El contenido que **no pasa de moda**, o se tiene que actualizar muy poco.
+Este concepto es el _evergreen_. El contenido que **no pasa de moda**, o se tiene que actualizar muy poco.
 
 Aún así, hay unos requisitos que hay que cumplir para que los negocios online tengan éxito.
 
@@ -539,3 +500,88 @@ La pregunta que nos tendríamos qué hacer para iniciar cualquier tipo de activi
 No necesito ser entrevistado en el podcast de Tim Ferriss, salir a El País o en televisión. Sólo quiero tener suficiente independencia financiera, llegando a la libertad para hacer dinero a distancia **pudiendo disfrutar de mi tiempo libre**.
 
 Si le pongo que lo que hago me encanta hacerlo, y me levanto por la mañana con ansias de ponerme manos a la obra, no necesito nada más.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Negocios](./negocios)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/ingresos-pasivos/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14460,"title":"Mis%2010%20negocios%20dando%20INGRESOS%20pasivos%20%E3%80%90Ejemplos%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/hombre-trabajando-online.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

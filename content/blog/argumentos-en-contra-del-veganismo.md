@@ -1,13 +1,20 @@
 ---
-title: "Ser vegano no es sano (ni ético, ni sostenible) Los argumentos en contra del veganismo"
+title: "Ser vegano no es sano (ni ético, ni sostenible)"
+url: https://pau.ninja/argumentos-en-contra-del-veganismo
+slug: argumentos-en-contra-del-veganismo
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: antiveganismo
+    label: Antiveganismo
 image: fruta-podrida-con-hormigas.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/12/fruta-podrida-con-hormigas.jpeg
 published: 2021-12-13T10:27:09+00:00
 modified: 2023-07-25T03:15:43+00:00
+scrappedAt: 2024-10-14T09:20:54.630Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283775-44100-2-241f64ce1f3484e4.mp3
-slug: argumentos-en-contra-del-veganismo
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283775-44100-2-241f64ce1f3484e4.mp3](https://anchor.fm/s/98566448/podcast/play/52171578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283775-44100-2-241f64ce1f3484e4.mp3)
 
 El otro día me escribió un amigo mío. Este amigo de toda la vida, de la infancia, me comentó que llevaba un par de meses con niebla mental. Que no se podía concentrar y que pensar con claridad se le hacía muy difícil.
@@ -18,13 +25,11 @@ Se fue a hacer un análisis de sangre y cuando le presentaron los resultados, el
 
 Claro que este amigo representa sólo una anécdota, ¿no? claro… Será que YouTube no está plagado de testimonios de **ex-veganas que perdieron no sólo su salud sino también la menstruación**.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 ¿Qué otra forma tiene la naturaleza de decirte que tu cuerpo no está bien nutrido? pues asegurándote que no puedas tener descendencia mientras estés en esa situación. Si tú no estás bien, el «bollo» que lleves dentro seguro que tampoco lo va a estar. Lo pondrías en peligro.
 
-Por esto aunque di suficientes [motivos para no ser vegano](https://pau.ninja/razones-para-no-ser-vegano/), hoy quiero dar algunos más y también es relevante repetir lo más importantes porque siempre hay alguna pobre persona a la que la industria vegana, es capaz de venderle la misma historia que me vendieron a mí. Cuando **fui entre vegetariano y vegano durante 6 años**.
+Por esto aunque di suficientes [motivos para no ser vegano](./razones-para-no-ser-vegano), hoy quiero dar algunos más y también es relevante repetir lo más importantes porque siempre hay alguna pobre persona a la que la industria vegana, es capaz de venderle la misma historia que me vendieron a mí. Cuando **fui entre vegetariano y vegano durante 6 años**.
 
-![cómic dieta carnivora](https://pau.ninja/wp-content/uploads/2021/10/comic-dieta-carnivora.png)
+![cómic dieta carnivora](./wp-content/uploads/2021/10comic-dieta-carnivora.png)
 
 La media de tiempo que una persona puede seguir una dieta vegana (100% estricta) son 2-3 años hasta que los problemas de salud sobrepasan las ganas de «hacer el bien» éticamente.
 
@@ -36,28 +41,6 @@ Bueno. Para esto he venido hoy.
 
 Esta es la chuleta para dejar a tu novia vegana. O la chuleta para responderles a tu primo (ahora) vegano en las cenas de navidad cuando no se quiera comer los canalones de carne de tu abuela.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Argumentos en contra del veganismo](#Argumentos_en_contra_del_veganismo 'Argumentos en contra del veganismo')
-  - [La carne nos hizo evolucionar](#La_carne_nos_hizo_evolucionar 'La carne nos hizo evolucionar')
-  - [El ser humano no es herbívoro](#El_ser_humano_no_es_herbivoro 'El ser humano no es herbívoro')
-  - [Los estudios científicos no lo respaldan](#Los_estudios_cientificos_no_lo_respaldan 'Los estudios científicos no lo respaldan')
-  - [No es una dieta sana ni natural](#No_es_una_dieta_sana_ni_natural 'No es una dieta sana ni natural')
-  - [Consumir carne es natural y necesario](#Consumir_carne_es_natural_y_necesario 'Consumir carne es natural y necesario')
-  - [Se crea más efecto invernadero](#Se_crea_mas_efecto_invernadero 'Se crea más efecto invernadero')
-  - [Se depleta el suelo en cada cosecha](#Se_depleta_el_suelo_en_cada_cosecha 'Se depleta el suelo en cada cosecha')
-  - [Alimentamos menos personas](#Alimentamos_menos_personas 'Alimentamos menos personas')
-  - [Gastamos más agua](#Gastamos_mas_agua 'Gastamos más agua')
-  - [Se usa mucho espacio en el suelo](#Se_usa_mucho_espacio_en_el_suelo 'Se usa mucho espacio en el suelo')
-  - [Ser vegano mata más animales](#Ser_vegano_mata_mas_animales 'Ser vegano mata más animales')
-  - [El veganismo no es ético](#El_veganismo_no_es_etico 'El veganismo no es ético')
-- [Argumentos a favor del veganismo](#Argumentos_a_favor_del_veganismo 'Argumentos a favor del veganismo')
-  - [Comer rico y variado](#Comer_rico_y_variado 'Comer rico y variado')
-  - [Poder seguir comiendo azúcar](#Poder_seguir_comiendo_azucar 'Poder seguir comiendo azúcar')
-  - [Hacer varias comidas al día](#Hacer_varias_comidas_al_dia 'Hacer varias comidas al día')
-
 ## Argumentos en contra del veganismo
 
 Como siempre separaré la ganadería industrial de la de pasto. Dos mundos totalmente diferentes. Muchos estaremos de acuerdo en que hay que erradicar la ganadería industrial y sus atrocidades por completo.
@@ -68,9 +51,9 @@ Así que antes de empezar lo primero será tener siempre en mente que cuando hab
 
 Porque hay tres grandes debates donde se puede argumentar a favor y en contra del veganismo.
 
-- **Argumento de salud:** [ser vegano es malo y tiene consecuencias para la salud](https://pau.ninja/consecuencias-del-veganismo/).
-- **Argumento medioambiental:** [el veganismo es peor para el medio ambiente](https://pau.ninja/veganismo-y-medio-ambiente/).
-- **Argumento ético y moral:** [el veganismo sigue siendo insostenible](https://pau.ninja/veganismo-y-medio-ambiente/). Tanto por las las muertes que provocan los monocultivos de plantas, como porque se alimentan menos bocas humanas, porque muchos no saben la implicación de la carne de pasto y lo necesario que es para el planeta.
+- **Argumento de salud:** [ser vegano es malo y tiene consecuencias para la salud](./consecuencias-del-veganismo).
+- **Argumento medioambiental:** [el veganismo es peor para el medio ambiente](./veganismo-y-medio-ambiente).
+- **Argumento ético y moral:** [el veganismo sigue siendo insostenible](./veganismo-y-medio-ambiente). Tanto por las las muertes que provocan los monocultivos de plantas, como porque se alimentan menos bocas humanas, porque muchos no saben la implicación de la carne de pasto y lo necesario que es para el planeta.
 
 La mayoría de los argumentos veganos son puramente falacias. Otros se acercan más a la realidad pero sin contexto (por ejemplo confundiendo la carne industrial con la de pasto).
 
@@ -83,7 +66,7 @@ La falacia de este argumento se puede desmontar fácilmente porque la respuesta 
 
 Si miremos a la subida exponencial del cerebro humano a lo largo de nuestra evolución, vemos que nuestra capacidad cerebral se catapulta cuando descubrimos restos del _Homo habilis_ de hace casi 2 millones de años.
 
-![armas-vs-fuego](https://pau.ninja/wp-content/uploads/2021/10/armas-vs-fuego.png)
+![armas-vs-fuego](./wp-content/uploads/2021/10armas-vs-fuego.png)
 
 ¿Sabéis qué había entre los restos del _Homo habilis_? herramientas. Herramientas para **despedazar animales y armas de caz**a. No eran jodidos molinillos para picar verduras o pela-patatas.
 
@@ -95,7 +78,7 @@ Es verdad que el descubrimiento del fuego fue el más importante de toda la hist
 
 Hay una buena razón por la que las paredes de las cuevas de la prehistoria, las pinturas que nos dejaron nuestros antepasados estuvieran llenas de interacción con grandes mamíferos e historias de caza.
 
-![pintura bisón](https://pau.ninja/wp-content/uploads/2021/12/pintura-bison.jpeg)
+![pintura bisón](./wp-content/uploads/2021/12pintura-bison.jpeg)
 
 Lo que se pintó en esas paredes era el centro de la vida de los que pasaron por las cuevas. En ese arte no se veía a ninguna tribu sentada haciendo una sopa de verduritas que les hubiera dado una buena diarrea.
 
@@ -118,7 +101,7 @@ Si la carne nos hizo evolucionar durante cientos de miles de años, sería una t
 
 Por ejemplo, ¿por qué la naturaleza no da a los chimpancés morros como los de un oso hormiguero para que pueda acceder a más hormigas? fácil, porque los chimpancés [saben usar palos](https://phys.org/news/2020-05-termite-fishing-techniques-wild-chimpanzees.html) para sacar hormigas de sus agujeros.
 
-![chimpancés utilizando palos](https://pau.ninja/wp-content/uploads/2021/12/chimpances-utilizando-palos.jpeg)
+![chimpancés utilizando palos](./wp-content/uploads/2021/12chimpances-utilizando-palos.jpeg)
 
 Se malgastarían miles de años de evolución para conseguir una ventaja biológica que este chimpancé ya hace años que ha conseguido con palitos que coge por ahí.
 
@@ -127,15 +110,15 @@ Si no tenemos zarpas, si no tenemos dientes como las de un león, es porque **ya
 - Herramientas efectivas para cazar y cocinar la carne.
 - Cooperación en grupo con comunicación no verbal.
 - Regulación corporal con el sudor para cubrir mucha distancia.
-- Unos [deltoides sin igual](https://pau.ninja/el-ser-humano-es-carnivoro/#Deltoides_desarrollados) con un manguito rotador único en el reino animal para tirar piedras en grupo.
+- Unos [deltoides sin igual](./el-ser-humano-es-carnivoro#Deltoides_desarrollados) con un manguito rotador único en el reino animal para tirar piedras en grupo.
 
-No es casualidad que en el ideal griego [de un cuerpo estético y perfecto](https://pau.ninja/cuerpo-estetico-hombre-medidas/), el músculo que se considera más atractivo en todas las culturas sean los hombros. Es el músculo que te haría más útil para el grupo es lo que te haría más atractivo.
+No es casualidad que en el ideal griego [de un cuerpo estético y perfecto](./cuerpo-estetico-hombre-medidas), el músculo que se considera más atractivo en todas las culturas sean los hombros. Es el músculo que te haría más útil para el grupo es lo que te haría más atractivo.
 
-Hablé de esto en la teoría de [la «facultad» del humano por ser carnívoro](https://pau.ninja/el-ser-humano-es-carnivoro/) (#194), y por todos los motivos que mencioné es una tontería decir ahora que somos herbívoros si **lo que nos hizo evolucionar fue la carne**.
+Hablé de esto en la teoría de [la «facultad» del humano por ser carnívoro](./el-ser-humano-es-carnivoro) (#194), y por todos los motivos que mencioné es una tontería decir ahora que somos herbívoros si **lo que nos hizo evolucionar fue la carne**.
 
 ¿Y el sistema digestivo?
 
-Potencialmente desde la prehistoria empezamos siendo carroñeros y biológicamente seguimos siéndolo. Como las hienas y los lobos, que son carnívoros facultativos. Repito. «facultativos». Esto significa que priorizarán la carne por su valor nutricional, pero en caso de escasez pueden digerir cualquier otra comida, aunque hacerlo constantemente tendría [consecuencias para la salud](https://pau.ninja/consecuencias-del-veganismo/).
+Potencialmente desde la prehistoria empezamos siendo carroñeros y biológicamente seguimos siéndolo. Como las hienas y los lobos, que son carnívoros facultativos. Repito. «facultativos». Esto significa que priorizarán la carne por su valor nutricional, pero en caso de escasez pueden digerir cualquier otra comida, aunque hacerlo constantemente tendría [consecuencias para la salud](./consecuencias-del-veganismo).
 
 No hace falta hipotetizar.
 
@@ -143,13 +126,13 @@ Estamos bajo una epidemia mundial de enfermedades que antes ni existían. Hemos 
 
 En 2019 [demostraron](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6421459/) que los neandertales fueron **más carnívoros** que los propios lobos y hienas de hoy día.
 
-![nitrógeno carnívoros](https://pau.ninja/wp-content/uploads/2021/10/nitrogeno-carnivoros.jpg)
+![nitrógeno carnívoros](./wp-content/uploads/2021/10nitrogeno-carnivoros.jpg)
 
 Los veganos argumentan con las similitudes entre chimpancés y humano, pero ¿para que compararnos con otro animal cuando nos podemos comparar con nosotros mismos del pasado?
 
 Nos diferenciamos de los chimpancés en 8,86% de ADN, que aunque parezca poco, es mucho. En cambio de los neandertales nuestra diferenciación es mucho menor: de 1,22% concretamente. Y esto sin contar que [seguimos](https://www.nationalgeographic.com/science/article/more-neanderthal-dna-than-you-think) compartiendo el 3-5% de nuestro ADN con los neandertales.
 
-Tanto los _homo sapiens_ como los [denisovanos](https://pau.ninja/denisovanos/) convivimos con estos señores peludos durante miles de años. Esto nos hizo ver que si miramos los niveles de ácido, el pH y el sistema digestivo de los humanos, es verdad que **no se parece ni al de un carnívoro pero tampoco al de un** **herbívoro**.
+Tanto los _homo sapiens_ como los [denisovanos](./denisovanos) convivimos con estos señores peludos durante miles de años. Esto nos hizo ver que si miramos los niveles de ácido, el pH y el sistema digestivo de los humanos, es verdad que **no se parece ni al de un carnívoro pero tampoco al de un** **herbívoro**.
 
 > Tenemos el sistema digestivo de un carroñero. De un «carnívoro facultativo» que puede consumir de todo (en caso de necesidad) pero que su dieta se basa en carne.
 
@@ -168,7 +151,7 @@ Estos estudios veganos no tienen en cuenta estos factores. Sólo lo que están c
 
 Vamos, que los estudios que se presentan como tal, son poco fiables porque no han sido estudios clínicos controlados, sino epidemiológicos. La epidemiología relaciona factores y causas del rollo, «¡mira! ¡La población vegana vive más años comiendo montones de verduritas eso quiere decir que ser vegano es bueno!», pero no se tienen en cuenta estos otros factores que no se controlan.
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2021/10/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2021/10comic-longevidad.png)
 
 La ciencia verdadera estudia varios grupos. Controlando las variables que se quieren estudiar. Haciendo que todos tengan un estilo de vida similar, pero cambiando esa pequeña cosita para ver si tiene un efecto determinante.
 
@@ -185,7 +168,7 @@ No seamos hipócritas porque los datos siempre se pueden relacionar como nos dé
 
 En un titular de un periódico podíamos leer que «Ver películas de Nicolas Cage aumenta el riesgo de ahogarse en la piscina».
 
-![relacion-nicolas-cage](https://pau.ninja/wp-content/uploads/2021/10/relacion-nicolas-cage.jpg)
+![relacion-nicolas-cage](./wp-content/uploads/2021/10relacion-nicolas-cage.jpg)
 
 O también que el gasto público de I+D en Estados Unidos está directamente relacionado con suicidios. Es decir, a más gasto, más suicido.
 
@@ -216,7 +199,7 @@ Me refiero a que te comerás un montón de zanahorias pensando que esto te dará
 
 Y ahora que hablamos de vitamina A hay decir que ¡ojo!, porque no sólo sucede con esta vitamina A si no con muchos otros micronutrientes. Especialmente en las **vitaminas liposolubles que a parte de ser las más básicas para la vida humana no se encuentran en las plantas**.
 
-[Estas vitaminas tan importantes](https://pau.ninja/las-vitaminas-mas-importantes/) (K2, A, D3, omega 3 en sus formas absorbibles) **sólo se encuentran en la grasa animal**. En ninguna otra fuente. Y no olvidemos que no sólo son las liposoplubles sino también otros micronutrientes que el reino vegetal simplemente no nos da:
+[Estas vitaminas tan importantes](./las-vitaminas-mas-importantes) (K2, A, D3, omega 3 en sus formas absorbibles) **sólo se encuentran en la grasa animal**. En ninguna otra fuente. Y no olvidemos que no sólo son las liposoplubles sino también otros micronutrientes que el reino vegetal simplemente no nos da:
 
 - Hierro hemo
 - Creatina
@@ -278,9 +261,7 @@ Aquí es cuando los veganos atacan con los argumentos morales y éticos pensando
 
 Aquí ya entramos en los argumentos medio ambientales y esta es otra mentira. Seguramente la más grande. Bueno no. Todas lo son, tanto de salud, ética como medio ambiente.
 
-La falacia de que la carne vacuna tiene un impacto enorme para las emisiones para la atmósfera y efecto invernadero salen de un [informe](https://www.fao.org/3/a0701e/a0701e.pdf) realizado por las Naciones Unidas en 2006 llamado «Livestock’s Long Shadow». Un *paper* que afirmaba que el ganado es el responsable del 18% de las emisiones mundiales, superando al sector del transporte.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
+La falacia de que la carne vacuna tiene un impacto enorme para las emisiones para la atmósfera y efecto invernadero salen de un [informe](https://www.fao.org/3/a0701e/a0701e.pdf) realizado por las Naciones Unidas en 2006 llamado «Livestock’s Long Shadow». Un _paper_ que afirmaba que el ganado es el responsable del 18% de las emisiones mundiales, superando al sector del transporte.
 
 Lo que pasa es que este estudio tuvo una falla grande. Muy grande. Casi tan grande como el impacto que decían que la carne tenía en la Tierra.
 
@@ -343,7 +324,7 @@ Compararon el impacto medioambiental de una hamburguesa de carne de vacuno criad
 
 Tanto la Beyond Burger como la Impossible Burger tenían una huella considerablemente más pequeña de gases de efecto invernadero comparado con una hamburguesa de carne convencional, pero es que **la hamburguesa de carne de pasto tenía emisiones netas negativas**.
 
-![impacto carne de pasto](https://pau.ninja/wp-content/uploads/2021/12/impacto-carne-de-pasto.jpg)
+![impacto carne de pasto](./wp-content/uploads/2021/12impacto-carne-de-pasto.jpg)
 
 Gráfico: por libra de carne, lo que contamina más es la carne convencional, pero lo que contamina menos es la carne 100% de pasto.
 
@@ -364,7 +345,7 @@ Pero incluso aunque no habláramos de carne de pasto, los datos de la ganadería
 
 La mayor parte del maíz se va a la producción de [etanol](https://www.energiaestrategica.com/el-6-por-ciento-de-la-produccion-cereales-a-nivel-mundial-se-utiliza-para-elaborar-bioetanol/) (tanto para crear combustible como bebidas), y la mayor parte del maíz y la soja para alimentación animal se destina a pollos y cerdos criados industrialmente, no para alimentar al ganado.
 
-![agricultura vs ganadería](https://pau.ninja/wp-content/uploads/2021/12/agricultura-vs-ganaderia.jpeg)
+![agricultura vs ganadería](./wp-content/uploads/2021/12agricultura-vs-ganaderia.jpeg)
 
 Imagen: a la izquierda industria vegana del monocultivo. A la derecha carne de pasto local.
 
@@ -416,15 +397,15 @@ Entonces, ¿para qué quieres poner más cultivos si ya hemos visto que es la p
 
 Claro que una vaca tomará mucho espacio si vive libre. Pero **¿cuánto tiempo tardas en comerte 500kg de carne?** porque esto [es lo que pesa](https://www.canr.msu.edu/news/selling_grass_finished_freezer_beef) una vaca de pasto. Aunque menos que una vaca engordada a propósito y con ética dudosa, mucho más nutricional.
 
-[![Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTWRVSndhWEp6U2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkwMTc0OA=)](https://www.amazon.es/dp/1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet')
+[![Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTWRVSndhWEp6U2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1NzA0OA=)](https://www.amazon.es/dp1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet")
 
-[Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet](https://www.amazon.es/dp/1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet')
+[Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet](https://www.amazon.es/dp/1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet")
 
 De los mejores documentales y libros que se han hecho de este tema es el de Sacred Cow.
 
-17,25 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+17,25 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Se argumenta que hay espacio de sobra para criar a todo el ganado de pasto que necesitamos. Consideremos que el que es alimentado con grano no tienen sobrepeso artificial y también que estas buenas prácticas del pasto regenerativo no se aplican a nivel global.
 
@@ -436,7 +417,7 @@ El cultivo de pastos utiliza ganado para pastar los residuos de los cultivos des
 
 Añadir que del **60 al 70% de todas las tierras agrícolas del planeta son adecuadas para pastar, [no para el cultivo](https://www.nature.com/articles/s41467-021-22702-2)**. Y encima, la que es apta para ser cultivada, [un tercio](https://ourworldindata.org/land-use) está degradada. Desnutrida por tanta cosecha sin el abono de la naturaleza: orina y estiércol de los rumiantes.
 
-![antes y después animales de pasto](https://pau.ninja/wp-content/uploads/2021/10/antes-y-despues-animales.jpg)
+![antes y después animales de pasto](./wp-content/uploads/2021/10antes-y-despues-animales.jpg)
 
 Las tierras de Allan Savory incrementaron en un 400% de nutrición de suelo desde que puso animales rumiantes.
 
@@ -457,7 +438,7 @@ Estamos de acuerdo en algo. Los productos de origen animal **convencionales** (
 
 Lo que muchos veganos no saben es que **si comemos carne de pasto hay menos muertes que en una dieta vegana**. La ética es subjetiva, pero estos son hechos demostrables con datos y como diría Ben Shapiro «a los hechos no les importan tus sentimientos».
 
-![datos-vs-sentimientos](https://pau.ninja/wp-content/uploads/2021/10/datos-vs-sentimientos.jpg)
+![datos-vs-sentimientos](./wp-content/uploads/2021/10datos-vs-sentimientos.jpg)
 
 Matar 1 vaca **de pasto** equivale 400-500kg de carne (como mínimo). Restando la sangres, es una cantidad de carne que nos puede durar más de 1 año perfectamente, siempre considerando que por motivos nutricionales queremos aprovechar la casquería (los órganos). Comer el animal de la nariz a la cola y aprovechar cada gramo.
 
@@ -469,7 +450,7 @@ Incluso si consumiéramos carne industrial de ética cuestionable y alimentada c
 
 Una vaca de pasto nos da todos estos kilos de carne de calidad, pero la misma cantidad de arroz o cualquier otra única fuente vegetal no sólo significa malnutrición (porque sólo aporta hidratos y no tiene vitaminas liposolubles), sino también se traduce en **cientos de miles de muertes** en el proceso del monocultivo.
 
-![vegano vs carnívoro](https://pau.ninja/wp-content/uploads/2021/10/vegano-vs-carnivoro.jpeg)
+![vegano vs carnívoro](./wp-content/uploads/2021/10vegano-vs-carnivoro.jpeg)
 
 A los veganos se les parece olvidar que a cada cosecha que se hace, no sólo se depleta el suelo de nutrientes que lleva a gases para la atmósfera por la desertificación, sino que también significa la **muerte de miles de bichos y roedores**. La destrucción de ecosistemas enteros para crear ese monocultivo para que puedas tener tu comida vegana.
 
@@ -548,10 +529,96 @@ La variable que veo en los que siguen esta dieta, no sólo es malnutrición y ra
 
 Algo que también hemos visto en tribus indígenas donde sólo tenían acceso a tubérculos, frutas y miel. ¿El resultado?
 
-![caries indígenas](https://pau.ninja/wp-content/uploads/2021/10/caries-de-ancestros.jpg)
+![caries indígenas](./wp-content/uploads/2021/10caries-de-ancestros.jpg)
 
 Caries y pérdida de dientes.
 
 Un mamífero que pierde sus dientes en un entorno natural no durará mucho tiempo vivo.
 
 ### Hacer varias comidas al día
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Antiveganismo](./antiveganismo)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/argumentos-en-contra-del-veganismo/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13038,"title":"12%20argumentos%20en%20CONTRA%20del%20veganismo%20%E3%80%90irrefutable%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/12\\/fruta-podrida-con-hormigas.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

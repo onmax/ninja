@@ -1,18 +1,23 @@
 ---
 title: "El trabajo (no) te hace más feliz"
+url: https://pau.ninja/importancia-del-trabajo
+slug: importancia-del-trabajo
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-valora-importancia-del-trabajo.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/10/persona-valora-importancia-del-trabajo.jpeg
 published: 2023-10-02T05:32:08+00:00
 modified: 2024-04-28T11:17:56+00:00
+scrappedAt: 2024-10-14T09:19:50.130Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/78116291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-3%2F353936005-44100-2-90b62ed372224.mp3
-slug: importancia-del-trabajo
+bibliography: ["Shephard RJ, Rode A. The Consequences of ‘modernization:’ Evidence from circumpolar peoples. Cambridge University Press; Great Britain: 1996.","Datosmacro. 2023. “Desempleo de España 2023.”‌","Bryan, Mark & Nandi, Alita. (2015). Working hours, work identity and subjective wellbeing.","Bellet, Clement & Neve, Jan-Emmanuel & Ward, George. (2019). Does Employee Happiness Have an Impact on Productivity?. SSRN Electronic Journal. 10.2139/ssrn.3470734.","“Love and Work: How to Find What You Love, Love What You Do, and Do It for the Rest of Your Life : Buckingham, Marcus: Amazon.es: Libros.” 2023.‌"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/78116291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-3%2F353936005-44100-2-90b62ed372224.mp3](https://anchor.fm/s/98566448/podcast/play/78116291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-3%2F353936005-44100-2-90b62ed372224.mp3)
 
-¿Qué tienen en común las personas que se pueden volver adictas al trabajo, [adictas al porno](https://pau.ninja/adiccion-al-porno/), a las drogas, o simplemente adictas a las redes sociales?
+¿Qué tienen en común las personas que se pueden volver adictas al trabajo, [adictas al porno](./adiccion-al-porno), a las drogas, o simplemente adictas a las redes sociales?
 
-El aburrimiento. Esa sensación de que la *vida real* no vale para nada.
+El aburrimiento. Esa sensación de que la _vida real_ no vale para nada.
 
 Un sentimiento que cualquier población indígena no compartirá. Del mismo modo que tampoco lo hubieran hecho nuestros ancestros, cuando lo único que podían hacer era vivir el momento.
 
@@ -22,7 +27,7 @@ Paradójicamente ahora que es más fácil que nunca sobrevivir es cuando menos e
 
 Porque ya no hay necesidad de vivir el _momento_.
 
-Ese *momento* ha dejado de ser el ahora y nos empezamos a preocupar por el mañana o por nuestra vida dentro de 10 años.
+Ese _momento_ ha dejado de ser el ahora y nos empezamos a preocupar por el mañana o por nuestra vida dentro de 10 años.
 
 Por eso nos hacemos con trabajos que odiamos a promesas de que en una década estaremos mucho mejor que hoy, pero hacer este intercambio tiene un riesgo muy elevado a cambio de un beneficio no tan grande comparativamente.
 
@@ -30,7 +35,7 @@ El riesgo está en que ese aburrimiento que se puede terminar traduciendo en adi
 
 > Necesitamos trabajar. Necesitamos apostar en algo. Necesitamos el conflicto. Necesitamos la guerra para enfrentarnos a obstáculos a los que tengamos capacidad de superar con nuestras habilidades.
 
-No es casualidad que [el estado de _flow_](https://pau.ninja/estado-de-flow/) sienta tan bien (#483). En el que el reto y habilidad se juntan.
+No es casualidad que [el estado de _flow_](./estado-de-flow) sienta tan bien (#483). En el que el reto y habilidad se juntan.
 
 La naturaleza nos da una pista inequívoca de lo que necesitamos en la vida.
 
@@ -48,7 +53,7 @@ Adán tuvo que nombrar a todos los animales que había por ese jardín, cuidarlo
 
 Una comparación que pone de manifiesto lo que muchos de nosotros ya sabemos.
 
-Que el [trabajo ideal incluye necesidades humanas](https://pau.ninja/el-trabajo-ideal/) intrínsecas (#520). Igual que el resto de animales, porqué sin actividad, sin movimiento, sin tirar hacia adelante, la vida cesa de existir.
+Que el [trabajo ideal incluye necesidades humanas](./el-trabajo-ideal) intrínsecas (#520). Igual que el resto de animales, porqué sin actividad, sin movimiento, sin tirar hacia adelante, la vida cesa de existir.
 
 > La cuestión está en encontrar **cómo** trabajar y en **por qué** hacerlo.
 
@@ -56,35 +61,19 @@ Saber que lo que estamos haciendo es por un buen motivo.
 
 Antes era fácil saberlo. Le robas la comida a los guepardos africanos para obtener alimento y sobrevivir tú y tu familia un día más, pero ahora, ¿por qué estás en el cubículo 8 horas al día si difícilmente te morirías de hambre?
 
-![meme trabajo](https://pau.ninja/wp-content/uploads/2023/09/meme-trabajo.jpeg)
+![meme trabajo](./wp-content/uploads/2023/09meme-trabajo.jpeg)
 
 Ah… la tan elevada modernización.
 
 O debería decir: modernización descontrolada.
 
-Pregúntale a las tribus indígenas cuantos tienen depresión. De hecho en los estudios se ve como a los indígenas que los trasladan a un entorno moderno son los que pillan depresiones más rápido que nadie[1](<javascript:void(0)>)Shephard RJ, Rode A. The Consequences of ‘modernization:’ Evidence from circumpolar peoples. Cambridge University Press; Great Britain: 1996..
+Pregúntale a las tribus indígenas cuantos tienen depresión. De hecho en los estudios se ve como a los indígenas que los trasladan a un entorno moderno son los que pillan depresiones más rápido que nadie[ref-1](#ref-1){.ref}.
 
 Nos la han vuelto a colar.
 
 Hemos nacido ya en la rueda de la rata, aceptándola como la normalidad de las cosas.
 
 Trabajar es _más que_ necesario para la felicidad, pero quizás aún más necesario hacerlo de la manera (el _cómo_) y los motivos (el _por qué_) que nosotros decidamos.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Papel de trabajo en la relación naturaleza sociedad](#Papel_de_trabajo_en_la_relacion_naturaleza_sociedad 'Papel de trabajo en la relación naturaleza sociedad')
-  - [Primer cambio de paradigma](#Primer_cambio_de_paradigma 'Primer cambio de paradigma')
-  - [Segundo cambio de paradigma](#Segundo_cambio_de_paradigma 'Segundo cambio de paradigma')
-  - [Tercer cambio de paradigma](#Tercer_cambio_de_paradigma 'Tercer cambio de paradigma')
-- [Para qué sirve el trabajo](#Para_que_sirve_el_trabajo 'Para qué sirve el trabajo')
-- [Por qué es necesario trabajar](#Por_que_es_necesario_trabajar 'Por qué es necesario trabajar')
-  - [Da una sensación de identidad](#Da_una_sensacion_de_identidad 'Da una sensación de identidad')
-  - [Mantiene el cerebro activo](#Mantiene_el_cerebro_activo 'Mantiene el cerebro activo')
-  - [Crea sensación de propósito](#Crea_sensacion_de_proposito 'Crea sensación de propósito')
-  - [El trabajo es importante en la vida social](#El_trabajo_es_importante_en_la_vida_social 'El trabajo es importante en la vida social')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
 
 ## Papel de trabajo en la relación naturaleza sociedad
 
@@ -110,7 +99,7 @@ Pero en los años 10.000 AC no era así.
 
 Fue el invento de la agricultura que revolucionó desde nuestras dietas hasta la manera en cómo empezamos a pasar nuestro tiempo.
 
-Mientras que el estilo de vida nómada nos hacía ver el trabajo como un esfuerzo generalizado [totalmente multipotencial](https://pau.ninja/multipotencial/), la sociedad humana que creció (literalmente) desde la agricultura empezó a ver el trabajo como algo totalmente distinto…
+Mientras que el estilo de vida nómada nos hacía ver el trabajo como un esfuerzo generalizado [totalmente multipotencial](./multipotencial), la sociedad humana que creció (literalmente) desde la agricultura empezó a ver el trabajo como algo totalmente distinto…
 
 ### Primer cambio de paradigma
 
@@ -118,7 +107,7 @@ La especialización.
 
 Una especialización que se tenía que emplear en los cultivos según lo que se hacía crecer, o la estación del año a la que nos encontrábamos.
 
-![cómic una persona odia su trabajo](https://pau.ninja/wp-content/uploads/2023/09/comic-una-persona-odia-su-trabajo.jpeg)
+![cómic una persona odia su trabajo](./wp-content/uploads/2023/09comic-una-persona-odia-su-trabajo.jpeg)
 
 Los burros arrastraban los arados en los campos, y nosotros arrastramos la especialización hasta bien pasada la Revolución Industrial.
 
@@ -184,9 +173,9 @@ Hay una razón por la que la satisfacción laboral está proporcionalmente ligad
 
 Seguido muy cerca de la autonomía, la oportunidad y el crecimiento.
 
-![factores de trabajo ideal](https://pau.ninja/wp-content/uploads/2023/09/factores-de-trabajo-ideal.png)
+![factores de trabajo ideal](./wp-content/uploads/2023/09factores-de-trabajo-ideal.png)
 
-Son [valores personales](https://pau.ninja/valores-personales/) que están ligados directamente con la naturaleza humana que seguíamos manteniendo dentro a pesar de haber sido explotados durante siglos.
+Son [valores personales](./valores-personales) que están ligados directamente con la naturaleza humana que seguíamos manteniendo dentro a pesar de haber sido explotados durante siglos.
 
 La sociedad industrializada se centraba en la productividad bruta exclusiva. Viendo a las personas como máquinas con el único objetivo de escalar.
 
@@ -210,7 +199,7 @@ Por primera vez en nuestra historia podemos medir el propósito de nuestro traba
 
 Trabajar es necesario porque aporta valor tanto a la sociedad como a la sensación de significado de la vida del hombre.
 
-Algunos habréis llegado hasta aquí con la idea de que todo lo que digo, esto del *propósito*, *significado* e *impacto* no dejan de ser ideas de una sociedad demasiado cómoda.
+Algunos habréis llegado hasta aquí con la idea de que todo lo que digo, esto del _propósito_, _significado_ e _impacto_ no dejan de ser ideas de una sociedad demasiado cómoda.
 
 Que nos estamos creyendo con un derecho de comodidad que nunca hemos tenido.
 
@@ -218,7 +207,7 @@ Ni siquiera en el pasado.
 
 Quien piense así seguramente será el mismo tipo de persona que le dice a los demás que simplemente debería estar contenta de tener un trabajo. Sea cuál sea.
 
-Que *con el paro que hay en España deberías estar agradecido de tener cualquier trabajo y callarte*.[2](<javascript:void(0)>)Datosmacro. 2023. “Desempleo de España 2023.”‌
+Que _con el paro que hay en España deberías estar agradecido de tener cualquier trabajo y callarte_.[ref-2](#ref-2){.ref}
 
 Pero no estoy de acuerdo. No lo estoy porque:
 
@@ -232,7 +221,7 @@ Lo hemos visto de forma clarísima en cuestión de… ¿meses? con la Inteligenc
 
 Montones de trabajos se han transformado en lo que yo tengo la sensación que ha sido de la noche a la mañana.
 
-Por esto he reiterado más de una vez (#454) que los que saben [cómo aprender a aprender](https://pau.ninja/aprender-a-aprender/) con **alfabetización digital** tienen ventaja incluso sobre lo que ahora mismo sean mega especialista de algo concreto.
+Por esto he reiterado más de una vez (#454) que los que saben [cómo aprender a aprender](./aprender-a-aprender) con **alfabetización digital** tienen ventaja incluso sobre lo que ahora mismo sean mega especialista de algo concreto.
 
 Para seguir siendo relevante (ya no económicamente) sino incluso dentro del entramado social, necesitamos la capacidad de aprender constantemente y reinventarnos.
 
@@ -262,11 +251,11 @@ El trabajar nos define. Forma parte de nuestra identidad. Es a lo que vamos a d
 
 Es el motivo por el que la mayoría te pregunta «¿a qué te dedicas?» cuando se presentan.
 
-Una pregunta que te hará hervir la sangre… si odias lo que haces pero que contarás de forma apasionada si haces lo que *tú* quieres hacer.
+Una pregunta que te hará hervir la sangre… si odias lo que haces pero que contarás de forma apasionada si haces lo que _tú_ quieres hacer.
 
 Porque si la insatisfacción laboral reduce nuestro bienestar, lo contrario también es cierto.
 
-Los estudios demostrarían como esta identidad que tenemos adjuntada al trabajo que hacemos, no produce un efecto multiplicador de bienestar cuando el trabajo nos reporta satisfacción.[3](<javascript:void(0)>)Bryan, Mark & Nandi, Alita. (2015). Working hours, work identity and subjective wellbeing.
+Los estudios demostrarían como esta identidad que tenemos adjuntada al trabajo que hacemos, no produce un efecto multiplicador de bienestar cuando el trabajo nos reporta satisfacción.[ref-3](#ref-3){.ref}
 
 ### Mantiene el cerebro activo
 
@@ -276,34 +265,34 @@ Por supuesto que la familia, el amor, las paseadas por el parque, la brisa marin
 
 El trabajo nos da esa sensación de reto. De solucionar problemas… que nuestro cerebro está programado para hacer a diario.
 
-La naturaleza, nuestro cerebro ya nos está diciendo que necesitamos tener las manos ocupadas en algo. Por esto [queremos alcanzar el estado de _flow_](https://pau.ninja/estado-de-flow/) constantemente.
+La naturaleza, nuestro cerebro ya nos está diciendo que necesitamos tener las manos ocupadas en algo. Por esto [queremos alcanzar el estado de _flow_](./estado-de-flow) constantemente.
 
-![diagrama del estado de flow](https://pau.ninja/wp-content/uploads/2023/05/diagrama-del-estado-de-flow.jpg)
+![diagrama del estado de flow](./wp-content/uploads/2023/05diagrama-del-estado-de-flow.jpg)
 
 Un estado mental en el que es tanto la habilidad como el reto que se tienen que encontrar en una intersección perfecta.
 
-Sienta tan bien entrar en *flow* porque estamos batallando contra el reto.
+Sienta tan bien entrar en _flow_ porque estamos batallando contra el reto.
 
 Volvemos a estar en un entorno de los problemas.
 
 En una jungla dónde no nos queda otra que buscar soluciones.
 
-Si los empleados felices son casi un 20% más productivos que los que lo hacen sin ganas según estadísticas.[4](<javascript:void(0)>)Bellet, Clement & Neve, Jan-Emmanuel & Ward, George. (2019). Does Employee Happiness Have an Impact on Productivity?. SSRN Electronic Journal. 10.2139/ssrn.3470734.
+Si los empleados felices son casi un 20% más productivos que los que lo hacen sin ganas según estadísticas.[ref-4](#ref-4){.ref}
 
 Lo sabemos bien porque cuando se pregunta a personas con mucho éxito, con resiliencia y compromiso en comparación con grupos que lo son menos, las preguntas que separan a estos dos grupos son:
 
 - ¿Tienes la oportunidad de aprovechar tus puntos fuertes a diario?
 - ¿Tienes ganas de ir a trabajar todos los días de la semana pasada?
 
-Ya podéis imaginar que los que responden «totalmente de acuerdo» a ambas preguntas son todos los integrantes del grupo con más éxito.[5](<javascript:void(0)>)“Love and Work: How to Find What You Love, Love What You Do, and Do It for the Rest of Your Life : Buckingham, Marcus: Amazon.es: Libros.” 2023.‌
+Ya podéis imaginar que los que responden «totalmente de acuerdo» a ambas preguntas son todos los integrantes del grupo con más éxito.[ref-5](#ref-5){.ref}
 
 ### Crea sensación de propósito
 
-Entrar en *flow* haciendo lo que quieres hacer es mucho más fácil que haciendo algo con lo que no te sientes alineado.
+Entrar en _flow_ haciendo lo que quieres hacer es mucho más fácil que haciendo algo con lo que no te sientes alineado.
 
 Difícilmente podemos encontrar algo que nos de tal sensación de propósito como el trabajo.
 
-No estoy hablando de *trabajo* como *empleo* necesariamente (aunque sí puede serlo), hablo de mantenernos con las manos ocupadas.
+No estoy hablando de _trabajo_ como _empleo_ necesariamente (aunque sí puede serlo), hablo de mantenernos con las manos ocupadas.
 
 > Sin ambición no se empieza nada. Sin trabajo no se termina nada. El premio no se envía. Tienes que ganarlo -Ralph Waldo Emerson
 
@@ -316,27 +305,3 @@ Hasta el punto que muchas parejas o grupos de amigos se conocen en el trabajo, y
 Ni siquiera tu familia te va a ver tanto…
 
 Después cambias de trabajo y terminas cambiando de grupo de amigos.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Shephard RJ, Rode A. The Consequences of ‘modernization:’ Evidence from circumpolar peoples. Cambridge University Press; Great Britain: 1996.
-
-- 2
-
-  Datosmacro. 2023. “Desempleo de España 2023.”‌
-
-- 3
-
-  Bryan, Mark & Nandi, Alita. (2015). Working hours, work identity and subjective wellbeing.
-
-- 4
-
-  Bellet, Clement & Neve, Jan-Emmanuel & Ward, George. (2019). Does Employee Happiness Have an Impact on Productivity?. SSRN Electronic Journal. 10.2139/ssrn.3470734.
-
-- 5
-
-  “Love and Work: How to Find What You Love, Love What You Do, and Do It for the Rest of Your Life : Buckingham, Marcus: Amazon.es: Libros.” 2023.‌

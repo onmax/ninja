@@ -1,14 +1,19 @@
 ---
-title: "Soy aprendiz de todo… Y maestro de nada Multipotencial: cuando te gusta todo"
+title: "Soy aprendiz de todo… Y maestro de nada"
+url: https://pau.ninja/multipotencial
+slug: multipotencial
+categories: 
+- slug: desarrollo-personal
+    label: Desarrollo personal
 image: persona-multipotencial.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/12/persona-multipotencial.jpeg
 published: 2022-12-28T08:05:00+00:00
 modified: 2023-06-12T13:28:22+00:00
+scrappedAt: 2024-10-14T09:20:17.015Z
 audioLink: https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada_md_58084475_wp_1.mp3
-slug: multipotencial
+bibliography: []
 ---
-
-[https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada_md_58084475_wp_1.mp3](https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada_md_58084475_wp_1.mp3)
+[https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada\_md\_58084475\_wp\_1.mp3](https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada_md_58084475_wp_1.mp3)
 
 Un **multipotencial** es una persona con multitud de intereses ya sean artísticos o intelectuales. Culos de mal asiento que no pueden casarse con una sola pasión. Existen dos tipos de multipotenciales:
 
@@ -31,52 +36,17 @@ Verás que somos unos cuantos y que la [comunidad](#Comunidades_de_personas_mult
 
 Pero empecemos por el principio.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es ser multipotencial](#Que_es_ser_multipotencial 'Qué es ser multipotencial')
-  - [Habilidades de un multipotencial](#Habilidades_de_un_multipotencial 'Habilidades de un multipotencial')
-  - [Ventajas de serlo](#Ventajas_de_serlo 'Ventajas de serlo')
-  - [Desventajas de serlo](#Desventajas_de_serlo 'Desventajas de serlo')
-  - [Sinónimos de multipotencial](#Sinonimos_de_multipotencial 'Sinónimos de multipotencial')
-- [Los 2 tipos de perfiles multipotenciales](#Los_2_tipos_de_perfiles_multipotenciales 'Los 2 tipos de perfiles multipotenciales')
-  - [Multipotenciales simultáneos](#Multipotenciales_simultaneos 'Multipotenciales simultáneos')
-  - [Multipotenciales secuenciales](#Multipotenciales_secuenciales 'Multipotenciales secuenciales')
-- [Cómo saber si eres multipotencial](#Como_saber_si_eres_multipotencial 'Cómo saber si eres multipotencial')
-  - [Empieza con la charla TED multipotencial](#Empieza_con_la_charla_TED_multipotencial 'Empieza con la charla TED multipotencial')
-  - [Haz el test multipotencial](#Haz_el_test_multipotencial 'Haz el test multipotencial')
-- [Retos constantes](#Retos_constantes 'Retos constantes')
-  - [Desafíos profesionales](#Desafios_profesionales 'Desafíos profesionales')
-  - [Productividad](#Productividad 'Productividad')
-  - [Conflictos](#Conflictos 'Conflictos')
-- [Personas multipotenciales](#Personas_multipotenciales 'Personas multipotenciales')
-  - [Leonardo Da Vinci](#Leonardo_Da_Vinci 'Leonardo Da Vinci')
-  - [Arnold Schwarzenegger](#Arnold_Schwarzenegger 'Arnold Schwarzenegger')
-  - [Galileo Galilei](#Galileo_Galilei 'Galileo Galilei')
-  - [Tim Ferriss](#Tim_Ferriss 'Tim Ferriss')
-  - [Pau Ninja](#Pau_Ninja 'Pau Ninja')
-- [Comunidades de personas multipotenciales](#Comunidades_de_personas_multipotenciales 'Comunidades de personas multipotenciales')
-  - [Sociedad ninja](#Sociedad_ninja 'Sociedad ninja')
-  - [Putty Tribe](#Putty_Tribe 'Putty Tribe')
-  - [Íkaros](#Ikaros 'Íkaros')
-- [El futuro NO es multipotencial](#El_futuro_NO_es_multipotencial 'El futuro NO es multipotencial')
-  - [El futuro es polímata](#El_futuro_es_polimata 'El futuro es polímata')
-  - [Características de los polímatas](#Caracteristicas_de_los_polimatas 'Características de los polímatas')
-  - [Sale rentable ser polímata](#Sale_rentable_ser_polimata 'Sale rentable ser polímata')
-  - [De multipotencial a polímata](#De_multipotencial_a_polimata 'De multipotencial a polímata')
-
 ## Qué es ser multipotencial
 
 Oficialmente la [definición de multipotencial](https://multipotencial.com/) es:
 
 > Un término para referirse a las habilidades e intereses de una persona con curiosidad intelectual y artística para sobresalir en multitud de campos.
->
+> 
 > También se refiere a un individuo cuyos intereses abarcan muchos campos y areas, en vez de ser fuerte en sólo uno.
 
 Seguramente te has sentido más identificado que una medusa en una convención de transparencia política de Noruega.
 
-![beber y saber cosas](https://pau.ninja/wp-content/uploads/2020/09/beber-y-saber-cosas.jpg)
+![beber y saber cosas](./wp-content/uploads/2020/09beber-y-saber-cosas.jpg)
 
 Tyrion es multipotencial. Bebe, sabe cosas y ninguna afición es demasiado _grande_ para él.
 
@@ -88,9 +58,9 @@ Esto significa que la sociedad está hecha para ti y tu profesor de la escuela p
 
 Puedes volverte experto en un trabajo, y dedicarle mil trillones de horas a una sola cosa para ser el amo y señor del celo celestial todo poderoso y definitivo… Mientras nos cuentas al resto lo bonito que es tener **un propósito**.
 
-![](https://pau.ninja/wp-content/uploads/2020/09/ikigai.png)
+![](./wp-content/uploads/2020/09ikigai.png)
 
-Probablemente hasta tengas un tatuaje de tu ikigai en japonés (生き甲斐)… Sin saber que [el ikigai en la cultura japonesa](https://pau.ninja/que-es-ikigai-en-cultura-japonesa/) significa algo muy distinto a este diagrama que occidente te ha vendido.
+Probablemente hasta tengas un tatuaje de tu ikigai en japonés (生き甲斐)… Sin saber que [el ikigai en la cultura japonesa](./que-es-ikigai-en-cultura-japonesa) significa algo muy distinto a este diagrama que occidente te ha vendido.
 
 Si eres multidisciplinar sigue conmigo porque hay luz al final del camino y no es Andrés Iniesta llamando a Batman. Te voy a enseñar porque tener multiples intereses y curiosidad te va a llevar a una vida más llena que la bañera de Falete.
 
@@ -99,7 +69,7 @@ Si eres multidisciplinar sigue conmigo porque hay luz al final del camino y no e
 Encontrarás que tal vez no destacas por estas destrezas y alguna no va contigo, pero me juego el agujero en una moneda de 25 pesetas que como mínimo la mayoría te encajan perfectamente.
 
 - **Curiosidad:** no nos tiene porque gustar todo pero de vez en cuando es inevitable que la gravedad de un nuevo interés nos haga querer hacer algún curso o ver algún documental de una temática que nunca antes hubiéramos dicho que nos llamaría la atención.
-- **Visión transversal\*\***:\*\* no pensamos de una manera unidimensional. Las cosas que aprendemos o en las que nos ensuciamos las manos toman un carácter muy multiuniverso. Si por ejemplo aprendes un idioma ya estás pensando cómo lo puedes enlazar con tu otra pasión.
+- **Visión transversal****:** no pensamos de una manera unidimensional. Las cosas que aprendemos o en las que nos ensuciamos las manos toman un carácter muy multiuniverso. Si por ejemplo aprendes un idioma ya estás pensando cómo lo puedes enlazar con tu otra pasión.
 - **Creatividad:** el curioseo y esa mente de 360 grados nos hace tener pequeñas (o grande) ideas. Algunas veces reinventas la rueda y otras reinventas pequeñas partes de tu vida. Pero vaya chute de adrenalina cuando sale una de estas.
 - **Hacker del aprendizaje:** es justamente la curiosidad anterior que hace que cada cierto tiempo aprendamos cosas nuevas. Ya tenemos experiencia aprendiendo de más de un tema así que tenemos (o estamos en la búsqueda de) nuestro propio sistema para ser más eficientes a la hora de formarnos y así tener tiempo extra para aprender más cosas.
 - **Motivar al resto:** aquí incluiría inspirar al resto de la [comunidad multidisciplinar](#Comunidades_de_personas_multipotenciales). Además seguro que conocemos a más de una persona que no lo sabe que lo es, llevando una vida de «especialista» sin serlo realmente. Cuando somos capaces de abrazar múltiples intereses, podemos hacer que el 10-15% de la población que también lo es quiera morrearnos por hacerles ver otro planeta.
@@ -120,7 +90,7 @@ Encontrarás que tal vez no destacas por estas destrezas y alguna no va contigo,
 
 ### Sinónimos de multipotencial
 
-![canal multipotencial](https://pau.ninja/wp-content/uploads/2020/09/canal-multipotencial.jpg)
+![canal multipotencial](./wp-content/uploads/2020/09canal-multipotencial.jpg)
 
 Esta era otras de las discusiones que teníamos en el [grupo](#Comunidades_de_personas_multipotenciales). ¿De qué otras maneras llamábamos a «esto» antes de etiquetarlo en una sola palabra?
 
@@ -160,7 +130,7 @@ Yo mismo soy un «multi» secuencial. Mis intereses van por etapas que realmente
 
 O sea, no es que en otoño me vaya la natación y en verano me muera por aprender longevidad. Va por periodos de tiempo **no estipulados**.
 
-#### ![flotando](https://pau.ninja/wp-content/uploads/2020/09/flotando.png)Mi caso
+#### ![flotando](./wp-content/uploads/2020/09flotando.png)Mi caso
 
 Todas las mañanas me centro en el ruso y portugués porque estoy muy centrado en los idiomas. Al cabo de unos meses parece que he estrujado el interés y empiezo a aborrecerlo. Empiezo a dedicar las mañanas a ir al gimnasio durante dos horas siguiente rutinas de progresión. Hasta que me aburro al cabo de varias semanas y empiezo otro hobby o el ciclo de nuevo.
 
@@ -181,15 +151,13 @@ Vamos a indagar un poco más para destapar todo lo que hay detrás de este perfi
 
 La primera vez que lo escuché fue en una [TED Talk](https://www.youtube.com/watch?v=4sZdcB6bjI8) de [Emilie Wapnick](https://puttylike.com/), una bloguera que arrasó con esta charla. Aquí la tienes con los subtítulos en español.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Creo que fue gracias a esta charla que muchos nos hemos podido por fin colgar la etiqueta y ponernos en el «escaparate de la vida» con el resto de energúmenos que nos preguntábamos si teníamos la mente poseída.
 
 Resulta que no, y para los que quieran expandir más el libro de la chica es una buena lectura.
 
 Ahora mismo rebajado
 
-[![How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcU5HcFhUVGxwYTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTkzOA=)](https://www.amazon.es/dp/0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...")
+[![How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcU5HcFhUVGxwYTB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1ODc1MA=)](https://www.amazon.es/dp0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...")
 
 [How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...](https://www.amazon.es/dp/0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...")
 
@@ -197,17 +165,17 @@ Lo siento por algunos pero aún no está en español.
 
 17,32 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 ¿Cuál fue mi conclusión después de este bombardeo de información?
 
-Que **soy multipotencial**, que hay muchos como yo y que es una *double blessing*.
+Que **soy multipotencial**, que hay muchos como yo y que es una _double blessing_.
 
 Si sabemos administrarlo bien realmente tener tantas pasiones puede hacer que nuestra vida suene más interesante y misteriosa que el secreto de Victoria Secret.
 
 Por contra, si intentamos **presionar** una sola pasión, interés o trabajo porque es lo que creemos a que estamos destinados pero en realidad somos multipotenciales… Entonces espero que en tu última rotura sentimental entrenaras los músculos de la depresión y frustración porque deberás esperarlos con los brazos abiertos.
 
-![lego de trump](https://pau.ninja/wp-content/uploads/2020/09/lego-de-trump.jpg)
+![lego de trump](./wp-content/uploads/2020/09lego-de-trump.jpg)
 
 Un Lego también es multipotencial. Puedes construir todo lo que quieras o puedes usarlo como arma letal para los ladrones que te entran en casa descalzos.
 
@@ -235,11 +203,11 @@ Déjame que te haga la vida un poquito más fácil para que cuando salgas de aqu
 - **Por cuenta propia:** los retos de crear un negocio propio no son pocos y encima a esto le sumamos que nos tienen que llenar más de un interés. Para balancear las partes positivas, nos damos cuenta de que como somos nuestros propios jefes podemos ser lo creativos que queramos hasta dar con la combinación perfecta.
 - **Combinar ambas:** si trabajas por una empresa o eres funcionario, nadie te impida que empieces algún proyecto profesional propio para dedicarle unas horas semanalmente y que ambos caminos profesionales se nutran mutuamente.
 
-#### ![escuchando](https://pau.ninja/wp-content/uploads/2020/09/escuchando.png)
+#### ![escuchando](./wp-content/uploads/2020/09escuchando.png)
 
 #### Mi caso
 
-Trabajé durante 6 años por cuenta ajena, pero durante el último empecé un *side project* de negocios online para vivir de mis blogs.
+Trabajé durante 6 años por cuenta ajena, pero durante el último empecé un _side project_ de negocios online para vivir de mis blogs.
 
 Cuando funcionó, dejé mi empleo para dedicarme en escribir y grabar sobre multitud de temáticas que me interesaban tanto para las webs como para mi podcast.
 
@@ -255,7 +223,7 @@ Pues dependerá del día y del grado de atención de cada uno, pero muchas veces
 
 ### Conflictos
 
-- **Aceptación:** sé que en los últimos años estamos vendiendo eso de «malditos *haters* o de «nadie me entiende», pero seamos sinceros… Cada vez es más común aceptar el camino que los demás eligen. En las redes sociales hemos visto tantos casos de «personas diferentes» que si señalamos a alguien con el dedo no es porque elija un camino diferente. De hecho ahora elegir otra ruta es lo que está de moda.
+- **Aceptación:** sé que en los últimos años estamos vendiendo eso de «malditos _haters_ o de «nadie me entiende», pero seamos sinceros… Cada vez es más común aceptar el camino que los demás eligen. En las redes sociales hemos visto tantos casos de «personas diferentes» que si señalamos a alguien con el dedo no es porque elija un camino diferente. De hecho ahora elegir otra ruta es lo que está de moda.
 - **Rumbo:** esto si es difícil para un multidisciplinario. Nos paralizamos y bloqueamos mucho más a menudo porque «todo nos llama» y no sabemos como organizarnos o qué cosa priorizar.
 - **Motivación:** todo el mundo está motivado cuando las cosas van bien, pero es cuando no todo va según el plan que nos bloqueamos. En este caso yo siempre digo que aunque la motivación nos lleve a hacer algo… Al revés también sucede. Es decir empezar a hacer algo sin estar inspirados hará que a la que llevemos un rato en ello, entonces empecemos a estar motivados.
 
@@ -273,7 +241,7 @@ La época en la que vivió Leonardo (1452-1519) fue el renacimiento y casi podem
 
 No sólo porque es la era de máximo esplendor de Da Vinci, pero porque las [características](https://www.aboutespanol.com/que-es-el-renacimiento-2206950) de esos tiempos eran de curiosidad tanto científica como en humanidades, de vida sencilla y centrarse en lo que importa, el optimismo, la importancia del arte para la sociedad.
 
-![leonardo da vinci era vegetariano](https://pau.ninja/wp-content/uploads/2020/09/leonardo-da-vinci-era-vegetariano.jpg)
+![leonardo da vinci era vegetariano](./wp-content/uploads/2020/09leonardo-da-vinci-era-vegetariano.jpg)
 
 Incluso había los primeros vegetarianos. «Leo» lo era antes de que fuera algo guay.
 
@@ -281,15 +249,15 @@ La lista de las profesiones a las que se dedico este hombre es más larga que el
 
 El paracaídas, trajes acuáticos, los coches blindados, primeros diseños de un helicóptero y muchos otros fueron el resultado de que en el currículum de Leonardo da Vinci pudiera incluir: botánico, ingeniero, artesano, mecánico, anatomista…
 
-![Uomo Vitruviano](https://pau.ninja/wp-content/uploads/2020/09/Uomo-Vitruviano.jpg)
+![Uomo Vitruviano](./wp-content/uploads/2020/09Uomo-Vitruviano.jpg)
 
 [Uomo Vitruviano](https://es.wikipedia.org/wiki/Hombre_de_Vitruvio) fue el estudio anatómico que «Leo» hizo del cuerpo humano, y aunque no tiene que ver con la multipotencialidad como tal, no podemos evitar pensar en un señor haciendo «multitasking».
 
 ### Arnold Schwarzenegger
 
-Nuestro amigo *Arny* ha sido culturista, actor, gobernador de California, empresario, director de cine y también engañó a su exmujer varias veces.
+Nuestro amigo _Arny_ ha sido culturista, actor, gobernador de California, empresario, director de cine y también engañó a su exmujer varias veces.
 
-![Arnold antes y después](https://pau.ninja/wp-content/uploads/2020/09/arnold-antes-y-despues.jpg)
+![Arnold antes y después](./wp-content/uploads/2020/09arnold-antes-y-despues.jpg)
 
 El héroe de muchos y el Némesis de otros. Hasta su propio cuerpo se confunde de él mismo.
 
@@ -303,7 +271,7 @@ El Galileo no es el que Freddy Mercury cantaba en la canción de Bohemian Rhapso
 
 Estamos hablando del **padre de la astronomía moderna**.
 
-![Galileo](https://pau.ninja/wp-content/uploads/2020/09/galileo.jpg)
+![Galileo](./wp-content/uploads/2020/09galileo.jpg)
 
 Galileo buscando nuevos intereses.
 
@@ -317,15 +285,15 @@ Todo pseudo-emprendedor se ha leído (al menos) el libro de Tim Ferriss.
 
 Ahora mismo rebajado
 
-[![La semana laboral de 4 horas (Divulgación)](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcVZ6SjFWV3RNTlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODg5NTkzOA=)](https://www.amazon.es/dp/8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'La semana laboral de 4 horas (Divulgación)')
+[![La semana laboral de 4 horas (Divulgación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcVZ6SjFWV3RNTlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA1ODc1MA=)](https://www.amazon.es/dp8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La semana laboral de 4 horas (Divulgación)")
 
-[La semana laboral de 4 horas (Divulgación)](https://www.amazon.es/dp/8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'La semana laboral de 4 horas (Divulgación)')
+[La semana laboral de 4 horas (Divulgación)](https://www.amazon.es/dp/8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La semana laboral de 4 horas (Divulgación)")
 
 Yo también lo hice y no te enseña nada que no puedas aprender en Reddit.
 
-17,10 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+17,10 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Si escuchas el [podcast de Tim](https://tim.blog/podcast/) entenderás porque es multipotencial de pura cepa. El jodido está metido en todo y esto hace que pueda llevar personalidades de todo tipo a su programa.
 
@@ -339,7 +307,7 @@ Creo que esta es una de las claves.
 
 Tal vez sea porque soy un egocéntrico pero igual que he puesto mi nombre también podría haber escrito el tuyo. Pero no te conozco (aún) hasta que te apuntes a la [comunidad](#Comunidades_de_personas_multipotenciales) 😉
 
-![vitruvio multipotencial](https://pau.ninja/wp-content/uploads/2021/09/vitruvio-multipotencial.png)
+![vitruvio multipotencial](./wp-content/uploads/2021/09vitruvio-multipotencial.png)
 
 Me considero multipotencial desde que aprendí que había una palabra que me definía y es algo que lo reflejo de forma transparente en mi [blog multidisciplinar](https://pau.ninja/) donde listo sobre **todos los temas que escribo** en mi multitud de plataformas.
 
@@ -349,7 +317,7 @@ Hay pocas en comparación con cualquier otro nicho de grupos de personas con alg
 
 ### Sociedad ninja
 
-![sociedad ninja](https://pau.ninja/wp-content/uploads/2020/09/sociedad-ninja.jpg)
+![sociedad ninja](./wp-content/uploads/2020/09sociedad-ninja.jpg)
 
 Utilizamos la plataforma de Discord para comunicarnos y dividir las temáticas por canales.
 
@@ -392,7 +360,7 @@ Lo feo
 
 ### Putty Tribe
 
-![putty tribe](https://pau.ninja/wp-content/uploads/2020/09/putty-tribe.jpg)
+![putty tribe](./wp-content/uploads/2020/09putty-tribe.jpg)
 
 Lo más interesante tiene pinta de ser las discusiones, los miembros y los eventos online que hacen.
 
@@ -430,7 +398,7 @@ Lo feo
 
 ### Íkaros
 
-![íkaros](https://pau.ninja/wp-content/uploads/2020/09/ikaros.jpg)
+![íkaros](./wp-content/uploads/2020/09ikaros.jpg)
 
 No podemos ver exactamente lo que hay dentro. Por ahora nos contentamos con ver las valoraciones, el precio y la descripción.
 
@@ -476,7 +444,7 @@ Esta persona sólo aprieta tuercas de la puerta derecha, al mismo tiempo que las
 
 Un ejemplo real es cuando el señor Ford abarató el proceso con sus sistema en cadena, haciendo un especialista en cada esquina para que el coste de fabricar este coche bajara tanto como las ganas de vivir de sus (ahora) aburridísimos trabajadores.
 
-![jaula de hierro](https://pau.ninja/wp-content/uploads/2020/09/jaula-de-hierro.jpg)
+![jaula de hierro](./wp-content/uploads/2020/09jaula-de-hierro.jpg)
 
 Por eso tenemos conceptos como el de la «jaula de hierro» de la mano de Max Weber que nos explicaba que las personas que vivimos en sociedades modernos somos cada vez más propensos a tener influencias para «deshumanizarnos» y «desindividualizarnos».
 
@@ -514,7 +482,7 @@ A este punto podemos decir que las habilidades del polímata han pasado el umbra
 
 Pero lo que hace destacar es su **capacidad de integrarlas**. Combinarlas simultáneamente como un malabarista con sus pelotas de granos de arroz.
 
-#### ![flotando](https://pau.ninja/wp-content/uploads/2020/09/flotando.png)Mi caso
+#### ![flotando](./wp-content/uploads/2020/09flotando.png)Mi caso
 
 Aprendo inversiones más que el conocimiento medio del español de a pie (que tampoco cuesta mucho), y hago lo mismo con el marketing digital y lo mismo con una escritura que llame la atención (copywriting). Eso lo puedo combinar en un blog potente que no todo el mundo sería capaz de crear, aunque no sería el único.
 
@@ -539,7 +507,7 @@ Para mí, los polímatas y multipotenciales tendemos a ser más **eficientes** 
 
 Si queremos (o debemos) aprender varias habilidades hasta un nivel bastante alto o quedarnos satisfechos, tenemos que **sintetizar** para tener horas suficientes para aprender las otras cosas.
 
-![tiempo de aprendizaje](https://pau.ninja/wp-content/uploads/2020/09/tiempo-de-aprendizaje.jpg)
+![tiempo de aprendizaje](./wp-content/uploads/2020/09tiempo-de-aprendizaje.jpg)
 
 Podemos destacar en un campo ofreciendo una visión única e individual dedicándolo comparativamente mucho menos tiempo que un «maestro».
 
@@ -547,7 +515,7 @@ Ya sabéis lo fan que soy del Principio de Pareto, o de que el 80% de los result
 
 Vamos, que podemos aprender hasta un 80% en un 20% del tiempo, pero necesitaremos como **18 años más** para terminar de aprender ese 20% restante para colgarnos la medalla de maestro.
 
-![curva de Pareto](https://pau.ninja/wp-content/uploads/2020/09/curva-de-pareto.png)
+![curva de Pareto](./wp-content/uploads/2020/09curva-de-pareto.png)
 
 ### De multipotencial a polímata
 
@@ -556,3 +524,88 @@ Vamos, que podemos aprender hasta un 80% en un 20% del tiempo, pero necesitaremo
 - No pasa nada por ser especialista, ya he aceptado que soy multipotencial, algo que hace la vida un poquito más emocionante e interesante. Perdemos muchas cosas pasando de la infancia a la adultez, pero por suerte la curiosidad o emoción de descubrir algo nuevo es algo que conservaremos.
 - Aunque tengamos múltiples pasiones e intereses, los que de verdad nos llaman la atención hasta querer indagar en ellas durante meses o años son un puñado que podemos contar con las dos manos.
 - Podemos convertir esta multipotencialidad a «polimatía» porque hay **tiempo suficiente** para hacerlo todo.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Desarrollo personal](./desarrollo-personal)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/multipotencial/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":15088,"title":"5%20h%C3%A1bitos%20%2B%203%20secretos%20de%20los%20MULTIPOTENCIALES","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/12\\/persona-multipotencial.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

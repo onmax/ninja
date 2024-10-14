@@ -1,13 +1,18 @@
 ---
-title: "Zombies modernos: cansados, sin memoria y con falta de concentración (soluciona la falta de memoria y cansancio)"
+title: "Zombies modernos: cansados, sin memoria y con falta de concentración"
+url: https://pau.ninja/falta-de-concentracion-y-cansancio
+slug: falta-de-concentracion-y-cansancio
+categories: 
+- slug: habitos-saludables
+    label: Hábitos saludables
 image: persona-con-falta-de-concentracion.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/10/persona-con-falta-de-concentracion.jpeg
 published: 2022-10-03T14:19:28+00:00
 modified: 2023-09-21T05:20:02+00:00
+scrappedAt: 2024-10-14T09:20:26.627Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61686434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301146823-44100-2-20dd220a8d022.mp3
-slug: falta-de-concentracion-y-cansancio
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/61686434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301146823-44100-2-20dd220a8d022.mp3](https://anchor.fm/s/98566448/podcast/play/61686434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301146823-44100-2-20dd220a8d022.mp3)
 
 No importa con quien hables… la mayoría te dirá que «viven cansada». Les falta capacidad de concentración, memoria, energía y se sienten letárgicos.
@@ -16,7 +21,7 @@ A mí también me pasa en algunas ocasiones (depende de lo que haga y mi entorno
 
 Piensan que les falta la última herramienta de productividad, el hábito perfecto, levantarse a las 5 de la mañana como ese emprendedor de las redes, que necesitan la «_playlist_ ideal» para motivarse, o algo así.
 
-Nada que ver. Lo que tienes es [niebla mental](https://pau.ninja/niebla-mental-causas-sintomas/).
+Nada que ver. Lo que tienes es [niebla mental](./niebla-mental-causas-sintomas).
 
 Una falta de atención mucho más preocupante de lo que puedes imaginarte porque es lo que impide que trabajes en los proyectos que te apasionan, que puedas dedicarles más de 10 minutos de atención, que practiques la escucha activa con las personas que te importan…
 
@@ -28,7 +33,7 @@ Esta es la verdadera pandemia.
 
 ¿Cómo vamos a hacerlo, si ya no podemos concentrarnos? tenemos el cerebro frito.
 
-![cocinando sesos en sartén](https://pau.ninja/wp-content/uploads/2022/09/cocinando-sesos-en-sarten.jpeg)
+![cocinando sesos en sartén](./wp-content/uploads/2022/09cocinando-sesos-en-sarten.jpeg)
 
 Hemos dejado de pensar con claridad, pero mientras la pandemia de 2020 nos vino de golpe, esta **pandemia de la salud** tendrá consecuencias mucho más nefastas para la sociedad porque además no lo veremos hasta el largo plazo, y lo va haciendo de una forma sutil.
 
@@ -36,33 +41,19 @@ Estamos delante de un evento que se ha ido desarrollando tan poco a poco, tan de
 
 Quizás hasta nunca llegaremos a darnos cuenta porque seremos (literalmente) demasiado burros para procesarlo con nuestras cabecitas.
 
-Seremos zombies modernos (falta de concentración, memoria, cansancio…). Quizás ya lo somos… La única diferencia es que no nos ponemos a [comer sesos](https://pau.ninja/es-bueno-comer-sesos/), lo que es irónico porque iría genial para nuestro cerebro.
+Seremos zombies modernos (falta de concentración, memoria, cansancio…). Quizás ya lo somos… La única diferencia es que no nos ponemos a [comer sesos](./es-bueno-comer-sesos), lo que es irónico porque iría genial para nuestro cerebro.
 
-![meme beneficios sesos](https://pau.ninja/wp-content/uploads/2022/09/meme-beneficios-sesos.jpeg)
+![meme beneficios sesos](./wp-content/uploads/2022/09meme-beneficios-sesos.jpeg)
 
 Y me vais a llamar loco o conspiranoico, pero no creo que sea casualidad. Creo que en realidad nos quieren así. Demasiado lelos para poder concentrarnos en lo que importa. Zombies vivientes que no se pueden quejar, que no pueden manifestarse más de 1 día porque se cansan.
 
-El hecho de trabajar hacia propósitos y querer hacer cosas con nuestra vida es una de las naturalezas del cuerpo humano y no sé si hay una agenda maléfica que quiera hacernos más tontainas, pero casualmente las recomendaciones oficiales de salud (aunque pueda alguna verdad obvia por allí metida para disimular), casi que parece que funciona al revés de como funciona la salud humana. A las pruebas me remito de todos los [mitos nutricionales](https://pau.ninja/mitos-nutricionales/) que ya he comentado…
+El hecho de trabajar hacia propósitos y querer hacer cosas con nuestra vida es una de las naturalezas del cuerpo humano y no sé si hay una agenda maléfica que quiera hacernos más tontainas, pero casualmente las recomendaciones oficiales de salud (aunque pueda alguna verdad obvia por allí metida para disimular), casi que parece que funciona al revés de como funciona la salud humana. A las pruebas me remito de todos los [mitos nutricionales](./mitos-nutricionales) que ya he comentado…
 
 ¿Cómo recuperamos nuestra energía, concentración y memoria? Vamos a aprender cómo.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Causas de la pérdida de concentración y memoria](#Causas_de_la_perdida_de_concentracion_y_memoria 'Causas de la pérdida de concentración y memoria')
-  - [Falta de comidas animales](#Falta_de_comidas_animales 'Falta de comidas animales')
-  - [Insuficiente colina](#Insuficiente_colina 'Insuficiente colina')
-  - [Sobrecrecimiento de cándida](#Sobrecrecimiento_de_candida 'Sobrecrecimiento de cándida')
-  - [Radiaciones electromagnéticas](#Radiaciones_electromagneticas 'Radiaciones electromagnéticas')
-  - [Falta de sueño REM](#Falta_de_sueno_REM 'Falta de sueño REM')
-  - [Adicción a las redes sociales](#Adiccion_a_las_redes_sociales 'Adicción a las redes sociales')
-  - [Consumo de cannabis](#Consumo_de_cannabis 'Consumo de cannabis')
-- [Tratamiento a la falta de concentración](#Tratamiento_a_la_falta_de_concentracion 'Tratamiento a la falta de concentración')
-
 ## Causas de la pérdida de concentración y memoria
 
-Cuando hablé de las [causas de la niebla mental](https://pau.ninja/niebla-mental-causas-sintomas/#Causas_de_la_niebla_mental) (#399) lo hice desde una perspectiva más detallada, explicando a groso modo como el cerebro genera energía.
+Cuando hablé de las [causas de la niebla mental](./niebla-mental-causas-sintomas#Causas_de_la_niebla_mental) (#399) lo hice desde una perspectiva más detallada, explicando a groso modo como el cerebro genera energía.
 
 Hoy nos pondremos más prácticos para ver cuáles son los hábitos que deberíamos cambiar o mejorar para solucionar la falta de concentración y memoria, que de algún modo siempre va relacionado con estar cansado.
 
@@ -76,17 +67,17 @@ De modo subconsciente pensamos que bueno, si los tenemos presentes en las tienda
 
 ### Falta de comidas animales
 
-La primera falacia de la sociedad actual es la dieta vegana. Los medios nos empujan hacia un mundo sin carne. Hacia un mundo donde se jura que la [carne roja es mala para la salud](https://pau.ninja/carne-roja-es-mala-para-la-salud/).
+La primera falacia de la sociedad actual es la dieta vegana. Los medios nos empujan hacia un mundo sin carne. Hacia un mundo donde se jura que la [carne roja es mala para la salud](./carne-roja-es-mala-para-la-salud).
 
 Este es precisamente uno de los elementos más importantes que hace que tengas falta de concentración y memoria, porque no estás nutriente tu cerebro de lo que necesita.
 
-Le estás dando comida basada en plantas cuando hemos evolucionado (durante al menos 2 millones de años) comiendo carne. ¿Y ahora resulta que de pronto es mala para tu salud? El [humano es carnívoro facultativo](https://pau.ninja/el-ser-humano-es-carnivoro/) (#194).
+Le estás dando comida basada en plantas cuando hemos evolucionado (durante al menos 2 millones de años) comiendo carne. ¿Y ahora resulta que de pronto es mala para tu salud? El [humano es carnívoro facultativo](./el-ser-humano-es-carnivoro) (#194).
 
-En cambio ¿qué estamos viendo en la sociedad actual? que **el 70% de la población ya es 70% vegana**. Que la mayoría de las calorías vienen de dietas basadas en plantas y todo el mina termina [sufriendo las consecuencias del veganismo](https://pau.ninja/consecuencias-del-veganismo/) en sus cuerpos. Empezando por el cerebro. El cerebro necesita colesterol, grasas saturadas y DHA. ¿Por qué te piensas que **está compuesto** justo de lo que necesita? Comiendo una dieta basada en plantas no lo estamos alimentando.
+En cambio ¿qué estamos viendo en la sociedad actual? que **el 70% de la población ya es 70% vegana**. Que la mayoría de las calorías vienen de dietas basadas en plantas y todo el mina termina [sufriendo las consecuencias del veganismo](./consecuencias-del-veganismo) en sus cuerpos. Empezando por el cerebro. El cerebro necesita colesterol, grasas saturadas y DHA. ¿Por qué te piensas que **está compuesto** justo de lo que necesita? Comiendo una dieta basada en plantas no lo estamos alimentando.
 
 Necesitamos hacer un giro de 180 grados.
 
-Necesitamos que al menos el **35% a 50% de lo que comemos sea de productos animales**. Ya no estoy diciendo que [sigas una dieta carnívora](https://pau.ninja/dieta-carnivora/) al detalle. Digo que al menos haya casi la mitad de lo que comemos que venga de productos animales por las vitaminas que los veganos no pueden obtener.
+Necesitamos que al menos el **35% a 50% de lo que comemos sea de productos animales**. Ya no estoy diciendo que [sigas una dieta carnívora](./dieta-carnivora) al detalle. Digo que al menos haya casi la mitad de lo que comemos que venga de productos animales por las vitaminas que los veganos no pueden obtener.
 
 Si miramos la evolución nutricional desde que una persona se hace vegana o vegetariana, al cabo de los meses o años hay síntomas muy comunes:
 
@@ -125,7 +116,7 @@ O sea tener demasiada cándida en realidad es el cuerpo intentando **protegernos
 
 ¿Y qué tiene que ver este hongo con la memoria? pues que sí. Que tener cándida (o más bien dicho, más de la cuenta) está relacionado directamente con deficiencias en la memoria.
 
-![efectos cándida en memoria](https://pau.ninja/wp-content/uploads/2022/09/efectos-candida-en-memoria.png)
+![efectos cándida en memoria](./wp-content/uploads/2022/09efectos-candida-en-memoria.png)
 
 [Estudio](https://www.nature.com/articles/s41467-018-07991-4): deficiencias de memoria con cándida.
 
@@ -143,7 +134,7 @@ Es que realmente estas células fúngicas pueden ir a cualquier parte si crecen 
 
 Hablando de cosas que están por todos los sitios…
 
-Otra posibilidad muy real que nos puede estar afectando a la memoria y a hacernos sentir cansados pero que la mayoría descartan porque no se puede ver en un análisis de sangre, son que [las ondas electromagnéticas tengan efectos](https://pau.ninja/efectos-ondas-electromagneticas/) en nuestro sistema nervioso central.
+Otra posibilidad muy real que nos puede estar afectando a la memoria y a hacernos sentir cansados pero que la mayoría descartan porque no se puede ver en un análisis de sangre, son que [las ondas electromagnéticas tengan efectos](./efectos-ondas-electromagneticas) en nuestro sistema nervioso central.
 
 Nuestro hogar está rodeado de electricidad sucia, routers, antenas de teléfono… radiaciones «no nativas» a las que no estaríamos expuestos en la naturaleza. Considerad que esto es un ataque constante a nuestro sistema nervioso central.
 
@@ -161,21 +152,19 @@ Por una parte las radiofrecuencias es eso que llevamos encima todo el día. Desd
 
 Esto no quita que las pruebas que se han hecho muestran que las funciones de memoria y de aprendizaje [se reducen](https://www.emf-portal.org/en/article/15418) en ratas que se han expuesto a las radiaciones electromagnéticas.
 
-![meme radiaciones no ionizantes](https://pau.ninja/wp-content/uploads/2022/08/meme-radiaciones.jpeg)
+![meme radiaciones no ionizantes](./wp-content/uploads/2022/08meme-radiaciones.jpeg)
 
 Los efectos de estas ondas a largo plazo son muy reales, pero al no poderse ver al corto plazo, nadie les presta demasiada atención. Nadie lo asocia a esto.
 
-Por esto digo de experimentar en apagando toda la electricidad que podáis de vuestro alrededor. Limitando la [radiación electromagnética en casa](https://pau.ninja/radiaciones-ionizantes-en-casa/), que es mucha y es la que estamos expuesta mientras dormimos. Con el móvil al lado de la cama, con montones de electricidad sucia, etc.
+Por esto digo de experimentar en apagando toda la electricidad que podáis de vuestro alrededor. Limitando la [radiación electromagnética en casa](./radiaciones-ionizantes-en-casa), que es mucha y es la que estamos expuesta mientras dormimos. Con el móvil al lado de la cama, con montones de electricidad sucia, etc.
 
-No es casualidad que cuando simplemente nos vamos a acampar o ir a un sitio donde no hay electricidad, apagando todos los aparatos electrónicos, [haciendo earthing o grounding](https://pau.ninja/earthing-grounding-que-es/) (poniendo los pies descalzos en el suelo), y pasamos de tener ansiedad y preocupaciones a más no poder, a tener el mejor sueño de tu vida y sintiéndonos descansados cuando nos despertamos.
+No es casualidad que cuando simplemente nos vamos a acampar o ir a un sitio donde no hay electricidad, apagando todos los aparatos electrónicos, [haciendo earthing o grounding](./earthing-grounding-que-es) (poniendo los pies descalzos en el suelo), y pasamos de tener ansiedad y preocupaciones a más no poder, a tener el mejor sueño de tu vida y sintiéndonos descansados cuando nos despertamos.
 
 No todo en esta vida es añadir hábitos, también minimizar al máximo los factores inflamatorios.
 
 ### Falta de sueño REM
 
 Si ya no estamos durmiendo bien, es un pez que se muerde la cola. Cuando dormimos, el cerebro sigue conectado y muy activo. Mirad si es importante la fase REM en la consolidación de la memoria y la concentración que la cantidad de información que recordareis de lo que os estoy explicando hoy, será **directamente proporcional a la calidad de vuestro sueño de hoy** según los estudios.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Es decir, si hoy duermes peor y no tienes suficiente fase REM o es de mala calidad, te acordarás de menos información que si tuvieras una buena noche. O sea que me interesa que tengáis menos fase REM… porque así volveréis a escuchar el episodio.
 
@@ -188,7 +177,7 @@ Es decir, si hoy duermes peor y no tienes suficiente fase REM o es de mala calid
 
 Según la [evidencia](https://time.com/3858309/attention-spans-goldfish/) en los últimos 15 años hemos pasado de 12 segundos de capacidad de atención a sólo 8 segundos. Vamos que tenemos menos capacidad de atención que Dori de buscando a Nemo.
 
-![meme memoria dori](https://pau.ninja/wp-content/uploads/2022/10/meme-memoria-dori.jpeg)
+![meme memoria dori](./wp-content/uploads/2022/10meme-memoria-dori.jpeg)
 
 Las redes sociales literalmente [entrenan](https://wp.nyu.edu/steinhardt-appsych_opus/wait-what-on-social-network-use-and-attention/) nuestro cerebro para que nos concentremos cada vez menos cantidad de tiempo, y nos vuelve más burros. De verdad que con la evidencia psicológica que hay detrás de como nos afectan, no acabo de entender cómo sigue siendo legal consumirla tal cual.
 
@@ -201,7 +190,7 @@ Casi… como si… como si  quisieran que nos volvamos más tontitos… (modo i
 - Dificultad en comunicar en relaciones de la vida real.
 - No adoptamos esta nueva información a la que ahora tenemos acceso como datos, porque son datos bombardeados de forma aleatoria por lo tanto nuestro cerebro no lo capta como importante.
 - Hay una disminución de la empatía y el aumento del narcisismo.
-- Se pierde el «gran esquema» de las cosas. Pasamos por alto esta vista de pájaro, el *zoom out* al que hemos hecho referencia tan a menudo que es importantísimo para usar el sentido común.
+- Se pierde el «gran esquema» de las cosas. Pasamos por alto esta vista de pájaro, el _zoom out_ al que hemos hecho referencia tan a menudo que es importantísimo para usar el sentido común.
 
 Dormirás peor porque miras las redes sociales, las redes sociales te harán más tonto lo que se exagerará a un más porque estarás durmiendo peor.
 
@@ -215,7 +204,7 @@ Al igual que con las radiaciones electromagnéticas hay un montón de estudios e
 
 Es como si tienes la bombilla de tu habitación que ha dejado de funcionar así que en vez de arreglarla lo que decides hacer es apagar la luz. Es lo mismo que se está haciendo con el cannabis.
 
-![persona con cannabis](https://pau.ninja/wp-content/uploads/2022/10/persona-con-cannabis.jpeg)
+![persona con cannabis](./wp-content/uploads/2022/10persona-con-cannabis.jpeg)
 
 Aliviará el dolor a pacientes que llevan sufriendo toda la vida, pero aquí me estoy refiriendo al «ciudadano de a pie». Pensad que las plantas de cannabis que cultivamos hoy en día son totalmente diferente de las de incluso hace sólo unas décadas.
 
@@ -242,7 +231,7 @@ Sin estos nutrientes nos empieza a fallar la memoria, tenemos falta de concentra
 
 Vamos a añadirle además más cositas al cóctel de tontura, empezando con la pornografía, con decenas de estudio evidenciando cómo afecta a la materia gris de nuestro cerebro (entre muchos otros problemas).
 
-![cerebro en pornografía](https://pau.ninja/wp-content/uploads/2022/10/cerebro-en-pornografia.jpeg)
+![cerebro en pornografía](./wp-content/uploads/2022/10cerebro-en-pornografia.jpeg)
 
 Añadimos también exposición a radiaciones no ionizantes no nativas que afectan a nuestro sistema nervioso central. Eso sí. Los efectos a largo plazo, así nunca sabrás que ha sido uno de los factores inflamatorios.
 
@@ -250,6 +239,96 @@ Y para terminar, una pizca de adicción a las redes que ataque al sistema de rec
 
 Normal que en los últimos 15 años hayamos pasado de 12 segundos de capacidad de atención **a sólo 8 segundos**.
 
-![estudio falta concentración](https://pau.ninja/wp-content/uploads/2022/10/estudio-falta-concentracion.jpeg)
+![estudio falta concentración](./wp-content/uploads/2022/10estudio-falta-concentracion.jpeg)
 
 ¿Cómo no vamos a ver cada vez más personas viviendo cansadas, con falta de concentración y memoria?
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Hábitos saludables](./habitos-saludables)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/falta-de-concentracion-y-cansancio/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13594,"title":"4%20soluciones%20a%20tu%20falta%20de%20concentraci%C3%B3n%20y%20cansancio","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/10\\/persona-con-falta-de-concentracion.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

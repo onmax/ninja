@@ -1,13 +1,18 @@
 ---
 title: "(No) deberías beber agua con gas"
+url: https://pau.ninja/beneficios-del-agua-con-gas
+slug: beneficios-del-agua-con-gas
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: persona-bebiendo-agua-con-gas.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/04/persona-bebiendo-agua-con-gas.jpeg
 published: 2023-06-24T08:09:31+00:00
 modified: 2024-01-23T09:22:24+00:00
+scrappedAt: 2024-10-14T09:19:58.853Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/73280964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-11%2F338882315-44100-2-29205b12f18d4.mp3
-slug: beneficios-del-agua-con-gas
+bibliography: ["**Magnesio (Mg)**","El agua de Malavella brota a casi 60 grados en un manantial de Girona.","**Magnesio (Mg)**","Tiene un origen casi idéntico al agua Malavella pero su composición es diferente y por eso su sabor también lo he notado diferente.","**Magnesio (Mg)**","**Potasio (K)**","**Sulfatos (SO4)**","**Magnesio (Mg)**","**Potasio (K)**","Ryu HK, Kim YD, Heo SS, Kim SC. Effect of carbonated water manufactured by a soda carbonator on etched or sealed enamel. Korean J Orthod. 2018 Jan;48(1):48-56. doi: 10.4041/kjod.2018.48.1.48. Epub 2017 Nov 19. PMID: 29291188; PMCID: PMC5702778.","Li K, Wang XF, Li DY, Chen YC, Zhao LJ, Liu XG, Guo YF, Shen J, Lin X, Deng J, Zhou R, Deng HW. The good, the bad, and the ugly of calcium supplementation: a review of calcium intake on human health. Clin Interv Aging. 2018 Nov 28;13:2443-2452. doi: 10.2147/CIA.S157523. PMID: 30568435; PMCID: PMC6276611.","Sorensen MD. Calcium intake and urinary stone disease. Transl Androl Urol. 2014 Sep;3(3):235-40. doi: 10.3978/j.issn.2223-4683.2014.06.05. PMID: 26816771; PMCID: PMC4708574.","al.\\], David Sadava … \\[et; Bell, David R. (2014). Life : The Science of Biology (10th edición). Sunderland, MA: Sinauer Associates. ISBN 9781429298643.","Ito T, Jensen RT. Association of long-term proton pump inhibitor therapy with bone fractures and effects on absorption of calcium, vitamin B12, iron, and magnesium. Curr Gastroenterol Rep. 2010 Dec;12(6):448-57. doi: 10.1007/s11894-010-0141-0. PMID: 20882439; PMCID: PMC2974811.","Eweis DS, Abed F, Stiban J. Carbon dioxide in carbonated beverages induces ghrelin release and increased food consumption in male rats: Implications on the onset of obesity. Obes Res Clin Pract. 2017 Sep-Oct;11(5):534-543. doi: 10.1016/j.orcp.2017.02.001. Epub 2017 Feb 20. PMID: 28228348.","Maki SUZUKI, Emi MURA, Ayako TANIGUCHI, Toshio MORITANI, Narumi NAGAI, Oral Carbonation Attenuates Feeling of Hunger and Gastric Myoelectrical Activity in Young Women, Journal of Nutritional Science and Vitaminology, 2017, Volume 63, Issue 3, Pages 186-192, Released on J-STAGE July 28, 2017, Online ISSN 1881-7742, Print ISSN 0301-4800","Eweis DS, Abed F, Stiban J. Carbon dioxide in carbonated beverages induces ghrelin release and increased food consumption in male rats: Implications on the onset of obesity. Obes Res Clin Pract. 2017 Sep-Oct;11(5):534-543. doi: 10.1016/j.orcp.2017.02.001. Epub 2017 Feb 20. PMID: 28228348.","Lv Y, Liang T, Wang G, Li Z. Ghrelin, a gastrointestinal hormone, regulates energy balance and lipid metabolism. Biosci Rep. 2018 Sep 25;38(5):BSR20181061. doi: 10.1042/BSR20181061. PMID: 30177523; PMCID: PMC6153372.","Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature. 1999;402:656–660. doi: 10.1038/45230.","Janssen S, Laermans J, Verhulst PJ, Thijs T, Tack J, Depoortere I. Bitter taste receptors and gustducin regulate the secretion of ghrelin with functional effects on food intake and gastric emptying. Proc Natl Acad Sci USA. 2011;108(5):2094–9. doi: 10.1073/pnas.1011508108.","Cuomo R, Sarnelli G, Savarese MF, Buyckx M. Carbonated beverages and gastrointestinal system: between myth and reality. Nutr Metab Cardiovasc Dis. 2009 Dec;19(10):683-9. doi: 10.1016/j.numecd.2009.03.020. Epub 2009 Jun 6. PMID: 19502016.","Cuomo R, Grasso R, Sarnelli G, Capuano G, Nicolai E, Nardone G, Pomponi D, Budillon G, Ierardi E. Effects of carbonated water on functional dyspepsia and constipation. Eur J Gastroenterol Hepatol. 2002 Sep;14(9):991-9. doi: 10.1097/00042737-200209000-00010. PMID: 12352219.","Gruber ES, Stadlbauer V, Pichler V, Resch-Fauster K, Todorovic A, Meisel TC, Trawoeger S, Hollóczki O, Turner SD, Wadsak W, Vethaak AD, Kenner L. To Waste or Not to Waste: Questioning Potential Health Risks of Micro- and Nanoplastics with a Focus on Their Ingestion and Potential Carcinogenicity. Expo Health. 2023;15(1):33-51. doi: 10.1007/s12403-022-00470-8. Epub 2022 Mar 22. PMID: 36873245; PMCID: PMC9971145.","EROSKI Consumer 7 de noviembre de 2021 – ¿El agua del grifo dejará de tener flúor?","Aria Bendix, Business Insider 25 oct. 2019 – Una gran parte de las hormonas de las píldoras anticonceptivas podrían acabar en el agua del grifo y por eso se están estudiando sus efectos para la salud","Halperin Chiropractic, Keith Halperin, DC on Stomach Acid, pH, and Health","Propiedades digestivas, renales y metabólicas del agua Malavella (III)/Digestive, renal and metabolic properties of Malavella mineral water (III)","https://www.igme.es/actividadesigme/lineas/hidroyca/publica/libros5\\_AMyT/lib115/pdf/lib115/in\\_06j.pdf","2021 S.Pellegrino Water Analysis Repor"]
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/73280964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-11%2F338882315-44100-2-29205b12f18d4.mp3](https://anchor.fm/s/98566448/podcast/play/73280964/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-11%2F338882315-44100-2-29205b12f18d4.mp3)
 
 Siempre bebo agua **con gas** embotellada. La prefiero a la de grifo por varias razones.
@@ -42,34 +47,6 @@ Quizás sabrán mucho de relación calidad-precio pero me parece un despropósit
 
 Vamos a verlo.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Tipos de agua con gas](#Tipos_de_agua_con_gas 'Tipos de agua con gas')
-- [Contraindicaciones del agua con gas](#Contraindicaciones_del_agua_con_gas 'Contraindicaciones del agua con gas')
-  - [Mala para los dientes si se hace en casa](#Mala_para_los_dientes_si_se_hace_en_casa 'Mala para los dientes si se hace en casa')
-  - [Piedras en el riñón por el exceso calcio](#Piedras_en_el_rinon_por_el_exceso_calcio 'Piedras en el riñón por el exceso calcio')
-- [Cómo se hace el agua con gas natural](#Como_se_hace_el_agua_con_gas_natural 'Cómo se hace el agua con gas natural')
-- [¿Es bueno beber agua con gas?](#%C2%BFEs_bueno_beber_agua_con_gas '¿Es bueno beber agua con gas?')
-- [Beneficios del agua con gas](#Beneficios_del_agua_con_gas 'Beneficios del agua con gas')
-  - [Contiene gas de CO2 disuelto](#Contiene_gas_de_CO2_disuelto 'Contiene gas de CO2 disuelto')
-  - [Aumento de hambre](#Aumento_de_hambre 'Aumento de hambre')
-  - [Mejora la digestión](#Mejora_la_digestion 'Mejora la digestión')
-  - [Ayuda al estreñimiento](#Ayuda_al_estrenimiento 'Ayuda al estreñimiento')
-  - [Tragarás mejor](#Tragaras_mejor 'Tragarás mejor')
-  - [Es una forma de evitar los plásticos](#Es_una_forma_de_evitar_los_plasticos 'Es una forma de evitar los plásticos')
-  - [Superior a la agua del grifo](#Superior_a_la_agua_del_grifo 'Superior a la agua del grifo')
-- [Mejores marcas de agua con gas natural manantial en España](#Mejores_marcas_de_agua_con_gas_natural_manantial_en_Espana 'Mejores marcas de agua con gas natural manantial en España')
-  - [Malavella](#Malavella 'Malavella')
-  - [Vichy Catalán](#Vichy_Catalan 'Vichy Catalán')
-  - [Fuente del Val](#Fuente_del_Val 'Fuente del Val')
-  - [Mondariz](#Mondariz 'Mondariz')
-  - [San Pellegrino](#San_Pellegrino 'San Pellegrino')
-  - [Monte Pinós](#Monte_Pinos 'Monte Pinós')
-  - [Filtro casero](#Filtro_casero 'Filtro casero')
-- [Bibliografía: fuentes, referencias y notas](#Bibliografia_fuentes_referencias_y_notas 'Bibliografía: fuentes, referencias y notas')
-
 ## Tipos de agua con gas
 
 - **Setzer:** agua infundida con gas de dióxido de carbono. Tiene gas pero no minerales.
@@ -90,13 +67,13 @@ Tenemos que considerar que cuando decimos «bebidas carbonatadas» no es simplem
 
 A menos que se especifique en estos estudios utilizan tónicas, bebidas gaseosas con aditivos tipo edulcorantes artificiales y cuando miramos cada uno de estos componentes, hay partes negativas asociadas a ellos.
 
-Me recuerda [al mito de la carne roja](https://pau.ninja/carne-roja-es-mala-para-la-salud/) (#403) donde en los estudios de la carne roja se considera «carne roja» incluso una pizza entera sólo por el hecho de llevar pepperoni.
+Me recuerda [al mito de la carne roja](./carne-roja-es-mala-para-la-salud) (#403) donde en los estudios de la carne roja se considera «carne roja» incluso una pizza entera sólo por el hecho de llevar pepperoni.
 
 Estos estudios no están apuntando al agua con gas sin nada, porque hay distintos tipos.
 
 ### Mala para los dientes si se hace en casa
 
-He encontrado un estudio donde se veía que el agua con gas dañaba[1](<javascript:void(0)>)Ryu HK, Kim YD, Heo SS, Kim SC. Effect of carbonated water manufactured by a soda carbonator on etched or sealed enamel. Korean J Orthod. 2018 Jan;48(1):48-56. doi: 10.4041/kjod.2018.48.1.48. Epub 2017 Nov 19. PMID: 29291188; PMCID: PMC5702778. el esmalte de los dientes… pero el giro está en que no era por el hecho de ser agua con gas, sino que lo dañino es que era agua con gas casera.
+He encontrado un estudio donde se veía que el agua con gas dañaba[ref-1](#ref-1){.ref} el esmalte de los dientes… pero el giro está en que no era por el hecho de ser agua con gas, sino que lo dañino es que era agua con gas casera.
 
 Es decir, se había usado un «carbonatador».
 
@@ -106,11 +83,11 @@ Pero es que además el método del estudio era raro y totalmente surrealista por
 
 Sin contexto alguno.
 
-En el mismo estudio se añadió calcio y se vio como se alivió esta pérdida del esmalte lo que nos ayuda a concluir (una vez más) que una buena dieta basada en animales como la [carnívora](https://pau.ninja/dieta-carnivora/) (rica en vitamina K2, calcio D3…) no tendría que ofrecer ningún problema bebiendo este tipo de agua.
+En el mismo estudio se añadió calcio y se vio como se alivió esta pérdida del esmalte lo que nos ayuda a concluir (una vez más) que una buena dieta basada en animales como la [carnívora](./dieta-carnivora) (rica en vitamina K2, calcio D3…) no tendría que ofrecer ningún problema bebiendo este tipo de agua.
 
 ### Piedras en el riñón por el exceso calcio
 
-He notado que esas bebidas carbonatadas altas en calcio puede dar estreñimiento a ciertas personas[2](<javascript:void(0)>)Li K, Wang XF, Li DY, Chen YC, Zhao LJ, Liu XG, Guo YF, Shen J, Lin X, Deng J, Zhou R, Deng HW. The good, the bad, and the ugly of calcium supplementation: a review of calcium intake on human health. Clin Interv Aging. 2018 Nov 28;13:2443-2452. doi: 10.2147/CIA.S157523. PMID: 30568435; PMCID: PMC6276611., pero además, muchos otros problemas por ser de calcio elevado.
+He notado que esas bebidas carbonatadas altas en calcio puede dar estreñimiento a ciertas personas[ref-2](#ref-2){.ref}, pero además, muchos otros problemas por ser de calcio elevado.
 
 Yo me centro en buscar marcas de agua carbonatada que tengan poco calcio.
 
@@ -119,14 +96,12 @@ Esto seguramente indicará que hay más minerales de los demás en los que la ma
 Después todo el mundo va con piedras en el riñón. Claro. ¿Cómo no vas a tenerlas?
 
 - El calcio (que además he visto que es más problemático cuando está añadido y no forma parte de la naturaleza de la comida).
-- Este calcio va al estómago al intestino pequeño y ahí se juntará con los oxalatos ([los antinutrientes de tus verduras](https://pau.ninja/antinutrientes-lista/), no las mías porque yo no consumo) y esto es lo que formará las piedras[3](<javascript:void(0)>)Sorensen MD. Calcium intake and urinary stone disease. Transl Androl Urol. 2014 Sep;3(3):235-40. doi: 10.3978/j.issn.2223-4683.2014.06.05. PMID: 26816771; PMCID: PMC4708574..
+- Este calcio va al estómago al intestino pequeño y ahí se juntará con los oxalatos ([los antinutrientes de tus verduras](./antinutrientes-lista), no las mías porque yo no consumo) y esto es lo que formará las piedras[ref-3](#ref-3){.ref}.
 - Este calcio y oxalatos fusionado como si fuera Gotrunks, no se absorberá y en vez de esto se transferirá a tu sangre, terminando en el riñón en forma de piedra.
 
 Este vendría a ser el motivo principal por el que **evitar las marcas de agua con gas añadido**. Porque en el proceso de añadir el ácido carbónico y dióxido de carbono, sale como resultado carbonatio de calcio residual y que el agua tenga varios miligramos de calcio por litro.
 
 Este carbonatio de calcio residiual es h0dido porque le toma a nuestro cuerpo 12 pasos distintos, haciendo que haya mucha concentración durante más tiempo.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Si a esto le sumas los oxalatos acumulados que tienen el 99% de la población por el hecho de seguir comiendo verduras en sus dietas occidentales.
 
@@ -152,9 +127,9 @@ Sinceramente he hecho una búsqueda intensiva y a pesar de algunos estudios remo
 
 Lo que sí sé tanto yo como los que beben agua de calidad con gas, es que las digestiones acostumbran a ser mejor. ¿Por qué?
 
-- Podría ser por el llamado «sistema tampón» del ácido carbónico que dicho en lenguaje ninja, es un sistema que ayuda a mantener el pH en sangre y los tejido, apoyando un poco más a que tengamos una función metabólica adecuada[4](<javascript:void(0)>)al.\], David Sadava … \[et; Bell, David R. (2014). Life : The Science of Biology (10th edición). Sunderland, MA: Sinauer Associates. ISBN 9781429298643..
+- Podría ser por el llamado «sistema tampón» del ácido carbónico que dicho en lenguaje ninja, es un sistema que ayuda a mantener el pH en sangre y los tejido, apoyando un poco más a que tengamos una función metabólica adecuada[ref-4](#ref-4){.ref}.
 - Podría ser también porque se trata de un «ácido débil», haciendo que nuestro sistema digestivo se vuelva un poquito más ácido. Porque recordemos que tenemos unos estómagos 1.000 veces más ácidos que el de los chimpancés. Por algún motivo será.
-- Pensad que si hacemos algo más ácido pasamos a absorber más minerales. La proteína se ingiere mejor pero también el magnesio, calcio, vitamina B12, hiero[5](<javascript:void(0)>)Ito T, Jensen RT. Association of long-term proton pump inhibitor therapy with bone fractures and effects on absorption of calcium, vitamin B12, iron, and magnesium. Curr Gastroenterol Rep. 2010 Dec;12(6):448-57. doi: 10.1007/s11894-010-0141-0. PMID: 20882439; PMCID: PMC2974811.…
+- Pensad que si hacemos algo más ácido pasamos a absorber más minerales. La proteína se ingiere mejor pero también el magnesio, calcio, vitamina B12, hiero[ref-5](#ref-5){.ref}…
 
 Podría ser por uno de estos factores que sentimos que digerimos mejor, o quizás por todos a la vez pero  como os digo, no he encontrado ninguna prueba «objetiva» más que la experiencia de las personas que bebemos agua con gas de forma regular.
 
@@ -196,23 +171,23 @@ Primer beneficio, CO2.
 
 ### Aumento de hambre
 
-Otra cosa que ha visto es una respuesta hormonal interesante porque estas bebidas por el tema del gas provocan un aumento de la grelina[6](<javascript:void(0)>)Eweis DS, Abed F, Stiban J. Carbon dioxide in carbonated beverages induces ghrelin release and increased food consumption in male rats: Implications on the onset of obesity. Obes Res Clin Pract. 2017 Sep-Oct;11(5):534-543. doi: 10.1016/j.orcp.2017.02.001. Epub 2017 Feb 20. PMID: 28228348..
+Otra cosa que ha visto es una respuesta hormonal interesante porque estas bebidas por el tema del gas provocan un aumento de la grelina[ref-6](#ref-6){.ref}.
 
-Y en este aspecto me hace mucha gracias porque hay estudios que dicen que va bien para perder peso porque te hace sentirte más saciado[7](<javascript:void(0)>)Maki SUZUKI, Emi MURA, Ayako TANIGUCHI, Toshio MORITANI, Narumi NAGAI, Oral Carbonation Attenuates Feeling of Hunger and Gastric Myoelectrical Activity in Young Women, Journal of Nutritional Science and Vitaminology, 2017, Volume 63, Issue 3, Pages 186-192, Released on J-STAGE July 28, 2017, Online ISSN 1881-7742, Print ISSN 0301-4800, pero hay otros estudios que dicen que aumenta[8](<javascript:void(0)>)Eweis DS, Abed F, Stiban J. Carbon dioxide in carbonated beverages induces ghrelin release and increased food consumption in male rats: Implications on the onset of obesity. Obes Res Clin Pract. 2017 Sep-Oct;11(5):534-543. doi: 10.1016/j.orcp.2017.02.001. Epub 2017 Feb 20. PMID: 28228348. la [grelina](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1690-31102008000200004),
+Y en este aspecto me hace mucha gracias porque hay estudios que dicen que va bien para perder peso porque te hace sentirte más saciado[ref-7](#ref-7){.ref}, pero hay otros estudios que dicen que aumenta[ref-8](#ref-8){.ref} la [grelina](http://ve.scielo.org/scielo.php?script=sci_arttext&pid=S1690-31102008000200004),
 
-![estudio hambre bebidas carbonatadas](https://pau.ninja/wp-content/uploads/2023/04/estudio-hambre-bebidas-carbonatadas.png)
+![estudio hambre bebidas carbonatadas](./wp-content/uploads/2023/04estudio-hambre-bebidas-carbonatadas.png)
 
 La grelina es la hormona que te hace sentirte más hambriento y hace que (lógicamente) termines comiendo más al final del día promoviendo el almacenamiento de grasa.
 
 Lógico que si comes más pues almacenarás más grasa. Algo que parece ser bastante concluyente.
 
-![funciones de hormona grelina](https://pau.ninja/wp-content/uploads/2023/04/funciones-de-hormona-grelina.jpg)
+![funciones de hormona grelina](./wp-content/uploads/2023/04funciones-de-hormona-grelina.jpg)
 
-Fijaros que el estudio **demostró x20 más niveles de grelina** comparado con lo que se considera «normal»[9](<javascript:void(0)>)Lv Y, Liang T, Wang G, Li Z. Ghrelin, a gastrointestinal hormone, regulates energy balance and lipid metabolism. Biosci Rep. 2018 Sep 25;38(5):BSR20181061. doi: 10.1042/BSR20181061. PMID: 30177523; PMCID: PMC6153372..
+Fijaros que el estudio **demostró x20 más niveles de grelina** comparado con lo que se considera «normal»[ref-9](#ref-9){.ref}.
 
 Pero aunque de buenas a primeras pueda sonar malo, pensad que una hormona está allí por algo, y en el caso de la grelina no sólo se encarga de darnos señales de hambre.
 
-De hecho la grelina también hace que aumente la activación de nuestros receptores de la hormona del crecimiento[10](<javascript:void(0)>)Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature. 1999;402:656–660. doi: 10.1038/45230.[11](<javascript:void(0)>)Janssen S, Laermans J, Verhulst PJ, Thijs T, Tack J, Depoortere I. Bitter taste receptors and gustducin regulate the secretion of ghrelin with functional effects on food intake and gastric emptying. Proc Natl Acad Sci USA. 2011;108(5):2094–9. doi: 10.1073/pnas.1011508108..
+De hecho la grelina también hace que aumente la activación de nuestros receptores de la hormona del crecimiento[ref-10](#ref-10){.ref}[ref-11](#ref-11){.ref}.
 
 Realmente la grelina, aunque la llamemos la hormona del hambre es esencial para que funcionemos bien, estando totalmente **relacionada con los procesos de reparación y crecimiento** de nuestro cuerpo.
 
@@ -234,7 +209,7 @@ Por esto algunos estudios han visto un vínculo del agua con gas con la motilida
 
 O en lenguaje ninja: que **te ayuda a ir al baño** haciendo que podamos digerir mejor, ligado con el tema de la hormona del crecimiento que decíamos.
 
-Se ha visto como el agua con gas también se mantiene en la parte superior del estómago durante más tiempo, creando una sensación de estar más lleno[12](<javascript:void(0)>)Cuomo R, Sarnelli G, Savarese MF, Buyckx M. Carbonated beverages and gastrointestinal system: between myth and reality. Nutr Metab Cardiovasc Dis. 2009 Dec;19(10):683-9. doi: 10.1016/j.numecd.2009.03.020. Epub 2009 Jun 6. PMID: 19502016..
+Se ha visto como el agua con gas también se mantiene en la parte superior del estómago durante más tiempo, creando una sensación de estar más lleno[ref-12](#ref-12){.ref}.
 
 Lo que choca con lo de la grelina.
 
@@ -244,7 +219,7 @@ Puedes sentirte más lleno un rato después de beber agua con gas, pero cuando t
 
 ### Ayuda al estreñimiento
 
-También se ve como mejora la indigestión (el estreñimiento) comparando el agua de grifo con la que tiene gas[13](<javascript:void(0)>)Cuomo R, Grasso R, Sarnelli G, Capuano G, Nicolai E, Nardone G, Pomponi D, Budillon G, Ierardi E. Effects of carbonated water on functional dyspepsia and constipation. Eur J Gastroenterol Hepatol. 2002 Sep;14(9):991-9. doi: 10.1097/00042737-200209000-00010. PMID: 12352219..
+También se ve como mejora la indigestión (el estreñimiento) comparando el agua de grifo con la que tiene gas[ref-13](#ref-13){.ref}.
 
 ### Tragarás mejor
 
@@ -270,9 +245,9 @@ No hace falta repetirlo.
 
 Pero lo que más valoro yo de beber agua con gas, y seguramente el motivo por el que me he aficionado, es que es **la mejor forma de evitar los plásticos**.
 
-Tanto los *micro* del agua en botella de plástico, como del plástico de la propia botella, que es un residuo más.
+Tanto los _micro_ del agua en botella de plástico, como del plástico de la propia botella, que es un residuo más.
 
-Los estudios han evaluado la relación directa de los microplásticos con contraer cáncer[14](<javascript:void(0)>)Gruber ES, Stadlbauer V, Pichler V, Resch-Fauster K, Todorovic A, Meisel TC, Trawoeger S, Hollóczki O, Turner SD, Wadsak W, Vethaak AD, Kenner L. To Waste or Not to Waste: Questioning Potential Health Risks of Micro- and Nanoplastics with a Focus on Their Ingestion and Potential Carcinogenicity. Expo Health. 2023;15(1):33-51. doi: 10.1007/s12403-022-00470-8. Epub 2022 Mar 22. PMID: 36873245; PMCID: PMC9971145..
+Los estudios han evaluado la relación directa de los microplásticos con contraer cáncer[ref-14](#ref-14){.ref}.
 
 También encontraron que los microplásticos se adhieren a las membranas externas de los glóbulos rojos y limitan la capacidad para transportar oxígeno.
 
@@ -302,7 +277,7 @@ Es uno de los motivos por los que no quiero ni escuchar a hablar del agua de gri
 
 Occidente nos ha vendido la historia de lo importante que es meter cantidades ingentes y antinaturales de calcio para nuestra salud y con esta excusa nos lo ha metido en el agua.
 
-Sin olvidar que algunas comunidades aún le meten flúor[15](<javascript:void(0)>)EROSKI Consumer 7 de noviembre de 2021 – ¿El agua del grifo dejará de tener flúor? y que incluso de vez en cuando se van encontrando hormonas en el agua del grifo[16](<javascript:void(0)>)Aria Bendix, Business Insider 25 oct. 2019 – Una gran parte de las hormonas de las píldoras anticonceptivas podrían acabar en el agua del grifo y por eso se están estudiando sus efectos para la salud.
+Sin olvidar que algunas comunidades aún le meten flúor[ref-15](#ref-15){.ref} y que incluso de vez en cuando se van encontrando hormonas en el agua del grifo[ref-16](#ref-16){.ref}.
 
 Aunque recordemos que no todos los fluoruros son iguales.
 
@@ -326,13 +301,13 @@ O lo más cerca possible, buscando ese balance entre ácido y alcalino.
 
 Esta diferencia importa (y mucho) porque sólo la diferencia entre dos bebidas que una tenga un pH de 6 y la otra 7, significa que la bebida con pH de 6 es **diez veces más ácida** que la que tiene un pH de 7.
 
-![ácido alcalino pH boca](https://pau.ninja/wp-content/uploads/2023/04/acido-alcalino-pH-boca.jpeg)
+![ácido alcalino pH boca](./wp-content/uploads/2023/04acido-alcalino-pH-boca.jpeg)
 
-Precisamente porque nuestro estómago tiene un pH bajo en comparación con las otras partes de nuestro sistema digestivo. La boca, el intestino delgado y el intestino grueso tienen un pH de 6, 7 y 8 mientras que el estómago lo tiene que no llega a 2[17](<javascript:void(0)>)Halperin Chiropractic, Keith Halperin, DC on Stomach Acid, pH, and Health.
+Precisamente porque nuestro estómago tiene un pH bajo en comparación con las otras partes de nuestro sistema digestivo. La boca, el intestino delgado y el intestino grueso tienen un pH de 6, 7 y 8 mientras que el estómago lo tiene que no llega a 2[ref-17](#ref-17){.ref}.
 
 Es decir, es súper ácido.
 
-> Otro [indicador de que el humano es carnívoro](https://pau.ninja/el-ser-humano-es-carnivoro/) (#194), con estómagos 1.000 veces más ácidos que el de los chimpancés.
+> Otro [indicador de que el humano es carnívoro](./el-ser-humano-es-carnivoro) (#194), con estómagos 1.000 veces más ácidos que el de los chimpancés.
 
 ¿Cómo sabemos si un agua con gas del supermercado viene de un recurso natural o te la fabrican con máquinas?
 
@@ -340,13 +315,13 @@ Muy fácil, las que son de fuentes naturales **te lo pondrá bien grande** en la
 
 Lo sabrás de buenas a primeras porque es lo primero de lo que chuleará el fabricante (o más bien dicho, distribuidor) y con razón porque **es un buen escaso** y buenísimo.
 
-Es [igual que la sal de manantial](https://pau.ninja/sal-de-manantial/) (#453), los pocos vendedores se asegurarán de decirte que viene de un manantial, porque todas las sales que puedas comprar en el Mercadona son fatales para tu salud.
+Es [igual que la sal de manantial](./sal-de-manantial) (#453), los pocos vendedores se asegurarán de decirte que viene de un manantial, porque todas las sales que puedas comprar en el Mercadona son fatales para tu salud.
 
 ### Malavella
 
 **Valoración**
 
-9,5/10
+9,5/10  
 ⭐️⭐️⭐️⭐️⭐️
 
 **Precio**
@@ -365,8 +340,6 @@ Es [igual que la sal de manantial](https://pau.ninja/sal-de-manantial/) (#453), 
 
 594,2
 
-**Sulfatos (SO4)**
-
 0,06
 
 **Fluoruros (F)**
@@ -377,25 +350,19 @@ Es [igual que la sal de manantial](https://pau.ninja/sal-de-manantial/) (#453), 
 
 48
 
-**Magnesio (Mg)**
-
 9
 
 **Sodio (Na)**
 
 1.113
 
-**Potasio (K)**
-
 48
-
-El agua de Malavella brota a casi 60 grados en un manantial de Girona.
 
 ### Vichy Catalán
 
 **Valoración**
 
-9/10
+9/10  
 ⭐️⭐️⭐️⭐️⭐️
 
 **Precio**
@@ -414,8 +381,6 @@ El agua de Malavella brota a casi 60 grados en un manantial de Girona.
 
 601,5
 
-**Sulfatos (SO4)**
-
 47,3
 
 **Fluoruros (F)**
@@ -426,19 +391,13 @@ El agua de Malavella brota a casi 60 grados en un manantial de Girona.
 
 47
 
-**Magnesio (Mg)**
-
 9
 
 **Sodio (Na)**
 
 1.110
 
-**Potasio (K)**
-
 48
-
-Tiene un origen casi idéntico al agua Malavella pero su composición es diferente y por eso su sabor también lo he notado diferente.
 
 La de «Vichy Catalan **Genuina**» se recoge a 15 metros de profundidad después de que haya viajado a lo largo de 4.000 metros y por lo que entiendo la de Malavella viene aún a más profundidades.
 
@@ -446,7 +405,7 @@ La de «Vichy Catalan **Genuina**» se recoge a 15 metros de profundidad despué
 
 **Valoración**
 
-6/10
+6/10  
 ⭐️⭐️⭐️⭐️
 
 **Precio**
@@ -465,8 +424,6 @@ La de «Vichy Catalan **Genuina**» se recoge a 15 metros de profundidad despué
 
 8,5
 
-**Sulfatos (SO4)**
-
 1,5
 
 **Fluoruros (F)**
@@ -477,15 +434,11 @@ La de «Vichy Catalan **Genuina**» se recoge a 15 metros de profundidad despué
 
 14
 
-**Magnesio (Mg)**
-
 5
 
 **Sodio (Na)**
 
 19,1
-
-**Potasio (K)**
 
 1,2
 
@@ -495,7 +448,7 @@ Fuente del Val nos viene de un manantial a unos 70 metros de profundidad en una 
 
 **Valoración**
 
-6/10
+6/10  
 ⭐️⭐️⭐️⭐️
 
 **Precio**
@@ -514,8 +467,6 @@ Fuente del Val nos viene de un manantial a unos 70 metros de profundidad en una 
 
 15,2
 
-**Sulfatos (SO4)**
-
 1,7
 
 **Fluoruros (F)**
@@ -526,15 +477,11 @@ Fuente del Val nos viene de un manantial a unos 70 metros de profundidad en una 
 
 7,7
 
-**Magnesio (Mg)**
-
 5,5
 
 **Sodio (Na)**
 
 49
-
-**Potasio (K)**
 
 5,1
 
@@ -544,7 +491,7 @@ Otra agua de un manantial gallego. Mondariz es un agua que se ha filtrado entre 
 
 **Valoración**
 
-5/10
+5/10  
 ⭐️⭐️⭐️
 
 **Precio**
@@ -563,8 +510,6 @@ Otra agua de un manantial gallego. Mondariz es un agua que se ha filtrado entre 
 
 51
 
-**Sulfatos (SO4)**
-
 420
 
 **Fluoruros (F)**
@@ -575,15 +520,11 @@ Otra agua de un manantial gallego. Mondariz es un agua que se ha filtrado entre 
 
 160
 
-**Magnesio (Mg)**
-
 46
 
 **Sodio (Na)**
 
 30
-
-**Potasio (K)**
 
 2,1
 
@@ -593,7 +534,7 @@ El agua de la marca San Pellegrino fluye de un manantial natural en el área de 
 
 **Valoración**
 
-4/10
+4/10  
 ⭐️⭐️⭐️
 
 **Precio**
@@ -612,8 +553,6 @@ El agua de la marca San Pellegrino fluye de un manantial natural en el área de 
 
 4,6
 
-**Sulfatos (SO4)**
-
 2,6
 
 **Fluoruros (F)**
@@ -624,15 +563,11 @@ El agua de la marca San Pellegrino fluye de un manantial natural en el área de 
 
 94,8
 
-**Magnesio (Mg)**
-
 3,5
 
 **Sodio (Na)**
 
 2,8
-
-**Potasio (K)**
 
 –
 
@@ -645,89 +580,3 @@ Viene de un manantial a unos 1.000 metros de altitud en la Sierra de Almazán qu
 Si quieres «hacerte» tu propia agua casera para después mineralizarla, olvídate de los filtros convencionales de 20€ y olvida el agua embotellada de garrafas del supermercado.
 
 Lo que necesitarás será un filtro de osmosis inversa del que hablaremos extensamente en otro episodio.
-
-## Bibliografía: fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-
-  Ryu HK, Kim YD, Heo SS, Kim SC. Effect of carbonated water manufactured by a soda carbonator on etched or sealed enamel. Korean J Orthod. 2018 Jan;48(1):48-56. doi: 10.4041/kjod.2018.48.1.48. Epub 2017 Nov 19. PMID: 29291188; PMCID: PMC5702778.
-
-- 2
-
-  Li K, Wang XF, Li DY, Chen YC, Zhao LJ, Liu XG, Guo YF, Shen J, Lin X, Deng J, Zhou R, Deng HW. The good, the bad, and the ugly of calcium supplementation: a review of calcium intake on human health. Clin Interv Aging. 2018 Nov 28;13:2443-2452. doi: 10.2147/CIA.S157523. PMID: 30568435; PMCID: PMC6276611.
-
-- 3
-
-  Sorensen MD. Calcium intake and urinary stone disease. Transl Androl Urol. 2014 Sep;3(3):235-40. doi: 10.3978/j.issn.2223-4683.2014.06.05. PMID: 26816771; PMCID: PMC4708574.
-
-- 4
-
-  al.\], David Sadava … \[et; Bell, David R. (2014). Life : The Science of Biology (10th edición). Sunderland, MA: Sinauer Associates. ISBN 9781429298643.
-
-- 5
-
-  Ito T, Jensen RT. Association of long-term proton pump inhibitor therapy with bone fractures and effects on absorption of calcium, vitamin B12, iron, and magnesium. Curr Gastroenterol Rep. 2010 Dec;12(6):448-57. doi: 10.1007/s11894-010-0141-0. PMID: 20882439; PMCID: PMC2974811.
-
-- 6
-
-  Eweis DS, Abed F, Stiban J. Carbon dioxide in carbonated beverages induces ghrelin release and increased food consumption in male rats: Implications on the onset of obesity. Obes Res Clin Pract. 2017 Sep-Oct;11(5):534-543. doi: 10.1016/j.orcp.2017.02.001. Epub 2017 Feb 20. PMID: 28228348.
-
-- 7
-
-  Maki SUZUKI, Emi MURA, Ayako TANIGUCHI, Toshio MORITANI, Narumi NAGAI, Oral Carbonation Attenuates Feeling of Hunger and Gastric Myoelectrical Activity in Young Women, Journal of Nutritional Science and Vitaminology, 2017, Volume 63, Issue 3, Pages 186-192, Released on J-STAGE July 28, 2017, Online ISSN 1881-7742, Print ISSN 0301-4800
-
-- 8
-
-  Eweis DS, Abed F, Stiban J. Carbon dioxide in carbonated beverages induces ghrelin release and increased food consumption in male rats: Implications on the onset of obesity. Obes Res Clin Pract. 2017 Sep-Oct;11(5):534-543. doi: 10.1016/j.orcp.2017.02.001. Epub 2017 Feb 20. PMID: 28228348.
-
-- 9
-
-  Lv Y, Liang T, Wang G, Li Z. Ghrelin, a gastrointestinal hormone, regulates energy balance and lipid metabolism. Biosci Rep. 2018 Sep 25;38(5):BSR20181061. doi: 10.1042/BSR20181061. PMID: 30177523; PMCID: PMC6153372.
-
-- 10
-
-  Kojima M, Hosoda H, Date Y, Nakazato M, Matsuo H, Kangawa K. Ghrelin is a growth-hormone-releasing acylated peptide from stomach. Nature. 1999;402:656–660. doi: 10.1038/45230.
-
-- 11
-
-  Janssen S, Laermans J, Verhulst PJ, Thijs T, Tack J, Depoortere I. Bitter taste receptors and gustducin regulate the secretion of ghrelin with functional effects on food intake and gastric emptying. Proc Natl Acad Sci USA. 2011;108(5):2094–9. doi: 10.1073/pnas.1011508108.
-
-- 12
-
-  Cuomo R, Sarnelli G, Savarese MF, Buyckx M. Carbonated beverages and gastrointestinal system: between myth and reality. Nutr Metab Cardiovasc Dis. 2009 Dec;19(10):683-9. doi: 10.1016/j.numecd.2009.03.020. Epub 2009 Jun 6. PMID: 19502016.
-
-- 13
-
-  Cuomo R, Grasso R, Sarnelli G, Capuano G, Nicolai E, Nardone G, Pomponi D, Budillon G, Ierardi E. Effects of carbonated water on functional dyspepsia and constipation. Eur J Gastroenterol Hepatol. 2002 Sep;14(9):991-9. doi: 10.1097/00042737-200209000-00010. PMID: 12352219.
-
-- 14
-
-  Gruber ES, Stadlbauer V, Pichler V, Resch-Fauster K, Todorovic A, Meisel TC, Trawoeger S, Hollóczki O, Turner SD, Wadsak W, Vethaak AD, Kenner L. To Waste or Not to Waste: Questioning Potential Health Risks of Micro- and Nanoplastics with a Focus on Their Ingestion and Potential Carcinogenicity. Expo Health. 2023;15(1):33-51. doi: 10.1007/s12403-022-00470-8. Epub 2022 Mar 22. PMID: 36873245; PMCID: PMC9971145.
-
-- 15
-
-  EROSKI Consumer 7 de noviembre de 2021 – ¿El agua del grifo dejará de tener flúor?
-
-- 16
-
-  Aria Bendix, Business Insider 25 oct. 2019 – Una gran parte de las hormonas de las píldoras anticonceptivas podrían acabar en el agua del grifo y por eso se están estudiando sus efectos para la salud
-
-- 17
-
-  Halperin Chiropractic, Keith Halperin, DC on Stomach Acid, pH, and Health
-
-- 18
-
-  Propiedades digestivas, renales y metabólicas del agua Malavella (III)/Digestive, renal and metabolic properties of Malavella mineral water (III)
-
-- 19
-
-  https://www.igme.es/actividadesigme/lineas/hidroyca/publica/libros5\_AMyT/lib115/pdf/lib115/in\_06j.pdf
-
-- 20
-
-  2021 S.Pellegrino Water Analysis Repor
-
-La composición de las marcas de agua se han analizado en base a los últimos análisis encontrados[18](<javascript:void(0)>)Propiedades digestivas, renales y metabólicas del agua Malavella (III)/Digestive, renal and metabolic properties of Malavella mineral water (III)[19](<javascript:void(0)>)https://www.igme.es/actividadesigme/lineas/hidroyca/publica/libros5\_AMyT/lib115/pdf/lib115/in\_06j.pdf[20](javascript:void\(0\))2021 S.Pellegrino Water Analysis Repor.

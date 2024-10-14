@@ -1,20 +1,25 @@
 ---
-title: "El poder de empezar a boxear a los 30 años (desventajas y beneficios del boxeo)"
+title: "El poder de empezar a boxear a los 30 años"
+url: https://pau.ninja/beneficios-del-boxeo
+slug: beneficios-del-boxeo
+categories: 
+- slug: fitness
+    label: Fitness
 image: boxeador-musculoso.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/03/boxeador-musculoso.jpeg
 published: 2022-03-30T15:24:06+00:00
 modified: 2023-02-18T08:25:19+00:00
-audioLink:
-slug: beneficios-del-boxeo
+scrappedAt: 2024-10-14T09:20:46.643Z
+audioLink: 
+bibliography: []
 ---
-
 Siempre había querido probar un arte marcial.
 
 Me acuerdo que de pequeño había visto a Bruce Lee pegando al aire, haciendo _shadow boxing_. Bueno, no al aire sino que pegaba a un papel atado a un hilo que colgaba del techo.
 
 No pegaba al papel en sí, si no que se quedaba corto de un dedo, y claro, el papel se movía con el aire que su puño generaba. Así que el siguiente golpe, tenía que darlo en un sitio que no sabía porque la posición del papel era incierta.
 
-![bruce lee con papel](https://pau.ninja/wp-content/uploads/2022/03/bruce-lee-con-papel.jpeg)
+![bruce lee con papel](./wp-content/uploads/2022/03bruce-lee-con-papel.jpeg)
 
 Después escuché todas su citas y aprendí sobre cómo había probado todas las armas marciales para inventar su propia arte marcial, y ahí se me encendió un poco la mecha de querer probarlo algún día.
 
@@ -22,9 +27,9 @@ No fue nunca mi prioridad. Supongo que porque mi timidez preadolescente me impid
 
 Esto, junto con todos los animes que he mirado en mi vida, ha sido un coctel de testosterona porque mis favoritos siempre han sido los que han pegado h0stiazos: One Punch Man (obvio, por ser calvo), Dragon Ball, Ataque a los Titanes, Baki, Kimetsu no Yaiba, Kengan Ashura…
 
-![quiero ser one punch](https://pau.ninja/wp-content/uploads/2022/03/quiero-ser-one-punch.jpeg)
+![quiero ser one punch](./wp-content/uploads/2022/03quiero-ser-one-punch.jpeg)
 
-Foto: los *haters* dirán que la he editado.
+Foto: los _haters_ dirán que la he editado.
 
 Animes que me han transmitido constantemente una sensación de adrenalina, de ganar, de no rendirse, de querer ser mejor, de propósito…
 
@@ -32,37 +37,13 @@ Era obvio que en algún momento tendría que probar de dar golpes a algo físico
 
 Ya me había viciado al gimnasio suficiente tiempo para dejarme de considerar un [cuerpo escombro](https://pau.ninja/) por puros fines estéticos (para estar bueno desnudo). También he empezado a jugar con los básicos de la calistenia… así que…
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/09/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/09comic-masa-muscular.png)
 
 Era hora de intentar aplicar todo esto en sinergía para tener un **cuerpo práctico**. Que sirviera de algo. Que sintiera que tomaba acción con el cuerpo, no sólo levantando o moviendo porque sí.
 
 Así que me inicié al boxeo.
 
 ¿Por qué empecé con boxeo? ¿por qué no algún arte marcial que llaman más completa rollo kickboxing o muay thai? ¿por qué no volverme a apuntar a natación como cuando era pequeño que mi madre decía que era el deporte más completo?
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Los beneficios más importantes del boxeo](#Los_beneficios_mas_importantes_del_boxeo 'Los beneficios más importantes del boxeo')
-  - [Mejora la salud cardiovascular](#Mejora_la_salud_cardiovascular 'Mejora la salud cardiovascular')
-  - [Es la defensa callejera más efectiva](#Es_la_defensa_callejera_mas_efectiva 'Es la defensa callejera más efectiva')
-  - [Especialización en saber dar puñetazos](#Especializacion_en_saber_dar_punetazos 'Especialización en saber dar puñetazos')
-  - [Aumenta la fuerza de todo el cuerpo](#Aumenta_la_fuerza_de_todo_el_cuerpo 'Aumenta la fuerza de todo el cuerpo')
-  - [Mejora el balance en el cuerpo](#Mejora_el_balance_en_el_cuerpo 'Mejora el balance en el cuerpo')
-  - [Disminuye el estrés](#Disminuye_el_estres 'Disminuye el estrés')
-  - [Otorga un propósito al cuerpo](#Otorga_un_proposito_al_cuerpo 'Otorga un propósito al cuerpo')
-- [Desventajas del boxeo](#Desventajas_del_boxeo 'Desventajas del boxeo')
-  - [Consecuencias de combatir](#Consecuencias_de_combatir 'Consecuencias de combatir')
-  - [Daño cerebral](#Dano_cerebral 'Daño cerebral')
-  - [Susceptibles a enfermedades cerebrales](#Susceptibles_a_enfermedades_cerebrales 'Susceptibles a enfermedades cerebrales')
-  - [Estimulación de piernas](#Estimulacion_de_piernas 'Estimulación de piernas')
-  - [Poca flexibilidad y movilidad](#Poca_flexibilidad_y_movilidad 'Poca flexibilidad y movilidad')
-- [Ventajas de iniciarse en el boxeo](#Ventajas_de_iniciarse_en_el_boxeo 'Ventajas de iniciarse en el boxeo')
-  - [Beneficios del boxeo en mujeres](#Beneficios_del_boxeo_en_mujeres 'Beneficios del boxeo en mujeres')
-  - [Beneficios del boxeo en adolescentes](#Beneficios_del_boxeo_en_adolescentes 'Beneficios del boxeo en adolescentes')
-  - [Beneficios del boxeo sin contacto](#Beneficios_del_boxeo_sin_contacto 'Beneficios del boxeo sin contacto')
-  - [Beneficios del boxeo con saco](#Beneficios_del_boxeo_con_saco 'Beneficios del boxeo con saco')
 
 ## Los beneficios más importantes del boxeo
 
@@ -105,9 +86,9 @@ Esto es el HIIT: darle mucha caña muy rápido a tu cuerpo durante 1-2-3 minutos
 
 Pues por eso. Como el boxeo es HIIT, el principal beneficio del boxeo sería la salud cardiovascular porque los entrenamientos de alta intensidad a intervalos se han asociado a una [disminución](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6349321/) de enfermedades al corazón.
 
-Y no sólo esto, si en vez de mirar todos los beneficios del HIIT nos centramos en los del boxeo, vemos que hay algún estudio [por allí](https://pubmed.ncbi.nlm.nih.gov/25153738/) que encontró que los *rankings*, las clasificaciones de los boxeadores profesionales se correlacionaban (directamente) con sus marcadores de salud.
+Y no sólo esto, si en vez de mirar todos los beneficios del HIIT nos centramos en los del boxeo, vemos que hay algún estudio [por allí](https://pubmed.ncbi.nlm.nih.gov/25153738/) que encontró que los _rankings_, las clasificaciones de los boxeadores profesionales se correlacionaban (directamente) con sus marcadores de salud.
 
-Es decir, que a más arriba de los *rankings* de competición, más sanos estaban del corazón. Y tiene sentido porque si entrenas como un loco para tener fondo para tus luchas, pues tienes más posibilidades de ganar y a la vez cómo has entrenado como un loco pues significa que has hecho más sesiones. Más HIIT, ergo… mejor corazón.
+Es decir, que a más arriba de los _rankings_ de competición, más sanos estaban del corazón. Y tiene sentido porque si entrenas como un loco para tener fondo para tus luchas, pues tienes más posibilidades de ganar y a la vez cómo has entrenado como un loco pues significa que has hecho más sesiones. Más HIIT, ergo… mejor corazón.
 
 No como mi ex.
 
@@ -137,13 +118,13 @@ Pensad además que el tiempo que en otra arte marcial estarías aprendiendo a da
 
 Recordemos la cita del bueno de Bruce Lee: «No temo al hombre que ha practicado 10.000 golpes distintos. Temo al hombre que ha practicado un solo golpe 10.000 veces.»
 
-![cita bruce lee golpes](https://pau.ninja/wp-content/uploads/2022/03/cita-bruce-lee-golpes.jpeg)
+![cita bruce lee golpes](./wp-content/uploads/2022/03cita-bruce-lee-golpes.jpeg)
 
 Como comenté por allí, es como si en un videojuego decides distribuir tus «puntos de habilidad» de tu personaje y se lo pones todo al cardio + a los puños. Al saber pegar un buen _h0stiazo_.
 
 Si balanceas demasiado al personaje con un poquito de llaves, un poquito de patadas, un poquito de la madre que me parió, sí. Terminas con un personaje principal que sabe hacer un poquito de todo… (viva la multipotencialdiad) y supongo que en competiciones de la UFC, las artes marciales mixtas (las MMA) son más impresionantes e impredecible, lo que las hace mejor para tener audiencia, ¿pero en una pelea de calle?
 
-Debe ser bonito practicar todas estas artes marciales para aprender de tu cuerpo y hacerlo más fuerte de distintas maneras, pero para efectividad yo lo tengo claro.
+Debe ser bonito practicar todas estas artes marciales para aprender de tu cuerpo y hacerlo más fuerte de distintas maneras, pero para efectividad yo lo tengo claro. 
 
 ### Aumenta la fuerza de todo el cuerpo
 
@@ -153,7 +134,7 @@ Yo me pensaba que lanzar un golpe venía mayoritariamente del hombro, tríceps y
 
 En cambio, un buen puño implica que nuestras **extremidades inferiores empujan contra el suelo** para coordinar el resto del cuerpo y que se transfiera la potencia a través del golpe.
 
-![como dar un buen puñetazo](https://pau.ninja/wp-content/uploads/2022/03/como-dar-un-buen-punetazo.jpeg)
+![como dar un buen puñetazo](./wp-content/uploads/2022/03como-dar-un-buen-punetazo.jpeg)
 
 Al contrario de lo que me pensaba, realmente el brazo se lleva fuerza, claro, pero hace más como de intermediario. O sea que otro beneficio del boxeo sería el aumento de fuerza. Ya no del torso, sino del cuerpo entero.
 
@@ -165,13 +146,11 @@ Hablando de sinergías, cuerpos y disciplinas, sabéis que he estado bailando (o
 
 Una de las cosas que me di cuenta en la primera clase es que había cierta similitud. No de los pasos (lógico), sino de la coordinación y balance que necesitas enseñarle a tu cuerpo.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
-El juego de pies del boxeo, los *drills*, las estrategias, las combinaciones de golpes para ser reactivo en combate tienen beneficios más allá de pegar puños a tu ex.
+El juego de pies del boxeo, los _drills_, las estrategias, las combinaciones de golpes para ser reactivo en combate tienen beneficios más allá de pegar puños a tu ex.
 
 Fijaros que incluso se usa el boxeo como herramienta para mejorar el equilibro y otros marcadores en personas tanto que han sufrido [derrames cerebrales](https://www.tandfonline.com/doi/abs/10.1080/10749357.2020.1783918), como pacientes de [Parkinson](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8043465/), que ya sabéis que es una enfermedad que hace que nuestro cuerpo no puede hacer los movimientos más simples.
 
-Lógicamente no creo que les pongan guantes y los pongan a pegarse entre ellos, pero se ve que sí, que el entrenamiento de *shadow boxing* (que es pegar en el aire como si pegaras a alguien) les mejoró los marcadores a estos pacientes.
+Lógicamente no creo que les pongan guantes y los pongan a pegarse entre ellos, pero se ve que sí, que el entrenamiento de _shadow boxing_ (que es pegar en el aire como si pegaras a alguien) les mejoró los marcadores a estos pacientes.
 
 Claro meterlos a hacer kickboxing cuando pierden el equilibro, parece un poquito más arriesgado.
 
@@ -185,7 +164,7 @@ Entonces tiene sentido que sí necesitáramos movernos para proveer alimento, la
 
 Pero tengo que añadir que además creo que hay algo «mágico» en pegarle puños a las cosas. A un saco, o hasta a una persona. Aunque no vayas en serio.. o sí.
 
-![golpe de boxeo](https://pau.ninja/wp-content/uploads/2022/03/golpe-de-boxeo.jpeg)
+![golpe de boxeo](./wp-content/uploads/2022/03golpe-de-boxeo.jpeg)
 
 Foto: no me diga que no «desestresa»…
 
@@ -209,7 +188,7 @@ Odio correr con toda mi alma, pero ahora si después de una sesión de gimnasio 
 
 ### Consecuencias de combatir
 
-Las partes más divertidas es el _sparring_, que significa como pegar al compañero «de mentira». Claro que hay distintos niveles de intensidad que este *sparring* puede tomar. Puede ser más o menos serio. Puedes «jugar» a «tocar» al compañero o puedes prepararte para un combate de verdad.
+Las partes más divertidas es el _sparring_, que significa como pegar al compañero «de mentira». Claro que hay distintos niveles de intensidad que este _sparring_ puede tomar. Puede ser más o menos serio. Puedes «jugar» a «tocar» al compañero o puedes prepararte para un combate de verdad.
 
 Si alguien va a competir en el boxeo (que no es mi caso), pues hay consecuencias bastante chungas.
 
@@ -293,3 +272,83 @@ Unas ventajas que se extienden más allá del calvo de 30 años que crea conteni
 - Construye una base de cardio.
 - Más coordinación, balance y estabilidad.
 - Reduce el estrés.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Fitness](./fitness)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/beneficios-del-boxeo/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p></div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });   /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13929,"title":"Los%207%20beneficios%20m%C3%A1s%20importantes%20del%20boxeo%20%E3%80%90evidencia%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/03\\/boxeador-musculoso.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \* !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

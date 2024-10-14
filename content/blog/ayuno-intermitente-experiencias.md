@@ -1,22 +1,27 @@
 ---
-title: "Ayuno intermitente: el arte de no comer Mis experiencias con la ciencia"
+title: "Ayuno intermitente: el arte de no comer"
+url: https://pau.ninja/ayuno-intermitente-experiencias
+slug: ayuno-intermitente-experiencias
+categories: 
+- slug: nutricion
+    label: Nutrición
 image: persona-con-hambre.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/10/persona-con-hambre.jpeg
 published: 2021-10-05T07:39:36+00:00
 modified: 2024-02-07T10:12:42+00:00
+scrappedAt: 2024-10-14T09:21:02.965Z
 audioLink: https://www.ivoox.com/ayuno-intermitente-arte-no-comer_md_68860481_wp_1.mp3
-slug: ayuno-intermitente-experiencias
+bibliography: []
 ---
-
-[https://www.ivoox.com/ayuno-intermitente-arte-no-comer_md_68860481_wp_1.mp3](https://www.ivoox.com/ayuno-intermitente-arte-no-comer_md_68860481_wp_1.mp3)
+[https://www.ivoox.com/ayuno-intermitente-arte-no-comer\_md\_68860481\_wp\_1.mp3](https://www.ivoox.com/ayuno-intermitente-arte-no-comer_md_68860481_wp_1.mp3)
 
 Hablé del santo grial del fitness (#173) y de cómo entrenar nuestro metabolismo podría ser la respuesta a tener unos cuerpos _buenorros_. Ah. Y también sanos…
 
-Es por esto (por lo de buenorros) que desde hace unos meses la [flexibilidad metabólica](https://pau.ninja/flexibilidad-metabolica/) es uno de mis objetivos fitness principales y tal como comenté, existen dos herramientas muy poderosas de entrenar a nuestro metabolismo.
+Es por esto (por lo de buenorros) que desde hace unos meses la [flexibilidad metabólica](./flexibilidad-metabolica) es uno de mis objetivos fitness principales y tal como comenté, existen dos herramientas muy poderosas de entrenar a nuestro metabolismo.
 
 O más bien, para entrenar a nuestras mitocondrias (las centrales nucleares de las células) para que se vuelvan Super Sayan.
 
-- Con una dieta cetogénica en la que vayamos [ciclando](https://pau.ninja/ciclado-de-carbohidratos/) los cabrohidratos
+- Con una dieta cetogénica en la que vayamos [ciclando](./ciclado-de-carbohidratos) los cabrohidratos
 - Con el ayuno intermitente
 
 Una dieta como la _keto_ en la que se comen mayoritariamente grasas y donde hay que ciclar los hidratos no es para todo el mundo, y con los estilos de vida agitados que tenemos, entiendo que no va como un guante para la mayoría.
@@ -27,7 +32,7 @@ O sea que es potencialmente para todo el mundo.
 
 Que me lo digan a mí. Que todo Dios me ha dicho que tienen la sensación que hago mil cosas a la vez pero creo que más que otra cosa es una percepción que se tiene de este humilde ninja de la vida.
 
-![meme-dinosaurio-humilde](https://pau.ninja/wp-content/uploads/2021/10/meme-dinosaurio-humilde.jpg)
+![meme-dinosaurio-humilde](./wp-content/uploads/2021/10meme-dinosaurio-humilde.jpg)
 
 ¿El truco para tener más tiempo? pues no tener que comer mil veces al día como hacen la mayoría de mortales en una dieta occidental. Ayunar… que irónicamente no sólo nos hace **tener** más tiempo durante todo el día, sino que además tener más tiempo **de vida**.
 
@@ -39,52 +44,6 @@ Y la pregunta del millón: cómo combinarlo con sesiones de entrenamiento ya sea
 
 Fliparéis con los estudios que os tengo preparados.
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es el ayuno intermitente](#Que_es_el_ayuno_intermitente 'Qué es el ayuno intermitente')
-  - [Contraindicaciones](#Contraindicaciones 'Contraindicaciones')
-- [Mis opiniones sobre el ayuno intermitente](#Mis_opiniones_sobre_el_ayuno_intermitente 'Mis opiniones sobre el ayuno intermitente')
-  - [Mi experiencia y resultados](#Mi_experiencia_y_resultados 'Mi experiencia y resultados')
-  - [Hipertrofia y volumen muscular](#Hipertrofia_y_volumen_muscular 'Hipertrofia y volumen muscular')
-- [Ventajas del ayuno intermitente (según estudios)](#Ventajas_del_ayuno_intermitente_segun_estudios 'Ventajas del ayuno intermitente (según estudios)')
-  - [No hay pérdida músculo](#No_hay_perdida_musculo 'No hay pérdida músculo')
-  - [Ayunar es sano](#Ayunar_es_sano 'Ayunar es sano')
-  - [Pérdida de grasa](#Perdida_de_grasa 'Pérdida de grasa')
-  - [Controla el apetito](#Controla_el_apetito 'Controla el apetito')
-  - [Se gana músculo](#Se_gana_musculo 'Se gana músculo')
-  - [Mejora bascular y de piel](#Mejora_bascular_y_de_piel 'Mejora bascular y de piel')
-  - [Claridad mental](#Claridad_mental 'Claridad mental')
-  - [Promueve la autofagia](#Promueve_la_autofagia 'Promueve la autofagia')
-- [Tipos y maneras de hacer un ayuno intermitente](#Tipos_y_maneras_de_hacer_un_ayuno_intermitente 'Tipos y maneras de hacer un ayuno intermitente')
-  - [Por horas](#Por_horas 'Por horas')
-  - [Prolongado](#Prolongado 'Prolongado')
-  - [De líquido](#De_liquido 'De líquido')
-  - [Ayuno seco](#Ayuno_seco 'Ayuno seco')
-- [Consejos para empezar un ayuno intermitente](#Consejos_para_empezar_un_ayuno_intermitente 'Consejos para empezar un ayuno intermitente')
-  - [Consumir fibra y grasa en la última comida](#Consumir_fibra_y_grasa_en_la_ultima_comida 'Consumir fibra y grasa en la última comida')
-  - [Elegir el tiempo que estaremos ayunando](#Elegir_el_tiempo_que_estaremos_ayunando 'Elegir el tiempo que estaremos ayunando')
-  - [Crear un ambiente que lo haga llevadero](#Crear_un_ambiente_que_lo_haga_llevadero 'Crear un ambiente que lo haga llevadero')
-- [Bebidas permitidas en el ayuno intermitente](#Bebidas_permitidas_en_el_ayuno_intermitente 'Bebidas permitidas en el ayuno intermitente')
-  - [Café solo (sin leche)](#Cafe_solo_sin_leche 'Café solo (sin leche)')
-  - [Te](#Te 'Te')
-  - [Agua](#Agua 'Agua')
-  - [Bebidas con Stevia](#Bebidas_con_Stevia 'Bebidas con Stevia')
-- [Cómo romper un ayuno intermitente](#Como_romper_un_ayuno_intermitente 'Cómo romper un ayuno intermitente')
-  - [Con caldo de huesos](#Con_caldo_de_huesos 'Con caldo de huesos')
-  - [No mezclar carbohidratos con grasas](#No_mezclar_carbohidratos_con_grasas 'No mezclar carbohidratos con grasas')
-  - [Sin alimentos inflamatorios](#Sin_alimentos_inflamatorios 'Sin alimentos inflamatorios')
-  - [Comer proteina magra](#Comer_proteina_magra 'Comer proteina magra')
-  - [Utilizar la experiencia](#Utilizar_la_experiencia 'Utilizar la experiencia')
-- [Preguntas frecuentes](#Preguntas_frecuentes 'Preguntas frecuentes')
-  - [¿El ayuno acelera o ralentiza el metabolismo?](#%C2%BFEl_ayuno_acelera_o_ralentiza_el_metabolismo '¿El ayuno acelera o ralentiza el metabolismo?')
-  - [¿Qué hay de tiroides?](#%C2%BFQue_hay_de_tiroides '¿Qué hay de tiroides?')
-  - [¿El café con leche rompe el ayuno?](#%C2%BFEl_cafe_con_leche_rompe_el_ayuno '¿El café con leche rompe el ayuno?')
-  - [¿Qué ayuno intermitente es mejor?](#%C2%BFQue_ayuno_intermitente_es_mejor '¿Qué ayuno intermitente es mejor?')
-  - [¿Cuántos días hacer ayuno intermitente?](#%C2%BFCuantos_dias_hacer_ayuno_intermitente '¿Cuántos días hacer ayuno intermitente?')
-  - [¿Cuáles son los alimentos permitidos?](#%C2%BFCuales_son_los_alimentos_permitidos '¿Cuáles son los alimentos permitidos?')
-
 ## Qué es el ayuno intermitente
 
 El ayuno intermitente se basa en **no** comer durante cierto periodo de tiempo y consolidar las calorías necesarias a posteriori.
@@ -93,7 +52,7 @@ Si somos alguien que se lo mira (como yo que estas semanas quería bajar un 2kg 
 
 Por cierto. Ayuno y ayuno intermitente son **la misma cosa** porque un ayuno siempre implica que en algún momento volveremos a comer, de lo contrario estaríamos… muertos.
 
-![desapareciendo-ayuno](https://pau.ninja/wp-content/uploads/2021/10/desapareciendo-ayuno.jpg)
+![desapareciendo-ayuno](./wp-content/uploads/2021/10desapareciendo-ayuno.jpg)
 
 Y hablando de morir, ayunar no nos matará de hambre. No nos moriremos, ¿vale? de hecho nos hará más vivos que nunca porque es un estado natural del cuerpo y por esto está ligado a la longevidad.
 
@@ -131,7 +90,7 @@ Y esto no es sólo una «corazonada antes de empezar a ayunar» que todos tenemo
 
 Mi experiencia es que el ayuno intermitente sirve tanto para bajar de peso como para subir, y los resultados lo demuestran.
 
-![resultados-ayuno-intermitente](https://pau.ninja/wp-content/uploads/2021/10/resultados-ayuno-intermitente.jpg)
+![resultados-ayuno-intermitente](./wp-content/uploads/2021/10resultados-ayuno-intermitente.jpg)
 
 Foto: yo en 1 año de diferencia. Siempre haciendo ayuno intermitente. En la izquierda estaba más definido pero en la derecha movía más pesos en mi gimnasio. Una muestra de que lo que importan son las calorías totales para subir-bajar de peso.
 
@@ -200,7 +159,7 @@ El caso es que también he visto dos más ([este](https://pubmed.ncbi.nlm.nih.go
 
 No como mi cuerpo de Dios griego.
 
-![cómic masa muscular](https://pau.ninja/wp-content/uploads/2021/10/comic-masa-muscular.png)
+![cómic masa muscular](./wp-content/uploads/2021/10comic-masa-muscular.png)
 
 Esto nos vendría a decir quien se beneficia sobretodo de ayunar: los que les sobra más manteca.
 
@@ -264,7 +223,7 @@ Ya hablé (#98) de las mejoras a [nivel cognitivo](https://pubmed.ncbi.nlm.nih.g
 
 De hecho a nivel personal las horas que yo personalmente trabajo mejor son por la mañana. ¿Por qué? porque no como. Cuando estoy en ayunas puedo estar escribiendo o trabajando en cafeterías durante varias horas.
 
-![ayuno-con-cafe](https://pau.ninja/wp-content/uploads/2021/10/ayuno-con-cafe.jpg)
+![ayuno-con-cafe](./wp-content/uploads/2021/10ayuno-con-cafe.jpg)
 
 Foto: que no os engañe mi cara de dormido. Por las mañanas con un café de filtro/solo (que [no rompe el ayuno](#Cafe_solo_sin_leche)) es cuando tengo las mejores sesiones de trabajo de todo el día.
 
@@ -295,7 +254,7 @@ Que no deja de ser otra cosa que… canibalismo. Canibalismo de las nuevas célu
 
 ¿Qué haces tú cuando estás en casa y tampoco tienes nada que hacer? **limpieza general**.
 
-Pero no todo los ayunos son iguales, y de hecho dependiendo del protocolo que sigamos tiene más beneficio o de longevidad o de *look* para estar bien bonitos.
+Pero no todo los ayunos son iguales, y de hecho dependiendo del protocolo que sigamos tiene más beneficio o de longevidad o de _look_ para estar bien bonitos.
 
 ## Tipos y maneras de hacer un ayuno intermitente
 
@@ -331,7 +290,7 @@ Si queremos potenciar este último factor, la longevidad, tenemos los ayunos pro
 
 El objetivo de estos ayunos es para los beneficios celulares. Es decir, que el ayuno y la longevidad van de la mano para vivir más años que Jordi Hurtado.
 
-![longevidad-de-jordi-hurtado](https://pau.ninja/wp-content/uploads/2021/10/longevidad-de-jordi-hurtado.jpeg)
+![longevidad-de-jordi-hurtado](./wp-content/uploads/2021/10longevidad-de-jordi-hurtado.jpeg)
 
 A partir de las 24-48 horas los beneficios de recomposición corporal, de fitness van disminuyendo a medida que aumentan los de la longevidad.
 
@@ -351,7 +310,7 @@ El ayuno seco trata de no consumir **ni comida ni líquidos** de ningún tipo.
 
 Es el que considero el tipo de ayuno más extremo porque lo que sucede es que el cuerpo absorbe el hidrógeno de las reservas de grasas del cuerpo para crear lo que se conoce como «agua molecular».
 
-![hidrogeno-acido-graso](https://pau.ninja/wp-content/uploads/2021/10/hidrogeno-acido-graso.png)
+![hidrogeno-acido-graso](./wp-content/uploads/2021/10hidrogeno-acido-graso.png)
 
 A groso modo para no alargarnos, es un tipo de ayuno que se centra en quemar más grasa porque el cuerpo «roba» trozos de las grasas quemándolas para crear agua porque… no le damos agua.
 
@@ -379,15 +338,17 @@ Una de las cosas que me di cuenta haciendo una dieta alta en grasas (casi sin ca
 
 Así que desde que como alto en grasas y ayuno, los carbohidratos fibrosos sólo por la noche y además me tomo un suplemento de melatonina como espaldo.
 
-[![ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdVltdHhPRlZxTWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA3Nw=)](https://www.amazon.es/dp/B076CGCBR4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...')
+Ahora mismo rebajado
 
-[ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...](https://www.amazon.es/dp/B076CGCBR4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...')
+[![ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdVltdHhPRlZxTWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY3MQ=)](https://www.amazon.es/dpB076CGCBR4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...")
+
+[ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...](https://www.amazon.es/dp/B076CGCBR4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ANA MARIA LAJUSTICIA - Triptófano con Melatonina, Magnesio y Vit.B6, 60 Comprimidos - Favorece el...")
 
 Este es el que tomo yo.
 
-13,92 €
+12,30 €
 
-[Comprar en Amazon](https://www.amazon.es/dp/B076CGCBR4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B076CGCBR4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
 Con esto duermo mejor y además la sensación de estar saciado también dura más.
 
@@ -476,13 +437,13 @@ A mí me encantan las bebidas energéticas como Monster o Red Bull pero casi nun
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Red Bull Bebida Energética, Regular, 8 x 250ml](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGd1FsZFllazh4TFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA3Nw=)](https://www.amazon.es/dp/B01IU57ZBI?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=pack%20red%20bull 'Red Bull Bebida Energética, Regular, 8 x 250ml')
+[![Red Bull Bebida Energética, Regular, 8 x 250ml](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGd1FsZFllazh4TFV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY3MQ=)](https://www.amazon.es/dpB01IU57ZBI?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=pack%20red%20bull "Red Bull Bebida Energética, Regular, 8 x 250ml")
 
-[Red Bull Bebida Energética, Regular, 8 x 250ml](https://www.amazon.es/dp/B01IU57ZBI?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=pack%20red%20bull 'Red Bull Bebida Energética, Regular, 8 x 250ml')
+[Red Bull Bebida Energética, Regular, 8 x 250ml](https://www.amazon.es/dp/B01IU57ZBI?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=pack%20red%20bull "Red Bull Bebida Energética, Regular, 8 x 250ml")
 
-7,59 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+8,25 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B01IU57ZBI?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=pack%20red%20bull 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B01IU57ZBI?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=pack%20red%20bull "Comprar en Amazon")
 
 Lo haría si fueran una bebida permitida en ayuno pero desgraciadamente **no lo son** por lo que hemos dicho de los picos de insulina que nos puede causar aunque no haya calorías.
 
@@ -490,13 +451,13 @@ Cambia la cosa si es una bebida con Steva que ([en teoría](https://blog.supplys
 
 Bestseller No. 1
 
-[![Green Cola 24 Latas - 33Cl](https://pau.ninja/wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNGFub3RUbnBqWlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyODkyMDA3Nw=)](https://www.amazon.es/dp/B08Q8QK8CM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=green%20cola%20stevia 'Green Cola 24 Latas - 33Cl')
+[![Green Cola 24 Latas - 33Cl](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNGFub3RUbnBqWlV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA2NDY3MQ=)](https://www.amazon.es/dpB08Q8QK8CM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=green%20cola%20stevia "Green Cola 24 Latas - 33Cl")
 
-[Green Cola 24 Latas - 33Cl](https://www.amazon.es/dp/B08Q8QK8CM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=green%20cola%20stevia 'Green Cola 24 Latas - 33Cl')
+[Green Cola 24 Latas - 33Cl](https://www.amazon.es/dp/B08Q8QK8CM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=green%20cola%20stevia "Green Cola 24 Latas - 33Cl")
 
-31,99 € ![Amazon Prime](https://pau.ninja/wp-content/plugins/aawp/assets/img/icon-check-prime.svg)
+31,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B08Q8QK8CM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=green%20cola%20stevia 'Comprar en Amazon')
+[Comprar en Amazon](https://www.amazon.es/dp/B08Q8QK8CM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=green%20cola%20stevia "Comprar en Amazon")
 
 ## Cómo romper un ayuno intermitente
 
@@ -537,7 +498,7 @@ Que más. ¿Os acordáis de las [contraindicaciones](#Contraindicaciones)? pues 
 - Almendras y anacardos.
 - Mariscos.
 
-Joer Pau. Dime alguna cosa que si pueda comer, ¿no? *Tranqui*.
+Joer Pau. Dime alguna cosa que si pueda comer, ¿no? _Tranqui_.
 
 ### Comer proteina magra
 
@@ -607,3 +568,93 @@ Depende del protocolo, pero el ayuno se puede repetir diariamente. Si se trata d
 ### ¿Cuáles son los alimentos permitidos?
 
 Ninguno. Sólo agua o [bebidas permitidas](#Bebidas_permitidas_en_el_ayuno_intermitente) que no produzcan un pico de insulina o lleven calorías.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en youtube](./wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/ayuno-intermitente-experiencias/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14963,"title":"Las%208%20ventajas%20%2B%203%20pasos%20para%20seguir%20un%20AYUNO%20intermitente","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/10\\/persona-con-hambre.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

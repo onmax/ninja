@@ -1,18 +1,25 @@
 ---
-title: "Con un par de huevos (de gallinas camperas) La falacia de los huevos... no tan \"felices\" como piensas"
+title: "Con un par de huevos (de gallinas camperas)"
+url: https://pau.ninja/huevos-de-gallinas-camperas
+slug: huevos-de-gallinas-camperas
+categories: 
+- slug: nutricion
+    label: Nutrición
+  - slug: mitos-nutricionales
+    label: Mentiras nutricionales
 image: persona-con-un-huevo.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2021/11/persona-con-un-huevo.jpeg
 published: 2021-11-01T09:18:44+00:00
 modified: 2023-04-26T16:50:17+00:00
+scrappedAt: 2024-10-14T09:20:59.194Z
 audioLink: https://www.ivoox.com/con-par-huevos-de-gallinas-camperas_md_77907451_wp_1.mp3
-slug: huevos-de-gallinas-camperas
+bibliography: []
 ---
-
-[https://www.ivoox.com/con-par-huevos-de-gallinas-camperas_md_77907451_wp_1.mp3](https://www.ivoox.com/con-par-huevos-de-gallinas-camperas_md_77907451_wp_1.mp3)
+[https://www.ivoox.com/con-par-huevos-de-gallinas-camperas\_md\_77907451\_wp\_1.mp3](https://www.ivoox.com/con-par-huevos-de-gallinas-camperas_md_77907451_wp_1.mp3)
 
 Echando la vista atrás, durante esos 6 años en los que no comía carne, si pude mantener mi salud fue por la burrada de huevos que comía.
 
-Después me hacía vegano un tiempo, entonces [notaba malas consecuencias para la salud](https://pau.ninja/consecuencias-del-veganismo/) (algo empezaba a no funcionar) y me veía forzado a volver a la dieta vegetariana.
+Después me hacía vegano un tiempo, entonces [notaba malas consecuencias para la salud](./consecuencias-del-veganismo) (algo empezaba a no funcionar) y me veía forzado a volver a la dieta vegetariana.
 
 Lo que me salvaba en el periodo en el que no comía carne, eran los huevos. O más concretamente, las yemas de los huevos, porque sin exagerar **los huevos son el multivitamínico de la naturaleza**.
 
@@ -24,37 +31,21 @@ Hay casos de personas que se comían el [doble](https://www.directoalpaladar.com
 
 «Es rarísimo que ese hombre que se comía 25 huevos al día estaba sano… a pesar de todo el colesterol que tienen los huevos».
 
-Ya hemos desmentido [la gran mentira del colesterol](https://pau.ninja/la-gran-mentira-del-colesterol/) (#270) y cómo **el LDL sigue siendo tan bueno como necesario** para la vida humana.
+Ya hemos desmentido [la gran mentira del colesterol](./la-gran-mentira-del-colesterol) (#270) y cómo **el LDL sigue siendo tan bueno como necesario** para la vida humana.
 
 De todas formas la fuente que vayamos a consumir de colesterol será igual de importante, porque nos puede afectar en muchos otros marcadores.
 
-Por ejemplo, de esos 12 huevos que comía **más** los montones de fruta y [verdura (que ya no como)](https://pau.ninja/no-comer-verduras/), se tradujo en una inflamación del intestino de caballo.
+Por ejemplo, de esos 12 huevos que comía **más** los montones de fruta y [verdura (que ya no como)](./no-comer-verduras), se tradujo en una inflamación del intestino de caballo.
 
-![cómic longevidad](https://pau.ninja/wp-content/uploads/2021/10/comic-longevidad.png)
+![cómic longevidad](./wp-content/uploads/2021/10comic-longevidad.png)
 
 No sólo parecía un globo, sino un globo preñado.
 
 Las claras de los huevos están repletas de antinutrientes como las lectinas, precisamente para proteger a la yema que tendría que ser un pollito.
 
-La horrenda cantidad de huevos que me metía era uno de los problemas por estas lectinas, pero también por el montón de frutos secos con una [lista de antinutreintes aún más grande](https://pau.ninja/antinutrientes-lista/).
+La horrenda cantidad de huevos que me metía era uno de los problemas por estas lectinas, pero también por el montón de frutos secos con una [lista de antinutreintes aún más grande](./antinutrientes-lista).
 
 Pero como mi ex no dejaba de repetirme, no todos los huevos son iguales. Y hoy tenemos que indagar un poco más en el etiquetado de el multivitamínico más natural.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Los huevos son sanos](#Los_huevos_son_sanos 'Los huevos son sanos')
-- [Clasificación de los huevos de gallina](#Clasificacion_de_los_huevos_de_gallina 'Clasificación de los huevos de gallina')
-- [Tipos de huevos de gallina](#Tipos_de_huevos_de_gallina 'Tipos de huevos de gallina')
-  - [Huevos de gallinas camperas](#Huevos_de_gallinas_camperas 'Huevos de gallinas camperas')
-  - [Huevos de gallinas sin antibióticos](#Huevos_de_gallinas_sin_antibioticos 'Huevos de gallinas sin antibióticos')
-  - [Huevos de gallinas con dieta vegetariana](#Huevos_de_gallinas_con_dieta_vegetariana 'Huevos de gallinas con dieta vegetariana')
-- [Comprar huevos de gallinas en libertad](#Comprar_huevos_de_gallinas_en_libertad 'Comprar huevos de gallinas en libertad')
-  - [Qué huevos comprar](#Que_huevos_comprar 'Qué huevos comprar')
-  - [Sabor del huevo](#Sabor_del_huevo 'Sabor del huevo')
-  - [Color de la yema del huevo](#Color_de_la_yema_del_huevo 'Color de la yema del huevo')
-- [Cómo comer los mejores huevos](#Como_comer_los_mejores_huevos 'Cómo comer los mejores huevos')
 
 ## Los huevos son sanos
 
@@ -66,13 +57,13 @@ Desafortunadamente su densidad nutricional depende directamente de lo que se ali
 
 Si una docena de huevos te cuesta 4€, otra te cuesta 1,5€ y vas justo de presupuesto, tirarás por los baratos, claro. Sólo que sepas que aunque esos **huevos parezcan iguales y técnicamente sean el mismo producto… no lo son**. En absoluto.
 
-Es parecido a lo que sucede con la carne de pasto. Vemos una variación **de 3 a 10 veces** en [ciertas](https://www.institutohuevo.com/composicion-nutricional-del-huevo/) vitaminas y ácidos grasos. Esto significa que muchas dietas incorporan el huevo [como alimento que podría ser sano](https://pau.ninja/alimentos-mas-sanos-del-mundo/), pero al comprarlo de mala calidad se están disparando en el pie.
+Es parecido a lo que sucede con la carne de pasto. Vemos una variación **de 3 a 10 veces** en [ciertas](https://www.institutohuevo.com/composicion-nutricional-del-huevo/) vitaminas y ácidos grasos. Esto significa que muchas dietas incorporan el huevo [como alimento que podría ser sano](./alimentos-mas-sanos-del-mundo), pero al comprarlo de mala calidad se están disparando en el pie.
 
 Si sabemos comprar huevos de gallina que valen la pena, claro que estamos pagando 3 veces más por esa docena de huevos, pero estamos obteniendo **mucho más** que 3 veces de calidad a nivel vitamínico.
 
 O sea que pagando esos 4€ por la docena incluso te está saliendo barato en cuanto a densidad nutricional.
 
-Te sale caro si lo único que buscas es quedarte «físicamente lleno», que ya sabemos que no es lo mismo que estar saciado (hormonal), como vimos en el arte de [sólo comer 1 vez al día](https://pau.ninja/comer-una-vez-al-dia/) (#214).
+Te sale caro si lo único que buscas es quedarte «físicamente lleno», que ya sabemos que no es lo mismo que estar saciado (hormonal), como vimos en el arte de [sólo comer 1 vez al día](./comer-una-vez-al-dia) (#214).
 
 Si lo único que quieres es llenarte la barriga, entonces cómprate una bolsa de patatas.
 
@@ -113,7 +104,7 @@ En algunos paquetes, a parte de la numeración que hay en el huevo, también se 
 
 Todos estos conceptos suenan muy bonitos pero a su vez **no significan nada**.
 
-![tipos de huevos mercadona](https://pau.ninja/wp-content/uploads/2021/11/tipos-de-huevos-mercadona.jpeg)
+![tipos de huevos mercadona](./wp-content/uploads/2021/11tipos-de-huevos-mercadona.jpeg)
 
 Que un pollo sea orgánico sólo quiere decir que ha sido alimentado con piensos certificados de esta manera. Imagínate que te vendo Opio y te digo que tiene un certificado 100% orgánico. Eso no hace que de pronto esta droga sea 100% buena para tu salud.
 
@@ -138,7 +129,7 @@ El principal criterio para que las consideremos camperas (_free-range_) es bási
 
 Pero claro, cuando salió la ley en 2004 no significaba que las gallinas tuvieran que estar deambulando por el campo mientras comían alimentos totalmente naturales. A nivel práctico podía ser una granja enorme de gallinas con una puerta abierta que diera acceso a un espacio abierto.
 
-![espacio gallina campera](https://pau.ninja/wp-content/uploads/2021/11/espacio-gallina-campera.jpg)
+![espacio gallina campera](./wp-content/uploads/2021/11espacio-gallina-campera.jpg)
 
 Foto: representación de lo que representan 4m2 para una gallina. No está mal.
 
@@ -162,7 +153,7 @@ Hasta ahora en los cartones de gallina nos podían poner «sin antibióticos» o
 
 La realidad es que mientras estas hormonas **no estuvieran presentes en el momento del sacrificio** o de la carne en el caso de que se analizara en un laboratorio ya «no nos estarían mintiendo».
 
-![meme gallina antibióticos](https://pau.ninja/wp-content/uploads/2021/11/meme-gallina-antibioticos.jpg)
+![meme gallina antibióticos](./wp-content/uploads/2021/11meme-gallina-antibioticos.jpg)
 
 Sería una de estas medias verdades que para mí es una mentira igual. O peor, porque me la intentan colar y me tratan de tonto.
 
@@ -176,11 +167,11 @@ Está genial para sacarnos un problema menos, pero se hace raro ver algunas otra
 
 Una aberración que no se ve mucho pero yo si he llegado a ver, es la de los huevos de gallina que son las que son alimentadas de forma vegetariana y así lo pueden poner en el paquete.
 
-Es una maldita aberración porque [al igual que el ser humano](https://pau.ninja/el-ser-humano-es-carnivoro/), **la gallina no es vegetariana**. De hecho es todo lo contrario.
+Es una maldita aberración porque [al igual que el ser humano](./el-ser-humano-es-carnivoro), **la gallina no es vegetariana**. De hecho es todo lo contrario.
 
-Se alimentan de insectos y otras fuentes de proteína de origen animal. Los podemos etiquetar de omnívoros pero el mayor porcentaje [de su dieta es carnívora](https://pau.ninja/dieta-carnivora/)… como son las cosas.
+Se alimentan de insectos y otras fuentes de proteína de origen animal. Los podemos etiquetar de omnívoros pero el mayor porcentaje [de su dieta es carnívora](./dieta-carnivora)… como son las cosas.
 
-![gallina comiendo gusano](https://pau.ninja/wp-content/uploads/2021/11/gallina-comiendo-gusano.jpeg)
+![gallina comiendo gusano](./wp-content/uploads/2021/11gallina-comiendo-gusano.jpeg)
 
 No porque sean caníbales, sino porque comen montones de insectos y gusanos que habría por la naturaleza.
 
@@ -246,7 +237,7 @@ Si os fijáis, especialmente con los huevos de gallinas enjauladas del supermerc
 
 Los que podemos encontrar en una granja, tienen un color naranja intenso. Muy vibrante, casi rojizo.
 
-![comparación yema huevo](https://pau.ninja/wp-content/uploads/2021/11/comparacion-yema-huevo.jpeg)
+![comparación yema huevo](./wp-content/uploads/2021/11comparacion-yema-huevo.jpeg)
 
 ¿A qué se debe? exacto. A la alimentación de las gallinas que influye directamente en los nutrientes que se pueden encontrar en los huevos que ponen.
 
@@ -263,3 +254,89 @@ Estará obligado a poner la numeración de los huevos aunque sea un tipo en el m
 O píllate el coche y te vas por las afueras y donde veas un poco de campo vallado con gallinas, llamas a la casa y preguntas.
 
 Parece una tontería o demasiado esfuerzo para unos pequeños huevos, pero si los huevos son el multivitamínico para la naturaleza podría ser que preguntar por esos huevos fuera de las mejores inversiones que estuvieras haciendo para tu salud.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Nutrición](./nutricion)  
+O si quieres ser más específico:[Mentiras nutricionales](./mitos-nutricionales)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/huevos-de-gallinas-camperas/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":12959,"title":"La%20VERDAD%20sobre%20los%20huevos%20de%20gallinas%20camperas","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2021\\/11\\/persona-con-un-huevo.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

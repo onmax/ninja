@@ -1,14 +1,19 @@
 ---
-title: "Adiós SL española… hola LLC en Estados Unidos Qué es y cómo a abrir una LLC en USA desde España"
+title: "Adiós SL española… hola LLC en Estados Unidos"
+url: https://pau.ninja/abrir-llc-en-usa-desde-espana
+slug: abrir-llc-en-usa-desde-espana
+categories: 
+- slug: impuestos
+    label: Impuestos
 image: persona-con-llc-en-eeuu.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/02/persona-con-llc-en-eeuu.jpeg
 published: 2022-02-18T17:31:41+00:00
 modified: 2024-06-20T06:08:11+00:00
+scrappedAt: 2024-10-14T09:20:52.144Z
 audioLink: https://www.ivoox.com/_md_83427909_wp_1.mp3
-slug: abrir-llc-en-usa-desde-espana
+bibliography: []
 ---
-
-[https://www.ivoox.com/\_md_83427909_wp_1.mp3](https://www.ivoox.com/_md_83427909_wp_1.mp3)
+[https://www.ivoox.com/\_md\_83427909\_wp\_1.mp3](https://www.ivoox.com/_md_83427909_wp_1.mp3)
 
 Ninjas de la vida… he abierto una empresa en Estados Unidos.
 
@@ -18,17 +23,17 @@ Todo muy fácil. **Sin zonas grises** (igual que en España, vamos).
 
 Si os suena muy bonito para ser verdad, significa que tenéis que dejar de mirar de cerca las mi3rdas burocráticas y políticas españolas (que cada vez van a peor) y empezar a plantearos a salir de de ese infierno fiscal que es España.
 
-Algunos me diréis, «pero Pau, ¿no [tenías ya una empresa en Estonia](https://pau.ninja/crear-empresa-en-estonia/)? ¿qué pasa con ella? ¿vas a cerrarla?» para nada. La mantengo. Mantengo la sociedad estoniana.
+Algunos me diréis, «pero Pau, ¿no [tenías ya una empresa en Estonia](./crear-empresa-en-estonia)? ¿qué pasa con ella? ¿vas a cerrarla?» para nada. La mantengo. Mantengo la sociedad estoniana.
 
 Si he abierto la LLC ha para tener un plan B a las políticas totalitarias, algunas veces más sutiles que otras, pero **crecientes** que empezamos a ver en la Unión Europea.
 
 Estoy seguro que si la UE empieza a apretar por ahí, el liberalismo de Estonia haría que fuera el último país en caer a sus garras… pero caería. Así que como buen ninja de la vida que soy, me quiero avanzar a los acontecimientos teniendo un seguro.
 
-![cómico impuestos](https://pau.ninja/wp-content/uploads/2020/10/comico-impuestos.png)
+![cómico impuestos](./wp-content/uploads/2020/10comico-impuestos.png)
 
 Si me ponen una «homogenización fiscal» en Europa de modo que todas las empresas paguen un 15% plano o se paguen impuestos por pasaporte… yo quiero estar preparado.
 
-Esta estrategia de LLC, este «seguro» me cuesta **menos de $250 al año**. Y desde que la abrí, este plan B va pillando un rol cada vez más central en mi estrategia fiscal de ciudadano soberano para [ser libre](https://pau.ninja/como-ser-libre-individuo-soberano/). Como esa amante a la que cada vez le prestas más atención que a tu mujer.
+Esta estrategia de LLC, este «seguro» me cuesta **menos de $250 al año**. Y desde que la abrí, este plan B va pillando un rol cada vez más central en mi estrategia fiscal de ciudadano soberano para [ser libre](./como-ser-libre-individuo-soberano). Como esa amante a la que cada vez le prestas más atención que a tu mujer.
 
 Y es que las empresas LLC de Estados Unidos son más bonitas que… despertarte de buena mañana siendo mamado:
 
@@ -42,39 +47,11 @@ Mi (ahora) [asesor](#Mejores_gestores_para_abrir_empresa_LLC) de la «LLC ninja�
 
 Yo ya había intentado abrir una LLC con unos asesores españoles residentes en Estados Unidos, pero tuve una mala experiencia cuando después de pagar… hicieron lo mismos que mis últimos asesores de Estonia… y que mi ex.
 
-![meme asesores y contables de empresas](https://pau.ninja/wp-content/uploads/2022/02/meme-asesores-y-contables-de-empresas.jpg)
+![meme asesores y contables de empresas](./wp-content/uploads/2022/02meme-asesores-y-contables-de-empresas.jpg)
 
 Medio desaparecieron sólo respondiendo cuando era estrictamente esencial o cuándo yo era un pesado preguntando.
 
 Lo que os cuento hoy, **no sólo es mi experiencia personal** abriendo una LLC, sino que además es un **paseo completo** a lo que me ha enseñado el asesor sobre las opciones que tiene cualquier no-residente en Estados Unidos, y seguramente residente en España u otro sitio que quiera abrir una empresa que no de por _cul0_.
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Qué es una LLC](#Que_es_una_LLC 'Qué es una LLC')
-  - [Motivos por los que abrir una LLC](#Motivos_por_los_que_abrir_una_LLC 'Motivos por los que abrir una LLC')
-  - [Para quien es una LLC](#Para_quien_es_una_LLC 'Para quien es una LLC')
-  - [Ventajas de una LLC](#Ventajas_de_una_LLC 'Ventajas de una LLC')
-  - [Desventajas de una LLC](#Desventajas_de_una_LLC 'Desventajas de una LLC')
-- [Mejores Estados de USA para abrir una LLC](#Mejores_Estados_de_USA_para_abrir_una_LLC 'Mejores Estados de USA para abrir una LLC')
-  - [Florida](#Florida 'Florida')
-  - [Delaware](#Delaware 'Delaware')
-  - [Wyoming](#Wyoming 'Wyoming')
-  - [New Mexico](#New_Mexico 'New Mexico')
-- [Preguntas frecuentes de crear una LLC](#Preguntas_frecuentes_de_crear_una_LLC 'Preguntas frecuentes de crear una LLC')
-  - [¿Pagaría IRPF en EEUU?](#%C2%BFPagaria_IRPF_en_EEUU '¿Pagaría IRPF en EEUU?')
-  - [¿Qué impuestos paga una LLC?](#%C2%BFQue_impuestos_paga_una_LLC '¿Qué impuestos paga una LLC?')
-  - [¿Cómo tributan las LLC?](#%C2%BFComo_tributan_las_LLC '¿Cómo tributan las LLC?')
-  - [¿Tener LLC en España es legal?](#%C2%BFTener_LLC_en_Espana_es_legal '¿Tener LLC en España es legal?')
-  - [¿Cuánto cuesta abrir una LLC?](#%C2%BFCuanto_cuesta_abrir_una_LLC '¿Cuánto cuesta abrir una LLC?')
-  - [¿Cómo cerrar la LLC y qué precio tiene?](#%C2%BFComo_cerrar_la_LLC_y_que_precio_tiene '¿Cómo cerrar la LLC y qué precio tiene?')
-  - [¿Cómo abrir cuenta bancaria para la LLC?](#%C2%BFComo_abrir_cuenta_bancaria_para_la_LLC '¿Cómo abrir cuenta bancaria para la LLC?')
-  - [¿Cómo tienen que ser los balances del banco?](#%C2%BFComo_tienen_que_ser_los_balances_del_banco '¿Cómo tienen que ser los balances del banco?')
-  - [¿Qué beneficio se lleva Estados Unidos de crear LLC?](#%C2%BFQue_beneficio_se_lleva_Estados_Unidos_de_crear_LLC '¿Qué beneficio se lleva Estados Unidos de crear LLC?')
-  - [¿Puedo usar la LLC para sacar el visado para vivir en USA?](#%C2%BFPuedo_usar_la_LLC_para_sacar_el_visado_para_vivir_en_USA '¿Puedo usar la LLC para sacar el visado para vivir en USA?')
-- [Cómo abrir una LLC en USA](#Como_abrir_una_LLC_en_USA 'Cómo abrir una LLC en USA')
-- [Mejores gestores para abrir empresa LLC](#Mejores_gestores_para_abrir_empresa_LLC 'Mejores gestores para abrir empresa LLC')
 
 ## Qué es una LLC
 
@@ -86,7 +63,7 @@ Que no digo que vayas a hacer nada ilegal, pero a mí me da cierta tranquilidad.
 
 En España si eres autónomo ya sabes lo que te toca. No sólo pagar mucho… también toda la responsabilidad legal te la comes con patatas. Vamos, que en el aspecto de responsabilidad es como una Sociedad Limitada pero por todo lo demás… nada que ver.
 
-![meme compara sl españa llc usa](https://pau.ninja/wp-content/uploads/2022/02/meme-compara-sl-espana-llc-usa.jpg)
+![meme compara sl españa llc usa](./wp-content/uploads/2022/02meme-compara-sl-espana-llc-usa.jpg)
 
 Son como el día y la noche. Como un vegano y un carnívoro (la SL sería un vegano, lógico). La LLC es la diosa todo poderosa definitiva, y si os listo los países donde se pueden abrir empezaréis a deducir porque en España no existe esta figura:
 
@@ -123,7 +100,7 @@ Son ideales para el perfil de **emprendedor digital** que facturan a clientes de
 - Creadores de contenido (hola).
 - Servicios de asesoría y consultoría.
 - Startups tecnologías que buscan financiación.
-- Dueños de tiendas online. Del rollo e-commerce y *dropshipping*.
+- Dueños de tiendas online. Del rollo e-commerce y _dropshipping_.
 - Como plan B (o A) a tu estrategia fiscal… porque h0der, más de 130 países han dicho que [les parece bien](https://www.reuters.com/business/countries-backs-global-minimum-corporate-tax-least-15-2021-07-01/) que se haga pagar un mínimo de 15% en sociedades, pero Estados como el estoniano, húngaro o irlandés se niegan a firmar algo así. Países con poca tributación en sociedades que conocen de buena mano lo bueno que es para la economía que haya pocas presiones fiscales en las empresas, que al fin y al cabo son las que crean la economía de los países. Son los agentes económicos los que crean empleo y riqueza, no los políticos o lo que recolecta el Estado en impuestos. La LLC me da seguridad en el caso que algún día tenga que cerrar mi empresa estoniana como hice con la búlgara.
 
 ### Ventajas de una LLC
@@ -165,27 +142,27 @@ Pero aunque se pueda abrir en cualquiera, hay cuatro (cuaaaaatro) Estados que so
 
 **En qué destaca**
 
-[Florida](https://pau.ninja/abrir-llc-en-usa-desde-espana/#Florida)
+[Florida](./abrir-llc-en-usa-desde-espana#Florida)
 
 Rapidez y buena comunicación con el gobierno. Con buena agilidad judicial y papeleos.
 
-[Delaware](https://pau.ninja/abrir-llc-en-usa-desde-espana/#Delaware)
+[Delaware](./abrir-llc-en-usa-desde-espana#Delaware)
 
 Ideal para los que quieren atraer inversores para levantar capital.
 
-[Wyoming](https://pau.ninja/abrir-llc-en-usa-desde-espana/#Wyoming)
+[Wyoming](./abrir-llc-en-usa-desde-espana#Wyoming)
 
 Beneficios de ahorro de una serie de impuestos pero sólo afecta a los residentes americanos.
 
-[New Mexico](https://pau.ninja/abrir-llc-en-usa-desde-espana/#New_Mexico)
+[New Mexico](./abrir-llc-en-usa-desde-espana#New_Mexico)
 
-Es la más económica a efectos de *fees* para la renovación anual.
+Es la más económica a efectos de _fees_ para la renovación anual.
 
 Si tu foco van a ser clientes de X Estado, lo mejor sería abrir la LLC en ese Estado, es decir, en local (por temas de reputación). Lo que si es verdad es que Delaware es el único que es como «aceptado» y bien visto por todos los Estados de Estados Unidos.
 
 En el sentido de que **Delaware siempre se ve con buenos ojos**.
 
-![meme llc en delaware](https://pau.ninja/wp-content/uploads/2022/02/meme-llc-en-delaware.jpg)
+![meme llc en delaware](./wp-content/uploads/2022/02meme-llc-en-delaware.jpg)
 
 Del rollo: «ah mira, este pavo poco tonto. La tiene en Delaware por todos los beneficios que ofrece».
 
@@ -365,18 +342,18 @@ En cambio la LLC, en el momento que se pasan los balances anuales, **ese dinero 
 
 Eso es porque una LLC se considera un _pass-through entity_.
 
-![meme de una LLC](https://pau.ninja/wp-content/uploads/2022/02/meme-de-una-llc.jpg)
+![meme de una LLC](./wp-content/uploads/2022/02meme-de-una-llc.jpg)
 
 Esto significa que **una LLC nunca paga impuestos como empresa**. Al contrario de una corporación, que sí.
 
-Lo que pasa es que al no pagar impuestos como empresa **se considera que las ganancias anuales son directamente del dueño**. Aquí el *quid* de la cuestión.
+Lo que pasa es que al no pagar impuestos como empresa **se considera que las ganancias anuales son directamente del dueño**. Aquí el _quid_ de la cuestión.
 
 Esto significa que **terminarías pagando por IRPF igualmente**.
 
 ¿Te ahorrarías los costes de autónomo o de abrir una SL española? técnicamente sí, pero si terminas pagando por IRPF tiene sentido [cambiar de residencia fiscal](https://residenciasfiscales.com/). Ir a uno de esos países en los que cobrar por ingresos externos **tributan al 0%**.
 
 - Panamá, Costa Rica o Paraguay donde se paga un 0% por ingresos extranjeros (como sería el caso con una LLC).
-- Ser un «turista perpetuo» para [no pagar impuestos en ningún país](https://pau.ninja/como-no-pagar-impuestos-legalmente/).
+- Ser un «turista perpetuo» para [no pagar impuestos en ningún país](./como-no-pagar-impuestos-legalmente).
 - Georgia que a mi me gusta por las cuentas bancarias _offshore_ pero no para vivir.
 - Chipre, donde viví 2 meses y tuve más que suficiente… a lo mejor es que vivir en el norte de Europa me ha vuelto blando como el tofu.
 
@@ -390,7 +367,7 @@ No hay una ley que diga que no se puede, pero tampoco hay una ley clara que diga
 
 Si vas a hacerlo así asegúrate **tener al menos un cliente americano**, porque el problema reside (y canta) cuando el 100% de tu actividad está en España.
 
-Y preguntaréis, «pero Pau, ¿y si la [abro anónima a un Estado](https://pau.ninja/abrir-llc-en-usa-desde-espana/#Mejores_Estados_de_USA_para_abrir_una_LLC) dónde lo permita?». Pues mira lo que te digo. Podría ser hasta contraproducente porque si te investigaran a fondo, la Agencia Tributaria podría decir «mira el cabr0n este, que lo tiene en anónimo. Algo ocultará. Vamos a indagar».
+Y preguntaréis, «pero Pau, ¿y si la [abro anónima a un Estado](./abrir-llc-en-usa-desde-espana#Mejores_Estados_de_USA_para_abrir_una_LLC) dónde lo permita?». Pues mira lo que te digo. Podría ser hasta contraproducente porque si te investigaran a fondo, la Agencia Tributaria podría decir «mira el cabr0n este, que lo tiene en anónimo. Algo ocultará. Vamos a indagar».
 
 Si no te investigan, es verdad que tienes un proxy más, una capa más de anonimato de cara a fuera de USA…
 
@@ -422,7 +399,7 @@ Yo tengo el primero.
 
 ### ¿Cómo tienen que ser los balances del banco?
 
-A mí, a parte del coste lo que me flipó fue **la contabilidad que es inexistente**. Lo importante es que hay un balance anual y se debería declarar cómo beneficio la diferencia de restar *ventas – gastos*.
+A mí, a parte del coste lo que me flipó fue **la contabilidad que es inexistente**. Lo importante es que hay un balance anual y se debería declarar cómo beneficio la diferencia de restar _ventas – gastos_.
 
 Realmente Estados Unidos únicamente quieren una notificación de los movimientos de capital al miembro de forma directa o indirecta. ¿Por qué? para que en un momento dado poder informar si el país lo solicita al país de residencia del miembro.
 
@@ -457,13 +434,13 @@ Permitir a las empresas crecer y que aporten mas PIB e incluso pasar a tener emp
 Abrir una LLC en Estados Unidos no sólo te permite pagar un 0% de impuestos y no tener que preocuparte la contabilidad, también son unos pasos sencillos.
 
 - Encontrar [asesores responsables](#Mejores_gestores_para_abrir_empresa_LLC).
-- Elegir [el mejor Estado](https://pau.ninja/abrir-llc-en-usa-desde-espana/#Mejores_Estados_de_USA_para_abrir_una_LLC) donde queremos abrir la LLC. Sería saber en qué estado puedo abrir las empresas según el tipo de actividad.
+- Elegir [el mejor Estado](./abrir-llc-en-usa-desde-espana#Mejores_Estados_de_USA_para_abrir_una_LLC) donde queremos abrir la LLC. Sería saber en qué estado puedo abrir las empresas según el tipo de actividad.
 - Elegir el nombre de la LLC.
 - Hay que nombrar un agente registrado, que es la [empresa o asesores](#Mejores_gestores_para_abrir_empresa_LLC) que la registran la LLC y tienen potestad para hacerlo, lógico.
 - El agente registrado registra la LLC con el nombre y el Estado en el que se ha indicado.
 - Se tramita el Tax ID (también conocido como EIN), que se necesitará para abrir las cuentas bancarias y contratar personal si se quiere.
 - Si hay más de un socio aquí se crearía el acuerdo operacional.
-- Cuando tenemos todo esto, ya podemos [abrir la cuenta bancaria](https://pau.ninja/abrir-llc-en-usa-desde-espana/#%C2%BFComo_abrir_cuenta_bancaria_para_la_LLC).
+- Cuando tenemos todo esto, ya podemos [abrir la cuenta bancaria](./abrir-llc-en-usa-desde-espana#%C2%BFComo_abrir_cuenta_bancaria_para_la_LLC).
 - Aquí según en qué tipo de actividad se haya registrado la empresa, quizás vamos a necesitar distintos tipos de permisos o licencias. A mí no me hizo falta, pero sí que se requeriría en algunos tipos de industria del rollo: agricultura, bebidas alcohólicas, armas, aviación…
 
 ## Mejores gestores para abrir empresa LLC
@@ -471,3 +448,93 @@ Abrir una LLC en Estados Unidos no sólo te permite pagar un 0% de impuestos y n
 Actualización: hubo problemas de comunicación con los primeros asesores que tuve, pero ya llevo +1 año con nuevos asesores (también españoles) con los que estoy muy contento.
 
 Os dejo el [contacto de servicio de asesoramiento inicial para crear la empresa LLC](https://residenciasfiscales.com/crear-una-empresa-llc/) y para mantenerla.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-twitter.png) ![compartir en youtube](https://pau.ninja/wp-content/uploads/2022/06compartir-en-youtube.png)
+
+Mira mis otros artículos sobre: [Impuestos](./impuestos)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/abrir-llc-en-usa-desde-espana/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"0","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"0","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":13474,"title":"3%20pasos%20%2B%2010%20verdades%20para%20abrir%20una%20LLC%20desde%20Espa%C3%B1a","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/02\\/persona-con-llc-en-eeuu.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

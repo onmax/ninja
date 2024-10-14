@@ -1,13 +1,18 @@
 ---
-title: "3 años en Estonia: ¿es el mejor país del mundo para vivir? (no todo son los impuestos)"
+title: "3 años en Estonia: ¿es el mejor país del mundo para vivir?"
+url: https://pau.ninja/vivir-en-estonia
+slug: vivir-en-estonia
+categories: 
+- slug: estilo-de-vida
+    label: Estilo de vida
 image: persona-viviendo-en-estonia.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/02/persona-viviendo-en-estonia.jpeg
 published: 2023-02-08T08:54:48+00:00
 modified: 2023-11-08T07:36:36+00:00
+scrappedAt: 2024-10-14T09:20:12.972Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64994427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312658517-44100-2-22a179e3ec3b3.mp3
-slug: vivir-en-estonia
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/64994427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312658517-44100-2-22a179e3ec3b3.mp3](https://anchor.fm/s/98566448/podcast/play/64994427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312658517-44100-2-22a179e3ec3b3.mp3)
 
 ¿Alguna vez os ha pasado que sales con alguien y no te das cuenta de que te has enamorado hasta que ha pasado bastante tiempo? Te viene de golpe. Te levantas un día diciéndote «h0stia. Estoy enamorado», pues es lo que me ha pasado últimamente con… **Estonia**.
@@ -16,7 +21,7 @@ Soy un exiliado (fiscal) en Estonia, pero aunque me mudé por los impuestos, ha 
 
 Tallin (la capital) ha sido mi segundo hogar desde hace un par de años desde que [me hice residente de Estonia](#Como_ser_residente_de_Estonia) y aunque he hecho todo lo posible para encontrar un país más perfecto que Estonia (bajo mis estándares)… no lo he conseguido.
 
-![plaza de independencia tallin](https://pau.ninja/wp-content/uploads/2023/02/plaza-de-independencia-tallin.jpeg)
+![plaza de independencia tallin](./wp-content/uploads/2023/02plaza-de-independencia-tallin.jpeg)
 
 De [mi Instagram](https://www.instagram.com/p/CWAXX-9DxbB/): un calvo otoñal en la plaza de la independencia en Tallin, la capital de Estonia. Mi patria nórdica.
 
@@ -28,66 +33,66 @@ Si consideramos que ningún Estado es perfecto y que además cambiará a medida 
 
 Impuestos
 
-🟢
+🟢  
 De 0% a 20%
 
 Seguridad
 
-🟢
+🟢  
 Muy buena
 
 Coste de la vida
 
-🟠
+🟠  
 Cada vez más caro debido al incremento de calidad de vida (buen indicador)
 
 Relaciones sociales
 
-🟢
+🟢  
 Raras de entender al principio pero ya he «cultivado» las mías
 
 Calidad del aire y ruido
 
-🟢
+🟢  
 Muy controlado con zonas verdes y tranquilas
 
 Seguridad alimentaria
 
-🟢
+🟢  
 Sí, una de las cosas buenas de la UE que no tuve en Georgia o Montenegro
 
 Temperatura y clima
 
-🟠
+🟠  
 Los inviernos duros, pero me iría en busca de sol mientras que el verano es una maravilla pasarlo en el norte
 
 Tráfico, infraestructura y transporte
 
-🟢
+🟢  
 100% gratuitos siendo [residente](#Como_ser_residente_de_Estonia) (como es mi caso)
 
 Historia
 
-🟢
+🟢  
 Si son capaces de recordar su historia su futuro será brillante, además con edificios antiguos
 
 Idioma
 
-🟢
+🟢  
 Todo el mundo sabe inglés y hay clases (casi) gratuitas de el idioma ruso y estonio (eesti keel)
 
 Cerca de la familia
 
-🟠
+🟠  
 A un golpe de avión: vuelos directos desde y hacia Barcelona
 
-Hace cuestión de 3 años que vivo en Estonia y 2 años que tengo el DNI de residencia permanente que me da muchos beneficios como transporte público gratis, o incluso la posibilidad de ser un turista perpetuo, [no pagando impuestos en ningún sitio](https://pau.ninja/como-no-pagar-impuestos-legalmente/) (… #320).
+Hace cuestión de 3 años que vivo en Estonia y 2 años que tengo el DNI de residencia permanente que me da muchos beneficios como transporte público gratis, o incluso la posibilidad de ser un turista perpetuo, [no pagando impuestos en ningún sitio](./como-no-pagar-impuestos-legalmente) (… #320).
 
 Es una zona gris, pero que se puede usar. Aunque para esto se necesita tener un [servicio de residencia](#Como_ser_residente_de_Estonia) permanente que comentaré más adelante hoy aquí.
 
 Ya sea porque te pongas a escucharme en el vuelo de 4 horas directo de Barcelona a Tallinn como si simplemente quieres ir de turista, hoy vengo a contaros mi conclusión, opinión y argumento de por qué **vivir en Estonia ha sido de las mejores decisiones** que he podido tomar nunca.
 
-![meme dragonite bandera estonia](https://pau.ninja/wp-content/uploads/2023/02/meme-dragonite-bandera-estonia.jpeg)
+![meme dragonite bandera estonia](./wp-content/uploads/2023/02meme-dragonite-bandera-estonia.jpeg)
 
 Los colores de la bandera de Estonia son muy peculiares: azul, negro y blanco.
 
@@ -102,52 +107,6 @@ Si quieres conocer a gente para hacer vida en Tallin, en [nuestra comunidad](#un
 Si quieres alguien que **te asista** en encontrar piso, trabajo, abogados, escuela para tus hijos, contables, o a organizar tu vida en Estonia… tenemos un servicio de asesoría con Carol: una española que habla estonio, vive en Tallin y se conoce todo el territorio como la palma de su mano.
 
 [Contratar aquí por 146€](https://residenciasfiscales.com/vivir-en-estonia/)
-
-Navega por el contenido
-
-[Toggle](#)
-
-- [Impuestos](#Impuestos 'Impuestos')
-- [Sanidad y educación](#Sanidad_y_educacion 'Sanidad y educación')
-- [Sistema político](#Sistema_politico 'Sistema político')
-- [El caso de la Unión Europea](#El_caso_de_la_Union_Europea 'El caso de la Unión Europea')
-- [Inflación de Estonia](#Inflacion_de_Estonia 'Inflación de Estonia')
-- [Transporte público](#Transporte_publico 'Transporte público')
-- [Cuánto cuesta vivir en Estonia](#Cuanto_cuesta_vivir_en_Estonia 'Cuánto cuesta vivir en Estonia')
-  - [Ingresos por persona](#Ingresos_por_persona 'Ingresos por persona')
-  - [Sueldo mínimo](#Sueldo_minimo 'Sueldo mínimo')
-  - [Sueldo medio](#Sueldo_medio 'Sueldo medio')
-- [Cómo es vivir en Estonia](#Como_es_vivir_en_Estonia 'Cómo es vivir en Estonia')
-  - [Población de Estonia](#Poblacion_de_Estonia 'Población de Estonia')
-  - [Población de Tallin](#Poblacion_de_Tallin 'Población de Tallin')
-  - [Cómo es vivir en Tallinn](#Como_es_vivir_en_Tallinn 'Cómo es vivir en Tallinn')
-  - [Comprar comida de calidad](#Comprar_comida_de_calidad 'Comprar comida de calidad')
-  - [Comida típica de Estonia](#Comida_tipica_de_Estonia 'Comida típica de Estonia')
-  - [Encontrar alojamiento en Tallin](#Encontrar_alojamiento_en_Tallin 'Encontrar alojamiento en Tallin')
-- [Vida nocturna en Tallin](#Vida_nocturna_en_Tallin 'Vida nocturna en Tallin')
-- [Gente local y la vida de cafeteria](#Gente_local_y_la_vida_de_cafeteria 'Gente local y la vida de cafeteria')
-  - [Idiomas de Estonia](#Idiomas_de_Estonia 'Idiomas de Estonia')
-  - [Mujeres de Estonia](#Mujeres_de_Estonia 'Mujeres de Estonia')
-- [Mejor época para viajar a Estonia](#Mejor_epoca_para_viajar_a_Estonia 'Mejor época para viajar a Estonia')
-  - [Playas de Estonia](#Playas_de_Estonia 'Playas de Estonia')
-  - [Estonia en invierno](#Estonia_en_invierno 'Estonia en invierno')
-  - [Estonia en Navidad](#Estonia_en_Navidad 'Estonia en Navidad')
-- [Curiosidades y costumbres de Estonia](#Curiosidades_y_costumbres_de_Estonia 'Curiosidades y costumbres de Estonia')
-  - [Baile típico de Estonia](#Baile_tipico_de_Estonia 'Baile típico de Estonia')
-  - [El acceso a Internet](#El_acceso_a_Internet 'El acceso a Internet')
-  - [Consumo de alcohol en Estonia](#Consumo_de_alcohol_en_Estonia 'Consumo de alcohol en Estonia')
-- [Qué ver en Estonia](#Que_ver_en_Estonia 'Qué ver en Estonia')
-  - [Monumentos de Estonia](#Monumentos_de_Estonia 'Monumentos de Estonia')
-  - [Qué hacer en Tallinn en 2 días](#Que_hacer_en_Tallinn_en_2_dias 'Qué hacer en Tallinn en 2 días')
-- [Montar empresa en Estonia](#Montar_empresa_en_Estonia 'Montar empresa en Estonia')
-  - [Autónomo en Estonia](#Autonomo_en_Estonia 'Autónomo en Estonia')
-  - [Abrir empresa en Estonia](#Abrir_empresa_en_Estonia 'Abrir empresa en Estonia')
-  - [Empresa en Estonia residiendo en España](#Empresa_en_Estonia_residiendo_en_Espana 'Empresa en Estonia residiendo en España')
-  - [¿Es Estonia paraíso fiscal?](#%C2%BFEs_Estonia_paraiso_fiscal '¿Es Estonia paraíso fiscal?')
-- [Cómo ser residente de Estonia](#Como_ser_residente_de_Estonia 'Cómo ser residente de Estonia')
-  - [Qué se necesita para vivir a Estonia](#Que_se_necesita_para_vivir_a_Estonia 'Qué se necesita para vivir a Estonia')
-  - [Residencia digital de Estonia](#Residencia_digital_de_Estonia 'Residencia digital de Estonia')
-  - [Residencia fiscal en Estonia](#Residencia_fiscal_en_Estonia 'Residencia fiscal en Estonia')
 
 ## Impuestos
 
@@ -177,7 +136,7 @@ Pensad que Estonia es constantemente **el país número uno del mundo** en [com
 
 Desde que se separaron de la Unión Soviética, empezaron teniendo un 26% de impuestos personales pero **los fueron bajando un 1%** casi anualmente hasta quedarse en un 20%.
 
-![evolución impuestos estonia](https://pau.ninja/wp-content/uploads/2023/02/evolucion-impuestos-estonia.png)
+![evolución impuestos estonia](./wp-content/uploads/2023/02evolucion-impuestos-estonia.png)
 
 Absolutamente lo contrario que ha hecho España con el tiempo. Preguntádselo a los autónomos.
 
@@ -193,7 +152,7 @@ Estonia no es así.
 
 De hecho según datos oficiales Estonia está más arriba en el [ranking](https://worldpopulationreview.com/country-rankings/best-healthcare-in-the-world) de prosperidad que España con una **calidad de vida que no deja de mejorar**.
 
-![sanidad estonia vs espana](https://pau.ninja/wp-content/uploads/2023/02/sanidad-estonia-vs-espana.png)
+![sanidad estonia vs espana](./wp-content/uploads/2023/02sanidad-estonia-vs-espana.png)
 
 El sistema educativo de Estonia es reconocido mundialmente, y no es de extrañar. En el país báltico de poco más de 1 millón de habitantes son primeros en el mundo de educación financiera y digital, cuartos en ciencia y octavos en matemáticas.
 
@@ -205,9 +164,9 @@ A algunos les aburre la política por esto lo tengo plegado. Si te interesa abri
 
 Mirad si se ha administrado bien Estonia que hasta ahora su deuda pública es la **más baja de todo Europa**. De hecho es de las deudas públicas más bajas de todo el mundo, manteniéndose constantemente a menos de un 20%.
 
-Hubo un momento que la vi al 8% en época \_pre_pandemia.
+Hubo un momento que la vi al 8% en época _pre_pandemia.
 
-![deuda pública españa vs estonia](https://pau.ninja/wp-content/uploads/2023/02/deuda-publica-eurozona.jpeg)
+![deuda pública españa vs estonia](./wp-content/uploads/2023/02deuda-publica-eurozona.jpeg)
 
 Si lo comparamos con España se ve una diferencia abismal entre los dos países. Pensad que **España tiene un 100% más de deuda que Estonia**.
 
@@ -215,7 +174,7 @@ La deuda de un país no es cuestión de suerte o casualidades del destino sino q
 
 Desde que se [separaron](https://es.wikipedia.org/wiki/Rep%C3%BAblica_Socialista_Sovi%C3%A9tica_de_Estonia) de la Unión Soviética en 1991, Estonia ha tirado por la política del liberalismo y capitalismo sin dejar lugar a dudas que era la mejor dirección que seguir.
 
-En cambio aún vamos con dudas sobre si [España es capitalista o comunista](https://pau.ninja/espana-es-comunista-o-capitalista/). Yo creo que es las dos cosas, un Estado capitalista cada vez más «argentinizado». Una línea que cada vez vemos menos difusa y cómo a mí me gusta decir, con tendencia bajista al largo plazo.
+En cambio aún vamos con dudas sobre si [España es capitalista o comunista](./espana-es-comunista-o-capitalista). Yo creo que es las dos cosas, un Estado capitalista cada vez más «argentinizado». Una línea que cada vez vemos menos difusa y cómo a mí me gusta decir, con tendencia bajista al largo plazo.
 
 Pagar menos impuestos con el tiempo sólo es un subproducto de políticas más liberales, ahora bien un mensaje de cautela.
 
@@ -231,7 +190,7 @@ Por cierto que la política estoniana es **dominada por mujeres con casi un 60%
 
 La política estoniana está marcada por la esperanza de vida de las mujeres en comparación con la de los hombres, es mucho más marcada que en otros países.
 
-![esperanza de vida mujeres estonia](https://pau.ninja/wp-content/uploads/2023/02/esperanza-de-vida-mujeres-estonia.jpeg)
+![esperanza de vida mujeres estonia](./wp-content/uploads/2023/02esperanza-de-vida-mujeres-estonia.jpeg)
 
 Hace 10 años Estonia era el país del mundo con más mujeres por hombre y aunque ahora Letonia le ha sacado el puesto, Estonia sigue teniendo un ratio de 90 hombres por cada 100 mujeres.
 
@@ -264,8 +223,6 @@ A las pruebas me remito. Estonia se tragó la inflación igual que los otros pa�
 No sé si el gobierno lo hubiera podido gestionar mejor, pero lo que está claro es fue por culpa de las políticas monetarias y la **impresión de dinero lo que causó esta inflación** (no la guerra, como nos han querido vender).
 
 La inflación de Estonia fue tan elevada en 2022 porque al estar en los Bálticos, los costes logísticos son más elevados.
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 Estonia tuvo que lidiar con las consecuencias de estar en los Bálticos. Con unos costes logísticos más elevados y una situación más chunga para gestionarlo.
 
@@ -303,7 +260,7 @@ Habrá países desarrollados con trenes, tranvías y autobuses de tecnología mi
 
 Por ejemplo yo tengo el padrón en Tallin lo que significa que puedo coger tanto buses como tranvías o hasta un par de paradas del tren de larga distancia dentro del territorio de Tallin sin ningún tipo de coste en el momento de subirme.
 
-![tranvias tallin](https://pau.ninja/wp-content/uploads/2023/02/tranvias-tallin.jpeg)
+![tranvias tallin](./wp-content/uploads/2023/02tranvias-tallin.jpeg)
 
 Foto: misma tecnología pero dos estilos de tranvía en Tallin. Más moderno y más tradicional.
 
@@ -342,7 +299,7 @@ El PIB per cápita o ingreso per cápita es un indicador que nos permite ver cu�
 
 Pensad un momento lo que significa que Estonia ya supere a España.
 
-![sueldo medio estonia](https://pau.ninja/wp-content/uploads/2023/02/sueldo-medio-estonia.png)
+![sueldo medio estonia](./wp-content/uploads/2023/02sueldo-medio-estonia.png)
 
 Estonia salió del comunismo hace a penas 30 años y se han convertido en un Estado que ha superado a España en los ingresos medios por persona.
 
@@ -392,7 +349,7 @@ Cualquier actividad que quieras hacer la encontrarás en Tallin y apuesto que a 
 
 En el caso de que decidas caminar para ir a mil millones de actividades o cita de Tinder te darás cuenta del montón de parques y espacios abiertos que hay en Tallin. Esta es una de las pocas cosas buenas que dejó la Unión Soviética. Mucha naturaleza en medio de la ciudad y quizás es una de las razones por las que el índice de [calidad del aire](https://www.iqair.com/estonia/harjumaa/tallinn) de Tallin es de los más puros que encontrarás del mundo.
 
-![calidad aire tallin](https://pau.ninja/wp-content/uploads/2023/02/calidad-aire-tallin.jpg)
+![calidad aire tallin](./wp-content/uploads/2023/02calidad-aire-tallin.jpg)
 
 De hecho Tallin se ha [coronado](https://www.euronews.com/green/2021/09/11/tallinn-has-just-been-named-european-green-capital-for-2023) como la capital más verde de 2023.
 
@@ -410,15 +367,13 @@ Tibilisi, Montenegro, Macedonia… todos estos países tienen una escasez de com
 
 En mi pueblo catalán estoy bien servido, y en Estonia también. Estonia es conocida por tener muchísimo pasto al no tener montañas, y sus pastos son muy [nutritivos](https://oppla.eu/casestudy/18370) en comparación con otros países además de una buena cultura de caza.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 No hace falta que vayas a un carnicero local para hacerte con carne de pasto porque tienen la carne un sello especial para ello que además puedes comprar en supermercados como [Prisma](https://www.prismamarket.ee/) y [Rimi](https://www.rimi.ee/) (los grandes).
 
 Me es más difícil encontrar órganos cuando estoy allí así que tiro de una empresa que vende órganos disecados de pasto en cápsulas ([comprar aquí](https://nutriest.eu?sca_ref=3266500.lm2ZfzPS2i)). Venden a toda Europa pero son de Estonia así que llegan rapiditos y baratos.
 
-De todas formas si de vez en cuando voy de restaurante en una cita o siendo social, no voy con la idea de [seguir a rajatabla la dieta carnívora](https://pau.ninja/dieta-carnivora/), pero si que tenemos nuestro restaurante de confianza, el [Siga La Vaca](https://www.sigalavaca.ee/) que es el restaurante más carnívoro de Tallinn.
+De todas formas si de vez en cuando voy de restaurante en una cita o siendo social, no voy con la idea de [seguir a rajatabla la dieta carnívora](./dieta-carnivora/), pero si que tenemos nuestro restaurante de confianza, el [Siga La Vaca](https://www.sigalavaca.ee) que es el restaurante más carnívoro de Tallinn.
 
-![siga la vaca restaurante tallin](https://pau.ninja/wp-content/uploads/2023/02/siga-la-vaca-restaurante-tallin.jpeg)
+![siga la vaca restaurante tallin](./wp-content/uploads/2023/02siga-la-vaca-restaurante-tallin.jpeg)
 
 Foto: quedada de «ninjas» con miembros de la comunidad en mi restaurante favorito de Tallin: Siga La Vaca.
 
@@ -428,7 +383,7 @@ Diles que vienes de mi parte… y te dirán ¿quien? ¿ninja? Ni idea. A pagar.
 
 ### Comida típica de Estonia
 
-Si eres un *foodie* Estonia no es para ti porque como todo país nórdico al que he vivido, sus platos típicos están hechos de la único que crecía en la época de sus ancestros: patatas, pan de centeno, lácteos y cerdo.
+Si eres un _foodie_ Estonia no es para ti porque como todo país nórdico al que he vivido, sus platos típicos están hechos de la único que crecía en la época de sus ancestros: patatas, pan de centeno, lácteos y cerdo.
 
 Como en todos los países los hábitos alimenticios típicos, tradicionales, están relacionados con las temperaturas y condiciones de las estaciones del año. Por esto Estonia forma parte del cinturón de la cerveza, el vodka, el centeno y la carne de cerdo.
 
@@ -442,7 +397,7 @@ El problema es que en el 90% de casos te piden un año entero de contrato para q
 
 Si no conoces nadie de dentro no te quedará opción que girar la cabeza hacia los maravillosos Airbnbs.
 
-![airbnb en tallin](https://pau.ninja/wp-content/uploads/2023/02/airbnb-en-tallin.jpeg)
+![airbnb en tallin](./wp-content/uploads/2023/02airbnb-en-tallin.jpeg)
 
 Fotos: Airbnb que compartí con Juan, mi amigo y editor del podcast. ¡Una delicia de convivencia! ¿Y el coste? El alojamiento de dos habitaciones en la zona más hipster de la ciudad nos salió a 1.200€ por el mes entero. Nada mal para dos.
 
@@ -472,7 +427,7 @@ Lo bueno de Tallin es que al ser en una área más apretada, todo lo tienes cerc
 
 Si no tienes claro donde ir, puedes ir a la zona hipster de la ciudad: [Telliskivi](https://goo.gl/maps/jcSDqkpniKBJGZUZ7). Es un sitio muy artístico donde tienes tanto cafés y restaurantes chulos, como bares o incluso contenedores uno al lado del otro pintados de formas extravagantes que son restaurantes de comida rápida de todas las partes del mundo.
 
-![tomando algo en telliskivi](https://pau.ninja/wp-content/uploads/2023/02/tomando-algo-en-telliskivi.jpeg)
+![tomando algo en telliskivi](./wp-content/uploads/2023/02tomando-algo-en-telliskivi.jpeg)
 
 Unos ninjas tomando algo en Telliskivi a primera hora. La camarera nos daba mucha bola.
 
@@ -486,7 +441,7 @@ Si caminas desde Telliskivi en dirección a una antigua prisión soviética que 
 
 De las noches de verano que he salido, esa área para mí es lo mejor porque existe un bar escondido delante de la costa que se llama [Vichy](https://www.google.com/maps/place/VICHY/@59.4512146,24.7403759,15z/data=!4m2!3m1!1s0x0:0x75d269ccc8c0d433?sa=X&ved=2ahUKEwjYneunqID9AhWCy7sIHazDAh0Q_BJ6BAhJEAg). Durante las noches del fin de semana, se convierte en un club al aire libre que tiene un aire mágico… y lo digo como alguien que no sale de noche.
 
-![vida nocturna en tallin](https://pau.ninja/wp-content/uploads/2023/02/vida-nocturna-en-tallin.jpeg)
+![vida nocturna en tallin](./wp-content/uploads/2023/02vida-nocturna-en-tallin.jpeg)
 
 Foto: Juan el canario y Pau el catalán en el bar Vichy… ¿Vichy catalán?
 
@@ -504,7 +459,7 @@ Quizás este es el motivo por el que hay tantas cosas que hacer, deben estar bus
 
 En mi primer año empecé a ir a la misma cafetería cada mañana a trabajar, y aunque por desgracia ya cerró, en varias semanas terminé haciéndome amigo del equipo de las baristas que trabajaba allí.
 
-![cafeterias tallin](https://pau.ninja/wp-content/uploads/2023/02/cafeterias-tallin.jpeg)
+![cafeterias tallin](./wp-content/uploads/2023/02cafeterias-tallin.jpeg)
 
 Hasta me regalaban algún café de vez en cuando si les hacía un buen pino.
 
@@ -512,7 +467,7 @@ Este podría ser el motivo por el que Estonia lo siento como uno de mis hogares,
 
 Conocer a los nativos de tan cerca gracias a haber desarrollado el hábito de aprovecharme de una cafetería específica para hacer cowork, hizo que fuera invitado a cumpleaños de las baristas, cenas de Navidad, etc.
 
-![navidad en estonia](https://pau.ninja/wp-content/uploads/2023/02/navidad-en-estonia.jpeg)
+![navidad en estonia](./wp-content/uploads/2023/02navidad-en-estonia.jpeg)
 
 Hace un par de años tuve la oportunidad de pasarla con unas cuantas amigas estonias para comer platos típicos de allí como la salchicha de sangre.
 
@@ -551,7 +506,7 @@ No sabemos si son señoras mayores, o mujeres jóvenes despampanantes.
 
 Donde pondría más énfasis sería en la estadística de que los países con más divorcios de toda Europa son los Bálticos. Liderado por Letonia, Lituania resulta que **Estonia está en la posición tres de países con más divorcios**, lo que no es moco de pavo.
 
-![países con más divorcios de europa](https://pau.ninja/wp-content/uploads/2023/02/paises-con-mas-divorcios-de-europa.png)
+![países con más divorcios de europa](./wp-content/uploads/2023/02paises-con-mas-divorcios-de-europa.png)
 
 Aunque España también está por encima de la media Europea ver a los países Bálticos tan arriba te hace pensar si es una de las secuelas de la cultura de la antigua Unión Soviética porque Rusia es el top 3 del [mundo](https://wisevoter.com/country-rankings/divorce-rates-by-country/#:~:text=Vietnam%20has%20the%20lowest%20divorce,0.2%20divorces%20per%201%2C000%20people.).
 
@@ -559,7 +514,7 @@ Algo que atribuyo a no haber vivido una influencia de la religión, que te guste
 
 Si en vez de hacer una familia lo que buscas son ligues de noche en Estonia te lo pasarás pipa. No es lo mismo un país con mucha influencia de la religión que uno como Islandia o Estonia con un pasado protestante donde ahí la promiscuidad se lleva como una encajada de manos. Estonia está más cerca de la encajada de manos.
 
-El uso de Tinder en Estonia **le doy un 6,8/10 en relación a la cantidad y calidad** de _matches_ que puedes tener si tienes un perfil bueno, aunque ya sabéis que [mi opinión de Tinder ha cambiado](https://pau.ninja/tinder-opiniones/).
+El uso de Tinder en Estonia **le doy un 6,8/10 en relación a la cantidad y calidad** de _matches_ que puedes tener si tienes un perfil bueno, aunque ya sabéis que [mi opinión de Tinder ha cambiado](./tinder-opiniones).
 
 Y si por un lado dices que esto de la promiscuidad no va contigo porque tienes otros valores, pues no te deprimas por todos estos divorcios porque lógicamente esto no significa que si buscas una relación estable con una estoniana te tenga que ir mal.
 
@@ -567,17 +522,17 @@ Y si por un lado dices que esto de la promiscuidad no va contigo porque tienes o
 
 Si sólo vas a viajar a Estonia y no estás pensando en vivir, cada época del año tiene su encanto, pero si te planteas vivir allí un tiempo por ejemplo pasando +180 días para [hacerte residente fiscal](#Como_ser_residente_de_Estonia) y aprovechar los impuestos, lo mejor es ir **desde mayo a mediados de septiembre**.
 
-He llegado a pasar un invierno entero en Estonia y a mí me afecta mucho. **No es el frío, es el no ver el sol**. Me vuelvo pálido a más no poder y noto [las consecuencias de la falta de vitamina D](https://pau.ninja/falta-de-vitamina-d-consecuencias/) en mi calva.
+He llegado a pasar un invierno entero en Estonia y a mí me afecta mucho. **No es el frío, es el no ver el sol**. Me vuelvo pálido a más no poder y noto [las consecuencias de la falta de vitamina D](./falta-de-vitamina-d-consecuencias) en mi calva.
 
 Así que ahora lo que hago es el mes de enero asegurarme de que no lo paso allí. Algo que me hace mejorar mi vida al menos en un 60-80%. Sólo ver el sol y cargarse de energía, es un factor enorme. Por esto Estonia no es mi única base pero creedme que hubiera sol todo el año para mí sería el mejor país del mundo.
 
 Lo mejor es que los veranos en Tallin son 100 veces mejor que en Barcelona o cualquier lugar de España, porque a menos que haya una oleada de calor, el verano es mucho más templadito.
 
-![tomando sol tallin](https://pau.ninja/wp-content/uploads/2023/02/tomando-sol-tallin.jpeg)
+![tomando sol tallin](./wp-content/uploads/2023/02tomando-sol-tallin.jpeg)
 
 Foto: en un bar-terraza de Tallin sacando el pecho-lobo a relucir.
 
-Las casas de Estonia están muy bien preparadas para el invierno pero si tienes un chute de calor inesperado de un par de días, te prometo que **no encontrarás ventiladores en *stock* en las tiendas** de electrodomésticos de la ciudad.
+Las casas de Estonia están muy bien preparadas para el invierno pero si tienes un chute de calor inesperado de un par de días, te prometo que **no encontrarás ventiladores en _stock_ en las tiendas** de electrodomésticos de la ciudad.
 
 La gente no está preparada para el calor extremo puntual.
 
@@ -632,8 +587,6 @@ Vivir una Navidad así de diferente es curioso pero hay cosas de la vida y la cu
 - La celebración que he visto que viven con más pasión es la noche de San Juan a la que llaman «jaanipäev» con rituales y costumbres [locas](https://estonianworld.com/life/it-is-this-time-of-the-year-again-jaanipaev/) que os voy a dejar a la imaginación.
 
 ### Baile típico de Estonia
-
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
 
 ### El acceso a Internet
 
@@ -693,7 +646,7 @@ La figura del autónomo no existe en Estonia porque todo el mundo que quiere ofr
 
 ### Abrir empresa en Estonia
 
-Si quieres saber más de cómo abrir una empresa en Estonia [te lo cuento aquí](https://pau.ninja/crear-empresa-en-estonia/).
+Si quieres saber más de cómo abrir una empresa en Estonia [te lo cuento aquí](./crear-empresa-en-estonia).
 
 Una contabilidad mensual de calidad es lo más difícil de encontrar seguramente.
 
@@ -703,13 +656,11 @@ He visto muchos casos de personas que al escuchar las bondades de Estonia se abr
 
 La Agencia Tributaria española podría venirte y decir que como las estás administrando desde España, no tienes ningún tipo de excusa. Que esto debería ser una SL española y como no tienes suficiente «substancia» aquí va una buena multa.
 
-<span data-mce-type="bookmark" style="display: inline-block; width: 0px; overflow: hidden; line-height: 0;" class="mce\_SELRES\_start"></span>
-
 Utilizar el miedo como manipulación es lo mejor que sabe hacer el Estado español y es el motivo por el que muchos autónomos y sociedades están cagados de hacer ningún paso en falso.
 
 Pero tienes varias opciones para disfrutar de una empresa en Estonia.
 
-- Ser un nómada digital o [tursita perpetuo para no pagar impuestos legalmente](https://pau.ninja/como-no-pagar-impuestos-legalmente/) (#320)
+- Ser un nómada digital o [tursita perpetuo para no pagar impuestos legalmente](./como-no-pagar-impuestos-legalmente) (#320)
 - Vivir en Estonia más de medio año en total (no tienen porque ser seguidos)
 - O… tener contratado a un estonio que viva allí o una oficina física real que de substancia a por qué tienes una empresa en Estonia (…).
 
@@ -727,7 +678,7 @@ Si se ejerce de esta presión en Estonia lo tendremos _h0dido_.
 
 Hasta se había llegado a hablar de **pagar impuestos por pasaporte Europeo** como se hace en Estados Unidos. Si esto llegara a suceder ya podríamos decir que el totalitarismo habría ganado y nos tendríamos que ir a Latinoamérica o algún lugar remoto.
 
-![estonia rechaza subida impuestos](https://pau.ninja/wp-content/uploads/2023/02/estonia-rechaza-subida-impuestos.png)
+![estonia rechaza subida impuestos](./wp-content/uploads/2023/02estonia-rechaza-subida-impuestos.png)
 
 Sólo tres países rechazan subidas de impuestos organizados. Casualmente son los pocos países que han vivido las ventajas de las políticas económicamente liberales.
 
@@ -743,7 +694,7 @@ Si ahora mismo tienes ciudadanía o residencia Europea, lo tienes de maravilla.
 
 ### Residencia digital de Estonia
 
-Si quieres abrir una empresa no necesitas hacerte residente, sólo sacarte una tarjeta identificativa llamada *e-residency*.
+Si quieres abrir una empresa no necesitas hacerte residente, sólo sacarte una tarjeta identificativa llamada _e-residency_.
 
 Pero ojo porque la e-residency no es una residencia oficial. Es un mero documento identificativo.
 
@@ -760,3 +711,93 @@ Para ser residente fiscal necesitas:
 - Haber cambiado la residencia permanente a Estonia. Para hacerlo necesitas un contrato de alquiler, vas al ayuntamiento y en una mañana ya te has cambiado el padrón en esa dirección.
 - Pides hora a la policía para sacarte el DNI (te hacen hacer la foto allí mismo, o sea que te puedo asegurar que vas a quedar feo seguro), y en cuestión de 1 mes tendrás.
 - Es importante, que tengas una dirección física real porque el propietario de la dirección te puede «echar» virtualmente y entonces perderías tu residencia. Es por esto que nosotros ofrecemos el servicio de una [dirección legal en Estonia](https://residenciasfiscales.com/conseguir-direccion-legal-estonia/) por 1.000€/año por si después de conseguir la residencia te quieres ir a vivir por ahí a otros sitios y no perder tus derechos. Así puedes seguir siendo residente.
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+¿Te ha gustado la publicación?  
+**Divulga** conmigo compartiéndola en:
+
+![compartir en instagram](./wp-content/uploads/2022/06/compartir-en-instagram.png) ![compartir en tiktok](https://pau.ninja/wp-content/uploads/2022/06/compartir-en-tiktok.png) ![compartir en twitter](https://pau.ninja/wp-content/uploads/2022/06compartir-en-twitter.png)
+
+Mira mis otros artículos sobre: [Estilo de vida](./estilo-de-vida)  
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/vivir-en-estonia/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":16335,"title":"%E3%80%903%20a%C3%B1os%20viviendo%20en%20Estonia%E3%80%91%20Todo%20lo%20que%20necesitas","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/02\\/persona-viviendo-en-estonia.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

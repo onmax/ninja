@@ -1,13 +1,20 @@
 ---
-title: "Mis trucos para Tinder Opiniones + consejos para conversaciones y matches"
+title: "Mis trucos para Tinder"
+url: https://pau.ninja/trucos-tinder
+slug: trucos-tinder
+categories: 
+- slug: relaciones
+    label: Relaciones
+  - slug: seduccion
+    label: Seducción
 image: hombre-usando-tinder.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/11/hombre-usando-tinder.jpeg
 published: 2021-09-28T06:20:39+00:00
 modified: 2023-08-13T08:23:58+00:00
+scrappedAt: 2024-10-14T09:21:15.788Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284127-44100-2-45b5e130e2d3c27f.mp3
-slug: trucos-tinder
+bibliography: []
 ---
-
 [https://anchor.fm/s/98566448/podcast/play/52171881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284127-44100-2-45b5e130e2d3c27f.mp3](https://anchor.fm/s/98566448/podcast/play/52171881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284127-44100-2-45b5e130e2d3c27f.mp3)
 
 ¿Trucos Tinder que había usado y que mis amigos dicen que les siguen funcionado? Aquí están.
@@ -18,7 +25,7 @@ No importa que sea Tinder, Badoo, Bumble… Ninguna aplicación móvil debería 
 
 Un app como **Tinder debe ser la cereza** del pastel de tu vida social.
 
-Si no sabes por dónde pillarlo, sal a la calle después de haberte mirado mi guía de [daygame para ligar con chicas en la calle](https://pau.ninja/daygame/) y empieza a practicar.
+Si no sabes por dónde pillarlo, sal a la calle después de haberte mirado mi guía de [daygame para ligar con chicas en la calle](./daygame) y empieza a practicar.
 
 Y ahora sí.
 
@@ -36,38 +43,6 @@ Aprenderás a:
 4.  Tener buenas **conversaciones**
 5.  Llegar a la **cita**
 
-Navega por el contenido
-
-[Toggle](#)
-
-- [El mejor perfil de Tinder de hombre](#El_mejor_perfil_de_Tinder_de_hombre 'El mejor perfil de Tinder de hombre')
-  - [Foto de perfil principal](#Foto_de_perfil_principal 'Foto de perfil principal')
-  - [Resto de fotos](#Resto_de_fotos 'Resto de fotos')
-  - [Mejores descripciones](#Mejores_descripciones 'Mejores descripciones')
-- [Qué hago si no tengo matches](#Que_hago_si_no_tengo_matches 'Qué hago si no tengo matches')
-  - [Crear una cuenta nueva](#Crear_una_cuenta_nueva 'Crear una cuenta nueva')
-  - [No abrirlo durante unos días](#No_abrirlo_durante_unos_dias 'No abrirlo durante unos días')
-  - [No darle a la derecha a todas](#No_darle_a_la_derecha_a_todas 'No darle a la derecha a todas')
-  - [Abrir a las chicas con las que hagas match](#Abrir_a_las_chicas_con_las_que_hagas_match 'Abrir a las chicas con las que hagas match')
-  - [No hacer "unmatch"](#No_hacer_%22unmatch%22 'No hacer "unmatch"')
-- [Abridores para iniciar una conversación en Tinder](#Abridores_para_iniciar_una_conversacion_en_Tinder 'Abridores para iniciar una conversación en Tinder')
-  - ["Nombre, nombre. Aquí estamos"](#%22Nombre_nombre_Aqui_estamos%22 '"Nombre, nombre. Aquí estamos"')
-  - ["Huyamos juntos"](#%22Huyamos_juntos%22 '"Huyamos juntos"')
-  - [Observación de alguna foto](#Observacion_de_alguna_foto 'Observación de alguna foto')
-  - [Empezar con una frase graciosa](#Empezar_con_una_frase_graciosa 'Empezar con una frase graciosa')
-  - [Experimentar con frases](#Experimentar_con_frases 'Experimentar con frases')
-- [Qué decir en Tinder](#Que_decir_en_Tinder 'Qué decir en Tinder')
-  - [Conversación exitosa](#Conversacion_exitosa 'Conversación exitosa')
-- [Los mejores consejos de Tinder](#Los_mejores_consejos_de_Tinder 'Los mejores consejos de Tinder')
-  - [Cómo NO abrir a chicas con las que he hecho match](#Como_NO_abrir_a_chicas_con_las_que_he_hecho_match 'Cómo NO abrir a chicas con las que he hecho match')
-  - [Retomar una conversación en Tinder](#Retomar_una_conversacion_en_Tinder 'Retomar una conversación en Tinder')
-  - [Pasa los “test de mierda”](#Pasa_los_%E2%80%9Ctest_de_mierda%E2%80%9D 'Pasa los “test de mierda”')
-- [Trucos para hacer match en Tinder](#Trucos_para_hacer_match_en_Tinder 'Trucos para hacer match en Tinder')
-  - [Tener fotos buenas de verdad](#Tener_fotos_buenas_de_verdad 'Tener fotos buenas de verdad')
-  - [Poner fotos de alguien distinto](#Poner_fotos_de_alguien_distinto 'Poner fotos de alguien distinto')
-  - [Contratar Tinder Gold](#Contratar_Tinder_Gold 'Contratar Tinder Gold')
-- [Mi opinión sobre Tinder (actualmente)](#Mi_opinion_sobre_Tinder_actualmente 'Mi opinión sobre Tinder (actualmente)')
-
 ## El mejor perfil de Tinder de hombre
 
 El primer paso es también **la base de todo**. El más importante. Son las malditas (y benditas) fotos.
@@ -78,7 +53,7 @@ No importa lo feo o guapo que seas. Las fotos son la primera impresión que vas 
 
 Estas son las fotos que tenía yo.
 
-![fotos pau ninja](https://pau.ninja/wp-content/uploads/2021/09/fotos-pau-ninja.jpeg)
+![fotos pau ninja](./wp-content/uploads/2021/09fotos-pau-ninja.jpeg)
 
 No estaban del todo mal. Eran fotos normalitas.
 
@@ -86,7 +61,7 @@ No estaban del todo mal. Eran fotos normalitas.
 
 Pero esto cambió cuando hice un truque molón, me hice fotos nuevas y puse estas:
 
-![pau ninja en fotos](https://pau.ninja/wp-content/uploads/2021/09/pau-ninja-en-fotos.jpeg)
+![pau ninja en fotos](./wp-content/uploads/2021/09pau-ninja-en-fotos.jpeg)
 
 En estas fotos soy el mismo jodido calvo, pero en el primer caso no tenía _matches_. ¿Y en el segundo? **decenas** fuera al país que fuera.
 
@@ -116,7 +91,7 @@ De verdad.
 
 Es más importante un **buen estilo** acorde con nosotros.
 
-![perfiles de tinder](https://pau.ninja/wp-content/uploads/2021/09/perfiles-de-tinder.jpeg)
+![perfiles de tinder](./wp-content/uploads/2021/09perfiles-de-tinder.jpeg)
 
 ¿Cuál es la mejor foto de estos tres perfiles? En el punto nº de la siguiente lista que te pongo verás que la correcta es la imagen número 3.
 
@@ -167,16 +142,16 @@ Otra que tenía en su momento y creo que ha habido demasiado texto y **se tendr�
 
 Esta descripción la he tenido en bastantes países pero sobresalió bastante en Suecia.
 
-> “El rey de los reyes”
+> “El rey de los reyes”  
 > – New York Times
->
-> “El tío más interesante que conozco”
+> 
+> “El tío más interesante que conozco”  
 > – Tim Ferriss
->
-> “Estarías loca por no salir con él”
+> 
+> “Estarías loca por no salir con él”  
 > – Anna Nyström. Instagramer sueca
->
-> “Es muy inteligente, atractivo y buena persona”
+> 
+> “Es muy inteligente, atractivo y buena persona”  
 > – Mama
 
 Al cabo de unos meses terminé queriendo poner algo un poco más “real”. Algo simple, atrevido y atractivo que a la vez me **sirve para filtrar la personalidad de las chicas**.
@@ -275,7 +250,7 @@ Para empezar una conversación en Tinder, a menos que seas un Chad guaperas, ten
 
 > El consejo más importante (que tendría que ser obvio) es el de no abrir con un «hola, ¿cómo estás?».
 
-Quieres abrir con algo diferente pero a la vez que no quede como que lo intentes demasiado *hardcore* y que lo hayas rebuscado demasiado.
+Quieres abrir con algo diferente pero a la vez que no quede como que lo intentes demasiado _hardcore_ y que lo hayas rebuscado demasiado.
 
 ### «_Nombre_, _nombre_. Aquí estamos»
 
@@ -461,4 +436,90 @@ No pasa a menudo que al día siguiente de hacer match con una ya quedamos con el
 
 Actualmente te interesará saber que a pesar de estar soltero **ya no uso apps de citas**.
 
-Te cuento el por qué en [mi opinión de Tinder aquí](https://pau.ninja/tinder-opiniones/).
+Te cuento el por qué en [mi opinión de Tinder aquí](./tinder-opiniones).
+
+.autoPodcast ul li a img{width:50px}
+
+- ![spotify](./wp-content/uploads/2023/01spotify.png)
+- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
+- ![youtube](./wp-content/uploads/2023/01youtube.png)
+
+Mira mis otros artículos sobre: [Relaciones](./relaciones)  
+O si quieres ser más específico:[Seducción](./seduccion)
+
+## Conviértete en un ninja de la vida
+
+Si te gustan mis publicaciones abiertas, te encantará ser miembro:
+
+- Únete a 1.000 ninjas
+- Recursos exclusivos
+- Podcast privado
+- Boletín cerrado
+
+Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
+
+Unirme a Sociedad Ninja
+
+[Acceder a mi cuenta](#)
+
+![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
+
+### Pau
+
+Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
+
+[Suscríbete](#unirse)
+
+×
+
+## Iniciar sesión
+
+Para usuarios de Pau Ninja y Sociedad Ninja
+
+Username or Email 
+
+Contraseña 
+
+ Recuérdame
+
+[¿Has perdido tu contraseña?](/trucos-tinder/?rcp_action=lostpassword)
+
+   
+
+- [Dinero](./dinero)
+- [Salud](./salud)
+
+[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
+
+- [Mente](./mente)
+- Mundo
+
+![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
+
+## Lo más destacado del blog
+
+- Mi dieta: la carnívora
+- Mi cartera: 100% bitcoin
+
+## Si no sabes dónde caer
+
+- Últimas publicaciones
+- Publicación aleatoria
+
+Sigamos en contacto
+
+- No hago cafés
+- No hago consultas
+- **Pregúntalo en Sociedad**
+- Paloma mensajera
+
+Youtube Twitter Instagram Tiktok
+
+- Pau Ninja ®
+- Aviso legal **|** Política de cookies **|** Política de privacidad
+
+setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
+
+[](javascript:void\(0\);)
+
+  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"e5be6db5be","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":14801,"title":"5%20trucos%20%2B%205%20consejos%20para%20PETARLO%20en%20Tinder%20%E3%80%90Gu%C3%ADa%E3%80%91","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2022\\/11\\/hombre-usando-tinder.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();
