@@ -29,6 +29,15 @@ export default defineNuxtConfig({
   // https://hub.nuxt.com/docs/getting-started/installation#options
   hub: {
     ai: true,
+    vectorize: {
+      posts: {
+        dimensions: 768, // @cf/baai/bge-base-en-v1.5
+        metric: 'cosine',
+        metadataIndexes: {
+          id: 'string',
+        },
+      },
+    },
   },
 
   nitro: {
