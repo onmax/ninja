@@ -19,7 +19,6 @@ export default defineTask({
       throw createError('This task is only available in development mode')
 
     consola.log('Running Scraper')
-    
 
     await mkdir(folder, { recursive: true })
     let counter = 0
