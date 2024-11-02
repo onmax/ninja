@@ -41,6 +41,12 @@ export default defineNuxtConfig({
     },
   },
 
+  $development: {
+    hub: {
+      remote: true,
+    },
+  },
+
   nitro: {
     experimental: {
       tasks: true,
