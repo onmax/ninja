@@ -30,16 +30,16 @@ export default defineNuxtConfig({
   hub: {
     ai: true,
     database: true,
-    vectorize: {
-      posts: {
-        dimensions: 768, // @cf/baai/bge-base-en-v1.5
-        metric: 'cosine',
-        metadataIndexes: {
-          filename: 'string',
-          headers: 'string',
-        },
-      },
-    },
+    // vectorize: {
+    //   posts: {
+    //     dimensions: 768, // @cf/baai/bge-base-en-v1.5
+    //     metric: 'cosine',
+    //     metadataIndexes: {
+    //       filename: 'string',
+    //       headers: 'string',
+    //     },
+    //   },
+    // },
   },
 
   nitro: {
