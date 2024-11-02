@@ -29,6 +29,7 @@ export default defineNuxtConfig({
   // https://hub.nuxt.com/docs/getting-started/installation#options
   hub: {
     ai: true,
+    database: true,
     vectorize: {
       posts: {
         dimensions: 768, // @cf/baai/bge-base-en-v1.5
@@ -38,12 +39,6 @@ export default defineNuxtConfig({
           headers: 'string',
         },
       },
-    },
-  },
-
-  $development: {
-    hub: {
-      remote: true,
     },
   },
 

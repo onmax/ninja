@@ -7,12 +7,10 @@ image: persona-con-atencion-deliberada.jpg
 imageURL: https://pau.ninja/wp-content/uploads/2024/03/persona-con-atencion-deliberada.jpg
 published: 2024-04-02T04:03:06+00:00
 modified: 2024-08-10T19:38:58+00:00
-scrappedAt: 2024-10-14T16:13:52.759Z
+scrappedAt: 2024-11-02T15:52:23.193Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86719308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-14%2F377557797-44100-2-77cabaf8edd0c.mp3
 bibliography: ["Van Hedger SC, Heald SLM, Nusbaum HC. Absolute pitch can be learned by some adults. PLoS One. 2019 Sep 24;14(9):e0223047. doi: 10.1371/journal.pone.0223047. PMID: 31550277; PMCID: PMC6759182.","Wikipedia Contributors. 2024. “Miguel Bezos.” Wikipedia. Wikimedia Foundation.","Rodrigues AC, Loureiro MA, Caramelli P. Musical training, neuroplasticity and cognition. Dement Neuropsychol. 2010 Oct-Dec;4(4):277-286. doi: 10.1590/S1980-57642010DN40400005. PMID: 29213699; PMCID: PMC5619060.","“Diccionario de Cáncer Del NCI.” 2024. Instituto Nacional Del Cáncer. Cancer.gov."]
 ---
-[https://anchor.fm/s/98566448/podcast/play/86719308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-14%2F377557797-44100-2-77cabaf8edd0c.mp3](https://anchor.fm/s/98566448/podcast/play/86719308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-14%2F377557797-44100-2-77cabaf8edd0c.mp3)
-
 > El trabajo duro supera al talento cuando el talento no trabaja duro.
 
 ¿Qué tiene de verdad esta cita? ¿Qué es lo que hace que algunas personas sean tan amas y señoras de lo que hacen?
@@ -23,13 +21,13 @@ Me da igual si estamos hablando de un escalador, pianista, trader, gimnasta, esc
 
 En el libro _Peak_ (número uno) el autor Anders Ericsson revelaba con estudios y datos si hay un supuesto gen detrás de esta gente que llegan a sus picos en sus disciplinas.
 
-[![Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU2VuTTNRMUpHVjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NzY5NA=)](https://www.amazon.es/dp8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
+[![Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU2VuTTNRMUpHVjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDcyMjY1Ng=)](https://www.amazon.es/dp8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
 
 [Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
 
 [Comprar en Amazon](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Peak: Secrets from the New Science of Expertise (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWJFSkNRbWhaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA3NzY5NA=)](https://www.amazon.es/dpB011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
+[![Peak: Secrets from the New Science of Expertise (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWJFSkNRbWhaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDcyMjY1Ng=)](https://www.amazon.es/dpB011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
 
 [Peak: Secrets from the New Science of Expertise (English Edition)](https://www.amazon.es/dp/B011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
 

@@ -7,7 +7,7 @@ image: persona-que-solo-piensa-en-el-dinero.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/10/persona-que-solo-piensa-en-el-dinero.jpeg
 published: 2023-10-12T07:57:02+00:00
 modified: 2024-04-28T11:16:30+00:00
-scrappedAt: 2024-10-14T16:15:06.807Z
+scrappedAt: 2024-11-02T15:22:31.499Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/77745836/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-26%2F352803032-44100-2-b06b5d64231d1.mp3
 bibliography: ["Keaten, Jamey, and Danica Kirka. 2023. “Credit Suisse Shares Soar after Central Bank Offers Lifeline.” AP News.‌","Ruholamin Haqshanas. 2022. “China’s Bank Run: Why 4 Rural Banks Froze up to $1.5B of Client Funds – Tokenist.”‌","Scannell, Kara. 2023. “Ex-Celsius CEO Is Charged with Fraud.” CNN.‌","Hetler, Amanda. 2023. “FTX Scam Explained: Everything You Need to Know.” WhatIs.com.‌","«Canada protests: Police push back demonstrators in Ottawa». BBC News. February 19, 2022. Retrieved February 19, 2022.","2022\\. “Canada: GoFundMe Withholds over 9 Million Dollars Raised for Protesting Truckers, Obeys Police and Govt Orders.” OpIndia.‌","RedacciónBarcelona. 2017. “El Santander Compra El Popular Por Un Euro Con El Visto Bueno de Bruselas.” La Vanguardia.‌","OCU. 2017. “Qué Es Y Cómo Funciona El Fondo de Garantía de Depósitos | OCU.”","European Central Bank. 2023. “¿Qué Son Las Reservas Mínimas?” European Central Bank. ‌","Staff, Reuters. 2018. “European Court Dismisses Compensation Claim in Cyprus 2013 Deposit-Grab.” U.S.‌","O’Brien, Matthew. 2013. “Everything You Need to Know about the Cyprus Bank Disaster.” The Atlantic. theatlantic.‌"]
 ---

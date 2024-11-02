@@ -7,7 +7,7 @@ image: persona-lavandose-los-dientes.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/04/persona-lavandose-los-dientes.jpeg
 published: 2023-05-24T06:46:42+00:00
 modified: 2023-09-10T20:27:16+00:00
-scrappedAt: 2024-10-14T16:15:55.516Z
+scrappedAt: 2024-11-02T15:23:18.787Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/72551885/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336597282-44100-2-2f5c9f454f623.mp3
 bibliography: ["Iorgulescu G. Saliva between normal and pathological. Important factors in determining systemic and oral health. J Med Life. 2009 Jul-Sep;2(3):303-7. PMID: 20112475; PMCID: PMC5052503.","Blakeley M, Sobczyńska-Malefora A, Carpenter G. The Origins of Salivary Vitamin A, Vitamin B12 and Vitamin D-Binding Proteins. Nutrients. 2020 Dec 16;12(12):3838. doi: 10.3390/nu12123838. PMID: 33339130; PMCID: PMC7765569.","Federal Drug Administration (FDA). FDA issues final rule on safety and effectiveness of antibacterial soaps (September 02, 2016).","Federal Drug Administration (FDA). 5 things to know about triclosan (updated May 16, 2019)","Nik Veldhoen et al. (2006). «The bactericidal agent triclosan modulates thyroid hormone-associated gene expression and disrupts postembryonic anuran development». Aquatic Toxicology","Ahn KC, Zhao B, Chen J, Cherednichenko G, Sanmarti E, Denison MS, Lasley B, Pessah IN, Kültz D, Chang DP, Gee SJ, Hammock BD. In vitro biologic activities of the antimicrobials triclocarban, its analogs, and triclosan in bioassay screens: receptor-based bioassay screens. Environ Health Perspect. 2008 Sep;116(9):1203-10. doi: 10.1289/ehp.11200. PMID: 18795164; PMCID: PMC2535623.","Black RE, Hurley FJ, and Havery DC. “Occurrence of 1,4-dioxane in cosmetic raw materials and finished cosmetic products.” Int J PharJ AOAC Int. 84, 3 (May-Jun 2001):666-70.","Ishchenko, Volodymyr et al. “Determinación del impacto ambiental de los componentes de champús sobre las algas Chlorella por el método de bioindicación.” Tecnologia y Ciencias del Agua 8 (2017): 37-46.","Borsani B, De Santis R, Perico V, Penagini F, Pendezza E, Dilillo D, Bosetti A, Zuccotti GV, D’Auria E. The Role of Carrageenan in Inflammatory Bowel Diseases and Allergic Reactions: Where Do We Stand? Nutrients. 2021 Sep 27;13(10):3402. doi: 10.3390/nu13103402. PMID: 34684400; PMCID: PMC8539934.","Joshi S, Kaushik V, Gode V, Mhaskar S. Coconut Oil and Immunity: What do we really know about it so far? J Assoc Physicians India. 2020 Jul;68(7):67-72. PMID: 32602684.","Hewlings S. Coconuts and Health: Different Chain Lengths of Saturated Fats Require Different Consideration. J Cardiovasc Dev Dis. 2020 Dec 17;7(4):59. doi: 10.3390/jcdd7040059. PMID: 33348586; PMCID: PMC7766932.","Baking-Soda – Baking Soda – The Everyday Miracle. Virginia Commonwealth University.","Rusyniak DE, Durant PJ, Mowry JB, Johnson JA, Sanftleben JA, Smith JM. Life-threatening hyperkalemia from cream of tartar ingestion. J Med Toxicol. 2013 Mar;9(1):79-81. doi: 10.1007/s13181-012-0255-x. PMID: 22926733; PMCID: PMC3570668.","PubChem \\[Internet\\]. Bethesda (MD): National Library of Medicine (US), National Center for Biotechnology Information; 2004-. PubChem Compound Summary for CID 23681127, Potassium acid tartrate; \\[cited 2023 Apr. 13\\].","EFSA Panel on Food Additives and Flavourings (FAF); Younes M, Aquilina G, Castle L, Engel KH, Fowler P, Frutos Fernandez MJ, Fürst P, Gürtler R, Gundert-Remy U, Husøy T, Mennes W, Shah R, Waalkens-Berendsen I, Wölfle D, Boon P, Tobback P, Wright M, Aguilera J, Rincon AM, Tard A, Moldeus P. Re-evaluation of l(+)-tartaric acid (E 334), sodium tartrates (E 335), potassium tartrates (E 336), potassium sodium tartrate (E 337) and calcium tartrate (E 354) as food additives. EFSA J. 2020 Mar 11;18(3):e06030. doi: 10.2903/j.efsa.2020.6030. PMID: 32874248; PMCID: PMC7448015."]
 ---
@@ -144,7 +144,7 @@ Os tengo que confesar que esta receta de pasta de dientes natural casera además
 
 Ahora mismo rebajado
 
-[![NATURGREEN Aceite de Coco Bio, Virgen Extra, Ideal para Cocinar, Hidrata Piel y Cabello,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeFdrSjFSR0pqY2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NjMyNg=)](https://www.amazon.es/dpB016740UHU?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "NATURGREEN Aceite de Coco Bio, Virgen Extra, Ideal para Cocinar, Hidrata Piel y Cabello,...")
+[![NATURGREEN Aceite de Coco Bio, Virgen Extra, Ideal para Cocinar, Hidrata Piel y Cabello,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeFdrSjFSR0pqY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDcwOTcyNQ=)](https://www.amazon.es/dpB016740UHU?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "NATURGREEN Aceite de Coco Bio, Virgen Extra, Ideal para Cocinar, Hidrata Piel y Cabello,...")
 
 [NATURGREEN Aceite de Coco Bio, Virgen Extra, Ideal para Cocinar, Hidrata Piel y Cabello,...](https://www.amazon.es/dp/B016740UHU?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "NATURGREEN Aceite de Coco Bio, Virgen Extra, Ideal para Cocinar, Hidrata Piel y Cabello,...")
 
@@ -164,7 +164,7 @@ Pero si estás con una temperatura más fría el aceite de coco será más duro 
 
 La mayoría de gente que se hace su pasta de dientes casera utiliza bicarbonato de sodio… pero no es mi caso.
 
-[![Nortembio Bicarbonato de Sodio Alimenticio 1,45 Kg. Bicarbonato de Sodio Ecológico para Cocina y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSWJIWkViell0ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NjMyNg=)](https://www.amazon.es/dpB07418SLM2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nortembio Bicarbonato de Sodio Alimenticio 1,45 Kg. Bicarbonato de Sodio Ecológico para Cocina y...")
+[![Nortembio Bicarbonato de Sodio Alimenticio 1,45 Kg. Bicarbonato de Sodio Ecológico para Cocina y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSWJIWkViell0ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDcwOTcyNQ=)](https://www.amazon.es/dpB07418SLM2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nortembio Bicarbonato de Sodio Alimenticio 1,45 Kg. Bicarbonato de Sodio Ecológico para Cocina y...")
 
 [Nortembio Bicarbonato de Sodio Alimenticio 1,45 Kg. Bicarbonato de Sodio Ecológico para Cocina y...](https://www.amazon.es/dp/B07418SLM2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nortembio Bicarbonato de Sodio Alimenticio 1,45 Kg. Bicarbonato de Sodio Ecológico para Cocina y...")
 
@@ -188,7 +188,7 @@ Por esto yo prefiero una alternativa que tampoco se conoce mucho, y es… el seg
 
 **Opción favorita (mejor que el bicarbonato)**
 
-[![Crémor Tártaro - 100% Natural - Calidad Alimentaria Premium - Sustituto Natural de la levadura...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTlN6VlFXR1J4WjB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NjMyNg=)](https://www.amazon.es/dpB08Z766DZP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Crémor Tártaro - 100% Natural - Calidad Alimentaria Premium - Sustituto Natural de la levadura...")
+[![Crémor Tártaro - 100% Natural - Calidad Alimentaria Premium - Sustituto Natural de la levadura...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTlN6VlFXR1J4WjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDcwOTcyNQ=)](https://www.amazon.es/dpB08Z766DZP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Crémor Tártaro - 100% Natural - Calidad Alimentaria Premium - Sustituto Natural de la levadura...")
 
 [Crémor Tártaro - 100% Natural - Calidad Alimentaria Premium - Sustituto Natural de la levadura...](https://www.amazon.es/dp/B08Z766DZP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Crémor Tártaro - 100% Natural - Calidad Alimentaria Premium - Sustituto Natural de la levadura...")
 
@@ -224,7 +224,7 @@ Pondríamos también 1 cucharadilla del crémor tártaro.
 
 ### 2 gotas de aceite saborizante
 
-[![Aceite esencial de menta verde orgánico - 10 ml](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUlRtdDZWV05FUzB3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA4NjMyNg=)](https://www.amazon.es/dpB06XZCRV78?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aceite esencial de menta verde orgánico - 10 ml")
+[![Aceite esencial de menta verde orgánico - 10 ml](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUlRtdDZWV05FUzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDcwOTcyNQ=)](https://www.amazon.es/dpB06XZCRV78?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aceite esencial de menta verde orgánico - 10 ml")
 
 [Aceite esencial de menta verde orgánico - 10 ml](https://www.amazon.es/dp/B06XZCRV78?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aceite esencial de menta verde orgánico - 10 ml")
 

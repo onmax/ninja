@@ -7,7 +7,7 @@ image: planificacion-de-entrenamiento.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2024/01/planificacion-de-entrenamiento.jpeg
 published: 2024-02-06T07:34:53+00:00
 modified: 2024-08-30T05:23:55+00:00
-scrappedAt: 2024-10-14T16:14:08.563Z
+scrappedAt: 2024-11-02T15:21:46.608Z
 audioLink: 
 bibliography: ["Schoenfeld BJ, Ogborn D, Krieger JW. Effects of Resistance Training Frequency on Measures of Muscle Hypertrophy: A Systematic Review and Meta-Analysis. Sports Med. 2016 Nov;46(11):1689-1697. doi: 10.1007/s40279-016-0543-8. PMID: 27102172.","Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. J Sports Sci. 2017 Jun;35(11):1073-1082. doi: 10.1080/02640414.2016.1210197. Epub 2016 Jul 19. PMID: 27433992.","Enes, Alysson1; De Souza, Eduardo O.2; Souza-Junior, Tácito P.1. Effects of Different Weekly Set Progressions on Muscular Adaptations in Trained Males: Is there a Dose-Response Effect?. Medicine & Science in Sports & Exercise ():10.1249/MSS.0000000000003317, October 6, 2023. | DOI: 10.1249/MSS.0000000000003317","Ogasawara R, Arihara Y, Takegaki J, Nakazato K, Ishii N. Relationship between exercise volume and muscle protein synthesis in a rat model of resistance exercise. J Appl Physiol (1985). 2017 Oct 1;123(4):710-716. doi: 10.1152/japplphysiol.01009.2016. Epub 2017 Jul 20. PMID: 28729395.","“Set Volume for Muscle Size: The Ultimate Evidence Based Bible.” 2016. Weightology. https://weightology.net/the-members-area/evidence-based-guides/set-volume-for-muscle-size-the-ultimate-evidence-based-bible/. ‌"]
 ---
@@ -36,7 +36,7 @@ Sesiones puedo hacer en un parque aunque de vez en cuando voy al gimnasio a hace
 
 ## Mi plan de entrenamiento personal
 
-_Actualización: septiembre de 2024_  
+_Actualización: octubre de 2024_  
 _Si no he actualizado significará que sigo con este plan_
 
 - **Filosofía:** tener el hábito de entrenar tan solidificado que espere cada sesión de entrenamiento con tantas ganas que hasta me vea haciendo este tipo de ejercicio a décadas vista

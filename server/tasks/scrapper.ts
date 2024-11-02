@@ -101,6 +101,7 @@ async function parsePost(link: string) {
     .slice(crap + 1)
     .filter(line => !removeLinesContaining.some(phrase => line.includes(phrase)))
     .join('\n')
+    .trim()
 
   const bibliographyRe = /\*\s+\d+\s+([^\n]+)/g
   const match = md.match(bibliographyRe)
@@ -111,7 +112,7 @@ async function parsePost(link: string) {
   }
 
   const audioRe = /^\[.*\]\((https?:\/\/[^)]+)\)/g
-  const audioLink = (md.trimStart().match(audioRe) || []).map(match => match.replace(audioRe, '$1'))
+  const audioLink = (md.match(audioRe) || []).map(match => match.replace(audioRe, '$1'))
 
   const slug = link.split('/').at(-2)
   const name = (select('h1', dom)[0]?.children[0] as Element)?.data.trim() || ''
@@ -147,6 +148,7 @@ async function parsePost(link: string) {
 
   // remove everything from bliography to the end
   const crapAtTheEnd = /\nBibliografía: fuentes, referencias y notas[\s\S]*/
+  const crapAtTheEnd2 = /\.autoPodcast ul li a img\{width:50px\}(.*)/s
 
   // remove the table of contents
   const toc = /Navega por el contenido\n\n\[Toggle\]\(#\)\n\n(\*.*\n(\s*\*.*\n)*)/g
@@ -158,6 +160,7 @@ async function parsePost(link: string) {
     .replace(audioRe, '')
     .replace(toc, '')
     .replace(crapAtTheEnd, '')
+    .replace(crapAtTheEnd2, '')
     .replace(h2Markup, '## $1')
     .replaceAll(/\n{3,}/g, '\n\n')
     .replaceAll(/\[(\d+)\]\(javascript:void\\\(0\\\)\)/g, '[ref-$1](#ref-$1){.ref}')
@@ -190,6 +193,10 @@ async function parsePost(link: string) {
   }
 }
 
+const debugSlugs: string[] = [
+  // 'abrir-cuenta-bancaria-offshore',
+]
+
 /**
  * Loop over https://pau.ninja/blog/{N}
  *
@@ -199,12 +206,20 @@ async function parsePost(link: string) {
  * The moment we don't have any more links, we stop the loop. We yield the links we found one-by-one.
  */
 async function* getPost(): AsyncGenerator<any, void, void> {
-  const url = 'https://pau.ninja/blog'
+  const url = 'https://pau.ninja'
+
+  if (debugSlugs.length > 0) {
+    consola.info(`Scrapping just ${debugSlugs}`)
+    for (const slug of debugSlugs) {
+      yield parsePost(`${url}/${slug}/`)
+    }
+    return
+  }
 
   let i = 1
 
   while (true) {
-    const res = await fetch(`${url}/${i++}`)
+    const res = await fetch(`${url}/blog/${i++}`)
     const html = await res.text()
     const dom = parseDocument(html)
     const links = select('.elementor-widget-container > div > article > a', dom) as DomElement[]

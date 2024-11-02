@@ -7,7 +7,7 @@ image: persona-con-psicologia-positiva.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2023/12/persona-con-psicologia-positiva.jpeg
 published: 2023-12-24T07:46:12+00:00
 modified: 2024-08-10T19:45:18+00:00
-scrappedAt: 2024-10-14T16:14:33.406Z
+scrappedAt: 2024-11-02T15:22:07.224Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/88488804/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-26%2F381707044-44100-2-4c91c0845a702.mp3
 bibliography: ["Diamandis, P. H., & Kotler, S. (2012). Abundance: The future is better than you think. New York, NY: Simon and Schuster.","Garfield, L. (2018, Feb 14). Bill Gates says the world is objectively getting better — in spite of Trump’s ‘America First’ policies. Business Insider.","Seligman, M. E., & Csikszentmihalyi, M. (2000). Positive psychology: An introduction. American Psychology, 55, 5–14.","Ryan, R. M. & Deci, E. L. (2001). On happiness and human potentials: A review of research on hedonic and eudaimonic well-being. Annual Review of Psychology, 52, 141–156.","Melchert, N. (2002). Aristotle: The reality of the world. The good life. The great conversation: A historical introduction to philosophy, 4, 186–198.","Seligman, M. (2011). Flourish: A visionary new understanding of happiness and well-being. New York, NY: Simon and Schuster.","Diener, E. (1984). Subjective well-being. Psychological bulletin, 95(3), 542.","Lyubomirsky, S., King, L., & Diener, E. (2005). The benefits of frequent positive affect: Does happiness lead to success?. Psychological bulletin, 131(6), 803.","Diener, E., Heintzelman, S. J., Kushlev, K., Tay, L., Wirtz, D., Lutes, L. D., & Oishi, S. (2017). Findings all psychologists should know from the new science on subjective well-being. Canadian Psychology/Psychologie Canadienne, 58, 87–104.","Diener, E., Heintzelman, S. J., Kushlev, K., Tay, L., Wirtz, D., Lutes, L. D., & Oishi, S. (2017). Findings all psychologists should know from the new science on subjective well-being. Canadian Psychology/Psychologie Canadienne, 58, 87–104.","Fredrickson, B. (2009). Positivity: Groundbreaking research reveals how to embrace the hidden strength of positive emotions, overcome negativity, and thrive. New York, NY: Crown.","Parks, A. C., & Schueller, S. (2014). The Wiley Blackwell handbook of positive psychological interventions. West Sussex, UK: John Wiley & Sons.","Kabat-Zinn, J. (2009). Wherever you go, there you are: Mindfulness meditation in everyday life. London, UK: Piatkus.","Bryant, F. B. (2003). Savoring Beliefs Inventory (SBI): A scale for measuring beliefs about savoring. Journal of Mental Health, 12(2), 175-196","Peterson, C. (2006). A primer in positive psychology. New York, NY: Oxford University Press.","Bryant, F. B., Smart, C. M., & King, S. P. (2005). Using the past to enhance the present: Boosting happiness through positive reminiscence. Journal of Happiness Studies, 6(3), 227-260.","Wood, A. M., Froh, J. J., & Geraghty, A. W. (2010). Gratitude and well-being: A review and theoretical integration. Clinical Psychology Review, 30(7), 890-905.","Parks, A. C., & Schueller, S. (2014). The Wiley Blackwell handbook of positive psychological interventions. West Sussex, UK: John Wiley & Sons.","Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life. Journal of Personality and Social Psychology, 84(2), 377-389","Aknin, L. B., Dunn, E. W., & Norton, M. I. (2012). Happiness runs in a circular motion: Evidence for a positive feedback loop between prosocial spending and happiness. Journal of Happiness Studies, 13(2), 347-355.","Howell, R. T., Pchelin, P., & Iyer, R. (2012). The preference for experiences over possessions: Measurement and construct validation of the Experiential Buying Tendency Scale. The Journal of Positive Psychology, 7(1), 57-71.","Diener, E., & Seligman, M. E. P. (2002). Very happy people. Psychological Science, 13(1), 81-84.","Davis, M. H., Soderlund, T., Cole, J., Gadol, E., Kute, M., Myers, M., & Weihing, J. (2004). Cognitions associated with attempts to empathize: How do we imagine the perspective of another? Personality and Social Psychology Bulletin, 30(12), 1625-1635.","King, L. A. (2001). The health benefits of writing about life goals. Personality and Social Psychology Bulletin, 27(7), 798-807.","Seligman, M. E. P., Rashid, T., & Parks, A. C. (2006). Positive psychotherapy. American Psychologist, 61(8), 774-788.","Steger, M. F., Kashdan, T. B., & Oishi, S. (2008). Being good by doing good: Daily eudaimonic activity and well-being. Journal of Research in Personality, 42(1), 22-42.","Steger, M. F., Oishi, S., & Kashdan, T. B. (2009). Meaning in life across the life span: Levels and correlates of meaning in life from emerging adulthood to older adulthood. The Journal of Positive Psychology, 4(1), 43-52.","Parks, A. C., & Biswas-Diener, R. (2013). Positive interventions: Past, present and future. T. B., Kashdan & J. V., Ciarrochi (Eds.), Mindfulness, acceptance, and positive psychology: The seven foundations of well-being (pp. 140-165). Oakland, CA: Context Press.","Schwartz, B., & Sharpe, K. E. (2006). Practical wisdom: Aristotle meets positive psychology. Journal of Happiness Studies, 7(3), 377-395.","Sin, N. L., & Lyubomirsky, S. (2009). Enhancing well‐being and alleviating depressive symptoms with positive psychology interventions: A practice‐friendly meta‐analysis. Journal of clinical psychology, 65(5), 467–487.","Bolier L, Haverman M, Westerhof GJ, Riper H, Smit F, Bohlmeijer E. Positive psychology interventions: a meta-analysis of randomized controlled studies. BMC Public Health. 2013 Feb 8;13:119. doi: 10.1186/1471-2458-13-119. PMID: 23390882; PMCID: PMC3599475.","Wellenzohn, S., Proyer, R. T., & Ruch, W. (2016). Humor-based online positive psychology interventions: a randomized placebo-controlled long-term trial. The Journal of Positive Psychology, 11(6), 584-594.","Fordyce, M. W. (1977). Development of a program to increase personal happiness. Journal of Counseling Psychology, 24(6), 511-521.","Fordyce, M. W. (1983). A program to increase happiness: further studies. Journal of counseling psychology, 30(4), 483-498."]
 ---
@@ -143,13 +143,11 @@ Todos estos estudios que parecen poco relacionados, en realidad juegan una siner
 
 ### Saborear
 
-Ahora mismo rebajado
-
-[![Savoring: A New Model of Positive Experience](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGMVMwNVNSMjB0TUV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA5NTI2OQ=)](https://www.amazon.es/dp0805851208?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Savoring: A New Model of Positive Experience")
+[![Savoring: A New Model of Positive Experience](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdGF6WlZXbmh6Umt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzcyNw=)](https://www.amazon.es/dp0805851208?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Savoring: A New Model of Positive Experience")
 
 [Savoring: A New Model of Positive Experience](https://www.amazon.es/dp/0805851208?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Savoring: A New Model of Positive Experience")
 
-59,05 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
+62,38 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
 [Comprar en Amazon](https://www.amazon.es/dp/0805851208?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
@@ -163,7 +161,7 @@ Cuando recordamos esos momentos que muchas veces pueden ser tontos de durante el
 
 ### El Poder de la Gratitud
 
-[![El Poder de la Gratitud: 7 Ejercicios Simples que van a cambiar tu vida a mejor - incluye un diario...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNlZIRldTVVI0ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA5NTI2OQ=)](https://www.amazon.es/dpB07P83LXD3?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Poder de la Gratitud: 7 Ejercicios Simples que van a cambiar tu vida a mejor - incluye un diario...")
+[![El Poder de la Gratitud: 7 Ejercicios Simples que van a cambiar tu vida a mejor - incluye un diario...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNlZIRldTVVI0ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzcyNw=)](https://www.amazon.es/dpB07P83LXD3?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Poder de la Gratitud: 7 Ejercicios Simples que van a cambiar tu vida a mejor - incluye un diario...")
 
 [El Poder de la Gratitud: 7 Ejercicios Simples que van a cambiar tu vida a mejor - incluye un diario...](https://www.amazon.es/dp/B07P83LXD3?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Poder de la Gratitud: 7 Ejercicios Simples que van a cambiar tu vida a mejor - incluye un diario...")
 
@@ -179,7 +177,7 @@ Sin necesidad de hacer nada en específico más que de llevar el propio diario.
 
 Ahora mismo rebajado
 
-[![El pequeño libro de la bondad. Conecta con los demás, sé más feliz y transforma tu vida](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGd1dsQlFTSEZyZVV3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA5NTI2OQ=)](https://www.amazon.es/dp8484458148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El pequeño libro de la bondad. Conecta con los demás, sé más feliz y transforma tu vida")
+[![El pequeño libro de la bondad. Conecta con los demás, sé más feliz y transforma tu vida](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGd1dsQlFTSEZyZVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzcyNw=)](https://www.amazon.es/dp8484458148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El pequeño libro de la bondad. Conecta con los demás, sé más feliz y transforma tu vida")
 
 [El pequeño libro de la bondad. Conecta con los demás, sé más feliz y transforma tu vida](https://www.amazon.es/dp/8484458148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El pequeño libro de la bondad. Conecta con los demás, sé más feliz y transforma tu vida")
 
@@ -197,7 +195,7 @@ Aunque… ¿es altruista realmente si lo hacemos para sentirnos mejor?
 
 Ahora mismo rebajado
 
-[![Empatía (Serie Inteligencia Emocional HBR )](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdmRrWTRXa1ZVUmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA5NTI2OQ=)](https://www.amazon.es/dp8494606662?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Empatía (Serie Inteligencia Emocional HBR )")
+[![Empatía (Serie Inteligencia Emocional HBR )](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdmRrWTRXa1ZVUmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzcyNw=)](https://www.amazon.es/dp8494606662?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Empatía (Serie Inteligencia Emocional HBR )")
 
 [Empatía (Serie Inteligencia Emocional HBR )](https://www.amazon.es/dp/8494606662?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Empatía (Serie Inteligencia Emocional HBR )")
 
@@ -211,7 +209,7 @@ Ahora mismo rebajado
 
 Ahora mismo rebajado
 
-[![El cerebro optimista: Descubre que el mundo es mejor de lo que pensabas gracias a la neurociencia...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTVFVcG5TVWgyVmt3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA5NTI2OQ=)](https://www.amazon.es/dp8417694994?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El cerebro optimista: Descubre que el mundo es mejor de lo que pensabas gracias a la neurociencia...")
+[![El cerebro optimista: Descubre que el mundo es mejor de lo que pensabas gracias a la neurociencia...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTVFVcG5TVWgyVmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzcyNw=)](https://www.amazon.es/dp8417694994?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El cerebro optimista: Descubre que el mundo es mejor de lo que pensabas gracias a la neurociencia...")
 
 [El cerebro optimista: Descubre que el mundo es mejor de lo que pensabas gracias a la neurociencia...](https://www.amazon.es/dp/8417694994?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El cerebro optimista: Descubre que el mundo es mejor de lo que pensabas gracias a la neurociencia...")
 
@@ -233,7 +231,7 @@ Es una suposición que psicológicamente funciona extremadamente bien para ver e
 
 Ahora mismo rebajado
 
-[![Un nuevo mundo, ahora: Encuentra el propósito de tu vida (Best Seller)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFM04xZERiMmt0U2t3dVgxTk1NVFl3WHk1cWNHYz18MTcyOTA5NTI2OQ=)](https://www.amazon.es/dp848346411X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Un nuevo mundo, ahora: Encuentra el propósito de tu vida (Best Seller)")
+[![Un nuevo mundo, ahora: Encuentra el propósito de tu vida (Best Seller)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFM04xZERiMmt0U2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzcyNw=)](https://www.amazon.es/dp848346411X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Un nuevo mundo, ahora: Encuentra el propósito de tu vida (Best Seller)")
 
 [Un nuevo mundo, ahora: Encuentra el propósito de tu vida (Best Seller)](https://www.amazon.es/dp/848346411X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Un nuevo mundo, ahora: Encuentra el propósito de tu vida (Best Seller)")
 

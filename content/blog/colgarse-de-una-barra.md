@@ -7,12 +7,10 @@ image: persona-colgandose-de-una-barra.jpeg
 imageURL: https://pau.ninja/wp-content/uploads/2022/05/persona-colgandose-de-una-barra.jpeg
 published: 2024-03-12T07:13:50+00:00
 modified: 2024-08-10T19:18:28+00:00
-scrappedAt: 2024-10-14T16:13:55.467Z
+scrappedAt: 2024-11-02T15:52:25.285Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3
 bibliography: ["University of Helsinki. «Most common shoulder operation is no more beneficial than placebo surgery: One of the most common surgical procedures in the Western world is probably unnecessary, suggests a new study.» ScienceDaily. ScienceDaily, 20 July 2018.","Mika Paavola, Antti Malmivaara, Simo Taimela, Kari Kanto, Jari Inkinen, Juha Kalske, Ilkka Sinisaari, Vesa Savolainen, Jonas Ranstam, Teppo L N Järvinen. Subacromial decompression versus diagnostic arthroscopy for shoulder impingement: randomised, placebo surgery controlled clinical trial.","“¿Qué Es El Síndrome de Pinzamiento Del Hombro? | San Diego Hospital, Healthcare.” 2019. Ucsd.edu.","“Hanging for Shoulder Pain: Expert’s Cure for All Causes – Posture Labs.” 2023. Posture Labs.","“Hueso Acromion.” 2020. Fisioterapia-Online.com."]
 ---
-[https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3](https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3)
-
 Antes de bajar de los árboles de la Sabana, nuestros antepasados simios estaban todo el día colgados, aunque bueno… En la actualidad conozco algunos que siguen igual de colgados pero de otra forma.
 
 El caso es que hemos evolucionado en un entorno donde escalar y colgarse eran **más común que estar sentados**.
