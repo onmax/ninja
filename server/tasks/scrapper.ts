@@ -5,6 +5,7 @@ import consola from 'consola'
 import select from 'css-select'
 import { parseDocument } from 'htmlparser2'
 import TurndownService from 'turndown'
+import { folder } from '../utils/content'
 
 const categories: Category[] = []
 
@@ -18,7 +19,7 @@ export default defineTask({
       throw createError('This task is only available in development mode')
 
     consola.log('Running Scraper')
-    const folder = 'content/blog'
+    
 
     await mkdir(folder, { recursive: true })
     let counter = 0
