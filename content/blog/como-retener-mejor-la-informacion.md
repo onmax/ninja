@@ -1,17 +1,26 @@
 ---
-title: "Recuérdalo todo"
+title: Recuérdalo todo
+subtitle: mis métodos para retener 3x veces más información
 url: https://pau.ninja/como-retener-mejor-la-informacion
 slug: como-retener-mejor-la-informacion
-categories: ["productividad"]
+categories: 
 image: persona-retiene-informacion.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/03/persona-retiene-informacion.jpeg
-published: 2024-03-06T05:20:33+00:00
-modified: 2024-08-10T19:17:00+00:00
-scrappedAt: 2024-11-02T15:21:34.307Z
+imageUrl: https://pau.ninja/wp-content/uploads/2024/03/persona-retiene-informacion.jpeg
+publishedAt: 2024-03-06T05:20:33.000Z
+modifiedAt: 2024-08-10T19:17:00.000Z
+scrappedAt: 2024-11-04T11:13:53.484Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/84909570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-3%2F373080827-44100-2-24a88f8c43944.mp3
-bibliography: ["“Sean KANG | Associate Professor | PhD | University of Melbourne, Melbourne | MSD | Melbourne Graduate School for Education | Research Profile.” 2024. ResearchGate.","Murre JM, Dros J. Replication and Analysis of Ebbinghaus’ Forgetting Curve. PLoS One. 2015 Jul 6;10(7):e0120644. doi: 10.1371/journal.pone.0120644. PMID: 26148023; PMCID: PMC4492928.","Mehta A, Brooke N, Puskar A, Woodson MCC, Masi B, Wallon RC, Greeley DA. Implementation of Spaced Repetition by First-Year Medical Students: a Retrospective Comparison Based on Summative Exam Performance. Med Sci Educ. 2023 Jul 28;33(5):1089-1094. doi: 10.1007/s40670-023-01839-3. PMID: 37886276; PMCID: PMC10597963.","Bird, Chris M, James L Keidel, Leslie P Ing, Aidan J Horner, and Neil Burgess. 2015. “Consolidation of Complex Events via Reinstatement in Posterior Cingulate Cortex.” The Journal of Neuroscience 35 (43). Society for Neuroscience: 14426–14434. ‌","Lechner, Hilde A, Larry R Squire, and John H Byrne. 1999. “100 Years of Consolidation— Remembering Müller and Pilzecker.” Learning & Memory 6 (2). Cold Spring Harbor Laboratory Press: 77–87.","Wu, Y., Du, S., Johnson, J.L. et al. Microglia and amyloid precursor protein coordinate control of transient Candida cerebritis with memory deficits. Nat Commun 10, 58 (2019).","Rae C, Digney AL, McEwan SR, Bates TC. Oral creatine monohydrate supplementation improves brain performance: a double-blind, placebo-controlled, cross-over trial. Proc Biol Sci. 2003 Oct 22;270(1529):2147-50. doi: 10.1098/rspb.2003.2492. PMID: 14561278; PMCID: PMC1691485.","Kim, K., Sung, Y., Seo, J., Lee, S., Lim, B., Lee, C., et al. (2015). Effects of treadmill exercise-intensity on short-term memory in the rats born of the lipopolysaccharide-exposed maternal rats. J. Exerc. Rehabil. 11, 296–302. doi: 10.12965/jer.150264","Loprinzi, P. D., Moore, D., and Loenneke, J. P. (2020). Does aerobic and resistance exercise influence episodic memory through unique mechanisms? Brain Sci. 10:913. doi: 10.3390/brainsci10120913","Knipper, M., da Penha Berzaghi, M., Blöchl, A., Breer, H., Thoenen, H., and Lindholm, D. (1994). Positive feedback between acetylcholine and the neurotrophins nerve growth factor and brain-derived neurotrophic factor in the rat hippocampus. Eur. J. Neurosci. 6, 668–671. doi: 10.1111/j.1460-9568.1994.tb00312"]
+bibliography: “Sean KANG | Associate Professor | PhD | University of Melbourne, Melbourne | MSD | Melbourne Graduate School for Education | Research Profile.” 2024. ResearchGate.
+Murre JM, Dros J. Replication and Analysis of Ebbinghaus’ Forgetting Curve. PLoS One. 2015 Jul 6;10(7):e0120644. doi: 10.1371/journal.pone.0120644. PMID: 26148023; PMCID: PMC4492928.
+Mehta A, Brooke N, Puskar A, Woodson MCC, Masi B, Wallon RC, Greeley DA. Implementation of Spaced Repetition by First-Year Medical Students: a Retrospective Comparison Based on Summative Exam Performance. Med Sci Educ. 2023 Jul 28;33(5):1089-1094. doi: 10.1007/s40670-023-01839-3. PMID: 37886276; PMCID: PMC10597963.
+Bird, Chris M, James L Keidel, Leslie P Ing, Aidan J Horner, and Neil Burgess. 2015. “Consolidation of Complex Events via Reinstatement in Posterior Cingulate Cortex.” The Journal of Neuroscience 35 (43). Society for Neuroscience: 14426–14434. ‌
+Lechner, Hilde A, Larry R Squire, and John H Byrne. 1999. “100 Years of Consolidation— Remembering Müller and Pilzecker.” Learning & Memory 6 (2). Cold Spring Harbor Laboratory Press: 77–87.
+Wu, Y., Du, S., Johnson, J.L. et al. Microglia and amyloid precursor protein coordinate control of transient Candida cerebritis with memory deficits. Nat Commun 10, 58 (2019).
+Rae C, Digney AL, McEwan SR, Bates TC. Oral creatine monohydrate supplementation improves brain performance: a double-blind, placebo-controlled, cross-over trial. Proc Biol Sci. 2003 Oct 22;270(1529):2147-50. doi: 10.1098/rspb.2003.2492. PMID: 14561278; PMCID: PMC1691485.
+Kim, K., Sung, Y., Seo, J., Lee, S., Lim, B., Lee, C., et al. (2015). Effects of treadmill exercise-intensity on short-term memory in the rats born of the lipopolysaccharide-exposed maternal rats. J. Exerc. Rehabil. 11, 296–302. doi: 10.12965/jer.150264
+Loprinzi, P. D., Moore, D., and Loenneke, J. P. (2020). Does aerobic and resistance exercise influence episodic memory through unique mechanisms? Brain Sci. 10:913. doi: 10.3390/brainsci10120913
+Knipper, M., da Penha Berzaghi, M., Blöchl, A., Breer, H., Thoenen, H., and Lindholm, D. (1994). Positive feedback between acetylcholine and the neurotrophins nerve growth factor and brain-derived neurotrophic factor in the rat hippocampus. Eur. J. Neurosci. 6, 668–671. doi: 10.1111/j.1460-9568.1994.tb00312
 ---
-[https://anchor.fm/s/98566448/podcast/play/84909570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-3%2F373080827-44100-2-24a88f8c43944.mp3](https://anchor.fm/s/98566448/podcast/play/84909570/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-3%2F373080827-44100-2-24a88f8c43944.mp3)
 
 Ninja de la vida, no estaba tan emocionado sobre retener información desde que me obsesioné por los idiomas hace cosa de 6 años.
 

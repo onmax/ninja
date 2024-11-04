@@ -1,16 +1,18 @@
 ---
-title: "Fases del mercado"
+title: Fases del mercado
+subtitle: el arte de predecir una tendencia según Wyckoff
 url: https://pau.ninja/fases-del-mercado-segun-wyckoff
 slug: fases-del-mercado-segun-wyckoff
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: fases-del-mercado-segun-wyckoff.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/06/fases-del-mercado-segun-wyckoff.jpeg
-published: 2024-06-12T07:29:10+00:00
-modified: 2024-06-20T12:16:59+00:00
-scrappedAt: 2024-11-02T15:52:11.229Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/06/fases-del-mercado-segun-wyckoff.jpeg
+publishedAt: 2024-06-12T07:29:10.000Z
+modifiedAt: 2024-06-20T12:16:59.000Z
+scrappedAt: 2024-11-04T11:11:52.805Z
+audioLink: undefined
+bibliography: 
 ---
+
 Cuando venimos de una tendencia alcista o bajista, la acción o la crypto necesitará _descansar_.
 
 Se pondrá en un rango lateral de precio, en el que el precio parecerá que sube, pero bajará, volverá a subir, volverá a bajar, y parecerá que está en una especie de [_caja_ de Darvas](./cajas-de-darvas) en la que no quiere salir durante semana o incluso meses.

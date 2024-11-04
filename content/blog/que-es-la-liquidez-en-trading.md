@@ -1,16 +1,20 @@
 ---
-title: "Qué es la liquidez en trading"
+title: Qué es la liquidez en trading
+subtitle: 
 url: https://pau.ninja/que-es-la-liquidez-en-trading
 slug: que-es-la-liquidez-en-trading
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: trader-con-liquidez.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/06/trader-con-liquidez.jpeg
-published: 2024-07-03T04:39:00+00:00
-modified: 2024-07-08T08:57:15+00:00
-scrappedAt: 2024-11-02T15:52:08.182Z
-audioLink: 
-bibliography: ["día","horas","hora"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/06/trader-con-liquidez.jpeg
+publishedAt: 2024-07-03T04:39:00.000Z
+modifiedAt: 2024-07-08T08:57:15.000Z
+scrappedAt: 2024-11-04T11:11:32.388Z
+audioLink: undefined
+bibliography: día
+horas
+hora
 ---
+
 El mercado, el precio hace como el juego de la serpiente o Pacman, siempre en busca de comer y hacerse más grande.
 
 ¿Qué consume? ¿Cuál es su alimento? Sin duda es **la liquidez**.
@@ -43,7 +47,7 @@ A bien…
 
 ## ¿Dónde se encuentra la liquidez?
 
-Cuando hablamos de _trading_ tipo diario como _scalping_ (compras y ventas en cuestión de minutos o incluso segundos), operamos exclusivamente en mercados muy líquidos (tipo índices como el Nasdaq) en rios donde sabemos que no tendremos problemas en comprar/vender posiciones porque habrá suficiente liquidez.
+Cuando hablamos de _trading_ tipo diario como _scalping_ (compras y ventas en cuestión de minutos o incluso segundos), operamos exclusivamente en mercados muy líquidos (tipo índices como el Nasdaq) en horarios donde sabemos que no tendremos problemas en comprar/vender posiciones porque habrá suficiente liquidez.
 
 Pero ninja de la vida, no somos los únicos que queremos _cash_.
 
@@ -137,23 +141,23 @@ Determinaremos el DOL dependiendo la temporalidad en la que entremos.
 
 Me refiero a que si voy a entrar en 5 minutos o incluso temporalidades más cortas (2, 3, 4, 1 minuto…), entonces determinaré donde está mi DOL utilizando las temporalidades de:
 
-- 1 
+- 1 día
 - 4 
-- 1 
+- 1 hora
 
-Para ver donde está mi _succión_ de liquidez, pero en cambio si quisiera entrar en el gráfico de 1  entonces miraría en el semanal y mensual.
+Para ver donde está mi _succión_ de liquidez, pero en cambio si quisiera entrar en el gráfico de 1 hora entonces miraría en el semanal y mensual.
 
 ### Sesgo diario
 
 Lo primero que tenemos que hacer para entender hacia dónde irá la liquidez es interpretando el sesgo diario o _Daily Bias_.
 
-Aquí será vital que sepamos [cómo leer velas japonesas](./como-leer-velas-japonesas) (#602), porque necesitaremos interpretar si el precio cerró por encima o por debajo de la última vela (a lo vemos).
+Aquí será vital que sepamos [cómo leer velas japonesas](./como-leer-velas-japonesas) (#602), porque necesitaremos interpretar si el precio cerró por encima o por debajo de la última vela (ahora lo vemos).
 
 ![partes de las velas japonesas](./wp-content/uploads/2024/03partes-de-las-velas-japonesas.jpeg)
 
-Esta interpretación nos servirá de sesgo que dictará hacia donde creemos que irá el precio de ese , y lógicamente sólo podemos tener un sesgo alcista o bajista. No hay más.
+Esta interpretación nos servirá de sesgo que dictará hacia donde creemos que irá el precio de ese día, y lógicamente sólo podemos tener un sesgo alcista o bajista. No hay más.
 
-Entonces lo que vamos a ver a nos ayudará a definir cuál será la tendencia del precio en distintas temporalidades, empezando por mirar el  de hoy, ver la última vela a la de hoy y hacernos la pregunta…
+Entonces lo que vamos a ver ahora nos ayudará a definir cuál será la tendencia del precio en distintas temporalidades, empezando por mirar el día de hoy, ver la última vela a la de hoy y hacernos la pregunta…
 
 ### Continuation (continuación)
 
@@ -177,7 +181,7 @@ Cuando tenemos dos velas bajistas, en este caso la liquidez estará en la mecha 
 
 Esta perla que os acabo de mencionar es vital para entender hacia donde irá el precio, porque además, gracias a lo que aprendimos de [la metodología Wyckoff](./metodo-wyckoff) la fractalidad del tiempo también se aplica al mercado.
 
-Fractalidad me refiero a que puedes ampliar o reducir la temporalidad (1 , 1 mes, 1 , 20 minutos, 1 minuto, 1 segundo…) y todo esto sucederá en cualquiera de estas temporalidades.
+Fractalidad me refiero a que puedes ampliar o reducir la temporalidad (1 día, 1 mes, 1 hora, 20 minutos, 1 minuto, 1 segundo…) y todo esto sucederá en cualquiera de estas temporalidades.
 
 Pero también hay más maneras de definir la próxima dirección del precio…
 
@@ -219,9 +223,9 @@ Es decir las velas que correspondan del lunes al viernes.
 
 Los marcamos porque es una manera fácil de que esa liquidez se chupe por nuestro querido algoritmo.
 
-### Liquidez del  anterior
+### Liquidez del día anterior
 
-El máximo y el mínimo del  anterior, o también…
+El máximo y el mínimo del día anterior, o también…
 
 ### Liquidez de las sesiones de trading
 

@@ -1,16 +1,26 @@
 ---
-title: "El reencuadre de la vida"
+title: El reencuadre de la vida
+subtitle: falso en teoría, pero cierto en la práctica
 url: https://pau.ninja/que-es-el-reencuadre-en-psicologia
 slug: que-es-el-reencuadre-en-psicologia
-categories: ["desarrollo-personal"]
+categories: 
 image: persona-usa-reencuadre-en-psicologia.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/10/persona-usa-reencuadre-en-psicologia.jpg
-published: 2024-10-17T09:03:34+00:00
-modified: 
-scrappedAt: 2024-11-02T15:51:50.574Z
-audioLink: 
-bibliography: ["Tversky, A. & Kahneman, D., 1974. Judgment under Uncertainty: Heuristics and Biases. _Science_, 185(4157), pp. 1124-1131","James, W., 1907. Pragmatism: A New Name for Some Old Ways of Thinking. _New York: Longman Green and Co_","Vyse, S.A., 2014. _Believing in Magic: The Psychology of Superstition_. New York: Oxford University Press","Harris, M., 1974. _Cows, Pigs, Wars, and Witches: The Riddles of Culture_. New York: Random House","Libet, B., 1985. Unconscious cerebral initiative and the role of conscious will in voluntary action. _Behavioral and Brain Sciences_, 8(4), pp. 529-566","Beck, A.T., 1979. Cognitive therapy and the emotional disorders. _Penguin Group_","Asch, S.E., 1955. Opinions and social pressure. _Scientific American_, 193(5), pp. 31-35","Jillson, C., 1994. _Constitution Making: Conflict and Consensus in the Federal Convention of 1787_. New York: Agathon Press","McAdams, D.P., 2001. The psychology of life stories. _Review of General Psychology_, 5(2), pp. 100-122"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/10/persona-usa-reencuadre-en-psicologia.jpg
+publishedAt: 2024-10-17T09:03:34.000Z
+modifiedAt: undefined
+scrappedAt: 2024-11-04T11:09:02.360Z
+audioLink: undefined
+bibliography: Tversky, A. & Kahneman, D., 1974. Judgment under Uncertainty: Heuristics and Biases. _Science_, 185(4157), pp. 1124-1131
+James, W., 1907. Pragmatism: A New Name for Some Old Ways of Thinking. _New York: Longman Green and Co_
+Vyse, S.A., 2014. _Believing in Magic: The Psychology of Superstition_. New York: Oxford University Press
+Harris, M., 1974. _Cows, Pigs, Wars, and Witches: The Riddles of Culture_. New York: Random House
+Libet, B., 1985. Unconscious cerebral initiative and the role of conscious will in voluntary action. _Behavioral and Brain Sciences_, 8(4), pp. 529-566
+Beck, A.T., 1979. Cognitive therapy and the emotional disorders. _Penguin Group_
+Asch, S.E., 1955. Opinions and social pressure. _Scientific American_, 193(5), pp. 31-35
+Jillson, C., 1994. _Constitution Making: Conflict and Consensus in the Federal Convention of 1787_. New York: Agathon Press
+McAdams, D.P., 2001. The psychology of life stories. _Review of General Psychology_, 5(2), pp. 100-122
 ---
+
 Ninjas de la vida, definimos nuestra realidad con lo que creemos (nuestras creencias), pero ¿alguna vez os habéis planteado que no todas las creencias que elegimos tienen que ser verdad?
 
 En muchos casos, las creencias que más nos ayudan a avanzar no son las que necesariamente se ajustan a los hechos, sino las que nos resultan útiles.

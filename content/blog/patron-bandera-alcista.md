@@ -1,16 +1,18 @@
 ---
-title: "Bandera alcista"
+title: Bandera alcista
+subtitle: 
 url: https://pau.ninja/patron-bandera-alcista
 slug: patron-bandera-alcista
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: patron-bandera-alcista.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/04/patron-bandera-alcista.jpeg
-published: 2024-04-27T04:12:10+00:00
-modified: 2024-05-31T03:33:47+00:00
-scrappedAt: 2024-11-02T15:52:19.394Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/04/patron-bandera-alcista.jpeg
+publishedAt: 2024-04-27T04:12:10.000Z
+modifiedAt: 2024-05-31T03:33:47.000Z
+scrappedAt: 2024-11-04T11:13:00.527Z
+audioLink: undefined
+bibliography: 
 ---
+
 Imagina que estás vigilando a una de las acción que sigues y te das cuenta que después de ese valor haya subido de una forma dramática, ahora el precio lleva tiempo en lateral…
 
 Pero entonces miras un poco más de cerca y te encuentras que el precio en lateral, se está comprimiendo, comprimiendo y comprimiendo mas que tu espalda baja cuando haces sentadillas.

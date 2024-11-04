@@ -1,16 +1,18 @@
 ---
-title: "Stop Loss"
+title: Stop Loss
+subtitle: el arte de colocar tus pérdidas donde debas
 url: https://pau.ninja/donde-colocar-el-stop-loss
 slug: donde-colocar-el-stop-loss
-categories: ["impuestos","analisis-tecnico"]
+categories: 
 image: trader-inversor-usa-stop-loss.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/05/trader-inversor-usa-stop-loss.jpeg
-published: 2024-05-18T04:04:17+00:00
-modified: 2024-05-18T07:03:08+00:00
-scrappedAt: 2024-11-02T15:52:14.545Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-inversor-usa-stop-loss.jpeg
+publishedAt: 2024-05-18T04:04:17.000Z
+modifiedAt: 2024-05-18T07:03:08.000Z
+scrappedAt: 2024-11-04T11:12:21.145Z
+audioLink: undefined
+bibliography: 
 ---
+
 Es imposible que no hayas hecho _trading_ y te hayas encontrado en una situación en la que encuentras una empresa o crypto que tiene un gráfico con una pinta perfecta.
 
 De que va a explotar…

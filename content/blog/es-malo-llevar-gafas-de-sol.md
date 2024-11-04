@@ -1,17 +1,27 @@
 ---
-title: "El lado oscuro de las gafas (de sol)"
+title: El lado oscuro de las gafas (de sol)
+subtitle: 
 url: https://pau.ninja/es-malo-llevar-gafas-de-sol
 slug: es-malo-llevar-gafas-de-sol
-categories: ["habitos-saludables"]
+categories: 
 image: persona-con-gafas-de-sol-en-la-playa.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2023/05/persona-con-gafas-de-sol-en-la-playa.jpeg
-published: 2023-05-23T05:16:31+00:00
-modified: 2023-09-09T11:07:27+00:00
-scrappedAt: 2024-11-02T15:23:19.111Z
+imageUrl: https://pau.ninja/wp-content/uploads/2023/05/persona-con-gafas-de-sol-en-la-playa.jpeg
+publishedAt: 2023-05-23T05:16:31.000Z
+modifiedAt: 2023-09-09T11:07:27.000Z
+scrappedAt: 2024-11-04T11:39:54.381Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/73871551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-26%2F340719942-44100-2-bc4a1b9be4aae.mp3
-bibliography: ["Janich P, Toufighi K, Solanas G, Luis NM, Minkwitz S, Serrano L, Lehner B, Benitah SA. Human epidermal stem cell function is regulated by circadian oscillations. Cell Stem Cell. 2013 Dec 5;13(6):745-53. doi: 10.1016/j.stem.2013.09.004. Epub 2013 Oct 10. PMID: 24120744.","Alsalem JA, Patel D, Susarla R, Coca-Prados M, Bland R, Walker EA, Rauz S, Wallace GR. Characterization of vitamin D production by human ocular barrier cells. Invest Ophthalmol Vis Sci. 2014 Apr 7;55(4):2140-7. doi: 10.1167/iovs.13-13019. PMID: 24576880.","Lin Y, Ubels JL, Schotanus MP, Yin Z, Pintea V, Hammock BD, Watsky MA. Enhancement of vitamin D metabolites in the eye following vitamin D3 supplementation and UV-B irradiation. Curr Eye Res. 2012 Oct;37(10):871-8. doi: 10.3109/02713683.2012.688235. Epub 2012 May 25. PMID: 22632164; PMCID: PMC3572765.","Radiation: Ultraviolet (UV) radiation 9 March 2016 | Q&A, WHO","Grønskov K, Ek J, Brondum-Nielsen K. Oculocutaneous albinism. Orphanet J Rare Dis. 2007 Nov 2;2:43. doi: 10.1186/1750-1172-2-43. PMID: 17980020; PMCID: PMC2211462.","Ham WT Jr, Mueller HA, Ruffolo JJ Jr, Clarke AM. Sensitivity of the retina to radiation damage as a function of wavelength. Photochem Photobiol. 1979 Apr;29(4):735-43. doi: 10.1111/j.1751-1097.1979.tb07759.x. PMID: 109869.","Lazzerini Ospri L, Prusky G, Hattar S. Mood, the Circadian System, and Melanopsin Retinal Ganglion Cells. Annu Rev Neurosci. 2017 Jul 25;40:539-556. doi: 10.1146/annurev-neuro-072116-031324. Epub 2017 May 17. PMID: 28525301; PMCID: PMC5654534.","Son, J.-H., et al. (2017). Five cases of phytophotodermatitis caused by fig leaves and relevant literature review.","Johnson-Arbor, K. (n.d.). Lime juice + sun can cause skin rashes. All about phytophotodermatitis.","Hankinson, A., et al. (2014). Lime-induced phytophotodermatitis.","Almeida, H. L., Jr., et al. (2016). Phytophotodermatitis: A review of its clinical and pathogenic aspects."]
+bibliography: Janich P, Toufighi K, Solanas G, Luis NM, Minkwitz S, Serrano L, Lehner B, Benitah SA. Human epidermal stem cell function is regulated by circadian oscillations. Cell Stem Cell. 2013 Dec 5;13(6):745-53. doi: 10.1016/j.stem.2013.09.004. Epub 2013 Oct 10. PMID: 24120744.
+Alsalem JA, Patel D, Susarla R, Coca-Prados M, Bland R, Walker EA, Rauz S, Wallace GR. Characterization of vitamin D production by human ocular barrier cells. Invest Ophthalmol Vis Sci. 2014 Apr 7;55(4):2140-7. doi: 10.1167/iovs.13-13019. PMID: 24576880.
+Lin Y, Ubels JL, Schotanus MP, Yin Z, Pintea V, Hammock BD, Watsky MA. Enhancement of vitamin D metabolites in the eye following vitamin D3 supplementation and UV-B irradiation. Curr Eye Res. 2012 Oct;37(10):871-8. doi: 10.3109/02713683.2012.688235. Epub 2012 May 25. PMID: 22632164; PMCID: PMC3572765.
+Radiation: Ultraviolet (UV) radiation 9 March 2016 | Q&A, WHO
+Grønskov K, Ek J, Brondum-Nielsen K. Oculocutaneous albinism. Orphanet J Rare Dis. 2007 Nov 2;2:43. doi: 10.1186/1750-1172-2-43. PMID: 17980020; PMCID: PMC2211462.
+Ham WT Jr, Mueller HA, Ruffolo JJ Jr, Clarke AM. Sensitivity of the retina to radiation damage as a function of wavelength. Photochem Photobiol. 1979 Apr;29(4):735-43. doi: 10.1111/j.1751-1097.1979.tb07759.x. PMID: 109869.
+Lazzerini Ospri L, Prusky G, Hattar S. Mood, the Circadian System, and Melanopsin Retinal Ganglion Cells. Annu Rev Neurosci. 2017 Jul 25;40:539-556. doi: 10.1146/annurev-neuro-072116-031324. Epub 2017 May 17. PMID: 28525301; PMCID: PMC5654534.
+Son, J.-H., et al. (2017). Five cases of phytophotodermatitis caused by fig leaves and relevant literature review.
+Johnson-Arbor, K. (n.d.). Lime juice + sun can cause skin rashes. All about phytophotodermatitis.
+Hankinson, A., et al. (2014). Lime-induced phytophotodermatitis.
+Almeida, H. L., Jr., et al. (2016). Phytophotodermatitis: A review of its clinical and pathogenic aspects.
 ---
-[https://anchor.fm/s/98566448/podcast/play/73871551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-26%2F340719942-44100-2-bc4a1b9be4aae.mp3](https://anchor.fm/s/98566448/podcast/play/73871551/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-6-26%2F340719942-44100-2-bc4a1b9be4aae.mp3)
 
 ¿Alguna vez has visto a un gorila con **gafas de sol**? ¿Y a un lobo? ¿Has visto algún documental sobre indígenas que las estuvieran usando?
 

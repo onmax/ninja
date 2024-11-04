@@ -1,17 +1,21 @@
 ---
-title: "Súper digestión"
+title: Súper digestión
+subtitle: el adiós al papel higiénico gracias a la dieta carnívora
 url: https://pau.ninja/habitos-saludables-aparato-digestivo
 slug: habitos-saludables-aparato-digestivo
-categories: ["nutricion"]
+categories: 
 image: persona-estrenida-por-la-digestion-de-la-carne.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2023/08/persona-estrenida-por-la-digestion-de-la-carne.jpeg
-published: 2023-08-28T14:28:19+00:00
-modified: 2023-12-22T21:08:29+00:00
-scrappedAt: 2024-11-02T15:22:50.574Z
+imageUrl: https://pau.ninja/wp-content/uploads/2023/08/persona-estrenida-por-la-digestion-de-la-carne.jpeg
+publishedAt: 2023-08-28T14:28:19.000Z
+modifiedAt: 2023-12-22T21:08:29.000Z
+scrappedAt: 2024-11-04T11:34:37.847Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75355178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F345343048-44100-2-6f10ac9734f88.mp3
-bibliography: ["Daley CA, Abbott A, Doyle PS, Nader GA, Larson S. A review of fatty acid profiles and antioxidant content in grass-fed and grain-fed beef. Nutr J. 2010 Mar 10;9:10. doi: 10.1186/1475-2891-9-10. PMID: 20219103; PMCID: PMC2846864.","“Eat Wild – Super Natural.” 2019. Eatwild.com.‌","Ghosh S, DeCoffe D, Brown K, Rajendiran E, Estaki M, Dai C, Yip A, Gibson DL. Fish oil attenuates omega-6 polyunsaturated fatty acid-induced dysbiosis and infectious colitis but impairs LPS dephosphorylation activity causing sepsis. PLoS One. 2013;8(2):e55468. doi: 10.1371/journal.pone.0055468. Epub 2013 Feb 6. PMID: 23405155; PMCID: PMC3566198.","Patterson E, Wall R, Fitzgerald GF, Ross RP, Stanton C. Health implications of high dietary omega-6 polyunsaturated Fatty acids. J Nutr Metab. 2012;2012:539426. doi: 10.1155/2012/539426. Epub 2012 Apr 5. PMID: 22570770; PMCID: PMC3335257.","“Are You Getting Enough Calcium? (¿Estás Consumiendo Suficiente Cantidad de Calcio?).” 2022. Mayo Clinic.‌"]
+bibliography: Daley CA, Abbott A, Doyle PS, Nader GA, Larson S. A review of fatty acid profiles and antioxidant content in grass-fed and grain-fed beef. Nutr J. 2010 Mar 10;9:10. doi: 10.1186/1475-2891-9-10. PMID: 20219103; PMCID: PMC2846864.
+“Eat Wild – Super Natural.” 2019. Eatwild.com.‌
+Ghosh S, DeCoffe D, Brown K, Rajendiran E, Estaki M, Dai C, Yip A, Gibson DL. Fish oil attenuates omega-6 polyunsaturated fatty acid-induced dysbiosis and infectious colitis but impairs LPS dephosphorylation activity causing sepsis. PLoS One. 2013;8(2):e55468. doi: 10.1371/journal.pone.0055468. Epub 2013 Feb 6. PMID: 23405155; PMCID: PMC3566198.
+Patterson E, Wall R, Fitzgerald GF, Ross RP, Stanton C. Health implications of high dietary omega-6 polyunsaturated Fatty acids. J Nutr Metab. 2012;2012:539426. doi: 10.1155/2012/539426. Epub 2012 Apr 5. PMID: 22570770; PMCID: PMC3335257.
+“Are You Getting Enough Calcium? (¿Estás Consumiendo Suficiente Cantidad de Calcio?).” 2022. Mayo Clinic.‌
 ---
-[https://anchor.fm/s/98566448/podcast/play/75355178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F345343048-44100-2-6f10ac9734f88.mp3](https://anchor.fm/s/98566448/podcast/play/75355178/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-1%2F345343048-44100-2-6f10ac9734f88.mp3)
 
 Imagina que cada vez que cagas, tu culo te manda un mensaje de texto sobre lo bien o mal que has digerido la comida. Que tu única forma de contestar será limpiándote con papel higiénico.
 
@@ -375,7 +379,7 @@ Esta es la razón por la que el suplemento de magnesio más popular para ir al b
 
 Este es el suplemento por excelencia para ir al baño.
 
-[![Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVWEyOUhiblZJUmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzc3MA=)](https://www.amazon.es/dpB004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...")
+[![Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVWEyOUhiblZJUmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NjAzMA=)](https://www.amazon.es/dpB004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...")
 
 [Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...](https://www.amazon.es/dp/B004YTVUO8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Citrato de Magnesio | Ayuda a la Función Muscular | Reduce Cansancio y Fatiga | 120...")
 

@@ -20,6 +20,7 @@ export default defineNuxtConfig({
     'nuxt-auth-utils',
     '@nuxt/fonts',
     '@nuxt/icon',
+    '@nuxt/test-utils/module',
   ],
 
   css: [

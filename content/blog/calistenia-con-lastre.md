@@ -1,16 +1,28 @@
 ---
-title: "Adiós, lastre"
+title: Adiós, lastre
+subtitle: NO necesitas añadir peso para progresar en calistenia
 url: https://pau.ninja/calistenia-con-lastre
 slug: calistenia-con-lastre
-categories: ["fitness"]
+categories: 
 image: persona-hace-calistenia-con-lastre.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/08/persona-hace-calistenia-con-lastre.jpg
-published: 2024-08-31T09:06:05+00:00
-modified: 
-scrappedAt: 2024-11-02T15:51:56.036Z
-audioLink: 
-bibliography: ["dominadas","fondos","flexiones","Fisher, J. P., Steele, J., & Smith, D. (2017). «High- and low-load resistance training: Differential effects on muscle strength and hypertrophy in resistance-trained men.» _Journal of Sports Sciences_, 35(8), 747-755.","Schoenfeld, B. J., Ogborn, D., & Krieger, J. W. (2016). «Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis.» _Journal of Sports Sciences_, 34(24), 2351-2359.","Rhea, M. R., Alvar, B. A., Burkett, L. N., & Ball, S. D. (2003). «A meta-analysis to determine the dose response for strength development.» _Medicine and Science in Sports and Exercise_, 35(3), 456-464.","Schoenfeld, B. J., Grgic, J., Ogborn, D., & Krieger, J. W. (2017). «Strength and hypertrophy adaptations between low- vs. high-load resistance training: A systematic review and meta-analysis.» Journal of Strength and Conditioning Research, 31(12), 3508-3523.","Maté-Muñoz, J. L., Lougedo, J. H., Barba, M., Cañuelo-Márquez, A. M., Guodemar-Pérez, J., García-Fernández, P., Lozano-Estevan, M. D. C., Alonso-Melero, R., Sánchez-Calabuig, M. A., & Sánchez-Moreno, M. (2017). «Muscular fatigue in response to different modalities of CrossFit sessions.» PLoS ONE, 12(7), e0181855.","de Castro, P., Ito, D. T., & Cavalheiro, M. R. (2020). «Biomechanics of the biceps tendon: Implications for injury and repair.» Journal of Orthopaedic Research, 38(4), 804-811.","Grossman, M. G., ElAttrache, N. S., Shields, C. L., & Petersen, S. A. (2005). «Rupture of the pectoralis major after bench press weightlifting: A case report and review of the literature.» The American Journal of Sports Medicine, 33(4), 578-582.","Kim, S. Y., Ha, K. Y., & Kim, Y. H. (2011). «Tendon injuries in weightlifting: Analysis of tendon damage and repair.» Sports Medicine, 41(5), 379-386."]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-hace-calistenia-con-lastre.jpg
+publishedAt: 2024-08-31T09:06:05.000Z
+modifiedAt: undefined
+scrappedAt: 2024-11-04T11:09:41.491Z
+audioLink: undefined
+bibliography: dominadas
+fondos
+flexiones
+Fisher, J. P., Steele, J., & Smith, D. (2017). «High- and low-load resistance training: Differential effects on muscle strength and hypertrophy in resistance-trained men.» _Journal of Sports Sciences_, 35(8), 747-755.
+Schoenfeld, B. J., Ogborn, D., & Krieger, J. W. (2016). «Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis.» _Journal of Sports Sciences_, 34(24), 2351-2359.
+Rhea, M. R., Alvar, B. A., Burkett, L. N., & Ball, S. D. (2003). «A meta-analysis to determine the dose response for strength development.» _Medicine and Science in Sports and Exercise_, 35(3), 456-464.
+Schoenfeld, B. J., Grgic, J., Ogborn, D., & Krieger, J. W. (2017). «Strength and hypertrophy adaptations between low- vs. high-load resistance training: A systematic review and meta-analysis.» Journal of Strength and Conditioning Research, 31(12), 3508-3523.
+Maté-Muñoz, J. L., Lougedo, J. H., Barba, M., Cañuelo-Márquez, A. M., Guodemar-Pérez, J., García-Fernández, P., Lozano-Estevan, M. D. C., Alonso-Melero, R., Sánchez-Calabuig, M. A., & Sánchez-Moreno, M. (2017). «Muscular fatigue in response to different modalities of CrossFit sessions.» PLoS ONE, 12(7), e0181855.
+de Castro, P., Ito, D. T., & Cavalheiro, M. R. (2020). «Biomechanics of the biceps tendon: Implications for injury and repair.» Journal of Orthopaedic Research, 38(4), 804-811.
+Grossman, M. G., ElAttrache, N. S., Shields, C. L., & Petersen, S. A. (2005). «Rupture of the pectoralis major after bench press weightlifting: A case report and review of the literature.» The American Journal of Sports Medicine, 33(4), 578-582.
+Kim, S. Y., Ha, K. Y., & Kim, Y. H. (2011). «Tendon injuries in weightlifting: Analysis of tendon damage and repair.» Sports Medicine, 41(5), 379-386.
 ---
+
 Ninjas de la vida, añadir lastre está sobrevalorado…
 
 Y me arriesgo aún más: no es sólo el «peso añadido» que está sobrevalorado, sino la tensión mecánica.
@@ -55,7 +67,7 @@ Estoy convencido que debe ser porque todos los que nos pasamos a la calistenia v
 
 Desde los gimnasios _arrastramos_ (ahora que hablamos de lastre) la idea de que tenemos que meter un cinturón o chaleco con peso en el momento que tengamos:
 
-- 10 
+- 10 dominadas
 - 15 
 - 20 
 
@@ -69,7 +81,7 @@ Que bueno, hará que tengamos que hacer menos volumen y menos frecuencia. A má
 
 Añadimos más intensidad a nuestro entreno también en parte para ser más eficientes.[ref-1](#ref-1){.ref}
 
-En el sentido de que podemos llegar a un punto en el que somos capaces de hacer 20  y teóricamente tiene sentido añadir 5, 10 o 20kg para no tener que hacer 100 repeticiones para estimular crecimiento, fuerza o resistencia.
+En el sentido de que podemos llegar a un punto en el que somos capaces de hacer 20 fondos y teóricamente tiene sentido añadir 5, 10 o 20kg para no tener que hacer 100 repeticiones para estimular crecimiento, fuerza o resistencia.
 
 Y no vamos a ser hipócritas, hay estudios que apoyan la idea…[ref-2](#ref-2){.ref}[ref-3](#ref-3){.ref}
 
@@ -85,7 +97,7 @@ Pero tener el mismo potencial de ganar músculo y fuerza aumentando [el volumen 
 
 Usar lastre (y sobretodo obsesionarse con aumentarlo) hace mucho más fácil que nos lesionemos que no con el hecho de si nos obsesionáramos en aumentar repeticiones… Lo digo en el sentido de que por ejemplo:
 
-> Es más fácil romperse el tendón del bíceps haciendo  con mucho peso que hacer cientos de .
+> Es más fácil romperse el tendón del bíceps haciendo dominadas con mucho peso que hacer cientos de dominadas.
 
 Hay multitud de estudios que ven relación directa entre la subida del peso con más lesión, en cambio es mucho menor en subida de repeticiones (en vez de peso).[ref-6](#ref-6){.ref}[ref-7](#ref-7){.ref}[ref-8](#ref-8){.ref}
 
@@ -155,9 +167,9 @@ Esto sumado al peso mental que tendría en nuestra mente.
 
 En cambio centrarnos en el volumen sólo con nuestro peso en vez de cargas, nos permite que incluso potencialmente tengamos más tiempo para entrenar en cualquier parte del día en cualquier parte donde estemos.
 
-¿O a caso el 90% de vosotros no se podría _cascar_ unas cuantas  mientras escucháis esto?
+¿O a caso el 90% de vosotros no se podría _cascar_ unas cuantas flexiones mientras escucháis esto?
 
-Quizás no si estás en el coche o si te preocupa lo que pensarán de ti los del tren, pero podemos hacer esas  o hasta  (aunque más difícil) en cualquier parte.
+Quizás no si estás en el coche o si te preocupa lo que pensarán de ti los del tren, pero podemos hacer esas flexiones o hasta dominadas (aunque más difícil) en cualquier parte.
 
 Cuanto más _capacidad de trabajo_, cuanto más volumen, cuanto [más método Grease The Groove](./metodo-grease-the-groove) (#362), más propensos a que podamos progresar.
 
@@ -186,17 +198,17 @@ Y por una buena razón: que puede ser muy divertido.
 Aquí es lo que lleva a muchos atletas novatos a aprender habilidades de calistenia más avanzadas cuando no era un objetivo inicial cuando empezaron a entrenar.
 
 - Una flexión se convierte en una flexión de plancha….
-- Las [ en pica](./-en-pica) se convierten en  de pino…
-- Las  se convierten en  a una mano…
+- Las [flexiones en pica](./flexiones-en-pica) se convierten en flexiones de pino…
+- Las dominadas se convierten en dominadas a una mano…
 - O sacar a relucir [los beneficios de entrenar con anillas en vez de barras](./beneficios-de-entrenar-con-anillas)
 
 En el fondo estamos haciendo lo mismo pero de ángulos más complicados que retan (aún más) nuestro cuerpo con autocargas que se pronuncian en ciertos ángulos.
 
-Haciendo  con las manos más abajo,  más abiertas, o cerradas o con distintos agarres…
+Haciendo flexiones con las manos más abajo, dominadas más abiertas, o cerradas o con distintos agarres…
 
-De hecho fue la única forma en cómo termine [mejorando los bíceps: con ](./-de-biceps) específicas con una variación específica de bíceps.
+De hecho fue la única forma en cómo termine [mejorando los bíceps: con dominadas](./dominadas-de-biceps) específicas con una variación específica de bíceps.
 
-Pero hay otras formas de hacerlo también, por ejemplo si siempre entrenamos en el mismo sitio, es tan fácil como empezar con la posición de  pero con los pies siempre tocando la pared.
+Pero hay otras formas de hacerlo también, por ejemplo si siempre entrenamos en el mismo sitio, es tan fácil como empezar con la posición de flexiones pero con los pies siempre tocando la pared.
 
 Entonces usamos [las mismas gomas de calistenia numeradas](./tienda/gomas-calistenia) para ver como de lejos o cerca ponemos las manos en comparación con ese muro.
 
@@ -208,9 +220,9 @@ Después podemos ir incrementando la dificultad con técnicas especiales para qu
 
 A veces cuando cambiamos los ángulos nos podemos dar cuenta que no queremos _ganar un movimiento_, sino trabajar ciertos patrones o músculos específicos.
 
-Claro quizás las  de trabajan muy bien el pecho, pero si las haces estrechas es todo tríceps y no te interesa que haya otros músculos que ganen dominancia.
+Claro quizás las flexiones de trabajan muy bien el pecho, pero si las haces estrechas es todo tríceps y no te interesa que haya otros músculos que ganen dominancia.
 
-O si estamos progresando muy bien haciendo [una variación de  en paralelas](./-en-paralelas), entonces tendría sentido que… bueno. Seguir haciendo  en paralelas de la misma manera.
+O si estamos progresando muy bien haciendo [una variación de fondos en paralelas](./fondos-en-paralelas), entonces tendría sentido que… bueno. Seguir haciendo fondos en paralelas de la misma manera.
 
 Añadir peso sería la opción obvia, pero podemos _intensificar_ el ejercicio sin cambiar el ángulo con:
 

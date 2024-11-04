@@ -1,16 +1,20 @@
 ---
-title: "Cuando poner stop loss"
+title: Cuando poner stop loss
+subtitle: El arte de (no) perder... sin tener que rezar
 url: https://pau.ninja/cuando-poner-stop-loss
 slug: cuando-poner-stop-loss
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: cuando-poner-stop-loss.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/06/cuando-poner-stop-loss.jpg
-published: 2024-05-24T04:36:06+00:00
-modified: 2024-07-06T04:06:52+00:00
-scrappedAt: 2024-11-02T15:52:13.776Z
-audioLink: 
-bibliography: ["Chague, Fernando and De-Losso, Rodrigo and Giovannetti, Bruno, Day Trading for a Living? (June 11, 2020).","Noertjahyana, Agustinus & Christopher, A & Abas, Zuraida & Yusoh, Z & Setiawan, Alexander. (2020). Stop hunt detection using indicators and expert advisors in the forex market. Journal of Physics: Conference Series. 1502. 012054. 10.1088/1742-6596/1502/1/012054.","Wikipedia Contributors. 2024. “Lindy Effect.” Wikipedia."]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/06/cuando-poner-stop-loss.jpg
+publishedAt: 2024-05-24T04:36:06.000Z
+modifiedAt: 2024-07-06T04:06:52.000Z
+scrappedAt: 2024-11-04T11:12:10.932Z
+audioLink: undefined
+bibliography: Chague, Fernando and De-Losso, Rodrigo and Giovannetti, Bruno, Day Trading for a Living? (June 11, 2020).
+Noertjahyana, Agustinus & Christopher, A & Abas, Zuraida & Yusoh, Z & Setiawan, Alexander. (2020). Stop hunt detection using indicators and expert advisors in the forex market. Journal of Physics: Conference Series. 1502. 012054. 10.1088/1742-6596/1502/1/012054.
+Wikipedia Contributors. 2024. “Lindy Effect.” Wikipedia.
 ---
+
 _En este artículo estoy en contra del stop loss, pero si quieres ver cuando poner stop loss según los libros y la teoría, te interesará leer mi resumen sobre [dónde colocar el stop loss aquí](./donde-colocar-el-stop-loss)._
 
 ¿No te has dado cuenta que la mayoría de veces que justo cuando compras acciones o crypto, inmediatamente después el mercado se va a la dirección opuesta?

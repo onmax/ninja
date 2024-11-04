@@ -1,16 +1,18 @@
 ---
-title: "El momento ideal para comprar acciones…"
+title: El momento ideal para comprar acciones…
+subtitle: no es suerte sino arte
 url: https://pau.ninja/cuando-comprar-acciones
 slug: cuando-comprar-acciones
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: persona-decide-cuando-comprar-acciones.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/05/persona-decide-cuando-comprar-acciones.jpeg
-published: 2024-05-04T08:13:44+00:00
-modified: 2024-08-10T19:45:58+00:00
-scrappedAt: 2024-11-02T15:52:16.961Z
+imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-decide-cuando-comprar-acciones.jpeg
+publishedAt: 2024-05-04T08:13:44.000Z
+modifiedAt: 2024-08-10T19:45:58.000Z
+scrappedAt: 2024-11-04T11:12:45.714Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/89238588/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-15%2F383209450-44100-2-41143d38c8d4d.mp3
-bibliography: []
+bibliography: 
 ---
+
 ¿Cuál es el mejor momento para comprar acciones? ¿Cómo sabemos que justo al comprarlas no se irán al garete?
 
 Uno de los conceptos en los que más nos machacan las leyendas de la bolsa en sus [libros de _trading_](./mejores-libros-de-trading) es, antes que nada, seguir la tendencia del mercado.

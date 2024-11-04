@@ -1,16 +1,18 @@
 ---
-title: "Velas envolventes"
+title: Velas envolventes
+subtitle: 
 url: https://pau.ninja/velas-envolventes
 slug: velas-envolventes
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: persona-en-envolvente.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/05/persona-en-envolvente.jpeg
-published: 2024-05-28T12:24:31+00:00
-modified: 2024-05-29T08:28:04+00:00
-scrappedAt: 2024-11-02T15:52:12.084Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-en-envolvente.jpeg
+publishedAt: 2024-05-28T12:24:31.000Z
+modifiedAt: 2024-05-29T08:28:04.000Z
+scrappedAt: 2024-11-04T11:12:03.602Z
+audioLink: undefined
+bibliography: 
 ---
+
 Uno de los [patrones de velas japonesas](./patrones-de-velas-japonesas) más rentables son las **velas envolventes**.
 
 El propio nombre ya nos está indicando que se trata de una vela que _envuelve_ a la vela anterior, y a nosotros nos envuelve de dinero de lo rentables que son.

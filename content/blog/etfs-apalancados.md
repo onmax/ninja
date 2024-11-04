@@ -1,16 +1,18 @@
 ---
-title: "ETFs apalancados"
+title: ETFs apalancados
+subtitle: 
 url: https://pau.ninja/etfs-apalancados
 slug: etfs-apalancados
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: etfs-apalancados.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/06/etfs-apalancados.jpg
-published: 2024-06-28T06:10:41+00:00
-modified: 2024-06-28T06:25:28+00:00
-scrappedAt: 2024-11-02T15:52:08.440Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/06/etfs-apalancados.jpg
+publishedAt: 2024-06-28T06:10:41.000Z
+modifiedAt: 2024-06-28T06:25:28.000Z
+scrappedAt: 2024-11-04T11:11:37.432Z
+audioLink: undefined
+bibliography: 
 ---
+
 _Más abajo tienes una lista de los mejores ETF apalancados de 2024_.
 
 Para hablar de los ETFs apalancados (qué son, cómo usarlos, en qué activos y qué estrategias seguir), antes necesito que te imagines algo…

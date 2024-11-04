@@ -1,23 +1,81 @@
 ---
-title: "Dieta de 2.500 calorías en volumen"
+title: Dieta de 2.500 calorías en volumen
+subtitle: La dieta que seguí para ganar masa muscular
 url: https://pau.ninja/dieta-2500-calorias-volumen
 slug: dieta-2500-calorias-volumen
-categories: ["fitness"]
+categories: 
 image: comida-abundante.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2020/01/comida-abundante.jpg
-published: 2019-01-01T14:05:56+00:00
-modified: 2023-06-27T17:43:00+00:00
-scrappedAt: 2024-10-14T16:20:48.427Z
-audioLink: 
-bibliography: ["*   **Carbohidratos:** 37,5 (20%)","*   **Carbohidratos:** 49 (36%)","(43%)","(21%)","*   **Carbohidratos:** 47,7 (55%)","(3%)","*   **Carbohidratos:** 21,9 (10%)","calorías","(25%)","(47%)","(28%)","*   **Calorías:** 293","*   **Calorías:** 186","(76%)","*   **Calorías:** 149","*   **Calorías:** 42","(0%)","*   **Calorías:** 63","*   **Carbohidratos:** 37,5 (20%)","*   **Calorías:** 202","(92%)","(0%)","(8%)","*   **Calorías:** 211","(0%)","*   **Calorías:** 152","(0%)","*   **Carbohidratos:** 49 (36%)","(43%)","(21%)","*   **Calorías:** 148","(3%)","*   **Calorías:** 97","*   **Calorías:** 34","*   **Calorías:** 63","*   **Carbohidratos:** 47,7 (55%)","(3%)","pastillas de espirulina","puñado de espinacas","*   **Calorías:** 236","*   **Calorías:** 151","(24%)","*   **Calorías:** 348","(88%)","*   **Calorías:** 136","*   **Carbohidratos:** 21,9 (10%)","puñados de gojis tibetanos","Hewlings SJ, Kalman DS. Curcumin: A Review of Its Effects on Human Health. Foods. 2017 Oct 22;6(10):92. doi: 10.3390/foods6100092. PMID: 29065496; PMCID: PMC5664031.","Srinivasan K. Black pepper and its pungent principle-piperine: a review of diverse physiological effects. Crit Rev Food Sci Nutr. 2007;47(8):735-48. doi: 10.1080/10408390601062054. PMID: 17987447.","O’Connor E, Mündel T, Barnes MJ. Nutritional Compounds to Improve Post-Exercise Recovery. Nutrients. 2022 Nov 29;14(23):5069. doi: 10.3390/nu14235069. PMID: 36501099; PMCID: PMC9736198.","Trommelen, Jorn. “Nutrition tactics to improve post-exercise recovery.” (2019).","Hallberg L, Hulthén L. Prediction of dietary iron absorption: an algorithm for calculating absorption and bioavailability of dietary iron. Am J Clin Nutr. 2000 May;71(5):1147-60. doi: 10.1093/ajcn/71.5.1147. Erratum in: Am J Clin Nutr 2000 Nov;72(5):1242. Erratum in: Am J Clin Nutr 2001 Aug;74(2):274. Erratum in: Am J Clin Nutr. 2006 Nov;84(5):1253. PMID: 10799377.","Hepler C, Weidemann BJ, Waldeck NJ, Marcheva B, Cedernaes J, Thorne AK, Kobayashi Y, Nozawa R, Newman MV, Gao P, Shao M, Ramsey KM, Gupta RK, Bass J. Time-restricted feeding mitigates obesity through adipocyte thermogenesis. Science. 2022 Oct 21;378(6617):276-284. doi: 10.1126/science.abl8007. Epub 2022 Oct 20. PMID: 36264811; PMCID: PMC10150371.","Vujović N, Piron MJ, Qian J, Chellappa SL, Nedeltcheva A, Barr D, Heng SW, Kerlin K, Srivastav S, Wang W, Shoji B, Garaulet M, Brady MJ, Scheer FAJL. Late isocaloric eating increases hunger, decreases energy expenditure, and modifies metabolic pathways in adults with overweight and obesity. Cell Metab. 2022 Oct 4;34(10):1486-1498.e7. doi: 10.1016/j.cmet.2022.09.007. PMID: 36198293; PMCID: PMC10184753.","Guisado, Joaquín. (2008). Rendimiento deportivo: glucógeno muscular y consumo proteico. Apunts: Medicina de l’esport, ISSN 0213-3717, Vol. 43, Nº 159, 2008. 43. 10.1016/S1886-6581(08)70090-2.","van Loon LJ, Murphy R, Oosterlaar AM, Cameron-Smith D, Hargreaves M, Wagenmakers AJ, Snow R. Creatine supplementation increases glycogen storage but not GLUT-4 expression in human skeletal muscle. Clin Sci (Lond). 2004 Jan;106(1):99-106. doi: 10.1042/CS20030116. PMID: 14507259.","Capaldo B, Gastaldelli A, Antoniello S, Auletta M, Pardo F, Ciociaro D, Guida R, Ferrannini E, Saccà L. Splanchnic and leg substrate exchange after ingestion of a natural mixed meal in humans. Diabetes. 1999 May;48(5):958-66. doi: 10.2337/diabetes.48.5.958. PMID: 10331398."]
+imageUrl: https://pau.ninja/wp-content/uploads/2020/01/comida-abundante.jpg
+publishedAt: 2019-01-01T14:05:56.000Z
+modifiedAt: 2023-06-27T17:43:00.000Z
+scrappedAt: 2024-11-04T11:57:27.269Z
+audioLink: undefined
+bibliography: *   **Carbohidratos:** 37,5 (20%)
+*   **Carbohidratos:** 49 (36%)
+(43%)
+(21%)
+*   **Carbohidratos:** 47,7 (55%)
+(3%)
+*   **Carbohidratos:** 21,9 (10%)
+calorías
+(25%)
+(47%)
+(28%)
+*   **Calorías:** 293
+*   **Calorías:** 186
+(76%)
+*   **Calorías:** 149
+*   **Calorías:** 42
+(0%)
+*   **Calorías:** 63
+*   **Carbohidratos:** 37,5 (20%)
+*   **Calorías:** 202
+(92%)
+(0%)
+(8%)
+*   **Calorías:** 211
+(0%)
+*   **Calorías:** 152
+(0%)
+*   **Carbohidratos:** 49 (36%)
+(43%)
+(21%)
+*   **Calorías:** 148
+(3%)
+*   **Calorías:** 97
+*   **Calorías:** 34
+*   **Calorías:** 63
+*   **Carbohidratos:** 47,7 (55%)
+(3%)
+pastillas de espirulina
+puñado de espinacas
+*   **Calorías:** 236
+*   **Calorías:** 151
+(24%)
+*   **Calorías:** 348
+(88%)
+*   **Calorías:** 136
+*   **Carbohidratos:** 21,9 (10%)
+puñados de gojis tibetanos
+Hewlings SJ, Kalman DS. Curcumin: A Review of Its Effects on Human Health. Foods. 2017 Oct 22;6(10):92. doi: 10.3390/foods6100092. PMID: 29065496; PMCID: PMC5664031.
+Srinivasan K. Black pepper and its pungent principle-piperine: a review of diverse physiological effects. Crit Rev Food Sci Nutr. 2007;47(8):735-48. doi: 10.1080/10408390601062054. PMID: 17987447.
+O’Connor E, Mündel T, Barnes MJ. Nutritional Compounds to Improve Post-Exercise Recovery. Nutrients. 2022 Nov 29;14(23):5069. doi: 10.3390/nu14235069. PMID: 36501099; PMCID: PMC9736198.
+Trommelen, Jorn. “Nutrition tactics to improve post-exercise recovery.” (2019).
+Hallberg L, Hulthén L. Prediction of dietary iron absorption: an algorithm for calculating absorption and bioavailability of dietary iron. Am J Clin Nutr. 2000 May;71(5):1147-60. doi: 10.1093/ajcn/71.5.1147. Erratum in: Am J Clin Nutr 2000 Nov;72(5):1242. Erratum in: Am J Clin Nutr 2001 Aug;74(2):274. Erratum in: Am J Clin Nutr. 2006 Nov;84(5):1253. PMID: 10799377.
+Hepler C, Weidemann BJ, Waldeck NJ, Marcheva B, Cedernaes J, Thorne AK, Kobayashi Y, Nozawa R, Newman MV, Gao P, Shao M, Ramsey KM, Gupta RK, Bass J. Time-restricted feeding mitigates obesity through adipocyte thermogenesis. Science. 2022 Oct 21;378(6617):276-284. doi: 10.1126/science.abl8007. Epub 2022 Oct 20. PMID: 36264811; PMCID: PMC10150371.
+Vujović N, Piron MJ, Qian J, Chellappa SL, Nedeltcheva A, Barr D, Heng SW, Kerlin K, Srivastav S, Wang W, Shoji B, Garaulet M, Brady MJ, Scheer FAJL. Late isocaloric eating increases hunger, decreases energy expenditure, and modifies metabolic pathways in adults with overweight and obesity. Cell Metab. 2022 Oct 4;34(10):1486-1498.e7. doi: 10.1016/j.cmet.2022.09.007. PMID: 36198293; PMCID: PMC10184753.
+Guisado, Joaquín. (2008). Rendimiento deportivo: glucógeno muscular y consumo proteico. Apunts: Medicina de l’esport, ISSN 0213-3717, Vol. 43, Nº 159, 2008. 43. 10.1016/S1886-6581(08)70090-2.
+van Loon LJ, Murphy R, Oosterlaar AM, Cameron-Smith D, Hargreaves M, Wagenmakers AJ, Snow R. Creatine supplementation increases glycogen storage but not GLUT-4 expression in human skeletal muscle. Clin Sci (Lond). 2004 Jan;106(1):99-106. doi: 10.1042/CS20030116. PMID: 14507259.
+Capaldo B, Gastaldelli A, Antoniello S, Auletta M, Pardo F, Ciociaro D, Guida R, Ferrannini E, Saccà L. Splanchnic and leg substrate exchange after ingestion of a natural mixed meal in humans. Diabetes. 1999 May;48(5):958-66. doi: 10.2337/diabetes.48.5.958. PMID: 10331398.
 ---
+
 Una dieta de 2.500  es un **buen punto de partida** para aumentar masa muscular.
 
-De hecho, en vez de tantas calculadoras online de mierda que no tienen en cuenta nuestro cuerpo individual, recomiendo hacer como yo y empezar con una dieta de X cantidad de  y a partir de aquí **a ver como evolucionamos**.
+De hecho, en vez de tantas calculadoras online de mierda que no tienen en cuenta nuestro cuerpo individual, recomiendo hacer como yo y empezar con una dieta de X cantidad de calorías y a partir de aquí **a ver como evolucionamos**.
 
 Es lo que hice desde hace meses y creo que **ha sido una decisión de la hostia**.
 
-Antes de ver la [dieta de 2500 ](#La_dieta_de_2500_calorias_para_ganar_masa_muscular), empezamos por el final: **los resultados** que aún no he terminado de exprimir del todo porque aún me estoy beneficiando de ello.
+Antes de ver la [dieta de 2500 calorías](#La_dieta_de_2500_calorias_para_ganar_masa_muscular), empezamos por el final: **los resultados** que aún no he terminado de exprimir del todo porque aún me estoy beneficiando de ello.
 
 _Vamosh_.
 
@@ -38,9 +96,9 @@ Vamos a ver la estrategia y la dieta en sí misma.
 
 ![macronutrientes](./wp-content/uploads/2020/01macronutrientes.jpg)
 
-- **Carbohidratos:** 25% = 625 
-- **Proteínas:** 25% = 625 
-- **Grasas:** 50% = 1250 
+- **Carbohidratos:** 25% = 625 calorías
+- **Proteínas:** 25% = 625 calorías
+- **Grasas:** 50% = 1250 calorías
 
 En días de entrenamiento subo cantidad de carbohidratos. He utilizado la APP y base de datos de MyFitnessPal para escanear el código de barras e introducir el alimento cada día.
 
@@ -54,7 +112,7 @@ Elaborando dietas nos centramos en los 3 macronutrientes, los micro son **esenci
 
 Cuesta menos trabajo de lo que la gente se piensa.
 
-## La dieta de 2.500  para ganar masa muscular
+## La dieta de 2.500 calorías para ganar masa muscular
 
 **Comida**
 
@@ -94,7 +152,7 @@ Cuesta menos trabajo de lo que la gente se piensa.
 
 **Total:**
 
-- **Calorías:** 2515 
+- **Calorías:** 2515 calorías
 - **Carbohidratos:** 156 
 - **Grasas:** 131 
 - **Proteínas:** 173 
@@ -105,7 +163,7 @@ Esta distribución de alimentos me ha ayudado ganar músculo y perder grasa a la
 
 Es un ejemplo estándar de lo que acostumbro a comer. El desayuno y el batido son casi siempre iguales, pero la cena y almuerzo voy variando un poco más.
 
-Entro los códigos de barras de los alimentos en la aplicación que he comentado antes y me aseguro que al final del día paso de las 2.500  y los macronutrientes son los deseados.
+Entro los códigos de barras de los alimentos en la aplicación que he comentado antes y me aseguro que al final del día paso de las 2.500 calorías y los macronutrientes son los deseados.
 
 ### Desayuno para ganar masa muscular
 
@@ -188,9 +246,9 @@ Notas sobre el desayuno
 
 - **Gramos:** 400
 
-- **Carbohidratos:** 44 
+- **Carbohidratos:** 44 (92%)
 - **Grasas:** 0 
-- **Proteínas:** 4 
+- **Proteínas:** 4 (8%)
 
 🧈 Paté de aceituna
 
@@ -249,7 +307,7 @@ Notas sobre el almuerzo
 🍒 1 puñado de arándanos
 
 - **Gramos:** 60
-
+- **Calorías:** 34
 - **Carbohidratos:** 8,7 (91%)
 - **Grasas:** 0,2 (4%)
 - **Proteínas:** 0,4 (5%)
@@ -264,9 +322,9 @@ Notas sobre el almuerzo
 
 **Total:**
 
-2
+- **Calorías:** 342
 
-- **Grasas:** 1 
+- **Grasas:** 1 (3%)
 - **Proteínas:** 36,9 (42%)
 
 Extras nutricionales
@@ -297,12 +355,12 @@ Notas sobre el almuerzo
 
 - **Carbohidratos:** 9 
 - **Grasas:** 9,2 (55%)
-- **Proteínas:** 8,2 
+- **Proteínas:** 8,2 (21%)
 
 🥜 Avellanas, nueces, almendras (o combinación)
 
 - **Gramos:** 50
-8
+
 - **Carbohidratos:** 2,8 (33%)
 - **Grasas:** 33 
 - **Proteínas:** 7,5 (9%)
@@ -311,8 +369,8 @@ Notas sobre el almuerzo
 
 - **Gramos:** 38
 
-- **Carbohidratos:** 2,5 
-- **Grasas:** 0,5 
+- **Carbohidratos:** 2,5 (8%)
+- **Grasas:** 0,5 (3%)
 - **Proteínas:** 29,1 (89%)
 
 **Total:**
@@ -470,7 +528,7 @@ Huevos, avellanas, almendras, chocolate, champiñones
 
 A parte de esto también le meto un [multivitamínico](https://www.awin1.com/cread.php?awinmid=10603&awinaffid=365663&clickref=&p=%5B%5Bhttps%253A%252F%252Fwww.myprotein.es%252Fnutricion-deportiva%252Fmultivitaminico-alpha-men%252F10530421.html%5D%5D) que digamos que uso como red de seguridad.
 
-## Preguntas frecuentes de la dieta de 2.500 
+## Preguntas frecuentes de la dieta de 2.500 calorías
 
 Respondiendo algunas de las preguntas sobre la dieta que los lectores me han hecho más.
 
@@ -488,7 +546,7 @@ Se puede hacer exactamente la misma dieta anterior pero cambiando el pescado por
 
 ### Cuántos huevos comer al día para ganar masa muscular
 
-No se trata de la cantidad de huevos, pero de **las  totales**.
+No se trata de la cantidad de huevos, pero de **las calorías totales**.
 
 > Al gustarme mucho, me como de 4 a 8 diarios desde hace años y aprovecho para poner algo de espirulina, ajo, cúrcuma, pimienta negra o similares.
 

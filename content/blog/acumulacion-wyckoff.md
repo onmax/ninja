@@ -1,16 +1,18 @@
 ---
-title: "Acumulación Wyckoff"
+title: Acumulación Wyckoff
+subtitle: o cómo posicionarse al lado de los tiburones
 url: https://pau.ninja/acumulacion-wyckoff
 slug: acumulacion-wyckoff
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: metodo-wyckoff-acumulacion.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/06/metodo-wyckoff-acumulacion.jpg
-published: 2024-06-11T06:54:49+00:00
-modified: 2024-06-14T04:56:28+00:00
-scrappedAt: 2024-11-02T15:52:11.469Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/06/metodo-wyckoff-acumulacion.jpg
+publishedAt: 2024-06-11T06:54:49.000Z
+modifiedAt: 2024-06-14T04:56:28.000Z
+scrappedAt: 2024-11-04T11:11:55.185Z
+audioLink: undefined
+bibliography: 
 ---
+
 La acumulación es un periodo lateral del precio de una acción o crypto en el que no hay tendencia.
 
 Mercados laterales. Aburridos.

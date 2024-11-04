@@ -1,17 +1,28 @@
 ---
-title: "Menos gym, más anillas"
+title: Menos gym, más anillas
+subtitle: el secreto de la antifrafilidad atlética (+10 estudios)
 url: https://pau.ninja/beneficios-de-entrenar-con-anillas
 slug: beneficios-de-entrenar-con-anillas
-categories: ["fitness"]
+categories: 
 image: beneficios-de-entrenar-con-anillas.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/01/beneficios-de-entrenar-con-anillas.jpg
-published: 2024-01-27T05:47:16+00:00
-modified: 2024-08-10T19:15:00+00:00
-scrappedAt: 2024-11-02T15:21:50.248Z
+imageUrl: https://pau.ninja/wp-content/uploads/2024/01/beneficios-de-entrenar-con-anillas.jpg
+publishedAt: 2024-01-27T05:47:16.000Z
+modifiedAt: 2024-08-10T19:15:00.000Z
+scrappedAt: 2024-11-04T11:14:43.355Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/84342440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F371696617-44100-2-64d7e86fcd737.mp3
-bibliography: ["Viaña, Daniel. 2024. “El Gobierno Reconoce Que No Contabilizaba Bien Los Funcionarios Y Descubre 300.000 Trabajadores Públicos Ocultos.” ELMUNDO.","Araujo CG, de Souza e Silva CG, Laukkanen JA, et alSuccessful 10-second one-legged stance performance predicts survival in middle-aged and older individualsBritish Journal of Sports Medicine 2022;56:975-980.","Neme JR. Balancing Act: Muscle Imbalance Effects on Musculoskeletal Injuries. Mo Med. 2022 May-Jun;119(3):225-228. PMID: 36035582; PMCID: PMC9324710.","Kamalden, Tengku-Fadilah & Gasibat, Qais & Samsudin, Shamsulariffin & Joseph, Jacklyn. (2021). Occurrence of Muscle Imbalance and Risk of Injuries in Athletes using Overhead Movements: A Systematic Review. Sport Mont. 19. 3-10. 10.26773/smj.211012.","Ruas, Cassio & Vieira, Adriane. (2017). Do Muscle Strength Imbalances and Low Flexibility Levels Lead to Low Back Pain? A Brief Review. Journal of Functional Morphology and Kinesiology. 2. 29. 10.3390/jfmk2030029.","Melani A, Gobbi G, Galli D, Carubbi C, Masselli E, Neri LM, Giovinco G, Cicchella A, Galuppo L, Presta V, Vaccarezza M, Vitale M, Mirandola P. Muscle Activation in Traditional and Experimental Barbell Bench Press Exercise: A Potential New Tool for Fitness Maintenance. Sports (Basel). 2019 Oct 17;7(10):224. doi: 10.3390/sports7100224. PMID: 31627293; PMCID: PMC6835758.","Jemni, Monèm & Sands, William & Salmela, J.H. & Patrice, Holvoet & Gateva, Maria. (2013). The Science of Gymnastics. The Science of Gymnastics. 1-201. 10.4324/9780203874639.","Rogge AK, Röder B, Zech A, Nagel V, Hollander K, Braumann KM, Hötting K. Balance training improves memory and spatial cognition in healthy adults. Sci Rep. 2017 Jul 18;7(1):5661. doi: 10.1038/s41598-017-06071-9. Erratum in: Sci Rep. 2018 Nov 22;8(1):17434. PMID: 28720898; PMCID: PMC5515881.","Amri-Dardari, Asma & Mkaouer, Bessem & Amara, Samiha & Hammoudi-Nassib, Sarra & Habacha, Hamdi & Bensalah, Fatma. (2022). Immediate Effect of Self-Modelling with Internal Versus External Focus of Attention on Teaching/Learning Gymnastics Motor-Skills. Journal of Human Kinetics. 84. 224-232. 10.2478/hukin-2022-0103.","Yang CL, Chen CH. Effectiveness of aerobic gymnastic exercise on stress, fatigue, and sleep quality during postpartum: A pilot randomized controlled trial. Int J Nurs Stud. 2018 Jan;77:1-7. doi: 10.1016/j.ijnurstu.2017.09.009. Epub 2017 Sep 14. PMID: 28950158.","Jürimäe J, Gruodyte-Raciene R, Baxter-Jones ADG. Effects of Gymnastics Activities on Bone Accrual during Growth: A Systematic Review. J Sports Sci Med. 2018 May 14;17(2):245-258. PMID: 29769826; PMCID: PMC5950742.","Vuillerme N, Danion F, Marin L, Boyadjian A, Prieur JM, Weise I, Nougier V. The effect of expertise in gymnastics on postural control. Neurosci Lett. 2001 May 4;303(2):83-6. doi: 10.1016/s0304-3940(01)01722-0. PMID: 11311498."]
+bibliography: Viaña, Daniel. 2024. “El Gobierno Reconoce Que No Contabilizaba Bien Los Funcionarios Y Descubre 300.000 Trabajadores Públicos Ocultos.” ELMUNDO.
+Araujo CG, de Souza e Silva CG, Laukkanen JA, et alSuccessful 10-second one-legged stance performance predicts survival in middle-aged and older individualsBritish Journal of Sports Medicine 2022;56:975-980.
+Neme JR. Balancing Act: Muscle Imbalance Effects on Musculoskeletal Injuries. Mo Med. 2022 May-Jun;119(3):225-228. PMID: 36035582; PMCID: PMC9324710.
+Kamalden, Tengku-Fadilah & Gasibat, Qais & Samsudin, Shamsulariffin & Joseph, Jacklyn. (2021). Occurrence of Muscle Imbalance and Risk of Injuries in Athletes using Overhead Movements: A Systematic Review. Sport Mont. 19. 3-10. 10.26773/smj.211012.
+Ruas, Cassio & Vieira, Adriane. (2017). Do Muscle Strength Imbalances and Low Flexibility Levels Lead to Low Back Pain? A Brief Review. Journal of Functional Morphology and Kinesiology. 2. 29. 10.3390/jfmk2030029.
+Melani A, Gobbi G, Galli D, Carubbi C, Masselli E, Neri LM, Giovinco G, Cicchella A, Galuppo L, Presta V, Vaccarezza M, Vitale M, Mirandola P. Muscle Activation in Traditional and Experimental Barbell Bench Press Exercise: A Potential New Tool for Fitness Maintenance. Sports (Basel). 2019 Oct 17;7(10):224. doi: 10.3390/sports7100224. PMID: 31627293; PMCID: PMC6835758.
+Jemni, Monèm & Sands, William & Salmela, J.H. & Patrice, Holvoet & Gateva, Maria. (2013). The Science of Gymnastics. The Science of Gymnastics. 1-201. 10.4324/9780203874639.
+Rogge AK, Röder B, Zech A, Nagel V, Hollander K, Braumann KM, Hötting K. Balance training improves memory and spatial cognition in healthy adults. Sci Rep. 2017 Jul 18;7(1):5661. doi: 10.1038/s41598-017-06071-9. Erratum in: Sci Rep. 2018 Nov 22;8(1):17434. PMID: 28720898; PMCID: PMC5515881.
+Amri-Dardari, Asma & Mkaouer, Bessem & Amara, Samiha & Hammoudi-Nassib, Sarra & Habacha, Hamdi & Bensalah, Fatma. (2022). Immediate Effect of Self-Modelling with Internal Versus External Focus of Attention on Teaching/Learning Gymnastics Motor-Skills. Journal of Human Kinetics. 84. 224-232. 10.2478/hukin-2022-0103.
+Yang CL, Chen CH. Effectiveness of aerobic gymnastic exercise on stress, fatigue, and sleep quality during postpartum: A pilot randomized controlled trial. Int J Nurs Stud. 2018 Jan;77:1-7. doi: 10.1016/j.ijnurstu.2017.09.009. Epub 2017 Sep 14. PMID: 28950158.
+Jürimäe J, Gruodyte-Raciene R, Baxter-Jones ADG. Effects of Gymnastics Activities on Bone Accrual during Growth: A Systematic Review. J Sports Sci Med. 2018 May 14;17(2):245-258. PMID: 29769826; PMCID: PMC5950742.
+Vuillerme N, Danion F, Marin L, Boyadjian A, Prieur JM, Weise I, Nougier V. The effect of expertise in gymnastics on postural control. Neurosci Lett. 2001 May 4;303(2):83-6. doi: 10.1016/s0304-3940(01)01722-0. PMID: 11311498.
 ---
-[https://anchor.fm/s/98566448/podcast/play/84342440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F371696617-44100-2-64d7e86fcd737.mp3](https://anchor.fm/s/98566448/podcast/play/84342440/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-21%2F371696617-44100-2-64d7e86fcd737.mp3)
 
 Ninja de la vida, me he vuelto un enamorado de entrenar con anillas por [todos los beneficios](./beneficios-de-entrenar-con-anillas#Beneficios_de_entrenar_con_anillas) que tienen.
 

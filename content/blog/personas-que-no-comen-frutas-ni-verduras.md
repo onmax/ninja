@@ -1,17 +1,26 @@
 ---
-title: "Adiós, verduras"
+title: Adiós, verduras
+subtitle: 3 años sin tragarme esta falacia nutricional
 url: https://pau.ninja/personas-que-no-comen-frutas-ni-verduras
 slug: personas-que-no-comen-frutas-ni-verduras
-categories: ["nutricion"]
+categories: 
 image: persona-que-no-come-frutas-ni-verduras.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/02/persona-que-no-come-frutas-ni-verduras.jpeg
-published: 2024-02-03T07:09:42+00:00
-modified: 2024-05-21T19:44:08+00:00
-scrappedAt: 2024-11-02T15:21:47.701Z
+imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-que-no-come-frutas-ni-verduras.jpeg
+publishedAt: 2024-02-03T07:09:42.000Z
+modifiedAt: 2024-05-21T19:44:08.000Z
+scrappedAt: 2024-11-04T11:14:29.921Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/82658822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367420259-44100-2-becf221e9ac1b.mp3
-bibliography: ["World Cancer Research Fund/American Institute for Cancer Research (1997) Food, Nutrition, Physical Activity and the Prevention of Cancer: A Global Perspective. AIRC: Washington, DC","Key TJ. Fruit and vegetables and cancer risk. Br J Cancer. 2011 Jan 4;104(1):6-11. doi: 10.1038/sj.bjc.6606032. Epub 2010 Nov 30. PMID: 21119663; PMCID: PMC3039795.","Uvnäs Moberg K, Ekström-Bergström A, Buckley S, Massarotti C, Pajalic Z, Luegmair K, Kotlowska A, Lengler L, Olza I, Grylka-Baeschlin S, Leahy-Warren P, Hadjigeorgiu E, Villarmea S, Dencker A. Maternal plasma levels of oxytocin during breastfeeding-A systematic review. PLoS One. 2020 Aug 5;15(8):e0235806. doi: 10.1371/journal.pone.0235806. PMID: 32756565; PMCID: PMC7406087.","Gracey M. Historical, cultural, political, and social influences on dietary patterns and nutrition in Australian Aboriginal children. Am J Clin Nutr. 2000 Nov;72(5 Suppl):1361S-1367S. doi: 10.1093/ajcn/72.5.1361s. PMID: 11063478.","National Research Council (US) Committee on Diet and Health. Diet and Health: Implications for Reducing Chronic Disease Risk. Washington (DC): National Academies Press (US); 1989. 11, Fat-Soluble Vitamins.","Ho KS, Tan CY, Mohd Daud MA, Seow-Choen F. Stopping or reducing dietary fiber intake reduces constipation and its associated symptoms. World J Gastroenterol. 2012 Sep 7;18(33):4593-6. doi: 10.3748/wjg.v18.i33.4593. PMID: 22969234; PMCID: PMC3435786.","Joanne L. Watters, Jessie A. Satia, Larry L. Kupper, James A. Swenberg, Jane C. Schroeder, Boyd R. Switzer; Associations of Antioxidant Nutrients and Oxidative DNA Damage in Healthy African-American and White Adults. Cancer Epidemiol Biomarkers Prev 1 July 2007; 16 (7): 1428–1436.","Young JF, Dragstedt LO, Haraldsdóttir J, Daneshvar B, Kall MA, Loft S, Nilsson L, Nielsen SE, Mayer B, Skibsted LH, Huynh-Ba T, Hermetter A, Sandström B. Green tea extract only affects markers of oxidative status postprandially: lasting antioxidant effect of flavonoid-free diet. Br J Nutr. 2002 Apr;87(4):343-55. doi: 10.1079/bjnbjn2002523. PMID: 12064344.","David, L., Maurice, C., Carmody, R. et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 505, 559–563 (2014).","Cenit MC, Sanz Y, Codoñer-Franch P. Influence of gut microbiota on neuropsychiatric disorders. World J Gastroenterol. 2017 Aug 14;23(30):5486-5498. doi: 10.3748/wjg.v23.i30.5486. PMID: 28852308; PMCID: PMC5558112."]
+bibliography: World Cancer Research Fund/American Institute for Cancer Research (1997) Food, Nutrition, Physical Activity and the Prevention of Cancer: A Global Perspective. AIRC: Washington, DC
+Key TJ. Fruit and vegetables and cancer risk. Br J Cancer. 2011 Jan 4;104(1):6-11. doi: 10.1038/sj.bjc.6606032. Epub 2010 Nov 30. PMID: 21119663; PMCID: PMC3039795.
+Uvnäs Moberg K, Ekström-Bergström A, Buckley S, Massarotti C, Pajalic Z, Luegmair K, Kotlowska A, Lengler L, Olza I, Grylka-Baeschlin S, Leahy-Warren P, Hadjigeorgiu E, Villarmea S, Dencker A. Maternal plasma levels of oxytocin during breastfeeding-A systematic review. PLoS One. 2020 Aug 5;15(8):e0235806. doi: 10.1371/journal.pone.0235806. PMID: 32756565; PMCID: PMC7406087.
+Gracey M. Historical, cultural, political, and social influences on dietary patterns and nutrition in Australian Aboriginal children. Am J Clin Nutr. 2000 Nov;72(5 Suppl):1361S-1367S. doi: 10.1093/ajcn/72.5.1361s. PMID: 11063478.
+National Research Council (US) Committee on Diet and Health. Diet and Health: Implications for Reducing Chronic Disease Risk. Washington (DC): National Academies Press (US); 1989. 11, Fat-Soluble Vitamins.
+Ho KS, Tan CY, Mohd Daud MA, Seow-Choen F. Stopping or reducing dietary fiber intake reduces constipation and its associated symptoms. World J Gastroenterol. 2012 Sep 7;18(33):4593-6. doi: 10.3748/wjg.v18.i33.4593. PMID: 22969234; PMCID: PMC3435786.
+Joanne L. Watters, Jessie A. Satia, Larry L. Kupper, James A. Swenberg, Jane C. Schroeder, Boyd R. Switzer; Associations of Antioxidant Nutrients and Oxidative DNA Damage in Healthy African-American and White Adults. Cancer Epidemiol Biomarkers Prev 1 July 2007; 16 (7): 1428–1436.
+Young JF, Dragstedt LO, Haraldsdóttir J, Daneshvar B, Kall MA, Loft S, Nilsson L, Nielsen SE, Mayer B, Skibsted LH, Huynh-Ba T, Hermetter A, Sandström B. Green tea extract only affects markers of oxidative status postprandially: lasting antioxidant effect of flavonoid-free diet. Br J Nutr. 2002 Apr;87(4):343-55. doi: 10.1079/bjnbjn2002523. PMID: 12064344.
+David, L., Maurice, C., Carmody, R. et al. Diet rapidly and reproducibly alters the human gut microbiome. Nature 505, 559–563 (2014).
+Cenit MC, Sanz Y, Codoñer-Franch P. Influence of gut microbiota on neuropsychiatric disorders. World J Gastroenterol. 2017 Aug 14;23(30):5486-5498. doi: 10.3748/wjg.v23.i30.5486. PMID: 28852308; PMCID: PMC5558112.
 ---
-[https://anchor.fm/s/98566448/podcast/play/82658822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367420259-44100-2-becf221e9ac1b.mp3](https://anchor.fm/s/98566448/podcast/play/82658822/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-14%2F367420259-44100-2-becf221e9ac1b.mp3)
 
 Cuando en una conversación sobre nutrición digo que [sigo la dieta carnívora](./dieta-carnivora) (sólo consumo alimentos animales desde hace 3 años), aunque hagan caras raras por la cantidad de carne y órganos que estoy comiendo, lo aceptan… inicialmente.
 

@@ -1,16 +1,31 @@
 ---
-title: "Ni peso, ni series, ni repeticiones…"
+title: Ni peso, ni series, ni repeticiones…
+subtitle: ¿Y si es mejor entrenar por tiempo?
 url: https://pau.ninja/entrenar-por-tiempo-o-por-repeticiones
 slug: entrenar-por-tiempo-o-por-repeticiones
-categories: ["fitness"]
+categories: 
 image: persona-entrena-por-tiempo.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-por-tiempo.jpg
-published: 2024-08-09T12:17:57+00:00
-modified: 2024-08-17T07:42:09+00:00
-scrappedAt: 2024-11-02T15:52:02.869Z
-audioLink: 
-bibliography: ["dominadas","flexiones","rueda abdominal","dominadas","flexiones","sentadillas","Burd, N. A., Andrews, R. J., West, D. W., Little, J. P., Cochran, A. J., Hector, A. J., … & Phillips, S. M. (2012). Muscle time under tension during resistance exercise stimulates differential muscle protein sub-fractional synthetic responses in men. _The Journal of Physiology, 590_(2), 351-362.","Tanimoto, M., Sanada, K., Yamamoto, K., Kawano, H., Gando, Y., Tabata, I., … & Miyachi, M. (2008). Effects of whole-body low-intensity resistance training with slow movement and tonic force generation on muscular size and strength in young men. _Journal of Strength and Conditioning Research, 22_(6), 1926-1938.","[3](javascript:void\\(0\\))Schoenfeld, 2011. Does Exercise-Induced Muscle Damage Play a Role in Skeletal Muscle Hypertrophy? Journal of Strength and Conditioning Research, 26(5), 1441-1453","MacDougall, 1995. Adaptations in strength and skeletal muscle to resistance training. Sports Medicine, 19(5), 337-349","Sale, 1988. Neural adaptation to resistance training. Medicine & Science in Sports & Exercise, 20(Suppl.), S135-S145","[6](javascript:void\\(0\\))Gandevia, 2001. Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789","Gimenez, P., Schoenfeld, B. J., de Souza, E. O., da Silva, A. M., Carregaro, R. L., & de Salles Painelli, V. (2021). Influence of exercise order on muscle hypertrophy and strength gains: A systematic review and meta-analysis. _Sports Medicine, 51_(4), 733-748.","Calatayud, J., Vinstrup, J., Jakobsen, M. D., Sundstrup, E., & Andersen, L. L. (2017). Dose-response association between upper-body muscle activity during strength training exercises and 10-repetition maximum. _Journal of Strength and Conditioning Research, 31_(12), 3454-3461."]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-por-tiempo.jpg
+publishedAt: 2024-08-09T12:17:57.000Z
+modifiedAt: 2024-08-17T07:42:09.000Z
+scrappedAt: 2024-11-04T11:10:42.952Z
+audioLink: undefined
+bibliography: dominadas
+flexiones
+rueda abdominal
+dominadas
+flexiones
+sentadillas
+Burd, N. A., Andrews, R. J., West, D. W., Little, J. P., Cochran, A. J., Hector, A. J., … & Phillips, S. M. (2012). Muscle time under tension during resistance exercise stimulates differential muscle protein sub-fractional synthetic responses in men. _The Journal of Physiology, 590_(2), 351-362.
+Tanimoto, M., Sanada, K., Yamamoto, K., Kawano, H., Gando, Y., Tabata, I., … & Miyachi, M. (2008). Effects of whole-body low-intensity resistance training with slow movement and tonic force generation on muscular size and strength in young men. _Journal of Strength and Conditioning Research, 22_(6), 1926-1938.
+[3](javascript:void\(0\))Schoenfeld, 2011. Does Exercise-Induced Muscle Damage Play a Role in Skeletal Muscle Hypertrophy? Journal of Strength and Conditioning Research, 26(5), 1441-1453
+MacDougall, 1995. Adaptations in strength and skeletal muscle to resistance training. Sports Medicine, 19(5), 337-349
+Sale, 1988. Neural adaptation to resistance training. Medicine & Science in Sports & Exercise, 20(Suppl.), S135-S145
+[6](javascript:void\(0\))Gandevia, 2001. Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789
+Gimenez, P., Schoenfeld, B. J., de Souza, E. O., da Silva, A. M., Carregaro, R. L., & de Salles Painelli, V. (2021). Influence of exercise order on muscle hypertrophy and strength gains: A systematic review and meta-analysis. _Sports Medicine, 51_(4), 733-748.
+Calatayud, J., Vinstrup, J., Jakobsen, M. D., Sundstrup, E., & Andersen, L. L. (2017). Dose-response association between upper-body muscle activity during strength training exercises and 10-repetition maximum. _Journal of Strength and Conditioning Research, 31_(12), 3454-3461.
 ---
+
 Nadie niega que tanto si queremos fuerza, resistencia, o ganar músculo, necesitaremos **seguir progresando** entreno a entreno.
 
 Darle al cuerpo un reto, un cambio, una mejora que cause adaptaciones que sólo suceden cuando nos empujamos un poquito más sesión tras sesión.
@@ -109,7 +124,7 @@ Otra forma de ilustrar lo que digo son los entrenamientos de densidad que popula
 
 Ahora mismo rebajado
 
-[![Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTmJHRmlUMDlCUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYyMQ=)](https://www.amazon.es/dp1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
+[![Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTmJHRmlUMDlCUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQ0MQ=)](https://www.amazon.es/dp1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
 
 [Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](https://www.amazon.es/dp/1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
 

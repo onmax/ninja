@@ -1,16 +1,18 @@
 ---
-title: "Velas japonesas"
+title: Velas japonesas
+subtitle: o cómo leer el precio en análisis técnico
 url: https://pau.ninja/como-leer-velas-japonesas
 slug: como-leer-velas-japonesas
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: persona-aprende-a-leer-velas-japonesas.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/03/persona-aprende-a-leer-velas-japonesas.jpeg
-published: 2024-03-25T05:08:14+00:00
-modified: 2024-08-10T19:40:33+00:00
-scrappedAt: 2024-11-02T15:52:23.479Z
+imageUrl: https://pau.ninja/wp-content/uploads/2024/03/persona-aprende-a-leer-velas-japonesas.jpeg
+publishedAt: 2024-03-25T05:08:14.000Z
+modifiedAt: 2024-08-10T19:40:33.000Z
+scrappedAt: 2024-11-04T11:13:31.344Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86774471/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693121-44100-2-203818239eff1.mp3
-bibliography: []
+bibliography: 
 ---
+
 Ninja de al vida, si eres un inversor te voy a volar la mente con una curiosidad.
 
 Y es que si coges un candelabro de los de antaño, lo pones a contraluz y miras su sombra, verás que la silueta que forma es muy similar a las velas que hay en los gráficos de análisis técnico.
@@ -332,7 +334,7 @@ Está solo en inglés pero tranquilos, ya os lo he resumido yo por vosotros… P
 
 Ahora mismo rebajado
 
-[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzY4Nw=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
+[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTYxMA=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 [Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 

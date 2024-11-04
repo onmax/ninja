@@ -1,17 +1,23 @@
 ---
-title: "Método Bilbo"
+title: Método Bilbo
+subtitle: vuélvete un dios del press de banca (mi teoría)
 url: https://pau.ninja/metodo-bilbo-press-banca
 slug: metodo-bilbo-press-banca
-categories: ["fitness"]
+categories: 
 image: hombre-entrenando-pecho.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2023/03/hombre-entrenando-pecho.jpeg
-published: 2023-03-31T07:42:43+00:00
-modified: 2024-07-19T17:40:58+00:00
-scrappedAt: 2024-11-02T15:23:26.535Z
+imageUrl: https://pau.ninja/wp-content/uploads/2023/03/hombre-entrenando-pecho.jpeg
+publishedAt: 2023-03-31T07:42:43.000Z
+modifiedAt: 2024-07-19T17:40:58.000Z
+scrappedAt: 2024-11-04T11:40:21.655Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/72553312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336601597-44100-2-f60ed1ae616fb.mp3
-bibliography: ["70kg","Keogh, Justin & WILSON, GREG & Weatherby, Robert. (1999). A Cross-Sectional Comparison of Different Resistance Training Techniques in the Bench Press. The Journal of Strength & Conditioning Research. 13. 10.1519/00124278-199908000-00012.","Schuenke MD, Herman JR, Gliders RM, Hagerman FC, Hikida RS, Rana SR, Ragg KE, Staron RS. Early-phase muscular adaptations in response to slow-speed versus traditional resistance-training regimens. Eur J Appl Physiol. 2012 Oct;112(10):3585-95. doi: 10.1007/s00421-012-2339-3. Epub 2012 Feb 12. PMID: 22328004.","Schoenfeld BJ, Ogborn DI, Krieger JW. Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis. Sports Med. 2015 Apr;45(4):577-85. doi: 10.1007/s40279-015-0304-0. PMID: 25601394.","González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, Gorostiaga EM, Pareja-Blanco F. Maximal intended velocity training induces greater gains in bench press performance than deliberately slower half-velocity training. Eur J Sport Sci. 2014;14(8):772-81. doi: 10.1080/17461391.2014.905987. Epub 2014 Apr 15. PMID: 24734902.","Adrián Merchán Lobato (2019), «Comparación de los efectos de diferentes métodos de entrenamiento en las ganancias de fuerza máxima en press de banca».","Varios fisioterapeutas, @mountaindog1, @coacheugeneteo"]
+bibliography: 70kg
+Keogh, Justin & WILSON, GREG & Weatherby, Robert. (1999). A Cross-Sectional Comparison of Different Resistance Training Techniques in the Bench Press. The Journal of Strength & Conditioning Research. 13. 10.1519/00124278-199908000-00012.
+Schuenke MD, Herman JR, Gliders RM, Hagerman FC, Hikida RS, Rana SR, Ragg KE, Staron RS. Early-phase muscular adaptations in response to slow-speed versus traditional resistance-training regimens. Eur J Appl Physiol. 2012 Oct;112(10):3585-95. doi: 10.1007/s00421-012-2339-3. Epub 2012 Feb 12. PMID: 22328004.
+Schoenfeld BJ, Ogborn DI, Krieger JW. Effect of repetition duration during resistance training on muscle hypertrophy: a systematic review and meta-analysis. Sports Med. 2015 Apr;45(4):577-85. doi: 10.1007/s40279-015-0304-0. PMID: 25601394.
+González-Badillo JJ, Rodríguez-Rosell D, Sánchez-Medina L, Gorostiaga EM, Pareja-Blanco F. Maximal intended velocity training induces greater gains in bench press performance than deliberately slower half-velocity training. Eur J Sport Sci. 2014;14(8):772-81. doi: 10.1080/17461391.2014.905987. Epub 2014 Apr 15. PMID: 24734902.
+Adrián Merchán Lobato (2019), «Comparación de los efectos de diferentes métodos de entrenamiento en las ganancias de fuerza máxima en press de banca».
+Varios fisioterapeutas, @mountaindog1, @coacheugeneteo
 ---
-[https://anchor.fm/s/98566448/podcast/play/72553312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336601597-44100-2-f60ed1ae616fb.mp3](https://anchor.fm/s/98566448/podcast/play/72553312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-24%2F336601597-44100-2-f60ed1ae616fb.mp3)
 
 El método Bilbo es el **diamante en bruto de la progresión en el gimnasio**.
 
@@ -705,6 +711,8 @@ Si lo comparamos con las repeticiones controladas de 2-6 segundos de toda la vid
 
 ❌
 
+70kg
+
 11  
 🏁 **FIN**
 
@@ -798,3 +806,5 @@ Si lo comparamos con las repeticiones controladas de 2-6 segundos de toda la vid
 65kg
 
 67,5kg
+
+70kg

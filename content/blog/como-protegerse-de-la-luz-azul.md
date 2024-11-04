@@ -1,17 +1,24 @@
 ---
-title: "Protégete de la luz azul (cuidado con las gafas)"
+title: Protégete de la luz azul (cuidado con las gafas)
+subtitle: 
 url: https://pau.ninja/como-protegerse-de-la-luz-azul
 slug: como-protegerse-de-la-luz-azul
-categories: ["habitos-saludables"]
+categories: 
 image: persona-con-gafas-anti-luz-azul.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2022/12/persona-con-gafas-anti-luz-azul.jpeg
-published: 2022-12-14T08:39:30+00:00
-modified: 2023-08-11T06:37:41+00:00
-scrappedAt: 2024-10-14T16:16:44.959Z
+imageUrl: https://pau.ninja/wp-content/uploads/2022/12/persona-con-gafas-anti-luz-azul.jpeg
+publishedAt: 2022-12-14T08:39:30.000Z
+modifiedAt: 2023-08-11T06:37:41.000Z
+scrappedAt: 2024-11-04T11:41:58.327Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65941417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-3%2F315982667-44100-2-d9c1b477c61e9.mp3
-bibliography: ["Guillermo Infantes Capdevila. 2022. “La Conspiración Sobre Las Luces Azules Del Alumbrado Urbano.” Newtral.‌","Teknautas. 2019. “El Engaño de Las Farolas Led En Las Ciudades: Así Perjudica Tu Salud La Luz Azulada.” Elconfidencial.com.","“Evaluating the Association between Artificial Light-At-Night Exposure and Breast and Prostate Cancer Risk in Spain (MCC-Spain Study) | Environmental Health Perspectives | Vol. 126, No. 4.” 2018. Environmental Health Perspectives.‌","“Literature Review:Final Draft.docx – Bed Time Cell Phone Use and Its Relationship to Sleep Quality/Duration among College Students Title Here up to 12.” 2021. Coursehero.com.‌","Grønli, Janne & Byrkjedal, Kristiansen & Bjorvatn, Bjørn & Nødtvedt, Øystein & Hamre, Børge & Pallesen, Ståle. (2016). Reading from an iPad or from a book in bed: The impact on human sleep. A randomized controlled crossover trial. Sleep Medicine. 21. 10.1016/j.sleep.2016.02.006.","Grønli J, Byrkjedal IK, Bjorvatn B, Nødtvedt Ø, Hamre B, Pallesen S. Reading from an iPad or from a book in bed: the impact on human sleep. A randomized controlled crossover trial. Sleep Med. 2016 May;21:86-92. doi: 10.1016/j.sleep.2016.02.006. Epub 2016 Mar 2. PMID: 27448477.","“Will Blue Light Glasses Improve Your Sleep?” 2020. Harvard Business Review.‌","“IQAir | First in Air Quality.” 2023. Iqair.com. ‌"]
+bibliography: Guillermo Infantes Capdevila. 2022. “La Conspiración Sobre Las Luces Azules Del Alumbrado Urbano.” Newtral.‌
+Teknautas. 2019. “El Engaño de Las Farolas Led En Las Ciudades: Así Perjudica Tu Salud La Luz Azulada.” Elconfidencial.com.
+“Evaluating the Association between Artificial Light-At-Night Exposure and Breast and Prostate Cancer Risk in Spain (MCC-Spain Study) | Environmental Health Perspectives | Vol. 126, No. 4.” 2018. Environmental Health Perspectives.‌
+“Literature Review:Final Draft.docx – Bed Time Cell Phone Use and Its Relationship to Sleep Quality/Duration among College Students Title Here up to 12.” 2021. Coursehero.com.‌
+Grønli, Janne & Byrkjedal, Kristiansen & Bjorvatn, Bjørn & Nødtvedt, Øystein & Hamre, Børge & Pallesen, Ståle. (2016). Reading from an iPad or from a book in bed: The impact on human sleep. A randomized controlled crossover trial. Sleep Medicine. 21. 10.1016/j.sleep.2016.02.006.
+Grønli J, Byrkjedal IK, Bjorvatn B, Nødtvedt Ø, Hamre B, Pallesen S. Reading from an iPad or from a book in bed: the impact on human sleep. A randomized controlled crossover trial. Sleep Med. 2016 May;21:86-92. doi: 10.1016/j.sleep.2016.02.006. Epub 2016 Mar 2. PMID: 27448477.
+“Will Blue Light Glasses Improve Your Sleep?” 2020. Harvard Business Review.‌
+“IQAir | First in Air Quality.” 2023. Iqair.com. ‌
 ---
-[https://anchor.fm/s/98566448/podcast/play/65941417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-3%2F315982667-44100-2-d9c1b477c61e9.mp3](https://anchor.fm/s/98566448/podcast/play/65941417/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-3%2F315982667-44100-2-d9c1b477c61e9.mp3)
 
 Si el sol y la luz fueran tan malos para nuestra salud, la naturaleza nos habría hecho animales nocturnos.
 

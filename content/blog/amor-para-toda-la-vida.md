@@ -1,17 +1,24 @@
 ---
-title: "El amor (no) dura 3 años"
+title: El amor (no) dura 3 años
+subtitle: ¿cuánto dura el enamoramiento? ¿existe el amor para toda la vida?
 url: https://pau.ninja/amor-para-toda-la-vida
 slug: amor-para-toda-la-vida
-categories: ["relaciones","relaciones-de-pareja"]
+categories: 
 image: pareja-enamorada-1.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2023/08/pareja-enamorada-1.jpeg
-published: 2023-08-22T13:33:46+00:00
-modified: 2024-01-16T14:18:22+00:00
-scrappedAt: 2024-11-02T15:23:01.098Z
+imageUrl: https://pau.ninja/wp-content/uploads/2023/08/pareja-enamorada-1.jpeg
+publishedAt: 2023-08-22T13:33:46.000Z
+modifiedAt: 2024-01-16T14:18:22.000Z
+scrappedAt: 2024-11-04T11:34:52.595Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75641849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F346234540-44100-2-d141595030aa.mp3
-bibliography: ["Bartels A, Zeki S. The neural basis of romantic love. Neuroreport. 2000 Nov 27;11(17):3829-34. doi: 10.1097/00001756-200011270-00046. PMID: 11117499.","Acevedo BP, Aron A, Fisher HE, Brown LL. Neural correlates of long-term intense romantic love. Soc Cogn Affect Neurosci. 2012 Feb;7(2):145-59. doi: 10.1093/scan/nsq092. Epub 2011 Jan 5. PMID: 21208991; PMCID: PMC3277362.","Shih HC, Kuo ME, Wu CW, Chao YP, Huang HW, Huang CM. The Neurobiological Basis of Love: A Meta-Analysis of Human Functional Neuroimaging Studies of Maternal and Passionate Love. Brain Sci. 2022 Jun 26;12(7):830. doi: 10.3390/brainsci12070830. PMID: 35884637; PMCID: PMC9313376.","Noriuchi M, Kikuchi Y, Senoo A. The functional neuroanatomy of maternal love: mother’s response to infant’s attachment behaviors. Biol Psychiatry. 2008 Feb 15;63(4):415-23. doi: 10.1016/j.biopsych.2007.05.018. Epub 2007 Aug 7. PMID: 17686467.","Woosnam, Kyle M. 2010. “The Inclusion of Other in the Self (Ios) Scale.” Annals of Tourism Research 37 (3): 857–860. ‌","Zeifman D, Hazan Z. Pair bonds as attachments. Reevaluating the evidence. In: Cassidy J, Shaver PR, editors. Handbook of attachment: Theory, research, and clinical applications. New York: Guilford; 2008. pp. 436–455.","Doherty NA, Feeney JA. 2004. The composition of attachment networks throughout the adult years. Personal Relatsh. 11: 469–88","“Attachment in Adulthood: Recent Developments, Emerging Debates, and Future Directions.” 2019. Annual Review of Psychology.‌"]
+bibliography: Bartels A, Zeki S. The neural basis of romantic love. Neuroreport. 2000 Nov 27;11(17):3829-34. doi: 10.1097/00001756-200011270-00046. PMID: 11117499.
+Acevedo BP, Aron A, Fisher HE, Brown LL. Neural correlates of long-term intense romantic love. Soc Cogn Affect Neurosci. 2012 Feb;7(2):145-59. doi: 10.1093/scan/nsq092. Epub 2011 Jan 5. PMID: 21208991; PMCID: PMC3277362.
+Shih HC, Kuo ME, Wu CW, Chao YP, Huang HW, Huang CM. The Neurobiological Basis of Love: A Meta-Analysis of Human Functional Neuroimaging Studies of Maternal and Passionate Love. Brain Sci. 2022 Jun 26;12(7):830. doi: 10.3390/brainsci12070830. PMID: 35884637; PMCID: PMC9313376.
+Noriuchi M, Kikuchi Y, Senoo A. The functional neuroanatomy of maternal love: mother’s response to infant’s attachment behaviors. Biol Psychiatry. 2008 Feb 15;63(4):415-23. doi: 10.1016/j.biopsych.2007.05.018. Epub 2007 Aug 7. PMID: 17686467.
+Woosnam, Kyle M. 2010. “The Inclusion of Other in the Self (Ios) Scale.” Annals of Tourism Research 37 (3): 857–860. ‌
+Zeifman D, Hazan Z. Pair bonds as attachments. Reevaluating the evidence. In: Cassidy J, Shaver PR, editors. Handbook of attachment: Theory, research, and clinical applications. New York: Guilford; 2008. pp. 436–455.
+Doherty NA, Feeney JA. 2004. The composition of attachment networks throughout the adult years. Personal Relatsh. 11: 469–88
+“Attachment in Adulthood: Recent Developments, Emerging Debates, and Future Directions.” 2019. Annual Review of Psychology.‌
 ---
-[https://anchor.fm/s/98566448/podcast/play/75641849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F346234540-44100-2-d141595030aa.mp3](https://anchor.fm/s/98566448/podcast/play/75641849/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-8%2F346234540-44100-2-d141595030aa.mp3)
 
 El 90% de parejas dejan de estar enamoradas la una de la otra al cabo de unos 3 años.
 

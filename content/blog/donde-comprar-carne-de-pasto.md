@@ -1,16 +1,18 @@
 ---
-title: "¿Dónde comprar carne de pasto online en España?"
+title: ¿Dónde comprar carne de pasto online en España?
+subtitle: 
 url: https://pau.ninja/donde-comprar-carne-de-pasto
 slug: donde-comprar-carne-de-pasto
-categories: ["habitos-saludables"]
+categories: 
 image: persona-compra-carne-de-pasto.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/04/persona-compra-carne-de-pasto.jpeg
-published: 2024-05-07T15:19:31+00:00
-modified: 2024-08-10T19:23:48+00:00
-scrappedAt: 2024-11-02T15:52:16.424Z
+imageUrl: https://pau.ninja/wp-content/uploads/2024/04/persona-compra-carne-de-pasto.jpeg
+publishedAt: 2024-05-07T15:19:31.000Z
+modifiedAt: 2024-08-10T19:23:48.000Z
+scrappedAt: 2024-11-04T11:12:38.786Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86671854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-13%2F377441926-44100-2-ddb437618b99b.mp3
-bibliography: []
+bibliography: 
 ---
+
 _Más abajo tienes la lista de las mejores tiendas de carne de pasto online (actualizado: octubre de 2024)_
 
 Desde que empecé la [dieta carnívora](./dieta-carnivora) hace más de 3 años, la primera pregunta que se me hace ya no es _de dónde obtienes la vitamina C_, sino **dónde compro carne 100% de pasto**.

@@ -1,17 +1,32 @@
 ---
-title: "¿Qué lámpara de luz roja comprar?"
+title: ¿Qué lámpara de luz roja comprar?
+subtitle: El 90% de marcas te engañan
 url: https://pau.ninja/lampara-luz-roja-e-infrarroja
 slug: lampara-luz-roja-e-infrarroja
-categories: ["habitos-saludables"]
+categories: 
 image: persona-compra-lamparas-luz-roja.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2023/05/persona-compra-lamparas-luz-roja.jpeg
-published: 2023-05-04T07:32:13+00:00
-modified: 2024-01-29T06:45:12+00:00
-scrappedAt: 2024-11-02T15:23:21.370Z
+imageUrl: https://pau.ninja/wp-content/uploads/2023/05/persona-compra-lamparas-luz-roja.jpeg
+publishedAt: 2023-05-04T07:32:13.000Z
+modifiedAt: 2024-01-29T06:45:12.000Z
+scrappedAt: 2024-11-04T11:40:05.951Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/71470409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F332998382-44100-2-ca7d70483098e.mp3
-bibliography: ["Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.","Barolet D. Light-emitting diodes (LEDs) in dermatology. Semin Cutan Med Surg. 2008 Dec;27(4):227–238.","Huang YY, Chen AC, Carroll JD, Hamblin MR. Biphasic dose response in low level light therapy. Dose Response. 2009 Sep 1;7(4):358-83. doi: 10.2203/dose-response.09-027.Hamblin. PMID: 20011653; PMCID: PMC2790317.","Lee SY, Park KH, Choi JW, Kwon JK, Lee DR, Shin MS, Lee JS, You CE, Park MY. A prospective, randomized, placebo-controlled, double-blinded, and split-face clinical study on LED phototherapy for skin rejuvenation: clinical, profilometric, histologic, ultrastructural, and biochemical evaluations and comparison of three different treatment settings. J Photochem Photobiol B. 2007 Jul 27;88(1):51-67. doi: 10.1016/j.jphotobiol.2007.04.008. Epub 2007 May 1. PMID: 17566756.","Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.","Avci P, Gupta A, Sadasivam M, Vecchio D, Pam Z, Pam N, Hamblin MR. Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring. Semin Cutan Med Surg. 2013 Mar;32(1):41-52. PMID: 24049929; PMCID: PMC4126803.","Hashmi JT, Huang YY, Sharma SK, Kurup DB, De Taboada L, Carroll JD, Hamblin MR. Effect of pulsing in low-level light therapy. Lasers Surg Med. 2010 Aug;42(6):450-66. doi: 10.1002/lsm.20950. PMID: 20662021; PMCID: PMC2933784.","Karanovic O, Thabet M, Wilson HR, Wilkinson F. Detection and discrimination of flicker contrast in migraine. Cephalalgia. 2011 Apr;31(6):723-36. doi: 10.1177/0333102411398401. PMID: 21493642; PMCID: PMC3571449.","IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers","Fisher RS, Acharya JN, Baumer FM, French JA, Parisi P, Solodar JH, Szaflarski JP, Thio LL, Tolchin B, Wilkins AJ, Kasteleijn-Nolst Trenité D. Visually sensitive seizures: An updated review by the Epilepsy Foundation. Epilepsia. 2022 Apr;63(4):739-768. doi: 10.1111/epi.17175. Epub 2022 Feb 7. PMID: 35132632.","Radford B, Bartholomew R. Pokémon contagion: photosensitive epilepsy or mass psychogenic illness? South Med J. 2001 Feb;94(2):197-204. PMID: 11235034.","Salet N, Visser M, Stam C, Smulders YM. Stroboscopic light effects during electronic dance music festivals and photosensitive epilepsy: a cohort study and case report. BMJ Open. 2019 Jun 11;9(6):e023442. doi: 10.1136/bmjopen-2018-023442. PMID: 31186244; PMCID: PMC6585837.","Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.","Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.","«IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015","IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers"]
+bibliography: Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.
+Barolet D. Light-emitting diodes (LEDs) in dermatology. Semin Cutan Med Surg. 2008 Dec;27(4):227–238.
+Huang YY, Chen AC, Carroll JD, Hamblin MR. Biphasic dose response in low level light therapy. Dose Response. 2009 Sep 1;7(4):358-83. doi: 10.2203/dose-response.09-027.Hamblin. PMID: 20011653; PMCID: PMC2790317.
+Lee SY, Park KH, Choi JW, Kwon JK, Lee DR, Shin MS, Lee JS, You CE, Park MY. A prospective, randomized, placebo-controlled, double-blinded, and split-face clinical study on LED phototherapy for skin rejuvenation: clinical, profilometric, histologic, ultrastructural, and biochemical evaluations and comparison of three different treatment settings. J Photochem Photobiol B. 2007 Jul 27;88(1):51-67. doi: 10.1016/j.jphotobiol.2007.04.008. Epub 2007 May 1. PMID: 17566756.
+Gavish L, Houreld NN. Therapeutic Efficacy of Home-Use Photobiomodulation Devices: A Systematic Literature Review. Photobiomodul Photomed Laser Surg. 2019 Jan;37(1):4-16. doi: 10.1089/photob.2018.4512. PMID: 31050938.
+Avci P, Gupta A, Sadasivam M, Vecchio D, Pam Z, Pam N, Hamblin MR. Low-level laser (light) therapy (LLLT) in skin: stimulating, healing, restoring. Semin Cutan Med Surg. 2013 Mar;32(1):41-52. PMID: 24049929; PMCID: PMC4126803.
+Hashmi JT, Huang YY, Sharma SK, Kurup DB, De Taboada L, Carroll JD, Hamblin MR. Effect of pulsing in low-level light therapy. Lasers Surg Med. 2010 Aug;42(6):450-66. doi: 10.1002/lsm.20950. PMID: 20662021; PMCID: PMC2933784.
+Karanovic O, Thabet M, Wilson HR, Wilkinson F. Detection and discrimination of flicker contrast in migraine. Cephalalgia. 2011 Apr;31(6):723-36. doi: 10.1177/0333102411398401. PMID: 21493642; PMCID: PMC3571449.
+IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers
+Fisher RS, Acharya JN, Baumer FM, French JA, Parisi P, Solodar JH, Szaflarski JP, Thio LL, Tolchin B, Wilkins AJ, Kasteleijn-Nolst Trenité D. Visually sensitive seizures: An updated review by the Epilepsy Foundation. Epilepsia. 2022 Apr;63(4):739-768. doi: 10.1111/epi.17175. Epub 2022 Feb 7. PMID: 35132632.
+Radford B, Bartholomew R. Pokémon contagion: photosensitive epilepsy or mass psychogenic illness? South Med J. 2001 Feb;94(2):197-204. PMID: 11235034.
+Salet N, Visser M, Stam C, Smulders YM. Stroboscopic light effects during electronic dance music festivals and photosensitive epilepsy: a cohort study and case report. BMJ Open. 2019 Jun 11;9(6):e023442. doi: 10.1136/bmjopen-2018-023442. PMID: 31186244; PMCID: PMC6585837.
+Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.
+Kennedy A, Murray WS. The effects of flicker on eye movement control. Q J Exp Psychol A. 1991 Feb;43(1):79-99. doi: 10.1080/14640749108401000. PMID: 2017572.
+«IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015
+IEEE Recommended Practices for Modulating Current in High-Brightness LEDs for Mitigating Health Risks to Viewers
 ---
-[https://anchor.fm/s/98566448/podcast/play/71470409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F332998382-44100-2-ca7d70483098e.mp3](https://anchor.fm/s/98566448/podcast/play/71470409/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-2%2F332998382-44100-2-ca7d70483098e.mp3)
 
 Una lámpara de luz roja es el substituto moderno a las ondas infrarroja que nos emite el sol (sobretodo durante el amanecer y el anochecer).
 
@@ -310,7 +325,7 @@ Primero diría encontrar una marca de lámpara que ya te ponga que es _flicker 
 
 O sea que puedes tener dos lámparas con 100 hercios (por poner un ejemplo), pero una de ellas tiene un porcentaje de parapadeo de 10% y el otro de 80%. La que va a causar más problemas va a ser el que tenga el porcentaje de parpadeo más alto (en este caso el del 80%).
 
-Si ya tienes un panel comprado, a menos que sientas que te afecta mucho, tampoco lo devolvería teniendo en cuenta la pasta que cuestan estos aparatos. Lo digo porque la mayoría de problemas que tiene la gente con el parpadeo son crónicos y de exposición constante. Por ejemplo un oficinista que lleva una década debajo de luces fluorescentes[ref-15](#ref-15){.ref}«,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015[ref-16](#ref-16){.ref}.
+Si ya tienes un panel comprado, a menos que sientas que te afecta mucho, tampoco lo devolvería teniendo en cuenta la pasta que cuestan estos aparatos. Lo digo porque la mayoría de problemas que tiene la gente con el parpadeo son crónicos y de exposición constante. Por ejemplo un oficinista que lleva una década debajo de luces fluorescentes[ref-15](#ref-15){.ref}[ref-16](#ref-16){.ref}.
 
 Además pensad que mientras estamos expuestos a la lámpara, no estamos haciendo ninguna tarea que sea cognitivamente demandante. De hecho la mayoría de veces simplemente puedes estar haciendo ejercicios de respiración, o leyendo un libro, o mirando un video, o estirando…
 
@@ -463,157 +478,3 @@ La primera que compré fue de Estados Unidos pero las aduanas me querían hacer 
 - **Desde:** Reino Unido
 - **Envío + factura distintas:** sí ✅
 - **Factura «personalizada»:** no ❌
-
-## Fuentes, referencias y notas
-
-Pulsa aquí para plegarlas/desplegarlas.
-
-- 1
-    
-    
-    
-- 2
-    
-    
-    
-- 3
-    
-    
-    
-- 4
-    
-    
-    
-- 5
-    
-    
-    
-- 6
-    
-    
-    
-- 7
-    
-    
-    
-- 8
-    
-    
-    
-- 9
-    
-    
-    
-- 10
-    
-    
-    
-- 11
-    
-    
-    
-- 12
-    
-    
-    
-- 13
-    
-    
-    
-- 14
-    
-    
-    
-- 15
-    
-    «,» in IEEE Std 1789-2015 , vol., no., pp.1-80, 5 June 2015
-    
-- 16
-    
-    
-    
-
-.autoPodcast ul li a img{width:50px}
-
-- ![spotify](./wp-content/uploads/2023/01spotify.png)
-- ![apple podcast](./wp-content/uploads/2023/01apple-podcast.png)
-- ![youtube](./wp-content/uploads/2023/01youtube.png)
-
-Mira mis otros artículos sobre: [Hábitos saludables](./habitos-saludables)  
-
-## Conviértete en un ninja de la vida
-
-Si te gustan mis publicaciones abiertas, te encantará ser miembro:
-
-- Únete a 1.000 ninjas
-- Recursos exclusivos
-- Podcast privado
-- Boletín cerrado
-
-Accede inmediatamente a mi contenido **cancelado** por los medios sobre ideas, datos y corrientes sobre salud ancestral, estrategia de inversión, mi cartera personal, mentalidad, psicologa, impuestos y estilo de vida.
-
-Unirme a Sociedad Ninja
-
-[Acceder a mi cuenta](#)
-
-![pau ninja sketch](../wp-content/uploads/2022/12/pau-ninja.jpeg)
-
-### Pau
-
-Investigo, experimento y divulgo. Multipotencial con curiosidad intelectual "secuencial": mis pasiones e intereses van a épocas. Como una mamá pájaro, engullo información y la vomito en pedazos coherentes de contenido vía blog y podcast para otros ninjas de la vida. ISNI: 0000 0005 1425 6653
-
-[Suscríbete](#unirse)
-
-×
-
-## Iniciar sesión
-
-Para usuarios de Pau Ninja y Sociedad Ninja
-
-Username or Email 
-
-Contraseña 
-
- Recuérdame
-
-[¿Has perdido tu contraseña?](/lampara-luz-roja-e-infrarroja/?rcp_action=lostpassword)
-
-   
-
-- [Dinero](./dinero)
-- [Salud](./salud)
-
-[![pau ninja en pixel](./wp-content/uploads/2023/01/pau-ninja-en-pixel.png)](https://pau.ninja)
-
-- [Mente](./mente)
-- Mundo
-
-![pau ninja logo](./wp-content/uploads/2022/12pau-ninja-logo.png)
-
-## Lo más destacado del blog
-
-- Mi dieta: la carnívora
-- Mi cartera: 100% bitcoin
-
-## Si no sabes dónde caer
-
-- Últimas publicaciones
-- Publicación aleatoria
-
-Sigamos en contacto
-
-- No hago cafés
-- No hago consultas
-- **Pregúntalo en Sociedad**
-- Paloma mensajera
-
-Youtube Twitter Instagram Tiktok
-
-- Pau Ninja ®
-- Aviso legal **|** Política de cookies **|** Política de privacidad
-
-setTimeout(()=>{ if (!document.getElementById("meks-ap-player")) { var autopodcasts = document.getElementsByClassName("autoPodcast"); if (autopodcasts.length > 0) { for (var i = 0; i < autopodcasts.length; i++) { autopodcasts\[i\].remove(); } } } }, 1500); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autopodcast-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); link.addEventListener('mousedown', function(e) { if (e.which === 2) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); window.open(realLink); } }); link.addEventListener('contextmenu', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); var a = document.createElement('a'); a.href = realLink; if (isBlank) a.target = "\_blank"; a.classList.add('akn-deobf-link'); this.parentNode.insertBefore(a, this); a.appendChild(this); setTimeout(function() { a.parentNode.insertBefore(link, a); a.remove(); }, 10); }); }); }); document.addEventListener("DOMContentLoaded", function() { var obfLinks = document.querySelectorAll('.autosharelink-obf-link'); obfLinks.forEach(function(link) { link.addEventListener('click', function(e) { e.preventDefault(); var realLink = atob(this.getAttribute('data-o')); var isBlank = this.getAttribute('data-b'); if (isBlank) { window.open(realLink); } else { window.location.href = realLink; } }); // You can also add the other event listeners as in the previous code if needed }); });   jQuery(document).ready(function($) { var deviceAgent = navigator.userAgent.toLowerCase(); if (deviceAgent.match(/(iphone|ipod|ipad)/)) { $("html").addClass("ios"); $("html").addClass("mobile"); } if (deviceAgent.match(/(Android)/)) { $("html").addClass("android"); $("html").addClass("mobile"); } if (navigator.userAgent.search("MSIE") >= 0) { $("html").addClass("ie"); } else if (navigator.userAgent.search("Chrome") >= 0) { $("html").addClass("chrome"); } else if (navigator.userAgent.search("Firefox") >= 0) { $("html").addClass("firefox"); } else if (navigator.userAgent.search("Safari") >= 0 && navigator.userAgent.search("Chrome") < 0) { $("html").addClass("safari"); } else if (navigator.userAgent.search("Opera") >= 0) { $("html").addClass("opera"); } var table = jQuery('#lista-tiendas').DataTable({ "language": { "sEmptyTable": "Sin datos", "sInfo": "Mostrando \_START\_ a \_END\_ de \_TOTAL\_ tiendas", "sInfoEmpty": "Mostrando 0 a 0 de 0 tiendas", "sInfoFiltered": "", "sInfoPostFix": "", "sInfoThousands": ",", "sLengthMenu": "Mostrar \_MENU\_ tiendas", "sLoadingRecords": "Loading...", "sProcessing": "Processing...", "sSearch": "Buscar:", "sZeroRecords": "Sin datos", "oPaginate": { "sFirst": "", "sLast": "", "sNext": "Siguiente", "sPrevious": "Atrás" }, "oAria": { "sSortAscending": ": activate to sort column ascending", "sSortDescending": ": activate to sort column descending" }, "select": { "rows": { "\_": "%d rows selected", "0": "", "1": "1 row selected" } } }, scrollX: true, "dom": '<"dt-layout-row"<"dt-layout-cell dt-start"f><"dt-layout-cell dt-end"l>><"dt-extra-info"B>rt<"dt-layout-row"<"dt-layout-cell dt-start"i><"dt-layout-cell dt-end"p>>', order: \[\[7, 'desc'\], \[8, 'asc'\]\] }); // Controla el estado de los checkboxes para filtrar la tabla jQuery('.filter-checkbox').on('change', function() { var filters = \[\]; // Recorre los checkboxes seleccionados y construye un filtro jQuery('.filter-checkbox:checked').each(function() { filters.push(jQuery(this).val()); }); // Aplica el filtro a la columna "Position" var filterString = filters.join('|'); console.log(filterString); table.columns(5).search(filterString, true, false).draw(); }); jQuery('#lista-tiendas tbody').on('click', '.info', function() { var content = jQuery(this).data('content'); jQuery('#modal-body-content').html(content); }); jQuery(".dt-extra-info").append("Desliza la tabla hacia la derecha ➡️"); jQuery('#ordenar').change(function() { var columnIndex = jQuery(this).val(); if(columnIndex== 7){ table.order(\[Number(columnIndex), 'desc'\]).draw(); } else{ table.order(\[Number(columnIndex), 'asc'\]).draw(); } }); jQuery('#dt-search-0').attr("placeholder", "cordero, mantequilla..."); $('.acceder').click(function() { $('#loginModal').css('display', 'block'); }); $('.close').click(function() { $('#loginModal').css('display', 'none'); }); $(window).click(function(event) { if (event.target == $('#loginModal')\[0\]) { $('#loginModal').css('display', 'none'); } }); $('#loginModal').on('submit', '#rcp\_login\_form', function(event) { event.preventDefault(); var formData = $(this).serialize(); var ajaxurl = './wp-admin/admin-ajax.php'; $.ajax({ url: ajaxurl, method: 'POST', data: { 'action': 'custom\_login\_action', 'data': formData, }, success: function(response) { response= JSON.parse(response); if (response.success) { console.log('Inicio de sesión exitoso'); location.reload(); } else { $('.rcp\_message').remove(); var error= '<div class="rcp\_message error" role="list"><p class="rcp\_error incorrect\_password" role="listitem"><span><strong>Error</strong>: '+response.error+'</span></p><div>'; $('#rcp\_login\_form').prepend(error); } }, error: function(xhr, status, error) { console.error('Error en la solicitud AJAX:', error); } }); }); $('.confirm-message').click(function(event) { event.preventDefault(); $('#myModal').css('display', 'block'); }); $('.close-modal-mensaje').click(function() { $('#myModal').css('display', 'none'); }); });
-
-[](javascript:void\(0\);)
-
-  /\* <!\[CDATA\[ \*/ var wpcf7 = {"api":{"root":"https:\\/\\/pau.ninja\\/wp-json\\/","namespace":"contact-form-7\\/v1"},"cached":"1"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var eztoc\_smooth\_local = {"scroll\_offset":"30","add\_request\_uri":""}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ezTOC = {"smooth\_scroll":"1","visibility\_hide\_by\_default":"","scroll\_offset":"30","fallbackIcon":"<span class=\\"\\"><span class=\\"eztoc-hide\\" style=\\"display:none;\\">Toggle<\\/span><span class=\\"ez-toc-icon-toggle-span\\"><svg style=\\"fill: #999;color:#999\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" class=\\"list-377408\\" width=\\"20px\\" height=\\"20px\\" viewBox=\\"0 0 24 24\\" fill=\\"none\\"><path d=\\"M6 6H4v2h2V6zm14 0H8v2h12V6zM4 11h2v2H4v-2zm16 0H8v2h12v-2zM4 16h2v2H4v-2zm16 0H8v2h12v-2z\\" fill=\\"currentColor\\"><\\/path><\\/svg><svg style=\\"fill: #999;color:#999\\" class=\\"arrow-unsorted-368013\\" xmlns=\\"http:\\/\\/www.w3.org\\/2000\\/svg\\" width=\\"10px\\" height=\\"10px\\" viewBox=\\"0 0 24 24\\" version=\\"1.2\\" baseProfile=\\"tiny\\"><path d=\\"M18.2 9.3l-6.2-6.3-6.2 6.3c-.2.2-.3.4-.3.7s.1.5.3.7c.2.2.4.3.7.3h11c.3 0 .5-.1.7-.3.2-.2.3-.5.3-.7s-.1-.5-.3-.7zM5.8 14.7l6.2 6.3 6.2-6.3c.2-.2.3-.5.3-.7s-.1-.5-.3-.7c-.2-.2-.4-.3-.7-.3h-11c-.3 0-.5.1-.7.3-.2.2-.3.5-.3.7s.1.5.3.7z\\"\\/><\\/svg><\\/span><\\/span>"}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var meks\_ap\_settings = {"selectors":{".wp-block-audio":{"element":"audio","type":"audio"},".wp-audio-shortcode":{"element":"self","type":"audio"},".powerpress\_player":{"element":"audio","type":"audio"},".powerpress\_links":{"element":"audio","type":"audio"}},"player":{"controls":\["skipback","playpause"\],"volume":1}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var SUShortcodesL10n = {"noPreview":"Este shortocde no funciona con la vista previa. Por favor ins\\u00e9rtalo en el editor de texto y visual\\u00edzalo despu\\u00e9s.","magnificPopup":{"close":"Cerrar (Esc)","loading":"Cargando...","prev":"Anterior (flecha izquierda)","next":"Siguiente (flecha derecha)","counter":"%curr% de %total%","error":"Failed to load content. <a href=\\"%url%\\" target=\\"\_blank\\"><u>Open link<\\/u><\\/a>"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ wp.i18n.setLocaleData( { 'text direction\\u0004ltr': \[ 'ltr' \] } ); /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var ElementorProFrontendConfig = {"ajaxurl":"https:\\/\\/pau.ninja\\/wp-admin\\/admin-ajax.php","nonce":"60e5acec52","urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/assets\\/","rest":"https:\\/\\/pau.ninja\\/wp-json\\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has\_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has\_counter":true},"pinterest":{"title":"Pinterest","has\_counter":true},"reddit":{"title":"Reddit","has\_counter":true},"vk":{"title":"VK","has\_counter":true},"odnoklassniki":{"title":"OK","has\_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has\_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has\_counter":true},"xing":{"title":"XING","has\_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"},"x-twitter":{"title":"X"},"threads":{"title":"Threads"}},"facebook\_sdk":{"lang":"es\_ES","app\_id":""},"lottie":{"defaultAnimationUrl":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor-pro\\/modules\\/lottie\\/assets\\/animations\\/default.json"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Compartir en Facebook","shareOnTwitter":"Compartir en Twitter","pinIt":"Pinear","download":"Descargar","downloadImage":"Descargar imagen","fullscreen":"Pantalla completa","zoom":"Zoom","share":"Compartir","playVideo":"Reproducir v\\u00eddeo","previous":"Anterior","next":"Siguiente","close":"Cerrar","a11yCarouselWrapperAriaLabel":"Carrusel | Scroll horizontal: Flecha izquierda y derecha","a11yCarouselPrevSlideMessage":"Diapositiva anterior","a11yCarouselNextSlideMessage":"Diapositiva siguiente","a11yCarouselFirstSlideMessage":"Esta es la primera diapositiva","a11yCarouselLastSlideMessage":"Esta es la \\u00faltima diapositiva","a11yCarouselPaginationBulletMessage":"Ir a la diapositiva"},"is\_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"M\\u00f3vil vertical","value":767,"default\_value":767,"direction":"max","is\_enabled":true},"mobile\_extra":{"label":"M\\u00f3vil horizontal","value":880,"default\_value":880,"direction":"max","is\_enabled":false},"tablet":{"label":"Tableta vertical","value":1024,"default\_value":1024,"direction":"max","is\_enabled":true},"tablet\_extra":{"label":"Tableta horizontal","value":1200,"default\_value":1200,"direction":"max","is\_enabled":false},"laptop":{"label":"Port\\u00e1til","value":1366,"default\_value":1366,"direction":"max","is\_enabled":false},"widescreen":{"label":"Pantalla grande","value":2400,"default\_value":2400,"direction":"min","is\_enabled":false}}},"version":"3.21.3","is\_static":false,"experimentalFeatures":{"e\_optimized\_assets\_loading":true,"e\_optimized\_css\_loading":true,"container":true,"e\_swiper\_latest":true,"container\_grid":true,"home\_screen":true,"landing-pages":true,"nested-elements":true,"form-submissions":true},"urls":{"assets":"https:\\/\\/pau.ninja\\/wp-content\\/plugins\\/elementor\\/assets\\/"},"swiperClass":"swiper","settings":{"page":\[\],"editorPreferences":\[\]},"kit":{"active\_breakpoints":\["viewport\_mobile","viewport\_tablet"\],"global\_image\_lightbox":"yes","lightbox\_enable\_counter":"yes","lightbox\_enable\_fullscreen":"yes","lightbox\_enable\_zoom":"yes","lightbox\_enable\_share":"yes","lightbox\_title\_src":"title","lightbox\_description\_src":"description"},"post":{"id":17438,"title":"7%20consejos%20antes%20de%20comprar%20tu%20L%C3%81MPARA%20de%20luz%20roja","excerpt":"","featuredImage":"https:\\/\\/pau.ninja\\/wp-content\\/uploads\\/2023\\/05\\/persona-compra-lamparas-luz-roja.jpeg"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var \_wpUtilSettings = {"ajax":{"url":"\\/wp-admin\\/admin-ajax.php"}}; /\* \]\]> \*/ /\* <!\[CDATA\[ \*/ var wpformsElementorVars = {"captcha\_provider":"recaptcha","recaptcha\_type":"v2"}; /\* \]\]> \*/ !function(){window.advanced\_ads\_ready\_queue=window.advanced\_ads\_ready\_queue||\[\],advanced\_ads\_ready\_queue.push=window.advanced\_ads\_ready;for(var d=0,a=advanced\_ads\_ready\_queue.length;d<a;d++)advanced\_ads\_ready(advanced\_ads\_ready\_queue\[d\])}();

@@ -1,16 +1,32 @@
 ---
-title: "¿Quieres vivir 10 años extra?"
+title: ¿Quieres vivir 10 años extra?
+subtitle: Deja tu adicción al móvil
 url: https://pau.ninja/adiccion-al-movil-solucion
 slug: adiccion-al-movil-solucion
-categories: ["productividad"]
+categories: 
 image: persona-con-adiccion-al-movil.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/10/persona-con-adiccion-al-movil.jpg
-published: 2024-10-23T11:50:27+00:00
-modified: 
-scrappedAt: 2024-11-02T15:51:50.018Z
-audioLink: 
-bibliography: ["Statista Research Department. (2023). Average daily time spent on mobile devices per capita worldwide from 2013 to 2023. _Statista_.","Statista Research Department. (2023). Daily Time Spent on Social Media Worldwide from 2012 to 2023. Statista.","Kemp, S. (2021). Digital 2021: Global Overview Report. We Are Social & Hootsuite.","Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C., 1993. The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363–406","Wilmer, H. H., Sherman, L. E., & Chein, J. M. (2017). Smartphones and Cognition: A Review of Research Exploring the Links Between Mobile Technology Habits and Cognitive Functioning. Frontiers in Psychology, 8, 605.","Elhai, J. D., Dvorak, R. D., Levine, J. C., & Hall, B. J. (2017). Problematic smartphone use: A conceptual overview and systematic review of relations with anxiety and depression symptomatology. Journal of Affective Disorders, 207, 251-259.","Roberts, J. A., & David, M. E. (2016). My life has become a major distraction from my cell phone: Partner phubbing and relationship satisfaction among romantic partners. Computers in Human Behavior, 54, 134-141.","Mark, G., Gonzalez, V. M., & Harris, J., 2005. No task left behind? Examining the nature of fragmented work. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 321-330","Stothart, C., Mitchum, A., & Yehnert, C., 2015. The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance, 41(6), 893-897","Montag, C., Lachmann, B., Herrlich, M., & Zweig, K., 2019. Addictive features of social media/messenger platforms and freemium games against the background of psychological and economic theories. International Journal of Environmental Research and Public Health, 16(14), 2612","Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. PublicAffairs.","Alter, A. (2017). Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked. Penguin Press.","Oulasvirta, A., Rattenbury, T., Ma, L., & Raita, E., 2012. Habits make smartphone use more pervasive. Personal and Ubiquitous Computing, 16(1), 105-114","Elliot, A. J., & Maier, M. A., 2014. Color psychology: Effects of perceiving color on psychological functioning in humans. Annual Review of Psychology, 65, 95-120","Wilmer, H. H., Sherman, L. E., & Chein, J. M., 2017. Smartphones and cognition: A review of research exploring the links between mobile technology habits and cognitive functioning. Frontiers in Psychology, 8, 605"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/10/persona-con-adiccion-al-movil.jpg
+publishedAt: 2024-10-23T11:50:27.000Z
+modifiedAt: undefined
+scrappedAt: 2024-11-04T11:08:50.259Z
+audioLink: undefined
+bibliography: Statista Research Department. (2023). Average daily time spent on mobile devices per capita worldwide from 2013 to 2023. _Statista_.
+Statista Research Department. (2023). Daily Time Spent on Social Media Worldwide from 2012 to 2023. Statista.
+Kemp, S. (2021). Digital 2021: Global Overview Report. We Are Social & Hootsuite.
+Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C., 1993. The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363–406
+Wilmer, H. H., Sherman, L. E., & Chein, J. M. (2017). Smartphones and Cognition: A Review of Research Exploring the Links Between Mobile Technology Habits and Cognitive Functioning. Frontiers in Psychology, 8, 605.
+Elhai, J. D., Dvorak, R. D., Levine, J. C., & Hall, B. J. (2017). Problematic smartphone use: A conceptual overview and systematic review of relations with anxiety and depression symptomatology. Journal of Affective Disorders, 207, 251-259.
+Roberts, J. A., & David, M. E. (2016). My life has become a major distraction from my cell phone: Partner phubbing and relationship satisfaction among romantic partners. Computers in Human Behavior, 54, 134-141.
+Mark, G., Gonzalez, V. M., & Harris, J., 2005. No task left behind? Examining the nature of fragmented work. Proceedings of the SIGCHI Conference on Human Factors in Computing Systems, 321-330
+Stothart, C., Mitchum, A., & Yehnert, C., 2015. The attentional cost of receiving a cell phone notification. Journal of Experimental Psychology: Human Perception and Performance, 41(6), 893-897
+Montag, C., Lachmann, B., Herrlich, M., & Zweig, K., 2019. Addictive features of social media/messenger platforms and freemium games against the background of psychological and economic theories. International Journal of Environmental Research and Public Health, 16(14), 2612
+Zuboff, S. (2019). The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. PublicAffairs.
+Alter, A. (2017). Irresistible: The Rise of Addictive Technology and the Business of Keeping Us Hooked. Penguin Press.
+Oulasvirta, A., Rattenbury, T., Ma, L., & Raita, E., 2012. Habits make smartphone use more pervasive. Personal and Ubiquitous Computing, 16(1), 105-114
+Elliot, A. J., & Maier, M. A., 2014. Color psychology: Effects of perceiving color on psychological functioning in humans. Annual Review of Psychology, 65, 95-120
+Wilmer, H. H., Sherman, L. E., & Chein, J. M., 2017. Smartphones and cognition: A review of research exploring the links between mobile technology habits and cognitive functioning. Frontiers in Psychology, 8, 605
 ---
+
 Ninjas de la vida, ¿sabías que la persona promedio pasa **4 horas al día mirando su móvil**?[ref-1](#ref-1){.ref}
 
 Lo vuelvo a repetir: 4 horas. Cuatro malditas horas, y más de la mitad de estas son por el uso de las redes sociales.
@@ -177,7 +193,7 @@ Pero una de las compras más interesantes que hice la última vez que visité a 
 
 Ahora mismo rebajado
 
-[![BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWVRpMTVNbVExYTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDcxNDg0Ng=)](https://www.amazon.es/dpB0D2NGSF16?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)")
+[![BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWVRpMTVNbVExYTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTMyOQ=)](https://www.amazon.es/dpB0D2NGSF16?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)")
 
 [BOOX Palma 6.13" Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)](https://www.amazon.es/dp/B0D2NGSF16?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)")
 

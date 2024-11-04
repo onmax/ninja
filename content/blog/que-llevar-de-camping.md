@@ -1,16 +1,29 @@
 ---
-title: "¿Qué llevar de camping?"
+title: ¿Qué llevar de camping?
+subtitle: (con +10 estudios científicos)
 url: https://pau.ninja/que-llevar-de-camping
 slug: que-llevar-de-camping
-categories: ["estilo-de-vida"]
+categories: 
 image: persona-con-lista-de-cosas-para-acampar.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/10/persona-con-lista-de-cosas-para-acampar.jpg
-published: 2024-08-20T05:28:22+00:00
-modified: 2024-10-22T05:33:58+00:00
-scrappedAt: 2024-11-02T15:51:59.643Z
-audioLink: 
-bibliography: ["Curtin, S., & Grimes, R. (2010). Slow tourism: Experiences and mobilities. Journal of Tourism and Cultural Change, 8(4), 265-280.","Robinson, M., & Picard, D. (2006). Tourism, Culture and Sustainable Development. UNESCO Cultural Policies for Development Series.","Dickinson, J. E., Lumsdon, L. M., & Robbins, D. (2011). Slow travel: Issues for tourism and climate change. Journal of Sustainable Tourism, 19(3), 281-300.","Anderson, 2021. The therapeutic effects of nature exposure. Journal of Environmental Psychology, 72, 101-111","Gupta, 2019. Camping tents: Evaluating water resistance and user experience. Outdoor Recreation Journal, 45(2), 123-134","Martínez, 2018. Insulating effects of sleeping bags in outdoor environments. Wilderness & Environmental Medicine, 29(3), 317-325","Johnson, 2020. Thermoregulation and comfort in outdoor sleeping arrangements. Journal of Outdoor Adventure, 12(1), 49-60","Robinson, 2017. The role of lighting in camping safety. Outdoor Safety Journal, 33(2), 99-110","Santos, 2021. Hygiene practices in outdoor recreational activities. Environmental Conservation Journal, 47(4), 213-225","Lee, 2019. Time efficiency in meal preparation during outdoor camping. Outdoor Culinary Journal, 12(1), 87-95","Dawson, 2020. First aid preparedness in outdoor activities. Safety & Health Journal, 38(3), 145-156","Martínez & López, 2018. The impact of technology use in outdoor recreation. Wilderness Society Journal, 29(4), 250-267"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/10/persona-con-lista-de-cosas-para-acampar.jpg
+publishedAt: 2024-08-20T05:28:22.000Z
+modifiedAt: 2024-10-22T05:33:58.000Z
+scrappedAt: 2024-11-04T11:10:10.270Z
+audioLink: undefined
+bibliography: Curtin, S., & Grimes, R. (2010). Slow tourism: Experiences and mobilities. Journal of Tourism and Cultural Change, 8(4), 265-280.
+Robinson, M., & Picard, D. (2006). Tourism, Culture and Sustainable Development. UNESCO Cultural Policies for Development Series.
+Dickinson, J. E., Lumsdon, L. M., & Robbins, D. (2011). Slow travel: Issues for tourism and climate change. Journal of Sustainable Tourism, 19(3), 281-300.
+Anderson, 2021. The therapeutic effects of nature exposure. Journal of Environmental Psychology, 72, 101-111
+Gupta, 2019. Camping tents: Evaluating water resistance and user experience. Outdoor Recreation Journal, 45(2), 123-134
+Martínez, 2018. Insulating effects of sleeping bags in outdoor environments. Wilderness & Environmental Medicine, 29(3), 317-325
+Johnson, 2020. Thermoregulation and comfort in outdoor sleeping arrangements. Journal of Outdoor Adventure, 12(1), 49-60
+Robinson, 2017. The role of lighting in camping safety. Outdoor Safety Journal, 33(2), 99-110
+Santos, 2021. Hygiene practices in outdoor recreational activities. Environmental Conservation Journal, 47(4), 213-225
+Lee, 2019. Time efficiency in meal preparation during outdoor camping. Outdoor Culinary Journal, 12(1), 87-95
+Dawson, 2020. First aid preparedness in outdoor activities. Safety & Health Journal, 38(3), 145-156
+Martínez & López, 2018. The impact of technology use in outdoor recreation. Wilderness Society Journal, 29(4), 250-267
 ---
+
 Las estadísticas muestran que acampar es una de esas actividades que cada vez tiene más adeptos…[ref-1](#ref-1){.ref}
 
 A lo que yo alego que es seguramente porque no tienes que pagar entradas o equipamiento muy a menudo.
@@ -90,7 +103,7 @@ Simplemente buscamos un modelo que no necesites el mapa de Prison Brake para mon
 
 Ahora mismo rebajado
 
-[![Naturehike Tienda de Campaña Mejorar Cloud Up 2 Persona Tienda de Trekking Ultraligero Impermeable...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGNGVHMW1kMXBCYVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB07KPVL85V?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Naturehike Tienda de Campaña Mejorar Cloud Up 2 Persona Tienda de Trekking Ultraligero Impermeable...")
+[![Naturehike Tienda de Campaña Mejorar Cloud Up 2 Persona Tienda de Trekking Ultraligero Impermeable...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGNGVHMW1kMXBCYVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB07KPVL85V?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Naturehike Tienda de Campaña Mejorar Cloud Up 2 Persona Tienda de Trekking Ultraligero Impermeable...")
 
 [Naturehike Tienda de Campaña Mejorar Cloud Up 2 Persona Tienda de Trekking Ultraligero Impermeable...](https://www.amazon.es/dp/B07KPVL85V?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Naturehike Tienda de Campaña Mejorar Cloud Up 2 Persona Tienda de Trekking Ultraligero Impermeable...")
 
@@ -120,7 +133,7 @@ Si acampamos en una zona fría, necesitamos un saco que esté diseñado para esa
 
 Ahora mismo rebajado
 
-[![Saco de Dormir, Saco de Dormir Ultraligero para una Sola Persona de 4 Estaciones para Adultos y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcGRuSTBTR2xDSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB0CDNX8T9T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Saco de Dormir, Saco de Dormir Ultraligero para una Sola Persona de 4 Estaciones para Adultos y...")
+[![Saco de Dormir, Saco de Dormir Ultraligero para una Sola Persona de 4 Estaciones para Adultos y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcGRuSTBTR2xDSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB0CDNX8T9T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Saco de Dormir, Saco de Dormir Ultraligero para una Sola Persona de 4 Estaciones para Adultos y...")
 
 [Saco de Dormir, Saco de Dormir Ultraligero para una Sola Persona de 4 Estaciones para Adultos y...](https://www.amazon.es/dp/B0CDNX8T9T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Saco de Dormir, Saco de Dormir Ultraligero para una Sola Persona de 4 Estaciones para Adultos y...")
 
@@ -150,7 +163,7 @@ Incluso si tenemos el mejor saco de dormir del mundo mundial, sin una esterilla 
 
 Aquí tenemos varias opciones, como las esterillas autoinflables que son compactas y fáciles de transportar, mientras que las colchonetas inflables nos dan más comodidad pero también nos ocuparán más espacio.
 
-[![Origem Esterilla Camping Autoinflable,14 cm Colchón Hinchable de Aire Ultraligero Inflable con...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFek9GRTNhbFZLYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB0CTT95KWR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Origem Esterilla Camping Autoinflable,14 cm Colchón Hinchable de Aire Ultraligero Inflable con...")
+[![Origem Esterilla Camping Autoinflable,14 cm Colchón Hinchable de Aire Ultraligero Inflable con...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFek9GRTNhbFZLYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB0CTT95KWR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Origem Esterilla Camping Autoinflable,14 cm Colchón Hinchable de Aire Ultraligero Inflable con...")
 
 [Origem Esterilla Camping Autoinflable,14 cm Colchón Hinchable de Aire Ultraligero Inflable con...](https://www.amazon.es/dp/B0CTT95KWR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Origem Esterilla Camping Autoinflable,14 cm Colchón Hinchable de Aire Ultraligero Inflable con...")
 
@@ -174,13 +187,13 @@ La mía es sin duda una luz frontal roja, pero también una lámpara que compré
 
 Ahora mismo rebajado
 
-[![FOMYHEARD Lámpara de mesita de noche táctil regulable, 256 RGB cambio de color lámpara de mesa...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGRU1XNXpVR05EWVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB0BZS7QFW5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "FOMYHEARD Lámpara de mesita de noche táctil regulable, 256 RGB cambio de color lámpara de mesa...")
+[![FOMYHEARD Lámpara de mesita de noche táctil regulable, 256 RGB cambio de color lámpara de mesa...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGRU1XNXpVR05EWVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB0BZS7QFW5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "FOMYHEARD Lámpara de mesita de noche táctil regulable, 256 RGB cambio de color lámpara de mesa...")
 
 [FOMYHEARD Lámpara de mesita de noche táctil regulable, 256 RGB cambio de color lámpara de mesa...](https://www.amazon.es/dp/B0BZS7QFW5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "FOMYHEARD Lámpara de mesita de noche táctil regulable, 256 RGB cambio de color lámpara de mesa...")
 
 Compré esta por la posibilidad de elegir el color rojo además de que la batería era más duradera que las demás.
 
-19,54 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
+22,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
 [Comprar en Amazon](https://www.amazon.es/dp/B0BZS7QFW5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
@@ -196,7 +209,7 @@ Lo más vital es la sartén que lógicamente tiene que ser de un material sano, 
 
 Mi favorita para tener por ahí es una de acero inoxidable: en casa tengo la de 28cm de circunferencia, y la que me acostumbro a llevar es esta misma, o la de 20cm, dependiendo de la situación.
 
-[![Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR2VIZERSQzFaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB0CZHXHLDJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...")
+[![Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR2VIZERSQzFaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB0CZHXHLDJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...")
 
 [Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...](https://www.amazon.es/dp/B0CZHXHLDJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...")
 
@@ -210,7 +223,7 @@ El truco está en que la suficiente sea lo suficientemente grande para cocinar c
 
 Ahora mismo rebajado
 
-[![Quid Ottawa Cacerola Acero Inoxidable 28cm - 7,8l Acero](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQmFEQnRUSFpMTjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB00AHVUGA6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Quid Ottawa Cacerola Acero Inoxidable 28cm - 7,8l Acero")
+[![Quid Ottawa Cacerola Acero Inoxidable 28cm - 7,8l Acero](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQmFEQnRUSFpMTjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB00AHVUGA6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Quid Ottawa Cacerola Acero Inoxidable 28cm - 7,8l Acero")
 
 [Quid Ottawa Cacerola Acero Inoxidable 28cm - 7,8l Acero](https://www.amazon.es/dp/B00AHVUGA6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Quid Ottawa Cacerola Acero Inoxidable 28cm - 7,8l Acero")
 
@@ -230,7 +243,7 @@ Yo tengo sí o sí la sartén o cacerola, y después en la lista uno de cada de 
 
 No olvidemos tampoco el plato, para no tener que ir arañando la sartén cuando cocinemos nuestra querida carne.
 
-[![LZYKJGS 2 Piezas Platos Redondos en Acero Inoxidable, Bandeja Decorativa en Acero Inoxidable, Plato...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQmRUZENla1V6TkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB0CXF5D262?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LZYKJGS 2 Piezas Platos Redondos en Acero Inoxidable, Bandeja Decorativa en Acero Inoxidable, Plato...")
+[![LZYKJGS 2 Piezas Platos Redondos en Acero Inoxidable, Bandeja Decorativa en Acero Inoxidable, Plato...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQmRUZENla1V6TkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB0CXF5D262?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LZYKJGS 2 Piezas Platos Redondos en Acero Inoxidable, Bandeja Decorativa en Acero Inoxidable, Plato...")
 
 [LZYKJGS 2 Piezas Platos Redondos en Acero Inoxidable, Bandeja Decorativa en Acero Inoxidable, Plato...](https://www.amazon.es/dp/B0CXF5D262?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LZYKJGS 2 Piezas Platos Redondos en Acero Inoxidable, Bandeja Decorativa en Acero Inoxidable, Plato...")
 
@@ -276,7 +289,7 @@ Está claro que el agua es algo que no puede faltar, y siempre terminaremos nece
 
 Una opción pueden ser esos filtros tipo botella, porque así podemos acumular un poco de agua y no tener que ir a la fuente cada vez.
 
-[![GRAYL GeoPress 710ml Filtro de agua para exteriores Agua potable I Elimina el 99,99% de todas las...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdFUxTlBOMVY2TjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzYxMw=)](https://www.amazon.es/dpB09CZ7LM9N?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "GRAYL GeoPress 710ml Filtro de agua para exteriores Agua potable I Elimina el 99,99% de todas las...")
+[![GRAYL GeoPress 710ml Filtro de agua para exteriores Agua potable I Elimina el 99,99% de todas las...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdFUxTlBOMVY2TjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQwOQ=)](https://www.amazon.es/dpB09CZ7LM9N?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "GRAYL GeoPress 710ml Filtro de agua para exteriores Agua potable I Elimina el 99,99% de todas las...")
 
 [GRAYL GeoPress 710ml Filtro de agua para exteriores Agua potable I Elimina el 99,99% de todas las...](https://www.amazon.es/dp/B09CZ7LM9N?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "GRAYL GeoPress 710ml Filtro de agua para exteriores Agua potable I Elimina el 99,99% de todas las...")
 

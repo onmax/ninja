@@ -1,16 +1,18 @@
 ---
-title: "Deltoides de dios griego… pero sólo con peso corporal"
+title: Deltoides de dios griego… pero sólo con peso corporal
+subtitle: Ejercicios de hombros en calistenia
 url: https://pau.ninja/ejercicios-hombros-calistenia
 slug: ejercicios-hombros-calistenia
-categories: ["fitness"]
+categories: 
 image: hombre-con-buenos-hombros.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2022/05/hombre-con-buenos-hombros.jpeg
-published: 2022-05-03T07:40:01+00:00
-modified: 2024-02-05T06:33:03+00:00
-scrappedAt: 2024-10-14T16:18:12.048Z
-audioLink: 
-bibliography: ["Thomas, Ewan & Bianco, Antonino & Mancuso, Esamuela & Patti, Antonino & Tabacchi, Garden & Paoli, Antonio & Messina, Giuseppe & Palma, Antonio. (2017). The effects of a calisthenics training intervention on posture, strength and body composition. Isokinetics and Exercise Science. 25. 1-8. 10.3233/IES-170001."]
+imageUrl: https://pau.ninja/wp-content/uploads/2022/05/hombre-con-buenos-hombros.jpeg
+publishedAt: 2022-05-03T07:40:01.000Z
+modifiedAt: 2024-02-05T06:33:03.000Z
+scrappedAt: 2024-11-04T11:46:11.092Z
+audioLink: undefined
+bibliography: Thomas, Ewan & Bianco, Antonino & Mancuso, Esamuela & Patti, Antonino & Tabacchi, Garden & Paoli, Antonio & Messina, Giuseppe & Palma, Antonio. (2017). The effects of a calisthenics training intervention on posture, strength and body composition. Isokinetics and Exercise Science. 25. 1-8. 10.3233/IES-170001.
 ---
+
 Los hombros son el músculo más estético del cuerpo humano y por una buena razón. Somos el único animal que tiene un deltoide así. Sin igual. Con un manguito rotador para tirar piedras en grupo, cazar y… sobrevivir.
 
 Normal que en la naturaleza, si una característica así es tan apreciada por el grupo, el desarrollo de este músculo se traduzca a más atracción porque significaría que estas siendo efectivo para la tribu.

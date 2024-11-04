@@ -1,16 +1,18 @@
 ---
-title: "Soporte y resistencia en trading"
+title: Soporte y resistencia en trading
+subtitle: 
 url: https://pau.ninja/soporte-y-resistencia-trading
 slug: soporte-y-resistencia-trading
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: trader-dando-soporte-y-resistencia.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/05/trader-dando-soporte-y-resistencia.jpeg
-published: 2024-05-28T12:49:13+00:00
-modified: 2024-05-30T05:51:39+00:00
-scrappedAt: 2024-11-02T15:52:11.738Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-dando-soporte-y-resistencia.jpeg
+publishedAt: 2024-05-28T12:49:13.000Z
+modifiedAt: 2024-05-30T05:51:39.000Z
+scrappedAt: 2024-11-04T11:11:59.191Z
+audioLink: undefined
+bibliography: 
 ---
+
 Uno de los problemas que más me dio por saco a la hora de ir aplicando todo lo que iba aprendiendo de análisis técnico, fue que siempre me saltaba el maldito _Stop Loss_.
 
 Se me había estado haciendo muy difícil identificar donde estaba lo que llaman soporte y suelo (con el máximo de presión compradora que impediría que el precio bajara más), o donde estaba el techo o resistencia (con su máxima presión vendedora que haría que el precio no pudiera pasar de allí).

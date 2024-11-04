@@ -1,16 +1,28 @@
 ---
-title: "¿Cuántas series y repeticiones para hipertrofia?"
+title: ¿Cuántas series y repeticiones para hipertrofia?
+subtitle: El rango perfecto para ganar masa muscular
 url: https://pau.ninja/series-y-repeticiones-hipertrofia
 slug: series-y-repeticiones-hipertrofia
-categories: ["fitness"]
+categories: 
 image: levantando-mancuernas.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2022/03/levantando-mancuernas.jpeg
-published: 2022-03-16T17:41:59+00:00
-modified: 2023-06-27T17:47:12+00:00
-scrappedAt: 2024-10-14T16:18:25.598Z
-audioLink: 
-bibliography: ["Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. J Sports Sci. 2017 Jun;35(11):1073-1082. doi: 10.1080/02640414.2016.1210197. Epub 2016 Jul 19. PMID: 27433992.","Brigatto, Felipe & Lima, Leonardo & Germano, Moisés & Aoki, Marcelo & Braz, Tiago & Lopes, Charles. (2019). High Resistance-Training Volume Enhances Muscle Thickness in Resistance-Trained Men. The Journal of Strength and Conditioning Research. Publish Ahead of Print. 10.1519/JSC.0000000000003413.","Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.","Barbosa-Netto S, d’Acelino-E-Porto OS, Almeida MB. Self-Selected Resistance Exercise Load: Implications for Research and Prescription. J Strength Cond Res. 2021 Feb 1;35(Suppl 1):S166-S172. doi: 10.1519/JSC.0000000000002287. PMID: 29112055.","Lasevicius T, Ugrinowitsch C, Schoenfeld BJ, Roschel H, Tavares LD, De Souza EO, Laurentino G, Tricoli V. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy. Eur J Sport Sci. 2018 Jul;18(6):772-780. doi: 10.1080/17461391.2018.1450898. Epub 2018 Mar 22. PMID: 29564973.","Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.","Radaelli R, Fleck SJ, Leite T, Leite RD, Pinto RS, Fernandes L, Simão R. Dose-response of 1, 3, and 5 sets of resistance exercise on strength, local muscular endurance, and hypertrophy. J Strength Cond Res. 2015 May;29(5):1349-58. doi: 10.1519/JSC.0000000000000758. PMID: 25546444.","Dr. Carl Juneau, PhD, Muscle Hypertrophy: Are All Reps Created Equal? Formalizing The Theory Of “Effective Reps”","van den Tillaar R, Andersen V, Saeterbakken AH. Comparison of muscle activation and kinematics during free-weight back squats with different loads. PLoS One. 2019 May 16;14(5):e0217044. doi: 10.1371/journal.pone.0217044. PMID: 31095625; PMCID: PMC6521994.","McBride JM, Larkin TR, Dayne AM, Haines TL, Kirby TJ. Effect of absolute and relative loading on muscle activity during stable and unstable squatting. Int J Sports Physiol Perform. 2010 Jun;5(2):177-83. doi: 10.1123/ijspp.5.2.177. PMID: 20625190.","Król H, Gołaś A. Effect of Barbell Weight on the Structure of the Flat Bench Press. J Strength Cond Res. 2017 May;31(5):1321-1337. doi: 10.1519/JSC.0000000000001816. PMID: 28415066; PMCID: PMC5400411."]
+imageUrl: https://pau.ninja/wp-content/uploads/2022/03/levantando-mancuernas.jpeg
+publishedAt: 2022-03-16T17:41:59.000Z
+modifiedAt: 2023-06-27T17:47:12.000Z
+scrappedAt: 2024-11-04T11:48:20.366Z
+audioLink: undefined
+bibliography: Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. J Sports Sci. 2017 Jun;35(11):1073-1082. doi: 10.1080/02640414.2016.1210197. Epub 2016 Jul 19. PMID: 27433992.
+Brigatto, Felipe & Lima, Leonardo & Germano, Moisés & Aoki, Marcelo & Braz, Tiago & Lopes, Charles. (2019). High Resistance-Training Volume Enhances Muscle Thickness in Resistance-Trained Men. The Journal of Strength and Conditioning Research. Publish Ahead of Print. 10.1519/JSC.0000000000003413.
+Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.
+Barbosa-Netto S, d’Acelino-E-Porto OS, Almeida MB. Self-Selected Resistance Exercise Load: Implications for Research and Prescription. J Strength Cond Res. 2021 Feb 1;35(Suppl 1):S166-S172. doi: 10.1519/JSC.0000000000002287. PMID: 29112055.
+Lasevicius T, Ugrinowitsch C, Schoenfeld BJ, Roschel H, Tavares LD, De Souza EO, Laurentino G, Tricoli V. Effects of different intensities of resistance training with equated volume load on muscle strength and hypertrophy. Eur J Sport Sci. 2018 Jul;18(6):772-780. doi: 10.1080/17461391.2018.1450898. Epub 2018 Mar 22. PMID: 29564973.
+Schoenfeld BJ, Contreras B, Krieger J, Grgic J, Delcastillo K, Belliard R, Alto A. Resistance Training Volume Enhances Muscle Hypertrophy but Not Strength in Trained Men. Med Sci Sports Exerc. 2019 Jan;51(1):94-103. doi: 10.1249/MSS.0000000000001764. PMID: 30153194; PMCID: PMC6303131.
+Radaelli R, Fleck SJ, Leite T, Leite RD, Pinto RS, Fernandes L, Simão R. Dose-response of 1, 3, and 5 sets of resistance exercise on strength, local muscular endurance, and hypertrophy. J Strength Cond Res. 2015 May;29(5):1349-58. doi: 10.1519/JSC.0000000000000758. PMID: 25546444.
+Dr. Carl Juneau, PhD, Muscle Hypertrophy: Are All Reps Created Equal? Formalizing The Theory Of “Effective Reps”
+van den Tillaar R, Andersen V, Saeterbakken AH. Comparison of muscle activation and kinematics during free-weight back squats with different loads. PLoS One. 2019 May 16;14(5):e0217044. doi: 10.1371/journal.pone.0217044. PMID: 31095625; PMCID: PMC6521994.
+McBride JM, Larkin TR, Dayne AM, Haines TL, Kirby TJ. Effect of absolute and relative loading on muscle activity during stable and unstable squatting. Int J Sports Physiol Perform. 2010 Jun;5(2):177-83. doi: 10.1123/ijspp.5.2.177. PMID: 20625190.
+Król H, Gołaś A. Effect of Barbell Weight on the Structure of the Flat Bench Press. J Strength Cond Res. 2017 May;31(5):1321-1337. doi: 10.1519/JSC.0000000000001816. PMID: 28415066; PMCID: PMC5400411.
 ---
+
 Si quieres ganar volumen muscular, **céntrate en el volumen de entrenamiento**. Punto.
 
 Sé que me saldrán algunos oyentes de la iglesia de la intensidad, diciendo que mover pesos lo más pesados posibles (aunque sea una sola serie o repetición) es lo que nos hará crecer, pero la evidencia es clara.

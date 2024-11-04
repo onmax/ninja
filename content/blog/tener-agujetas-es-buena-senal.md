@@ -1,16 +1,29 @@
 ---
-title: "¿Más agujetas = más músculo?"
+title: ¿Más agujetas = más músculo?
+subtitle: ¿Es buena señal... o mala?
 url: https://pau.ninja/tener-agujetas-es-buena-senal
 slug: tener-agujetas-es-buena-senal
-categories: ["fitness"]
+categories: 
 image: persona-con-dolor-de-agujetas.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/08/persona-con-dolor-de-agujetas.jpg
-published: 2024-08-13T06:59:50+00:00
-modified: 2024-08-13T07:10:24+00:00
-scrappedAt: 2024-11-02T15:52:01.730Z
-audioLink: 
-bibliography: ["Cheung, K., Hume, P., & Maxwell, L. (2003). «Delayed onset muscle soreness: treatment strategies and performance factors.» Sports Medicine, 33(2), 145-164","Smith, L. L. (1991). «Acute inflammation: the underlying mechanism in delayed onset muscle soreness?» Medicine & Science in Sports & Exercise, 23(5), 542-551","Clarkson, P. M., & Hubal, M. J. (2002). «Exercise-induced muscle damage in humans.» American Journal of Physical Medicine & Rehabilitation, 81(11 Suppl), S52-S69","Armstrong, R. B. (1984). «Mechanisms of exercise-induced delayed onset muscular soreness: a brief review.» Medicine & Science in Sports & Exercise, 16(6), 529-538","Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their application to resistance training.» Journal of Strength and Conditioning Research, 24(10), 2857-2872","McHugh, M. P. (2003). «Recent advances in the understanding of the repeated bout effect: the protective effect against muscle damage from a single bout of eccentric exercise.» Scandinavian Journal of Medicine & Science in Sports, 13(2), 88-97","Proske, U., & Morgan, D. L. (2001). «Muscle damage from eccentric exercise: mechanism, mechanical signs, adaptation and clinical applications.» The Journal of Physiology, 537(2), 333-345","Noakes, T. D. (2003). «Commentary on viewpoint: Time to move beyond a brainless exercise physiology: the evidence for complex regulation of human exercise performance.» Journal of Applied Physiology, 96(1), 335-337","Ratamess, N. A., et al. (2009). «Progression models in resistance training for healthy adults.» Medicine & Science in Sports & Exercise, 41(3), 687-708","Connolly, D. A., Sayers, S. P., & McHugh, M. P. (2003). «Treatment and prevention of delayed onset muscle soreness.» Journal of Strength and Conditioning Research, 17(1), 197-208","Zainuddin, Z., et al. (2005). «Effects of massage on delayed-onset muscle soreness, swelling, and recovery of muscle function.» Journal of Athletic Training, 40(3), 174-180","Cheung, K., Hume, P. A., & Maxwell, L. (2003). «Delayed onset muscle soreness: treatment strategies and performance factors.» Sports Medicine, 33(2), 145-164"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-con-dolor-de-agujetas.jpg
+publishedAt: 2024-08-13T06:59:50.000Z
+modifiedAt: 2024-08-13T07:10:24.000Z
+scrappedAt: 2024-11-04T11:10:28.370Z
+audioLink: undefined
+bibliography: Cheung, K., Hume, P., & Maxwell, L. (2003). «Delayed onset muscle soreness: treatment strategies and performance factors.» Sports Medicine, 33(2), 145-164
+Smith, L. L. (1991). «Acute inflammation: the underlying mechanism in delayed onset muscle soreness?» Medicine & Science in Sports & Exercise, 23(5), 542-551
+Clarkson, P. M., & Hubal, M. J. (2002). «Exercise-induced muscle damage in humans.» American Journal of Physical Medicine & Rehabilitation, 81(11 Suppl), S52-S69
+Armstrong, R. B. (1984). «Mechanisms of exercise-induced delayed onset muscular soreness: a brief review.» Medicine & Science in Sports & Exercise, 16(6), 529-538
+Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their application to resistance training.» Journal of Strength and Conditioning Research, 24(10), 2857-2872
+McHugh, M. P. (2003). «Recent advances in the understanding of the repeated bout effect: the protective effect against muscle damage from a single bout of eccentric exercise.» Scandinavian Journal of Medicine & Science in Sports, 13(2), 88-97
+Proske, U., & Morgan, D. L. (2001). «Muscle damage from eccentric exercise: mechanism, mechanical signs, adaptation and clinical applications.» The Journal of Physiology, 537(2), 333-345
+Noakes, T. D. (2003). «Commentary on viewpoint: Time to move beyond a brainless exercise physiology: the evidence for complex regulation of human exercise performance.» Journal of Applied Physiology, 96(1), 335-337
+Ratamess, N. A., et al. (2009). «Progression models in resistance training for healthy adults.» Medicine & Science in Sports & Exercise, 41(3), 687-708
+Connolly, D. A., Sayers, S. P., & McHugh, M. P. (2003). «Treatment and prevention of delayed onset muscle soreness.» Journal of Strength and Conditioning Research, 17(1), 197-208
+Zainuddin, Z., et al. (2005). «Effects of massage on delayed-onset muscle soreness, swelling, and recovery of muscle function.» Journal of Athletic Training, 40(3), 174-180
+Cheung, K., Hume, P. A., & Maxwell, L. (2003). «Delayed onset muscle soreness: treatment strategies and performance factors.» Sports Medicine, 33(2), 145-164
 ---
+
 ¿Somos como los Súper Saiyajin?
 
 Lo digo porque en Dragon Ball tanto Goku como Vegeta se vuelven más fuertes cada vez que están a punto de palmarla. Por esto el notas de Vegeta se _auto_dañaba, tomaba unas judías mágicas, y venga… Ya era más fuerte.

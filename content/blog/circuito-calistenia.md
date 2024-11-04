@@ -1,16 +1,32 @@
 ---
-title: "Circuito calistenia"
+title: Circuito calistenia
+subtitle: la magia de usar tu cuerpo como un \"todo\"
 url: https://pau.ninja/circuito-calistenia
 slug: circuito-calistenia
-categories: ["fitness"]
+categories: 
 image: persona-entrena-circuito-de-calistenia.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-circuito-de-calistenia.jpg
-published: 2024-08-27T07:05:05+00:00
-modified: 
-scrappedAt: 2024-11-02T15:51:58.404Z
-audioLink: 
-bibliography: ["flexiones","dominadas","rondas","dominadas","remos australianos","[flexiones en pica](https://pau.ninja/flexiones-en-pica/)","fondos","“Javi Colomer (@Beatman84) • Fotos Y Videos de Instagram.” 2020. Instagram.com. https://www.instagram.com/beatman84/?hl=es. ‌","Stratton, R. J., & Wilson, D. P. (2006). Effects of bodyweight resistance training on muscular hypertrophy in young adults. Journal of Strength and Conditioning Research, 20(2), 421-426.","Kikuchi, N., & Nakazato, K. (2017). Low-load bench press and push-up induce similar muscle hypertrophy and strength gain. Journal of Exercise Science & Fitness, 15(2), 37-42.","Barbosa Neto, O., de Souza, R. R., & Silva, L. R. (2019). Circuit-based bodyweight training improves muscle strength and functional performance in older women. Journal of Aging and Physical Activity, 27(4), 498-506.","Maté-Muñoz, J. L., Lougedo, J. H., & Barba, M. (2014). Muscular adaptations to a mixed circuit training program with bodyweight exercises in previously trained men. PLoS One, 9(5), e87867.","Ferguson, H., et al. (2001). Cardiovascular and metabolic responses to lower-body versus upper-body exercise in humans. _European Journal of Applied Physiology, 85_(6), 556-563.","Ratamess, N. A., et al. (2018). Progression models in resistance training for healthy adults. Medicine & Science in Sports & Exercise, 50(3), 687-698.","Kraemer, W. J., & Ratamess, N. A. (2004). Fundamentals of resistance training: progression and exercise prescription. Medicine & Science in Sports & Exercise, 36(4), 674-688."]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-circuito-de-calistenia.jpg
+publishedAt: 2024-08-27T07:05:05.000Z
+modifiedAt: undefined
+scrappedAt: 2024-11-04T11:09:51.070Z
+audioLink: undefined
+bibliography: flexiones
+dominadas
+rondas
+dominadas
+remos australianos
+[flexiones en pica](https://pau.ninja/flexiones-en-pica/)
+fondos
+“Javi Colomer (@Beatman84) • Fotos Y Videos de Instagram.” 2020. Instagram.com. https://www.instagram.com/beatman84/?hl=es. ‌
+Stratton, R. J., & Wilson, D. P. (2006). Effects of bodyweight resistance training on muscular hypertrophy in young adults. Journal of Strength and Conditioning Research, 20(2), 421-426.
+Kikuchi, N., & Nakazato, K. (2017). Low-load bench press and push-up induce similar muscle hypertrophy and strength gain. Journal of Exercise Science & Fitness, 15(2), 37-42.
+Barbosa Neto, O., de Souza, R. R., & Silva, L. R. (2019). Circuit-based bodyweight training improves muscle strength and functional performance in older women. Journal of Aging and Physical Activity, 27(4), 498-506.
+Maté-Muñoz, J. L., Lougedo, J. H., & Barba, M. (2014). Muscular adaptations to a mixed circuit training program with bodyweight exercises in previously trained men. PLoS One, 9(5), e87867.
+Ferguson, H., et al. (2001). Cardiovascular and metabolic responses to lower-body versus upper-body exercise in humans. _European Journal of Applied Physiology, 85_(6), 556-563.
+Ratamess, N. A., et al. (2018). Progression models in resistance training for healthy adults. Medicine & Science in Sports & Exercise, 50(3), 687-698.
+Kraemer, W. J., & Ratamess, N. A. (2004). Fundamentals of resistance training: progression and exercise prescription. Medicine & Science in Sports & Exercise, 36(4), 674-688.
 ---
+
 Aunque no soy fan del crossfit por la forma en cómo usa el impulso (fuerza externa) en sus movimientos, la verdad es que es de admirar la cantidad de [capacidad de trabajo con el volumen de entrenamiento](./volumen-de-entrenamiento) que meten.
 
 No es de extrañar que luzcan como luzcan, y aunque algunos estarán chuzados, en muchos otros deportes se meten pinchitos y no lucen como atletas de crossfit profesionales.
@@ -83,7 +99,7 @@ Un ejemplo de superserie sería hacer una serie de  y sin descansar pasamos a ha
 
 En cambio un circuito sería tener una lista de ejercicios pero a la vez también repeticiones:
 
-- 10 
+- 10 flexiones
 - 5 
 - 5 
 
@@ -97,7 +113,7 @@ A veces con la intención de mantener un balance perfecto entre los dos, aunque 
 
 - Patrones de movimientos usados o no usados (vertical, horizontal…)
 - El número total de ejercicios
-- El número total de  que hemos completado
+- El número total de rondas que hemos completado
 - Esquema de repeticiones tipo repeticiones por series
 
 ### Crean hipertrofia muscular
@@ -176,13 +192,13 @@ Que en este caso el cardio sobrepasará la fatiga muscular.
 
 ### Crea el circuito según tu necesidad
 
-Claro que estas directrices están bastante centradas en el hecho de hacer ejercicios que podríamos llamar compuesto o básicos de calistenia, como combinar  con , , remos, etc.
+Claro que estas directrices están bastante centradas en el hecho de hacer ejercicios que podríamos llamar compuesto o básicos de calistenia, como combinar  con dominadas, flexiones, remos, etc.
 
 Pero también podemos crear un circuito para hacernos lo más eficientes posibles en [aumentar el volumen de entrenamiento](./volumen-de-entrenamiento) de los músculos a modo de circuito accesorio.
 
 No soy fan de hacer circuitos _tematizados_ como por ejemplo un circuito de pliométricos [para aumentar la fuerza explosiva](./como-entrenar-fuerza-explosiva) por el mismo motivo: porque termina decantando la balanza demasiado en la dirección de la fatiga muscular.
 
-Esto significa que las  +  +  funcionarán mejor para un circuito que sus mismas versiones pero hechas en pliométricos…
+Esto significa que las dominadas + flexiones + fondos funcionarán mejor para un circuito que sus mismas versiones pero hechas en pliométricos…
 
 ### Haz que el recorrido fluya
 
@@ -196,12 +212,12 @@ Claro que es poco probable que lo hagamos todo completamente balanceado pero tie
 
 Esto no significa que tengamos que hacer un circuito donde la misma cantidad de repeticiones tienen que ser la norma, por ejemplo si puedes hacer:
 
-- 5 
+- 5 dominadas
 - 20 
-- 20 [ en pica](./-en-pica)
-- 5 
+- 20 
+- 5 fondos
 
-Aunque lógicamente las  +  nos cuestan más, en este caso seguimos teniendo un buen circuito de calistenia balanceado porque tenemos 2 ejercicios de empuje + 2 ejercicios de tirón que equivalen a ejercicios fáciles + difíciles por igual.
+Aunque lógicamente las dominadas + fondos nos cuestan más, en este caso seguimos teniendo un buen circuito de calistenia balanceado porque tenemos 2 ejercicios de empuje + 2 ejercicios de tirón que equivalen a ejercicios fáciles + difíciles por igual.
 
 ### Elige tus repeticiones según objetivos
 
@@ -215,27 +231,27 @@ Elige al menos uno de cada.
 
 Compuestos
 
-- **Empuje vertical A:** [ en paralelas](./-en-paralelas)
-- **Empuje vertical B:**  de pino
-- **Empuje horizontal A:** [ en anillas](https://www.youtube.com/watch?v=zF8XBMapUak)
-- **Empuje horizontal B:**  (+ variaciones)
+- **Empuje vertical A:** [fondos en paralelas](./fondos-en-paralelas)
+- **Empuje vertical B:** flexiones de pino
+- **Empuje horizontal A:** [flexiones en anillas](https://www.youtube.com/watch?v=zF8XBMapUak)
+- **Empuje horizontal B:** flexiones (+ variaciones)
 
 Isométricos
 
-- **Empuje vertical A:** [aguante  en parte baja](https://www.youtube.com/watch?v=iFYtr99O4_o)
-- **Empuje vertical B:** [aguante  en parte alta](https://www.youtube.com/watch?v=Qxr3GV7x7-E)
+- **Empuje vertical A:** [aguante fondos en parte baja](https://www.youtube.com/watch?v=iFYtr99O4_o)
+- **Empuje vertical B:** [aguante fondos en parte alta](https://www.youtube.com/watch?v=Qxr3GV7x7-E)
 - **Empuje horizontal A:** aguante flexión en parte baja
 - **Empuje horizontal B:** aguante flexión en parte alta
 
 Pliométricos
 
-- **Empuje vertical:** [ plio](https://www.youtube.com/watch?v=nFPRbUYEZxU)
-- **Empuje horizontal:** [ plio](https://www.youtube.com/watch?v=QcAAKuEgYjw)
+- **Empuje vertical:** [fondos plio](https://www.youtube.com/watch?v=nFPRbUYEZxU)
+- **Empuje horizontal:** [flexiones plio](https://www.youtube.com/watch?v=QcAAKuEgYjw)
 
 Accesorios  
 (para circuito)
 
-- [Flexiones en pica](./-en-pica)
+- [Flexiones en pica](./flexiones-en-pica)
 - Con banda: [elevaciones laterales](https://www.youtube.com/watch?v=yfNg5sFndbw)
 - [Extensiones de tríceps con cuerpo en suelo](https://www.youtube.com/watch?v=2fBMFGHlzJQ)
 - Con anillas: [extensiones de tríceps con cuerpo](https://www.youtube.com/watch?v=gOvZyN_jTBs) 
@@ -244,10 +260,10 @@ Accesorios
 
 Compuestos
 
-- **Tirón vertical A:** 
-- **Tirón vertical B:** [ de bíceps](./-de-biceps)
+- **Tirón vertical A:** dominadas
+- **Tirón vertical B:** [dominadas de bíceps](./dominadas-de-biceps)
 - **Tirón horizontal A:** [elevaciones de front lever](https://www.youtube.com/watch?v=9gVe9yHnMG0)
-- **Tirón horizontal B:** [](https://www.youtube.com/watch?v=bHO0A4ZF_Zg)
+- **Tirón horizontal B:** [remos australianos](https://www.youtube.com/watch?v=bHO0A4ZF_Zg)
 
 Isométricos
 
@@ -258,7 +274,7 @@ Isométricos
 
 Pliométricos
 
-- **Tirón vertical:** [ plyo](https://www.youtube.com/watch?v=yg5r4K_wHdI)
+- **Tirón vertical:** [dominadas plyo](https://www.youtube.com/watch?v=yg5r4K_wHdI)
 - **Tirón horizontal:** [remos plyo](https://www.youtube.com/watch?v=P99umEqaHlM)
 
 Accesorios  

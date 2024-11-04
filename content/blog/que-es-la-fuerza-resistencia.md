@@ -1,17 +1,21 @@
 ---
-title: "Longevidad atlética"
+title: Longevidad atlética
+subtitle: la (super) función de la fuerza-resistencia
 url: https://pau.ninja/que-es-la-fuerza-resistencia
 slug: que-es-la-fuerza-resistencia
-categories: ["fitness"]
+categories: 
 image: persona-hace-ejercicio-de-fuerza-resistencia.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2023/12/persona-hace-ejercicio-de-fuerza-resistencia.jpeg
-published: 2023-12-25T09:37:44+00:00
-modified: 2024-05-21T19:47:44+00:00
-scrappedAt: 2024-11-02T15:22:05.483Z
+imageUrl: https://pau.ninja/wp-content/uploads/2023/12/persona-hace-ejercicio-de-fuerza-resistencia.jpeg
+publishedAt: 2023-12-25T09:37:44.000Z
+modifiedAt: 2024-05-21T19:47:44.000Z
+scrappedAt: 2024-11-04T11:15:21.937Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83357198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369202245-44100-2-c6eaaa4a871d5.mp3
-bibliography: ["Coleman CJ, McDonough DJ, Pope ZC, et alDose–response association of aerobic and muscle-strengthening physical activity with mortality: a national cohort study of 416 420 US adultsBritish Journal of Sports Medicine 2022;56:1218-1223.","Bohannon RW. Grip Strength: An Indispensable Biomarker For Older Adults. Clin Interv Aging. 2019 Oct 1;14:1681-1691. doi: 10.2147/CIA.S194543. PMID: 31631989; PMCID: PMC6778477.","Strasser B, Burtscher M. Survival of the fittest: VO2max, a key predictor of longevity? Front Biosci (Landmark Ed). 2018 Mar 1;23(8):1505-1516. doi: 10.2741/4657. PMID: 29293447.","Marshall PW, McEwen M, Robbins DW. Strength and neuromuscular adaptation following one, four, and eight sets of high intensity resistance exercise in trained males. Eur J Appl Physiol. 2011 Dec;111(12):3007-16. doi: 10.1007/s00421-011-1944-x. Epub 2011 Mar 31. PMID: 21451937.","Henneman, E. (1957). Relation between Size of Neurons and Their Susceptibility to Discharge. Science, 126(3287), 1345-1347"]
+bibliography: Coleman CJ, McDonough DJ, Pope ZC, et alDose–response association of aerobic and muscle-strengthening physical activity with mortality: a national cohort study of 416 420 US adultsBritish Journal of Sports Medicine 2022;56:1218-1223.
+Bohannon RW. Grip Strength: An Indispensable Biomarker For Older Adults. Clin Interv Aging. 2019 Oct 1;14:1681-1691. doi: 10.2147/CIA.S194543. PMID: 31631989; PMCID: PMC6778477.
+Strasser B, Burtscher M. Survival of the fittest: VO2max, a key predictor of longevity? Front Biosci (Landmark Ed). 2018 Mar 1;23(8):1505-1516. doi: 10.2741/4657. PMID: 29293447.
+Marshall PW, McEwen M, Robbins DW. Strength and neuromuscular adaptation following one, four, and eight sets of high intensity resistance exercise in trained males. Eur J Appl Physiol. 2011 Dec;111(12):3007-16. doi: 10.1007/s00421-011-1944-x. Epub 2011 Mar 31. PMID: 21451937.
+Henneman, E. (1957). Relation between Size of Neurons and Their Susceptibility to Discharge. Science, 126(3287), 1345-1347
 ---
-[https://anchor.fm/s/98566448/podcast/play/83357198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369202245-44100-2-c6eaaa4a871d5.mp3](https://anchor.fm/s/98566448/podcast/play/83357198/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-29%2F369202245-44100-2-c6eaaa4a871d5.mp3)
 
 Todos queremos ser fuertes, pero ¿a qué coste?
 

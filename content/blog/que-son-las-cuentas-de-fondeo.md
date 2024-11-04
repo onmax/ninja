@@ -1,16 +1,18 @@
 ---
-title: "Cuentas de fondeo"
+title: Cuentas de fondeo
+subtitle: dinero de mentira, ganancias de verdad
 url: https://pau.ninja/que-son-las-cuentas-de-fondeo
 slug: que-son-las-cuentas-de-fondeo
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: trader-con-cuentas-fondeadas.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/07/trader-con-cuentas-fondeadas.jpg
-published: 2024-07-05T06:39:51+00:00
-modified: 2024-07-09T03:39:48+00:00
-scrappedAt: 2024-11-02T15:52:07.940Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/07/trader-con-cuentas-fondeadas.jpg
+publishedAt: 2024-07-05T06:39:51.000Z
+modifiedAt: 2024-07-09T03:39:48.000Z
+scrappedAt: 2024-11-04T11:11:29.495Z
+audioLink: undefined
+bibliography: 
 ---
+
 __Aunque es verdad lo que dicen de que **cuando tienes dinero, es más fácil ganar aún más**, hay muchos ilusos que piensan que si alguien _les diera_ pasta de entrada, serían capaces de multiplicarlo, pero esto lo dicen porque nunca han tenido pasta.
 
 «Un momento Pau, si acabas de decir que tener dinero te hace ganar dinero. ¿No te estás contradiciendo?»

@@ -1,17 +1,22 @@
 ---
-title: "Anti-inflación"
+title: Anti-inflación
+subtitle: el activo (olvidado) que protege mejor que Bitcoin
 url: https://pau.ninja/como-protegerse-de-la-inflacion
 slug: como-protegerse-de-la-inflacion
-categories: ["dinero"]
+categories: 
 image: persona-se-protege-contra-la-inflacion.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2023/08/persona-se-protege-contra-la-inflacion.jpeg
-published: 2023-08-25T08:06:43+00:00
-modified: 2023-12-22T21:06:33+00:00
-scrappedAt: 2024-11-02T15:22:57.844Z
+imageUrl: https://pau.ninja/wp-content/uploads/2023/08/persona-se-protege-contra-la-inflacion.jpeg
+publishedAt: 2023-08-25T08:06:43.000Z
+modifiedAt: 2023-12-22T21:06:33.000Z
+scrappedAt: 2024-11-04T11:34:48.316Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75252498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-30%2F345022144-44100-2-555a9fdc45e94.mp3
-bibliography: ["100€","“Precios E Inflación: Tasa de Variación de La Media Anual Del IPC En España | Statista.” 2022. Statista.‌","2020\\. “Por Qué El Banco de Inglaterra Retiene 31 Toneladas de Lingotes de Oro de Venezuela (Y Cuál Es La Pelea Política Y Judicial Que Genera) – BBC News Mundo.‌","“IPC Junio 2023. Previsiones Hasta Diciembre 2024.” 2023. Funcas.‌","\"Límite al precio del alquiler de viviendas al 2% en 2023\". 2023. La Moncloa","Bermejo, Inma. 2023. “¿Qué Se Considera Gran Tenedor Con La Nueva Ley de Vivienda?” La Razón.‌"]
+bibliography: 100€
+“Precios E Inflación: Tasa de Variación de La Media Anual Del IPC En España | Statista.” 2022. Statista.‌
+2020\. “Por Qué El Banco de Inglaterra Retiene 31 Toneladas de Lingotes de Oro de Venezuela (Y Cuál Es La Pelea Política Y Judicial Que Genera) – BBC News Mundo.‌
+“IPC Junio 2023. Previsiones Hasta Diciembre 2024.” 2023. Funcas.‌
+"Límite al precio del alquiler de viviendas al 2% en 2023". 2023. La Moncloa
+Bermejo, Inma. 2023. “¿Qué Se Considera Gran Tenedor Con La Nueva Ley de Vivienda?” La Razón.‌
 ---
-[https://anchor.fm/s/98566448/podcast/play/75252498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-30%2F345022144-44100-2-555a9fdc45e94.mp3](https://anchor.fm/s/98566448/podcast/play/75252498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-30%2F345022144-44100-2-555a9fdc45e94.mp3)
 
 Tengo una enemiga que no muchos entienden pero que todo el mundo conoce: se llama inflación.
 
@@ -41,7 +46,11 @@ Incluso aunque la inflación hubiera seguido siendo de 2,8% anual para siempre, 
 
 2012
 
+100€
+
 2013
+
+100€
 
 102,80€
 
@@ -206,7 +215,7 @@ Por esto muchos piensan que será un buen momento para invertir en fondos indexa
 
 Por ejemplo si quieres invertir en todo el mercado americano, entonces invertirías en un fondo que invierta en el S&P 500: el índice bursátil de EEUU donde estás metiendo dinero a 500 empresas de golpe.
 
-Esto significa que sólo con poner  en un fondo indexado del S&P 500, ya estarías super diversificado: invirtiendo en 500 empresas en porcentajes distintos dependiendo si cotizan más o menos...
+Esto significa que sólo con poner 100€ en un fondo indexado del S&P 500, ya estarías super diversificado: invirtiendo en 500 empresas en porcentajes distintos dependiendo si cotizan más o menos...
 
 El problema es que a efectos prácticos **los fondos indexados no nos salvan de la inflación**.
 
@@ -220,7 +229,7 @@ Lo que importa es que a parte de la inflación tienes que descontarle [la deval
 
 Algo que va mucho más allá de la inflación, porque con la inversión en acciones sigues poseyendo un dinero que se devalúa.
 
-Es decir, tienes una posición de  en un fondo indexado que quizás te ha dado 10€ de beneficio (un 10% no está nada mal y ahora mismo es totalmente irreal), pero es que resulta que lo que compraste ayer en el super te costaba  y hoy te cuesta 120€.
+Es decir, tienes una posición de 100€ en un fondo indexado que quizás te ha dado 10€ de beneficio (un 10% no está nada mal y ahora mismo es totalmente irreal), pero es que resulta que lo que compraste ayer en el super te costaba 100€ y hoy te cuesta 120€.
 
 Es decir, estás perdiendo dinero a pesar de ganar en fondos indexados.
 

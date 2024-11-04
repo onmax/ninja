@@ -1,16 +1,36 @@
 ---
-title: "Prepárate para lo peor, responsabilízate de lo mejor"
+title: Prepárate para lo peor, responsabilízate de lo mejor
+subtitle: 
 url: https://pau.ninja/que-es-un-prepper
 slug: que-es-un-prepper
-categories: ["estilo-de-vida"]
+categories: 
 image: un-preparacionista-en-Espana.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/09/un-preparacionista-en-Espana.jpg
-published: 2024-10-12T07:46:22+00:00
-modified: 2024-10-15T04:16:33+00:00
-scrappedAt: 2024-11-02T15:51:51.831Z
-audioLink: 
-bibliography: ["Ramey, C. H. (2017). Fortresses of Wealth: The Luxury Bunker Market and the Hyper-Rich. Journal of Consumer Culture, 17(2), 176-195.","Afflerbach, J. (2020). Planning for the Apocalypse: The Rise of the Doomsday Economy among the Wealthy. Sociological Inquiry, 90(4), 669-686.","Graeber, D. (2011). Debt: The First 5,000 Years. Melville House Publishing.","Fairbairn, M. (2020). Fields of Gold: Financing the Global Land Rush. Cornell University Press.","Howard, P. H. (2016). Concentration and Power in the Food System: Who Controls What We Eat? Bloomsbury Academic.","Marsh & McLennan Companies (2021). Political Risk Map 2021. Marsh & McLennan Companies.","Giger, N., Rosset, J., & Bernauer, T. (2018). The economic consequences of political protests. Political Behavior, 40(3), 519-542.","Baker, T. & Simon, J. (2020). Risk, Insurance, and the Social Construction of Responsibility. Chicago University Press.","Perry, R. W., & Lindell, M. K. (2003). Preparedness for Emergency Response: Guidelines for the Emergency Planning Process. Disasters, 27(4), 336-350.","Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497(7447), 51-59.","Kirschenbaum, A. (2004). Chaos organization and disaster management. International Journal of Mass Emergencies and Disasters, 22(2), 47-68.","Hardy, 2023. Design Any Disaster. BenBella Books, p. 4","Hardy, 2023. Design Any Disaster. BenBella Books, p. 80","Hardy, 2023. Design Any Disaster. BenBella Books, p. 16","Ratten, 2020. Coronavirus (COVID-19) and entrepreneurship: cultural, lifestyle and societal changes. Journal of Risk Research, 23(7-8), pp. 832-840","Terpstra, 2015. Reducing flood risk through public risk communication. Journal of Risk Research, 18(6), pp.767-784","Griffiths, S., & Armour, C. (2021). «Social cohesion and mental health in a crisis: The importance of community support during the COVID-19 pandemic.» Health Psychology and Behavioral Medicine, 9(1), 209-222.","Nowak, A., & Vallacher, R. R. (2018). «Community resilience: A dynamic model of adaptation.» Complexity, 23(4), 14-23.","Fischer, M., & Dietz, T. (2007). «Collective action and the evolution of social norms in commons dilemmas.» American Political Science Review, 101(2), 232-247."]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/09/un-preparacionista-en-Espana.jpg
+publishedAt: 2024-10-12T07:46:22.000Z
+modifiedAt: 2024-10-15T04:16:33.000Z
+scrappedAt: 2024-11-04T11:09:06.208Z
+audioLink: undefined
+bibliography: Ramey, C. H. (2017). Fortresses of Wealth: The Luxury Bunker Market and the Hyper-Rich. Journal of Consumer Culture, 17(2), 176-195.
+Afflerbach, J. (2020). Planning for the Apocalypse: The Rise of the Doomsday Economy among the Wealthy. Sociological Inquiry, 90(4), 669-686.
+Graeber, D. (2011). Debt: The First 5,000 Years. Melville House Publishing.
+Fairbairn, M. (2020). Fields of Gold: Financing the Global Land Rush. Cornell University Press.
+Howard, P. H. (2016). Concentration and Power in the Food System: Who Controls What We Eat? Bloomsbury Academic.
+Marsh & McLennan Companies (2021). Political Risk Map 2021. Marsh & McLennan Companies.
+Giger, N., Rosset, J., & Bernauer, T. (2018). The economic consequences of political protests. Political Behavior, 40(3), 519-542.
+Baker, T. & Simon, J. (2020). Risk, Insurance, and the Social Construction of Responsibility. Chicago University Press.
+Perry, R. W., & Lindell, M. K. (2003). Preparedness for Emergency Response: Guidelines for the Emergency Planning Process. Disasters, 27(4), 336-350.
+Helbing, D. (2013). Globally networked risks and how to respond. Nature, 497(7447), 51-59.
+Kirschenbaum, A. (2004). Chaos organization and disaster management. International Journal of Mass Emergencies and Disasters, 22(2), 47-68.
+Hardy, 2023. Design Any Disaster. BenBella Books, p. 4
+Hardy, 2023. Design Any Disaster. BenBella Books, p. 80
+Hardy, 2023. Design Any Disaster. BenBella Books, p. 16
+Ratten, 2020. Coronavirus (COVID-19) and entrepreneurship: cultural, lifestyle and societal changes. Journal of Risk Research, 23(7-8), pp. 832-840
+Terpstra, 2015. Reducing flood risk through public risk communication. Journal of Risk Research, 18(6), pp.767-784
+Griffiths, S., & Armour, C. (2021). «Social cohesion and mental health in a crisis: The importance of community support during the COVID-19 pandemic.» Health Psychology and Behavioral Medicine, 9(1), 209-222.
+Nowak, A., & Vallacher, R. R. (2018). «Community resilience: A dynamic model of adaptation.» Complexity, 23(4), 14-23.
+Fischer, M., & Dietz, T. (2007). «Collective action and the evolution of social norms in commons dilemmas.» American Political Science Review, 101(2), 232-247.
 ---
+
 Ninjas de la vida, agradezco enormemente que sucediera el confinamiento porque me hizo abrir los ojos en montones de sentidos de cara a estar preparado por lo que pueda venir.
 
 A la _plandemia_ le debo, no sólo que a día de hoy exista [nuestra comunidad](#unirse), sino también la epifanía que tuve al ver la gente luchando para ver quien se llevaba más papel higiénico a casa.

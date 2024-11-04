@@ -1,16 +1,25 @@
 ---
-title: "El precio del fitness"
+title: El precio del fitness
+subtitle: por esto no tienes tiempo para ir al gimnasio
 url: https://pau.ninja/no-tengo-tiempo-para-ir-al-gimnasio
 slug: no-tengo-tiempo-para-ir-al-gimnasio
-categories: ["fitness"]
+categories: 
 image: persona-sin-tiempo-para-el-gimnasio.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/07/persona-sin-tiempo-para-el-gimnasio.jpg
-published: 2024-07-29T05:53:18+00:00
-modified: 2024-10-17T08:38:48+00:00
-scrappedAt: 2024-11-02T15:52:06.270Z
-audioLink: 
-bibliography: ["Thompson, W. R. (2017). Worldwide survey of fitness trends for 2018: The CREP edition. ACSM’s Health & Fitness Journal, 21(6), 10-19.","Kangas, J. L., & Rintala, P. (2008). Physical activity and the environment: A case study of adult people with disabilities. International Journal of Rehabilitation Research, 31(3), 199-206.","Benson, H., & Proctor, W. (2010). Relaxation Revolution: Enhancing Your Personal Health Through the Science and Genetics of Mind Body Healing. Scribner.","Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions and new directions. Contemporary Educational Psychology, 25(1), 54-67.","Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘Engines of growth’?. Journal of Econometrics, 65(1), 83-108.","Misa, T. J. (2011). Leonardo to the Internet: Technology and Culture from the Renaissance to the Present. JHU Press.","Markula, P. (1995). Firm but shapely, fit but sexy, strong but thin: The postmodern aerobicizing female bodies. Sociology of Sport Journal, 12(4), 424-453.","Dishman, R. K., & Sallis, J. F. (1994). Determinants and interventions for physical activity and exercise. Physical Activity, Fitness, and Health, 214-238."]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-sin-tiempo-para-el-gimnasio.jpg
+publishedAt: 2024-07-29T05:53:18.000Z
+modifiedAt: 2024-10-17T08:38:48.000Z
+scrappedAt: 2024-11-04T11:11:21.942Z
+audioLink: undefined
+bibliography: Thompson, W. R. (2017). Worldwide survey of fitness trends for 2018: The CREP edition. ACSM’s Health & Fitness Journal, 21(6), 10-19.
+Kangas, J. L., & Rintala, P. (2008). Physical activity and the environment: A case study of adult people with disabilities. International Journal of Rehabilitation Research, 31(3), 199-206.
+Benson, H., & Proctor, W. (2010). Relaxation Revolution: Enhancing Your Personal Health Through the Science and Genetics of Mind Body Healing. Scribner.
+Ryan, R. M., & Deci, E. L. (2000). Intrinsic and extrinsic motivations: Classic definitions and new directions. Contemporary Educational Psychology, 25(1), 54-67.
+Bresnahan, T. F., & Trajtenberg, M. (1995). General purpose technologies ‘Engines of growth’?. Journal of Econometrics, 65(1), 83-108.
+Misa, T. J. (2011). Leonardo to the Internet: Technology and Culture from the Renaissance to the Present. JHU Press.
+Markula, P. (1995). Firm but shapely, fit but sexy, strong but thin: The postmodern aerobicizing female bodies. Sociology of Sport Journal, 12(4), 424-453.
+Dishman, R. K., & Sallis, J. F. (1994). Determinants and interventions for physical activity and exercise. Physical Activity, Fitness, and Health, 214-238.
 ---
+
 Hablé de como el mejor método para las personas que no tienen tiempo de ir al gimnasio es [seguir el método de Greasing The Groove](./metodo-grease-the-groove).
 
 Porque lo que evita que muchas personas se pongan a hacer ejercicio, o incluso que continúen haciéndolo, es el coste de mantener un estilo de vida fitness.

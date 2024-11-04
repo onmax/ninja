@@ -1,16 +1,18 @@
 ---
-title: "¿Se puede vivir del trading?"
+title: ¿Se puede vivir del trading?
+subtitle: 
 url: https://pau.ninja/se-puede-vivir-del-trading
 slug: se-puede-vivir-del-trading
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: persona-vive-del-trading.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/04/persona-vive-del-trading.jpeg
-published: 2024-05-01T09:07:37+00:00
-modified: 2024-07-08T09:02:29+00:00
-scrappedAt: 2024-11-02T15:52:17.284Z
-audioLink: 
-bibliography: []
+imageUrl: https://pau.ninja/wp-content/uploads/2024/04/persona-vive-del-trading.jpeg
+publishedAt: 2024-05-01T09:07:37.000Z
+modifiedAt: 2024-07-08T09:02:29.000Z
+scrappedAt: 2024-11-04T11:12:50.336Z
+audioLink: undefined
+bibliography: 
 ---
+
 Durante los últimos meses he estado generando **decenas de miles de $€** de forma recurrente gracias a mi estrategia de _trading_.
 
 Todo empezó no con el afán de vivir de ello, sino de hacer crecer mi dinero, pero claro…

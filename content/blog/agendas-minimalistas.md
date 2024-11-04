@@ -1,17 +1,18 @@
 ---
-title: "La agenda superproductiva (minimalista) que usaría Leonardo da Vinci…"
+title: La agenda superproductiva (minimalista) que usaría Leonardo da Vinci…
+subtitle: probablemente
 url: https://pau.ninja/agendas-minimalistas
 slug: agendas-minimalistas
-categories: ["productividad"]
+categories: 
 image: mi-agenda-planificadora.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/01/mi-agenda-planificadora.jpeg
-published: 2024-01-09T08:39:43+00:00
-modified: 2024-01-29T06:35:42+00:00
-scrappedAt: 2024-11-02T15:22:04.154Z
+imageUrl: https://pau.ninja/wp-content/uploads/2024/01/mi-agenda-planificadora.jpeg
+publishedAt: 2024-01-09T08:39:43.000Z
+modifiedAt: 2024-01-29T06:35:42.000Z
+scrappedAt: 2024-11-04T11:15:18.477Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/81073527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F362901356-44100-2-c3716b27031dc.mp3
-bibliography: ["Seligman, M., Steen, T.A., Park, N., & Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. American Psychologist, 60(5), 410–421.","Peters, M. L., Flink, I. K., Boersma, K., & Linton, S. J. (2010). Manipulating optimism: Can imagining a best possible self be used to increase positive future expectancies? The Journal of Positive Psychology, 5(3), 204–211."]
+bibliography: Seligman, M., Steen, T.A., Park, N., & Peterson, C. (2005). Positive psychology progress: Empirical validation of interventions. American Psychologist, 60(5), 410–421.
+Peters, M. L., Flink, I. K., Boersma, K., & Linton, S. J. (2010). Manipulating optimism: Can imagining a best possible self be used to increase positive future expectancies? The Journal of Positive Psychology, 5(3), 204–211.
 ---
-[https://anchor.fm/s/98566448/podcast/play/81073527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F362901356-44100-2-c3716b27031dc.mp3](https://anchor.fm/s/98566448/podcast/play/81073527/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-10%2F362901356-44100-2-c3716b27031dc.mp3)
 
 Antes de pasar a ver cuáles son las mejores agendas minimalistas del mercado déjame decirte cuál es el mayor problema de los modelos que existen.
 
@@ -101,13 +102,13 @@ La opción más económica es comprar una libreta, libro o diario en blanco y es
 
 Bestseller No. 1
 
-[![HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRWVFUlFhamwzVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDczMzcyNA=)](https://www.amazon.es/dpB0CYP7S4JJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=diario%20personal "HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...")
+[![HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRWVFUlFhamwzVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTY0OQ=)](https://www.amazon.es/dpB0CYP7S4JJ?tag=pau-ninja-21&linkCode=osi&th=1&psc=1&keywords=diario%20personal "HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...")
 
-[HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...](https://www.amazon.es/dp/B0CYP7S4JJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=diario%20personal "HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...")
+[HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...](https://www.amazon.es/dp/B0CYP7S4JJ?tag=pau-ninja-21&linkCode=osi&th=1&psc=1&keywords=diario%20personal "HOMEMARS Diario, Journal, Diario Personal, Libreta a5, Cuaderno a5, Journal Diary, Notebook, 320...")
 
 11,99 € ![Amazon Prime](./wp-content/plugins/aawp/assets/imgicon-check-prime.svg)
 
-[Comprar en Amazon](https://www.amazon.es/dp/B0CYP7S4JJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=diario%20personal "Comprar en Amazon")
+[Comprar en Amazon](https://www.amazon.es/dp/B0CYP7S4JJ?tag=pau-ninja-21&linkCode=osi&th=1&psc=1&keywords=diario%20personal "Comprar en Amazon")
 
 Aunque encuentro que no hay nada como encontrarse las preguntas ya formuladas. Así parece que te las haga otro. No sólo esto, también según lo que la ciencia dice en cuanto a la **frecuencia de escritura**. Por esto en mi diario lo estructuré así.
 

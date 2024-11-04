@@ -1,16 +1,32 @@
 ---
-title: "Cara fea, vida atractiva"
+title: Cara fea, vida atractiva
+subtitle: cómo jugar a vivir sin trucos en \"modo difícil\"
 url: https://pau.ninja/soy-feo-y-no-le-gusto-a-nadie
 slug: soy-feo-y-no-le-gusto-a-nadie
-categories: ["desarrollo-personal"]
+categories: 
 image: soy-feo-y-no-le-gusto-a-nadie.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/10/soy-feo-y-no-le-gusto-a-nadie.jpg
-published: 2024-08-25T06:57:59+00:00
-modified: 2024-10-25T07:00:56+00:00
-scrappedAt: 2024-11-02T15:51:58.705Z
-audioLink: 
-bibliography: ["Rhodes, 2006. The Evolutionary Psychology of Facial Beauty. Annual Review of Psychology, 57(1), 199-226","Petrie, M., & Halliday, T. (1994). Experimental and natural changes in the peacock’s (Pavo cristatus) train can affect mating success. Behavioral Ecology and Sociobiology, 35(3), 213-217.","Loyau, A., Saint Jalme, M., & Sorci, G. (2005). Intra- and Intersexual Selection for Multiple Traits in the Peacock (Pavo cristatus). Ethology, 111(9), 810-820.","Møller, A. P., & Petrie, M. (2002). Condition dependence, multiple sexual signals, and immunocompetence in peacocks. Behavioral Ecology, 13(2), 248-253.","Hamermesh, D. S., & Biddle, J. E. (1994). Beauty and the labor market. The American Economic Review, 84(5), 1174-1194.","Rhode, D. L. (2010). The Beauty Bias: The Injustice of Appearance in Life and Law. Oxford University Press.","Langlois, J. H., et al. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390-423.","Dion, K., Berscheid, E., & Walster, E. (1972). What is beautiful is good. Journal of Personality and Social Psychology, 24(3), 285-290.","Langlois, J. H., et al. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390-423.","Peterson, 1999. The Idea of Weakness as Strength. Journal of Analytical Psychology, 44(4), 539-560","Saad, 2013. The Consuming Instinct: What Juicy Burgers, Ferraris, Pornography, and Gift Giving Reveal About Human Nature. Prometheus Books","Swami & Furnham, 2008. The Psychology of Physical Attraction. Routledge","Dion, Berscheid & Walster, 1972. What is beautiful is good. Journal of Personality and Social Psychology, 24(3), 285-290","Buss, 1999. Evolutionary Psychology: The New Science of the Mind. Allyn & Bacon","Zebrowitz & Montepare, 2008. Social Psychological Face Perception: Why Appearance Matters. Social and Personality Psychology Compass, 2(3), 1497-1517"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/10/soy-feo-y-no-le-gusto-a-nadie.jpg
+publishedAt: 2024-08-25T06:57:59.000Z
+modifiedAt: 2024-10-25T07:00:56.000Z
+scrappedAt: 2024-11-04T11:09:57.337Z
+audioLink: undefined
+bibliography: Rhodes, 2006. The Evolutionary Psychology of Facial Beauty. Annual Review of Psychology, 57(1), 199-226
+Petrie, M., & Halliday, T. (1994). Experimental and natural changes in the peacock’s (Pavo cristatus) train can affect mating success. Behavioral Ecology and Sociobiology, 35(3), 213-217.
+Loyau, A., Saint Jalme, M., & Sorci, G. (2005). Intra- and Intersexual Selection for Multiple Traits in the Peacock (Pavo cristatus). Ethology, 111(9), 810-820.
+Møller, A. P., & Petrie, M. (2002). Condition dependence, multiple sexual signals, and immunocompetence in peacocks. Behavioral Ecology, 13(2), 248-253.
+Hamermesh, D. S., & Biddle, J. E. (1994). Beauty and the labor market. The American Economic Review, 84(5), 1174-1194.
+Rhode, D. L. (2010). The Beauty Bias: The Injustice of Appearance in Life and Law. Oxford University Press.
+Langlois, J. H., et al. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390-423.
+Dion, K., Berscheid, E., & Walster, E. (1972). What is beautiful is good. Journal of Personality and Social Psychology, 24(3), 285-290.
+Langlois, J. H., et al. (2000). Maxims or myths of beauty? A meta-analytic and theoretical review. Psychological Bulletin, 126(3), 390-423.
+Peterson, 1999. The Idea of Weakness as Strength. Journal of Analytical Psychology, 44(4), 539-560
+Saad, 2013. The Consuming Instinct: What Juicy Burgers, Ferraris, Pornography, and Gift Giving Reveal About Human Nature. Prometheus Books
+Swami & Furnham, 2008. The Psychology of Physical Attraction. Routledge
+Dion, Berscheid & Walster, 1972. What is beautiful is good. Journal of Personality and Social Psychology, 24(3), 285-290
+Buss, 1999. Evolutionary Psychology: The New Science of the Mind. Allyn & Bacon
+Zebrowitz & Montepare, 2008. Social Psychological Face Perception: Why Appearance Matters. Social and Personality Psychology Compass, 2(3), 1497-1517
 ---
+
 Ninjas de la vida, vivir la vida en modo difícil habiendo nacido con un atractivo mediocre, de la media, o incluso feo, te hace dar cuenta (normalmente cuando pasas los 30 años) que es **lo mejor** que te podría haber pasado.
 
 Y no lo digo alegando a que ser feo sea mejor que guapo, en absoluto.

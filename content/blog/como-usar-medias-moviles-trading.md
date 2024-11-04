@@ -1,16 +1,22 @@
 ---
-title: "Medias móviles"
+title: Medias móviles
+subtitle: o cómo usarlas en trading
 url: https://pau.ninja/como-usar-medias-moviles-trading
 slug: como-usar-medias-moviles-trading
-categories: ["inversion","analisis-tecnico"]
+categories: 
 image: trader-usa-medias-moviles.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2024/05/trader-usa-medias-moviles.jpeg
-published: 2024-05-16T08:27:19+00:00
-modified: 
-scrappedAt: 2024-11-02T15:52:15.898Z
-audioLink: 
-bibliography: ["SMA","EMA","SMA","EMA","EMA"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-usa-medias-moviles.jpeg
+publishedAt: 2024-05-16T08:27:19.000Z
+modifiedAt: undefined
+scrappedAt: 2024-11-04T11:12:30.410Z
+audioLink: undefined
+bibliography: SMA
+EMA
+SMA
+EMA
+EMA
 ---
+
 El mentor Weinstein no dejaba de repetir el uso de un indicador clave cuando analiza los gráficos.
 
 Repetía una y otra vez lo importante que era la media móvil de 30 semanas… en el año 1980.
@@ -132,14 +138,14 @@ Desde aquí es donde empezamos a analizar el mercado.
 
 Y es que los movimientos de largo plazo en el mercado se pueden interpretar más efectivamente si usamos una media móvil de largo plazo porque indicaría una confirmación de cambio de tendencia.
 
-Fijaros que utilizamos la Exponencial () de 30 semanas, y no la simple de 30 semanas como originalmente Stan Weinstien comentaba.
+Fijaros que utilizamos la Exponencial (EMA) de 30 semanas, y no la simple de 30 semanas como originalmente Stan Weinstien comentaba.
 
 Simplemente alegamos a que ahora, comparado con cuando sacaron [los mejores libros de trading](./mejores-libros-de-trading), va casi en esteroides y la exponencial da más peso (recordemos) a los días más recientes.
 
 ### Medias móviles de corto plazo
 
-- **Diario:** 50 
-- **Semanal:** 10 
+- **Diario:** 50 SMA
+- **Semanal:** 10 EMA
 
 Después de la larga usamos las medias móviles exponenciales de 50 días o de 10 semanas (lo mismo) que son medias móviles más rápidas pero aún así no _tan_ rápidas.
 
@@ -149,13 +155,13 @@ Este tipo de media móvil también es un indicador clave cuando una acción que 
 
 ### Media móvil de tendencia
 
-- **Diario:** 20 
+- **Diario:** 20 EMA
 
 Finalmente la media móvil de tendencia o _power trend_ como dicen en inglés (que siempre suena mejor) es una media móvil de corta duración exponencial de 20 días.
 
 Es la que se utiliza en el análisis de etapas para **potenciar ganancias rápidas**.
 
-Y es que las empresas que hacen los movimientos más grandes, típicamente tienen su acción del precio por encima de la 20  diaria.
+Y es que las empresas que hacen los movimientos más grandes, típicamente tienen su acción del precio por encima de la 20 EMA diaria.
 
 O sea que nos sirve para encontrar los mejores momentos de entrar en acciones que están teniendo movimientos rápidos y lógicamente también para salirnos a tiempo.
 
@@ -165,10 +171,10 @@ El kit de la cuestión es cómo interpretar estas 3 medias móviles que acabamos
 
 ### Primero usa la de largo plazo
 
-- **Cuál:** [media móvil de largo plazo ( de 150 días o  de 30 semanas)](#Medias_moviles_de_largo_plazo)
+- **Cuál:** [media móvil de largo plazo (EMA de 150 días o EMA de 30 semanas)](#Medias_moviles_de_largo_plazo)
 - **Sabias que…** responder estas preguntas te hará mejor trader
 
-Primero nuestra media móvil de largo plazo (30 ) ya nos hará filtrar un montón de empresas para saber si las queremos comprar o no.
+Primero nuestra media móvil de largo plazo (30 EMA) ya nos hará filtrar un montón de empresas para saber si las queremos comprar o no.
 
 En el momento que vemos una empresa en un gráfico ya nos debería venir a la mente dos o tres preguntas.
 
@@ -188,7 +194,7 @@ Pero a pesar de que esta media móvil será la más importante y a la que querre
 
 ### Valida que retoma su tendencia alcista
 
-- **Cuál:** [media móvil de largo plazo ( de 150 días o  de 30 semanas)](#Medias_moviles_de_largo_plazo)
+- **Cuál:** [media móvil de largo plazo (EMA de 150 días o EMA de 30 semanas)](#Medias_moviles_de_largo_plazo)
 - **Sabias que…** necesitas esta media móvil para seguir la tendencia
 
 Sólo ten en cuenta que el primer retroceso o corrección que veas en una acción hacia su media móvil de 30 semanas que ha estado avanzando fuertemente durante semanas o meses, puede ser un buen momento de entrada.
@@ -207,56 +213,56 @@ Por esto observar las acciones líderes de mercado puede ser un muy buen indicad
 
 ### Detectar rupturas tempranas
 
-- **Cuál:** [media móvil de corto plazo ( de 50 días o  de 10 semanas)](#Medias_moviles_de_corto_plazo)
+- **Cuál:** [media móvil de corto plazo (SMA de 50 días o EMA de 10 semanas)](#Medias_moviles_de_corto_plazo)
 - **Sabias que…** combinar volumen + acción del precio + esta MM te ayudará a encontrar rupturas más pronto
 
-Algunas veces las rupturas de Etapa 1 a Etapa 2 (o etapa 3 a etapa 4 si nos van los cortos) pueden llegar a ser tan extremas que las rupturas iniciales de hecho ocurren en la  de 10 semanas en vez de la  de 30 semanas.
+Algunas veces las rupturas de Etapa 1 a Etapa 2 (o etapa 3 a etapa 4 si nos van los cortos) pueden llegar a ser tan extremas que las rupturas iniciales de hecho ocurren en la EMA de 10 semanas en vez de la EMA de 30 semanas.
 
 Esto significa que mientras que usamos las media móvil de largo plazo es importante para determinar la etapa en la que estamos, la de corto plazo la podemos usar para detectar rupturas tempranas especialmente cuando se combina con **montones de volumen climático**.
 
-Dicho de forma simple lo que se quiere decir es que vale la pena usar una media móvil como la de 10  de corta duración con nuestra estrategia de análisis de etapas para poder encontrar mejores entradas cuando los volúmenes de señales ocurren en rupturas con esta media móvil más corta.
+Dicho de forma simple lo que se quiere decir es que vale la pena usar una media móvil como la de 10 EMA de corta duración con nuestra estrategia de análisis de etapas para poder encontrar mejores entradas cuando los volúmenes de señales ocurren en rupturas con esta media móvil más corta.
 
 ### Entra más temprano en las acciones
 
-- **Cuál:** [media móvil de corto plazo ( de 50 días o  de 10 semanas)](#Medias_moviles_de_corto_plazo)
+- **Cuál:** [media móvil de corto plazo (SMA de 50 días o EMA de 10 semanas)](#Medias_moviles_de_corto_plazo)
 - **Sabias que…** esta media móvil te puede dar una pista de los líderes que están en potencia
 
 La media móvil exponencial de 10 semanas puede ser usada para marcar entradas tempranas, oportunidades de compras en retrocesos y salidas tempranas desde rupturas como veremos.
 
-Pensad que las rupturas que ocurren por arriba de la  de 10 semanas con además mucho volumen, incluso aunque estén debajo de la  de 30 semanas, pueden significar una transición temprana hacia la Etapa 2.
+Pensad que las rupturas que ocurren por arriba de la EMA de 10 semanas con además mucho volumen, incluso aunque estén debajo de la EMA de 30 semanas, pueden significar una transición temprana hacia la Etapa 2.
 
 Y ojo aunque haya acciones que la Etapa 4 les haya destrozado, si vemos el volumen entrando en abundancia, es una señal de que le ha tocado meter cañonazos.
 
 ### Vigila si el valor toca esta media móvil
 
-- **Cuál:** [media móvil de corto plazo ( de 50 días o  de 10 semanas)](#Medias_moviles_de_corto_plazo)
+- **Cuál:** [media móvil de corto plazo (SMA de 50 días o EMA de 10 semanas)](#Medias_moviles_de_corto_plazo)
 - **Sabias que…** esta MM te dará pistas de quien es el líder o la dirección del mercado
 
-Pensad que referente a esta media móvil, los sectores más fuertes típicamente tienen al menos una consolidación alrededor de la  de 10 semanas que puede ser usada como punto de entrada.
+Pensad que referente a esta media móvil, los sectores más fuertes típicamente tienen al menos una consolidación alrededor de la EMA de 10 semanas que puede ser usada como punto de entrada.
 
-Y es que podemos diferenciar a las acciones más débiles de un sector contra los líderes fácilmente gracias a esta .
+Y es que podemos diferenciar a las acciones más débiles de un sector contra los líderes fácilmente gracias a esta EMA.
 
-Porque muchas veces los más fuertes _se sujetarán_ a la media móvil exponencial de 10 semanas además de ni siquiera tocar la  de 30 semanas cuando hay un retroceso de una ruptura (lo que es bueno, porque es nuestra línea de largo plazo conversadora).
+Porque muchas veces los más fuertes _se sujetarán_ a la media móvil exponencial de 10 semanas además de ni siquiera tocar la EMA de 30 semanas cuando hay un retroceso de una ruptura (lo que es bueno, porque es nuestra línea de largo plazo conversadora).
 
-En cambio esas acciones más débiles de un sector incluso caerán o _testearán_ la  de 30 semanas.
+En cambio esas acciones más débiles de un sector incluso caerán o _testearán_ la EMA de 30 semanas.
 
 ### Compra retrocesos de rupturas
 
-- **Cuál:** [media móvil de corto plazo ( de 50 días o  de 10 semanas)](#Medias_moviles_de_corto_plazo)
+- **Cuál:** [media móvil de corto plazo (SMA de 50 días o EMA de 10 semanas)](#Medias_moviles_de_corto_plazo)
 - **Sabias que…** esta MM te puede dar una pista de ruptura para comprar retrocesos
 
 Esta media corta de 10 semanas es una buena media móvil para buscar compras de rupturas de Etapa 2 en retrocesos.
 
 Especialmente para las acciones que se están extendiendo (separando) de sus medias móviles clave después de haber roto.
 
-Simplemente poniendo estas acciones en nuestra lista de seguimiento y esperando al siguiente retroceso a la  de 10 semanas ya nos puede dar un muy buen punto de entrada.
+Simplemente poniendo estas acciones en nuestra lista de seguimiento y esperando al siguiente retroceso a la EMA de 10 semanas ya nos puede dar un muy buen punto de entrada.
 
 ### Identifica el fin de una tendencia alcista
 
-- **Cuál:** [media móvil de corto plazo ( de 50 días o  de 10 semanas)](#Medias_moviles_de_corto_plazo)
+- **Cuál:** [media móvil de corto plazo (SMA de 50 días o EMA de 10 semanas)](#Medias_moviles_de_corto_plazo)
 - **Sabias que…** esta MM te dará pistas de que se ha terminado una tendencia alcista
 
-Las rupturas en alto volumen por debajo de la  de 10 semanas acostumbran a significar el fin de una tendencia alcista.
+Las rupturas en alto volumen por debajo de la EMA de 10 semanas acostumbran a significar el fin de una tendencia alcista.
 
 Muchas veces nos aparecen [patrones de velas que indican cambio de tendencia](./patrones-velas-cambio-tendencia) de alcista a bajista semanales que coincidirán con rupturas.
 
@@ -268,25 +274,25 @@ Con esto las mayores reversiones como estas son señales importantes que nos da 
 
 ### Alineando esta MM con una corrección
 
-- **Cuál:** [media móvil de tendencia ( de 20 días)](#Media_movil_de_tendencia)
-- **Sabias que…** los resultados más potentes los tendrás en la  de 20 días de una acción combinada con la relación de esta media con el índice de referencia.
+- **Cuál:** [media móvil de tendencia (EMA de 20 días)](#Media_movil_de_tendencia)
+- **Sabias que…** los resultados más potentes los tendrás en la EMA de 20 días de una acción combinada con la relación de esta media con el índice de referencia.
 
-Multitud de empresas del mismo sector rompiendo al mismo tiempo por encima de la media móvil de tendencia (la  de 20 días), acostumbra a crear los movimientos más explosivos de la bolsa.
+Multitud de empresas del mismo sector rompiendo al mismo tiempo por encima de la media móvil de tendencia (la EMA de 20 días), acostumbra a crear los movimientos más explosivos de la bolsa.
 
-Combinado con un S&P 500 que justo empieza a coger también esta tendencia por encima de la  de 20 días.
+Combinado con un S&P 500 que justo empieza a coger también esta tendencia por encima de la EMA de 20 días.
 
 > Recordemos que como aprendimos sobre [cuando es el mejor momento para comprar acciones](./cuando-comprar-acciones), si podemos encontrar rupturas justo cuando el mercado sale de una corrección, realmente se pueden crear movimientos muy potentes en empresas individuales.
 
 ### Busca poca resistencia encima esta MM
 
-- **Cuál:** [media móvil de tendencia ( de 20 días)](#Media_movil_de_tendencia)
+- **Cuál:** [media móvil de tendencia (EMA de 20 días)](#Media_movil_de_tendencia)
 - **Sabias que…** los sectores moviéndose por encima de esta MM sin resistencia produce las mayores rentabilidades
 
-Las tendencias más rentables ocurren cuando hay rupturas por encima de la media móvil de tendencia (la exponencial de 100 días, 20 semanas o 20 ).
+Las tendencias más rentables ocurren cuando hay rupturas por encima de la media móvil de tendencia (la exponencial de 100 días, 20 semanas o 20 EMA).
 
 Eso sí, tenemos que vigilar que haya habido una consolidación del precio. Que se haya **comprimido** y si a penas hay resistencia por encima, mejor que mejor.
 
-No tiene porque ser exactamente como el patrón de contracción volatilidad (VCP) de Minervini, pero es la representación más clara, y es que cuando haya una compresión del precio, además no hay resistencia por encima, y se rompe por encima de la 20 d, buenas cosas ocurren.
+No tiene porque ser exactamente como el patrón de contracción volatilidad (VCP) de Minervini, pero es la representación más clara, y es que cuando haya una compresión del precio, además no hay resistencia por encima, y se rompe por encima de la 20 dEMA, buenas cosas ocurren.
 
 ![patrón contracción volatilidad minervini](./wp-content/uploads/2024/04patron-contraccion-volatilidad-minervini.png)
 
@@ -304,6 +310,6 @@ Cuando este número de empresas _rompiendo_ empieza desde un nivel inferior y d
 
 Y cuando las empresas empiezan a romper _a la baja_ de esta media móvil después de que viniéramos de semanas alcistas, nos podría estar indicando el fin del movimiento alcista de este sector.
 
-Por esto la d de 20 es seguramente **la mejor para elegir el momento** de cuando estar o no estar en una acción.
+Por esto la dEMA de 20 es seguramente **la mejor para elegir el momento** de cuando estar o no estar en una acción.
 
-> Esas empresas o criptomonedas que se aguantan la d de 20 durante correcciones terminan siendo las _superperformances_ durante las tendencias alcistas de potencia.
+> Esas empresas o criptomonedas que se aguantan la dEMA de 20 durante correcciones terminan siendo las _superperformances_ durante las tendencias alcistas de potencia.

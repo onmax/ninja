@@ -1,16 +1,18 @@
 ---
-title: "¿Cómo curar una sartén de hierro?"
+title: ¿Cómo curar una sartén de hierro?
+subtitle: Súper guía paso a paso
 url: https://pau.ninja/como-curar-una-sarten-de-hierro
 slug: como-curar-una-sarten-de-hierro
-categories: ["habitos-saludables"]
+categories: 
 image: como-curar-una-sarten-de-hierro​.jpg
-imageURL: https://pau.ninja/wp-content/uploads/2024/10/como-curar-una-sarten-de-hierro​.jpg
-published: 2024-11-02T04:53:52+00:00
-modified: 
-scrappedAt: 2024-11-02T15:51:49.455Z
-audioLink: 
-bibliography: ["% saturado, 9 % omega-3 y 19 % omega-6, lo que permite una polimerización rápida y fácil"]
+imageUrl: https://pau.ninja/wp-content/uploads/2024/10/como-curar-una-sarten-de-hierro​.jpg
+publishedAt: 2024-11-02T04:53:52.000Z
+modifiedAt: undefined
+scrappedAt: 2024-11-04T11:08:44.017Z
+audioLink: undefined
+bibliography: % saturado, 9 % omega-3 y 19 % omega-6, lo que permite una polimerización rápida y fácil
 ---
+
 ¿Has podido olvidarte ya de las sartenes tóxicas?
 
 ¿Has comprado ya sartenes sanas?

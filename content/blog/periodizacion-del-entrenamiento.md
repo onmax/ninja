@@ -1,17 +1,18 @@
 ---
-title: "Periodización: el arte de seguir progresando en el gimnasio"
+title: Periodización: el arte de seguir progresando en el gimnasio
+subtitle: (qué es en el entrenamiento y cómo organizarte)
 url: https://pau.ninja/periodizacion-del-entrenamiento
 slug: periodizacion-del-entrenamiento
-categories: ["fitness"]
+categories: 
 image: periodizando-entrenamiento.jpeg
-imageURL: https://pau.ninja/wp-content/uploads/2022/10/periodizando-entrenamiento.jpeg
-published: 2022-10-16T09:58:03+00:00
-modified: 2024-01-13T06:39:22+00:00
-scrappedAt: 2024-10-14T16:17:04.826Z
+imageUrl: https://pau.ninja/wp-content/uploads/2022/10/periodizando-entrenamiento.jpeg
+publishedAt: 2022-10-16T09:58:03.000Z
+modifiedAt: 2024-01-13T06:39:22.000Z
+scrappedAt: 2024-11-04T11:42:30.975Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60618994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296952318-44100-2-f1fb4330acccb.mp3
-bibliography: ["Stone, M. H. PhD; O’Bryant, H. S.; Schilling, B. K.; Johnson, R. L.; Pierce, K. C. EdD, CSCS; Haff, G. Greg; Koch, A. J. MegStone, CSCS. Periodization: Effects Of Manipulating Volume And Intensity. Part 1. Strength and Conditioning Journal 21(2):p 56, April 1999.","Differences between natural training vs enhanced training Coach Christian Thibaudeau – Thibarmy"]
+bibliography: Stone, M. H. PhD; O’Bryant, H. S.; Schilling, B. K.; Johnson, R. L.; Pierce, K. C. EdD, CSCS; Haff, G. Greg; Koch, A. J. MegStone, CSCS. Periodization: Effects Of Manipulating Volume And Intensity. Part 1. Strength and Conditioning Journal 21(2):p 56, April 1999.
+Differences between natural training vs enhanced training Coach Christian Thibaudeau – Thibarmy
 ---
-[https://anchor.fm/s/98566448/podcast/play/60618994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296952318-44100-2-f1fb4330acccb.mp3](https://anchor.fm/s/98566448/podcast/play/60618994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296952318-44100-2-f1fb4330acccb.mp3)
 
 El otro día encontré unos vídeos en mi disco duro de mi progreso en el gimnasio de hace un año. Dije «c0ñ0, ¿tenía más músculo hace un año que ahora?»
 
