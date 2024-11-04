@@ -1,4 +1,8 @@
 <script setup lang="ts">
+definePageMeta({
+  title: 'Chat',
+})
+
 const { loggedIn } = useUserSession()
 if (!loggedIn.value)
   navigateTo('/')

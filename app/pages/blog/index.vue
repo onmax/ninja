@@ -1,4 +1,8 @@
 <script lang="ts" setup>
+definePageMeta({
+  title: 'Blog',
+})
+
 const selectedCategory = useRouteQuery<string>('categoria', '')
 
 const { data: list } = await useAsyncData(
