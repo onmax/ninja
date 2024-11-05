@@ -36,10 +36,10 @@ export default defineNuxtConfig({
       posts: {
         dimensions: 768, // @cf/baai/bge-base-en-v1.5
         metric: 'cosine',
-        metadataIndexes: {
-          filename: 'string',
-          headers: 'string',
-        },
+        // metadataIndexes: {
+        //   filename: 'string',
+        //   headers: 'string',
+        // },
       },
     },
   },
