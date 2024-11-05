@@ -34,8 +34,8 @@ export default defineNuxtConfig({
     database: true,
     vectorize: {
       chunks: {
-        dimensions: 768, // @cf/baai/bge-base-en-v1.5
-        metric: 'cosine',
+        dimensions: 1024, // @cf/baai/bge-large-en-v1.5
+        metric: 'euclidean',
         metadataIndexes: {
           slug: 'string',
         },

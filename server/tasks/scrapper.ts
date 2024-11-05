@@ -68,7 +68,7 @@ export default defineTask({
       const { categories, modifiedAt, publishedAt, scrappedAt } = frontmatter
 
       if (shouldVectorize) {
-        const vectors = await hubAI().run('@cf/baai/bge-base-en-v1.5', { text: chunks.map(chunk => chunk.content) }).then(res => res.data!)
+        const vectors = await hubAI().run('@cf/baai/bge-large-en-v1.5', { text: chunks.map(chunk => chunk.content) }).then(res => res.data!)
 
         const category = categories.at(0) || 'none'
 
