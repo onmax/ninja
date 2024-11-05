@@ -1,0 +1,1 @@
+ALTER TABLE `post_records` ADD `category` text NOT NULL;
