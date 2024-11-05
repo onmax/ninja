@@ -1,16 +1,17 @@
 ---
-title: Arca de la Alianza: en busca de la reliquia bíblica
+title: "Arca de la Alianza: en busca de la reliquia bíblica"
 subtitle: ¿Está en Etiopía? El mito, las réplicas y la verdadera
 url: https://pau.ninja/donde-esta-el-arca-de-la-alianza
 slug: donde-esta-el-arca-de-la-alianza
-categories: 
+categories: []
 image: buscando-arca-alianza.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/buscando-arca-alianza.jpeg
 publishedAt: 2020-11-02T07:57:56.000Z
 modifiedAt: 2023-06-26T19:38:57.000Z
-scrappedAt: 2024-11-04T11:57:03.908Z
+scrappedAt: 2024-11-05T04:33:13.427Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58609594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-5%2F289416258-44100-2-876ce7351f366.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 El Arca de la Alianza te sonará por haber aparecido en la película de Indiana Jones y «el arca perdida». Lo que quizás no sabías, es que se dice que el Arca parece existió de verdad… y sigue estando en algún lugar remoto de la Tierra.

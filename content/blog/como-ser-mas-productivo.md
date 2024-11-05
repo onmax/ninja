@@ -3,32 +3,63 @@ title: Súper productividad
 subtitle: 9 trucos prácticos demostrados (+20 estudios)
 url: https://pau.ninja/como-ser-mas-productivo
 slug: como-ser-mas-productivo
-categories: 
+categories: []
 image: persona-mas-productiva.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/persona-mas-productiva.jpeg
 publishedAt: 2024-06-16T06:04:50.000Z
 modifiedAt: 2024-08-11T17:16:08.000Z
-scrappedAt: 2024-11-04T11:11:45.498Z
+scrappedAt: 2024-11-05T04:26:33.277Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/88779645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-3%2F382318406-44100-2-e5efc1d6b2e7a.mp3
-bibliography: minutillos es todo lo que necesitas
-Danziger, Shai & Levav, Jonathan & Avnaim-Pesso, Liora. (2011). Extraneous Factors in Judicial Decisions. Proceedings of the National Academy of Sciences of the United States of America.
-When: The Scientific Secrets of Perfect Timing Tapa blanda – 8 Enero 2019 de Daniel H. Pink
-Dijksterhuis A, Bos MW, Nordgren LF, van Baaren RB. On making the right choice: the deliberation-without-attention effect. Science. 2006 Feb 17;311(5763):1005-7. doi: 10.1126/science.1121629. PMID: 16484496.
-Andrews, L.W. «To Become a Better Writer, Be a Frequent Walker»
-McMains S, Kastner S. Interactions of top-down and bottom-up mechanisms in human visual cortex. J Neurosci. 2011 Jan 12;31(2):587-97. doi: 10.1523/JNEUROSCI.3766-10.2011. PMID: 21228167; PMCID: PMC3072218.
-DeskTime. The secret of the 10% most productive people? Breaking!
-Fast Company, 10-31-17, This Is How Many Minutes Of Breaks You Need Each Day
-Stickgold, R., Walker, M. Sleep-dependent memory triage: evolving generalization through selective processing. Nat Neurosci 16, 139–145 (2013).
-Berto, R. (2005). Exposure to restorative environments helps restore attentional capacity. Journal of Environmental Psychology, 25, 249-259.
-Berto, R. (2014). The role of nature in coping with psycho-physiological stress: A literature review on restorativeness. Behavioral Sciences, 4, 394-409.
-Diette, G. B., Lechtzin, N., Haponik, E., Devrotes, A., & Rubin, H. R. (2003). Distraction therapy with nature sights and sounds reduces pain during flexible bronchoscopy: A complementary approach to routine analgesia. Chest, 123, 941-948.
-Joye, Y., & Dewitte, S. (2018). Nature’s broken path to restoration: A critical look at Attention Restoration Theory. Journal of Environmental Psychology, 59, 1-8.
-Thal, L. (2014). Attention-deficit hyperactivity disorder and exposure to nature in college students. Parks, Recreation, and Tourism Electronic Theses and Dissertations. Retrieved from https://hdl.handle.net/10355/44338
-Gable SL, Hopper EA, Schooler JW. When the Muses Strike: Creative Ideas of Physicists and Writers Routinely Occur During Mind Wandering. Psychol Sci. 2019 Mar;30(3):396-404. doi: 10.1177/0956797618820626. Epub 2019 Jan 17. PMID: 30653407.
-Berto, Rita. (2005). Exposure to restorative environments helps restore attentional capacity. journal of environmental psychology.
-Mantua J, Spencer RMC. Exploring the nap paradox: are mid-day sleep bouts a friend or foe? Sleep Med.
-Masicampo EJ, Baumeister RF. Consider it done! Plan making can eliminate the cognitive effects of unfulfilled goals. J Pers Soc Psychol. 2011 Oct;101(4):667-83. doi: 10.1037/a0024192. PMID: 21688924.
-Prescott, Katherine & Milne, Rebecca & Clarke, Jason. (2011). How Effective is the Enhanced Cognitive Interview when Aiding Recall Retrieval of Older Adults including Memory for Conversation?. Journal of Investigative Psychology and Offender Profiling. 8. 10.1002/jip.142.
+bibliography:
+  - minutillos es todo lo que necesitas
+  - Danziger, Shai & Levav, Jonathan & Avnaim-Pesso, Liora. (2011). Extraneous
+    Factors in Judicial Decisions. Proceedings of the National Academy of
+    Sciences of the United States of America.
+  - "When: The Scientific Secrets of Perfect Timing Tapa blanda – 8 Enero 2019
+    de Daniel H. Pink"
+  - "Dijksterhuis A, Bos MW, Nordgren LF, van Baaren RB. On making the right
+    choice: the deliberation-without-attention effect. Science. 2006 Feb
+    17;311(5763):1005-7. doi: 10.1126/science.1121629. PMID: 16484496."
+  - Andrews, L.W. «To Become a Better Writer, Be a Frequent Walker»
+  - "McMains S, Kastner S. Interactions of top-down and bottom-up mechanisms in
+    human visual cortex. J Neurosci. 2011 Jan 12;31(2):587-97. doi:
+    10.1523/JNEUROSCI.3766-10.2011. PMID: 21228167; PMCID: PMC3072218."
+  - DeskTime. The secret of the 10% most productive people? Breaking!
+  - Fast Company, 10-31-17, This Is How Many Minutes Of Breaks You Need Each Day
+  - "Stickgold, R., Walker, M. Sleep-dependent memory triage: evolving
+    generalization through selective processing. Nat Neurosci 16, 139–145
+    (2013)."
+  - Berto, R. (2005). Exposure to restorative environments helps restore
+    attentional capacity. Journal of Environmental Psychology, 25, 249-259.
+  - "Berto, R. (2014). The role of nature in coping with psycho-physiological
+    stress: A literature review on restorativeness. Behavioral Sciences, 4,
+    394-409."
+  - "Diette, G. B., Lechtzin, N., Haponik, E., Devrotes, A., & Rubin, H. R.
+    (2003). Distraction therapy with nature sights and sounds reduces pain
+    during flexible bronchoscopy: A complementary approach to routine analgesia.
+    Chest, 123, 941-948."
+  - "Joye, Y., & Dewitte, S. (2018). Nature’s broken path to restoration: A
+    critical look at Attention Restoration Theory. Journal of Environmental
+    Psychology, 59, 1-8."
+  - Thal, L. (2014). Attention-deficit hyperactivity disorder and exposure to
+    nature in college students. Parks, Recreation, and Tourism Electronic Theses
+    and Dissertations. Retrieved from https://hdl.handle.net/10355/44338
+  - "Gable SL, Hopper EA, Schooler JW. When the Muses Strike: Creative Ideas of
+    Physicists and Writers Routinely Occur During Mind Wandering. Psychol Sci.
+    2019 Mar;30(3):396-404. doi: 10.1177/0956797618820626. Epub 2019 Jan 17.
+    PMID: 30653407."
+  - Berto, Rita. (2005). Exposure to restorative environments helps restore
+    attentional capacity. journal of environmental psychology.
+  - "Mantua J, Spencer RMC. Exploring the nap paradox: are mid-day sleep bouts a
+    friend or foe? Sleep Med."
+  - "Masicampo EJ, Baumeister RF. Consider it done! Plan making can eliminate
+    the cognitive effects of unfulfilled goals. J Pers Soc Psychol. 2011
+    Oct;101(4):667-83. doi: 10.1037/a0024192. PMID: 21688924."
+  - Prescott, Katherine & Milne, Rebecca & Clarke, Jason. (2011). How Effective
+    is the Enhanced Cognitive Interview when Aiding Recall Retrieval of Older
+    Adults including Memory for Conversation?. Journal of Investigative
+    Psychology and Offender Profiling. 8. 10.1002/jip.142.
+
 ---
 
 Más allá de la teórica y [los consejos para no procrastinar](./10-consejos-para-no-procrastinar) (#608) era necesario que fuéramos aún más pragmáticos para hablar de la productividad.

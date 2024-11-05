@@ -1,16 +1,17 @@
 ---
-title: Mentiras de la Vitamina C: menos naranjas… más carne roja
-subtitle: 
+title: "Mentiras de la Vitamina C: menos naranjas… más carne roja"
+subtitle: ""
 url: https://pau.ninja/la-carne-tiene-vitamina-c
 slug: la-carne-tiene-vitamina-c
-categories: 
+categories: []
 image: hombre-consume-vitamina-c.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/hombre-consume-vitamina-c.jpeg
 publishedAt: 2023-03-30T11:27:39.000Z
 modifiedAt: 2023-04-04T18:17:52.000Z
-scrappedAt: 2024-11-04T11:40:28.687Z
+scrappedAt: 2024-11-05T04:29:12.993Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/67875803/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321953930-44100-2-1b650a5332624.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 No es que las frutas y las verduras tengan vitamina C por ser frutas y verduras, sino que la contienen por ser comidas **frescas**.
@@ -87,7 +88,7 @@ Al contrario de lo que se piensa, de hecho la carne tiene **cantidades significa
 
 Un autor al que se hace mucha referencia en los círculos donde seguimos el carnísimo es Vilhjalmur Stefansson, un explorador ártico que murió a los 82 años que pasó toda su vida estudiando las civilizaciones árticas y copiando su dieta.
 
-[![The Fat of the Land](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaVdpdGxUVzB0Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4Nzg1NQ=)](https://www.amazon.es/dp8829534234?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land")
+[![The Fat of the Land](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaVdpdGxUVzB0Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzMyMA=)](https://www.amazon.es/dp8829534234?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land")
 
 [The Fat of the Land](https://www.amazon.es/dp/8829534234?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Fat of the Land")
 

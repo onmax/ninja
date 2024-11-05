@@ -1,16 +1,24 @@
 ---
 title: La (única) rutina para una mañana productiva
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/rutina-de-manana-productiva
 slug: rutina-de-manana-productiva
-categories: 
+categories: []
 image: persona-con-cafe-en-habitacion-trabajando.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/persona-con-cafe-en-habitacion-trabajando.jpeg
 publishedAt: 2023-01-12T04:53:45.000Z
 modifiedAt: 2024-01-13T04:39:10.000Z
-scrappedAt: 2024-11-04T11:41:36.441Z
+scrappedAt: 2024-11-05T04:29:35.676Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/67878594/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-3%2F321962546-44100-2-e87ede8d1f84c.mp3
-bibliography: horas antes de ir a dormir: me lavo los dientes y mientras estiro durante 20 minutos escucho un podcast o miro un vídeo de YouTube. Un hábito que por fin estoy consiguiendo mantener. Dejo apuntada la cosa más importante que tengo que hacer el día siguiente, y a un lado de la liberta otra tareas que se me vayan ocurriendo por si me queda tiempo. Dejo preparada la cafetera con el café que necesitaré mañana (todo esto sin un orden específico). Me pongo a dormir antes de las 22:30.
+bibliography:
+  - "horas antes de ir a dormir: me lavo los dientes y mientras estiro durante
+    20 minutos escucho un podcast o miro un vídeo de YouTube. Un hábito que por
+    fin estoy consiguiendo mantener. Dejo apuntada la cosa más importante que
+    tengo que hacer el día siguiente, y a un lado de la liberta otra tareas que
+    se me vayan ocurriendo por si me queda tiempo. Dejo preparada la cafetera
+    con el café que necesitaré mañana (todo esto sin un orden específico). Me
+    pongo a dormir antes de las 22:30."
+
 ---
 
 A mi rutina de mañana productiva no sólo le debo los avances de mis proyectos y mis ingresos sino que os prometo que incluso es la clave de mi felicidad.

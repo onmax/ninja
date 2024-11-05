@@ -3,50 +3,129 @@ title: Retención seminal
 subtitle: el poder de NO eyacular licor sagrado (+30 estudios)
 url: https://pau.ninja/beneficios-de-la-retencion-seminal
 slug: beneficios-de-la-retencion-seminal
-categories: 
+categories: []
 image: hombre-practica-retencion-seminal.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/hombre-practica-retencion-seminal.jpg
 publishedAt: 2024-10-03T06:47:40.000Z
 modifiedAt: 2024-11-03T07:56:34.000Z
-scrappedAt: 2024-11-04T11:09:12.661Z
-audioLink: undefined
-bibliography: Kvist, U., & Kjellberg, S. (1982). Deposition of zinc in the epididymal spermatozoa and its relation to motility. Andrologia, 14(3), 186-192.
-Sengupta, P., & Borges, E. Jr. (2018). Role of magnesium in male fertility. The Aging Male, 21(1), 54-62.
-Agarwal, A., et al. (2004). Role of oxidative stress in male infertility: an overview. Archives of Medical Science, 1(1), 24-31.
-Bedwal, R. S., & Bahuguna, A. (1994). Zinc, copper and selenium in reproduction. Experientia, 50(7), 626-640.
-Robaire, B., & Hinton, B. T. (2015). The Epididymis. In Knobil and Neill’s Physiology of Reproduction (pp. 691-771). Academic Press.
-Cooper, T. G. (2011). The Epididymis, Sperm Maturation and Sperm Storage. In Male Reproductive Function (pp. 107-127). Cambridge University Press.
-Exton, M. S., Krüger, T. H., Bursch, N., Haake, P., Knapp, W., Schedlowski, M., & Hartmann, U. (2001). Endocrine response to masturbation-induced orgasm in healthy men following a 3-week sexual abstinence. World Journal of Urology, 19(5), 377-382.
-Jiang, M., Xin, J., Zou, Q., & Shen, J. (2003). A research on the relationship between ejaculation and serum testosterone level in men. Journal of Zhejiang University. Science, 4(2), 236-240.
-Tébar, F. J., Fernández-Alés, R., & Muñoz-Díaz, M. (1995). Plant responses to drought in a Quercus pyrenaica ecosystem. Vegetatio, 116(2), 179-191.
-Herrera, C. M., & Jordano, P. (1981). Prunus mahaleb and birds: the high-efficiency seed dispersal system of a temperate fruiting tree. Ecological Monographs, 51(2), 203-218.
-Cipollini, M. L., & Stiles, E. W. (1993). Fruit removal by birds from frugiferous shrubs: a test of optimal foraging theory. Ecology, 74(1), 232-241.
-Prasad, A.S. (2008). Zinc in Human Health: Effect of Zinc on Immune Cells. Molecular Medicine, 14(5-6), 353-357
-Kumar, N., & Saini, P. (2017). Seminal plasma zinc and its correlation with seminal parameters in infertile males. Journal of Clinical and Diagnostic Research, 11(1), CC18-CC20.
-Hunt, C. D., & Meacham, S. L. (2001). Zinc and immune function: the biological basis of altered resistance to infection. American Journal of Clinical Nutrition, 69(2 Suppl), 469S-471S.
-Prasad, A. S. (2008). Zinc in human health: effect of zinc on immune cells. Molecular Medicine, 14(5-6), 353-357.
-Hansen, M. (2010). Male reproductive function and bone health. Clinical Endocrinology, 73(2), 171-177.
-Fujita, T., & Fukase, M. (1992). Comparison of the Effects of Dietary Zinc and Magnesium on Bone Metabolism in Adult Rats. Endocrinology, 131(3), 1597-1599.
-Allen, L.H. (2009). Calcium and Magnesium in the Human Body. Advances in Nutrition, 10(2), 119-125
-Małgorzata Draps, Guillaume Sescousse, Marc N. Potenza, Artur Marchewka, Agnieszka Duda, Michał Lew-Starowicz, Maciej Kopera, Andrzej Jakubczyk, Marcin Wojnar, Mateusz Gola, Gray Matter Volume Differences in Impulse Control and Addictive Disorders—An Evidence From a Sample of Heterosexual Males, The Journal of Sexual Medicine, Volume 17, Issue 9, September 2020, Pages 1761–1769,
-Shackman, A. J., & Fox, A. S. (2016). Contributions of the Central Extended Amygdala to Fear and Anxiety. Journal of Neuroscience, 36(31), 8050-8063. https://doi.org/10.1523/JNEUROSCI.0982-16.2016
-Bush, G., Luu, P., & Posner, M. I. (2000). Cognitive and emotional influences in anterior cingulate cortex. Trends in Cognitive Sciences, 4(6), 215-222. https://doi.org/10.1016/S1364-6613(00)01483-2
-Peters, S. K., Dunlop, K., & Downar, J. (2016). Cortico-striatal-thalamo-cortical circuit dysfunction in major depressive disorder: a meta-analysis of resting-state functional connectivity. Biological Psychiatry, 79(4), 266-278. https://doi.org/10.1016/j.biopsych.2015.03.001
-Petersen, C., & Smith, J. (2017). The role of glutamine and glutamate in mammalian central nervous system metabolism. Frontiers in Neuroscience, 11, 186. https://doi.org/10.3389/fnins.2017.00186
-Gladyshev, V. N., & Hatfield, D. L. (1999). Selenocysteine-containing proteins in mammals. Journal of Biomedical Science, 6(3), 151-160. https://doi.org/10.1007/BF02253348
-Hurtado de Catalfo, G., Vallejo, G., & de Alaniz, M. J. (2007). Polyunsaturated fatty acid deficiency alters fatty acid composition and testosterone production in rat testis. Prostaglandins, Leukotrienes and Essential Fatty Acids, 76(6), 329-334. https://doi.org/10.1016/j.plefa.2007.03.007
-Matos B, Publicover SJ, Castro LFC, Esteves PJ, Fardilha M. Brain and testis: more alike than previously thought? Open Biol. 2021 Jun;11(6):200322. doi: 10.1098/rsob.200322. Epub 2021 Jun 2. PMID: 34062096; PMCID: PMC8169208.
-Behne, D., & Kyriakopoulos, A. (2001). Mammalian selenium-containing proteins. Annual Review of Nutrition, 21(1), 453-473. https://doi.org/10.1146/annurev.nutr.21.1.453
-Li, W., & Ma, H. (2016). Long-chain polyunsaturated fatty acids and semen quality: A systematic review and meta-analysis. Reproductive Biology and Endocrinology, 14(1), 18. https://doi.org/10.1186/s12958-016-0156-5
-Innis, S. M. (2008). Dietary omega 3 fatty acids and the developing brain. Brain Research, 1237, 35-43. https://doi.org/10.1016/j.brainres.2008.08.078
-Singh, D., & Kumar, N. (2017). Relationship between intelligence and semen quality in men. Andrologia, 49(3), e12614. https://doi.org/10.1111/and.12614
-Glazer, C. H., Bonde, J. P., & Giwercman, A. (2019). Male fertility: The impact of diet, lifestyle, and environment on sperm quality. Fertility and Sterility, 111(5), 794-802. https://doi.org/10.1016/j.fertnstert.2019.02.015
-Poopaibool, N., & Uthaipaisanwong, P. (2023). The link between brain structure and semen quality: A neuroimaging study. Neurobiology of Reproduction, 45(2), 110-119. https://doi.org/10.1016/j.neurorep.2023.110119
-Tiihonen, J., Kuikka, J., Bergström, K., Lepola, U., Koponen, H., & Leinonen, M. (1994). Dopamine reuptake site densities in patients with social phobia. The American Journal of Psychiatry, 151(7), 1185-1188. https://doi.org/10.1176/ajp.151.7.1185
-Stewart, J. L., May, A. C., Tapert, S. F., Paulus, M. P., & Greydanus, D. E. (2019). Neuroimaging of substance use and related disorders: An evolving understanding of brain function, structure, and recovery. Neuroscience and Biobehavioral Reviews, 104, 155-179. https://doi.org/10.1016/j.neubiorev.2019.06.010
-Wang, G. J., Volkow, N. D., Thanos, P. K., & Fowler, J. S. (2004). Similarity between obesity and drug addiction as assessed by neurofunctional imaging: A concept review. Journal of Addictive Diseases, 23(3), 39-53. https://doi.org/10.1300/J069v23n03\_04
-Kuhn, S., & Gallinat, J. (2014). Brain structure and functional connectivity associated with pornography consumption: The brain on porn. JAMA Psychiatry, 71(7), 827-834. https://doi.org/10.1001/jamapsychiatry.2014.93
-Simons, J. S., Neal, D. J., & Gaher, R. M. (2006). Risk for marijuana-related problems among college students: An application of zero-inflated negative binomial regression. Journal of the American College of Health, 55(5), 271-280. https://doi.org/10.3200/JACH.55.5.271-280
+scrappedAt: 2024-11-05T04:25:38.789Z
+bibliography:
+  - Kvist, U., & Kjellberg, S. (1982). Deposition of zinc in the epididymal
+    spermatozoa and its relation to motility. Andrologia, 14(3), 186-192.
+  - Sengupta, P., & Borges, E. Jr. (2018). Role of magnesium in male fertility.
+    The Aging Male, 21(1), 54-62.
+  - "Agarwal, A., et al. (2004). Role of oxidative stress in male infertility:
+    an overview. Archives of Medical Science, 1(1), 24-31."
+  - Bedwal, R. S., & Bahuguna, A. (1994). Zinc, copper and selenium in
+    reproduction. Experientia, 50(7), 626-640.
+  - Robaire, B., & Hinton, B. T. (2015). The Epididymis. In Knobil and Neill’s
+    Physiology of Reproduction (pp. 691-771). Academic Press.
+  - Cooper, T. G. (2011). The Epididymis, Sperm Maturation and Sperm Storage. In
+    Male Reproductive Function (pp. 107-127). Cambridge University Press.
+  - Exton, M. S., Krüger, T. H., Bursch, N., Haake, P., Knapp, W., Schedlowski,
+    M., & Hartmann, U. (2001). Endocrine response to masturbation-induced orgasm
+    in healthy men following a 3-week sexual abstinence. World Journal of
+    Urology, 19(5), 377-382.
+  - Jiang, M., Xin, J., Zou, Q., & Shen, J. (2003). A research on the
+    relationship between ejaculation and serum testosterone level in men.
+    Journal of Zhejiang University. Science, 4(2), 236-240.
+  - Tébar, F. J., Fernández-Alés, R., & Muñoz-Díaz, M. (1995). Plant responses
+    to drought in a Quercus pyrenaica ecosystem. Vegetatio, 116(2), 179-191.
+  - "Herrera, C. M., & Jordano, P. (1981). Prunus mahaleb and birds: the
+    high-efficiency seed dispersal system of a temperate fruiting tree.
+    Ecological Monographs, 51(2), 203-218."
+  - "Cipollini, M. L., & Stiles, E. W. (1993). Fruit removal by birds from
+    frugiferous shrubs: a test of optimal foraging theory. Ecology, 74(1),
+    232-241."
+  - "Prasad, A.S. (2008). Zinc in Human Health: Effect of Zinc on Immune Cells.
+    Molecular Medicine, 14(5-6), 353-357"
+  - Kumar, N., & Saini, P. (2017). Seminal plasma zinc and its correlation with
+    seminal parameters in infertile males. Journal of Clinical and Diagnostic
+    Research, 11(1), CC18-CC20.
+  - "Hunt, C. D., & Meacham, S. L. (2001). Zinc and immune function: the
+    biological basis of altered resistance to infection. American Journal of
+    Clinical Nutrition, 69(2 Suppl), 469S-471S."
+  - "Prasad, A. S. (2008). Zinc in human health: effect of zinc on immune cells.
+    Molecular Medicine, 14(5-6), 353-357."
+  - Hansen, M. (2010). Male reproductive function and bone health. Clinical
+    Endocrinology, 73(2), 171-177.
+  - Fujita, T., & Fukase, M. (1992). Comparison of the Effects of Dietary Zinc
+    and Magnesium on Bone Metabolism in Adult Rats. Endocrinology, 131(3),
+    1597-1599.
+  - Allen, L.H. (2009). Calcium and Magnesium in the Human Body. Advances in
+    Nutrition, 10(2), 119-125
+  - Małgorzata Draps, Guillaume Sescousse, Marc N. Potenza, Artur Marchewka,
+    Agnieszka Duda, Michał Lew-Starowicz, Maciej Kopera, Andrzej Jakubczyk,
+    Marcin Wojnar, Mateusz Gola, Gray Matter Volume Differences in Impulse
+    Control and Addictive Disorders—An Evidence From a Sample of Heterosexual
+    Males, The Journal of Sexual Medicine, Volume 17, Issue 9, September 2020,
+    Pages 1761–1769,
+  - Shackman, A. J., & Fox, A. S. (2016). Contributions of the Central Extended
+    Amygdala to Fear and Anxiety. Journal of Neuroscience, 36(31), 8050-8063.
+    https://doi.org/10.1523/JNEUROSCI.0982-16.2016
+  - Bush, G., Luu, P., & Posner, M. I. (2000). Cognitive and emotional
+    influences in anterior cingulate cortex. Trends in Cognitive Sciences, 4(6),
+    215-222. https://doi.org/10.1016/S1364-6613(00)01483-2
+  - "Peters, S. K., Dunlop, K., & Downar, J. (2016).
+    Cortico-striatal-thalamo-cortical circuit dysfunction in major depressive
+    disorder: a meta-analysis of resting-state functional connectivity.
+    Biological Psychiatry, 79(4), 266-278.
+    https://doi.org/10.1016/j.biopsych.2015.03.001"
+  - Petersen, C., & Smith, J. (2017). The role of glutamine and glutamate in
+    mammalian central nervous system metabolism. Frontiers in Neuroscience, 11,
+    186. https://doi.org/10.3389/fnins.2017.00186
+  - Gladyshev, V. N., & Hatfield, D. L. (1999). Selenocysteine-containing
+    proteins in mammals. Journal of Biomedical Science, 6(3), 151-160.
+    https://doi.org/10.1007/BF02253348
+  - Hurtado de Catalfo, G., Vallejo, G., & de Alaniz, M. J. (2007).
+    Polyunsaturated fatty acid deficiency alters fatty acid composition and
+    testosterone production in rat testis. Prostaglandins, Leukotrienes and
+    Essential Fatty Acids, 76(6), 329-334.
+    https://doi.org/10.1016/j.plefa.2007.03.007
+  - "Matos B, Publicover SJ, Castro LFC, Esteves PJ, Fardilha M. Brain and
+    testis: more alike than previously thought? Open Biol. 2021
+    Jun;11(6):200322. doi: 10.1098/rsob.200322. Epub 2021 Jun 2. PMID: 34062096;
+    PMCID: PMC8169208."
+  - Behne, D., & Kyriakopoulos, A. (2001). Mammalian selenium-containing
+    proteins. Annual Review of Nutrition, 21(1), 453-473.
+    https://doi.org/10.1146/annurev.nutr.21.1.453
+  - "Li, W., & Ma, H. (2016). Long-chain polyunsaturated fatty acids and semen
+    quality: A systematic review and meta-analysis. Reproductive Biology and
+    Endocrinology, 14(1), 18. https://doi.org/10.1186/s12958-016-0156-5"
+  - Innis, S. M. (2008). Dietary omega 3 fatty acids and the developing brain.
+    Brain Research, 1237, 35-43. https://doi.org/10.1016/j.brainres.2008.08.078
+  - Singh, D., & Kumar, N. (2017). Relationship between intelligence and semen
+    quality in men. Andrologia, 49(3), e12614. https://doi.org/10.1111/and.12614
+  - "Glazer, C. H., Bonde, J. P., & Giwercman, A. (2019). Male fertility: The
+    impact of diet, lifestyle, and environment on sperm quality. Fertility and
+    Sterility, 111(5), 794-802.
+    https://doi.org/10.1016/j.fertnstert.2019.02.015"
+  - "Poopaibool, N., & Uthaipaisanwong, P. (2023). The link between brain
+    structure and semen quality: A neuroimaging study. Neurobiology of
+    Reproduction, 45(2), 110-119.
+    https://doi.org/10.1016/j.neurorep.2023.110119"
+  - Tiihonen, J., Kuikka, J., Bergström, K., Lepola, U., Koponen, H., &
+    Leinonen, M. (1994). Dopamine reuptake site densities in patients with
+    social phobia. The American Journal of Psychiatry, 151(7), 1185-1188.
+    https://doi.org/10.1176/ajp.151.7.1185
+  - "Stewart, J. L., May, A. C., Tapert, S. F., Paulus, M. P., & Greydanus, D.
+    E. (2019). Neuroimaging of substance use and related disorders: An evolving
+    understanding of brain function, structure, and recovery. Neuroscience and
+    Biobehavioral Reviews, 104, 155-179.
+    https://doi.org/10.1016/j.neubiorev.2019.06.010"
+  - "Wang, G. J., Volkow, N. D., Thanos, P. K., & Fowler, J. S. (2004).
+    Similarity between obesity and drug addiction as assessed by neurofunctional
+    imaging: A concept review. Journal of Addictive Diseases, 23(3), 39-53.
+    https://doi.org/10.1300/J069v23n03\\_04"
+  - "Kuhn, S., & Gallinat, J. (2014). Brain structure and functional
+    connectivity associated with pornography consumption: The brain on porn.
+    JAMA Psychiatry, 71(7), 827-834.
+    https://doi.org/10.1001/jamapsychiatry.2014.93"
+  - "Simons, J. S., Neal, D. J., & Gaher, R. M. (2006). Risk for
+    marijuana-related problems among college students: An application of
+    zero-inflated negative binomial regression. Journal of the American College
+    of Health, 55(5), 271-280. https://doi.org/10.3200/JACH.55.5.271-280"
+
 ---
 
 Ninja de la vida, ¿realmente necesitamos 50 razones científicas para creernos que el semen tiene valor?

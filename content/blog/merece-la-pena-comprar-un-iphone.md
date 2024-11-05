@@ -1,16 +1,17 @@
 ---
-title: Hola iPhone: le digo adiós a mi Android de 170 euros
+title: "Hola iPhone: le digo adiós a mi Android de 170 euros"
 subtitle: ¿Mereció la pena comprarlo?
 url: https://pau.ninja/merece-la-pena-comprar-un-iphone
 slug: merece-la-pena-comprar-un-iphone
-categories: 
+categories: []
 image: iphone-en-mesa.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/iphone-en-mesa.jpg
 publishedAt: 2021-08-23T05:32:14.000Z
 modifiedAt: 2023-12-05T15:29:01.000Z
-scrappedAt: 2024-11-04T11:54:57.239Z
+scrappedAt: 2024-11-05T04:32:18.990Z
 audioLink: https://www.ivoox.com/hola-iphone-le-digo-adios-a-mi-android_md_74696099_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 «¿Has visto el último modelo? cuesta más de 1.000€. ¿Crees que vale la pena comprar un iPhone?» fueron las palabras que salieron de mi boca mientras miraba en el navegador de mi Android ese primer smartphone de más de 1.000€ hace no tantos años.
@@ -31,7 +32,7 @@ Fue el año de las segundas y terceras pandemias que terminé comprándome el iP
 
 ¿Caí en la seducción de la publicidad de Apple o las presiones sociales de lujo?
 
-[![Nuevo Apple iPhone 12 Mini (128 GB) - en Negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFek5EaDZOVVJUU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4Njk5NA=)](https://www.amazon.es/dpB08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nuevo Apple iPhone 12 Mini (128 GB) - en Negro")
+[![Nuevo Apple iPhone 12 Mini (128 GB) - en Negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFek5EaDZOVVJUU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzgwMg=)](https://www.amazon.es/dpB08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nuevo Apple iPhone 12 Mini (128 GB) - en Negro")
 
 [Nuevo Apple iPhone 12 Mini (128 GB) - en Negro](https://www.amazon.es/dp/B08L5S9ZP8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nuevo Apple iPhone 12 Mini (128 GB) - en Negro")
 
@@ -61,7 +62,7 @@ En ese momento me daba mucha rabia tener que volver a dejarme tanta pasta en un 
 
 Bestseller No. 1
 
-[![OUKITEL C36 Teléfono Móvil Libres 2024, 12GB+128GB/1TB, 6.56' Pantalla HD+90Hz, Android 13 Móvil,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGWFZYYzVVV0pCVDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4Njk5NA=)](https://www.amazon.es/dp/B0CFTZLRJK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core "OUKITEL C36 Teléfono Móvil Libres 2024, 12GB+128GB1TB, 6.56' Pantalla HD+90Hz, Android 13 Móvil,...")
+[![OUKITEL C36 Teléfono Móvil Libres 2024, 12GB+128GB/1TB, 6.56' Pantalla HD+90Hz, Android 13 Móvil,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGWFZYYzVVV0pCVDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzgwMg=)](https://www.amazon.es/dp/B0CFTZLRJK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core "OUKITEL C36 Teléfono Móvil Libres 2024, 12GB+128GB1TB, 6.56' Pantalla HD+90Hz, Android 13 Móvil,...")
 
 [OUKITEL C36 Teléfono Móvil Libres 2024, 12GB+128GB/1TB, 6.56" Pantalla HD+90Hz, Android 13 Móvil,...](https://www.amazon.es/dp/B0CFTZLRJK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=smartphone%20android%20dual%20sim%20nfc%20octa%20core "OUKITEL C36 Teléfono Móvil Libres 2024, 12GB+128GB/1TB, 6.56' Pantalla HD+90Hz, Android 13 Móvil,...")
 
@@ -109,7 +110,7 @@ Apple saco un nuevo producto estrella que las otras empresas ya han copiado cien
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Apple AirPods con Estuche de Carga con Cable (2.ª generación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGRmVITkliV0l6VjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4Njk5NA=)](https://www.amazon.es/dpB07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods "Apple AirPods con Estuche de Carga con Cable (2.ª generación)")
+[![Apple AirPods con Estuche de Carga con Cable (2.ª generación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGRmVITkliV0l6VjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzgwMg=)](https://www.amazon.es/dpB07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods "Apple AirPods con Estuche de Carga con Cable (2.ª generación)")
 
 [Apple AirPods con Estuche de Carga con Cable (2.ª generación)](https://www.amazon.es/dp/B07PYMK77Y?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=apple%20airpods "Apple AirPods con Estuche de Carga con Cable (2.ª generación)")
 

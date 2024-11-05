@@ -3,33 +3,82 @@ title: Calzado barefoot
 subtitle: o cómo liberar a tus pies caminando (casi) descalzo
 url: https://pau.ninja/calzado-barefoot-que-es
 slug: calzado-barefoot-que-es
-categories: 
+categories: []
 image: persona-con-calzado-barefoot.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/09/persona-con-calzado-barefoot.jpeg
 publishedAt: 2023-10-10T04:01:37.000Z
 modifiedAt: 2023-12-22T21:23:02.000Z
-scrappedAt: 2024-11-04T11:16:41.151Z
+scrappedAt: 2024-11-05T04:28:23.391Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/77377209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-18%2F351644840-44100-2-a01e2c38c966.mp3
-bibliography: Trinkaus, Erik. (2005). Anatomical evidence for the antiquity of human footwear use. Journal of Archaeological Science. 32. 1515-1526. 10.1016/j.jas.2005.04.006.
-Lieberman, Daniel E.. What We Can Learn About Running from Barefoot Running: An Evolutionary Medical Perspective. Exercise and Sport Sciences Reviews 40(2):p 63-72, April 2012. | DOI: 10.1097/JES.0b013e31824ab210
-HOFFMANN, PHIL.. CONCLUSIONS DRAWN FROM A COMPARATIVE STUDY OF THE FEET OF BAREFOOTED AND SHOE-WEARING PEOPLES. The American Journal of Orthopedic Surgery s2-3(2):p 105-136, October 1905.
-Zelik KE, Kuo AD. Human walking isn’t all hard work: evidence of soft tissue contributions to energy dissipation and return. J Exp Biol. 2010 Dec 15;213(Pt 24):4257-64. doi: 10.1242/jeb.044297. PMID: 21113007; PMCID: PMC2992466.
-“The Journal of Strength & Conditioning Research.” 2023. Lww.com.‌
-Curtis R, Willems C, Paoletti P, D’Août K. Daily activity in minimal footwear increases foot strength. Sci Rep. 2021 Sep 20;11(1):18648. doi: 10.1038/s41598-021-98070-0. PMID: 34545114; PMCID: PMC8452613.
-Menz HB, Roddy E, Marshall M, Thomas MJ, Rathod T, Peat GM, Croft PR. Epidemiology of Shoe Wearing Patterns Over Time in Older Women: Associations With Foot Pain and Hallux Valgus. J Gerontol A Biol Sci Med Sci. 2016 Dec;71(12):1682-1687. doi: 10.1093/gerona/glw004. Epub 2016 Feb 1. PMID: 26834078; PMCID: PMC5106851.
-Dittmar JM, Mitchell PD, Cessford C, Inskip SA, Robb JE. Fancy shoes and painful feet: Hallux valgus and fracture risk in medieval Cambridge, England. Int J Paleopathol. 2021 Dec;35:90-100. doi: 10.1016/j.ijpp.2021.04.012. Epub 2021 Jun 11. PMID: 34120868; PMCID: PMC8631459.
-Alexander RM. Energy-saving mechanisms in walking and running. J Exp Biol 1991;160:55–69.
-Venkadesan M, Yawar A, Eng CM, et al. Stiffness of the human foot and evolution of the transverse arch. Nature 2020;579:97–100.
-Smith BS, Burton B, Johnson D, Kendrick S, Meyer E, Yuan W. Effects of wearing athletic shoes, five-toed shoes, and standing barefoot on balance performance in young adults. Int J Sports Phys Ther. 2015;10(1):69.
-Francis P, Schofield GFrom barefoot hunter gathering to shod pavement pounding. Where to from here? A narrative reviewBMJ Open Sport & Exercise Medicine 2020;6:e000577. doi: 10.1136/bmjsem-2019-000577
-Richards CE, Magin PJ, Callister R. Is your prescription of distance running shoes evidence-based? Br J Sports Med. 2009 Mar;43(3):159-62. doi: 10.1136/bjsm.2008.046680. Epub 2008 Apr 18. PMID: 18424485.
-Napier C, Willy RWLogical fallacies in the running shoe debate: let the evidence guide prescriptionBritish Journal of Sports Medicine 2018;52:1552-1553.
-Daoud AI, Geissler GJ, Wang F, Saretsky J, Daoud YA, Lieberman DE. Foot strike and injury rates in endurance runners: a retrospective study. Med Sci Sports Exerc. 2012 Jul;44(7):1325-34. doi: 10.1249/MSS.0b013e3182465115. PMID: 22217561.
-Richard Stoneham, Gillian Barry, Lee Saxby, Lauryn Waters & Mick Wilkinson (2021) Differences in stride length and lower limb moments of recreational runners during over-ground running while barefoot, in minimalist and in maximalist running shoes, Footwear Science, 13:2, 133-141, DOI: 10.1080/19424280.2021.1878285
-Oschman JL, Chevalier G, Brown R. The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases. J Inflamm Res. 2015 Mar 24;8:83-96. doi: 10.2147/JIR.S69656. PMID: 25848315; PMCID: PMC4378297.
-Oschman JL, Chevalier G, Brown R. The effects of grounding (earthing) on inflammation, the immune response, wound healing, and prevention and treatment of chronic inflammatory and autoimmune diseases. J Inflamm Res. 2015 Mar 24;8:83-96. doi: 10.2147/JIR.S69656. PMID: 25848315; PMCID: PMC4378297.
-“Diccionario de Cáncer Del NCI.” 2023. Instituto Nacional Del Cáncer. Cancer.gov. ‌
-Lieberman, D., Venkadesan, M., Werbel, W. et al. Foot strike patterns and collision forces in habitually barefoot versus shod runners. Nature 463, 531–535 (2010).
+bibliography:
+  - Trinkaus, Erik. (2005). Anatomical evidence for the antiquity of human
+    footwear use. Journal of Archaeological Science. 32. 1515-1526.
+    10.1016/j.jas.2005.04.006.
+  - "Lieberman, Daniel E.. What We Can Learn About Running from Barefoot
+    Running: An Evolutionary Medical Perspective. Exercise and Sport Sciences
+    Reviews 40(2):p 63-72, April 2012. | DOI: 10.1097/JES.0b013e31824ab210"
+  - HOFFMANN, PHIL.. CONCLUSIONS DRAWN FROM A COMPARATIVE STUDY OF THE FEET OF
+    BAREFOOTED AND SHOE-WEARING PEOPLES. The American Journal of Orthopedic
+    Surgery s2-3(2):p 105-136, October 1905.
+  - "Zelik KE, Kuo AD. Human walking isn’t all hard work: evidence of soft
+    tissue contributions to energy dissipation and return. J Exp Biol. 2010 Dec
+    15;213(Pt 24):4257-64. doi: 10.1242/jeb.044297. PMID: 21113007; PMCID:
+    PMC2992466."
+  - “The Journal of Strength & Conditioning Research.” 2023. Lww.com.‌
+  - "Curtis R, Willems C, Paoletti P, D’Août K. Daily activity in minimal
+    footwear increases foot strength. Sci Rep. 2021 Sep 20;11(1):18648. doi:
+    10.1038/s41598-021-98070-0. PMID: 34545114; PMCID: PMC8452613."
+  - "Menz HB, Roddy E, Marshall M, Thomas MJ, Rathod T, Peat GM, Croft PR.
+    Epidemiology of Shoe Wearing Patterns Over Time in Older Women: Associations
+    With Foot Pain and Hallux Valgus. J Gerontol A Biol Sci Med Sci. 2016
+    Dec;71(12):1682-1687. doi: 10.1093/gerona/glw004. Epub 2016 Feb 1. PMID:
+    26834078; PMCID: PMC5106851."
+  - "Dittmar JM, Mitchell PD, Cessford C, Inskip SA, Robb JE. Fancy shoes and
+    painful feet: Hallux valgus and fracture risk in medieval Cambridge,
+    England. Int J Paleopathol. 2021 Dec;35:90-100. doi:
+    10.1016/j.ijpp.2021.04.012. Epub 2021 Jun 11. PMID: 34120868; PMCID:
+    PMC8631459."
+  - Alexander RM. Energy-saving mechanisms in walking and running. J Exp Biol
+    1991;160:55–69.
+  - Venkadesan M, Yawar A, Eng CM, et al. Stiffness of the human foot and
+    evolution of the transverse arch. Nature 2020;579:97–100.
+  - Smith BS, Burton B, Johnson D, Kendrick S, Meyer E, Yuan W. Effects of
+    wearing athletic shoes, five-toed shoes, and standing barefoot on balance
+    performance in young adults. Int J Sports Phys Ther. 2015;10(1):69.
+  - "Francis P, Schofield GFrom barefoot hunter gathering to shod pavement
+    pounding. Where to from here? A narrative reviewBMJ Open Sport & Exercise
+    Medicine 2020;6:e000577. doi: 10.1136/bmjsem-2019-000577"
+  - "Richards CE, Magin PJ, Callister R. Is your prescription of distance
+    running shoes evidence-based? Br J Sports Med. 2009 Mar;43(3):159-62. doi:
+    10.1136/bjsm.2008.046680. Epub 2008 Apr 18. PMID: 18424485."
+  - "Napier C, Willy RWLogical fallacies in the running shoe debate: let the
+    evidence guide prescriptionBritish Journal of Sports Medicine
+    2018;52:1552-1553."
+  - "Daoud AI, Geissler GJ, Wang F, Saretsky J, Daoud YA, Lieberman DE. Foot
+    strike and injury rates in endurance runners: a retrospective study. Med Sci
+    Sports Exerc. 2012 Jul;44(7):1325-34. doi: 10.1249/MSS.0b013e3182465115.
+    PMID: 22217561."
+  - "Richard Stoneham, Gillian Barry, Lee Saxby, Lauryn Waters & Mick Wilkinson
+    (2021) Differences in stride length and lower limb moments of recreational
+    runners during over-ground running while barefoot, in minimalist and in
+    maximalist running shoes, Footwear Science, 13:2, 133-141, DOI:
+    10.1080/19424280.2021.1878285"
+  - "Oschman JL, Chevalier G, Brown R. The effects of grounding (earthing) on
+    inflammation, the immune response, wound healing, and prevention and
+    treatment of chronic inflammatory and autoimmune diseases. J Inflamm Res.
+    2015 Mar 24;8:83-96. doi: 10.2147/JIR.S69656. PMID: 25848315; PMCID:
+    PMC4378297."
+  - "Oschman JL, Chevalier G, Brown R. The effects of grounding (earthing) on
+    inflammation, the immune response, wound healing, and prevention and
+    treatment of chronic inflammatory and autoimmune diseases. J Inflamm Res.
+    2015 Mar 24;8:83-96. doi: 10.2147/JIR.S69656. PMID: 25848315; PMCID:
+    PMC4378297."
+  - “Diccionario de Cáncer Del NCI.” 2023. Instituto Nacional Del Cáncer.
+    Cancer.gov. ‌
+  - Lieberman, D., Venkadesan, M., Werbel, W. et al. Foot strike patterns and
+    collision forces in habitually barefoot versus shod runners. Nature 463,
+    531–535 (2010).
+
 ---
 
 Durante la mayor parte de mi vida nunca pensé demasiado en el calzado que llevaba.

@@ -1,16 +1,17 @@
 ---
-title: Olvida el bronceado: toma el sol para absorber vitamina D
+title: "Olvida el bronceado: toma el sol para absorber vitamina D"
 subtitle: (cómo hacerlo sin quemarte)
 url: https://pau.ninja/como-tomar-sol-absorber-vitamina-d
 slug: como-tomar-sol-absorber-vitamina-d
-categories: 
+categories: []
 image: persona-tomando-el-sol-en-la-playa.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/06/persona-tomando-el-sol-en-la-playa.jpeg
 publishedAt: 2022-06-22T07:12:09.000Z
 modifiedAt: 2023-09-21T06:15:45.000Z
-scrappedAt: 2024-11-04T11:43:32.892Z
+scrappedAt: 2024-11-05T04:30:35.278Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/55350914/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-26%2F278166816-44100-2-22580132829fb.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Confirmamos con estudios y evidencia como la recomendación oficial de los gobiernos de 600 IU de vitamina D **no son suficientes** (ni de lejos) para cubrir las necesidades fisiológicas que nuestro cuerpo serrano necesita. Necesitaríamos (al menos) diez veces más que esto.
@@ -60,7 +61,7 @@ Es interesante porque en este estudio se indicó que **el cáncer de piel no est
 
 Todos os acordáis del [truco que di para ponerse moreno rápido](./como-ponerse-moreno-rapidamente), en el que me echo unas gotas en el torso y me pongo moreno mucho más rápido.
 
-[![Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1VFSkpZbXgwVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQxMg=)](https://www.amazon.es/dpB08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
+[![Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1VFSkpZbXgwVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgzNA=)](https://www.amazon.es/dpB08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
 
 [Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](https://www.amazon.es/dp/B08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
 

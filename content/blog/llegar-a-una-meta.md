@@ -3,37 +3,82 @@ title: Organiza así tus objetivos para alcanzarlos
 subtitle: (según +20 estudios)
 url: https://pau.ninja/llegar-a-una-meta
 slug: llegar-a-una-meta
-categories: 
+categories: []
 image: persona-llega-a-sus-metas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/01/persona-llega-a-sus-metas.jpeg
 publishedAt: 2024-02-20T08:31:18.000Z
 modifiedAt: 2024-08-10T19:20:47.000Z
-scrappedAt: 2024-11-04T11:14:08.400Z
+scrappedAt: 2024-11-05T04:27:29.792Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85052835/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-6%2F373417062-44100-2-13d258f498b12.mp3
-bibliography: Sedaris, D. (2009, August 17). Laugh, Kookaburra. The New Yorker.
-Locke, E. A. (1968). Toward a theory of task motivation and incentives. Organizational Behavior and Human Performance, 3(2), 157-189.
-Orbell, S., & Sheeran, P. (1998). “Inclined abstainers”: A problem for predicting health-related behaviour. British Journal of Social Psychology, 37(2), 151–165.)
-Sheeran, Paschal and Sheina Orbell. “Implementation intentions and repeated behaviour: augmenting the predictive validity of the theory of planned behaviour.” European Journal of Social Psychology 29 (1999): 349-369.
-Smith RE, McConnell Rogers MD, McVay JC, Lopez JA, Loft S. Investigating how implementation intentions improve non-focal prospective memory tasks. Conscious Cogn. 2014 Jul;27:213-30. doi: 10.1016/j.concog.2014.05.003. Epub 2014 Jun 12. PMID: 24929276; PMCID: PMC4113409.
-Verplanken, Bas & Faes, Suzanne. (1970). Good Intentions, Bad Habits, and Effects of Forming Implementation Intentions on Healthy Eating. European Journal of Social Psychology. 29. 591-604. 10.1002/(SICI)1099-0992(199908/09)29:5/63.0.CO;2-H.
-Gollwitzer, Peter & Keller, Lucas. (2016). Mindset Theory. 10.1007/978-3-319-28099-8\_1141-1.
-American Psychological Association. «Frequently monitoring progress toward goals increases chance of success: Publicly reporting or recording progress has an even greater effect, study says.» ScienceDaily. ScienceDaily, 29 October 2015.
-Doran, G. T. (1981). There’s a S.M.A.R.T. way to write management’s goals and objectives. Management Review, Volume 70, Issue 11(AMA FORUM), pp. 35-36.
-Matthews, G. (2015). Goal research summary. Paper presented at the 9th Annual International Conference of the Psychology Research Unit of Athens Institute for Education and Research (ATINER), Athens, Greece.
-Matthews, Gail. 2007. “The Impact of Commitment, Accountability, and Written Goals on Goal Achievement,” January.
-Milne, S., Orbell, S. and Sheeran, P. British Journal of Health Psychology (2002)
-Gardner, Sarah and Albee, Dave, «Study focuses on strategies for achieving goals, resolutions» (2015). Press Releases. 266.
-Alvarez, J. A., & Emory, E. (2006). Executive function and the frontal lobes: a meta-analytic review. Neuropsychology Review, 16(1), 17-42.
-Kappes, Heather & Oettingen, Gabriele. (2011). Positive fantasies about idealized futures sap energy. Journal of Experimental Social Psychology. 47. 719-729. 10.1016/j.jesp.2011.02.003.
-Berkman, E. T., & Lieberman, M. D. (2009). Using neuroscience to broaden emotion regulation: Theoretical and methodological considerations. Social and Personality Psychology Compass, 3(4), 475-493.
-Berkman, E. T. (2018). The neuroscience of goals and behavior change. Consulting Psychology Journal: Practice and Research, 70(1), 28-44.
-Milne S, Orbell S, Sheeran P. Combining motivational and volitional interventions to promote exercise participation: protection motivation theory and implementation intentions. Br J Health Psychol. 2002 May;7(Pt 2):163-84. doi: 10.1348/135910702169420. PMID: 14596707.
-Iso-Ahola SE, Dotson CO. Psychological Momentum-A Key to Continued Success. Front Psychol. 2016 Aug 31;7:1328. doi: 10.3389/fpsyg.2016.01328. PMID: 27630603; PMCID: PMC5006010.
-VanSonnenberg, E. (2011, January 3). Ready, set, goals! Positive Psychology News.
-Ba, Sulin & Wang, Lei. (2013). Digital health communities: The effect of their motivation mechanisms. Decision Support Systems. 55. 941–947. 10.1016/j.dss.2013.01.003.
-Cohen Emma E. A., Ejsmond-Frey Robin, Knight Nicola and Dunbar R. I. M. 2010Rowers’ high: behavioural synchrony is correlated with elevated pain thresholdsBiol. Lett.6106–108.
-O’Keefe PA, Dweck CS, Walton GM. Implicit Theories of Interest: Finding Your Passion or Developing It? Psychol Sci. 2018 Oct;29(10):1653-1664. doi: 10.1177/0956797618780643. Epub 2018 Sep 6. PMID: 30188804; PMCID: PMC6180666.
-J.L. Fannin & R.M. Williams (2012), Leading-Edge Neuroscience Reveals Significant Correlations Between Beliefs, the Whole-Brain State, and Psychotherapy.
+bibliography:
+  - Sedaris, D. (2009, August 17). Laugh, Kookaburra. The New Yorker.
+  - Locke, E. A. (1968). Toward a theory of task motivation and incentives.
+    Organizational Behavior and Human Performance, 3(2), 157-189.
+  - "Orbell, S., & Sheeran, P. (1998). “Inclined abstainers”: A problem for
+    predicting health-related behaviour. British Journal of Social Psychology,
+    37(2), 151–165.)"
+  - "Sheeran, Paschal and Sheina Orbell. “Implementation intentions and repeated
+    behaviour: augmenting the predictive validity of the theory of planned
+    behaviour.” European Journal of Social Psychology 29 (1999): 349-369."
+  - "Smith RE, McConnell Rogers MD, McVay JC, Lopez JA, Loft S. Investigating
+    how implementation intentions improve non-focal prospective memory tasks.
+    Conscious Cogn. 2014 Jul;27:213-30. doi: 10.1016/j.concog.2014.05.003. Epub
+    2014 Jun 12. PMID: 24929276; PMCID: PMC4113409."
+  - Verplanken, Bas & Faes, Suzanne. (1970). Good Intentions, Bad Habits, and
+    Effects of Forming Implementation Intentions on Healthy Eating. European
+    Journal of Social Psychology. 29. 591-604.
+    10.1002/(SICI)1099-0992(199908/09)29:5/63.0.CO;2-H.
+  - Gollwitzer, Peter & Keller, Lucas. (2016). Mindset Theory.
+    10.1007/978-3-319-28099-8\_1141-1.
+  - "American Psychological Association. «Frequently monitoring progress toward
+    goals increases chance of success: Publicly reporting or recording progress
+    has an even greater effect, study says.» ScienceDaily. ScienceDaily, 29
+    October 2015."
+  - Doran, G. T. (1981). There’s a S.M.A.R.T. way to write management’s goals
+    and objectives. Management Review, Volume 70, Issue 11(AMA FORUM), pp.
+    35-36.
+  - Matthews, G. (2015). Goal research summary. Paper presented at the 9th
+    Annual International Conference of the Psychology Research Unit of Athens
+    Institute for Education and Research (ATINER), Athens, Greece.
+  - Matthews, Gail. 2007. “The Impact of Commitment, Accountability, and Written
+    Goals on Goal Achievement,” January.
+  - Milne, S., Orbell, S. and Sheeran, P. British Journal of Health Psychology
+    (2002)
+  - Gardner, Sarah and Albee, Dave, «Study focuses on strategies for achieving
+    goals, resolutions» (2015). Press Releases. 266.
+  - "Alvarez, J. A., & Emory, E. (2006). Executive function and the frontal
+    lobes: a meta-analytic review. Neuropsychology Review, 16(1), 17-42."
+  - Kappes, Heather & Oettingen, Gabriele. (2011). Positive fantasies about
+    idealized futures sap energy. Journal of Experimental Social Psychology. 47.
+    719-729. 10.1016/j.jesp.2011.02.003.
+  - "Berkman, E. T., & Lieberman, M. D. (2009). Using neuroscience to broaden
+    emotion regulation: Theoretical and methodological considerations. Social
+    and Personality Psychology Compass, 3(4), 475-493."
+  - "Berkman, E. T. (2018). The neuroscience of goals and behavior change.
+    Consulting Psychology Journal: Practice and Research, 70(1), 28-44."
+  - "Milne S, Orbell S, Sheeran P. Combining motivational and volitional
+    interventions to promote exercise participation: protection motivation
+    theory and implementation intentions. Br J Health Psychol. 2002 May;7(Pt
+    2):163-84. doi: 10.1348/135910702169420. PMID: 14596707."
+  - "Iso-Ahola SE, Dotson CO. Psychological Momentum-A Key to Continued Success.
+    Front Psychol. 2016 Aug 31;7:1328. doi: 10.3389/fpsyg.2016.01328. PMID:
+    27630603; PMCID: PMC5006010."
+  - VanSonnenberg, E. (2011, January 3). Ready, set, goals! Positive Psychology
+    News.
+  - "Ba, Sulin & Wang, Lei. (2013). Digital health communities: The effect of
+    their motivation mechanisms. Decision Support Systems. 55. 941–947.
+    10.1016/j.dss.2013.01.003."
+  - "Cohen Emma E. A., Ejsmond-Frey Robin, Knight Nicola and Dunbar R. I. M.
+    2010Rowers’ high: behavioural synchrony is correlated with elevated pain
+    thresholdsBiol. Lett.6106–108."
+  - "O’Keefe PA, Dweck CS, Walton GM. Implicit Theories of Interest: Finding
+    Your Passion or Developing It? Psychol Sci. 2018 Oct;29(10):1653-1664. doi:
+    10.1177/0956797618780643. Epub 2018 Sep 6. PMID: 30188804; PMCID:
+    PMC6180666."
+  - J.L. Fannin & R.M. Williams (2012), Leading-Edge Neuroscience Reveals
+    Significant Correlations Between Beliefs, the Whole-Brain State, and
+    Psychotherapy.
+
 ---
 
 La teoría del Establecimiento de metas (_goal setting theory_) nos enseña la explicación más simple de por qué algunas personas son más propensas a llegar a sus metas en comparación con otras.

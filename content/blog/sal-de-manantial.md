@@ -3,14 +3,15 @@ title: Deja de usar sal del Himalaya… (esta es mejor)
 subtitle: Te presento la \"sal de manantial\"
 url: https://pau.ninja/sal-de-manantial
 slug: sal-de-manantial
-categories: 
+categories: []
 image: poniendo-sal-en-comida.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/poniendo-sal-en-comida.jpeg
 publishedAt: 2023-01-16T09:52:31.000Z
 modifiedAt: 2024-10-28T14:30:53.000Z
-scrappedAt: 2024-11-04T11:41:28.828Z
+scrappedAt: 2024-11-05T04:29:31.251Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65711050/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-27%2F315134945-44100-2-90d3fd601a5ad.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 La sal ha sido otra de estas mentiras nutricionales que nos ha colado la industria alimentaria.
@@ -197,7 +198,7 @@ Pero precisamente por esto, no compraría este tipo de sal. Al ser copos enormes
 
 La sal Redmond es presuntamente de unos antiguos fondos marinos minerales en el Estado de Utah en Estados Unidos.
 
-[![Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUWMyeEpUV2RxYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MTc3OQ=)](https://www.amazon.es/dpB00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)")
+[![Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUWMyeEpUV2RxYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMDc5MQ=)](https://www.amazon.es/dpB00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)")
 
 [Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)](https://www.amazon.es/dp/B00944ORXY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Real Salt Sea Salt - Pouch, 26-Ounce (Pack of 2)")
 
@@ -213,7 +214,7 @@ Además si alguien está pensando en reducir la cantidad de sal que consumen por
 
 Y también tenemos la _fleur de sel_, seguramente la sal más famosa del mundo.
 
-[![Le Saunier De Camargue Flor de Sal de la Camargue - 125 g](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFcmQxUmhOek5FTjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MTc3OQ=)](https://www.amazon.es/dpB003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Le Saunier De Camargue Flor de Sal de la Camargue - 125 g")
+[![Le Saunier De Camargue Flor de Sal de la Camargue - 125 g](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFcmQxUmhOek5FTjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMDc5MQ=)](https://www.amazon.es/dpB003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Le Saunier De Camargue Flor de Sal de la Camargue - 125 g")
 
 [Le Saunier De Camargue Flor de Sal de la Camargue - 125 g](https://www.amazon.es/dp/B003CNZYGC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Le Saunier De Camargue Flor de Sal de la Camargue - 125 g")
 

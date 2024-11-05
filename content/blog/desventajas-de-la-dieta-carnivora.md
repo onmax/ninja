@@ -1,23 +1,40 @@
 ---
 title: ¿Es tóxica la dieta carnívora? Problemas de vitamina A, fibra, gota, hierro…
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/desventajas-de-la-dieta-carnivora
 slug: desventajas-de-la-dieta-carnivora
-categories: 
+categories: []
 image: persona-comiendo-carne-toxica.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/04/persona-comiendo-carne-toxica.jpeg
 publishedAt: 2023-04-06T14:02:16.000Z
 modifiedAt: 2023-09-10T20:39:59.000Z
-scrappedAt: 2024-11-04T11:40:19.413Z
+scrappedAt: 2024-11-05T04:29:09.433Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/69193872/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-24%2F325708293-44100-2-550ed1403aaac.mp3
-bibliography: Achilli, A., Perego, U. A., Bravi, C. M., Coble, M. D., Kong, Q.-P., Woodward, S. R., … Bandelt, H. J. (2008). The phylogeny of the four pan-American mtDNA haplogroups: Implications for evolutionary and disease studies. PLoS One, 3, e1764.
-The Grand Army and horsemeat Howard Fischer Uppsala, Sweden
-Lynch SR. The effect of calcium on iron absorption. Nutr Res Rev. 2000 Dec;13(2):141-58. doi: 10.1079/095442200108729043. PMID: 19087437.
-Committee on Diet, Nutrition, and Cancer, Assembly of Life Sciences, National Research Council. Diet, Nutrition and Cancer. National Academy Press, Washington D.C. 1982. Retrieved September 27, 2010,
-Aykan NF. Red Meat and Colorectal Cancer. Oncol Rev. 2015 Dec 28;9(1):288. doi: 10.4081/oncol.2015.288. PMID: 26779313; PMCID: PMC4698595.
-Sato, Yuki & Nakaya, Naoki & Kuriyama, Shinichi & Nishino, Yoshikazu & Tsubono, Yoshitaka & Tsuji, Ichiro. (2006). Meat consumption and risk of colorectal cancer in Japan: The Miyagi Cohort Study. European journal of cancer prevention : the official journal of the European Cancer Prevention Organisation (ECP). 15. 211-8.
-Deldicque L, Theisen D, Francaux M. Regulation of mTOR by amino acids and resistance exercise in skeletal muscle. Eur J Appl Physiol. 2005 May;94(1-2):1-10.
-Christopher Rivard, Jeffrey Thomas, Miguel A. Lanaspa, Richard J. Johnson, Sack and sugar, and the aetiology of gout in England between 1650 and 1900, Rheumatology, Volume 52, Issue 3, March 2013, Pages 421–426
+bibliography:
+  - "Achilli, A., Perego, U. A., Bravi, C. M., Coble, M. D., Kong, Q.-P.,
+    Woodward, S. R., … Bandelt, H. J. (2008). The phylogeny of the four
+    pan-American mtDNA haplogroups: Implications for evolutionary and disease
+    studies. PLoS One, 3, e1764."
+  - The Grand Army and horsemeat Howard Fischer Uppsala, Sweden
+  - "Lynch SR. The effect of calcium on iron absorption. Nutr Res Rev. 2000
+    Dec;13(2):141-58. doi: 10.1079/095442200108729043. PMID: 19087437."
+  - Committee on Diet, Nutrition, and Cancer, Assembly of Life Sciences,
+    National Research Council. Diet, Nutrition and Cancer. National Academy
+    Press, Washington D.C. 1982. Retrieved September 27, 2010,
+  - "Aykan NF. Red Meat and Colorectal Cancer. Oncol Rev. 2015 Dec 28;9(1):288.
+    doi: 10.4081/oncol.2015.288. PMID: 26779313; PMCID: PMC4698595."
+  - "Sato, Yuki & Nakaya, Naoki & Kuriyama, Shinichi & Nishino, Yoshikazu &
+    Tsubono, Yoshitaka & Tsuji, Ichiro. (2006). Meat consumption and risk of
+    colorectal cancer in Japan: The Miyagi Cohort Study. European journal of
+    cancer prevention : the official journal of the European Cancer Prevention
+    Organisation (ECP). 15. 211-8."
+  - Deldicque L, Theisen D, Francaux M. Regulation of mTOR by amino acids and
+    resistance exercise in skeletal muscle. Eur J Appl Physiol. 2005
+    May;94(1-2):1-10.
+  - Christopher Rivard, Jeffrey Thomas, Miguel A. Lanaspa, Richard J. Johnson,
+    Sack and sugar, and the aetiology of gout in England between 1650 and 1900,
+    Rheumatology, Volume 52, Issue 3, March 2013, Pages 421–426
+
 ---
 
 Como este mes se cumplen 2 años que [empecé la dieta carnívora](./dieta-carnivora) (de sólo carne, sin verduras) he pensado que sería el momento perfecto para desmentir y responder las críticas más comunes que recibo cuando le digo a alguien que mi dieta se base carne.

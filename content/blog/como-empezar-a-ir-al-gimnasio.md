@@ -3,23 +3,44 @@ title: El arte de empezar el gimnasio…
 subtitle: para no dejarlo (nunca)
 url: https://pau.ninja/como-empezar-a-ir-al-gimnasio
 slug: como-empezar-a-ir-al-gimnasio
-categories: 
+categories: []
 image: persona-empieza-a-ir-al-gimnasio.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/12/persona-empieza-a-ir-al-gimnasio.jpeg
 publishedAt: 2023-12-14T08:40:01.000Z
 modifiedAt: 2024-04-28T11:26:17.000Z
-scrappedAt: 2024-11-04T11:15:40.725Z
+scrappedAt: 2024-11-05T04:28:01.773Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/80462190/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-26%2F361243187-44100-2-067aef6cbc33.mp3
-bibliography: Bovend’Eerdt TJ, Botell RE, Wade DT. Writing SMART rehabilitation goals and achieving goal attainment scaling: a practical guide. Clin Rehabil. 2009 Apr;23(4):352-61. doi: 10.1177/0269215508101741. Epub 2009 Feb 23. Erratum in: Clin Rehabil. 2010 Apr;24(4):382. PMID: 19237435.
-Gardner, Sarah, and Dave Albee. 2015. Study Focuses on Strategies for Achieving Goals, Resolutions Recommended Citation.
-Wenger HA, Bell GJ. The interactions of intensity, frequency and duration of exercise training in altering cardiorespiratory fitness. Sports Med. 1986 Sep-Oct;3(5):346-56. doi: 10.2165/00007256-198603050-00004. PMID: 3529283.
-Hayes LD, Bickerstaff GF, Baker JS. Interactions of cortisol, testosterone, and resistance training: influence of circadian rhythms. Chronobiol Int. 2010 Jun;27(4):675-705. doi: 10.3109/07420521003778773. PMID: 20560706.
-Chtourou H, Souissi N. The effect of training at a specific time of day: a review. J Strength Cond Res. 2012 Jul;26(7):1984-2005. doi: 10.1519/JSC.0b013e31825770a7. PMID: 22531613.
-Fairbrother K, Cartner B, Alley JR, Curry CD, Dickinson DL, Morris DM, Collier SR. Effects of exercise timing on sleep architecture and nocturnal blood pressure in prehypertensives. Vasc Health Risk Manag. 2014 Dec 12;10:691-8. doi: 10.2147/VHRM.S73688. PMID: 25540588; PMCID: PMC4270305.
-Bootzin RR, Epstein DR. Understanding and treating insomnia. Annu Rev Clin Psychol. 2011;7:435-58. doi: 10.1146/annurev.clinpsy.3.022806.091516. PMID: 17716026.
-Adam, H., & Galinsky, A. D. (2012). Enclothed cognition. Journal of Experimental Social Psychology, 48(4), 918–925.
-Mageau GA, Vallerand RJ. The coach-athlete relationship: a motivational model. J Sports Sci. 2003 Nov;21(11):883-904. doi: 10.1080/0264041031000140374. PMID: 14626368.
-Koetsier, John. 2023. “Digital Crack Cocaine: The Science behind TikTok’s Success.” Forbes, October 5.
+bibliography:
+  - "Bovend’Eerdt TJ, Botell RE, Wade DT. Writing SMART rehabilitation goals and
+    achieving goal attainment scaling: a practical guide. Clin Rehabil. 2009
+    Apr;23(4):352-61. doi: 10.1177/0269215508101741. Epub 2009 Feb 23. Erratum
+    in: Clin Rehabil. 2010 Apr;24(4):382. PMID: 19237435."
+  - Gardner, Sarah, and Dave Albee. 2015. Study Focuses on Strategies for
+    Achieving Goals, Resolutions Recommended Citation.
+  - "Wenger HA, Bell GJ. The interactions of intensity, frequency and duration
+    of exercise training in altering cardiorespiratory fitness. Sports Med. 1986
+    Sep-Oct;3(5):346-56. doi: 10.2165/00007256-198603050-00004. PMID: 3529283."
+  - "Hayes LD, Bickerstaff GF, Baker JS. Interactions of cortisol, testosterone,
+    and resistance training: influence of circadian rhythms. Chronobiol Int.
+    2010 Jun;27(4):675-705. doi: 10.3109/07420521003778773. PMID: 20560706."
+  - "Chtourou H, Souissi N. The effect of training at a specific time of day: a
+    review. J Strength Cond Res. 2012 Jul;26(7):1984-2005. doi:
+    10.1519/JSC.0b013e31825770a7. PMID: 22531613."
+  - "Fairbrother K, Cartner B, Alley JR, Curry CD, Dickinson DL, Morris DM,
+    Collier SR. Effects of exercise timing on sleep architecture and nocturnal
+    blood pressure in prehypertensives. Vasc Health Risk Manag. 2014 Dec
+    12;10:691-8. doi: 10.2147/VHRM.S73688. PMID: 25540588; PMCID: PMC4270305."
+  - "Bootzin RR, Epstein DR. Understanding and treating insomnia. Annu Rev Clin
+    Psychol. 2011;7:435-58. doi: 10.1146/annurev.clinpsy.3.022806.091516. PMID:
+    17716026."
+  - Adam, H., & Galinsky, A. D. (2012). Enclothed cognition. Journal of
+    Experimental Social Psychology, 48(4), 918–925.
+  - "Mageau GA, Vallerand RJ. The coach-athlete relationship: a motivational
+    model. J Sports Sci. 2003 Nov;21(11):883-904. doi:
+    10.1080/0264041031000140374. PMID: 14626368."
+  - "Koetsier, John. 2023. “Digital Crack Cocaine: The Science behind TikTok’s
+    Success.” Forbes, October 5."
+
 ---
 
 El episodio de hoy es especial, porque va sobre un propósito de año nuevo que cambió mi vida para siempre.

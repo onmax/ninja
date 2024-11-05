@@ -1,16 +1,17 @@
 ---
 title: La manipulación de tu pensamiento racional
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/pensamiento-racional
 slug: pensamiento-racional
-categories: 
+categories: []
 image: persona-pensando-racionalmente.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/persona-pensando-racionalmente.jpeg
 publishedAt: 2023-05-08T13:48:05.000Z
 modifiedAt: 2023-08-13T08:14:44.000Z
-scrappedAt: 2024-11-04T11:39:59.490Z
+scrappedAt: 2024-11-05T04:29:03.051Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/70595216/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-4-18%2F330217663-44100-2-bc074d7792f78.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 En occidente estamos viviendo una crisis.

@@ -1,16 +1,17 @@
 ---
-title: Adiós al protector solar: las falacias del cáncer de piel
+title: "Adiós al protector solar: las falacias del cáncer de piel"
 subtitle: Cómo (y por qué) tomar el sol sin cremas
 url: https://pau.ninja/tomar-el-sol-sin-crema
 slug: tomar-el-sol-sin-crema
-categories: 
+categories: []
 image: asustado-de-crema-solar.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/06/asustado-de-crema-solar.jpeg
 publishedAt: 2022-06-13T06:28:29.000Z
 modifiedAt: 2023-09-01T04:25:08.000Z
-scrappedAt: 2024-11-04T11:43:37.783Z
+scrappedAt: 2024-11-05T04:30:38.541Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/53788698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-21%2F769ce87b-afce-ec79-59a0-cb8648882df9.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Cada vez que salgo sin crema solar de casa mis padres durante el verano, mi madre se pone las manos a la cabeza. Llevo años sin usar protector y no tengo ninguna intención de empezar a usarlo.
@@ -106,7 +107,7 @@ Los UVA activan receptores de melanina que te protegen del daño del ADN para po
 
 Usar protector solar es malo porque **bloqueamos la vitamina D** ([ver](https://pubmed.ncbi.nlm.nih.gov/28718005/)). Estamos **evitando** que nuestro cuerpo obtenga los nutrientes que necesita para aclamar esos rayos UVB que nos dan vitamina D. Es el [truco para ponerse moreno rápidamente](./como-ponerse-moreno-rapidamente) que os comentaba (#359).
 
-[![Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1VFSkpZbXgwVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQxNg=)](https://www.amazon.es/dpB08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
+[![Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1VFSkpZbXgwVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgzNw=)](https://www.amazon.es/dpB08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
 
 [Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](https://www.amazon.es/dp/B08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
 

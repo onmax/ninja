@@ -1,16 +1,17 @@
 ---
-title: Apnea del sueño: roncar te está matando (soluciónalo)
-subtitle: 
+title: "Apnea del sueño: roncar te está matando (soluciónalo)"
+subtitle: ""
 url: https://pau.ninja/solucion-a-la-apnea-del-sueno
 slug: solucion-a-la-apnea-del-sueno
-categories: 
+categories: []
 image: persona-roncando-con-boca-abierta.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/persona-roncando-con-boca-abierta.jpeg
 publishedAt: 2023-03-13T05:42:51.000Z
 modifiedAt: 2023-04-02T17:24:27.000Z
-scrappedAt: 2024-11-04T11:40:50.238Z
+scrappedAt: 2024-11-05T04:29:21.080Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/67183159/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-23%2F319905920-44100-2-a44c7f0d534ce.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 ¿Roncas un poquito por la noche? ¿Te levantas cansado por la mañana? ¿Tienes ganas de dormir en el momento que subes en el transporte público o al detenerte en un semáforo cuando conduces?
@@ -308,7 +309,7 @@ En este caso en vez de olivas nasales se usará una mascarilla entera que ocupa 
 
 Algo que no cura la apnea del sueño pero que puede ayudar a que no sea tan severa son almohadas para este cometido.
 
-[![CPAP Almohada de espuma viscoelástica para dormir de lado, almohada ortopédica de apoyo para el...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFNU5UTmhlVmRMVDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjkyMA=)](https://www.amazon.es/dpB0B5ZK1VL4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CPAP Almohada de espuma viscoelástica para dormir de lado, almohada ortopédica de apoyo para el...")
+[![CPAP Almohada de espuma viscoelástica para dormir de lado, almohada ortopédica de apoyo para el...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFNU5UTmhlVmRMVDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNzE4NA=)](https://www.amazon.es/dpB0B5ZK1VL4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CPAP Almohada de espuma viscoelástica para dormir de lado, almohada ortopédica de apoyo para el...")
 
 [CPAP Almohada de espuma viscoelástica para dormir de lado, almohada ortopédica de apoyo para el...](https://www.amazon.es/dp/B0B5ZK1VL4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CPAP Almohada de espuma viscoelástica para dormir de lado, almohada ortopédica de apoyo para el...")
 

@@ -1,16 +1,16 @@
 ---
-title: Brazos de Hércules: la secreta rutina para unas porras de semidiós
+title: "Brazos de Hércules: la secreta rutina para unas porras de semidiós"
 subtitle: (mejores ejercicios de brazos para gym)
 url: https://pau.ninja/rutina-brazos-gym
 slug: rutina-brazos-gym
-categories: 
+categories: []
 image: brazo-fuerte-en-la-playa.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/brazo-fuerte-en-la-playa.jpeg
 publishedAt: 2023-03-22T13:52:10.000Z
 modifiedAt: 2023-03-24T05:38:38.000Z
-scrappedAt: 2024-11-04T11:40:44.344Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:29:16.578Z
+bibliography: []
+
 ---
 
 Todo hombre desearía que sus mejores músculos fueran los brazos. Desgraciadamente para mí soy la envidia de toda mujer porque los brazos son mi peor músculo y en cambio los glúteos me crecen sólo con sentarme a la silla para crearos este contenido.

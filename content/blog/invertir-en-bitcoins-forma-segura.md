@@ -3,14 +3,15 @@ title: Mama, así hay que comprar Bitcoin
 subtitle: Cómo invertir en Bitcoins de forma segura
 url: https://pau.ninja/invertir-en-bitcoins-forma-segura
 slug: invertir-en-bitcoins-forma-segura
-categories: 
+categories: []
 image: persona-con-bitcoin.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/persona-con-bitcoin.jpeg
 publishedAt: 2021-01-19T12:17:20.000Z
 modifiedAt: 2024-02-11T06:34:36.000Z
-scrappedAt: 2024-11-04T11:56:06.293Z
+scrappedAt: 2024-11-05T04:32:47.690Z
 audioLink: https://www.ivoox.com/mama-asi-hay-comprar-bitcoin_md_65854394_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Sigue habiendo miedos de comprar Bitcoin porque algunas plataformas que **sí** son esquemas ponzi, han utilizado a bitcoin como caballo de Troya. ¿Quien se ha llevado la mala fama? Bitcoin.
@@ -41,7 +42,7 @@ Pero sea cual sea el perfil y el motivo para meterse, todos lo único que querem
 
 Por esto recomiendo mi explicación de [bitcoin para tontos](./que-es-bitcoin-para-tontos) donde cuento la idea desde un punto de vista básico.
 
-[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVRHbFhkRzlQWWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDE2NA=)](https://www.amazon.es/dpB07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
+[![El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVRHbFhkRzlQWWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzk2NA=)](https://www.amazon.es/dpB07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 
 [El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)](https://www.amazon.es/dp/B07G4S4S4H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El patrón Bitcoin: La alternativa descentralizada a los bancos centrales (Deusto)")
 

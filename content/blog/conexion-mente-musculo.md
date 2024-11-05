@@ -1,16 +1,17 @@
 ---
-title: Mente-músculo: la conexión que no tuviste con tu ex
+title: "Mente-músculo: la conexión que no tuviste con tu ex"
 subtitle: (qué es, cómo conseguirla y cómo mejorarla)
 url: https://pau.ninja/conexion-mente-musculo
 slug: conexion-mente-musculo
-categories: 
+categories: []
 image: sintiendo-conexion-mente-musculo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/sintiendo-conexion-mente-musculo.jpeg
 publishedAt: 2022-10-25T10:14:24.000Z
 modifiedAt: 2024-01-13T06:39:14.000Z
-scrappedAt: 2024-11-04T11:42:25.331Z
+scrappedAt: 2024-11-05T04:29:58.155Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59918177/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294398909-44100-2-5f601b8e9d72b.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hace unos meses mi madre me pidió que le enseñara algunos ejercicios con unas pequeñas mancuernas de 2kg que se había comprado en el Decathlon.

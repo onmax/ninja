@@ -1,16 +1,17 @@
 ---
-title: 3 años en Estonia: ¿es el mejor país del mundo para vivir?
+title: "3 años en Estonia: ¿es el mejor país del mundo para vivir?"
 subtitle: (no todo son los impuestos)
 url: https://pau.ninja/vivir-en-estonia
 slug: vivir-en-estonia
-categories: 
+categories: []
 image: persona-viviendo-en-estonia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/02/persona-viviendo-en-estonia.jpeg
 publishedAt: 2023-02-08T08:54:48.000Z
 modifiedAt: 2023-11-08T07:36:36.000Z
-scrappedAt: 2024-11-04T11:41:09.594Z
+scrappedAt: 2024-11-05T04:29:24.303Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64994427/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312658517-44100-2-22a179e3ec3b3.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 ¿Alguna vez os ha pasado que sales con alguien y no te das cuenta de que te has enamorado hasta que ha pasado bastante tiempo? Te viene de golpe. Te levantas un día diciéndote «h0stia. Estoy enamorado», pues es lo que me ha pasado últimamente con… **Estonia**.

@@ -3,35 +3,73 @@ title: Escribe (a mano) para pensar como un estoico
 subtitle: +20 estudios
 url: https://pau.ninja/beneficios-de-escribir-a-mano-para-el-cerebro
 slug: beneficios-de-escribir-a-mano-para-el-cerebro
-categories: 
+categories: []
 image: persona-escribiendo-a-mano.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/01/persona-escribiendo-a-mano.jpeg
 publishedAt: 2024-01-17T06:47:52.000Z
 modifiedAt: 2024-05-21T19:45:41.000Z
-scrappedAt: 2024-11-04T11:15:00.863Z
+scrappedAt: 2024-11-05T04:27:45.455Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/82081919/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-1%2F365808592-44100-2-191fea75df4c4.mp3
-bibliography: Lane D, et al. (2017). Chess knowledge predicts chess memory even after controlling for chess experience: Evidence for the role of high-level processes.
-Fadul H. (2015). Vol. 1. Chess therapy. The SAGE encyclopedia of theory in counseling and psychotherapy. SAGE Publications, Inc.
-Joseph E, et al. (2017). A study on the impact of chess training on creativity of Indian school children.
-Katahira K, et al. (2018). EEG correlates of the flow state: A combination of increased frontal theta and moderate frontocentral alpha rhythm in the mental arithmetic task.
-Fuentes-García J, et al. (2019). Differences between high vs. low performance chess players in heart rate variability during chess problems.
-“Where Did Writing Come From?” 2021. Getty.edu.
-Mangen, Anne & Anda, Liss & Oxborough, Gunn & Brønnick, Kolbjørn. (2015). Handwriting versus Keyboard Writing: Effect on Word Recall. Journal of Writing Research. 7. 227-247. 10.17239/jowr-2015.07.02.1.
-Deutsch, Morton, and Harold B. Gerard. 1955. A study of normative and informational social influences upon individual judgment. The Journal of Abnormal and Social Psychology. Vol 51(3), 629–636.
-University of Tokyo. «Study shows stronger brain activity after writing on paper than on tablet or smartphone: Unique, complex information in analog methods likely gives brain more details to trigger memory.» ScienceDaily. ScienceDaily, 19 March 2021.
-The University of Stavanger. «Better learning through handwriting.» ScienceDaily. ScienceDaily, 24 January 2011.
-Shadmehr, Reza and Holcomb, Henry H. 1997. “Neural Correlates of Memory Motor Consolidation.” Science 277
-Mueller PA, Oppenheimer DM. The pen is mightier than the keyboard: advantages of longhand over laptop note taking. Psychol Sci. 2014 Jun;25(6):1159-68. doi: 10.1177/0956797614524581. Epub 2014 Apr 23. Erratum in: Psychol Sci. 2018 Sep;29(9):1565-1568. PMID: 24760141.
-Desselle SP, Shane PA. Laptop Versus Longhand Note Taking in a Professional Doctorate Course: Student Performance, Attitudes, and Behaviors. Innov Pharm. 2018 Nov 5;9(3):1-12. doi: 10.24926/iip.v9i3.1392. PMID: 34007708; PMCID: PMC6302751.
-van der Meer ALH, van der Weel FRR. Only Three Fingers Write, but the Whole Brain Works: A High-Density EEG Study Showing Advantages of Drawing Over Typing for Learning. Front Psychol. 2017 May 9;8:706. doi: 10.3389/fpsyg.2017.00706. PMID: 28536546; PMCID: PMC5422512.
-Andrade, Jackie. (2010). What Does Doodling do?. Applied Cognitive Psychology. 24. 100 – 106. 10.1002/acp.1561.
-Noyes, Jan & Garland, Kate. (2008). Computer- vs. paper-based tasks: Are they equivalent?. Ergonomics. 51. 1352-75. 10.1080/00140130802170387.
-Anthony, Lisa & Koedinger, Kenneth. (2007). Benefits of Handwritten Input for Students Learning Algebra Equation Solving.. 521-523.
-Aguilar-Roca, N. M., Williams, A. E., & O’Dowd, D. K. (2012). The impact of laptop- free zones on student performance and attitudes in large lectures. Computers & Education, 59(4), 1300–1308. doi:10.1016/j.compedu.2012.05.002
-Bui, D. C., Myerson, J., & Hale, S. (2013). Note-taking with computers: Exploring alternative strategies for improved recall. Journal of Educational Psychology, 105, 299-309. doi: 10.1037/a0030367
-Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders classroom learning for both users and nearby peers. Computers & Education, 62, 24–31. doi:10.1016/j.compedu.2012.10.003
-Fried, C. B. (2008). In-class laptop use and its effects on student learning. Computers and Education, 50, 906–914.
-Cameron, Julia. 2024. “Morning Pages: Why by Hand? | Julia Cameron Live.” Juliacameronlive.com
+bibliography:
+  - "Lane D, et al. (2017). Chess knowledge predicts chess memory even after
+    controlling for chess experience: Evidence for the role of high-level
+    processes."
+  - Fadul H. (2015). Vol. 1. Chess therapy. The SAGE encyclopedia of theory in
+    counseling and psychotherapy. SAGE Publications, Inc.
+  - Joseph E, et al. (2017). A study on the impact of chess training on
+    creativity of Indian school children.
+  - "Katahira K, et al. (2018). EEG correlates of the flow state: A combination
+    of increased frontal theta and moderate frontocentral alpha rhythm in the
+    mental arithmetic task."
+  - Fuentes-García J, et al. (2019). Differences between high vs. low
+    performance chess players in heart rate variability during chess problems.
+  - “Where Did Writing Come From?” 2021. Getty.edu.
+  - "Mangen, Anne & Anda, Liss & Oxborough, Gunn & Brønnick, Kolbjørn. (2015).
+    Handwriting versus Keyboard Writing: Effect on Word Recall. Journal of
+    Writing Research. 7. 227-247. 10.17239/jowr-2015.07.02.1."
+  - Deutsch, Morton, and Harold B. Gerard. 1955. A study of normative and
+    informational social influences upon individual judgment. The Journal of
+    Abnormal and Social Psychology. Vol 51(3), 629–636.
+  - "University of Tokyo. «Study shows stronger brain activity after writing on
+    paper than on tablet or smartphone: Unique, complex information in analog
+    methods likely gives brain more details to trigger memory.» ScienceDaily.
+    ScienceDaily, 19 March 2021."
+  - The University of Stavanger. «Better learning through handwriting.»
+    ScienceDaily. ScienceDaily, 24 January 2011.
+  - Shadmehr, Reza and Holcomb, Henry H. 1997. “Neural Correlates of Memory
+    Motor Consolidation.” Science 277
+  - "Mueller PA, Oppenheimer DM. The pen is mightier than the keyboard:
+    advantages of longhand over laptop note taking. Psychol Sci. 2014
+    Jun;25(6):1159-68. doi: 10.1177/0956797614524581. Epub 2014 Apr 23. Erratum
+    in: Psychol Sci. 2018 Sep;29(9):1565-1568. PMID: 24760141."
+  - "Desselle SP, Shane PA. Laptop Versus Longhand Note Taking in a Professional
+    Doctorate Course: Student Performance, Attitudes, and Behaviors. Innov
+    Pharm. 2018 Nov 5;9(3):1-12. doi: 10.24926/iip.v9i3.1392. PMID: 34007708;
+    PMCID: PMC6302751."
+  - "van der Meer ALH, van der Weel FRR. Only Three Fingers Write, but the Whole
+    Brain Works: A High-Density EEG Study Showing Advantages of Drawing Over
+    Typing for Learning. Front Psychol. 2017 May 9;8:706. doi:
+    10.3389/fpsyg.2017.00706. PMID: 28536546; PMCID: PMC5422512."
+  - Andrade, Jackie. (2010). What Does Doodling do?. Applied Cognitive
+    Psychology. 24. 100 – 106. 10.1002/acp.1561.
+  - "Noyes, Jan & Garland, Kate. (2008). Computer- vs. paper-based tasks: Are
+    they equivalent?. Ergonomics. 51. 1352-75. 10.1080/00140130802170387."
+  - Anthony, Lisa & Koedinger, Kenneth. (2007). Benefits of Handwritten Input
+    for Students Learning Algebra Equation Solving.. 521-523.
+  - Aguilar-Roca, N. M., Williams, A. E., & O’Dowd, D. K. (2012). The impact of
+    laptop- free zones on student performance and attitudes in large lectures.
+    Computers & Education, 59(4), 1300–1308. doi:10.1016/j.compedu.2012.05.002
+  - "Bui, D. C., Myerson, J., & Hale, S. (2013). Note-taking with computers:
+    Exploring alternative strategies for improved recall. Journal of Educational
+    Psychology, 105, 299-309. doi: 10.1037/a0030367"
+  - Sana, F., Weston, T., & Cepeda, N. J. (2013). Laptop multitasking hinders
+    classroom learning for both users and nearby peers. Computers & Education,
+    62, 24–31. doi:10.1016/j.compedu.2012.10.003
+  - Fried, C. B. (2008). In-class laptop use and its effects on student
+    learning. Computers and Education, 50, 906–914.
+  - "Cameron, Julia. 2024. “Morning Pages: Why by Hand? | Julia Cameron Live.”
+    Juliacameronlive.com"
+
 ---
 
 ¿Y si os digo que escribir a mano es un de las formas más infravaloradas de crecimiento personal?

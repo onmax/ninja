@@ -3,14 +3,15 @@ title: Mis trucos para Tinder
 subtitle: Opiniones + consejos para conversaciones y matches
 url: https://pau.ninja/trucos-tinder
 slug: trucos-tinder
-categories: 
+categories: []
 image: hombre-usando-tinder.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/11/hombre-usando-tinder.jpeg
 publishedAt: 2021-09-28T06:20:39.000Z
 modifiedAt: 2023-08-13T08:23:58.000Z
-scrappedAt: 2024-11-04T11:54:46.698Z
+scrappedAt: 2024-11-05T04:32:15.316Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171881/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284127-44100-2-45b5e130e2d3c27f.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 ¿Trucos Tinder que había usado y que mis amigos dicen que les siguen funcionado? Aquí están.

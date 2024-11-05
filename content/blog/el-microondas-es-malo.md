@@ -1,16 +1,17 @@
 ---
-title: Adiós microondas: el ataque de las radiaciones EMF
+title: "Adiós microondas: el ataque de las radiaciones EMF"
 subtitle: Por qué es malo y perjudicial para la salud
 url: https://pau.ninja/el-microondas-es-malo
 slug: el-microondas-es-malo
-categories: 
+categories: []
 image: sujetando-microondas-llorando.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/11/sujetando-microondas-llorando.jpeg
 publishedAt: 2021-11-11T08:50:56.000Z
 modifiedAt: 2023-04-26T16:48:58.000Z
-scrappedAt: 2024-11-04T11:49:23.340Z
+scrappedAt: 2024-11-05T04:31:35.406Z
 audioLink: https://www.ivoox.com/adios-microondas-ataque-radiaciones-emf_md_78275949_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Deja de usar tu maldito microondas.
@@ -141,7 +142,7 @@ Y vais a flipar porque incluso cuando no tenemos encendido el microondas, hay un
 
 Si os compráis un detector y lo pasáis por distintas áreas del microondas cuando está apagado, veréis que os da señales de «niveles moderados» de EMF.
 
-[![Medidor de EMF, Tadeto Detector de Radiación de Campos Electromagnéticos, Digital Medidor de EMF...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFd1MxRnRNa2xGYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5Mzc2Mg=)](https://www.amazon.es/dpB09CQ1WDF8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Medidor de EMF, Tadeto Detector de Radiación de Campos Electromagnéticos, Digital Medidor de EMF...")
+[![Medidor de EMF, Tadeto Detector de Radiación de Campos Electromagnéticos, Digital Medidor de EMF...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFd1MxRnRNa2xGYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk0MDQ5OA=)](https://www.amazon.es/dpB09CQ1WDF8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Medidor de EMF, Tadeto Detector de Radiación de Campos Electromagnéticos, Digital Medidor de EMF...")
 
 [Medidor de EMF, Tadeto Detector de Radiación de Campos Electromagnéticos, Digital Medidor de EMF...](https://www.amazon.es/dp/B09CQ1WDF8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Medidor de EMF, Tadeto Detector de Radiación de Campos Electromagnéticos, Digital Medidor de EMF...")
 

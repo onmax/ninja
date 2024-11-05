@@ -1,16 +1,17 @@
 ---
-title: Pornografía: el ataque a tu masculinidad
+title: "Pornografía: el ataque a tu masculinidad"
 subtitle: Opinión de por qué no ver porno
 url: https://pau.ninja/opinion-sobre-la-pornografia
 slug: opinion-sobre-la-pornografia
-categories: 
+categories: []
 image: hombre-volviendose-loco.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/11/hombre-volviendose-loco.jpeg
 publishedAt: 2022-06-30T07:29:52.000Z
 modifiedAt: 2023-09-21T06:14:22.000Z
-scrappedAt: 2024-11-04T11:43:25.531Z
+scrappedAt: 2024-11-05T04:30:29.724Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/55378029/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-27%2F278257953-44100-2-5062ed0b902e5.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Nada malo en ver pornografía, ¿no? al fin y al cabo es lo más normal del mundo… la mayoría de mi audiencia sois hombres y por [estadística](https://es.statista.com/estadisticas/856366/paises-segun-el-porcentaje-de-visitantes-de-pornhub-por-genero/) somos los que miramos más porno, o sea que decir que el porno es malo sería tirarme piedras en mi propio tejado…
@@ -29,7 +30,7 @@ No es que me sintiera mal a nivel «moral». A mí eso me daba igual, era una es
 
 Pasé a verlo más o menos una vez a la semana, y más tarde vi una [charla](https://www.youtube.com/watch?v=wSF82AwSDiU) TED de Gary Wilson, que moría hace cosa de 1 año después de cambiar la vida a muchos hombres con esa charla y con su libro de Your Brain On Porn.
 
-[![Your Brain on Porn: Internet Pornography and the Emerging Science of Addiction](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT2NETlRXRWRSWVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjA0MQ=)](https://www.amazon.es/dp099316160X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Your Brain on Porn: Internet Pornography and the Emerging Science of Addiction")
+[![Your Brain on Porn: Internet Pornography and the Emerging Science of Addiction](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT2NETlRXRWRSWVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgyOQ=)](https://www.amazon.es/dp099316160X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Your Brain on Porn: Internet Pornography and the Emerging Science of Addiction")
 
 [Your Brain on Porn: Internet Pornography and the Emerging Science of Addiction](https://www.amazon.es/dp/099316160X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Your Brain on Porn: Internet Pornography and the Emerging Science of Addiction")
 

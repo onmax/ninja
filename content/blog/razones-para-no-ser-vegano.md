@@ -1,16 +1,17 @@
 ---
-title: De vegano a carnívoro: salud, animales y medio ambiente
+title: "De vegano a carnívoro: salud, animales y medio ambiente"
 subtitle: (razones para no ser vegano)
 url: https://pau.ninja/razones-para-no-ser-vegano
 slug: razones-para-no-ser-vegano
-categories: 
+categories: []
 image: medio-vegano-medio-carnivoro.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/medio-vegano-medio-carnivoro.jpeg
 publishedAt: 2021-10-05T07:25:53.000Z
 modifiedAt: 2024-02-06T10:57:39.000Z
-scrappedAt: 2024-11-04T11:52:11.001Z
+scrappedAt: 2024-11-05T04:32:04.746Z
 audioLink: https://www.ivoox.com/de-vegano-a-carnivoro-salud-animales-medio_md_70322533_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Estos últimos 6 años he estado probando todo tipo de dietas: vegana, vegetariana y pescetariana hasta llegar al otro extremo del veganismo: la carnívora.

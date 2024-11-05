@@ -3,14 +3,15 @@ title: Las 4 súper vitaminas (sólo en productos animales)
 subtitle: Lista de las vitaminas más importantes
 url: https://pau.ninja/las-vitaminas-mas-importantes
 slug: las-vitaminas-mas-importantes
-categories: 
+categories: []
 image: persona-musculosa-saludable.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/persona-musculosa-saludable.jpeg
 publishedAt: 2021-10-14T08:10:07.000Z
 modifiedAt: 2023-04-26T16:52:43.000Z
-scrappedAt: 2024-11-04T11:49:44.876Z
+scrappedAt: 2024-11-05T04:31:46.224Z
 audioLink: https://www.ivoox.com/4-super-vitaminas-solo-productos-animales_md_77670290_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Si eres un ser humano tu cuerpo te pide 13 vitaminas. Si eres un _trolls_ (como algunos de los comentarios) ya no sé cuantas necesitas.
@@ -79,7 +80,7 @@ La vitamina K2 es **la más difícil de obtener**, de lejos.
 
 Se tiene que obtener de una fuente natural rica en K2 para que esté biodisponible. La carne de baja calidad (ganadería industrial) sí, tendrá vitamina A, pero no vitamina K2.
 
-[![Thorne Research - Vitamin D/K2 Liquid (Metered Dispenser) - Dietary Supplement with Vitamins D3 and...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFdExXWnNTSFJuYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjEzOQ=)](https://www.amazon.es/dp/B0038NF8MG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Thorne Research - Vitamin DK2 Liquid (Metered Dispenser) - Dietary Supplement with Vitamins D3 and...")
+[![Thorne Research - Vitamin D/K2 Liquid (Metered Dispenser) - Dietary Supplement with Vitamins D3 and...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFdExXWnNTSFJuYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkwNQ=)](https://www.amazon.es/dp/B0038NF8MG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Thorne Research - Vitamin DK2 Liquid (Metered Dispenser) - Dietary Supplement with Vitamins D3 and...")
 
 [Thorne Research - Vitamin D/K2 Liquid (Metered Dispenser) - Dietary Supplement with Vitamins D3 and...](https://www.amazon.es/dp/B0038NF8MG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Thorne Research - Vitamin D/K2 Liquid (Metered Dispenser) - Dietary Supplement with Vitamins D3 and...")
 

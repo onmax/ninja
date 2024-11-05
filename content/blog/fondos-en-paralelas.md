@@ -3,14 +3,14 @@ title: Fondos en paralelas
 subtitle: Súper guía de barras, tipos, músculos, anillas...
 url: https://pau.ninja/fondos-en-paralelas
 slug: fondos-en-paralelas
-categories: 
+categories: []
 image: hombre-haciendo-fondos.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/hombre-haciendo-fondos.jpeg
 publishedAt: 2022-05-07T07:03:50.000Z
 modifiedAt: 2024-08-19T07:14:42.000Z
-scrappedAt: 2024-11-04T11:45:58.635Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:52.551Z
+bibliography: []
+
 ---
 
 - 🟢 **Dificultad:** principiante

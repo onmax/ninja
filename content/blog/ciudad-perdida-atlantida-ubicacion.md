@@ -1,16 +1,17 @@
 ---
 title: ¿Mintió Platón con la leyenda de Atlántida?
-subtitle: El misterio de Atlántida: la ciudad perdida
+subtitle: "El misterio de Atlántida: la ciudad perdida"
 url: https://pau.ninja/ciudad-perdida-atlantida-ubicacion
 slug: ciudad-perdida-atlantida-ubicacion
-categories: 
+categories: []
 image: atlantida-bajo-el-agua.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/atlantida-bajo-el-agua.jpg
 publishedAt: 2020-11-07T07:35:19.000Z
 modifiedAt: 2023-06-26T19:36:10.000Z
-scrappedAt: 2024-11-04T11:56:52.401Z
+scrappedAt: 2024-11-05T04:33:05.356Z
 audioLink: https://www.ivoox.com/mintio-platon-leyenda-atlantida_md_80892754_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Troya era el nombre de la ciudad de la Edad de Bronce que fue atacada en la Guerra de Troya. Todos conocemos el famoso caballo de Troya.

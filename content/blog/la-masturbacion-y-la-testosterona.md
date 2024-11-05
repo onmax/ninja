@@ -3,14 +3,15 @@ title: Masturbarse para (no) aumentar la testosterona
 subtitle: La relación entre el Fap y las hormonas masculinas
 url: https://pau.ninja/la-masturbacion-y-la-testosterona
 slug: la-masturbacion-y-la-testosterona
-categories: 
+categories: []
 image: hombre-mano-destrozada.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/hombre-mano-destrozada.jpeg
 publishedAt: 2022-09-11T06:29:08.000Z
 modifiedAt: 2023-09-21T05:29:53.000Z
-scrappedAt: 2024-11-04T11:42:55.138Z
+scrappedAt: 2024-11-05T04:30:13.314Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60342135/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-9%2F295911381-44100-2-597ecd4719d42.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 «Pau ya nos dijiste [lo malo que es el porno](./es-malo-ver-porno), ahora seguro que nos vienes a quitar la masturbación.»

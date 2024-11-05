@@ -1,16 +1,17 @@
 ---
-title: Testosterona: los secretos caseros para aumentarla
+title: "Testosterona: los secretos caseros para aumentarla"
 subtitle: Alimentos que aumentan la testosterona de forma natural
 url: https://pau.ninja/alimentos-aumentan-testosterona
 slug: alimentos-aumentan-testosterona
-categories: 
+categories: []
 image: aumento-de-testosterona.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/07/aumento-de-testosterona.jpeg
 publishedAt: 2022-07-15T07:07:20.000Z
 modifiedAt: 2024-02-07T09:43:46.000Z
-scrappedAt: 2024-11-04T11:43:20.817Z
+scrappedAt: 2024-11-05T04:30:27.723Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/56032963/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-11%2F280392704-44100-2-da5b67d43f66c.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Las hormonas no sólo son lo que nos hace hombres (o mujeres), sino que además también determinan nuestros **niveles de energía**, de vitalidad.
@@ -199,7 +200,7 @@ Lo he hecho porque he estado suponiendo que en mi cuerpo había un poquito de de
 
 Ahora mismo rebajado
 
-[![Solgar | Chelated Zinc | Suplemento Alimenticio que Favorece Piel, Cabello y Uñas | Con Zinc | Para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFdEaDFRakpZUWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzMzMw=)](https://www.amazon.es/dpB0001VVZUC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Chelated Zinc | Suplemento Alimenticio que Favorece Piel, Cabello y Uñas | Con Zinc | Para...")
+[![Solgar | Chelated Zinc | Suplemento Alimenticio que Favorece Piel, Cabello y Uñas | Con Zinc | Para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFdEaDFRakpZUWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyOTMyNw=)](https://www.amazon.es/dpB0001VVZUC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Chelated Zinc | Suplemento Alimenticio que Favorece Piel, Cabello y Uñas | Con Zinc | Para...")
 
 [Solgar | Chelated Zinc | Suplemento Alimenticio que Favorece Piel, Cabello y Uñas | Con Zinc | Para...](https://www.amazon.es/dp/B0001VVZUC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Solgar | Chelated Zinc | Suplemento Alimenticio que Favorece Piel, Cabello y Uñas | Con Zinc | Para...")
 
@@ -233,7 +234,7 @@ No queremos diluir nuestro ácido estomacal, para asegurarnos que lo estamos abs
 
 Otra de las cosas de las que no me he olvidado es de [tomar el sol para absorber vitamina D](./como-tomar-sol-absorber-vitamina-d) (sin crema) pero además le he querido dar un poquito de empuje (sobretodo en los primeros meses de verano) y he empezado a usar un suplemento líquido.
 
-[![Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1VFSkpZbXgwVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzMzMw=)](https://www.amazon.es/dpB08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
+[![Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1VFSkpZbXgwVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyOTMyNw=)](https://www.amazon.es/dpB08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
 
 [Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...](https://www.amazon.es/dp/B08VN9DPZN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 5000 U.I. por gota, Alta dosis - 50ml (líquido) en aceite MCT de coco - Gotas de...")
 
@@ -259,7 +260,7 @@ Para el 20% de mujeres que escucháis, pues en la parte del estómago de vuestro
 
 Para la vitamina K2 he visto personas que usaban incluso más de 45 miligramos al día inicialmente, para solucionar una deficiencia severa. Pero una dosis normal de comida es menos de 1 miligramo.
 
-[![Vitamina K2 MK–7 200 µg – 1700 gotas (50 ml) – Contenido all–trans 99,7% (K2VITAL® de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGRFZFYzRkbXhLSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzMzMw=)](https://www.amazon.es/dpB07BGFWG81?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina K2 MK–7 200 µg – 1700 gotas (50 ml) – Contenido all–trans 99,7% (K2VITAL® de...")
+[![Vitamina K2 MK–7 200 µg – 1700 gotas (50 ml) – Contenido all–trans 99,7% (K2VITAL® de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGRFZFYzRkbXhLSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyOTMyNw=)](https://www.amazon.es/dpB07BGFWG81?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina K2 MK–7 200 µg – 1700 gotas (50 ml) – Contenido all–trans 99,7% (K2VITAL® de...")
 
 [Vitamina K2 MK–7 200 µg – 1700 gotas (50 ml) – Contenido all–trans >99,7% (K2VITAL® de...](https://www.amazon.es/dp/B07BGFWG81?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina K2 MK–7 200 µg – 1700 gotas (50 ml) – Contenido all–trans 99,7% (K2VITAL® de...")
 

@@ -1,16 +1,17 @@
 ---
-title: Georgia: bancos tan opacos como su contaminación
+title: "Georgia: bancos tan opacos como su contaminación"
 subtitle: ¿La mejor cuenta bancaria offshore?
 url: https://pau.ninja/abrir-cuenta-bancaria-offshore
 slug: abrir-cuenta-bancaria-offshore
-categories: 
+categories: []
 image: tibilisi-georgia.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/01/tibilisi-georgia.jpg
 publishedAt: 2022-01-17T06:53:45.000Z
 modifiedAt: 2023-06-22T20:28:26.000Z
-scrappedAt: 2024-11-04T11:49:01.677Z
+scrappedAt: 2024-11-05T04:31:21.345Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171582/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283754-44100-2-3dcf9777bdc3425b.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 ¿Cuál es el país del mundo en el que puedes abrir una cuenta bancaria offshore con cero problemas, anonimatos y barata?

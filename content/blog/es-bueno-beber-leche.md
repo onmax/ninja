@@ -3,14 +3,15 @@ title: El dilema de los lácteos
 subtitle: ¿es bueno o malo beber leche?
 url: https://pau.ninja/es-bueno-beber-leche
 slug: es-bueno-beber-leche
-categories: 
+categories: []
 image: bebiendo-leche-cruda.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/bebiendo-leche-cruda.jpeg
 publishedAt: 2022-11-07T08:38:14.000Z
 modifiedAt: 2023-09-21T05:27:07.000Z
-scrappedAt: 2024-11-04T11:42:15.728Z
+scrappedAt: 2024-11-05T04:29:53.998Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60979277/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-21%2F298374766-44100-2-d15a360b1ac0c.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Claro que vas a notar mejoras si dejas los lácteos un tiempo… pero no es porque sean malos, sino porque estás consumiendo lácteos de mi3rda. Del Mercadona.
@@ -349,7 +350,7 @@ Cuando tiene estos puntitos y también el sello de DOP (denominación de origen)
 
 Hay otros con sellos así que normalmente vienen de Italia y que es un buen indicador que incluso en los supermercados los podemos encontrar y tienen buena calidad.
 
-[![Grana Padano DOP - Kg. 4,6](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelV6SkpRM1JUYVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NjA4Nw=)](https://www.amazon.es/dpB07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Grana Padano DOP - Kg. 4,6")
+[![Grana Padano DOP - Kg. 4,6](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelV6SkpRM1JUYVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTM1NA=)](https://www.amazon.es/dpB07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Grana Padano DOP - Kg. 4,6")
 
 [Grana Padano DOP - Kg. 4,6](https://www.amazon.es/dp/B07HP9BH9J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Grana Padano DOP - Kg. 4,6")
 

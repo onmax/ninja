@@ -3,16 +3,27 @@ title: Teoría de los 4 fogones
 subtitle: el marco mental para (no) equilibrar tu vida
 url: https://pau.ninja/areas-de-la-vida
 slug: areas-de-la-vida
-categories: 
+categories: []
 image: persona-gestionando-areas-de-la-vida.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/08/persona-gestionando-areas-de-la-vida.jpg
 publishedAt: 2023-09-06T05:17:50.000Z
 modifiedAt: 2023-12-22T21:21:35.000Z
-scrappedAt: 2024-11-04T11:17:03.865Z
+scrappedAt: 2024-11-05T04:28:31.856Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/76088192/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-8-19%2F347630672-44100-2-a3cfb91399c65.mp3
-bibliography: La primera vez que oí hablar de La Teoría de los Cuatro Fogones fue en el blog de James Clear, que lo aprendió de Chris Guillebeau, quien se enteró por Jocelyn Glei, quien leyó sobre la teoría en un artículo del New Yorker escrito por David Sedaris, quien se enteró sobre la teoría por una mujer australiana llamada Pat, quien escuchó sobre ella en un seminario de gestión al que asistió. Si intentamos descubrir de dónde se originó la teoría de los cuatro quemadores… buena suerte. Avísame si llegas a la raíz de ella.
-Solan, Matthew. 2017. “The Secret to Happiness? Here’s Some Advice from the Longest-Running Study on Happiness – Harvard Health.” ‌
-Birditt KS, Antonucci TC. Relationship quality profiles and well-being among married adults. J Fam Psychol. 2007 Dec;21(4):595-604. doi: 10.1037/0893-3200.21.4.595. PMID: 18179331.
+bibliography:
+  - La primera vez que oí hablar de La Teoría de los Cuatro Fogones fue en el
+    blog de James Clear, que lo aprendió de Chris Guillebeau, quien se enteró
+    por Jocelyn Glei, quien leyó sobre la teoría en un artículo del New Yorker
+    escrito por David Sedaris, quien se enteró sobre la teoría por una mujer
+    australiana llamada Pat, quien escuchó sobre ella en un seminario de gestión
+    al que asistió. Si intentamos descubrir de dónde se originó la teoría de los
+    cuatro quemadores… buena suerte. Avísame si llegas a la raíz de ella.
+  - Solan, Matthew. 2017. “The Secret to Happiness? Here’s Some Advice from the
+    Longest-Running Study on Happiness – Harvard Health.” ‌
+  - "Birditt KS, Antonucci TC. Relationship quality profiles and well-being
+    among married adults. J Fam Psychol. 2007 Dec;21(4):595-604. doi:
+    10.1037/0893-3200.21.4.595. PMID: 18179331."
+
 ---
 
 Hace ya casi una década que después de dejar mi trabajo me encerré en una casa familiar a construir mi negocio online.

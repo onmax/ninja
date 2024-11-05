@@ -1,16 +1,17 @@
 ---
-title: Argumento de autoridad: o cómo creerte sus mentiras
+title: "Argumento de autoridad: o cómo creerte sus mentiras"
 subtitle: (la falacia Ad verecundiam)
 url: https://pau.ninja/argumento-de-autoridad
 slug: argumento-de-autoridad
-categories: 
+categories: []
 image: aclamado-por-seguidores.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/aclamado-por-seguidores.jpeg
 publishedAt: 2023-02-14T08:20:19.000Z
 modifiedAt: 2023-09-04T15:36:57.000Z
-scrappedAt: 2024-11-04T11:40:59.084Z
+scrappedAt: 2024-11-05T04:29:23.194Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/66320524/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-10%2F317270824-44100-2-da2c73f1ebc86.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Siempre había querido empezar un episodio diciendo algo tipo: «la persona que te ha mandado este episodio lo ha compartido porque piensa que estás usando un _Ad verecundiam_ en tu argumento.»

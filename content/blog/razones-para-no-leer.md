@@ -1,16 +1,17 @@
 ---
-title: No leer: por qué se aprende mejor sin libros
+title: "No leer: por qué se aprende mejor sin libros"
 subtitle: (razones para leer y para no hacerlo)
 url: https://pau.ninja/razones-para-no-leer
 slug: razones-para-no-leer
-categories: 
+categories: []
 image: quemando-libros-en-biblioteca.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/quemando-libros-en-biblioteca.jpeg
 publishedAt: 2023-01-16T12:18:25.000Z
 modifiedAt: 2023-09-06T06:48:03.000Z
-scrappedAt: 2024-11-04T11:41:26.686Z
+scrappedAt: 2024-11-05T04:29:30.847Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63606047/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-17%2F307901389-44100-2-113ae5979acf4.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hace cosa de un par de años que dejé de leer libros.
@@ -206,7 +207,7 @@ Además para retener más información cambié mi Kindle antiguo por un **Kobo S
 
 Ahora mismo rebajado
 
-[![Rakuten Kobo Sage, eReader, eBooks y AudioBooks, Pantalla 8' táctil HD Carta E Ink antirreflejos,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1V6QXpRM1ZvUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzI4NQ=)](https://www.amazon.es/dpB09HSQ6JMM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Rakuten Kobo Sage, eReader, eBooks y AudioBooks, Pantalla 8' táctil HD Carta E Ink antirreflejos,...")
+[![Rakuten Kobo Sage, eReader, eBooks y AudioBooks, Pantalla 8' táctil HD Carta E Ink antirreflejos,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGa1V6QXpRM1ZvUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk0MzAxMA=)](https://www.amazon.es/dpB09HSQ6JMM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Rakuten Kobo Sage, eReader, eBooks y AudioBooks, Pantalla 8' táctil HD Carta E Ink antirreflejos,...")
 
 [Rakuten Kobo Sage, eReader, eBooks y AudioBooks, Pantalla 8" táctil HD Carta E Ink antirreflejos,...](https://www.amazon.es/dp/B09HSQ6JMM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Rakuten Kobo Sage, eReader, eBooks y AudioBooks, Pantalla 8' táctil HD Carta E Ink antirreflejos,...")
 

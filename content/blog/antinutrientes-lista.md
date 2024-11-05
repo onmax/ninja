@@ -1,16 +1,17 @@
 ---
-title: Antinutrientes: las ladronas silenciosas en tu verdura
+title: "Antinutrientes: las ladronas silenciosas en tu verdura"
 subtitle: Lista de alimentos y cómo te afectan
 url: https://pau.ninja/antinutrientes-lista
 slug: antinutrientes-lista
-categories: 
+categories: []
 image: intoxicado-por-antinutrientes.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/intoxicado-por-antinutrientes.jpeg
 publishedAt: 2021-10-12T07:32:43.000Z
 modifiedAt: 2024-02-07T15:35:51.000Z
-scrappedAt: 2024-11-04T11:51:30.877Z
+scrappedAt: 2024-11-05T04:31:47.979Z
 audioLink: https://www.ivoox.com/antinutrientes-ladronas-silenciosas-tu-verdura_md_77464476_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Si buscamos imágenes de unas gachas de avena lo primero que nos aparecerá será un bol listo para ser fotografiado para Insta.

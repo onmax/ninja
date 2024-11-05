@@ -1,16 +1,16 @@
 ---
 title: Ejercicios de empuje para el día de PUSH más completo
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/ejercicios-de-empuje
 slug: ejercicios-de-empuje
-categories: 
+categories: []
 image: hombre-haciendo-flexiones-a-una-mano.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/hombre-haciendo-flexiones-a-una-mano.jpeg
 publishedAt: 2023-01-17T07:30:10.000Z
 modifiedAt: 2023-03-31T07:36:39.000Z
-scrappedAt: 2024-11-04T11:41:23.945Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:29:30.412Z
+bibliography: []
+
 ---
 
 Lo primero que haré en el entrenamiento de empuje es hacer un par de series en aperturas con peso bajo y sin llegar ni siquiera cerca del fallo. La idea no es tanto calentar, sino empezar a hacer que entre sangre al músculo y «despertarlo» para que cuando hagas el primer ejercicio compuesto haya una mejor [conexión mente-músculo](./conexion-mente-musculo/) (#411) que sabemos que es uno de los factores [más importantes en ganar masa muscular](https://pau.ninja/entrenamiento-ganar-masa-muscular). Más incluso que el peso que utilicemos.

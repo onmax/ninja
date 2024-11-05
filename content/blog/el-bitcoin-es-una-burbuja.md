@@ -1,23 +1,30 @@
 ---
 title: ¿Es Bitcoin una burbuja… o un tren que se te escapa?
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/el-bitcoin-es-una-burbuja
 slug: el-bitcoin-es-una-burbuja
-categories: 
+categories: []
 image: haciendo-burbuja-con-bitcoins.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/06/haciendo-burbuja-con-bitcoins.jpeg
 publishedAt: 2022-06-05T08:51:51.000Z
 modifiedAt: 2024-05-21T19:48:06.000Z
-scrappedAt: 2024-11-04T11:43:43.455Z
+scrappedAt: 2024-11-05T04:30:43.672Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83567338/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-4%2F369721186-44100-2-c676255a77711.mp3
-bibliography: Wikipedia Contributors. 2024. “Tulip Mania.” Wikipedia. ‌
-de, Colaboradores. 2007. “Fiebre de Compra-Venta Especulativa Neerlandesa Que Resultó En Un Crack Económico Severo, En El Siglo XVII.” Wikipedia.org
-Moha Gerehou. 2016. “La Gran Burbuja Española: Los Casos Más Allá de La Construcción.” ElDiario.es
-Interactive, Nikkei Net. 2024. “Access to Internet in Japan Increased by 74% in 2000 – WSJ.”
-Paramount Pictures Spain. 2015. “La Gran Apuesta | Tráiler | 22 de Enero En Cines | Paramount Pictures Spain.” YouTube Video.
-“Who Was to Blame for the Subprime Crisis?” 2024. Investopedia. ‌
-“Who’s to Blame for the Bubble?” 2001. Harvard Business Review. ‌
-Muela, Daniel. 2017. “Fórum Filatélico: Cronología de La Enorme Estafa Piramidal En España.” El País.
+bibliography:
+  - Wikipedia Contributors. 2024. “Tulip Mania.” Wikipedia. ‌
+  - de, Colaboradores. 2007. “Fiebre de Compra-Venta Especulativa Neerlandesa
+    Que Resultó En Un Crack Económico Severo, En El Siglo XVII.” Wikipedia.org
+  - "Moha Gerehou. 2016. “La Gran Burbuja Española: Los Casos Más Allá de La
+    Construcción.” ElDiario.es"
+  - Interactive, Nikkei Net. 2024. “Access to Internet in Japan Increased by 74%
+    in 2000 – WSJ.”
+  - Paramount Pictures Spain. 2015. “La Gran Apuesta | Tráiler | 22 de Enero En
+    Cines | Paramount Pictures Spain.” YouTube Video.
+  - “Who Was to Blame for the Subprime Crisis?” 2024. Investopedia. ‌
+  - “Who’s to Blame for the Bubble?” 2001. Harvard Business Review. ‌
+  - "Muela, Daniel. 2017. “Fórum Filatélico: Cronología de La Enorme Estafa
+    Piramidal En España.” El País."
+
 ---
 
 Bitcoin, como cualquier otro activo del mercado (y como tu ex), tiene ciclos. Subidas y bajadas.

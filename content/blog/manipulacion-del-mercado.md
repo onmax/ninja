@@ -1,16 +1,16 @@
 ---
 title: El algoritmo que manipula la bolsa
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/manipulacion-del-mercado
 slug: manipulacion-del-mercado
-categories: 
+categories: []
 image: manipulacion-del-mercado.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/manipulacion-del-mercado.jpg
 publishedAt: 2024-06-20T05:39:11.000Z
 modifiedAt: 2024-06-20T12:55:37.000Z
-scrappedAt: 2024-11-04T11:11:42.607Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:26:31.646Z
+bibliography: []
+
 ---
 
 La bolsa es implacable. Cuando crees que has hecho un 100% de rentabilidad _teórica_ va el mercado y lo que te ha dado, te lo quita.

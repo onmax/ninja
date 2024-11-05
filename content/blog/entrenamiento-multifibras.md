@@ -1,16 +1,16 @@
 ---
-title: Multifibras: la patraña de entrenar según tipos de fibras
+title: "Multifibras: la patraña de entrenar según tipos de fibras"
 subtitle: (opinión de un entrenamiento... ¿que yo sigo?)
 url: https://pau.ninja/entrenamiento-multifibras
 slug: entrenamiento-multifibras
-categories: 
+categories: []
 image: multifibras-del-musculo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/09/multifibras-del-musculo.jpeg
 publishedAt: 2022-10-12T08:03:00.000Z
 modifiedAt: 2024-01-13T06:39:32.000Z
-scrappedAt: 2024-11-04T11:42:35.744Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:06.364Z
+bibliography: []
+
 ---
 
 Una de las cosas que se ha ido popularizando en los últimos años es la idea de entrenar músculos específicos con específicos rangos de [repeticiones para hipertrofia](./series-y-repeticiones-hipertrofia), basándonos en la distribución del tipo de fibra que tenga ese músculo.

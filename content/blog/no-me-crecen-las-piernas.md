@@ -3,29 +3,61 @@ title: ¿No te crecen las piernas?
 subtitle: Esta alternativa lo cambia todo
 url: https://pau.ninja/no-me-crecen-las-piernas
 slug: no-me-crecen-las-piernas
-categories: 
+categories: []
 image: persona-con-piernas-que-no-le-crecen.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-con-piernas-que-no-le-crecen.jpeg
 publishedAt: 2024-08-15T07:43:43.000Z
 modifiedAt: 2024-10-28T15:06:50.000Z
-scrappedAt: 2024-11-04T11:10:23.958Z
-audioLink: undefined
-bibliography: Smith, 2018. The impact of lower body strength on injury prevention in athletes. Journal of Sports Science, 36(7), 1012-1020
-Snarr, R. L., & Esco, M. R. (2014). Muscle activation strategies for different lower-body exercises. Journal of Strength and Conditioning Research, 28(4), 1046-1054
-Crewther, 2011. Hormonal responses to free weights and machine weights resistance exercise. European Journal of Applied Physiology, 112(4), 1653-1660
-Kraemer, W. J., & Ratamess, N. A. (2005). Hormonal responses and adaptations to resistance exercise and training. Sports Medicine, 35(4), 339-361
-West, D. W. D., & Phillips, S. M. (2012). Anabolic processes in human skeletal muscle: restoring the identities of growth hormone and testosterone. The Physician and Sportsmedicine, 40(4), 13-21
-Kraemer, 2006. Resistance training and the endocrine system: four decades of progress. Journal of Strength and Conditioning Research, 20(4), 830-840
-Melby, 1993. Effect of acute resistance exercise on postexercise energy expenditure and resting metabolic rate. Journal of Applied Physiology, 75(4), 1847-1853
-Fisher, J. P., & Young, C. N. (2019). The role of exercise in the regulation of arterial blood pressure. Journal of Physiology, 597(3), 1033-1041
-MacDonald, J. R., et al. (2000). Post exercise hypotension is sustained during subsequent bouts of mild exercise and simulated activities of daily living. Journal of Human Hypertension, 14(8), 519-523
-Thompson, 2012. Exercise and physical activity in the prevention and treatment of atherosclerotic cardiovascular disease: a statement from the Council on Clinical Cardiology (Subcommittee on Exercise, Rehabilitation, and Prevention) and the Council on Nutrition, Physical Activity, and Metabolism (Subcommittee on Physical Activity). Circulation, 107(24), 3109-3116
-Neto, 2017. Lower limb muscle imbalance as a predictor of noncontact injury in male professional soccer players. American Journal of Sports Medicine, 45(4), 783-790
-McCurdy, 2010. Comparison of lower extremity EMG between the 2-leg squat and modified single-leg squat in female athletes. Journal of Sport Rehabilitation, 19(1), 57-70
-Schoenfeld, 2019. Effects of different volume-equated resistance training loading strategies on muscular adaptations in well-trained men. Journal of Strength and Conditioning Research, 33(10), 1-11
-Schoenfeld, 2016. The mechanisms of muscle hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 30(4), 1052-1067
-Wernbom, 2007. The influence of frequency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Medicine, 37(3), 225-264
-Hedayatpour, 2010. Time-frequency analysis of surface EMG signals: A wavelet-based approach for studying muscle fatigue during dynamic contractions. Journal of Electromyography and Kinesiology, 20(2), 289-298
+scrappedAt: 2024-11-05T04:26:06.099Z
+bibliography:
+  - Smith, 2018. The impact of lower body strength on injury prevention in
+    athletes. Journal of Sports Science, 36(7), 1012-1020
+  - Snarr, R. L., & Esco, M. R. (2014). Muscle activation strategies for
+    different lower-body exercises. Journal of Strength and Conditioning
+    Research, 28(4), 1046-1054
+  - Crewther, 2011. Hormonal responses to free weights and machine weights
+    resistance exercise. European Journal of Applied Physiology, 112(4),
+    1653-1660
+  - Kraemer, W. J., & Ratamess, N. A. (2005). Hormonal responses and adaptations
+    to resistance exercise and training. Sports Medicine, 35(4), 339-361
+  - "West, D. W. D., & Phillips, S. M. (2012). Anabolic processes in human
+    skeletal muscle: restoring the identities of growth hormone and
+    testosterone. The Physician and Sportsmedicine, 40(4), 13-21"
+  - "Kraemer, 2006. Resistance training and the endocrine system: four decades
+    of progress. Journal of Strength and Conditioning Research, 20(4), 830-840"
+  - Melby, 1993. Effect of acute resistance exercise on postexercise energy
+    expenditure and resting metabolic rate. Journal of Applied Physiology,
+    75(4), 1847-1853
+  - Fisher, J. P., & Young, C. N. (2019). The role of exercise in the regulation
+    of arterial blood pressure. Journal of Physiology, 597(3), 1033-1041
+  - MacDonald, J. R., et al. (2000). Post exercise hypotension is sustained
+    during subsequent bouts of mild exercise and simulated activities of daily
+    living. Journal of Human Hypertension, 14(8), 519-523
+  - "Thompson, 2012. Exercise and physical activity in the prevention and
+    treatment of atherosclerotic cardiovascular disease: a statement from the
+    Council on Clinical Cardiology (Subcommittee on Exercise, Rehabilitation,
+    and Prevention) and the Council on Nutrition, Physical Activity, and
+    Metabolism (Subcommittee on Physical Activity). Circulation, 107(24),
+    3109-3116"
+  - Neto, 2017. Lower limb muscle imbalance as a predictor of noncontact injury
+    in male professional soccer players. American Journal of Sports Medicine,
+    45(4), 783-790
+  - McCurdy, 2010. Comparison of lower extremity EMG between the 2-leg squat and
+    modified single-leg squat in female athletes. Journal of Sport
+    Rehabilitation, 19(1), 57-70
+  - Schoenfeld, 2019. Effects of different volume-equated resistance training
+    loading strategies on muscular adaptations in well-trained men. Journal of
+    Strength and Conditioning Research, 33(10), 1-11
+  - Schoenfeld, 2016. The mechanisms of muscle hypertrophy and their application
+    to resistance training. Journal of Strength and Conditioning Research,
+    30(4), 1052-1067
+  - Wernbom, 2007. The influence of frequency, intensity, volume and mode of
+    strength training on whole muscle cross-sectional area in humans. Sports
+    Medicine, 37(3), 225-264
+  - "Hedayatpour, 2010. Time-frequency analysis of surface EMG signals: A
+    wavelet-based approach for studying muscle fatigue during dynamic
+    contractions. Journal of Electromyography and Kinesiology, 20(2), 289-298"
+
 ---
 
 ¿De verdad que si secuestraran a tu familia y te dijeran que no los volverás a ver a menos que hagas crecer tus piernas, no serías capaz de conseguirlo?

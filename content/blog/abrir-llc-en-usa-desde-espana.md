@@ -3,14 +3,15 @@ title: Adiós SL española… hola LLC en Estados Unidos
 subtitle: Qué es y cómo a abrir una LLC en USA desde España
 url: https://pau.ninja/abrir-llc-en-usa-desde-espana
 slug: abrir-llc-en-usa-desde-espana
-categories: 
+categories: []
 image: persona-con-llc-en-eeuu.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/02/persona-con-llc-en-eeuu.jpeg
 publishedAt: 2022-02-18T17:31:41.000Z
 modifiedAt: 2024-06-20T06:08:11.000Z
-scrappedAt: 2024-11-04T11:48:41.859Z
+scrappedAt: 2024-11-05T04:31:15.170Z
 audioLink: https://www.ivoox.com/_md_83427909_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ninjas de la vida… he abierto una empresa en Estados Unidos.

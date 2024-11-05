@@ -1,16 +1,17 @@
 ---
-title: El mañanero: cómo me levanto a las 5 sin alarma
+title: "El mañanero: cómo me levanto a las 5 sin alarma"
 subtitle: (secretos de despertarme a las 5 de la mañana)
 url: https://pau.ninja/levantarse-a-las-5-de-la-manana
 slug: levantarse-a-las-5-de-la-manana
-categories: 
+categories: []
 image: persona-levantandose-temprano.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/04/persona-levantandose-temprano.jpeg
 publishedAt: 2022-04-07T14:33:38.000Z
 modifiedAt: 2023-09-20T18:17:42.000Z
-scrappedAt: 2024-11-04T11:46:22.842Z
+scrappedAt: 2024-11-05T04:31:00.877Z
 audioLink: https://www.ivoox.com/mananero-como-me-levanto-a-5_md_87083173_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 En español se dice que «a quien madruga Dios le ayuda». En catalán hay un dicho similar: «el que matina fa farina» (el mañanero hace harina), y en inglés también va por esas líneas «early bird gets the worm» (el pájaro mañanero se hace con el gusano).

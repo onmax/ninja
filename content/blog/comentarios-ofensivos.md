@@ -3,38 +3,83 @@ title: Bienvenidos, «haters»
 subtitle: el arte de lidiar con el odio de los comentarios ofensivos
 url: https://pau.ninja/comentarios-ofensivos
 slug: comentarios-ofensivos
-categories: 
+categories: []
 image: hater-lidia-con-comentarios-ofensivos-en-redes-sociales.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/11/hater-lidia-con-comentarios-ofensivos-en-redes-sociales.jpg
 publishedAt: 2024-11-04T07:58:26.000Z
-modifiedAt: undefined
-scrappedAt: 2024-11-04T11:08:39.065Z
-audioLink: undefined
-bibliography: Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance, and contagion. Personality and Social Psychology Review, 5(4), 296-320.
-Vaish, A., Grossmann, T., & Woodward, A. (2008). Not all emotions are created equal: The negativity bias in social-emotional development. Psychological Bulletin, 134(3), 383-403.
-Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001). Bad is stronger than good. Review of General Psychology, 5(4), 323-370.
-Vaish, A., Grossmann, T., & Woodward, A. (2008). Not all emotions are created equal: The negativity bias in social-emotional development. Psychological Bulletin, 134(3), 383-403.
-Grossmann, T. (2010). The development of emotion perception in face and voice during infancy. Restorative Neurology and Neuroscience, 28(2), 219-236.
-Flom, R., Bahrick, L. E., & Pick, A. D. (2018). Infants’ discrimination of affect in multimodal and unimodal stimulation: The role of intersensory redundancy. Developmental Psychology, 54(1), 51-62.
-Bakker, A. B., & Demerouti, E. (2007). The Job Demands-Resources model: State of the art. _Journal of Managerial Psychology, 22_(3), 309-328
-Kross, E., Verduyn, P., Demiralp, E., Park, J., Lee, D. S., Lin, N., … & Ybarra, O. (2013). Facebook use predicts declines in subjective well-being in young adults. _PLOS ONE, 8_(8), e69841
-Twenge, J. M., & Campbell, W. K. (2018). Associations between screen time and lower psychological well-being among children and adolescents: Evidence from a population-based study. Preventive Medicine Reports, 12, 271-283.
-O’Reilly, M., Dogra, N., Whiteman, N., Hughes, J., Eruyar, S., & Reilly, P. (2018). Is social media bad for mental health and well-being? Exploring the perspectives of adolescents. Clinical Child Psychology and Psychiatry, 23(4), 601-613.
-Hamm, M. P., Newton, A. S., Chisholm, A., Shulhan, J., Milne, A., Sundar, P., & Hartling, L. (2015). Prevalence and effect of cyberbullying on children and young people: A systematic review and meta-analysis. JAMA Pediatrics, 169(8), 770-777.
-Sest, N., & March, E. (2017). Constructing the cyber-troll: Psychopathy, sadism, and empathy. Personality and Individual Differences, 119, 69–72.
-Craker, N., & March, E. (2016). The dark side of Facebook®: The Dark Tetrad, negative social potency, and trolling behaviors. Personality and Individual Differences, 102, 79–84.
-Suler, J. (2004). The online disinhibition effect. _Cyberpsychology & Behavior, 7_(3), 321-326
-Christopherson, K. M. (2007). The positive and negative implications of anonymity in Internet social interactions: “On the Internet, Nobody Knows You’re a Dog”. _Computers in Human Behavior, 23_(6), 3038-3056
-Barlińska, J., Szuster, A., & Winiewski, M. (2013). Cyberbullying among adolescent bystanders: Role of the communication medium, form of violence, and empathy. _Journal of Community & Applied Social Psychology, 23_(1), 37-51
-Decety, J., & Cowell, J. M. (2014). The complex relation between morality and empathy. _Trends in Cognitive Sciences, 18_(7), 337-339
-Decety, J., & Yoder, K. J. (2016). Empathy and motivation for justice: Cognitive empathy and concern, but not emotional empathy, predict sensitivity to injustice for others. _Social Neuroscience, 11_(1), 1-14
-Gross, J. J., & John, O. P. (2003). Individual differences in two emotion regulation processes: Implications for affect, relationships, and well-being. _Journal of Personality and Social Psychology, 85_(2), 348-362
-John, O. P., & Gross, J. J. (2004). Healthy and unhealthy emotion regulation: Personality processes, individual differences, and life span development. _Journal of Personality, 72_(6), 1301-1333
-Turnage, A. K. (2007). Email flaming behaviors and organizational conflict. _Journal of Computer-Mediated Communication, 13_(1), 43-59
-Christopherson, K. M. (2007). The positive and negative implications of anonymity in Internet social interactions: “On the Internet, Nobody Knows You’re a Dog”. _Computers in Human Behavior, 23_(6), 3038-3056
-Kowalski, R. M., Limber, S. P., & McCord, A. (2019). A developmental perspective on cyberbullying. _Aggression and Violent Behavior, 45_, 72-77
-Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions on performance: A historical review, a meta-analysis, and a preliminary feedback intervention theory. _Psychological Bulletin, 119_(2), 254-284
-Ashkanasy, N. M., & Daus, C. S. (2005). Rumors of the death of emotional intelligence in organizational behavior are vastly exaggerated. _Journal of Organizational Behavior, 26_(4), 441-452
+scrappedAt: 2024-11-05T04:25:30.028Z
+bibliography:
+  - Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance,
+    and contagion. Personality and Social Psychology Review, 5(4), 296-320.
+  - "Vaish, A., Grossmann, T., & Woodward, A. (2008). Not all emotions are
+    created equal: The negativity bias in social-emotional development.
+    Psychological Bulletin, 134(3), 383-403."
+  - Baumeister, R. F., Bratslavsky, E., Finkenauer, C., & Vohs, K. D. (2001).
+    Bad is stronger than good. Review of General Psychology, 5(4), 323-370.
+  - "Vaish, A., Grossmann, T., & Woodward, A. (2008). Not all emotions are
+    created equal: The negativity bias in social-emotional development.
+    Psychological Bulletin, 134(3), 383-403."
+  - Grossmann, T. (2010). The development of emotion perception in face and
+    voice during infancy. Restorative Neurology and Neuroscience, 28(2),
+    219-236.
+  - "Flom, R., Bahrick, L. E., & Pick, A. D. (2018). Infants’ discrimination of
+    affect in multimodal and unimodal stimulation: The role of intersensory
+    redundancy. Developmental Psychology, 54(1), 51-62."
+  - "Bakker, A. B., & Demerouti, E. (2007). The Job Demands-Resources model:
+    State of the art. _Journal of Managerial Psychology, 22_(3), 309-328"
+  - Kross, E., Verduyn, P., Demiralp, E., Park, J., Lee, D. S., Lin, N., … &
+    Ybarra, O. (2013). Facebook use predicts declines in subjective well-being
+    in young adults. _PLOS ONE, 8_(8), e69841
+  - "Twenge, J. M., & Campbell, W. K. (2018). Associations between screen time
+    and lower psychological well-being among children and adolescents: Evidence
+    from a population-based study. Preventive Medicine Reports, 12, 271-283."
+  - O’Reilly, M., Dogra, N., Whiteman, N., Hughes, J., Eruyar, S., & Reilly, P.
+    (2018). Is social media bad for mental health and well-being? Exploring the
+    perspectives of adolescents. Clinical Child Psychology and Psychiatry,
+    23(4), 601-613.
+  - "Hamm, M. P., Newton, A. S., Chisholm, A., Shulhan, J., Milne, A., Sundar,
+    P., & Hartling, L. (2015). Prevalence and effect of cyberbullying on
+    children and young people: A systematic review and meta-analysis. JAMA
+    Pediatrics, 169(8), 770-777."
+  - "Sest, N., & March, E. (2017). Constructing the cyber-troll: Psychopathy,
+    sadism, and empathy. Personality and Individual Differences, 119, 69–72."
+  - "Craker, N., & March, E. (2016). The dark side of Facebook®: The Dark
+    Tetrad, negative social potency, and trolling behaviors. Personality and
+    Individual Differences, 102, 79–84."
+  - Suler, J. (2004). The online disinhibition effect. _Cyberpsychology &
+    Behavior, 7_(3), 321-326
+  - "Christopherson, K. M. (2007). The positive and negative implications of
+    anonymity in Internet social interactions: “On the Internet, Nobody Knows
+    You’re a Dog”. _Computers in Human Behavior, 23_(6), 3038-3056"
+  - "Barlińska, J., Szuster, A., & Winiewski, M. (2013). Cyberbullying among
+    adolescent bystanders: Role of the communication medium, form of violence,
+    and empathy. _Journal of Community & Applied Social Psychology, 23_(1),
+    37-51"
+  - Decety, J., & Cowell, J. M. (2014). The complex relation between morality
+    and empathy. _Trends in Cognitive Sciences, 18_(7), 337-339
+  - "Decety, J., & Yoder, K. J. (2016). Empathy and motivation for justice:
+    Cognitive empathy and concern, but not emotional empathy, predict
+    sensitivity to injustice for others. _Social Neuroscience, 11_(1), 1-14"
+  - "Gross, J. J., & John, O. P. (2003). Individual differences in two emotion
+    regulation processes: Implications for affect, relationships, and
+    well-being. _Journal of Personality and Social Psychology, 85_(2), 348-362"
+  - "John, O. P., & Gross, J. J. (2004). Healthy and unhealthy emotion
+    regulation: Personality processes, individual differences, and life span
+    development. _Journal of Personality, 72_(6), 1301-1333"
+  - Turnage, A. K. (2007). Email flaming behaviors and organizational conflict.
+    _Journal of Computer-Mediated Communication, 13_(1), 43-59
+  - "Christopherson, K. M. (2007). The positive and negative implications of
+    anonymity in Internet social interactions: “On the Internet, Nobody Knows
+    You’re a Dog”. _Computers in Human Behavior, 23_(6), 3038-3056"
+  - Kowalski, R. M., Limber, S. P., & McCord, A. (2019). A developmental
+    perspective on cyberbullying. _Aggression and Violent Behavior, 45_, 72-77
+  - "Kluger, A. N., & DeNisi, A. (1996). The effects of feedback interventions
+    on performance: A historical review, a meta-analysis, and a preliminary
+    feedback intervention theory. _Psychological Bulletin, 119_(2), 254-284"
+  - Ashkanasy, N. M., & Daus, C. S. (2005). Rumors of the death of emotional
+    intelligence in organizational behavior are vastly exaggerated. _Journal of
+    Organizational Behavior, 26_(4), 441-452
+
 ---
 
 Ninja de la vida, hoy vamos a ver método prácticos para **lidiar con los comentarios negativos** en redes sociales.

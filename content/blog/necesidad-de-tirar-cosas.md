@@ -3,29 +3,55 @@ title: ¿Tienes la necesidad de tirar cosas?
 subtitle: A tu mente le sucede esto
 url: https://pau.ninja/necesidad-de-tirar-cosas
 slug: necesidad-de-tirar-cosas
-categories: 
+categories: []
 image: persona-con-necesidad-de-tirar-cosas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/persona-con-necesidad-de-tirar-cosas.jpg
 publishedAt: 2024-10-19T06:29:13.000Z
 modifiedAt: 2024-10-28T15:22:06.000Z
-scrappedAt: 2024-11-04T11:08:53.818Z
-audioLink: undefined
-bibliography: Chaplin, L. N., & John, D. R. (2007). Growing up in a material world: Age differences in materialism in children and adolescents. Journal of Consumer Research, 34(4), 480-493.
-Belk, R. W. (1988). Possessions and the extended self. Journal of Consumer Research, 15(2), 139-168.
-[3](javascript:void\(0\))Nørup, N., Pihl, K., Damgaard, A., & Scheutz, C. (2019). Development and application of a framework for identification of potential causes of waste generation in clothing supply chains. Sustainability, 11(13), 3714.
-Bick, R., Halsey, E., & Ekenga, C. C. (2018). The global environmental injustice of fast fashion. Environmental Health, 17(1), 92.
-Brooks, A. (2013). Stretching global production networks: The international second-hand clothing trade. Geoforum, 44, 10-22.
-Rochat, 2014. Ownership and the sense of self. Behavioral and Brain Sciences, 40(2), 45-49
-Kasser, T., & Ryan, R. M. (2001). Be careful what you wish for: Optimal functioning and the relative attainment of intrinsic and extrinsic goals. In P. Schmuck & K. M. Sheldon (Eds.), Life goals and well-being: Towards a positive psychology of human striving (pp. 116-131). Hogrefe & Huber Publishers.
-Saxbe, 2010. Homes are for living in: Residential stress and psychological well-being. Personality and Social Psychology Bulletin, 36(1), 71-81
-McMains & Kastner, 2011. Interactions of top-down and bottom-up mechanisms in human visual cortex. The Journal of Neuroscience, 31(2), 587-597
-Thaler, 1980. Toward a positive theory of consumer choice. Journal of Economic Behavior & Organization, 1(1), 39-60
-Tuan, Y. F. (1980). The significance of the artifact. Geographical Review, 70(4), 462-472.
-Griskevicius, V., Tybur, J. M., Delton, A. W., & Robertson, T. E. (2011). The influence of mortality and socioeconomic status on risk and delayed rewards: A life history theory approach. Journal of Personality and Social Psychology, 100(6), 1015-1026.
-Epp, A. M., & Price, L. L. (2008). Family identity: A framework of identity interplay in consumption practices. _Journal of Consumer Research_, 35(1), 50-70.
-Leotti et al., 2010. Born to choose: The origins and value of the need for control. Trends in Cognitive Sciences, 14(10), 457-463
-Clark, 1998. Being There: Putting Brain, Body, and World Together Again. MIT Press, 13(2), 231-233
-Schultz, 2015. Dopamine, reward, and decision making. Trends in Cognitive Sciences, 18(7), 241-243
+scrappedAt: 2024-11-05T04:25:33.172Z
+bibliography:
+  - "Chaplin, L. N., & John, D. R. (2007). Growing up in a material world: Age
+    differences in materialism in children and adolescents. Journal of Consumer
+    Research, 34(4), 480-493."
+  - Belk, R. W. (1988). Possessions and the extended self. Journal of Consumer
+    Research, 15(2), 139-168.
+  - "[3](javascript:void\\(0\\))Nørup, N., Pihl, K., Damgaard, A., & Scheutz, C.
+    (2019). Development and application of a framework for identification of
+    potential causes of waste generation in clothing supply chains.
+    Sustainability, 11(13), 3714."
+  - Bick, R., Halsey, E., & Ekenga, C. C. (2018). The global environmental
+    injustice of fast fashion. Environmental Health, 17(1), 92.
+  - "Brooks, A. (2013). Stretching global production networks: The international
+    second-hand clothing trade. Geoforum, 44, 10-22."
+  - Rochat, 2014. Ownership and the sense of self. Behavioral and Brain
+    Sciences, 40(2), 45-49
+  - "Kasser, T., & Ryan, R. M. (2001). Be careful what you wish for: Optimal
+    functioning and the relative attainment of intrinsic and extrinsic goals. In
+    P. Schmuck & K. M. Sheldon (Eds.), Life goals and well-being: Towards a
+    positive psychology of human striving (pp. 116-131). Hogrefe & Huber
+    Publishers."
+  - "Saxbe, 2010. Homes are for living in: Residential stress and psychological
+    well-being. Personality and Social Psychology Bulletin, 36(1), 71-81"
+  - McMains & Kastner, 2011. Interactions of top-down and bottom-up mechanisms
+    in human visual cortex. The Journal of Neuroscience, 31(2), 587-597
+  - Thaler, 1980. Toward a positive theory of consumer choice. Journal of
+    Economic Behavior & Organization, 1(1), 39-60
+  - Tuan, Y. F. (1980). The significance of the artifact. Geographical Review,
+    70(4), 462-472.
+  - "Griskevicius, V., Tybur, J. M., Delton, A. W., & Robertson, T. E. (2011).
+    The influence of mortality and socioeconomic status on risk and delayed
+    rewards: A life history theory approach. Journal of Personality and Social
+    Psychology, 100(6), 1015-1026."
+  - "Epp, A. M., & Price, L. L. (2008). Family identity: A framework of identity
+    interplay in consumption practices. _Journal of Consumer Research_, 35(1),
+    50-70."
+  - "Leotti et al., 2010. Born to choose: The origins and value of the need for
+    control. Trends in Cognitive Sciences, 14(10), 457-463"
+  - "Clark, 1998. Being There: Putting Brain, Body, and World Together Again.
+    MIT Press, 13(2), 231-233"
+  - Schultz, 2015. Dopamine, reward, and decision making. Trends in Cognitive
+    Sciences, 18(7), 241-243
+
 ---
 
 Ninjas de la vida, muchos pasamos por ese punto de nuestras vidas en el que de pronto, nos viene un arrebato de queremos deshacernos del máximo de cosas posible

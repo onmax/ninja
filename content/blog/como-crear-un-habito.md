@@ -1,16 +1,17 @@
 ---
-title: Hábitos apalancados: así mejoro un 1% diario (sin esfuerzo)
+title: "Hábitos apalancados: así mejoro un 1% diario (sin esfuerzo)"
 subtitle: ...un método para crear un hábito rápido
 url: https://pau.ninja/como-crear-un-habito
 slug: como-crear-un-habito
-categories: 
+categories: []
 image: persona-con-buenos-y-malos-habitos.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/persona-con-buenos-y-malos-habitos.jpeg
 publishedAt: 2023-03-26T06:49:42.000Z
 modifiedAt: 2023-12-15T08:47:23.000Z
-scrappedAt: 2024-11-04T11:40:36.923Z
+scrappedAt: 2024-11-05T04:29:15.791Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68406742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-11%2F323346818-44100-2-27d481b6cd09a.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 > Un hábito no deja de ser un comportamiento que terminas repitiendo tantas veces que se convierte en algo automático.
@@ -38,7 +39,7 @@ Actualmente el sistema o «manual» de adopción de hábitos más famosos es el 
 
 Ahora mismo rebajado
 
-[![Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamFsVTBNMVZWVVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4ODE2MA=)](https://www.amazon.es/dp8418118032?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)")
+[![Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamFsVTBNMVZWVVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzI3MA=)](https://www.amazon.es/dp8418118032?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)")
 
 [Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)](https://www.amazon.es/dp/8418118032?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)")
 

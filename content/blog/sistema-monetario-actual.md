@@ -3,14 +3,15 @@ title: La peor estafa de la historia
 subtitle: (así funciona el sistema monetario actual)
 url: https://pau.ninja/sistema-monetario-actual
 slug: sistema-monetario-actual
-categories: 
+categories: []
 image: dibujo-billete-arrugado.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/12/dibujo-billete-arrugado.jpeg
 publishedAt: 2020-12-21T11:55:36.000Z
 modifiedAt: 2023-10-11T04:58:58.000Z
-scrappedAt: 2024-11-04T11:56:26.960Z
+scrappedAt: 2024-11-05T04:32:57.203Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61682785/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301134837-44100-2-d76f2f35b3e7a.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Después de ver [las propiedades del dinero](./propiedades-del-dinero) hemos entendido que lo que estamos usando en nuestro día a día no es dinero duro, pero fiduciario. Es decir, dinero que «sólo» se respalda por la confianza y el control de los gobiernos y que como la historia nos ha demostrado una y otra vez… tiene fecha de caducidad.

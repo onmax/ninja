@@ -1,16 +1,17 @@
 ---
 title: Adiós inversión, hola refugio
-subtitle: Valores refugio: de qué (y cómo) proteger el patrimonio
+subtitle: "Valores refugio: de qué (y cómo) proteger el patrimonio"
 url: https://pau.ninja/valores-refugio
 slug: valores-refugio
-categories: 
+categories: []
 image: moneda-iluminada.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/moneda-iluminada.jpg
 publishedAt: 2021-02-13T13:08:38.000Z
 modifiedAt: 2023-10-11T04:57:41.000Z
-scrappedAt: 2024-11-04T11:55:48.444Z
+scrappedAt: 2024-11-05T04:32:38.857Z
 audioLink: https://www.ivoox.com/adios-inversion-hola-refugio_md_68309112_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Una reserva de valor es un activo que mantiene su poder adquisitivo a lo largo del tiempo.

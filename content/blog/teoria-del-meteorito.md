@@ -3,14 +3,15 @@ title: El impacto de meteorito que restableció la historia
 subtitle: Teoría del Dryas Reciente y la extinción humana
 url: https://pau.ninja/teoria-del-meteorito
 slug: teoria-del-meteorito
-categories: 
+categories: []
 image: impacto-meteorito.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/impacto-meteorito.jpg
 publishedAt: 2020-11-16T11:19:09.000Z
 modifiedAt: 2023-06-26T19:35:06.000Z
-scrappedAt: 2024-11-04T11:56:39.830Z
+scrappedAt: 2024-11-05T04:33:01.126Z
 audioLink: https://www.ivoox.com/impacto-meteorito-restablecio-historia_md_79259295_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Los libros de historia nos explican que el proceso en como nuestra civilización ha evolucionado, ha sido de manera lineal. Una línea recta ligeramente inclinada hacia arriba que va sin prisa pero sin pausa hasta llegar al día de hoy.

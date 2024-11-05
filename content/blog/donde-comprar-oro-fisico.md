@@ -3,14 +3,15 @@ title: La única manera de comprar ORO
 subtitle: (mejores tiendas dónde comprar oro en España)
 url: https://pau.ninja/donde-comprar-oro-fisico
 slug: donde-comprar-oro-fisico
-categories: 
+categories: []
 image: persona-comprando-oro.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/persona-comprando-oro.jpeg
 publishedAt: 2024-02-01T12:28:49.000Z
 modifiedAt: 2024-02-02T09:01:15.000Z
-scrappedAt: 2024-11-04T11:14:32.016Z
+scrappedAt: 2024-11-05T04:27:36.237Z
 audioLink: https://www.ivoox.com/unica-manera-comprar-oro_md_54011646_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 De los valores refugio que hay, el oro ha sido el más popular durante miles de años.

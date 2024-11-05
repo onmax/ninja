@@ -1,16 +1,17 @@
 ---
 title: Todo a Bitcoin (por qué NO diversifico)
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/diversificar-inversiones
 slug: diversificar-inversiones
-categories: 
+categories: []
 image: persona-protegiendo-bitcoin.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/persona-protegiendo-bitcoin.jpeg
 publishedAt: 2022-10-24T08:01:19.000Z
 modifiedAt: 2024-02-11T06:33:29.000Z
-scrappedAt: 2024-11-04T11:42:27.848Z
+scrappedAt: 2024-11-05T04:29:58.614Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59920593/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294408616-44100-2-36bf43d0eea.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Lo tengo todo a Bitcoin. Cuando he mencionado esta estrategia en las entrevistas que me han hecho otros creadores de contenido o incluso cuando lo dije en Televisión Nacional Española, me tacharon automáticamente de loco.

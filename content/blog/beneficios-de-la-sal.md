@@ -1,16 +1,17 @@
 ---
-title: La sal: una mentira nutricional con mucho salero
+title: "La sal: una mentira nutricional con mucho salero"
 subtitle: beneficios de la sal en el cuerpo humano
 url: https://pau.ninja/beneficios-de-la-sal
 slug: beneficios-de-la-sal
-categories: 
+categories: []
 image: tirando-sal-en-la-comida.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/tirando-sal-en-la-comida.jpeg
 publishedAt: 2023-01-18T05:55:41.000Z
 modifiedAt: 2024-10-28T14:32:54.000Z
-scrappedAt: 2024-11-04T11:41:20.277Z
+scrappedAt: 2024-11-05T04:29:28.894Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64974007/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-13%2F312578440-44100-2-c63ba332859d4.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 > «La cura para todo es la sal: sudor, lágrimas o el mar» – proverbio sueco
@@ -253,7 +254,7 @@ Después tenemos la sal marina celta que es un poco más fina y se hace de una f
 
 Ahora mismo rebajado
 
-[![Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFeE9VRnZOMjhyUVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjYwNA=)](https://www.amazon.es/dpB000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)")
+[![Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFeE9VRnZOMjhyUVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzc2OA=)](https://www.amazon.es/dpB000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)")
 
 [Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)](https://www.amazon.es/dp/B000SWTKV0?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Light Grey Celtic, Vital Mineral Blend, 1 lb (454 g)")
 

@@ -3,14 +3,15 @@ title: Pierde el miedo a besar… o arrepiéntete toda tu vida
 subtitle: (cómo superar el miedo al primer beso)
 url: https://pau.ninja/como-perder-el-miedo-a-besar
 slug: como-perder-el-miedo-a-besar
-categories: 
+categories: []
 image: hombre-abofeteado-por-chica.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/hombre-abofeteado-por-chica.jpeg
 publishedAt: 2022-06-06T06:17:34.000Z
 modifiedAt: 2023-09-16T06:29:18.000Z
-scrappedAt: 2024-11-04T11:43:39.687Z
+scrappedAt: 2024-11-05T04:30:38.901Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61842337/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F301700236-44100-2-0b78475f1b6e7.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Tanto si te encuentras delante la oportunidad de besar a alguien por **primera vez** en toda tu vida, como si estás pensando en lanzarte por primera vez a esa chica que has estado viendo…

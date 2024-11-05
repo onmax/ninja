@@ -3,14 +3,15 @@ title: No te hagas (más) tatuajes
 subtitle: (malos para la salud)
 url: https://pau.ninja/tatuajes-malos-para-la-salud
 slug: tatuajes-malos-para-la-salud
-categories: 
+categories: []
 image: persona-con-muchos-tatuajes.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/persona-con-muchos-tatuajes.jpeg
 publishedAt: 2022-12-09T09:47:18.000Z
 modifiedAt: 2023-11-09T14:30:01.000Z
-scrappedAt: 2024-11-04T11:42:00.736Z
+scrappedAt: 2024-11-05T04:29:45.776Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/62333536/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-17%2F303590745-44100-2-2912962ca8449.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Los tatuajes son malos para la salud. El daño que te hacen son directamente proporcionales a la cantidad de tinta con la que te hayas tatuado.

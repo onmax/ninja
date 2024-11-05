@@ -1,16 +1,18 @@
 ---
-title: Keto adaptación: claridad mental, foco y energía
+title: "Keto adaptación: claridad mental, foco y energía"
 subtitle: La dieta cetogénica cíclica
 url: https://pau.ninja/dieta-cetogenica-ciclica
 slug: dieta-cetogenica-ciclica
-categories: 
+categories: []
 image: nueces-grasas-y-cerebros.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/nueces-grasas-y-cerebros.jpg
 publishedAt: 2021-10-05T07:26:50.000Z
 modifiedAt: 2023-09-21T04:37:06.000Z
-scrappedAt: 2024-11-04T11:51:48.072Z
+scrappedAt: 2024-11-05T04:31:56.605Z
 audioLink: https://www.ivoox.com/keto-adaptacion-claridad-mental-foco-energia_md_70911893_wp_1.mp3
-bibliography: – 0,4 mmol/L
+bibliography:
+  - – 0,4 mmol/L
+
 ---
 
 Nos encanta repetir que no todos los carbohidratos son iguales… Que mientras nos alejemos de los refinados no tiene que haber ningún problema.
@@ -194,7 +196,7 @@ Para seguir una dieta cetogénica para nada hace falta comprar ningún _gadget_
 
 Bestseller No. 1
 
-[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjI4Mg=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmoll) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
+[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkxNQ=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmoll) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
 [Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
@@ -500,7 +502,7 @@ Y es que la crítica que más resonaba conmigo sobre comer mayoritariamente gras
 
 Ahora mismo rebajado
 
-[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjI4Mg=)](https://www.amazon.es/dp1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
+[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkxNQ=)](https://www.amazon.es/dp1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
 [I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
@@ -545,7 +547,7 @@ Se puede calcular cuál es nuestro ratio de macronutrientes (grasas, proteínas 
 
 Entrar en una nueva manera de comer y estilo de vida es también una oportunidad para asegurarnos de que incluimos aquellas comidas que nos ayudarán a estar sanos. Yo lo que priorizaría sería carne y electrolitos.
 
-[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjI4Mg=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
+[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkxNQ=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 
 [Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 

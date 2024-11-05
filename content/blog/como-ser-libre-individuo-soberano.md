@@ -3,14 +3,15 @@ title: El individuo no soberano… traga por la boca y por el ano
 subtitle: (cómo ser libre)
 url: https://pau.ninja/como-ser-libre-individuo-soberano
 slug: como-ser-libre-individuo-soberano
-categories: 
+categories: []
 image: individuo-soberano.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/01/individuo-soberano.jpg
 publishedAt: 2022-01-27T09:02:38.000Z
 modifiedAt: 2023-10-11T04:56:36.000Z
-scrappedAt: 2024-11-04T11:48:51.609Z
+scrappedAt: 2024-11-05T04:31:17.516Z
 audioLink: https://www.ivoox.com/_md_82541614_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Del mismo modo que pensar que eres un helicóptero Boeing AH-64 Apache no te convierte en uno, pensar que tienes libertad no te convierte en una persona libre.
@@ -89,7 +90,7 @@ Pensé, ¿me está diciendo este libro que **puede existir un individuo complet
 
 Ahora mismo rebajado
 
-[![The Sovereign Individual: Mastering the Transition to the Information Age](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGclptUTFVbWN6YTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzczMA=)](https://www.amazon.es/dp0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sovereign Individual: Mastering the Transition to the Information Age")
+[![The Sovereign Individual: Mastering the Transition to the Information Age](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGclptUTFVbWN6YTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzY1Mg=)](https://www.amazon.es/dp0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sovereign Individual: Mastering the Transition to the Information Age")
 
 [The Sovereign Individual: Mastering the Transition to the Information Age](https://www.amazon.es/dp/0684832720?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sovereign Individual: Mastering the Transition to the Information Age")
 

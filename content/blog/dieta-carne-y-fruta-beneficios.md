@@ -3,14 +3,15 @@ title: Dieta carnívora… ¿con fruta?
 subtitle: Los beneficios de comer fruta (con carne)
 url: https://pau.ninja/dieta-carne-y-fruta-beneficios
 slug: dieta-carne-y-fruta-beneficios
-categories: 
+categories: []
 image: persona-comiendo-fruta.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/03/persona-comiendo-fruta.jpeg
 publishedAt: 2022-03-10T14:14:04.000Z
 modifiedAt: 2024-02-28T06:27:21.000Z
-scrappedAt: 2024-11-04T11:48:22.944Z
+scrappedAt: 2024-11-05T04:31:09.315Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171870/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284080-44100-2-2a4ed6c8dd005214.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Mi madre ha dejado de preocuparse tanto por mí porque le he dicho que después de **casi 1 año siguiendo una dieta de sólo carne**… he empezado a incorporar fruta.

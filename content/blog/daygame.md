@@ -1,16 +1,17 @@
 ---
-title: Daygame: el arte de ligar en la calle
+title: "Daygame: el arte de ligar en la calle"
 subtitle: ...con una chica que no conoces
 url: https://pau.ninja/daygame
 slug: daygame
-categories: 
+categories: []
 image: hombre-ligando-con-chica.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/11/hombre-ligando-con-chica.jpeg
 publishedAt: 2021-09-28T06:59:22.000Z
 modifiedAt: 2023-08-29T05:19:03.000Z
-scrappedAt: 2024-11-04T11:54:40.320Z
+scrappedAt: 2024-11-05T04:32:14.092Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171893/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284045-44100-2-7f633063561d8c86.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 ¿Qué hombres no ha vivido la «contradicción del infierno»?
@@ -75,7 +76,7 @@ Este esquema salió en Londres sobre 2010. Cuatro años más tarde de que salie
 
 Ahora mismo rebajado
 
-[![El método: 9014 (Divulgación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdFRUUTNPVlF3ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjAwNw=)](https://www.amazon.es/dp8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El método: 9014 (Divulgación)")
+[![El método: 9014 (Divulgación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdFRUUTNPVlF3ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMzgxOA=)](https://www.amazon.es/dp8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El método: 9014 (Divulgación)")
 
 [El método: 9014 (Divulgación)](https://www.amazon.es/dp/8408075748?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El método: 9014 (Divulgación)")
 

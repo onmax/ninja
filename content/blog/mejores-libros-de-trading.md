@@ -1,16 +1,17 @@
 ---
 title: Los libros de trading que desearía haber leído antes
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/mejores-libros-de-trading
 slug: mejores-libros-de-trading
-categories: 
+categories: []
 image: mejores-libros-de-trading.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/mejores-libros-de-trading.jpg
 publishedAt: 2024-04-28T05:23:49.000Z
 modifiedAt: 2024-08-10T19:23:09.000Z
-scrappedAt: 2024-11-04T11:12:57.387Z
+scrappedAt: 2024-11-05T04:27:05.099Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86422102/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-7%2F376822825-44100-2-8535cedf0c134.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ninja de la vida, hace unos pocos meses me dio fuerte por el _trading_.
@@ -64,7 +65,7 @@ Estos son los libros que les recomendaría.
 
 ### El especulador perfecto de Brad Koteshwar
 
-[![The Perfect Speculator: How to Win Big in Up Markets and Lose Nothing in Down Markets (English...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSWRERndjMDFpVTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dpB007F2O020?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Perfect Speculator: How to Win Big in Up Markets and Lose Nothing in Down Markets (English...")
+[![The Perfect Speculator: How to Win Big in Up Markets and Lose Nothing in Down Markets (English...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSWRERndjMDFpVTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dpB007F2O020?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Perfect Speculator: How to Win Big in Up Markets and Lose Nothing in Down Markets (English...")
 
 [The Perfect Speculator: How to Win Big in Up Markets and Lose Nothing in Down Markets (English...](https://www.amazon.es/dp/B007F2O020?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Perfect Speculator: How to Win Big in Up Markets and Lose Nothing in Down Markets (English...")
 
@@ -134,7 +135,7 @@ Necesitas [ser miembro](#unirse) para desbloquear estos recursos.
 
 Ahora mismo rebajado
 
-[![Secretos Para Ganar En Los Mercados Alcistas Y Bajistas](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeFlqbDBjRlZWSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Secretos Para Ganar En Los Mercados Alcistas Y Bajistas")
+[![Secretos Para Ganar En Los Mercados Alcistas Y Bajistas](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeFlqbDBjRlZWSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Secretos Para Ganar En Los Mercados Alcistas Y Bajistas")
 
 [Secretos Para Ganar En Los Mercados Alcistas Y Bajistas](https://www.amazon.es/dp/8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Secretos Para Ganar En Los Mercados Alcistas Y Bajistas")
 
@@ -144,7 +145,7 @@ En español: me han hablado bien de su traducción.
 
 [Comprar en Amazon](https://www.amazon.es/dp/8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTFdFSmtSRkJuV0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp1556236832?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)")
+[![Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTFdFSmtSRkJuV0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp1556236832?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)")
 
 [Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)](https://www.amazon.es/dp/1556236832?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)")
 
@@ -216,7 +217,7 @@ Necesitas [ser miembro](#unirse) para desbloquear estos recursos.
 
 Ahora mismo rebajado
 
-[![Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market (Scienze)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGWVdFWXRUREVyZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp0071807225?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market (Scienze)")
+[![Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market (Scienze)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGWVdFWXRUREVyZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp0071807225?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market (Scienze)")
 
 [Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market (Scienze)](https://www.amazon.es/dp/0071807225?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Trade Like a Stock Market Wizard: How to Achieve Super Performance in Stocks in Any Market (Scienze)")
 
@@ -297,7 +298,7 @@ Necesitas [ser miembro](#unirse) para desbloquear estos recursos.
 
 Ahora mismo rebajado
 
-[![Cómo ganar dinero con las acciones: Un sistema ganador en buenos o malos tiempos](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeGJXMXVSMDF4YTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp8412432940?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cómo ganar dinero con las acciones: Un sistema ganador en buenos o malos tiempos")
+[![Cómo ganar dinero con las acciones: Un sistema ganador en buenos o malos tiempos](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeGJXMXVSMDF4YTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp8412432940?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cómo ganar dinero con las acciones: Un sistema ganador en buenos o malos tiempos")
 
 [Cómo ganar dinero con las acciones: Un sistema ganador en buenos o malos tiempos](https://www.amazon.es/dp/8412432940?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cómo ganar dinero con las acciones: Un sistema ganador en buenos o malos tiempos")
 
@@ -307,7 +308,7 @@ En español.
 
 [Comprar en Amazon](https://www.amazon.es/dp/8412432940?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![How to Make Money in Stocks: A Winning System In Good Times And Bad, Fourth Edition: A Winning...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSGJVeGhSMll5WlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp0071614133?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Make Money in Stocks: A Winning System In Good Times And Bad, Fourth Edition: A Winning...")
+[![How to Make Money in Stocks: A Winning System In Good Times And Bad, Fourth Edition: A Winning...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSGJVeGhSMll5WlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp0071614133?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Make Money in Stocks: A Winning System In Good Times And Bad, Fourth Edition: A Winning...")
 
 [How to Make Money in Stocks: A Winning System In Good Times And Bad, Fourth Edition: A Winning...](https://www.amazon.es/dp/0071614133?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Make Money in Stocks: A Winning System In Good Times And Bad, Fourth Edition: A Winning...")
 
@@ -379,7 +380,7 @@ Necesitas [ser miembro](#unirse) para desbloquear estos recursos.
 
 ### Piensa y opera como un campeón de Mark Minervini
 
-[![Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard (English...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaVpYaHRVazl0TVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dpB0755Y5LCZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard (English...")
+[![Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard (English...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaVpYaHRVazl0TVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dpB0755Y5LCZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard (English...")
 
 [Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard (English...](https://www.amazon.es/dp/B0755Y5LCZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Think & Trade Like a Champion: The Secrets, Rules & Blunt Truths of a Stock Market Wizard (English...")
 
@@ -432,7 +433,7 @@ Necesitas [ser miembro](#unirse) para desbloquear estos recursos.
 
 ### La metodología Wyckoff en profundidad de Rubén Villahermosa
 
-[![La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWlZ6VjBNRTR6TTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
+[![La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWlZ6VjBNRTR6TTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
 
 [La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](https://www.amazon.es/dp/1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
 
@@ -452,7 +453,7 @@ Conceptos que seguro que os suenan como el de _acumulación_ y _distribución_ 
 
 Ahora mismo rebajado
 
-[![Trades About to Happen: A Modern Adaptation of the Wyckoff Method: 444 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFdFZEQkpZMnBTTlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp0470487801?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Trades About to Happen: A Modern Adaptation of the Wyckoff Method: 444 (Wiley Trading)")
+[![Trades About to Happen: A Modern Adaptation of the Wyckoff Method: 444 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFdFZEQkpZMnBTTlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp0470487801?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Trades About to Happen: A Modern Adaptation of the Wyckoff Method: 444 (Wiley Trading)")
 
 [Trades About to Happen: A Modern Adaptation of the Wyckoff Method: 444 (Wiley Trading)](https://www.amazon.es/dp/0470487801?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Trades About to Happen: A Modern Adaptation of the Wyckoff Method: 444 (Wiley Trading)")
 
@@ -503,7 +504,7 @@ La historia de Nicolas Darvas que es un clásico del _trading_. Además sus lect
 
 Pensad que Nicolas vivió en la década de los 20-30 y tuvo unas rentabilidades de 2 millones de dólares que para la época tenían un poder de compra aproximado de 25 millones si hacemos el cambio al día de hoy.
 
-[![Como Gane $2,000,000 En La Bolsa / How I Made $2,000,000 in the Stock Market](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGbVZuaExjR3huVDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp/9659124171?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Como Gane $2,000,000 En La Bolsa  How I Made $2,000,000 in the Stock Market")
+[![Como Gane $2,000,000 En La Bolsa / How I Made $2,000,000 in the Stock Market](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGbVZuaExjR3huVDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp/9659124171?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Como Gane $2,000,000 En La Bolsa  How I Made $2,000,000 in the Stock Market")
 
 [Como Gane $2,000,000 En La Bolsa / How I Made $2,000,000 in the Stock Market](https://www.amazon.es/dp/9659124171?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Como Gane $2,000,000 En La Bolsa / How I Made $2,000,000 in the Stock Market")
 
@@ -523,7 +524,7 @@ En este libro (el más emblemático) no se hace mucha referencia a sus sistema d
 
 Pero parece que le gustaba escribir porque de los otros que tiene, hay uno más desconocido «Todavía puedes triunfar en el mercado» que pocos conocen aunque es en este, donde describe sus sistema de cajas más a fondo.
 
-[![You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGck1rdEpVVVY0WlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp1638231222?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...")
+[![You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGck1rdEpVVVY0WlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp1638231222?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...")
 
 [You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...](https://www.amazon.es/dp/1638231222?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...")
 
@@ -543,7 +544,7 @@ Fue capaz de amasar 100 millones durante el crack del 29. Estamos hablando de _
 
 Ahora mismo rebajado
 
-[![Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMk5reE9iRTA1ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp8423427366?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...")
+[![Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMk5reE9iRTA1ZEV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp8423427366?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...")
 
 [Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...](https://www.amazon.es/dp/8423427366?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Memorias de un operador de Bolsa: La biografía novelada de Jesse Livermore, uno de los mayores...")
 
@@ -557,7 +558,7 @@ Es una narrativa inspiradora. Menos por el hecho de que se terminó volando los 
 
 Ahora bien, si lo que quieres es escritura de puño y letra de la mano del propio Livermore, nos dejó un poco de texto en formato libro que disfruté mucho leyendo en el AVE de Barcelona a Zaragoza hacia uno de nuestros retiros de crecimiento personal.
 
-[![How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUE5qZEtZbTkwTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp0071469796?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...")
+[![How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUE5qZEtZbTkwTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp0071469796?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...")
 
 [How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...](https://www.amazon.es/dp/0071469796?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Trade In Stocks: His Own Words: The Jesse Livermonre Secret Trading Formula For Understanding...")
 
@@ -579,7 +580,7 @@ Este libro es la _biblia_ que O’neil y Darvas se leían constantemente, hasta 
 
 Ahora mismo rebajado
 
-[![Battle for Investment Survival: 36 (Wiley Investment Classics)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGMGJVcDFNSFZRUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU3Ng=)](https://www.amazon.es/dp0470110031?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Battle for Investment Survival: 36 (Wiley Investment Classics)")
+[![Battle for Investment Survival: 36 (Wiley Investment Classics)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGMGJVcDFNSFZRUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU5MQ=)](https://www.amazon.es/dp0470110031?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Battle for Investment Survival: 36 (Wiley Investment Classics)")
 
 [Battle for Investment Survival: 36 (Wiley Investment Classics)](https://www.amazon.es/dp/0470110031?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Battle for Investment Survival: 36 (Wiley Investment Classics)")
 

@@ -3,14 +3,15 @@ title: En defensa a la masculinidad
 subtitle: las características de un hombre de alto valor
 url: https://pau.ninja/hombre-de-alto-valor
 slug: hombre-de-alto-valor
-categories: 
+categories: []
 image: hombre-levantando-el-mundo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/hombre-levantando-el-mundo.jpeg
 publishedAt: 2022-12-26T13:20:09.000Z
 modifiedAt: 2024-02-28T06:33:46.000Z
-scrappedAt: 2024-11-04T11:41:46.313Z
+scrappedAt: 2024-11-05T04:29:37.905Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171673/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283876-44100-2-0ce6fbfa9aba7ce3.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 ## Qué es la masculinidad
@@ -263,7 +264,7 @@ Uno de mis libros favoritos es El Salto Social, que me he leído un par de veces
 
 Ahora mismo rebajado
 
-[![El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWNXNW1OMnRxWTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDQ0Ng=)](https://www.amazon.es/dp8499887457?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...")
+[![El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWNXNW1OMnRxWTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNDA4OA=)](https://www.amazon.es/dp8499887457?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...")
 
 [El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...](https://www.amazon.es/dp/8499887457?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...")
 

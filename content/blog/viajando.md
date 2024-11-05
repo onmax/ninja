@@ -3,14 +3,15 @@ title: Vivir viajando es un sueño tan húmedo… que te meas
 subtitle: El problema de una vida nómada sin destino fijo ni rumbo
 url: https://pau.ninja/viajando
 slug: viajando
-categories: 
+categories: []
 image: hombre-en-aeropuerto-esperando-avion.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/01/hombre-en-aeropuerto-esperando-avion.jpeg
 publishedAt: 2022-01-19T06:45:23.000Z
 modifiedAt: 2023-04-15T06:56:20.000Z
-scrappedAt: 2024-11-04T11:48:56.944Z
+scrappedAt: 2024-11-05T04:31:18.275Z
 audioLink: https://www.ivoox.com/_md_82541931_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Desde 2016 he vivido viajando gracias a los negocios online.

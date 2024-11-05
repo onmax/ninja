@@ -1,16 +1,15 @@
 ---
 title: Los patrones de velas japonesas más importantes
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/patrones-de-velas-japonesas
 slug: patrones-de-velas-japonesas
-categories: 
+categories: []
 image: persona-aprende-patrones-de-velas-japonesas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/persona-aprende-patrones-de-velas-japonesas.jpeg
 publishedAt: 2024-04-05T04:24:28.000Z
-modifiedAt: undefined
-scrappedAt: 2024-11-04T11:13:19.038Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:27:12.378Z
+bibliography: []
+
 ---
 
 Si en los gráficos de análisis técnico ya sabemos [cómo leer velas japonesas](./como-leer-velas-japonesas) (#598) entonces entenderemos porque los patrones de hoy no sólo tienen sentido, sino que memorizarlos pueden ser muy rentables.
@@ -173,7 +172,7 @@ El que para mí ha sido el mejor libro porque ha utilizado _big data_ analizand
 
 Ahora mismo rebajado
 
-[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU5OA=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
+[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzYzMQ=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 [Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 

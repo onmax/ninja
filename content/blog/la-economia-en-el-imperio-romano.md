@@ -1,16 +1,17 @@
 ---
-title: Colapso económico: lo que (no) aprendimos de Roma
+title: "Colapso económico: lo que (no) aprendimos de Roma"
 subtitle: El sistema monetario del Imperio romano
 url: https://pau.ninja/la-economia-en-el-imperio-romano
 slug: la-economia-en-el-imperio-romano
-categories: 
+categories: []
 image: colapso-sistema-romano.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/colapso-sistema-romano.jpeg
 publishedAt: 2021-01-03T12:07:20.000Z
 modifiedAt: 2023-10-11T04:54:28.000Z
-scrappedAt: 2024-11-04T11:56:22.437Z
+scrappedAt: 2024-11-05T04:32:51.723Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54937984/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-17%2F276780104-44100-2-ebefb1be9de33.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 La historia se repite, y ya os puedo adelantar que en la política monetaria no es una excepción.
@@ -101,7 +102,7 @@ Hace dos siglos, en 1776, se publicaron dos libros en Inglaterra que a día de h
 
 Ahora mismo rebajado
 
-[![Historia de la decadencia y caída del Imperio romano: 80 (Minus)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGVmQyMU5WRWhyU0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQyMQ=)](https://www.amazon.es/dp8490656878?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Historia de la decadencia y caída del Imperio romano: 80 (Minus)")
+[![Historia de la decadencia y caída del Imperio romano: 80 (Minus)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGVmQyMU5WRWhyU0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzUxMA=)](https://www.amazon.es/dp8490656878?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Historia de la decadencia y caída del Imperio romano: 80 (Minus)")
 
 [Historia de la decadencia y caída del Imperio romano: 80 (Minus)](https://www.amazon.es/dp/8490656878?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Historia de la decadencia y caída del Imperio romano: 80 (Minus)")
 

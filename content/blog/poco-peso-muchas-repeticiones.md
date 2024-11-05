@@ -3,45 +3,124 @@ title: Poco peso, muchas repeticiones
 subtitle: ¿has sobrevalorado la tensión mecánica? (+30 estudios)
 url: https://pau.ninja/poco-peso-muchas-repeticiones
 slug: poco-peso-muchas-repeticiones
-categories: 
+categories: []
 image: entrenando-con-poco-peso-y-muchas-repeticiones.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/entrenando-con-poco-peso-y-muchas-repeticiones.jpg
 publishedAt: 2024-09-04T08:09:08.000Z
 modifiedAt: 2024-10-24T06:51:41.000Z
-scrappedAt: 2024-11-04T11:09:37.997Z
-audioLink: undefined
-bibliography: Takada, S., Okita, K., Suga, T., Omokawa, M., Kadoguchi, T., Hirabayashi, K., … & Morita, N. (2012). «Low-intensity exercise can increase muscle mass and strength proportionally to enhanced metabolic stress under ischemic conditions.» Journal of Applied Physiology, 113(2), 199-205.
-Loenneke, J. P., Fahs, C. A., Wilson, J. M., & Bemben, M. G. (2011). «Blood flow restriction: The metabolite/volume threshold theory.» Medical Hypotheses, 77(5), 748-752.
-Yasuda, T., Loenneke, J. P., Ogasawara, R., & Abe, T. (2015). «Effects of short-term low-load resistance training with blood flow restriction on muscle size and strength in young men.» Journal of Sports Science & Medicine, 14(4), 811-817.
-Laurentino, G. C., Ugrinowitsch, C., Roschel, H., Aoki, M. S., Soares, A. G., Neves, M., … & Tricoli, V. (2012). «Strength training with blood flow restriction diminishes myostatin gene expression.» Medicine and Science in Sports and Exercise, 44(3), 406-412.
-Patterson, S. D., Hughes, L., Warmington, S., Burr, J., Scott, B. R., Owens, J., … & May, A. K. (2019). «Blood flow restriction exercise: considerations of methodology, application, and safety.» Frontiers in Physiology, 10, 533.
-Loenneke, J. P., & Abe, T. (2012). «Does blood flow restriction result in skeletal muscle damage? A critical review of available evidence.» Scandinavian Journal of Medicine & Science in Sports, 22(6), 713-722.
-Suga, T., Okita, K., Morita, N., Yokota, T., Hirabayashi, K., Kinugawa, S., … & Tsutsui, H. (2010). «Intramuscular metabolism during low-intensity resistance exercise with blood flow restriction.» Journal of Applied Physiology, 109(5), 1230-1235.
-Egginton, S., Badr, I., Williams, J., et al. (2016). «Angiogenesis and the promotion of exercise performance: New evidence and challenges.» Sports Medicine, 46(3), 357-372.
-Prior, B. M., Yang, H. T., & Terjung, R. L. (2004). «What makes vessels grow with exercise training?» Journal of Applied Physiology, 97(3), 1119-1128.
-Dawson, E. A., Green, D. J., Cable, N. T., & Thijssen, D. H. (2013). «Effects of exercise on vascular endothelial function: role of endothelium-derived hyperpolarizing factors.» American Journal of Physiology-Heart and Circulatory Physiology, 305(4), H479-H491.
-Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their application to resistance training.» Journal of Strength and Conditioning Research, 24(10), 2857-2872.
-Loenneke, J. P., Wilson, J. M., Wilson, G. J., Pujol, T. J., & Bemben, M. G. (2011). «Potential safety issues with blood flow restriction training.» Scandinavian Journal of Medicine & Science in Sports, 21(4), 510-518.
-Fry, C. S., & Rasmussen, B. B. (2011). «Skeletal muscle protein balance and metabolism in the elderly.» Current Aging Science, 4(3), 260-268.
-Egner, I. M., Bruusgaard, J. C., Eftestøl, E., & Gundersen, K. (2016). «A cellular memory mechanism aids overload hypertrophy in muscle long after an episodic exposure to anabolic steroids.» Journal of Physiology, 594(18), 5371-5382.
-Petrella, J. K., Kim, J. S., Cross, J. M., Kosek, D. J., & Bamman, M. M. (2006). «Efficacy of myonuclear addition may explain differential myofiber growth among resistance-trained young and older men and women.» American Journal of Physiology-Endocrinology and Metabolism, 291(5), E937-E946.
-Rosenblatt, J. D., Yong, D., & Parry, D. J. (1994). «Satellite cell activity is required for hypertrophy of overloaded adult rat muscle.» Muscle & Nerve, 17(6), 608-613.
-Snijders, T., Nederveen, J. P., McKay, B. R., Joanisse, S., Verdijk, L. B., van Loon, L. J., & Parise, G. (2015). «Satellite cells in human skeletal muscle plasticity.» Frontiers in Physiology, 6, 283.
-Yin, H., Price, F., & Rudnicki, M. A. (2013). «Satellite cells and the muscle stem cell niche.» Physiological Reviews, 93(1), 23-67.
-Fry, C. S., Lee, J. D., Jackson, J. R., & Kirby, T. J. (2014). «Regulation of the muscle fiber microenvironment by activated satellite cells during hypertrophy.» The FASEB Journal, 28(4), 1654-1665.
-Schoenfeld, B. J., Grgic, J., Ogborn, D., & Krieger, J. W. (2017). «Strength and hypertrophy adaptations between low- vs. high-load resistance training: A systematic review and meta-analysis.» Journal of Strength and Conditioning Research, 31(12), 3508-3523.
-Morton, R. W., Colenso-Semple, L., & Phillips, S. M. (2019). «Training for muscle hypertrophy: the case for low load blood flow restricted training.» Frontiers in Physiology, 10, 533.
-Schoenfeld, B. J., Peterson, M. D., Ogborn, D., Contreras, B., Sonmez, G. T., & Alvar, B. A. (2015). «Effects of low- vs. high-load resistance training on muscle strength and hypertrophy in well-trained men.» Journal of Strength and Conditioning Research, 29(10), 2954-2963.
-Schoenfeld, B. J., Ogborn, D., & Krieger, J. W. (2016). «Hypertrophic effects of concentric vs. eccentric muscle actions: A systematic review and meta-analysis.» Journal of Strength and Conditioning Research, 30(6), 1800-1808.
-Krieger, J. W. (2010). «Single vs. multiple sets of resistance exercise for muscle hypertrophy: A meta-analysis.» Journal of Strength and Conditioning Research, 24(4), 1150-1159.
-Schoenfeld, B. J., Grgic, J., Ogborn, D., & Krieger, J. W. (2018). «Strength and hypertrophy adaptations between low- vs. high-load resistance training: A systematic review and meta-analysis.» Journal of Strength and Conditioning Research, 32(7), 2108-2125.
-Schoenfeld, B. J., Contreras, B., Krieger, J. W., Grgic, J., Delcastillo, K., Belliard, R., & Alto, A. (2019). «Resistance training volume enhances muscle hypertrophy.» Medicine & Science in Sports & Exercise, 51(1), 94-103.
-Melo, S. F., Tricoli, V. A., Holz, A. C., Franciozi, C. E., Saldanha, L. B., & Tricoli, V. A. (2018). «Effects of resistance training performed to failure or non-failure on muscle hypertrophy, strength, and functional performance in trained individuals.» Journal of Strength and Conditioning Research, 32(9), 2545-2552.
-Fisher, J. P., Steele, J., & Smith, D. (2017). «High- and low-load resistance training: Similar increases in muscle size and strength when volume is equated.» Journal of Applied Physiology, 123(1), 112-120.
-Scott, B. R., Slattery, K. M., Sculley, D. V., & Dascombe, B. J. (2014). «Hypoxia and resistance exercise: a comparison of localized and systemic methods.» Sports Medicine, 44(8), 1037-1054.
-Gustavo, M. T., Schoenfeld, B. J., & Marchetti, P. H. (2017). «Hypothetical model: Is the hypoxia experienced during resistance exercise a stimulus for muscle hypertrophy via increased lactate production?» Medical Hypotheses, 106, 53-63.
-Nishimura, A., Sugita, M., Kato, K., Fukuda, A., Sudo, A., & Uchida, A. (2010). «Hypoxia increases muscle hypertrophy induced by resistance training.» International Journal of Sports Physiology and Performance, 5(4), 497-508.
-Schoenfeld BJ, Grgic J, Van Every DW, Plotkin DL. Loading Recommendations for Muscle Strength, Hypertrophy, and Local Endurance: A Re-Examination of the Repetition Continuum. Sports (Basel). 2021 Feb 22;9(2):32. doi: 10.3390/sports9020032. PMID: 33671664; PMCID: PMC7927075.
+scrappedAt: 2024-11-05T04:25:49.265Z
+bibliography:
+  - Takada, S., Okita, K., Suga, T., Omokawa, M., Kadoguchi, T., Hirabayashi,
+    K., … & Morita, N. (2012). «Low-intensity exercise can increase muscle mass
+    and strength proportionally to enhanced metabolic stress under ischemic
+    conditions.» Journal of Applied Physiology, 113(2), 199-205.
+  - "Loenneke, J. P., Fahs, C. A., Wilson, J. M., & Bemben, M. G. (2011). «Blood
+    flow restriction: The metabolite/volume threshold theory.» Medical
+    Hypotheses, 77(5), 748-752."
+  - Yasuda, T., Loenneke, J. P., Ogasawara, R., & Abe, T. (2015). «Effects of
+    short-term low-load resistance training with blood flow restriction on
+    muscle size and strength in young men.» Journal of Sports Science &
+    Medicine, 14(4), 811-817.
+  - Laurentino, G. C., Ugrinowitsch, C., Roschel, H., Aoki, M. S., Soares, A.
+    G., Neves, M., … & Tricoli, V. (2012). «Strength training with blood flow
+    restriction diminishes myostatin gene expression.» Medicine and Science in
+    Sports and Exercise, 44(3), 406-412.
+  - "Patterson, S. D., Hughes, L., Warmington, S., Burr, J., Scott, B. R.,
+    Owens, J., … & May, A. K. (2019). «Blood flow restriction exercise:
+    considerations of methodology, application, and safety.» Frontiers in
+    Physiology, 10, 533."
+  - Loenneke, J. P., & Abe, T. (2012). «Does blood flow restriction result in
+    skeletal muscle damage? A critical review of available evidence.»
+    Scandinavian Journal of Medicine & Science in Sports, 22(6), 713-722.
+  - Suga, T., Okita, K., Morita, N., Yokota, T., Hirabayashi, K., Kinugawa, S.,
+    … & Tsutsui, H. (2010). «Intramuscular metabolism during low-intensity
+    resistance exercise with blood flow restriction.» Journal of Applied
+    Physiology, 109(5), 1230-1235.
+  - "Egginton, S., Badr, I., Williams, J., et al. (2016). «Angiogenesis and the
+    promotion of exercise performance: New evidence and challenges.» Sports
+    Medicine, 46(3), 357-372."
+  - Prior, B. M., Yang, H. T., & Terjung, R. L. (2004). «What makes vessels grow
+    with exercise training?» Journal of Applied Physiology, 97(3), 1119-1128.
+  - "Dawson, E. A., Green, D. J., Cable, N. T., & Thijssen, D. H. (2013).
+    «Effects of exercise on vascular endothelial function: role of
+    endothelium-derived hyperpolarizing factors.» American Journal of
+    Physiology-Heart and Circulatory Physiology, 305(4), H479-H491."
+  - Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their
+    application to resistance training.» Journal of Strength and Conditioning
+    Research, 24(10), 2857-2872.
+  - Loenneke, J. P., Wilson, J. M., Wilson, G. J., Pujol, T. J., & Bemben, M. G.
+    (2011). «Potential safety issues with blood flow restriction training.»
+    Scandinavian Journal of Medicine & Science in Sports, 21(4), 510-518.
+  - Fry, C. S., & Rasmussen, B. B. (2011). «Skeletal muscle protein balance and
+    metabolism in the elderly.» Current Aging Science, 4(3), 260-268.
+  - Egner, I. M., Bruusgaard, J. C., Eftestøl, E., & Gundersen, K. (2016). «A
+    cellular memory mechanism aids overload hypertrophy in muscle long after an
+    episodic exposure to anabolic steroids.» Journal of Physiology, 594(18),
+    5371-5382.
+  - Petrella, J. K., Kim, J. S., Cross, J. M., Kosek, D. J., & Bamman, M. M.
+    (2006). «Efficacy of myonuclear addition may explain differential myofiber
+    growth among resistance-trained young and older men and women.» American
+    Journal of Physiology-Endocrinology and Metabolism, 291(5), E937-E946.
+  - Rosenblatt, J. D., Yong, D., & Parry, D. J. (1994). «Satellite cell activity
+    is required for hypertrophy of overloaded adult rat muscle.» Muscle & Nerve,
+    17(6), 608-613.
+  - Snijders, T., Nederveen, J. P., McKay, B. R., Joanisse, S., Verdijk, L. B.,
+    van Loon, L. J., & Parise, G. (2015). «Satellite cells in human skeletal
+    muscle plasticity.» Frontiers in Physiology, 6, 283.
+  - Yin, H., Price, F., & Rudnicki, M. A. (2013). «Satellite cells and the
+    muscle stem cell niche.» Physiological Reviews, 93(1), 23-67.
+  - Fry, C. S., Lee, J. D., Jackson, J. R., & Kirby, T. J. (2014). «Regulation
+    of the muscle fiber microenvironment by activated satellite cells during
+    hypertrophy.» The FASEB Journal, 28(4), 1654-1665.
+  - "Schoenfeld, B. J., Grgic, J., Ogborn, D., & Krieger, J. W. (2017).
+    «Strength and hypertrophy adaptations between low- vs. high-load resistance
+    training: A systematic review and meta-analysis.» Journal of Strength and
+    Conditioning Research, 31(12), 3508-3523."
+  - "Morton, R. W., Colenso-Semple, L., & Phillips, S. M. (2019). «Training for
+    muscle hypertrophy: the case for low load blood flow restricted training.»
+    Frontiers in Physiology, 10, 533."
+  - Schoenfeld, B. J., Peterson, M. D., Ogborn, D., Contreras, B., Sonmez, G.
+    T., & Alvar, B. A. (2015). «Effects of low- vs. high-load resistance
+    training on muscle strength and hypertrophy in well-trained men.» Journal of
+    Strength and Conditioning Research, 29(10), 2954-2963.
+  - "Schoenfeld, B. J., Ogborn, D., & Krieger, J. W. (2016). «Hypertrophic
+    effects of concentric vs. eccentric muscle actions: A systematic review and
+    meta-analysis.» Journal of Strength and Conditioning Research, 30(6),
+    1800-1808."
+  - "Krieger, J. W. (2010). «Single vs. multiple sets of resistance exercise for
+    muscle hypertrophy: A meta-analysis.» Journal of Strength and Conditioning
+    Research, 24(4), 1150-1159."
+  - "Schoenfeld, B. J., Grgic, J., Ogborn, D., & Krieger, J. W. (2018).
+    «Strength and hypertrophy adaptations between low- vs. high-load resistance
+    training: A systematic review and meta-analysis.» Journal of Strength and
+    Conditioning Research, 32(7), 2108-2125."
+  - Schoenfeld, B. J., Contreras, B., Krieger, J. W., Grgic, J., Delcastillo,
+    K., Belliard, R., & Alto, A. (2019). «Resistance training volume enhances
+    muscle hypertrophy.» Medicine & Science in Sports & Exercise, 51(1), 94-103.
+  - Melo, S. F., Tricoli, V. A., Holz, A. C., Franciozi, C. E., Saldanha, L. B.,
+    & Tricoli, V. A. (2018). «Effects of resistance training performed to
+    failure or non-failure on muscle hypertrophy, strength, and functional
+    performance in trained individuals.» Journal of Strength and Conditioning
+    Research, 32(9), 2545-2552.
+  - "Fisher, J. P., Steele, J., & Smith, D. (2017). «High- and low-load
+    resistance training: Similar increases in muscle size and strength when
+    volume is equated.» Journal of Applied Physiology, 123(1), 112-120."
+  - "Scott, B. R., Slattery, K. M., Sculley, D. V., & Dascombe, B. J. (2014).
+    «Hypoxia and resistance exercise: a comparison of localized and systemic
+    methods.» Sports Medicine, 44(8), 1037-1054."
+  - "Gustavo, M. T., Schoenfeld, B. J., & Marchetti, P. H. (2017). «Hypothetical
+    model: Is the hypoxia experienced during resistance exercise a stimulus for
+    muscle hypertrophy via increased lactate production?» Medical Hypotheses,
+    106, 53-63."
+  - Nishimura, A., Sugita, M., Kato, K., Fukuda, A., Sudo, A., & Uchida, A.
+    (2010). «Hypoxia increases muscle hypertrophy induced by resistance
+    training.» International Journal of Sports Physiology and Performance, 5(4),
+    497-508.
+  - "Schoenfeld BJ, Grgic J, Van Every DW, Plotkin DL. Loading Recommendations
+    for Muscle Strength, Hypertrophy, and Local Endurance: A Re-Examination of
+    the Repetition Continuum. Sports (Basel). 2021 Feb 22;9(2):32. doi:
+    10.3390/sports9020032. PMID: 33671664; PMCID: PMC7927075."
+
 ---
 
 Ninja de la vida, la tendencia de la industria del fitness es homogenizarlo todo.

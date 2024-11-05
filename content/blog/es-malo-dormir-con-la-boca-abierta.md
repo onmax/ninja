@@ -3,14 +3,15 @@ title: Cierra la maldita boca
 subtitle: Solución a las consecuencias de dormir con la boca abierta
 url: https://pau.ninja/es-malo-dormir-con-la-boca-abierta
 slug: es-malo-dormir-con-la-boca-abierta
-categories: 
+categories: []
 image: persona-con-la-boca-tapada.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/persona-con-la-boca-tapada.jpeg
 publishedAt: 2021-02-02T10:41:59.000Z
 modifiedAt: 2024-01-22T09:14:06.000Z
-scrappedAt: 2024-11-04T11:55:55.278Z
+scrappedAt: 2024-11-05T04:32:39.970Z
 audioLink: https://www.ivoox.com/cierra-maldita-boca_md_66060104_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hace poco publicaba un tweet en el que listaba las cosas que, cuando las cumplo, hacen que duerma como un bebé.
@@ -136,7 +137,7 @@ _Joer_. Si el aire me llega en los pulmones igualmente, qué más me da si es po
 
 El caso es que topé con una entrevista con James Nestor, el autor del libro Breath.
 
-[![Breath: The New Science of a Lost Art](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUlYwMUpSVlJWWVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTc2Mg=)](https://www.amazon.es/dp0593191358?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Breath: The New Science of a Lost Art")
+[![Breath: The New Science of a Lost Art](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUlYwMUpSVlJWWVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNjAwMQ=)](https://www.amazon.es/dp0593191358?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Breath: The New Science of a Lost Art")
 
 [Breath: The New Science of a Lost Art](https://www.amazon.es/dp/0593191358?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Breath: The New Science of a Lost Art")
 
@@ -306,7 +307,7 @@ Por otro lado algunos ninjas de la vida estarán succionando todo este conocimie
 
 Que sí, que todo muy malo pero **simplemente no puedo**. Sigo con la nariz tapada y no me queda otra que respirar por la boca.
 
-[![The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFNFNYSm1kMlZFSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTc2Mg=)](https://www.amazon.es/dp0062349473?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become...")
+[![The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFNFNYSm1kMlZFSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNjAwMQ=)](https://www.amazon.es/dp0062349473?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become...")
 
 [The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become...](https://www.amazon.es/dp/0062349473?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Oxygen Advantage: Simple, Scientifically Proven Breathing Techniques to Help You Become...")
 
@@ -385,7 +386,7 @@ Otra manera de dejar de respirar por la boca es con el método Buteyko, que reco
 
 Nos tomaría un día entero para explicar los distintos tipos de ejercicios, que bueno, si os interesa podemos llegar a entrar.
 
-[![Close Your Mouth: Buteyko Clinic Handbook for Perfect Health](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcExYQTFjblF6U0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTc2Mg=)](https://www.amazon.es/dp0954599616?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Close Your Mouth: Buteyko Clinic Handbook for Perfect Health")
+[![Close Your Mouth: Buteyko Clinic Handbook for Perfect Health](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcExYQTFjblF6U0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNjAwMQ=)](https://www.amazon.es/dp0954599616?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Close Your Mouth: Buteyko Clinic Handbook for Perfect Health")
 
 [Close Your Mouth: Buteyko Clinic Handbook for Perfect Health](https://www.amazon.es/dp/0954599616?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Close Your Mouth: Buteyko Clinic Handbook for Perfect Health")
 
@@ -440,7 +441,7 @@ La que tiene menos glamour sería encintarnos la boca con cinta adhesiva cada no
 
 Seguro que si sigo usando cinta en unos años terminaré igual de calvo de bigote que de cabeza.
 
-[![Dispositivos Anti Ronquidos Soluciones,Chin Strap, Dejar De Roncar La Correa Para El Mentón,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TURGSGJWWm9WbEpwYjB3dVoybG1MbDlUVERFMk1GOHVhbkJufDE3MzA4OTE3NjI)](https://www.amazon.es/dpB08VGWMRHS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Dispositivos Anti Ronquidos Soluciones,Chin Strap, Dejar De Roncar La Correa Para El Mentón,...")
+[![Dispositivos Anti Ronquidos Soluciones,Chin Strap, Dejar De Roncar La Correa Para El Mentón,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TURGSGJWWm9WbEpwYjB3dVoybG1MbDlUVERFMk1GOHVhbkJufDE3MzA5MzYwMDE)](https://www.amazon.es/dpB08VGWMRHS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Dispositivos Anti Ronquidos Soluciones,Chin Strap, Dejar De Roncar La Correa Para El Mentón,...")
 
 [Dispositivos Anti Ronquidos Soluciones,Chin Strap, Dejar De Roncar La Correa Para El Mentón,...](https://www.amazon.es/dp/B08VGWMRHS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Dispositivos Anti Ronquidos Soluciones,Chin Strap, Dejar De Roncar La Correa Para El Mentón,...")
 

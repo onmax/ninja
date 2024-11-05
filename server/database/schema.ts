@@ -1,3 +1,4 @@
+import { relations } from 'drizzle-orm'
 import { integer, sqliteTable, text, uniqueIndex } from 'drizzle-orm/sqlite-core'
 
 type Headers = [string] | [string, string] | [string, string, string] | [string, string, string, string]
@@ -22,3 +23,10 @@ export const chunks = sqliteTable('chunks', {
     nameIdx: uniqueIndex('hash_index').on(table.hash),
   }
 })
+
+export const chunksRelations = relations(chunks, ({ one }) => ({
+  post: one(postRecord, {
+    fields: [chunks.postRecordId],
+    references: [postRecord.id],
+  }),
+}))

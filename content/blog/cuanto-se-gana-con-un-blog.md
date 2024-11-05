@@ -3,14 +3,14 @@ title: ¿Cuánto se gana con un blog como este?
 subtitle: Te comparto mis ingresos
 url: https://pau.ninja/cuanto-se-gana-con-un-blog
 slug: cuanto-se-gana-con-un-blog
-categories: 
+categories: []
 image: portatil-descansando.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2019/01/portatil-descansando.jpg
 publishedAt: 2019-01-03T14:43:00.000Z
 modifiedAt: 2023-10-06T05:43:34.000Z
-scrappedAt: 2024-11-04T11:57:22.115Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:33:20.635Z
+bibliography: []
+
 ---
 
 Por el amor a la transparencia, desde que empecé el blog decidí hacer un pequeño reporte a final de cada año para mostrar cuánto había ganado (o perdido en el caso de los primeros meses de vida).

@@ -3,30 +3,92 @@ title: Camina como un filósofo…
 subtitle: para marcar abdominales de dios griego
 url: https://pau.ninja/adelgazar-caminando
 slug: adelgazar-caminando
-categories: 
+categories: []
 image: persona-con-abdominales-caminando-en-el-bosque.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/09/persona-con-abdominales-caminando-en-el-bosque.jpg
 publishedAt: 2023-09-22T10:15:49.000Z
 modifiedAt: 2024-10-15T18:01:00.000Z
-scrappedAt: 2024-11-04T11:16:48.567Z
+scrappedAt: 2024-11-05T04:28:24.582Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/92683168/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-7%2F387660974-44100-2-abf813007959d.mp3
-bibliography: Rossow LM, Fukuda DH, Fahs CA, Loenneke JP, Stout JR. Natural bodybuilding competition preparation and recovery: a 12-month case study. Int J Sports Physiol Perform. 2013 Sep;8(5):582-92. doi: 10.1123/ijspp.8.5.582. Epub 2013 Feb 14. PMID: 23412685.
-Hulmi JJ, Isola V, Suonpää M, Järvinen NJ, Kokkonen M, Wennerström A, Nyman K, Perola M, Ahtiainen JP, Häkkinen K. The Effects of Intensive Weight Reduction on Body Composition and Serum Hormones in Female Fitness Competitors. Front Physiol. 2017 Jan 10;7:689. doi: 10.3389/fphys.2016.00689. PMID: 28119632; PMCID: PMC5222856.
-de Souza, H.S., Jardim, T.V., Barroso, W.K.S. et al. Hormonal assessment of participants in a long distance walk. Diabetol Metab Syndr 11, 19 (2019).
-Pontzer, Herman. 2019. “Humans Evolved to Exercise.” Scientific American. ‌
-O’Keefe, E.L., Lavie, C.J. A Hunter-Gatherer Exercise Prescription to Optimize Health and Well-Being in the Modern World. J. of SCI. IN SPORT AND EXERCISE 3, 147–157 (2021).
-«The Story of the Human Body: Evolution, Health, and Disease: 9780307379412: Lieberman, Daniel: Libros.» 2023.‌
-WBUR. 2013. “Caveman Syndrome: Today’s Killer Diseases Stem from Evolutionary Mismatch | WBUR News.”
-del Pozo Cruz B, Ahmadi MN, Lee I, Stamatakis E. Prospective Associations of Daily Step Counts and Intensity With Cancer and Cardiovascular Disease Incidence and Mortality and All-Cause Mortality. JAMA Intern Med. 2022;182(11):1139–1148.
-Paluch AE, Gabriel KP, Fulton JE, et al. Steps per Day and All-Cause Mortality in Middle-aged Adults in the Coronary Artery Risk Development in Young Adults Study. JAMA Netw Open. 2021;4(9):e2124516.
-Paluch AE, Bajpai S, Ballin M, Bassett DR, Buford TW, Carnethon MR, Chernofsky A, Dooley EE, Ekelund U, Evenson KR, Galuska DA, Jefferis BJ, Kong L, Kraus WE, Larson MG, Lee IM, Matthews CE, Newton RL Jr, Nordström A, Nordström P, Palta P, Patel AV, Pettee Gabriel K, Pieper CF, Pompeii L, Rees-Punia E, Spartano NL, Vasan RS, Whincup PH, Yang S, Fulton JE; Steps for Health Collaborative. Prospective Association of Daily Steps With Cardiovascular Disease: A Harmonized Meta-Analysis. Circulation. 2023 Jan 10;147(2):122-131. doi: 10.1161/CIRCULATIONAHA.122.061288. Epub 2022 Dec 20. PMID: 36537288; PMCID: PMC9839547.
-Paluch AE, Bajpai S, Bassett DR, Carnethon MR, Ekelund U, Evenson KR, Galuska DA, Jefferis BJ, Kraus WE, Lee IM, Matthews CE, Omura JD, Patel AV, Pieper CF, Rees-Punia E, Dallmeier D, Klenk J, Whincup PH, Dooley EE, Pettee Gabriel K, Palta P, Pompeii LA, Chernofsky A, Larson MG, Vasan RS, Spartano N, Ballin M, Nordström P, Nordström A, Anderssen SA, Hansen BH, Cochrane JA, Dwyer T, Wang J, Ferrucci L, Liu F, Schrack J, Urbanek J, Saint-Maurice PF, Yamamoto N, Yoshitake Y, Newton RL Jr, Yang S, Shiroma EJ, Fulton JE; Steps for Health Collaborative. Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts. Lancet Public Health. 2022 Mar;7(3):e219-e228. doi: 10.1016/S2468-2667(21)00302-9. PMID: 35247352; PMCID: PMC9289978.
-Puthoff ML, Darter BJ, Nielsen DH, Yack HJ. The effect of weighted vest walking on metabolic responses and ground reaction forces. Med Sci Sports Exerc. 2006 Apr;38(4):746-52. doi: 10.1249/01.mss.0000210198.79705.19. PMID: 16679992.
-McCormick J. J. (2014). The Metabolic Cost of Slow Graded Treadmill Walking with a Weighted Vest in Untrained Females. Doctoral dissertation, The University of New Mexico; Albuquerque, NM.
-Young DR, Hivert MF, Alhassan S, Camhi SM, Ferguson JF, Katzmarzyk PT, Lewis CE, Owen N, Perry CK, Siddique J, Yong CM; Physical Activity Committee of the Council on Lifestyle and Cardiometabolic Health; Council on Clinical Cardiology; Council on Epidemiology and Prevention; Council on Functional Genomics and Translational Biology; and Stroke Council. Sedentary Behavior and Cardiovascular Morbidity and Mortality: A Science Advisory From the American Heart Association. Circulation. 2016 Sep 27;134(13):e262-79. doi: 10.1161/CIR.0000000000000440. Epub 2016 Aug 15. PMID: 27528691.
-Paluch AE, Bajpai S, Ballin M, Bassett DR, Buford TW, Carnethon MR, Chernofsky A, Dooley EE, Ekelund U, Evenson KR, Galuska DA, Jefferis BJ, Kong L, Kraus WE, Larson MG, Lee IM, Matthews CE, Newton RL Jr, Nordström A, Nordström P, Palta P, Patel AV, Pettee Gabriel K, Pieper CF, Pompeii L, Rees-Punia E, Spartano NL, Vasan RS, Whincup PH, Yang S, Fulton JE; Steps for Health Collaborative. Prospective Association of Daily Steps With Cardiovascular Disease: A Harmonized Meta-Analysis. Circulation. 2023 Jan 10;147(2):122-131. doi: 10.1161/CIRCULATIONAHA.122.061288. Epub 2022 Dec 20. PMID: 36537288; PMCID: PMC9839547.
-del Pozo Cruz B, Ahmadi M, Naismith SL, Stamatakis E. Association of Daily Step Count and Intensity With Incident Dementia in 78 430 Adults Living in the UK. JAMA Neurol. 2022;79(10):1059–1063.
-Murphy M, Nevill A, Neville C, Biddle S, Hardman A. Accumulating brisk walking for fitness, cardiovascular risk, and psychological health. Med Sci Sports Exerc. 2002 Sep;34(9):1468-74. doi: 10.1097/00005768-200209000-00011. PMID: 12218740.
+bibliography:
+  - "Rossow LM, Fukuda DH, Fahs CA, Loenneke JP, Stout JR. Natural bodybuilding
+    competition preparation and recovery: a 12-month case study. Int J Sports
+    Physiol Perform. 2013 Sep;8(5):582-92. doi: 10.1123/ijspp.8.5.582. Epub 2013
+    Feb 14. PMID: 23412685."
+  - "Hulmi JJ, Isola V, Suonpää M, Järvinen NJ, Kokkonen M, Wennerström A, Nyman
+    K, Perola M, Ahtiainen JP, Häkkinen K. The Effects of Intensive Weight
+    Reduction on Body Composition and Serum Hormones in Female Fitness
+    Competitors. Front Physiol. 2017 Jan 10;7:689. doi:
+    10.3389/fphys.2016.00689. PMID: 28119632; PMCID: PMC5222856."
+  - de Souza, H.S., Jardim, T.V., Barroso, W.K.S. et al. Hormonal assessment of
+    participants in a long distance walk. Diabetol Metab Syndr 11, 19 (2019).
+  - Pontzer, Herman. 2019. “Humans Evolved to Exercise.” Scientific American. ‌
+  - O’Keefe, E.L., Lavie, C.J. A Hunter-Gatherer Exercise Prescription to
+    Optimize Health and Well-Being in the Modern World. J. of SCI. IN SPORT AND
+    EXERCISE 3, 147–157 (2021).
+  - "«The Story of the Human Body: Evolution, Health, and Disease:
+    9780307379412: Lieberman, Daniel: Libros.» 2023.‌"
+  - "WBUR. 2013. “Caveman Syndrome: Today’s Killer Diseases Stem from
+    Evolutionary Mismatch | WBUR News.”"
+  - del Pozo Cruz B, Ahmadi MN, Lee I, Stamatakis E. Prospective Associations of
+    Daily Step Counts and Intensity With Cancer and Cardiovascular Disease
+    Incidence and Mortality and All-Cause Mortality. JAMA Intern Med.
+    2022;182(11):1139–1148.
+  - Paluch AE, Gabriel KP, Fulton JE, et al. Steps per Day and All-Cause
+    Mortality in Middle-aged Adults in the Coronary Artery Risk Development in
+    Young Adults Study. JAMA Netw Open. 2021;4(9):e2124516.
+  - "Paluch AE, Bajpai S, Ballin M, Bassett DR, Buford TW, Carnethon MR,
+    Chernofsky A, Dooley EE, Ekelund U, Evenson KR, Galuska DA, Jefferis BJ,
+    Kong L, Kraus WE, Larson MG, Lee IM, Matthews CE, Newton RL Jr, Nordström A,
+    Nordström P, Palta P, Patel AV, Pettee Gabriel K, Pieper CF, Pompeii L,
+    Rees-Punia E, Spartano NL, Vasan RS, Whincup PH, Yang S, Fulton JE; Steps
+    for Health Collaborative. Prospective Association of Daily Steps With
+    Cardiovascular Disease: A Harmonized Meta-Analysis. Circulation. 2023 Jan
+    10;147(2):122-131. doi: 10.1161/CIRCULATIONAHA.122.061288. Epub 2022 Dec 20.
+    PMID: 36537288; PMCID: PMC9839547."
+  - "Paluch AE, Bajpai S, Bassett DR, Carnethon MR, Ekelund U, Evenson KR,
+    Galuska DA, Jefferis BJ, Kraus WE, Lee IM, Matthews CE, Omura JD, Patel AV,
+    Pieper CF, Rees-Punia E, Dallmeier D, Klenk J, Whincup PH, Dooley EE, Pettee
+    Gabriel K, Palta P, Pompeii LA, Chernofsky A, Larson MG, Vasan RS, Spartano
+    N, Ballin M, Nordström P, Nordström A, Anderssen SA, Hansen BH, Cochrane JA,
+    Dwyer T, Wang J, Ferrucci L, Liu F, Schrack J, Urbanek J, Saint-Maurice PF,
+    Yamamoto N, Yoshitake Y, Newton RL Jr, Yang S, Shiroma EJ, Fulton JE; Steps
+    for Health Collaborative. Daily steps and all-cause mortality: a
+    meta-analysis of 15 international cohorts. Lancet Public Health. 2022
+    Mar;7(3):e219-e228. doi: 10.1016/S2468-2667(21)00302-9. PMID: 35247352;
+    PMCID: PMC9289978."
+  - "Puthoff ML, Darter BJ, Nielsen DH, Yack HJ. The effect of weighted vest
+    walking on metabolic responses and ground reaction forces. Med Sci Sports
+    Exerc. 2006 Apr;38(4):746-52. doi: 10.1249/01.mss.0000210198.79705.19. PMID:
+    16679992."
+  - McCormick J. J. (2014). The Metabolic Cost of Slow Graded Treadmill Walking
+    with a Weighted Vest in Untrained Females. Doctoral dissertation, The
+    University of New Mexico; Albuquerque, NM.
+  - "Young DR, Hivert MF, Alhassan S, Camhi SM, Ferguson JF, Katzmarzyk PT,
+    Lewis CE, Owen N, Perry CK, Siddique J, Yong CM; Physical Activity Committee
+    of the Council on Lifestyle and Cardiometabolic Health; Council on Clinical
+    Cardiology; Council on Epidemiology and Prevention; Council on Functional
+    Genomics and Translational Biology; and Stroke Council. Sedentary Behavior
+    and Cardiovascular Morbidity and Mortality: A Science Advisory From the
+    American Heart Association. Circulation. 2016 Sep 27;134(13):e262-79. doi:
+    10.1161/CIR.0000000000000440. Epub 2016 Aug 15. PMID: 27528691."
+  - "Paluch AE, Bajpai S, Ballin M, Bassett DR, Buford TW, Carnethon MR,
+    Chernofsky A, Dooley EE, Ekelund U, Evenson KR, Galuska DA, Jefferis BJ,
+    Kong L, Kraus WE, Larson MG, Lee IM, Matthews CE, Newton RL Jr, Nordström A,
+    Nordström P, Palta P, Patel AV, Pettee Gabriel K, Pieper CF, Pompeii L,
+    Rees-Punia E, Spartano NL, Vasan RS, Whincup PH, Yang S, Fulton JE; Steps
+    for Health Collaborative. Prospective Association of Daily Steps With
+    Cardiovascular Disease: A Harmonized Meta-Analysis. Circulation. 2023 Jan
+    10;147(2):122-131. doi: 10.1161/CIRCULATIONAHA.122.061288. Epub 2022 Dec 20.
+    PMID: 36537288; PMCID: PMC9839547."
+  - del Pozo Cruz B, Ahmadi M, Naismith SL, Stamatakis E. Association of Daily
+    Step Count and Intensity With Incident Dementia in 78 430 Adults Living in
+    the UK. JAMA Neurol. 2022;79(10):1059–1063.
+  - "Murphy M, Nevill A, Neville C, Biddle S, Hardman A. Accumulating brisk
+    walking for fitness, cardiovascular risk, and psychological health. Med Sci
+    Sports Exerc. 2002 Sep;34(9):1468-74. doi: 10.1097/00005768-200209000-00011.
+    PMID: 12218740."
+
 ---
 
 > Si quieres lucir como un filósofo griego, entonces tienes que caminar como uno.

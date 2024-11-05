@@ -3,14 +3,15 @@ title: HODL a Bitcoin es como ganar la lotería a cámara lenta
 subtitle: Qué es holdear criptomonedas y qué rentabilidad tiene
 url: https://pau.ninja/que-es-holdear-criptomonedas
 slug: que-es-holdear-criptomonedas
-categories: 
+categories: []
 image: aguantando-bitcoin.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/11/aguantando-bitcoin.jpeg
 publishedAt: 2021-11-20T09:38:00.000Z
 modifiedAt: 2024-02-11T06:34:01.000Z
-scrappedAt: 2024-11-04T11:49:18.241Z
+scrappedAt: 2024-11-05T04:31:31.037Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52642799/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-27%2Fc1652368-ad9a-dd3e-1991-62967a5faa53.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Holdear criptomonedas significa **aguantar** hasta el final. Aguantar lo que tenemos **sin vender**. ¿Que el mercado baja? aguantamos. ¿Que el mercado sube? también aguantamos. ¿Que nos deja la novia? también aguantamos.

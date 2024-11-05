@@ -1,24 +1,41 @@
 ---
 title: Gordo como Paquirrín… o fibrado como Zyzz
-subtitle: Recomposición corporal: ganar masa muscular y perder grasa a la vez
+subtitle: "Recomposición corporal: ganar masa muscular y perder grasa a la vez"
 url: https://pau.ninja/recomposicion-corporal
 slug: recomposicion-corporal
-categories: 
+categories: []
 image: cuerpo-muscular.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/01/cuerpo-muscular.jpg
 publishedAt: 2020-01-12T16:01:16.000Z
 modifiedAt: 2023-06-27T17:44:29.000Z
-scrappedAt: 2024-11-04T11:57:09.385Z
+scrappedAt: 2024-11-05T04:33:15.352Z
 audioLink: https://www.ivoox.com/gordo-como-paquirrin-o-fibrado-como-zyzz_md_60839585_wp_1.mp3
-bibliography: a +20% de masa magra
-+ 30% de masa magra
-gramos de carbohidratos por kg de peso corporal.
-Grau, Amelia & Guerra, Borja & Calbet, Jose. (2007). Papel de la células satélite en la hipertrofia y regeneración muscular en respuesta al ejercicio. Archivos de medicina del deporte: revista de la Federación Española de Medicina del Deporte y de la Confederación Iberoamericana de Medicina del Deporte, ISSN 0212-8799, Nº. 119, 2007, pags. 187-196.
-Raynor HA, Champagne CM. Position of the Academy of Nutrition and Dietetics: Interventions for the Treatment of Overweight and Obesity in Adults. J Acad Nutr Diet. 2016 Jan;116(1):129-147. doi: 10.1016/j.jand.2015.10.031. PMID: 26718656.
-Bruusgaard JC, Johansen IB, Egner IM, Rana ZA, Gundersen K. Myonuclei acquired by overload exercise precede hypertrophy and are not lost on detraining. Proc Natl Acad Sci U S A. 2010 Aug 24;107(34):15111-6. doi: 10.1073/pnas.0913935107. Epub 2010 Aug 16. PMID: 20713720; PMCID: PMC2930527.
-Maganaris, Constantinos & Collins, Dave & Sharp, Martin. (1999). Expectancy Effects and Strength Training: Do Steroids Make a Difference?. Sport Psychologist. 14. 10.1123/tsp.14.3.272.
-Wu G. Dietary protein intake and human health. Food Funct. 2016 Mar;7(3):1251-65. doi: 10.1039/c5fo01530h. PMID: 26797090.
-Aragon, A.A., Schoenfeld, B.J. Nutrient timing revisited: is there a post-exercise anabolic window?. J Int Soc Sports Nutr 10, 5 (2013).
+bibliography:
+  - a +20% de masa magra
+  - + 30% de masa magra
+  - gramos de carbohidratos por kg de peso corporal.
+  - "Grau, Amelia & Guerra, Borja & Calbet, Jose. (2007). Papel de la células
+    satélite en la hipertrofia y regeneración muscular en respuesta al
+    ejercicio. Archivos de medicina del deporte: revista de la Federación
+    Española de Medicina del Deporte y de la Confederación Iberoamericana de
+    Medicina del Deporte, ISSN 0212-8799, Nº. 119, 2007, pags. 187-196."
+  - "Raynor HA, Champagne CM. Position of the Academy of Nutrition and
+    Dietetics: Interventions for the Treatment of Overweight and Obesity in
+    Adults. J Acad Nutr Diet. 2016 Jan;116(1):129-147. doi:
+    10.1016/j.jand.2015.10.031. PMID: 26718656."
+  - "Bruusgaard JC, Johansen IB, Egner IM, Rana ZA, Gundersen K. Myonuclei
+    acquired by overload exercise precede hypertrophy and are not lost on
+    detraining. Proc Natl Acad Sci U S A. 2010 Aug 24;107(34):15111-6. doi:
+    10.1073/pnas.0913935107. Epub 2010 Aug 16. PMID: 20713720; PMCID:
+    PMC2930527."
+  - "Maganaris, Constantinos & Collins, Dave & Sharp, Martin. (1999). Expectancy
+    Effects and Strength Training: Do Steroids Make a Difference?. Sport
+    Psychologist. 14. 10.1123/tsp.14.3.272."
+  - "Wu G. Dietary protein intake and human health. Food Funct. 2016
+    Mar;7(3):1251-65. doi: 10.1039/c5fo01530h. PMID: 26797090."
+  - "Aragon, A.A., Schoenfeld, B.J. Nutrient timing revisited: is there a
+    post-exercise anabolic window?. J Int Soc Sports Nutr 10, 5 (2013)."
+
 ---
 
 Una de las cosas que todo dios quiere cuando empieza a levantar pesas es ganar músculo y perder grasa **a la vez**.

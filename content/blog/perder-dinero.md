@@ -3,16 +3,24 @@ title: Miedo de pobre, sabiduría de rico…
 subtitle: o cómo perdí decenas de miles de euros
 url: https://pau.ninja/perder-dinero
 slug: perder-dinero
-categories: 
+categories: []
 image: persona-que-pierde-dinero.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/12/persona-que-pierde-dinero.jpg
 publishedAt: 2023-12-14T08:22:45.000Z
 modifiedAt: 2024-04-28T11:22:56.000Z
-scrappedAt: 2024-11-04T11:15:44.245Z
+scrappedAt: 2024-11-05T04:28:03.248Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/80056312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-11-15%2F360049086-44100-2-b7fccd93ead02.mp3
-bibliography: Association of a Negative Wealth Shock With All-Cause Mortality in Middle-aged and Older Adults in the United States. Lindsay R. Pool,; Sarah A. Burgard; Belinda L. Needham. JAMA. 2018;319(13):1341-1350. doi:10.1001/jama.2018.2055
-2020\. “La CNMV Interviene Esfera Capital Por Un Agujero Que Podría Alcanzar Los Seis Millones de Euros.” El Mundo.‌
-Loveland, K. K., & Olley, J. G. (1979). The effect of external reward on interest and quality of task performance in children of high and low intrinsic motivation. Child Development, 50(4), 1207–1210.
+bibliography:
+  - Association of a Negative Wealth Shock With All-Cause Mortality in
+    Middle-aged and Older Adults in the United States. Lindsay R. Pool,; Sarah
+    A. Burgard; Belinda L. Needham. JAMA. 2018;319(13):1341-1350.
+    doi:10.1001/jama.2018.2055
+  - 2020\. “La CNMV Interviene Esfera Capital Por Un Agujero Que Podría Alcanzar
+    Los Seis Millones de Euros.” El Mundo.‌
+  - Loveland, K. K., & Olley, J. G. (1979). The effect of external reward on
+    interest and quality of task performance in children of high and low
+    intrinsic motivation. Child Development, 50(4), 1207–1210.
+
 ---
 
 Empecé a invertir en 2016, cuando me di cuenta que mi negocio de SEO había rellenado las arcas de mi empresa búlgara.

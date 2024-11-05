@@ -1,18 +1,19 @@
 ---
-title: Tríceps «calistéticos»: el secreto de los gimnastas
+title: "Tríceps «calistéticos»: el secreto de los gimnastas"
 subtitle: Mejores ejercicios para tríceps en la calistenia
 url: https://pau.ninja/ejercicios-para-triceps-calistenia
 slug: ejercicios-para-triceps-calistenia
-categories: 
+categories: []
 image: haciendo-triceps-en-calistenia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/04/haciendo-triceps-en-calistenia.jpeg
 publishedAt: 2022-05-01T08:08:42.000Z
 modifiedAt: 2023-06-27T17:43:56.000Z
-scrappedAt: 2024-11-04T11:46:13.699Z
-audioLink: undefined
-bibliography: segundos
-segundos
-repeticiones x3-4 series
+scrappedAt: 2024-11-05T04:30:58.507Z
+bibliography:
+  - segundos
+  - segundos
+  - repeticiones x3-4 series
+
 ---
 
 Ojo…

@@ -3,14 +3,15 @@ title: Patrimonio personal
 subtitle: el 100% de mi cartera de inversión (en 2024)
 url: https://pau.ninja/mi-cartera-de-inversion
 slug: mi-cartera-de-inversion
-categories: 
+categories: []
 image: viviendo-de-cartera-de-inversion.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/03/viviendo-de-cartera-de-inversion.jpeg
 publishedAt: 2024-01-20T05:27:43.000Z
 modifiedAt: 2024-05-21T19:46:05.000Z
-scrappedAt: 2024-11-04T11:14:58.114Z
+scrappedAt: 2024-11-05T04:27:45.141Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/82702332/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-15%2F367531084-44100-2-a31b3d2d30d83.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 _Cartera actualizada: enero 2024_

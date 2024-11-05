@@ -1,20 +1,27 @@
 ---
 title: El trabajo (no) te hace más feliz
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/importancia-del-trabajo
 slug: importancia-del-trabajo
-categories: 
+categories: []
 image: persona-valora-importancia-del-trabajo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/10/persona-valora-importancia-del-trabajo.jpeg
 publishedAt: 2023-10-02T05:32:08.000Z
 modifiedAt: 2024-04-28T11:17:56.000Z
-scrappedAt: 2024-11-04T11:16:44.586Z
+scrappedAt: 2024-11-05T04:28:23.749Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/78116291/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-10-3%2F353936005-44100-2-90b62ed372224.mp3
-bibliography: Shephard RJ, Rode A. The Consequences of ‘modernization:’ Evidence from circumpolar peoples. Cambridge University Press; Great Britain: 1996.
-Datosmacro. 2023. “Desempleo de España 2023.”‌
-Bryan, Mark & Nandi, Alita. (2015). Working hours, work identity and subjective wellbeing.
-Bellet, Clement & Neve, Jan-Emmanuel & Ward, George. (2019). Does Employee Happiness Have an Impact on Productivity?. SSRN Electronic Journal. 10.2139/ssrn.3470734.
-“Love and Work: How to Find What You Love, Love What You Do, and Do It for the Rest of Your Life : Buckingham, Marcus: Amazon.es: Libros.” 2023.‌
+bibliography:
+  - "Shephard RJ, Rode A. The Consequences of ‘modernization:’ Evidence from
+    circumpolar peoples. Cambridge University Press; Great Britain: 1996."
+  - Datosmacro. 2023. “Desempleo de España 2023.”‌
+  - Bryan, Mark & Nandi, Alita. (2015). Working hours, work identity and
+    subjective wellbeing.
+  - Bellet, Clement & Neve, Jan-Emmanuel & Ward, George. (2019). Does Employee
+    Happiness Have an Impact on Productivity?. SSRN Electronic Journal.
+    10.2139/ssrn.3470734.
+  - "“Love and Work: How to Find What You Love, Love What You Do, and Do It for
+    the Rest of Your Life : Buckingham, Marcus: Amazon.es: Libros.” 2023.‌"
+
 ---
 
 ¿Qué tienen en común las personas que se pueden volver adictas al trabajo, [adictas al porno](./adiccion-al-porno), a las drogas, o simplemente adictas a las redes sociales?

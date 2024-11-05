@@ -1,16 +1,17 @@
 ---
-title: GymGame: o cómo ligar en el gimnasio (sin ser un asqueroso)
-subtitle: 
+title: "GymGame: o cómo ligar en el gimnasio (sin ser un asqueroso)"
+subtitle: ""
 url: https://pau.ninja/como-ligar-en-un-gym
 slug: como-ligar-en-un-gym
-categories: 
+categories: []
 image: hombre-ligando-en-el-gym.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/hombre-ligando-en-el-gym.jpeg
 publishedAt: 2023-03-07T10:53:57.000Z
 modifiedAt: 2023-08-13T08:26:11.000Z
-scrappedAt: 2024-11-04T11:40:54.850Z
+scrappedAt: 2024-11-05T04:29:22.846Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68537269/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-13%2F323710425-44100-2-e99a083daeafe.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 No hay a penas (buen) material de cómo ligar en el gimnasio por la red, así que he decidido crearlo yo. Masticándolo y dároslo cual mamá pájaro en forma de pastilla de pura sabiduría.

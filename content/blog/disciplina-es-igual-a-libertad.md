@@ -3,30 +3,56 @@ title: Sin disciplina no eres libre
 subtitle: (+15 estudios)
 url: https://pau.ninja/disciplina-es-igual-a-libertad
 slug: disciplina-es-igual-a-libertad
-categories: 
+categories: []
 image: persona-con-disciplina-y-libertad.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-con-disciplina-y-libertad.jpg
 publishedAt: 2024-09-28T09:40:16.000Z
 modifiedAt: 2024-10-17T17:31:05.000Z
-scrappedAt: 2024-11-04T11:09:14.377Z
+scrappedAt: 2024-11-05T04:25:39.174Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/92684668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-7%2F387662773-44100-2-27ade811a1786.mp3
-bibliography: Duckworth, A. L., & Seligman, M. E. (2005). Self-discipline outdoes IQ in predicting academic performance of adolescents. Psychological Science, 16(12), 939-944.
-Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of deliberate practice in the acquisition of expert performance. Psychological Review, 100(3), 363.
-Tang, Y. Y., Holzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. Nature Reviews Neuroscience, 16(4), 213-225.
-Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and self-determination in human behavior. Springer Science & Business Media.
-Sirois, F. M., & Pychyl, T. A. (2013). Procrastination and the priority of short-term mood regulation: Consequences for future self. Social and Personality Psychology Compass, 7(2), 115-127.
-Ganzel, B. L., Kim, P., Glover, G. H., & Temple, E. (2008). Resilience after 9/11: Multimodal neuroimaging evidence for stress-related change in the healthy adult brain. NeuroImage, 40(2), 788-795.
-Mattson, M. P. (2008). Hormesis defined. Ageing Research Reviews, 7(1), 1-7.
-Masten, A. S. (2001). Ordinary magic: Resilience processes in development. American Psychologist, 56(3), 227.
-Dweck, C. S. (2006). Mindset: The new psychology of success. Random House Digital, Inc.
-Walker, M. P. (2017). Why we sleep: Unlocking the power of sleep and dreams. Simon and Schuster.
-Westman, E. C., Feinman, R. D., Mavropoulos, J. C., Vernon, M. C., Volek, J. S., Wortman, J. A., … & Phinney, S. D. (2007). Low-carbohydrate nutrition and metabolism. The American Journal of Clinical Nutrition, 86(2), 276-284.
-[12](javascript:void\(0\))Dishman, R. K., & O’Connor, P. J. (2009). Lessons in exercise neurobiology: The case of endorphins. Mental Health and Physical Activity, 2(1), 4-9.
-Craft, L. L., & Perna, F. M. (2004). The Benefits of Exercise for the Clinically Depressed. Primary Care Companion to The Journal of Clinical Psychiatry, 6(3), 104-111.
-Meeusen, R., & De Meirleir, K. (1995). Exercise and brain neurotransmission. Sports Medicine, 20(3), 160-188.
-Cotman, C. W., & Berchtold, N. C. (2002). Exercise: a behavioral intervention to enhance brain health and plasticity. Trends in Neurosciences, 25(6), 295-301.
-Skinner, B. F. (1953). Science and human behavior. Simon and Schuster.
-Steel, P. (2007). The nature of procrastination: a meta-analytic and theoretical review of quintessential self-regulatory failure. Psychological Bulletin, 133(1), 65.
+bibliography:
+  - Duckworth, A. L., & Seligman, M. E. (2005). Self-discipline outdoes IQ in
+    predicting academic performance of adolescents. Psychological Science,
+    16(12), 939-944.
+  - Ericsson, K. A., Krampe, R. T., & Tesch-Römer, C. (1993). The role of
+    deliberate practice in the acquisition of expert performance. Psychological
+    Review, 100(3), 363.
+  - Tang, Y. Y., Holzel, B. K., & Posner, M. I. (2015). The neuroscience of
+    mindfulness meditation. Nature Reviews Neuroscience, 16(4), 213-225.
+  - Deci, E. L., & Ryan, R. M. (1985). Intrinsic motivation and
+    self-determination in human behavior. Springer Science & Business Media.
+  - "Sirois, F. M., & Pychyl, T. A. (2013). Procrastination and the priority of
+    short-term mood regulation: Consequences for future self. Social and
+    Personality Psychology Compass, 7(2), 115-127."
+  - "Ganzel, B. L., Kim, P., Glover, G. H., & Temple, E. (2008). Resilience
+    after 9/11: Multimodal neuroimaging evidence for stress-related change in
+    the healthy adult brain. NeuroImage, 40(2), 788-795."
+  - Mattson, M. P. (2008). Hormesis defined. Ageing Research Reviews, 7(1), 1-7.
+  - "Masten, A. S. (2001). Ordinary magic: Resilience processes in development.
+    American Psychologist, 56(3), 227."
+  - "Dweck, C. S. (2006). Mindset: The new psychology of success. Random House
+    Digital, Inc."
+  - "Walker, M. P. (2017). Why we sleep: Unlocking the power of sleep and
+    dreams. Simon and Schuster."
+  - Westman, E. C., Feinman, R. D., Mavropoulos, J. C., Vernon, M. C., Volek, J.
+    S., Wortman, J. A., … & Phinney, S. D. (2007). Low-carbohydrate nutrition
+    and metabolism. The American Journal of Clinical Nutrition, 86(2), 276-284.
+  - "[12](javascript:void\\(0\\))Dishman, R. K., & O’Connor, P. J. (2009).
+    Lessons in exercise neurobiology: The case of endorphins. Mental Health and
+    Physical Activity, 2(1), 4-9."
+  - Craft, L. L., & Perna, F. M. (2004). The Benefits of Exercise for the
+    Clinically Depressed. Primary Care Companion to The Journal of Clinical
+    Psychiatry, 6(3), 104-111.
+  - Meeusen, R., & De Meirleir, K. (1995). Exercise and brain neurotransmission.
+    Sports Medicine, 20(3), 160-188.
+  - "Cotman, C. W., & Berchtold, N. C. (2002). Exercise: a behavioral
+    intervention to enhance brain health and plasticity. Trends in
+    Neurosciences, 25(6), 295-301."
+  - Skinner, B. F. (1953). Science and human behavior. Simon and Schuster.
+  - "Steel, P. (2007). The nature of procrastination: a meta-analytic and
+    theoretical review of quintessential self-regulatory failure. Psychological
+    Bulletin, 133(1), 65."
+
 ---
 
 La idea de que la «disciplina es igual a libertad» puede parecer contradictoria.
@@ -45,7 +71,7 @@ Vale la pena que lo exploremos.
 
 ## Descargar libro de disciplina es igual a libertad en PDF
 
-[![Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFNFFYWnpWV2h5TUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4ODE2Mg=)](https://www.amazon.es/dpB08CT4JHTG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)")
+[![Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFNFFYWnpWV2h5TUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNTQ0Mg=)](https://www.amazon.es/dpB08CT4JHTG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)")
 
 [Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)](https://www.amazon.es/dp/B08CT4JHTG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)")
 

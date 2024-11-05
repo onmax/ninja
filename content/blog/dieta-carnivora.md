@@ -1,16 +1,17 @@
 ---
-title: Carnívora: la mejor dieta antiinflamatoria
+title: "Carnívora: la mejor dieta antiinflamatoria"
 subtitle: Mi increíble experiencia (científica) de SÓLO comer carne
 url: https://pau.ninja/dieta-carnivora
 slug: dieta-carnivora
-categories: 
+categories: []
 image: comiendo-carne.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/comiendo-carne.jpeg
 publishedAt: 2021-10-05T07:23:31.000Z
 modifiedAt: 2024-02-28T06:39:27.000Z
-scrappedAt: 2024-11-04T11:52:16.034Z
+scrappedAt: 2024-11-05T04:32:05.597Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171680/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283891-44100-2-99af76e1026e81b7.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Después de 6 años con dietas veganas y vegetarianas, nunca me hubiera imaginado que hoy os estaría contando mi experiencia (y la ciencia) de comer **carne exclusivamente**.
@@ -109,7 +110,7 @@ En cambio podemos encontrar miles de casos con todo tipos de reacciones y **aler
 
 Ahora mismo rebajado
 
-[![Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeE1WcFhha0pRU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MTM2Mg=)](https://www.amazon.es/dp8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
+[![Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeE1WcFhha0pRU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA2Ng=)](https://www.amazon.es/dp8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
 
 [Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](https://www.amazon.es/dp/8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
 
@@ -591,7 +592,7 @@ Por la inflamación que tenía me compré un libro que os recomiendo si os inte
 
 Ahora mismo rebajado
 
-[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MTM2Mg=)](https://www.amazon.es/dp1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
+[![I Contain Multitudes: The Microbes Within Us and a Grander View of Life](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSk4wZGtkRmR6ZVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA2Ng=)](https://www.amazon.es/dp1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
 [I Contain Multitudes: The Microbes Within Us and a Grander View of Life](https://www.amazon.es/dp/1784700177?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "I Contain Multitudes: The Microbes Within Us and a Grander View of Life")
 
@@ -980,7 +981,7 @@ Pueda que sí haya un poco de estreñimiento si no tenemos nuestra carnívora de
 
 Por ejemplo el potasio y magnesio son muy importantes para la contracción muscular, incluidos los músculos de nuestro sistema digestivo.
 
-[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MTM2Mg=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
+[![Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbVlsaE5OQzF3Wmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA2Ng=)](https://www.amazon.es/dpB08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 
 [Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...](https://www.amazon.es/dp/B08P3KBGJP?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Agua Marina 3 L Naturitas Essentials | Ideal para beber y cocinar | Agua de mar | Sin aditivos |...")
 

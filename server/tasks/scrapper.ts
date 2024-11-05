@@ -1,4 +1,3 @@
-import type { Category } from '~~/types/category'
 import type { DomElement, Element } from 'domhandler'
 import type { NewChunk } from '../utils/drizzle'
 import { createHash } from 'node:crypto'
@@ -7,8 +6,11 @@ import consola from 'consola'
 import select from 'css-select'
 import { parseDocument } from 'htmlparser2'
 import { $fetch } from 'ofetch'
-
 import TurndownService from 'turndown'
+import { stringify as stringifyYaml } from 'yaml'
+
+const shouldVectorize = false
+const force = true
 
 const debugSlugs: string[] = [
   // '10-consejos-para-no-procrastinar',
@@ -20,8 +22,6 @@ const debugSlugs: string[] = [
 ]
 
 const folder = 'content/blog'
-
-const categories: Category[] = []
 
 type BlogPostProperties = Pick<NewPostRecord, 'modifiedAt' | 'publishedAt' | 'scrappedAt'> & {
   title: string
@@ -54,12 +54,11 @@ export default defineTask({
 
     await mkdir(folder, { recursive: true })
     let counter = 0
-    await handleCategories(categories)
 
     for await (const postLink of getPosts()) {
       const slug = getSlug(postLink)
       const postRecord = await useDrizzle().select().from(tables.postRecord).where(eq(tables.postRecord.slug, slug)).get()
-      const alreadyStoredTimestamps = postRecord ? { publishedAt: postRecord?.publishedAt, modifiedAt: postRecord?.modifiedAt } : undefined
+      const alreadyStoredTimestamps = postRecord && !force ? { publishedAt: postRecord?.publishedAt, modifiedAt: postRecord?.modifiedAt } : undefined
       const post = await parsePost(postLink, { alreadyStoredTimestamps })
       if (!post) {
         consola.warn(`We already have ${slug} up-to-date. Skipping...`)
@@ -67,24 +66,25 @@ export default defineTask({
       }
       const { content, chunks } = post
 
-      const embedding = await hubAI().run('@cf/baai/bge-base-en-v1.5', { text: chunks.map(chunk => chunk.content) })
-      const vectors = embedding.data
+      if (shouldVectorize) {
+        const vectors = await hubAI().run('@cf/baai/bge-base-en-v1.5', { text: chunks.map(chunk => chunk.content) }).then(res => res.data!)
 
-      const newPostRecord: NewPostRecord = { modifiedAt: post.frontmatter.modifiedAt, publishedAt: post.frontmatter.publishedAt, scrappedAt: post.frontmatter.scrappedAt, slug }
+        const newPostRecord: NewPostRecord = { modifiedAt: post.frontmatter.modifiedAt, publishedAt: post.frontmatter.publishedAt, scrappedAt: post.frontmatter.scrappedAt, slug }
 
-      let postRecordId = -1
+        let postRecordId = -1
 
-      if (postRecord)
-        postRecordId = await useDrizzle().update(tables.postRecord).set(newPostRecord).where(eq(tables.postRecord.slug, slug)).returning({ id: tables.postRecord.id }).then(res => res.at(0)!.id)
-      else
-        postRecordId = await useDrizzle().insert(tables.postRecord).values(newPostRecord).returning({ id: tables.postRecord.id }).then(res => res[0].id)
-      if (postRecordId === -1)
-        throw new Error(`error updating post record ${postRecordId}: ${slug}`)
+        if (postRecord)
+          postRecordId = await useDrizzle().update(tables.postRecord).set(newPostRecord).where(eq(tables.postRecord.slug, slug)).returning({ id: tables.postRecord.id }).then(res => res.at(0)!.id)
+        else
+          postRecordId = await useDrizzle().insert(tables.postRecord).values(newPostRecord).returning({ id: tables.postRecord.id }).then(res => res[0].id)
+        if (postRecordId === -1)
+          throw new Error(`error updating post record ${postRecordId}: ${slug}`)
 
-      await Promise.all(chunks.map((chunk, i) => {
-        const newChunk = { ...chunk, embedding: vectors[i], postRecordId }
-        return useDrizzle().insert(tables.chunks).values(newChunk).returning({ insertedId: tables.chunks.id })
-      }))
+        await Promise.all(chunks.map((chunk, i) => {
+          const newChunk = { ...chunk, embedding: vectors[i], postRecordId }
+          return useDrizzle().insert(tables.chunks).values(newChunk).returning({ insertedId: tables.chunks.id })
+        }))
+      }
 
       consola.info(`Writing ./content/blog/${slug}.md`)
       const filePath = `${folder}/${slug}.md`
@@ -96,51 +96,6 @@ export default defineTask({
     return { result: 'Success' }
   },
 })
-
-async function handleCategories(categories: Category[]) {
-  const categoryColors = {
-    'estilo-de-vida': '#16a34a',
-    'desarrollo-personal': '#6366f1',
-    'masculinidad': '#ea580c',
-    'fitness': '#22c55e',
-    'nutricion': '#f59e0b',
-    'habitos-saludables': '#4ade80',
-    'productividad': '#2563eb',
-    'inversion': '#d97706',
-    'analisis-tecnico': '#0e7490',
-    'criptomonedas': '#f97316',
-    'impuestos': '#ca8a04',
-    'dinero': '#15803d',
-    'relaciones': '#be185d',
-    'seduccion': '#dc2626',
-    'estilo': '#a855f7',
-    'mitos-nutricionales': '#f43f5e',
-    'relaciones-de-pareja': '#db2777',
-    'bitcoin': '#f97316',
-    'habilidades-sociales': '#0ea5e9',
-    'mundo': '#0f766e',
-    'antiveganismo': '#991b1b',
-    'radiaciones-electromagn': '#9333ea',
-    'negocios': '#047857',
-    'enigmas-de-la-historia': '#7e22ce',
-    'ejercicios-empuje-horizontal': '#f87171',
-    'ejercicios-empuje-vertical': '#fb923c',
-    'minimalismo': '#6b7280',
-  }
-
-  const removeEmoji = (str: string) => str.replace(/[\p{Emoji}\u{FE0F}\u{FE0E}]/gu, '').trim()
-
-  const structuredCategories = categories.map(category => ({
-    slug: category.slug,
-    label: removeEmoji(category.label),
-    color: categoryColors[category.slug as keyof typeof categoryColors] || '#000000',
-  }))
-
-  await writeFile('app/composables/categories.ts', `
-    // This file is generated by the scraper task
-    export const categories = ${JSON.stringify(structuredCategories, null, 2)}
-  `.trim())
-}
 
 const removeLinesContaining = [
   '/\\*! elementor - ',
@@ -203,19 +158,13 @@ export async function parsePost(link: string, options: ParsePostOptions = {}): P
   const scrappedAt = new Date()
 
   const frontmatter: BlogPostProperties = { title, subtitle, url, slug, categories, image, imageUrl, publishedAt, modifiedAt, scrappedAt, audioLink, bibliography }
-  const categoriesStr = categories.join(', ')
-  const bibliographyStr = bibliography.join('\n')
-  const frontmatterObject: BlogPostPropertiesStringified = {
+
+  const frontmatterStr = stringifyYaml({
     ...frontmatter,
-    categories: categoriesStr,
-    bibliography: bibliographyStr,
     scrappedAt: scrappedAt.toISOString(),
     publishedAt: publishedAt.toISOString(),
     modifiedAt: isModifiedValid ? modifiedAt.toISOString() : undefined,
-  }
-  const frontmatterStr = Object.entries(frontmatterObject)
-    .map(([key, value]) => `${key}: ${value}`)
-    .join('\n')
+  })
   const content = `---\n${frontmatterStr}\n---\n\n${md}`
 
   const chunks = getMarkdownChunks(md, frontmatter)

@@ -3,14 +3,15 @@ title: El ideal griego
 subtitle: Cómo esculpir el cuerpo de hombre estéticamente perfecto
 url: https://pau.ninja/cuerpo-estetico-hombre-medidas
 slug: cuerpo-estetico-hombre-medidas
-categories: 
+categories: []
 image: hombre-con-cuerpo-estetico.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/09/hombre-con-cuerpo-estetico.jpeg
 publishedAt: 2021-09-20T06:30:00.000Z
 modifiedAt: 2024-01-22T09:13:56.000Z
-scrappedAt: 2024-11-04T11:54:55.122Z
+scrappedAt: 2024-11-05T04:32:18.685Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283959-44100-2-d79463e2bd31bb95.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Siempre he dicho que **entreno para «estar bueno» desnudo**. Y lo sigo reiterando.
@@ -418,7 +419,7 @@ Algunas personas dicen, «pues a mí me gusta ver series antes de la cama» y de
 
 Bestseller No. 1
 
-[![Bloomoak-99% Gafas de bloqueo de luz azul-Gafas para juegos-Antideslumbrantes - Material...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWFEzVk9NVWxrYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4ODk2Mg=)](https://www.amazon.es/dpB09KBR76LJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul "Bloomoak-99% Gafas de bloqueo de luz azul-Gafas para juegos-Antideslumbrantes - Material...")
+[![Bloomoak-99% Gafas de bloqueo de luz azul-Gafas para juegos-Antideslumbrantes - Material...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWFEzVk9NVWxrYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjY1OQ=)](https://www.amazon.es/dpB09KBR76LJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul "Bloomoak-99% Gafas de bloqueo de luz azul-Gafas para juegos-Antideslumbrantes - Material...")
 
 [Bloomoak-99% Gafas de bloqueo de luz azul-Gafas para juegos-Antideslumbrantes - Material...](https://www.amazon.es/dp/B09KBR76LJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=gafas%20luz%20azul "Bloomoak-99% Gafas de bloqueo de luz azul-Gafas para juegos-Antideslumbrantes - Material...")
 

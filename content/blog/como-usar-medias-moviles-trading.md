@@ -3,18 +3,18 @@ title: Medias móviles
 subtitle: o cómo usarlas en trading
 url: https://pau.ninja/como-usar-medias-moviles-trading
 slug: como-usar-medias-moviles-trading
-categories: 
+categories: []
 image: trader-usa-medias-moviles.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-usa-medias-moviles.jpeg
 publishedAt: 2024-05-16T08:27:19.000Z
-modifiedAt: undefined
-scrappedAt: 2024-11-04T11:12:30.410Z
-audioLink: undefined
-bibliography: SMA
-EMA
-SMA
-EMA
-EMA
+scrappedAt: 2024-11-05T04:26:53.359Z
+bibliography:
+  - SMA
+  - EMA
+  - SMA
+  - EMA
+  - EMA
+
 ---
 
 El mentor Weinstein no dejaba de repetir el uso de un indicador clave cuando analiza los gráficos.

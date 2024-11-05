@@ -1,16 +1,16 @@
 ---
 title: ETFs apalancados
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/etfs-apalancados
 slug: etfs-apalancados
-categories: 
+categories: []
 image: etfs-apalancados.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/etfs-apalancados.jpg
 publishedAt: 2024-06-28T06:10:41.000Z
 modifiedAt: 2024-06-28T06:25:28.000Z
-scrappedAt: 2024-11-04T11:11:37.432Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:26:27.677Z
+bibliography: []
+
 ---
 
 _Más abajo tienes una lista de los mejores ETF apalancados de 2024_.

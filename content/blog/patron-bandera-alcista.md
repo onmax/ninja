@@ -1,16 +1,16 @@
 ---
 title: Bandera alcista
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/patron-bandera-alcista
 slug: patron-bandera-alcista
-categories: 
+categories: []
 image: patron-bandera-alcista.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/patron-bandera-alcista.jpeg
 publishedAt: 2024-04-27T04:12:10.000Z
 modifiedAt: 2024-05-31T03:33:47.000Z
-scrappedAt: 2024-11-04T11:13:00.527Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:27:05.542Z
+bibliography: []
+
 ---
 
 Imagina que estás vigilando a una de las acción que sigues y te das cuenta que después de ese valor haya subido de una forma dramática, ahora el precio lleva tiempo en lateral…

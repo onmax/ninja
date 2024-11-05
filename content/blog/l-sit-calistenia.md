@@ -3,14 +3,14 @@ title: L sit
 subtitle: Pasos, beneficios y errores
 url: https://pau.ninja/l-sit-calistenia
 slug: l-sit-calistenia
-categories: 
+categories: []
 image: haciendo-l-sit.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/haciendo-l-sit.jpeg
 publishedAt: 2022-05-06T08:16:43.000Z
 modifiedAt: 2023-12-17T11:10:43.000Z
-scrappedAt: 2024-11-04T11:46:01.738Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:52.931Z
+bibliography: []
+
 ---
 
 - 🟢 **Dificultad:** principiante

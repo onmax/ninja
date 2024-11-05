@@ -3,14 +3,15 @@ title: Gana más, pierde menos
 subtitle: la magia de la gestión de riesgo en el trading
 url: https://pau.ninja/gestion-de-riesgo-en-el-trading
 slug: gestion-de-riesgo-en-el-trading
-categories: 
+categories: []
 image: trader-mago-con-gestion-de-riesgo.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-mago-con-gestion-de-riesgo.jpg
 publishedAt: 2024-05-09T05:55:15.000Z
 modifiedAt: 2024-08-10T19:42:07.000Z
-scrappedAt: 2024-11-04T11:12:35.793Z
+scrappedAt: 2024-11-05T04:26:56.427Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/87199273/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-25%2F378734438-44100-2-10fe563bf6ece.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Si realmente nos interesa el trading, la gestión del riesgo nos debería interesar con la misma intensidad que el hecho de saber _cuando_ comprar o _qué_ comprar.

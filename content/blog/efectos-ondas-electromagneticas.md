@@ -1,16 +1,17 @@
 ---
-title: Ondas electromagnéticas: los efectos (reales) en tu cuerpo
+title: "Ondas electromagnéticas: los efectos (reales) en tu cuerpo"
 subtitle: Los efectos en la salud humana
 url: https://pau.ninja/efectos-ondas-electromagneticas
 slug: efectos-ondas-electromagneticas
-categories: 
+categories: []
 image: efectos-radiaciones-electromagneticas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/08/efectos-radiaciones-electromagneticas.jpeg
 publishedAt: 2022-08-10T07:36:10.000Z
 modifiedAt: 2023-09-21T06:00:14.000Z
-scrappedAt: 2024-11-04T11:43:19.318Z
+scrappedAt: 2024-11-05T04:30:27.189Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/56791762/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-29%2F283015865-44100-2-866850de4824.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Las radiaciones electromagnéticas ocurren de manera natural en nuestro mundo.

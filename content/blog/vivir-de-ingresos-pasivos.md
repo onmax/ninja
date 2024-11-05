@@ -1,16 +1,17 @@
 ---
-title: Ingresos anti-pasivos: gana tanto dinero como propósito
+title: "Ingresos anti-pasivos: gana tanto dinero como propósito"
 subtitle: (la mentira de vivir de ingresos pasivos)
 url: https://pau.ninja/vivir-de-ingresos-pasivos
 slug: vivir-de-ingresos-pasivos
-categories: 
+categories: []
 image: dormido-en-la-playa-con-portatil-y-dinero.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/dormido-en-la-playa-con-portatil-y-dinero.jpeg
 publishedAt: 2022-12-23T08:58:55.000Z
 modifiedAt: 2023-09-06T06:46:19.000Z
-scrappedAt: 2024-11-04T11:41:51.740Z
+scrappedAt: 2024-11-05T04:29:40.981Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63963736/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-24%2F309130843-44100-2-463d66df1e90f.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Los ingresos pasivos no son otra cosa que los resultados de esfuerzos pasados.

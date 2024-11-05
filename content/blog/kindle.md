@@ -3,14 +3,15 @@ title: Kindle antiguo
 subtitle: Por qué ESTE es el mejor modelo
 url: https://pau.ninja/kindle
 slug: kindle
-categories: 
+categories: []
 image: kindle-antiguo.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/kindle-antiguo.jpg
 publishedAt: 2021-02-28T11:07:51.000Z
 modifiedAt: 2024-02-19T05:54:47.000Z
-scrappedAt: 2024-11-04T11:55:28.280Z
-audioLink: undefined
-bibliography: ppp es la menor resolución.
+scrappedAt: 2024-11-05T04:32:28.532Z
+bibliography:
+  - ppp es la menor resolución.
+
 ---
 
 Los modelos de Kindle **antiguos** siguen siendo los mejores **ebook** que puedes comprar en comparación con todos los otros nuevos que han salido al mercado.
@@ -27,7 +28,7 @@ Confieso que acabo de sacarme este porcentaje de la manga, pero se entiende la i
 
 Este es el último modelo con el que nos ha salido Amazon.
 
-[![Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT1EyZHhXRGx0Ymt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDEyMw=)](https://www.amazon.es/dpB07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito")
+[![Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT1EyZHhXRGx0Ymt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMDcxMw=)](https://www.amazon.es/dpB07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito")
 
 [Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito](https://www.amazon.es/dp/B07L5GDTYY?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kindle Oasis, ahora con luz cálida ajustable, resistente al agua, 8 GB, wifi, grafito")
 
@@ -136,7 +137,7 @@ Pero como tengo intención de **no comprarme otro durante muchos años**, a pod
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGaFF6RlphRGhTWWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDEyNg=)](https://www.amazon.es/dpB0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite "Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...")
+[![Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGaFF6RlphRGhTWWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMDcxNg=)](https://www.amazon.es/dpB0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite "Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...")
 
 [Funda para Kindle Paperwhite de 6,8" (11ª Generación 2021)&6" (11ª Generación 2022) (Deep Black,...](https://www.amazon.es/dp/B0C84NB6XB?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20kindle%20paperwhite "Funda para Kindle Paperwhite de 6,8' (11ª Generación 2021)&6' (11ª Generación 2022) (Deep Black,...")
 

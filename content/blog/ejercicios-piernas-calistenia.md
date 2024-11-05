@@ -3,66 +3,160 @@ title: Piernas de calistenia
 subtitle: los mejores ejercicios para tus patas (+50 estudios)
 url: https://pau.ninja/ejercicios-piernas-calistenia
 slug: ejercicios-piernas-calistenia
-categories: 
+categories: []
 image: persona-entrena-piernas-con-calistenia.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-entrena-piernas-con-calistenia.jpg
 publishedAt: 2024-08-11T05:37:52.000Z
 modifiedAt: 2024-08-15T04:46:28.000Z
-scrappedAt: 2024-11-04T11:10:34.305Z
-audioLink: undefined
-bibliography: Semciw, A. I., et al., 2016. The effects of hip strengthening on pain and function in people with hip osteoarthritis: a systematic review and meta-analysis. Osteoarthritis and Cartilage, 24(9), pp.1605-1619
-Escamilla, R. F., et al., 2001. Biomechanics of the knee during closed kinetic chain and open kinetic chain exercises. Medicine & Science in Sports & Exercise, 33(7), pp.1147-1157
-Boren, K., et al., 2011. Electromyographic analysis of gluteus medius and gluteus maximus during rehabilitation exercises. International Journal of Sports Physical Therapy, 6(3), p.206
-McGuigan, M. R., et al., 2012. Progressive strength training in young and older adults. Sports Medicine, 42(8), pp.705-716
-Proske, U., & Morgan, D. L. (2001). Muscle damage from eccentric exercise: mechanism, mechanical signs, adaptation, and clinical applications. Journal of Physiology, 537(2), 333-345.
-Kibler, W. B., Press, J., & Sciascia, A. (2006). The role of core stability in athletic function. Sports Medicine, 36(3), 189-198.
-Brughelli, M., & Cronin, J. (2007). Altering the length-tension relationship with eccentric exercise. Sports Medicine, 37(9), 807-826.
-Andersen, 2010. Resistance Bands Provide Consistent Tension Throughout the Full Range of Motion. Journal of Applied Biomechanics, 26(2), pp. 256-261.
-Boren et al., 2011. Gluteal Muscle Activation During Common Therapeutic Exercises. Journal of Orthopaedic & Sports Physical Therapy, 41(10), pp. 744-752.
-Behm & Colado, 2012. The Effectiveness of Resistance Training Using Unstable Surfaces and Devices for Rehabilitation. International Journal of Sports Physical Therapy, 7(2), pp. 226-241.
-Selkowitz, 2013. Electromyographic Analysis of Gluteal Muscle Activity During Common Therapeutic Exercises. Orthopaedic Physical Therapy Practice, 25(4), pp. 232-239.
-Contreras et al., 2015. Gluteal Muscles: Their Activation and Functions during Specific Movements. Strength and Conditioning Journal, 37(5), pp. 28-37.
-Gullet, S., Tillman, M., Gutierrez, G., Chow, J.W., 2009. A Biomechanical Comparison of Back and Front Squats in Healthy Trained Individuals. Journal of Strength and Conditioning Research, 23(1), pp.284-292
-Bloomquist, K., Langberg, H., Karlsen, S., Madsgaard, S., Boesen, M., Raastad, T., 2013. Effect of Range of Motion in Heavy Load Squatting on Muscle and Tendon Adaptations. European Journal of Applied Physiology, 113(8), pp.2133-2142
-Lloyd, R.S., Oliver, J.L., 2012. The Youth Physical Development Model: A New Approach to Long-Term Athletic Development. Strength and Conditioning Journal, 34(3), pp.61-72
-Kritz, M., Cronin, J., Hume, P., 2010. The Bodyweight Squat: A Movement Screen for the Squat Pattern. Strength and Conditioning Journal, 32(4), pp.68-75
-Nordin, M., Frankel, V.H., 2001. Biomechanics of the Lower Limbs: Implications for Clinical Practice. Physiotherapy, 87(12), pp.656-667
-Rhea, M.R., Alvar, B.A., Burkett, L.N., Ball, S.D., 2003. A Meta-Analysis to Determine the Dose Response for Strength Development. Medicine & Science in Sports & Exercise, 35(3), pp.456-464
-Ratamess, N.A., Alvar, B.A., Evetoch, T.K., Housh, T.J., Kibler, W.B., Kraemer, W.J., Triplett, N.T., 2009. Progression Models in Resistance Training for Healthy Adults. Medicine & Science in Sports & Exercise, 41(3), pp.687-708
-Behm, D.G., Colado, J.C., 2012. The Effectiveness of Resistance Training Using Unstable Surfaces and Devices for Rehabilitation. International Journal of Sports Physical Therapy, 7(2), pp.226-241
-Philippou, A., & Bogdanis, G. C. (2018). Eccentric Exercise and Muscle Damage: Mechanisms and Adaptations. Sports, 6(2), 24.
-Wakahara, T., Fukutani, A., Kawakami, Y., & Yanai, T. (2013). Nonuniform muscle hypertrophy: Its relation to muscle activation in training session. Medicine & Science in Sports & Exercise, 45(11), 2158-2165.
-Palmer, T. B., Akehi, K., Thiele, R. M., Smith, D. B., & Thompson, B. J. (2018). Relationships between passive stiffness, muscle size, and strength in the quadriceps and hamstrings. Journal of Sport Rehabilitation, 27(3), 258-265.
-Schoenfeld, B. J., & Grgic, J. (2018). Evidence-based guidelines for resistance training volume to maximize muscle hypertrophy. Strength & Conditioning Journal, 40(4), 107-112.
-Douglas, J., Pearson, S., Ross, A., & McGuigan, M. (2017). Chronic adaptations to eccentric training: a systematic review. Sports Medicine, 47, 917-941.
-Fisher, 2018. The impact of static holds on muscle endurance and strength. Journal of Strength & Conditioning, 32(6), pp. 45-51
-Goleman, 1995. Emotional Intelligence: Why It Can Matter More Than IQ. Bantam Books.
-McGill, 2010. Core Training: Evidence Translating to Better Performance and Injury Prevention. Strength and Conditioning Journal, 32(3), pp. 33-46.
-Kendall et al., 2005. Muscles: Testing and Function with Posture and Pain. Lippincott Williams & Wilkins.
-Siff & Verkhoshansky, 1999. Supertraining. Supertraining Institute.
-Boren et al., 2011. Gluteal Muscle Activation During Common Therapeutic Exercises. Journal of Orthopaedic & Sports Physical Therapy, 41(10), pp. 744-752.
-Sullivan et al., 2013. The role of flexibility in injury prevention and performance enhancement. Journal of Strength and Conditioning Research, 27(1), pp. 158-162.
-McCurdy et al., 2010. Comparison of lower limb electromyographic activity during bilateral vs. unilateral squat. Journal of Strength and Conditioning Research, 24(3), pp. 679-684.
-Behm et al., 2015. Muscle activation during resistance training exercises with light versus heavy loads. Journal of Strength and Conditioning Research, 29(10), pp. 2779-2785.
-Simonsen et al., 2012. Calf muscle function and mechanical efficiency during running: A review. Scandinavian Journal of Medicine & Science in Sports, 22(2), pp. 134-145.
-Andersen, 2010. Resistance Bands Provide Consistent Tension Throughout the Full Range of Motion. Journal of Applied Biomechanics, 26(2), pp. 256-261.
-Schoenfeld et al., 2015. Mechanisms of hypertrophy and their application to resistance training. Journal of Strength and Conditioning Research, 29(11), pp. 2857-2872.
-Behm & Colado, 2012. The Effectiveness of Resistance Training Using Unstable Surfaces and Devices for Rehabilitation. International Journal of Sports Physical Therapy, 7(2), pp. 226-241.
-Stanton et al., 2004. The effects of short-term calf muscle stretching on ankle joint range of motion and tibial nerve neurodynamics. Scandinavian Journal of Medicine & Science in Sports, 14(4), pp. 262-266.
-Wernbom et al., 2007. The influence of frequency, intensity, volume and mode of strength training on whole muscle cross-sectional area in humans. Sports Medicine, 37(3), pp. 225-264.
-Magnusson et al., 2007. Tendon adaptation to exercise and its relation to function, injury and symptoms. Journal of Anatomy, 208(4), pp. 493-507.
-Goleman, 1995. Emotional Intelligence: Why It Can Matter More Than IQ. Bantam Books.
-Contreras et al., 2013. The effectiveness of different training programs on calf muscle development. Strength and Conditioning Journal, 35(5), pp. 50-58.
-Ronnestad et al., 2005. Effects of heavy strength training on endurance performance and muscle fiber composition in endurance athletes. European Journal of Applied Physiology, 93(1-2), pp. 152-159.
-Rassier et al., 1999. The effect of training on fatigue resistance in different muscle fiber types. European Journal of Applied Physiology, 80(5), pp. 351-355.
-Ebben et al., 2010. Muscle activation during lower body resistance training. International Journal of Sports Medicine, 31(9), pp. 623-628.
-Behm et al., 2015. Muscle activation during resistance training exercises with light versus heavy loads. Journal of Strength and Conditioning Research, 29(10), pp. 2779-2785.
-Reeves et al., 2003. Influence of 90 days of bed rest with or without resistance exercise on skeletal muscle in women. Journal of Applied Physiology, 95(2), pp. 2102-2109.
-Sutherland et al., 2009. Effects of high and low volume resistance training on the strength and size of the calf muscles. Journal of Strength and Conditioning Research, 23(6), pp. 179-187.
-Hrysomallis, 2011. Balance ability and athletic performance. Sports Medicine, 41(3), pp. 221-232.
-Simonsen et al., 2012. Calf muscle function and mechanical efficiency during running: A review. Scandinavian Journal of Medicine & Science in Sports, 22(2), pp. 134-145.
-Willems et al., 2006. Isokinetic strength testing of ankle invertor and evertor muscles in a functional standing position. Clinical Biomechanics, 21(3), pp. 231-236.
-Contreras & Schoenfeld, 2011. To crunch or not to crunch: an evidence-based examination of spinal flexion exercises, their potential risks, and their applicability to program design. Strength and Conditioning Journal, 33(4), pp. 8-18.
+scrappedAt: 2024-11-05T04:26:06.980Z
+bibliography:
+  - "Semciw, A. I., et al., 2016. The effects of hip strengthening on pain and
+    function in people with hip osteoarthritis: a systematic review and
+    meta-analysis. Osteoarthritis and Cartilage, 24(9), pp.1605-1619"
+  - Escamilla, R. F., et al., 2001. Biomechanics of the knee during closed
+    kinetic chain and open kinetic chain exercises. Medicine & Science in Sports
+    & Exercise, 33(7), pp.1147-1157
+  - Boren, K., et al., 2011. Electromyographic analysis of gluteus medius and
+    gluteus maximus during rehabilitation exercises. International Journal of
+    Sports Physical Therapy, 6(3), p.206
+  - McGuigan, M. R., et al., 2012. Progressive strength training in young and
+    older adults. Sports Medicine, 42(8), pp.705-716
+  - "Proske, U., & Morgan, D. L. (2001). Muscle damage from eccentric exercise:
+    mechanism, mechanical signs, adaptation, and clinical applications. Journal
+    of Physiology, 537(2), 333-345."
+  - Kibler, W. B., Press, J., & Sciascia, A. (2006). The role of core stability
+    in athletic function. Sports Medicine, 36(3), 189-198.
+  - Brughelli, M., & Cronin, J. (2007). Altering the length-tension relationship
+    with eccentric exercise. Sports Medicine, 37(9), 807-826.
+  - Andersen, 2010. Resistance Bands Provide Consistent Tension Throughout the
+    Full Range of Motion. Journal of Applied Biomechanics, 26(2), pp. 256-261.
+  - Boren et al., 2011. Gluteal Muscle Activation During Common Therapeutic
+    Exercises. Journal of Orthopaedic & Sports Physical Therapy, 41(10), pp.
+    744-752.
+  - Behm & Colado, 2012. The Effectiveness of Resistance Training Using Unstable
+    Surfaces and Devices for Rehabilitation. International Journal of Sports
+    Physical Therapy, 7(2), pp. 226-241.
+  - Selkowitz, 2013. Electromyographic Analysis of Gluteal Muscle Activity
+    During Common Therapeutic Exercises. Orthopaedic Physical Therapy Practice,
+    25(4), pp. 232-239.
+  - "Contreras et al., 2015. Gluteal Muscles: Their Activation and Functions
+    during Specific Movements. Strength and Conditioning Journal, 37(5), pp.
+    28-37."
+  - Gullet, S., Tillman, M., Gutierrez, G., Chow, J.W., 2009. A Biomechanical
+    Comparison of Back and Front Squats in Healthy Trained Individuals. Journal
+    of Strength and Conditioning Research, 23(1), pp.284-292
+  - Bloomquist, K., Langberg, H., Karlsen, S., Madsgaard, S., Boesen, M.,
+    Raastad, T., 2013. Effect of Range of Motion in Heavy Load Squatting on
+    Muscle and Tendon Adaptations. European Journal of Applied Physiology,
+    113(8), pp.2133-2142
+  - "Lloyd, R.S., Oliver, J.L., 2012. The Youth Physical Development Model: A
+    New Approach to Long-Term Athletic Development. Strength and Conditioning
+    Journal, 34(3), pp.61-72"
+  - "Kritz, M., Cronin, J., Hume, P., 2010. The Bodyweight Squat: A Movement
+    Screen for the Squat Pattern. Strength and Conditioning Journal, 32(4),
+    pp.68-75"
+  - "Nordin, M., Frankel, V.H., 2001. Biomechanics of the Lower Limbs:
+    Implications for Clinical Practice. Physiotherapy, 87(12), pp.656-667"
+  - Rhea, M.R., Alvar, B.A., Burkett, L.N., Ball, S.D., 2003. A Meta-Analysis to
+    Determine the Dose Response for Strength Development. Medicine & Science in
+    Sports & Exercise, 35(3), pp.456-464
+  - Ratamess, N.A., Alvar, B.A., Evetoch, T.K., Housh, T.J., Kibler, W.B.,
+    Kraemer, W.J., Triplett, N.T., 2009. Progression Models in Resistance
+    Training for Healthy Adults. Medicine & Science in Sports & Exercise, 41(3),
+    pp.687-708
+  - Behm, D.G., Colado, J.C., 2012. The Effectiveness of Resistance Training
+    Using Unstable Surfaces and Devices for Rehabilitation. International
+    Journal of Sports Physical Therapy, 7(2), pp.226-241
+  - "Philippou, A., & Bogdanis, G. C. (2018). Eccentric Exercise and Muscle
+    Damage: Mechanisms and Adaptations. Sports, 6(2), 24."
+  - "Wakahara, T., Fukutani, A., Kawakami, Y., & Yanai, T. (2013). Nonuniform
+    muscle hypertrophy: Its relation to muscle activation in training session.
+    Medicine & Science in Sports & Exercise, 45(11), 2158-2165."
+  - Palmer, T. B., Akehi, K., Thiele, R. M., Smith, D. B., & Thompson, B. J.
+    (2018). Relationships between passive stiffness, muscle size, and strength
+    in the quadriceps and hamstrings. Journal of Sport Rehabilitation, 27(3),
+    258-265.
+  - Schoenfeld, B. J., & Grgic, J. (2018). Evidence-based guidelines for
+    resistance training volume to maximize muscle hypertrophy. Strength &
+    Conditioning Journal, 40(4), 107-112.
+  - "Douglas, J., Pearson, S., Ross, A., & McGuigan, M. (2017). Chronic
+    adaptations to eccentric training: a systematic review. Sports Medicine, 47,
+    917-941."
+  - Fisher, 2018. The impact of static holds on muscle endurance and strength.
+    Journal of Strength & Conditioning, 32(6), pp. 45-51
+  - "Goleman, 1995. Emotional Intelligence: Why It Can Matter More Than IQ.
+    Bantam Books."
+  - "McGill, 2010. Core Training: Evidence Translating to Better Performance and
+    Injury Prevention. Strength and Conditioning Journal, 32(3), pp. 33-46."
+  - "Kendall et al., 2005. Muscles: Testing and Function with Posture and Pain.
+    Lippincott Williams & Wilkins."
+  - Siff & Verkhoshansky, 1999. Supertraining. Supertraining Institute.
+  - Boren et al., 2011. Gluteal Muscle Activation During Common Therapeutic
+    Exercises. Journal of Orthopaedic & Sports Physical Therapy, 41(10), pp.
+    744-752.
+  - Sullivan et al., 2013. The role of flexibility in injury prevention and
+    performance enhancement. Journal of Strength and Conditioning Research,
+    27(1), pp. 158-162.
+  - McCurdy et al., 2010. Comparison of lower limb electromyographic activity
+    during bilateral vs. unilateral squat. Journal of Strength and Conditioning
+    Research, 24(3), pp. 679-684.
+  - Behm et al., 2015. Muscle activation during resistance training exercises
+    with light versus heavy loads. Journal of Strength and Conditioning
+    Research, 29(10), pp. 2779-2785.
+  - "Simonsen et al., 2012. Calf muscle function and mechanical efficiency
+    during running: A review. Scandinavian Journal of Medicine & Science in
+    Sports, 22(2), pp. 134-145."
+  - Andersen, 2010. Resistance Bands Provide Consistent Tension Throughout the
+    Full Range of Motion. Journal of Applied Biomechanics, 26(2), pp. 256-261.
+  - Schoenfeld et al., 2015. Mechanisms of hypertrophy and their application to
+    resistance training. Journal of Strength and Conditioning Research, 29(11),
+    pp. 2857-2872.
+  - Behm & Colado, 2012. The Effectiveness of Resistance Training Using Unstable
+    Surfaces and Devices for Rehabilitation. International Journal of Sports
+    Physical Therapy, 7(2), pp. 226-241.
+  - Stanton et al., 2004. The effects of short-term calf muscle stretching on
+    ankle joint range of motion and tibial nerve neurodynamics. Scandinavian
+    Journal of Medicine & Science in Sports, 14(4), pp. 262-266.
+  - Wernbom et al., 2007. The influence of frequency, intensity, volume and mode
+    of strength training on whole muscle cross-sectional area in humans. Sports
+    Medicine, 37(3), pp. 225-264.
+  - Magnusson et al., 2007. Tendon adaptation to exercise and its relation to
+    function, injury and symptoms. Journal of Anatomy, 208(4), pp. 493-507.
+  - "Goleman, 1995. Emotional Intelligence: Why It Can Matter More Than IQ.
+    Bantam Books."
+  - Contreras et al., 2013. The effectiveness of different training programs on
+    calf muscle development. Strength and Conditioning Journal, 35(5), pp.
+    50-58.
+  - Ronnestad et al., 2005. Effects of heavy strength training on endurance
+    performance and muscle fiber composition in endurance athletes. European
+    Journal of Applied Physiology, 93(1-2), pp. 152-159.
+  - Rassier et al., 1999. The effect of training on fatigue resistance in
+    different muscle fiber types. European Journal of Applied Physiology, 80(5),
+    pp. 351-355.
+  - Ebben et al., 2010. Muscle activation during lower body resistance training.
+    International Journal of Sports Medicine, 31(9), pp. 623-628.
+  - Behm et al., 2015. Muscle activation during resistance training exercises
+    with light versus heavy loads. Journal of Strength and Conditioning
+    Research, 29(10), pp. 2779-2785.
+  - Reeves et al., 2003. Influence of 90 days of bed rest with or without
+    resistance exercise on skeletal muscle in women. Journal of Applied
+    Physiology, 95(2), pp. 2102-2109.
+  - Sutherland et al., 2009. Effects of high and low volume resistance training
+    on the strength and size of the calf muscles. Journal of Strength and
+    Conditioning Research, 23(6), pp. 179-187.
+  - Hrysomallis, 2011. Balance ability and athletic performance. Sports
+    Medicine, 41(3), pp. 221-232.
+  - "Simonsen et al., 2012. Calf muscle function and mechanical efficiency
+    during running: A review. Scandinavian Journal of Medicine & Science in
+    Sports, 22(2), pp. 134-145."
+  - Willems et al., 2006. Isokinetic strength testing of ankle invertor and
+    evertor muscles in a functional standing position. Clinical Biomechanics,
+    21(3), pp. 231-236.
+  - "Contreras & Schoenfeld, 2011. To crunch or not to crunch: an evidence-based
+    examination of spinal flexion exercises, their potential risks, and their
+    applicability to program design. Strength and Conditioning Journal, 33(4),
+    pp. 8-18."
+
 ---
 
 La última pieza del puzzle cuando alguien se plantea entrenar exclusivamente con calistenia, es entender que **sí** se puede ganar **fuerza, resistencia o incluso hipertrofia** en las piernas sin ir al gimnasio.
@@ -361,7 +455,7 @@ Hacerlo limpio y sin asistencia es extremadamente difícil pero por suerte para 
 
 Básicamente se trata de ponerse de rodillas, pero con los pies sujetados en alguna superficie. Yo utilizo una especie de tira que se pone por debajo de la puerta y así puedo poner los pies.
 
-[![Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbWRFNDVlRTFRY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQzMg=)](https://www.amazon.es/dpB0BD51DNZW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...")
+[![Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbWRFNDVlRTFRY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNzAyOA=)](https://www.amazon.es/dpB0BD51DNZW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...")
 
 [Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...](https://www.amazon.es/dp/B0BD51DNZW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...")
 

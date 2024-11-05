@@ -1,16 +1,17 @@
 ---
-title: Falta de vitamina D: la mentira de un error malintencionado
+title: "Falta de vitamina D: la mentira de un error malintencionado"
 subtitle: Las consecuencias de su deficiencia
 url: https://pau.ninja/falta-de-vitamina-d-consecuencias
 slug: falta-de-vitamina-d-consecuencias
-categories: 
+categories: []
 image: persona-con-falta-de-vitamina-d.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/06/persona-con-falta-de-vitamina-d.jpeg
 publishedAt: 2022-06-21T06:18:14.000Z
 modifiedAt: 2024-02-07T15:01:19.000Z
-scrappedAt: 2024-11-04T11:43:34.839Z
+scrappedAt: 2024-11-05T04:30:36.840Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54626959/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-10%2F308783cb-11c0-2c96-7fe2-e8bdb3314d13.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 El entorno en el que nos movemos, este entorno creado por esa mezcla de sociedad, cultura y medios, es perfecto para ponernos enfermos.

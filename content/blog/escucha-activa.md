@@ -3,14 +3,15 @@ title: El silencioso arte de escuchar
 subtitle: Cómo aplicar la escucha activa para conectar con alguien
 url: https://pau.ninja/escucha-activa
 slug: escucha-activa
-categories: 
+categories: []
 image: personas-con-escucha-activa.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/personas-con-escucha-activa.jpeg
 publishedAt: 2021-10-22T07:34:56.000Z
 modifiedAt: 2023-08-13T12:53:13.000Z
-scrappedAt: 2024-11-04T11:49:37.145Z
+scrappedAt: 2024-11-05T04:31:42.870Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171703/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283926-44100-2-53b9e925a2201e30.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hay un motivo por el que no preparo preguntas para mis invitados desde que decidí crear el podcast.
@@ -39,7 +40,7 @@ Lo que es irónico porque lo que nos ha hecho humanos, ha sido precisamente… l
 
 Ahora mismo rebajado
 
-[![El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWNXNW1OMnRxWTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5Mzc3Ng=)](https://www.amazon.es/dp8499887457?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...")
+[![El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWNXNW1OMnRxWTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkwMg=)](https://www.amazon.es/dp8499887457?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...")
 
 [El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...](https://www.amazon.es/dp/8499887457?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El salto social: La nueva ciencia evolutiva que explica quiénes somos, de dónde venimos y qué nos...")
 
@@ -109,7 +110,7 @@ O somos unos puttos cracks escuchando o queremos ser escuchados mejor.
 
 Si echamos la vista un par de milenios atrás, el mismísimo Aristóteles publicaba su libro «retórica» para poder argumentar mejor…
 
-[![Poética. Retórica (Espiritualidad y pensamiento nº 16)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGVVVWVnFlblJpYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5Mzc3Ng=)](https://www.amazon.es/dpB071F5CFTW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Poética. Retórica (Espiritualidad y pensamiento nº 16)")
+[![Poética. Retórica (Espiritualidad y pensamiento nº 16)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGVVVWVnFlblJpYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkwMg=)](https://www.amazon.es/dpB071F5CFTW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Poética. Retórica (Espiritualidad y pensamiento nº 16)")
 
 [Poética. Retórica (Espiritualidad y pensamiento nº 16)](https://www.amazon.es/dp/B071F5CFTW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Poética. Retórica (Espiritualidad y pensamiento nº 16)")
 

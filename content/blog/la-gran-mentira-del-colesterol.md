@@ -3,14 +3,15 @@ title: La mentira del colesterol
 subtitle: (o cómo inventarse una enfermedad)
 url: https://pau.ninja/la-gran-mentira-del-colesterol
 slug: la-gran-mentira-del-colesterol
-categories: 
+categories: []
 image: sujetando-manteca.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/sujetando-manteca.jpeg
 publishedAt: 2021-10-18T08:53:47.000Z
 modifiedAt: 2024-02-07T15:32:21.000Z
-scrappedAt: 2024-11-04T11:49:41.265Z
+scrappedAt: 2024-11-05T04:31:44.462Z
 audioLink: https://www.ivoox.com/mentira-del-colesterol-o-como-inventarse-una_md_77075885_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Si cuando vas al médico para que te presente el resultado de tu análisis de sangre y te dice que tienes el «colesterol malo muy alto» y que «te tienes que tomar una pastilla para bajarlo» o tienes que «comer bajo en grasa» entonces…

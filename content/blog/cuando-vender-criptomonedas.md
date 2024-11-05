@@ -3,14 +3,14 @@ title: Adiós, criptomonedas
 subtitle: ¿se acerca el momento de vender?
 url: https://pau.ninja/cuando-vender-criptomonedas
 slug: cuando-vender-criptomonedas
-categories: 
+categories: []
 image: persona-vende-criptomonedas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-vende-criptomonedas.jpeg
 publishedAt: 2024-05-23T02:49:47.000Z
 modifiedAt: 2024-08-17T15:20:24.000Z
-scrappedAt: 2024-11-04T11:12:16.308Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:26:46.935Z
+bibliography: []
+
 ---
 
 El mundo de las criptomonedas es peor que el salvaje oeste. Es una jungla, porque ¿qué hay en la jungla? Animales hambrientos y emocionales que funcionan puramente por instinto.

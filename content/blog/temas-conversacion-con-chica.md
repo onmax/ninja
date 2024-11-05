@@ -1,16 +1,17 @@
 ---
-title: No preguntes: el secreto para ligar
+title: "No preguntes: el secreto para ligar"
 subtitle: Temas de conversación para hablar con una chica
 url: https://pau.ninja/temas-conversacion-con-chica
 slug: temas-conversacion-con-chica
-categories: 
+categories: []
 image: chica-sacando-tema-conversacion.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/09/chica-sacando-tema-conversacion.jpeg
 publishedAt: 2021-09-28T06:29:48.000Z
 modifiedAt: 2023-08-29T05:17:16.000Z
-scrappedAt: 2024-11-04T11:54:42.356Z
+scrappedAt: 2024-11-05T04:32:14.460Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171562/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283735-44100-2-61cf915b81117bf8.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ay… que rebuscada es la psicología social, ¿eh?

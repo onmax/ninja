@@ -1,16 +1,17 @@
 ---
-title: Apaláncate: la clave del éxito emprendedor
+title: "Apaláncate: la clave del éxito emprendedor"
 subtitle: (cómo ser emprendedor)
 url: https://pau.ninja/como-ser-emprendedor
 slug: como-ser-emprendedor
-categories: 
+categories: []
 image: haciendo-dinero-online-en-el-salon.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/02/haciendo-dinero-online-en-el-salon.jpeg
 publishedAt: 2022-02-26T14:00:02.000Z
 modifiedAt: 2023-09-21T05:02:26.000Z
-scrappedAt: 2024-11-04T11:48:38.951Z
+scrappedAt: 2024-11-05T04:31:14.760Z
 audioLink: https://www.ivoox.com/_md_83438303_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Más que un emprendedor siempre me había considerado un _wantrepreneur_. Un emprendedor _wanna-be_. Que quieres serlo, que tienes el gusanillo, que lo piensas constantemente, que tienes mil ideas… pero **nunca tomas acción**.
@@ -183,7 +184,7 @@ Las decisiones estratégicas que podamos hacer son directamente proporcionales a
 
 Veréis, me leí la biografía de Stephen Schwarzman que es quien fundo Blackstone y para mí, este libro fue como una bofetada celestial.
 
-[![What It Takes: Lessons in the Pursuit of Excellence](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQlFuRndNbmxTTWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzcxNw=)](https://www.amazon.es/dp1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "What It Takes: Lessons in the Pursuit of Excellence")
+[![What It Takes: Lessons in the Pursuit of Excellence](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQlFuRndNbmxTTWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk0NDU3Mg=)](https://www.amazon.es/dp1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "What It Takes: Lessons in the Pursuit of Excellence")
 
 [What It Takes: Lessons in the Pursuit of Excellence](https://www.amazon.es/dp/1501158147?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "What It Takes: Lessons in the Pursuit of Excellence")
 

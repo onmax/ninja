@@ -1,16 +1,17 @@
 ---
-title: Árbol de dinero: el secreto para escalar en la vida
+title: "Árbol de dinero: el secreto para escalar en la vida"
 subtitle: (por qué y cómo aprender a decir que no)
 url: https://pau.ninja/aprender-a-decir-no
 slug: aprender-a-decir-no
-categories: 
+categories: []
 image: persona-escalando-arbol-de-dinero.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/persona-escalando-arbol-de-dinero.jpeg
 publishedAt: 2022-12-22T10:19:14.000Z
 modifiedAt: 2023-07-23T07:44:11.000Z
-scrappedAt: 2024-11-04T11:41:56.122Z
+scrappedAt: 2024-11-05T04:29:44.945Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63304264/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-10%2F306844703-44100-2-3658fe700ae4a.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 No saber decir que no es el **error número 1 de cualquier aspirante a emprendedor de éxito**. Es el error que más daño hace y es el error del que más tiempo cuesta salir.

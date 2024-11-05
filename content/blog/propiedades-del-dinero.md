@@ -3,14 +3,15 @@ title: El dinero es una mentira
 subtitle: (propiedades del dinero hechas para manipularte)
 url: https://pau.ninja/propiedades-del-dinero
 slug: propiedades-del-dinero
-categories: 
+categories: []
 image: persona-con-dinero-falso.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/12/persona-con-dinero-falso.jpeg
 publishedAt: 2020-12-20T08:32:02.000Z
 modifiedAt: 2023-09-21T05:29:13.000Z
-scrappedAt: 2024-11-04T11:56:29.401Z
+scrappedAt: 2024-11-05T04:32:58.744Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171676/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283903-44100-2-71ba56335532bd91.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Siempre nos han dicho que el dinero **no** crece de los árboles. Pero yo hasta hace poco siempre me había preguntado, «¿cómo que no?» al fin y al cabo los Euros están hechos de papel, y el papel sí crece de los árboles, ¿no?

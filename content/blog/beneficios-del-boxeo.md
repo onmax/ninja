@@ -3,14 +3,14 @@ title: El poder de empezar a boxear a los 30 años
 subtitle: (desventajas y beneficios del boxeo)
 url: https://pau.ninja/beneficios-del-boxeo
 slug: beneficios-del-boxeo
-categories: 
+categories: []
 image: boxeador-musculoso.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/03/boxeador-musculoso.jpeg
 publishedAt: 2022-03-30T15:24:06.000Z
 modifiedAt: 2023-02-18T08:25:19.000Z
-scrappedAt: 2024-11-04T11:48:12.748Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:31:05.251Z
+bibliography: []
+
 ---
 
 Siempre había querido probar un arte marcial.

@@ -1,16 +1,17 @@
 ---
-title: Moreno en 3 días: toma el sol desnudo (ni crema ni cáncer)
+title: "Moreno en 3 días: toma el sol desnudo (ni crema ni cáncer)"
 subtitle: Trucos para ponerse moreno rápido
 url: https://pau.ninja/como-ponerse-moreno-rapidamente
 slug: como-ponerse-moreno-rapidamente
-categories: 
+categories: []
 image: persona-con-moreno-rapido.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/persona-con-moreno-rapido.jpeg
 publishedAt: 2022-05-30T10:08:44.000Z
 modifiedAt: 2023-09-25T14:13:38.000Z
-scrappedAt: 2024-11-04T11:43:48.017Z
+scrappedAt: 2024-11-05T04:30:45.613Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52965052/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-3%2F54521fc3-22a8-740d-c9bf-fe0ecd43cda2.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ponerse moreno es s3xy por las mismas razones que tener una buena mandíbula o estar fuerte: es un signo de salud y utilidad social.
@@ -122,7 +123,7 @@ Lógicamente este año voy a volver a repetir y también en en norte de Europa.
 
 ¿El truco que usé para ponerme moreno rápido? me tacharéis de loco pero me esparcí cuatro gotas de un suplemento **líquido** de vitamina D por el torso y me fui a las playas estonianas a tomar el sol de 25 grados.
 
-[![Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGM1JEaFJXV0pMVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjE5OA=)](https://www.amazon.es/dpB07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
+[![Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGM1JEaFJXV0pMVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzg0NQ=)](https://www.amazon.es/dpB07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
 
 [Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](https://www.amazon.es/dp/B07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
 
@@ -257,7 +258,7 @@ Además era un ensayo clínico. Con un grupo de control y uno de intervención. 
 
 Indagaremos más próximamente, pero por el momento tendría sentido en vez de tomar el sol en una terraza de intentar hacerlo en el suelo o al menos cerca del suelo directa o indirectamente. Puede ser con una tumbona de aluminio que nos haría de conductor desde la tierra.
 
-[![LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeldWWTNXbTlOTkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjE5OA=)](https://www.amazon.es/dpB08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...")
+[![LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeldWWTNXbTlOTkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzg0NQ=)](https://www.amazon.es/dpB08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...")
 
 [LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...](https://www.amazon.es/dp/B08SCFPHN7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "LOLAhome Pack 2 Tumbonas Jardín Exterior | Ligera Plegable y Reclinable| 3 Posiciones | para Playa...")
 

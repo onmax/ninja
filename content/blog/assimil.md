@@ -3,14 +3,14 @@ title: Método Assimil
 subtitle: Mi honesta opinión (con mejoras y progreso)
 url: https://pau.ninja/assimil
 slug: assimil
-categories: 
+categories: []
 image: libros-de-assimil.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2018/02/libros-de-assimil.jpg
 publishedAt: 2020-11-01T09:37:31.000Z
 modifiedAt: 2024-02-17T05:56:38.000Z
-scrappedAt: 2024-11-04T11:57:06.528Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:33:13.722Z
+bibliography: []
+
 ---
 
 En el momento de escribir mi opinión Assimil, tengo sus libros de: ruso, finés, portugués, francés, italiano, japonés, neerlandés…
@@ -33,7 +33,7 @@ Mi aprendizaje de las últimas lenguas extranjeras las he hecho **basándome en
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Ingles Alum (+CD4+USB) (SIN ESFUERZO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGb01tUmtUVmwwV2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIyNQ=)](https://www.amazon.es/dp2700581148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "Ingles Alum (+CD4+USB) (SIN ESFUERZO)")
+[![Ingles Alum (+CD4+USB) (SIN ESFUERZO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGb01tUmtUVmwwV2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOA=)](https://www.amazon.es/dp2700581148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "Ingles Alum (+CD4+USB) (SIN ESFUERZO)")
 
 [Ingles Alum (+CD4+USB) (SIN ESFUERZO)](https://www.amazon.es/dp/2700581148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "Ingles Alum (+CD4+USB) (SIN ESFUERZO)")
 
@@ -43,7 +43,7 @@ Ahora mismo rebajadoBestseller No. 1
 
 Ahora mismo rebajadoBestseller No. 2
 
-[![El inglés americano Superpack](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaFNXZGpSa1ZLY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIyNQ=)](https://www.amazon.es/dp2700580982?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El inglés americano Superpack")
+[![El inglés americano Superpack](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaFNXZGpSa1ZLY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOA=)](https://www.amazon.es/dp2700580982?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El inglés americano Superpack")
 
 [El inglés americano Superpack](https://www.amazon.es/dp/2700580982?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El inglés americano Superpack")
 
@@ -53,7 +53,7 @@ Ahora mismo rebajadoBestseller No. 2
 
 Ahora mismo rebajadoBestseller No. 3
 
-[![El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TURGSGJWWm9WbEpwYjB3dVoybG1MbDlUVERFMk1GOHVhbkJufDE3MzA4OTQyMjU)](https://www.amazon.es/dp2700510658?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)")
+[![El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TURGSGJWWm9WbEpwYjB3dVoybG1MbDlUVERFMk1GOHVhbkJufDE3MzA5MzE4MDg)](https://www.amazon.es/dp2700510658?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)")
 
 [El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)](https://www.amazon.es/dp/2700510658?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)")
 
@@ -169,7 +169,7 @@ Comprar los libros de Assimil me costaron entre 60-80€ con el audio incorporad
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Ingles Alum (+CD4+USB) (SIN ESFUERZO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGb01tUmtUVmwwV2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIyNQ=)](https://www.amazon.es/dp2700581148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "Ingles Alum (+CD4+USB) (SIN ESFUERZO)")
+[![Ingles Alum (+CD4+USB) (SIN ESFUERZO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGb01tUmtUVmwwV2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOA=)](https://www.amazon.es/dp2700581148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "Ingles Alum (+CD4+USB) (SIN ESFUERZO)")
 
 [Ingles Alum (+CD4+USB) (SIN ESFUERZO)](https://www.amazon.es/dp/2700581148?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "Ingles Alum (+CD4+USB) (SIN ESFUERZO)")
 
@@ -179,7 +179,7 @@ Ahora mismo rebajadoBestseller No. 1
 
 Ahora mismo rebajadoBestseller No. 2
 
-[![El inglés americano Superpack](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaFNXZGpSa1ZLY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIyNQ=)](https://www.amazon.es/dp2700580982?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El inglés americano Superpack")
+[![El inglés americano Superpack](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaFNXZGpSa1ZLY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOA=)](https://www.amazon.es/dp2700580982?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El inglés americano Superpack")
 
 [El inglés americano Superpack](https://www.amazon.es/dp/2700580982?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El inglés americano Superpack")
 
@@ -189,7 +189,7 @@ Ahora mismo rebajadoBestseller No. 2
 
 Ahora mismo rebajadoBestseller No. 3
 
-[![El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TURGSGJWWm9WbEpwYjB3dVoybG1MbDlUVERFMk1GOHVhbkJufDE3MzA4OTQyMjU)](https://www.amazon.es/dp2700510658?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)")
+[![El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TURGSGJWWm9WbEpwYjB3dVoybG1MbDlUVERFMk1GOHVhbkJufDE3MzA5MzE4MDg)](https://www.amazon.es/dp2700510658?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)")
 
 [El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)](https://www.amazon.es/dp/2700510658?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20ingles%20sin%20esfuerzo%20cd "El nuevo francés sin esfuerzo. Con 4 CD: Nuevo frances sin esfuerzo - CD pack (Senza sforzo)")
 
@@ -277,7 +277,7 @@ Cuando me aparece, por ejemplo, la tarjeta de la lección 13, voy a esa página,
 
 Lo explico al detalle en la entrada sobre [mi manera de aprender idiomas](https://pau.ninja/idiomas) que también he expandido en formato libro.
 
-[![Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdWRGZHJTbWxwY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIyNQ=)](https://www.amazon.es/dpB078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
+[![Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdWRGZHJTbWxwY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOA=)](https://www.amazon.es/dpB078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
 
 [Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](https://www.amazon.es/dp/B078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
 
@@ -304,7 +304,7 @@ Cuando se ha terminado la serie de «Sin Esfuerzo» en las que prometen un nivel
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![É Assim que Acaba](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcE4ydElLM0pvT1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIyNQ=)](https://www.amazon.es/dp8501112518?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20prefeccionamiento "É Assim que Acaba")
+[![É Assim que Acaba](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcE4ydElLM0pvT1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOQ=)](https://www.amazon.es/dp8501112518?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20prefeccionamiento "É Assim que Acaba")
 
 [É Assim que Acaba](https://www.amazon.es/dp/8501112518?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20prefeccionamiento "É Assim que Acaba")
 

@@ -6,7 +6,7 @@ const selected = defineModel<string>({ default: '' })
 <template>
   <SelectRoot v-model="selected">
     <SelectTrigger
-      w-full flex="~ items-center justify-between" border="~ input" rounded-8 bg-background px-12 py-8 text="12 start placeholder:muted-foreground" disabled:cursor-not-allowed disabled:op-50 focus:outline-none focus:ring-2 ring="hocus:2 hocus:offset-2 hocus:ring offset-background" aria-label="Filtrar"
+      flex="~ items-center justify-between" border="~ input" rounded-8 bg-background px-12 py-8 text="12 start placeholder:muted-foreground" disabled:cursor-not-allowed disabled:op-50 focus:outline-none focus:ring-2 ring="hocus:2 hocus:offset-2 hocus:ring offset-background" aria-label="Filtrar" v-bind="$attrs"
     >
       <SelectValue placeholder="Sin filtrar">
         {{ valueLabel(selected || '') }}

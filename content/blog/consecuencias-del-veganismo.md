@@ -1,16 +1,17 @@
 ---
-title: Veganismo: malo para la salud. Punto.
+title: "Veganismo: malo para la salud. Punto."
 subtitle: (consecuencias de ser vegano)
 url: https://pau.ninja/consecuencias-del-veganismo
 slug: consecuencias-del-veganismo
-categories: 
+categories: []
 image: vegano-enfermo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/vegano-enfermo.jpeg
 publishedAt: 2021-10-05T07:25:40.000Z
 modifiedAt: 2023-07-26T08:15:55.000Z
-scrappedAt: 2024-11-04T11:52:13.578Z
+scrappedAt: 2024-11-05T04:32:05.155Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171869/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284109-44100-2-089192c40d80cc2c.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Para decir algo tan pedante como que ser vegano es malo para la salud no hace faltar que elija estudios que soporten mi narrativa o que marque mi opinión como hechos.

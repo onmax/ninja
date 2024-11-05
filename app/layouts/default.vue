@@ -55,7 +55,7 @@ const options = [
       <slot />
     </main>
   </div> -->
-  <div flex="~" h-screen>
+  <div flex="~" relative h-screen>
     <aside bg="#fafafa" :class="showAside ? 'w-256' : 'w-0'" relative transition-width>
       <div :class="showAside ? 'left-0' : 'left--256'" flex="~ col" absolute h-full w-256 p-16 transition-left>
         <NuxtLink to="/" relative flex="~ items-center gap-12" p-8>
@@ -113,7 +113,7 @@ const options = [
         </div>
       </div>
     </aside>
-    <div flex-1>
+    <div flex-1 of-y-auto>
       <header flex="~ gap-16 items-center" p-14>
         <button bg="transparent hocus:accent" aspect-1 size-28 h-max rounded-6 p-4 flex="~ items-center justify-center" @click="showAside = !showAside">
           <Icon name="ph:sidebar-simple-duotone" shrink-0 text-16 />
@@ -123,7 +123,7 @@ const options = [
           {{ title }}
         </p>
       </header>
-      <main v-bind="$attrs">
+      <main v-bind="$attrs" p-24>
         <slot />
       </main>
     </div>
@@ -134,7 +134,6 @@ const options = [
 body {
   main,
   header > div {
-    width: clamp(200px, 74ch, calc(100vw - 64px));
     margin: 0 auto;
   }
 }

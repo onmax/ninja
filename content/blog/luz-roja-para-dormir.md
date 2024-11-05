@@ -3,20 +3,35 @@ title: Luz roja para dormir
 subtitle: es hora del adiós a tus bombillas
 url: https://pau.ninja/luz-roja-para-dormir
 slug: luz-roja-para-dormir
-categories: 
+categories: []
 image: persona-con-bombillas-rojas-de-noche.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/04/persona-con-bombillas-rojas-de-noche.jpeg
 publishedAt: 2023-04-12T06:44:06.000Z
 modifiedAt: 2023-09-09T11:03:34.000Z
-scrappedAt: 2024-11-04T11:40:12.845Z
+scrappedAt: 2024-11-05T04:29:08.476Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/74200413/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-3%2F341750408-44100-2-b1bd4ce50ad85.mp3
-bibliography: James, Steven R. (February 1989). «Hominid Use of Fire in the Lower and Middle Pleistocene: A Review of the Evidence» (PDF). Current Anthropology.
-Berna, Francesco (2012). «Microstratigraphic evidence of in situ fire in the Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa». Proceedings of the National Academy of Sciences of the United States of America.
-Swann G. The skin is the body’s largest organ. J Vis Commun Med. 2010 Dec;33(4):148-9. doi: 10.3109/17453054.2010.525439. PMID: 21087182.
-Journal of Neuroscience 15 August 2001, 21 (16) 6405-6412; DOI: 10.1523/JNEUROSCI.21-16-06405.2001
-Does the iPad Night Shift mode reduce melatonin suppression? R Nagare, MS, B Plitnick, RN, and MG Figueiro, PhD
-Barolet D, Christiaens F, Hamblin MR. Infrared and skin: Friend or foe. J Photochem Photobiol B. 2016 Feb;155:78-85. doi: 10.1016/j.jphotobiol.2015.12.014. Epub 2015 Dec 21. PMID: 26745730; PMCID: PMC4745411.
-Inger R, Bennie J, Davies TW, Gaston KJ. Potential biological and ecological effects of flickering artificial light. PLoS One. 2014 May 29;9(5):e98631. doi: 10.1371/journal.pone.0098631. PMID: 24874801; PMCID: PMC4038456.
+bibliography:
+  - "James, Steven R. (February 1989). «Hominid Use of Fire in the Lower and
+    Middle Pleistocene: A Review of the Evidence» (PDF). Current Anthropology."
+  - Berna, Francesco (2012). «Microstratigraphic evidence of in situ fire in the
+    Acheulean strata of Wonderwerk Cave, Northern Cape province, South Africa».
+    Proceedings of the National Academy of Sciences of the United States of
+    America.
+  - "Swann G. The skin is the body’s largest organ. J Vis Commun Med. 2010
+    Dec;33(4):148-9. doi: 10.3109/17453054.2010.525439. PMID: 21087182."
+  - "Journal of Neuroscience 15 August 2001, 21 (16) 6405-6412; DOI:
+    10.1523/JNEUROSCI.21-16-06405.2001"
+  - Does the iPad Night Shift mode reduce melatonin suppression? R Nagare, MS, B
+    Plitnick, RN, and MG Figueiro, PhD
+  - "Barolet D, Christiaens F, Hamblin MR. Infrared and skin: Friend or foe. J
+    Photochem Photobiol B. 2016 Feb;155:78-85. doi:
+    10.1016/j.jphotobiol.2015.12.014. Epub 2015 Dec 21. PMID: 26745730; PMCID:
+    PMC4745411."
+  - "Inger R, Bennie J, Davies TW, Gaston KJ. Potential biological and
+    ecological effects of flickering artificial light. PLoS One. 2014 May
+    29;9(5):e98631. doi: 10.1371/journal.pone.0098631. PMID: 24874801; PMCID:
+    PMC4038456."
+
 ---
 
 ¿Por qué hacer que tu casa parezca un put1 de noche? Pues las razones no son pocas.
@@ -253,7 +268,7 @@ O sea que una de las cosas a tener en cuenta es si este LED emite electricidad s
 
 Sólo con comprar cualquier bombilla de luz roja ya nos evitaremos el espectro de luz azul, que es lo que nos interesa principalmente aunque queremos considerar tanto el parpadeo como la electricidad sucia y radiaciones… pero nosotros al ser unos ninjas de la vida vamos un paso más allá.
 
-[![Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFdFpGRmlPVTlIY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MjcyOQ=)](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Klarlight 9W E27 Bombillas LED de Colores, 9w, A60A19, Incandescente, Rojo, E26, 720LM (4 Pack)...")
+[![Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFdFpGRmlPVTlIY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzY5Nw=)](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Klarlight 9W E27 Bombillas LED de Colores, 9w, A60A19, Incandescente, Rojo, E26, 720LM (4 Pack)...")
 
 [Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...](https://www.amazon.es/dp/B0BPX88VYL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Klarlight 9W E27 Bombillas LED de Colores, 9w, A60/A19, Incandescente, Rojo, E26, 720LM (4 Pack)...")
 

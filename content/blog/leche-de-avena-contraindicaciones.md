@@ -1,17 +1,19 @@
 ---
-title: Leche de avena: el veneno más vendido del Apocalipsis
+title: "Leche de avena: el veneno más vendido del Apocalipsis"
 subtitle: (contraindicaciones + 1 mejor alternativa)
 url: https://pau.ninja/leche-de-avena-contraindicaciones
 slug: leche-de-avena-contraindicaciones
-categories: 
+categories: []
 image: bebiendo-leche-de-avena.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/09/bebiendo-leche-de-avena.jpeg
 publishedAt: 2022-09-26T07:51:20.000Z
 modifiedAt: 2023-09-21T05:32:22.000Z
-scrappedAt: 2024-11-04T11:42:46.174Z
+scrappedAt: 2024-11-05T04:30:09.241Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59916591/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-1%2F294392681-44100-2-a0a50b60c40a9.mp3
-bibliography: gramos de proteína
-gramos de fibra
+bibliography:
+  - gramos de proteína
+  - gramos de fibra
+
 ---
 
 No sólo has escuchado sobre las leches vegetal como la de avena, de soja o almendras. Seguramente hasta incluso la estás bebiendo.

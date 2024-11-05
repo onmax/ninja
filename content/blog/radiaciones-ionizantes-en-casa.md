@@ -1,16 +1,17 @@
 ---
-title: Protégete: las radiaciones electromagnéticas de tu casa
+title: "Protégete: las radiaciones electromagnéticas de tu casa"
 subtitle: ¿Radiaciones ionizantes en tu domicilio?
 url: https://pau.ninja/radiaciones-ionizantes-en-casa
 slug: radiaciones-ionizantes-en-casa
-categories: 
+categories: []
 image: protegido-de-radiaciones-ionizantes.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/08/protegido-de-radiaciones-ionizantes.jpg
 publishedAt: 2022-08-12T06:13:24.000Z
 modifiedAt: 2023-12-07T07:01:38.000Z
-scrappedAt: 2024-11-04T11:43:17.794Z
+scrappedAt: 2024-11-05T04:30:25.744Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/57009778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283750559-44100-2-d80e6a97d5adf.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 En las casas de la gente podemos encontrar 15, 20, algunas veces hasta 30 distintos transmisores generando radiaciones de radiofrecuencia de forma constante.
@@ -185,7 +186,7 @@ Por ejemplo el Bluetooth está activado por defecto en la mayoría de coches, y 
 
 Es importante saber que los coches también tienen estas frecuencias bajas. Si usas un medidor Gauss para medir los campos electromagnéticos, hay que asegurarse que los niveles en el asiento del conductor están por debajo 5 miligauss…
 
-[![Iriisy Detector de Radiación Electromagnética, Medidor de Gauss EMF de campo electromagnético K2...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeGJXdFJhbFpvY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NTI2NA=)](https://www.amazon.es/dpB094WZSKZX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Iriisy Detector de Radiación Electromagnética, Medidor de Gauss EMF de campo electromagnético K2...")
+[![Iriisy Detector de Radiación Electromagnética, Medidor de Gauss EMF de campo electromagnético K2...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFeGJXdFJhbFpvY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgyNQ=)](https://www.amazon.es/dpB094WZSKZX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Iriisy Detector de Radiación Electromagnética, Medidor de Gauss EMF de campo electromagnético K2...")
 
 [Iriisy Detector de Radiación Electromagnética, Medidor de Gauss EMF de campo electromagnético K2...](https://www.amazon.es/dp/B094WZSKZX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Iriisy Detector de Radiación Electromagnética, Medidor de Gauss EMF de campo electromagnético K2...")
 
@@ -201,7 +202,7 @@ La mejor manera de detectar y medir la radiación electromagnética que tenemos 
 
 Cuando vais a Amazon a comprar un medidor (que muchos haréis después de escuchar este episodio), todos los aparatos que os saldrán serán de los segundos. No he encontrado ninguno que mida los microvatios.
 
-[![Medidor EMF ERICKHILL, detector de radiación de campo electromagnético digital recargable,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMlVqZHhWbXhDYjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NTI2NA=)](https://www.amazon.es/dpB08BLJM28J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Medidor EMF ERICKHILL, detector de radiación de campo electromagnético digital recargable,...")
+[![Medidor EMF ERICKHILL, detector de radiación de campo electromagnético digital recargable,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMlVqZHhWbXhDYjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgyNQ=)](https://www.amazon.es/dpB08BLJM28J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Medidor EMF ERICKHILL, detector de radiación de campo electromagnético digital recargable,...")
 
 [Medidor EMF ERICKHILL, detector de radiación de campo electromagnético digital recargable,...](https://www.amazon.es/dp/B08BLJM28J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Medidor EMF ERICKHILL, detector de radiación de campo electromagnético digital recargable,...")
 

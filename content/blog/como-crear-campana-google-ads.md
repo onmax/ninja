@@ -3,15 +3,16 @@ title: Crear una campaña en Google Ads
 subtitle: Me arruiné... y después me forré
 url: https://pau.ninja/como-crear-campana-google-ads
 slug: como-crear-campana-google-ads
-categories: 
+categories: []
 image: anuncios-de-google.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/03/anuncios-de-google.jpeg
 publishedAt: 2022-03-06T15:04:21.000Z
 modifiedAt: 2023-04-08T05:11:31.000Z
-scrappedAt: 2024-11-04T11:48:29.810Z
-audioLink: undefined
-bibliography: títulos
-descripción
+scrappedAt: 2024-11-05T04:31:11.313Z
+bibliography:
+  - títulos
+  - descripción
+
 ---
 
 Desde siempre me ha fascinado más el SEO (posicionamiento orgánico) más que el SEM (la publicidad pagada). ¿Por qué? fácil. Porque nunca he tenido un duro para destinar en anuncios.

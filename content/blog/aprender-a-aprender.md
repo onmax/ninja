@@ -1,16 +1,17 @@
 ---
-title: Curiosidad intelectual: el arte de aprender a aprender
-subtitle: 
+title: "Curiosidad intelectual: el arte de aprender a aprender"
+subtitle: ""
 url: https://pau.ninja/aprender-a-aprender
 slug: aprender-a-aprender
-categories: 
+categories: []
 image: persona-estudiando-mucho.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/persona-estudiando-mucho.jpeg
 publishedAt: 2022-12-28T08:32:31.000Z
 modifiedAt: 2023-12-08T15:33:48.000Z
-scrappedAt: 2024-11-04T11:41:38.861Z
+scrappedAt: 2024-11-05T04:29:37.271Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/65810913/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-1%2F315517692-44100-2-5dd6f3cb55487.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 En los 16 años que dura la educación obligatoria, la forma de enseñar a penas ha cambiado desde que se implementó durante la Revolución Industrial.

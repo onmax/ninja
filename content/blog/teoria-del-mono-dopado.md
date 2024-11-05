@@ -3,14 +3,15 @@ title: La teoría del mono drogado
 subtitle: ¿Y si las setas mágicas nos hicieron evolucionar?
 url: https://pau.ninja/teoria-del-mono-dopado
 slug: teoria-del-mono-dopado
-categories: 
+categories: []
 image: mono-dopado.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/mono-dopado.jpeg
 publishedAt: 2021-02-23T10:04:54.000Z
 modifiedAt: 2023-06-26T19:31:12.000Z
-scrappedAt: 2024-11-04T11:55:37.341Z
+scrappedAt: 2024-11-05T04:32:30.529Z
 audioLink: https://www.ivoox.com/teoria-del-mono-drogado_md_66427511_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Cuando estuve viviendo en Nueva Zelanda quedé fascinado por todo lo relacionado con el país. La política de sentido común, las leyes de protecciones de animales (o hasta criptomonedas), del medio ambiente, de corrupción, pero lo que más me flipó…

@@ -3,42 +3,84 @@ title: Fases del ayuno por horas
 subtitle: modo supervivencia, ayuno prolongado, fases,
 url: https://pau.ninja/fases-del-ayuno-por-horas
 slug: fases-del-ayuno-por-horas
-categories: 
+categories: []
 image: fases-del-ayuno-por-horas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/fases-del-ayuno-por-horas.jpg
 publishedAt: 2024-10-27T08:41:17.000Z
 modifiedAt: 2024-10-28T06:23:23.000Z
-scrappedAt: 2024-11-04T11:08:46.573Z
-audioLink: undefined
-bibliography: Cahill, G.F., 2006. Fuel metabolism in starvation. _Annual Review of Nutrition_, 26(1), 1-22
-Acheson, K. J., & Ravussin, E. (1988). Fat oxidation in response to fasting and low-calorie diet in lean and obese individuals. The American Journal of Clinical Nutrition, 47(5), 848-852.
-Phinney, S. D., & Volek, J. S. (2011). The Art and Science of Low Carbohydrate Living. Beyond Obesity LLC.
-Cahill, G. F. (2006). Fuel metabolism in starvation. Annual Review of Nutrition, 26, 1-22.
-Volek, J. S., & Phinney, S. D. (2011). The Art and Science of Low Carbohydrate Living. Beyond Obesity LLC.
-Phinney, S. D., Bistrian, B. R., Evans, W. J., & Gervino, E. (1983). The human metabolic response to chronic ketosis without caloric restriction: preservation of submaximal exercise capability with reduced carbohydrate oxidation. Metabolism, 32(8), 769-776.
-Cahill, G. F. (2006). Fuel metabolism in starvation. Annual Review of Nutrition, 26, 1-22.
-Cahill, G.F., 2006. Fuel metabolism in starvation. _Annual Review of Nutrition_, 26(1), 1-22
-Veech, R.L., 2004. The therapeutic implications of ketone bodies: the effects of ketone bodies in pathological conditions: ketosis, ketogenic diet, redox states, insulin resistance, and mitochondrial metabolism. _Prostaglandins, Leukotrienes and Essential Fatty Acids_, 70(3), 309-319
-Cunnane, S. C., et al. (2016). «Brain fuel metabolism, aging, and Alzheimer’s disease.» Nutrition. doi:10.1016/j.nut.2015.11.004
-Newman, J. C., & Verdin, E. (2014). «Ketone bodies as signaling metabolites.» Trends in Endocrinology & Metabolism. doi:10.1016/j.tem.2013.09.002
-Volek, J. S., et al. (2015). «Metabolic characteristics of keto-adapted elite ultra-endurance runners.» Metabolism. doi:10.1016/j.metabol.2015.05.002
-Veech, R.L., 2004. The therapeutic implications of ketone bodies: the effects of ketone bodies in pathological conditions: ketosis, ketogenic diet, redox states, insulin resistance, and mitochondrial metabolism. _Prostaglandins, Leukotrienes and Essential Fatty Acids_, 70(3), 309-319
-Mizushima, N., 2018. Autophagy in human health and disease. _Genes & Development_, 21(22), 2861-2873
-Mizushima, N., 2018. Autophagy in human health and disease. _Genes & Development_, 21(22), 2861-2873
-Mizushima, N., 2018. Autophagy in human health and disease. _Genes & Development_, 21(22), 2861-2873
-Rubinsztein, D.C., 2011. Autophagy and its possible roles in longevity and age-related diseases. _Nature Reviews Molecular Cell Biology_, 12(3), 223-230
-Rubinsztein, D.C., 2011. Autophagy and its possible roles in longevity and age-related diseases. _Nature Reviews Molecular Cell Biology_, 12(3), 223-230
-Longo, V.D., & Mattson, M.P., 2014. Fasting: Molecular mechanisms and clinical applications. _Cell Metabolism_, 19(2), 181-192
-Longo, V.D., & Mattson, M.P., 2014. Fasting: Molecular mechanisms and clinical applications. _Cell Metabolism_, 19(2), 181-192
-Longo, V.D., & Mattson, M.P., 2014. Fasting: Molecular mechanisms and clinical applications. _Cell Metabolism_, 19(2), 181-192
-Safdie, F.M., 2009. Fasting and cancer treatment in humans: A case series report. _Aging (Albany NY)_, 1(12), 988-1007
-Safdie, F.M., 2009. Fasting and cancer treatment in humans: A case series report. _Aging (Albany NY)_, 1(12), 988-1007
-Safdie, F.M., 2009. Fasting and cancer treatment in humans: A case series report. _Aging (Albany NY)_, 1(12), 988-1007
-Schupak, E. et al., 2013. Refeeding syndrome: a review of the literature. _Nutritional Therapy & Metabolism_, 31, 96-103
-Schupak, E. et al., 2013. Refeeding syndrome: a review of the literature. _Nutritional Therapy & Metabolism_, 31, 96-103
-Crook, M.A., Hally, V., & Panteli, J.V. (2001). The importance of the refeeding syndrome. Nutrition, 17(7-8), 632-637.
-Stanga, Z. et al. (2008). Refeeding syndrome: illustrative cases and guidelines for prevention and treatment. European Journal of Clinical Nutrition, 62(6), 687-694.
-Hoffer, L.J. (2017). Metabolic consequences of starvation and the refeeding syndrome. American Journal of Clinical Nutrition, 106(6), 1613-1618.
+scrappedAt: 2024-11-05T04:25:31.242Z
+bibliography:
+  - Cahill, G.F., 2006. Fuel metabolism in starvation. _Annual Review of
+    Nutrition_, 26(1), 1-22
+  - Acheson, K. J., & Ravussin, E. (1988). Fat oxidation in response to fasting
+    and low-calorie diet in lean and obese individuals. The American Journal of
+    Clinical Nutrition, 47(5), 848-852.
+  - Phinney, S. D., & Volek, J. S. (2011). The Art and Science of Low
+    Carbohydrate Living. Beyond Obesity LLC.
+  - Cahill, G. F. (2006). Fuel metabolism in starvation. Annual Review of
+    Nutrition, 26, 1-22.
+  - Volek, J. S., & Phinney, S. D. (2011). The Art and Science of Low
+    Carbohydrate Living. Beyond Obesity LLC.
+  - "Phinney, S. D., Bistrian, B. R., Evans, W. J., & Gervino, E. (1983). The
+    human metabolic response to chronic ketosis without caloric restriction:
+    preservation of submaximal exercise capability with reduced carbohydrate
+    oxidation. Metabolism, 32(8), 769-776."
+  - Cahill, G. F. (2006). Fuel metabolism in starvation. Annual Review of
+    Nutrition, 26, 1-22.
+  - Cahill, G.F., 2006. Fuel metabolism in starvation. _Annual Review of
+    Nutrition_, 26(1), 1-22
+  - "Veech, R.L., 2004. The therapeutic implications of ketone bodies: the
+    effects of ketone bodies in pathological conditions: ketosis, ketogenic
+    diet, redox states, insulin resistance, and mitochondrial metabolism.
+    _Prostaglandins, Leukotrienes and Essential Fatty Acids_, 70(3), 309-319"
+  - Cunnane, S. C., et al. (2016). «Brain fuel metabolism, aging, and
+    Alzheimer’s disease.» Nutrition. doi:10.1016/j.nut.2015.11.004
+  - Newman, J. C., & Verdin, E. (2014). «Ketone bodies as signaling
+    metabolites.» Trends in Endocrinology & Metabolism.
+    doi:10.1016/j.tem.2013.09.002
+  - Volek, J. S., et al. (2015). «Metabolic characteristics of keto-adapted
+    elite ultra-endurance runners.» Metabolism.
+    doi:10.1016/j.metabol.2015.05.002
+  - "Veech, R.L., 2004. The therapeutic implications of ketone bodies: the
+    effects of ketone bodies in pathological conditions: ketosis, ketogenic
+    diet, redox states, insulin resistance, and mitochondrial metabolism.
+    _Prostaglandins, Leukotrienes and Essential Fatty Acids_, 70(3), 309-319"
+  - Mizushima, N., 2018. Autophagy in human health and disease. _Genes &
+    Development_, 21(22), 2861-2873
+  - Mizushima, N., 2018. Autophagy in human health and disease. _Genes &
+    Development_, 21(22), 2861-2873
+  - Mizushima, N., 2018. Autophagy in human health and disease. _Genes &
+    Development_, 21(22), 2861-2873
+  - Rubinsztein, D.C., 2011. Autophagy and its possible roles in longevity and
+    age-related diseases. _Nature Reviews Molecular Cell Biology_, 12(3),
+    223-230
+  - Rubinsztein, D.C., 2011. Autophagy and its possible roles in longevity and
+    age-related diseases. _Nature Reviews Molecular Cell Biology_, 12(3),
+    223-230
+  - "Longo, V.D., & Mattson, M.P., 2014. Fasting: Molecular mechanisms and
+    clinical applications. _Cell Metabolism_, 19(2), 181-192"
+  - "Longo, V.D., & Mattson, M.P., 2014. Fasting: Molecular mechanisms and
+    clinical applications. _Cell Metabolism_, 19(2), 181-192"
+  - "Longo, V.D., & Mattson, M.P., 2014. Fasting: Molecular mechanisms and
+    clinical applications. _Cell Metabolism_, 19(2), 181-192"
+  - "Safdie, F.M., 2009. Fasting and cancer treatment in humans: A case series
+    report. _Aging (Albany NY)_, 1(12), 988-1007"
+  - "Safdie, F.M., 2009. Fasting and cancer treatment in humans: A case series
+    report. _Aging (Albany NY)_, 1(12), 988-1007"
+  - "Safdie, F.M., 2009. Fasting and cancer treatment in humans: A case series
+    report. _Aging (Albany NY)_, 1(12), 988-1007"
+  - "Schupak, E. et al., 2013. Refeeding syndrome: a review of the literature.
+    _Nutritional Therapy & Metabolism_, 31, 96-103"
+  - "Schupak, E. et al., 2013. Refeeding syndrome: a review of the literature.
+    _Nutritional Therapy & Metabolism_, 31, 96-103"
+  - Crook, M.A., Hally, V., & Panteli, J.V. (2001). The importance of the
+    refeeding syndrome. Nutrition, 17(7-8), 632-637.
+  - "Stanga, Z. et al. (2008). Refeeding syndrome: illustrative cases and
+    guidelines for prevention and treatment. European Journal of Clinical
+    Nutrition, 62(6), 687-694."
+  - Hoffer, L.J. (2017). Metabolic consequences of starvation and the refeeding
+    syndrome. American Journal of Clinical Nutrition, 106(6), 1613-1618.
+
 ---
 
 A los ninjas de la vida nos encantan los ayunos intermitentes, sabemos que son buenísimos para la salud.

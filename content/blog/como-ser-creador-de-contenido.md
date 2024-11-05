@@ -1,16 +1,17 @@
 ---
 title: El foco para ser creador de contenido
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/como-ser-creador-de-contenido
 slug: como-ser-creador-de-contenido
-categories: 
+categories: []
 image: creador-contenido-trabajando.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/creador-contenido-trabajando.jpeg
 publishedAt: 2022-12-05T09:15:36.000Z
 modifiedAt: 2023-07-23T07:44:35.000Z
-scrappedAt: 2024-11-04T11:42:03.702Z
+scrappedAt: 2024-11-05T04:29:47.300Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63402138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-12%2F307201808-44100-2-27560db29c3a6.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Cuando pensamos en un creador de contenido nos viene a la mente un niño de TikTok haciendo bailes. O un ninja de la vida dedicándose a investigar para hacer episodios que él considera interesante.

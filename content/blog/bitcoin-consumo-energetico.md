@@ -3,14 +3,15 @@ title: La falacia del consumo de energía de Bitcoin
 subtitle: Sí. Bitcoin gasta mucha energía... pero mira cómo la gasta
 url: https://pau.ninja/bitcoin-consumo-energetico
 slug: bitcoin-consumo-energetico
-categories: 
+categories: []
 image: granja-minado-bitcoin.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/granja-minado-bitcoin.jpeg
 publishedAt: 2022-05-25T08:23:52.000Z
 modifiedAt: 2024-02-11T06:33:40.000Z
-scrappedAt: 2024-11-04T11:43:49.757Z
+scrappedAt: 2024-11-05T04:30:47.365Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/56252104/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-7-16%2F281126765-44100-2-a3f410de208af.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Tener oro en la caja fuerte parece tener sentido cuando no lo tienes que vender, pero cuando te toca usarlo de verdad… estás h0dido.

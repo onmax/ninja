@@ -3,17 +3,19 @@ title: El veganismo NO es sostenible para el medio ambiente
 subtitle: (por qué es malo para la Tierra)
 url: https://pau.ninja/veganismo-y-medio-ambiente
 slug: veganismo-y-medio-ambiente
-categories: 
+categories: []
 image: con-verduras-contaminadas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/con-verduras-contaminadas.jpeg
 publishedAt: 2021-10-05T07:26:01.000Z
 modifiedAt: 2023-04-28T17:19:31.000Z
-scrappedAt: 2024-11-04T11:52:08.298Z
+scrappedAt: 2024-11-05T04:32:04.361Z
 audioLink: https://www.ivoox.com/veganismo-no-es-sostenible-para-medio_md_72626160_wp_1.mp3
-bibliography: dieta vegana
-dietas vegetarianas (una con lácteos y la otra con lácteos y huevos)
-omnívoras (con varios grados de influencia vegetariana)
-baja en grasas y azúcares
+bibliography:
+  - dieta vegana
+  - dietas vegetarianas (una con lácteos y la otra con lácteos y huevos)
+  - omnívoras (con varios grados de influencia vegetariana)
+  - baja en grasas y azúcares
+
 ---
 
 Después de pasarme años gravitando entre dietas veganas y vegetarianas pensando que estaba haciendo el bien tanto para mi salud como para el medio ambiente, hoy expongo las razones por las que **estaba equivocado**.

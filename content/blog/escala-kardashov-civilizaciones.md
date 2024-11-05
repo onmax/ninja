@@ -3,14 +3,15 @@ title: Energías renovables de futuras civilizaciones
 subtitle: Tipos de civilizaciones según la escala de Kardashov
 url: https://pau.ninja/escala-kardashov-civilizaciones
 slug: escala-kardashov-civilizaciones
-categories: 
+categories: []
 image: escala-de-planetas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/escala-de-planetas.jpg
 publishedAt: 2021-02-09T07:12:29.000Z
 modifiedAt: 2023-06-26T19:37:06.000Z
-scrappedAt: 2024-11-04T11:55:50.630Z
+scrappedAt: 2024-11-05T04:32:39.237Z
 audioLink: https://www.ivoox.com/energias-renovables-futuras-civilizaciones_md_65293983_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Decir que estamos solos en el universo me parecen de un egocentrismo de manual.
@@ -239,7 +240,7 @@ En verdad no tengo nada que ver con avistar a Oumuamua.
 
 El caso es que algunos físicos como [Avi Loeb](https://www.cfa.harvard.edu/~loeb/) han afirmado que Oumuamua **se podría** tratar de un objeto creado por otra civilización avanzada. Seguramente una de Tipo II y que lo que pasó por nuestro sistema solar, no era un OVNI ni nada pero el estilo, pero basura que llegaba desde otra Galaxia.
 
-[![Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaFdIZHNibUpvYjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MDgwOA=)](https://www.amazon.es/dp0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth")
+[![Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaFdIZHNibUpvYjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDc1NQ=)](https://www.amazon.es/dp0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth")
 
 [Extraterrestrial: The First Sign of Intelligent Life Beyond Earth](https://www.amazon.es/dp/0358645530?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Extraterrestrial: The First Sign of Intelligent Life Beyond Earth")
 

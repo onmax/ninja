@@ -1,27 +1,41 @@
 ---
 title: (No) alimentamos al ganado con nuestra comida
-subtitle: Mentiras veganas #1
+subtitle: "Mentiras veganas #1"
 url: https://pau.ninja/ganaderia-y-agricultura
 slug: ganaderia-y-agricultura
-categories: 
+categories: []
 image: Persona-cortando-y-comiendo-cesped.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/07/Persona-cortando-y-comiendo-cesped.jpeg
 publishedAt: 2023-07-28T08:20:51.000Z
 modifiedAt: 2023-12-07T06:53:15.000Z
-scrappedAt: 2024-11-04T11:39:32.605Z
+scrappedAt: 2024-11-05T04:28:51.415Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/74572442/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-13%2F342907695-44100-2-8256b826762ae.mp3
-bibliography: Ramírez, Roberto I. 2023. “La Carne Cultivada – Revista ¿Cómo Ves? – Dirección General de Divulgación de La Ciencia de La UNAM.‌
-Elliott, Larry. 2012. “The Era of Cheap Food May Be Over.” The Guardian.‌
-“The Breeding of Edible Insects Compared to the Production of Meat.” 2018. Buy Edible Insects for Sale Online, Ready to Eat Insects.‌
-Méndez, Roberto. 2019. “Heura, La Nueva Carne Que Causa Furor: Éstos Son Sus Beneficios Para La Dieta.” El Español.‌
-Mottet, Anne & De haan, Cornelis & Falcucci, Alessandra & Tempio, G. & Opio, Carolyn & Gerber, Pierre J.. (2017). Livestock: On our plates or eating at our table? A new analysis of the feed/food debate. Global Food Security. 14. 10.1016/j.gfs.2017.01.001.
-“Weird Things Cattle Eat and It Is Perfectly OK | Nebraska Extension.” 2023. Unl.edu
-Schroeder, J. 2010. GRANOS de DESTILERÍA SUPLEMENTO ENERGÉTICO Y PROTEICO PARA EL GANADO LECHERO.‌
-Zeldovich, Lina. 2018. “Can Cows Help Mitigate Climate Change? Yes, They Can! – JSTOR Daily.” JSTOR Daily.‌
-Haspel, Tamar. 2014. “Monocrops: They’re a Problem, but Farmers Aren’t the Ones Who Can Solve It.” Washington Post. The Washington Post.‌
-“SOFT and CRUMBLY.” “like COTTAGE CHEESE.” “like a SPONGE.” “LOOSE and FULL of HOLES.”‌
-“Pollinator Health Concerns | US EPA.” 2013. US EPA.‌
-“Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet : Rodgers, Diana, Wolf, Robb‌
+bibliography:
+  - Ramírez, Roberto I. 2023. “La Carne Cultivada – Revista ¿Cómo Ves? –
+    Dirección General de Divulgación de La Ciencia de La UNAM.‌
+  - Elliott, Larry. 2012. “The Era of Cheap Food May Be Over.” The Guardian.‌
+  - “The Breeding of Edible Insects Compared to the Production of Meat.” 2018.
+    Buy Edible Insects for Sale Online, Ready to Eat Insects.‌
+  - "Méndez, Roberto. 2019. “Heura, La Nueva Carne Que Causa Furor: Éstos Son
+    Sus Beneficios Para La Dieta.” El Español.‌"
+  - "Mottet, Anne & De haan, Cornelis & Falcucci, Alessandra & Tempio, G. &
+    Opio, Carolyn & Gerber, Pierre J.. (2017). Livestock: On our plates or
+    eating at our table? A new analysis of the feed/food debate. Global Food
+    Security. 14. 10.1016/j.gfs.2017.01.001."
+  - “Weird Things Cattle Eat and It Is Perfectly OK | Nebraska Extension.” 2023.
+    Unl.edu
+  - Schroeder, J. 2010. GRANOS de DESTILERÍA SUPLEMENTO ENERGÉTICO Y PROTEICO
+    PARA EL GANADO LECHERO.‌
+  - Zeldovich, Lina. 2018. “Can Cows Help Mitigate Climate Change? Yes, They
+    Can! – JSTOR Daily.” JSTOR Daily.‌
+  - "Haspel, Tamar. 2014. “Monocrops: They’re a Problem, but Farmers Aren’t the
+    Ones Who Can Solve It.” Washington Post. The Washington Post.‌"
+  - “SOFT and CRUMBLY.” “like COTTAGE CHEESE.” “like a SPONGE.” “LOOSE and FULL
+    of HOLES.”‌
+  - “Pollinator Health Concerns | US EPA.” 2013. US EPA.‌
+  - "“Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for
+    You and Good for the Planet : Rodgers, Diana, Wolf, Robb‌"
+
 ---
 
 ## Resumen

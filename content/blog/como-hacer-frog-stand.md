@@ -3,14 +3,14 @@ title: Frog stand 🐸
 subtitle: Cómo hacer la postura del cuervo
 url: https://pau.ninja/como-hacer-frog-stand
 slug: como-hacer-frog-stand
-categories: 
+categories: []
 image: posicion-de-frog-stand.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/posicion-de-frog-stand.jpeg
 publishedAt: 2022-05-08T07:16:32.000Z
 modifiedAt: 2023-06-27T17:46:43.000Z
-scrappedAt: 2024-11-04T11:45:55.802Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:52.256Z
+bibliography: []
+
 ---
 
 - 🟢 **Dificultad:** principiante

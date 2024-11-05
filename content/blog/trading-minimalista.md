@@ -3,14 +3,15 @@ title: Trading minimalista
 subtitle: menos indicadores, menos colores, más beneficios
 url: https://pau.ninja/trading-minimalista
 slug: trading-minimalista
-categories: 
+categories: []
 image: persona-hace-trading-minimalista.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-hace-trading-minimalista.jpg
 publishedAt: 2024-05-26T02:58:56.000Z
 modifiedAt: 2024-10-02T13:15:58.000Z
-scrappedAt: 2024-11-04T11:12:08.536Z
+scrappedAt: 2024-11-05T04:26:44.349Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/90620638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-19%2F384997208-44100-2-c46dbaaf6d573.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Todo ninja de la vida que empieza en el trading, por alguna extraña razón terminamos pasando (inevitablemente) por un proceso en el que queremos saber todas las estrategias, usar todos los indicadores y nuestro gráfico termina pareciendo la pantalla de una tragaperras.

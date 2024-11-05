@@ -3,14 +3,15 @@ title: Mandíbula marcada para salud y atracción
 subtitle: Pasos, razones y ejercicios para fortalecer
 url: https://pau.ninja/ejercicios-para-marcar-mandibula-hombres
 slug: ejercicios-para-marcar-mandibula-hombres
-categories: 
+categories: []
 image: hombre-con-mandibula-marcada.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/hombre-con-mandibula-marcada.jpeg
 publishedAt: 2024-01-22T08:59:24.000Z
 modifiedAt: 2024-02-07T15:45:31.000Z
-scrappedAt: 2024-11-04T11:14:54.117Z
+scrappedAt: 2024-11-05T04:27:44.743Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171781/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284012-44100-2-beb7046d72344291.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 La mandíbula es seguramente el aspecto más importante de nuestro rostro por muchos motivos.

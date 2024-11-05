@@ -3,15 +3,19 @@ title: El timing en Bitcoin
 subtitle: o cuál es el momento perfecto para (no) comprar
 url: https://pau.ninja/es-buen-momento-para-comprar-bitcoin
 slug: es-buen-momento-para-comprar-bitcoin
-categories: 
+categories: []
 image: esperando-el-mejor-momento-para-comprar-bitcoin.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/11/esperando-el-mejor-momento-para-comprar-bitcoin.jpeg
 publishedAt: 2023-11-20T07:11:34.000Z
 modifiedAt: 2024-04-28T11:30:09.000Z
-scrappedAt: 2024-11-04T11:16:06.029Z
+scrappedAt: 2024-11-05T04:28:08.789Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/81437575/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363921594-44100-2-ba7e8db9a2dda.mp3
-bibliography: Shtekhman, Anatoly, Christos Tasopoulos, and Brian Wimmer. 2012. Dollar-Cost Averaging Just Means Taking Risk Later.
-Callahan, Sam, and Rapha Zagury. 2023. Running the Numbers Dollar Cost Averaging vs. Lump-Sum Investing. Accessed November 12.‌
+bibliography:
+  - Shtekhman, Anatoly, Christos Tasopoulos, and Brian Wimmer. 2012. Dollar-Cost
+    Averaging Just Means Taking Risk Later.
+  - Callahan, Sam, and Rapha Zagury. 2023. Running the Numbers Dollar Cost
+    Averaging vs. Lump-Sum Investing. Accessed November 12.‌
+
 ---
 
 Ya sabéis que desde hace años **usé todo mi patrimonio (el 100%)** para comprar bitcoins.

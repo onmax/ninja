@@ -3,14 +3,20 @@ title: ¿Fuerte o grande? Elige tu cuerpo de dios griego
 subtitle: (entrenar fuerza vs hipertrofia)
 url: https://pau.ninja/entrenar-fuerza-vs-hipertrofia
 slug: entrenar-fuerza-vs-hipertrofia
-categories: 
+categories: []
 image: con-musculos-hipertrofiados.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/con-musculos-hipertrofiados.jpeg
 publishedAt: 2022-10-30T09:05:47.000Z
 modifiedAt: 2023-06-27T17:47:12.000Z
-scrappedAt: 2024-11-04T11:42:22.562Z
+scrappedAt: 2024-11-05T04:29:54.694Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61025379/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-22%2F298558147-44100-2-7bbaaae66cd7.mp3
-bibliography: Mitchell, Cameron & Churchward-Venne, Tyler & West, Daniel & Burd, Nicholas & Breen, Leigh & Baker, Steven & Phillips, Stuart. (2012). Resistance exercise load does not determine training-mediated hypertrophic gains in young men. Journal of applied physiology (Bethesda, Md. : 1985). 113. 71-7. 10.1152/japplphysiol.00307.2012.
+bibliography:
+  - "Mitchell, Cameron & Churchward-Venne, Tyler & West, Daniel & Burd, Nicholas
+    & Breen, Leigh & Baker, Steven & Phillips, Stuart. (2012). Resistance
+    exercise load does not determine training-mediated hypertrophic gains in
+    young men. Journal of applied physiology (Bethesda, Md. : 1985). 113. 71-7.
+    10.1152/japplphysiol.00307.2012."
+
 ---
 
 ¿Es lo mismo entrenar para ganar fuerza que [entrenar para ganar músculo](./como-ganar-masa-muscular-rapido) (hipertrofia muscular)?

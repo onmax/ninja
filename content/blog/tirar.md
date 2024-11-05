@@ -1,16 +1,17 @@
 ---
-title: Tirar cosas: el primer paso al minimalismo
+title: "Tirar cosas: el primer paso al minimalismo"
 subtitle: (así lo hago para deshacerme de cosas que no uso)
 url: https://pau.ninja/tirar
 slug: tirar
-categories: 
+categories: []
 image: persona-deshaciendose-de-cosas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/persona-deshaciendose-de-cosas.jpeg
 publishedAt: 2020-11-09T07:36:21.000Z
 modifiedAt: 2023-02-18T08:36:27.000Z
-scrappedAt: 2024-11-04T11:56:41.963Z
+scrappedAt: 2024-11-05T04:33:01.523Z
 audioLink: https://www.ivoox.com/tirar-cosas-primer-paso-al-minimalismo_md_62378536_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hay muchas personas que escuchan mis episodios del podcast sobre minimalismo y me comentan que les encanta lo que es la teoría o la mentalidad.
@@ -80,7 +81,7 @@ Se trata de que durante una semana. Durante 7 días, vamos a estar activamente p
 
 Si la respuesta es que no… _Al carrer_. Lo sacamos a la calle.
 
-[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NjQ2Mw=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
+[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMDU5NQ=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
 [Minimalismo práctico: Vivir con menos para "ser más"](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
@@ -148,7 +149,7 @@ Y en serio, que si en los libros en papel tienes el olor y el «cogerlo», piens
 
 Bestseller No. 1
 
-[![Nuevo Amazon Kindle (16 GB), el Kindle más ligero y compacto, con pantalla sin reflejos, pasos de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWWRIUm1lazU0WWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NjQ2Mw=)](https://www.amazon.es/dpB0CP32JG8B?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=kindle "Nuevo Amazon Kindle (16 GB), el Kindle más ligero y compacto, con pantalla sin reflejos, pasos de...")
+[![Nuevo Amazon Kindle (16 GB), el Kindle más ligero y compacto, con pantalla sin reflejos, pasos de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWWRIUm1lazU0WWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMDU5NQ=)](https://www.amazon.es/dpB0CP32JG8B?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=kindle "Nuevo Amazon Kindle (16 GB), el Kindle más ligero y compacto, con pantalla sin reflejos, pasos de...")
 
 [Nuevo Amazon Kindle (16 GB), el Kindle más ligero y compacto, con pantalla sin reflejos, pasos de...](https://www.amazon.es/dp/B0CP32JG8B?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=kindle "Nuevo Amazon Kindle (16 GB), el Kindle más ligero y compacto, con pantalla sin reflejos, pasos de...")
 

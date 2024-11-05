@@ -3,14 +3,14 @@ title: Método Wyckoff
 subtitle: el arte de interpretar el gráfico
 url: https://pau.ninja/metodo-wyckoff
 slug: metodo-wyckoff
-categories: 
+categories: []
 image: richard-wyckoff-metodo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/richard-wyckoff-metodo.jpeg
 publishedAt: 2024-06-14T04:53:51.000Z
 modifiedAt: 2024-07-08T05:14:01.000Z
-scrappedAt: 2024-11-04T11:11:49.878Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:26:34.926Z
+bibliography: []
+
 ---
 
 Los caminos que tomé para [vivir del trading](./se-puede-vivir-del-trading/) me llevaron a aprender la metodología Wyckoff, con la que en seguida me di cuenta que era lo mismo que [el método de Stan Weinstein](https://pau.ninja/metodo-stan-weinstein) con la diferencia de que Weinstein lo había simplificado.

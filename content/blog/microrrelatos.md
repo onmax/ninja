@@ -1,16 +1,16 @@
 ---
 title: Mis 100 microrrelatos de 100 palabras en 100 días
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/microrrelatos
 slug: microrrelatos
-categories: 
+categories: []
 image: hombre-escribiendo-relatos.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/hombre-escribiendo-relatos.jpg
 publishedAt: 2020-11-07T11:59:50.000Z
 modifiedAt: 2023-08-13T08:16:18.000Z
-scrappedAt: 2024-11-04T11:56:50.631Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:33:04.964Z
+bibliography: []
+
 ---
 
 Siempre he escrito en inglés, pero he decidido darle una oportunidad al español y escribir 100 microrrelatos de 100 palabras durante 100 días.

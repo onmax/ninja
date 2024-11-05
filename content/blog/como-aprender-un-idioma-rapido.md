@@ -3,14 +3,16 @@ title: Idiomas
 subtitle: el método ninja para aprenderlos rápido (autodidacta)
 url: https://pau.ninja/como-aprender-un-idioma-rapido
 slug: como-aprender-un-idioma-rapido
-categories: 
+categories: []
 image: persona-aprendiendo-idiomas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/persona-aprendiendo-idiomas.jpeg
 publishedAt: 2024-02-14T09:16:08.000Z
 modifiedAt: 2024-03-02T05:16:57.000Z
-scrappedAt: 2024-11-04T11:14:16.444Z
+scrappedAt: 2024-11-05T04:27:31.050Z
 audioLink: https://www.ivoox.com/idiomas-metodo-ninja-para-aprenderlos-sin-remilgos_md_73301958_wp_1.mp3
-bibliography: palabras comunes del idioma objetivo
+bibliography:
+  - palabras comunes del idioma objetivo
+
 ---
 
 Hay muchos métodos para aprender idiomas rápido que prometen fluidez inmediata. La realidad es que estas grandes empresas **no harían mucho dinero** si nosotros (los alumnos), pudiéramos aprender una lengua en tiempo récord.
@@ -127,7 +129,7 @@ El libro sólo cuesta de 20€ a 30€ en tienda física. Pero comprándolos con
 
 Bestseller No. 1
 
-[![By Assimil Pack MP3 Dutch With Ease 2011: Dutch Self-Learning Method Audio CD - July 2011](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSWVFMWhRV2xzUWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTY1NQ=)](https://www.amazon.es/dpB00SLS3HSA?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20pack "By Assimil Pack MP3 Dutch With Ease 2011: Dutch Self-Learning Method Audio CD - July 2011")
+[![By Assimil Pack MP3 Dutch With Ease 2011: Dutch Self-Learning Method Audio CD - July 2011](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSWVFMWhRV2xzUWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOQ=)](https://www.amazon.es/dpB00SLS3HSA?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20pack "By Assimil Pack MP3 Dutch With Ease 2011: Dutch Self-Learning Method Audio CD - July 2011")
 
 [By Assimil Pack MP3 Dutch With Ease 2011: Dutch Self-Learning Method Audio CD - July 2011](https://www.amazon.es/dp/B00SLS3HSA?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20pack "By Assimil Pack MP3 Dutch With Ease 2011: Dutch Self-Learning Method Audio CD - July 2011")
 
@@ -137,7 +139,7 @@ Bestseller No. 1
 
 Ahora mismo rebajadoBestseller No. 2
 
-[![L`Espagnol Pack (L+CD): Pack livre + 4 CD audio: 1 (Senza sforzo)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTmNFRkRSekJqYkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTY1NQ=)](https://www.amazon.es/dp2700520971?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20pack "L`Espagnol Pack (L+CD): Pack livre + 4 CD audio: 1 (Senza sforzo)")
+[![L`Espagnol Pack (L+CD): Pack livre + 4 CD audio: 1 (Senza sforzo)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTmNFRkRSekJqYkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOQ=)](https://www.amazon.es/dp2700520971?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20pack "L`Espagnol Pack (L+CD): Pack livre + 4 CD audio: 1 (Senza sforzo)")
 
 [L\`Espagnol Pack (L+CD): Pack livre + 4 CD audio: 1 (Senza sforzo)](https://www.amazon.es/dp/2700520971?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=assimil%20pack "L`Espagnol Pack (L+CD): Pack livre + 4 CD audio: 1 (Senza sforzo)")
 
@@ -233,7 +235,7 @@ Se puede complementar con otros métodos y aplicaciones como Duolingo o Memrise 
 
 Cuando se han terminado ya se puede pasar a la Fase 2.
 
-[![Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdWRGZHJTbWxwY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTY1NQ=)](https://www.amazon.es/dpB078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
+[![Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdWRGZHJTbWxwY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOQ=)](https://www.amazon.es/dpB078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
 
 [Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](https://www.amazon.es/dp/B078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
 
@@ -367,7 +369,7 @@ Mi progreso y plan para ser políglota [están en mi blog de idiomas](https://id
 
 También he publicado un libro sobre el aprendizaje de idiomas al completo. Incluye este texto y cosas extras.
 
-[![Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdWRGZHJTbWxwY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTY1NQ=)](https://www.amazon.es/dpB078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
+[![Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdWRGZHJTbWxwY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTgwOQ=)](https://www.amazon.es/dpB078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
 
 [Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...](https://www.amazon.es/dp/B078KVT9MX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aprender idiomas (sin tonterías): Método para aprender un idioma rápido y en casa de forma...")
 

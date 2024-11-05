@@ -3,14 +3,14 @@ title: Abre los hombros… o prepárate para abrir el culo
 subtitle: Ejercicios para movilidad de hombros
 url: https://pau.ninja/ejercicios-movilidad-hombro
 slug: ejercicios-movilidad-hombro
-categories: 
+categories: []
 image: flexionando-hombros.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/04/flexionando-hombros.jpeg
 publishedAt: 2022-04-25T12:46:27.000Z
 modifiedAt: 2024-08-16T04:38:07.000Z
-scrappedAt: 2024-11-04T11:46:17.048Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:58.916Z
+bibliography: []
+
 ---
 
 Si no aprendes a abrir los hombros… prepárate para abrir el culo. Cuando en unos años la enfermera te tenga que meter el supositorio porque por tú mala movilidad no puedes metértelo tú mismo por el recto.

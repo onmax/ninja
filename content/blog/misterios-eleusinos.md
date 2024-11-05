@@ -1,16 +1,17 @@
 ---
-title: Misterios eleusinos: la Biblia (no) mintió… fue mal interpretada
+title: "Misterios eleusinos: la Biblia (no) mintió… fue mal interpretada"
 subtitle: Los milagros bíblicos son una copia de Eleusis
 url: https://pau.ninja/misterios-eleusinos
 slug: misterios-eleusinos
-categories: 
+categories: []
 image: misterios-eleusinos.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/08/misterios-eleusinos.jpg
 publishedAt: 2022-08-29T07:40:33.000Z
 modifiedAt: 2023-09-21T05:58:06.000Z
-scrappedAt: 2024-11-04T11:43:06.155Z
+scrappedAt: 2024-11-05T04:30:18.391Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/57011267/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-2%2F283756430-44100-2-d5b3ec0e2b5f3.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 En el Antiguo Testamento el bueno de Moisés se encuentra con un arbusto ardiente. Es en ese lugar donde «es nombrado por Dios» para guiar los israelitas a la tierra prometida.
@@ -77,7 +78,7 @@ Pulsa aquí para desplegar: en este apartado recomiendo libros que indagan en es
 
 Antes tengo que agradecer a los autores y expertos que me han iluminado, empezando por Brian Muraresku con su libro The Immortality Key que ha tardado más de una década en escribir.
 
-[![The Immortality Key: The Secret History of the Religion with No Name](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFelMxTldkR2RVTkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzM4NA=)](https://www.amazon.es/dp1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Immortality Key: The Secret History of the Religion with No Name")
+[![The Immortality Key: The Secret History of the Religion with No Name](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFelMxTldkR2RVTkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgxNw=)](https://www.amazon.es/dp1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Immortality Key: The Secret History of the Religion with No Name")
 
 [The Immortality Key: The Secret History of the Religion with No Name](https://www.amazon.es/dp/1250207142?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Immortality Key: The Secret History of the Religion with No Name")
 
@@ -93,7 +94,7 @@ Ha sido gracias a Brian, su libro y sus entrevistas que he sacado montones de pu
 
 Pero los libros de Allegro son difíciles de leer porque está hecho para lingüistas. Por suerte para nosotros Brian lo es, y en su libro The Immortality Key lo hace en un lenguaje para ninjas de la vida de lo contrario sería difícil para nosotros leer el mejor libro de Allegro..
 
-[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzM4NA=)](https://www.amazon.es/dp0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
+[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgxNw=)](https://www.amazon.es/dp0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
 [The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
@@ -117,7 +118,7 @@ Pero uno de los argumentos que da el lingüista clásico americano [Carl Ruck](h
 
 Ahora mismo rebajado
 
-[![The Road to Eleusis: Unveiling the Secret of the Mysteries](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFNU5GbEtiMkp3YjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzM4NA=)](https://www.amazon.es/dp1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Road to Eleusis: Unveiling the Secret of the Mysteries")
+[![The Road to Eleusis: Unveiling the Secret of the Mysteries](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFNU5GbEtiMkp3YjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgxNw=)](https://www.amazon.es/dp1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Road to Eleusis: Unveiling the Secret of the Mysteries")
 
 [The Road to Eleusis: Unveiling the Secret of the Mysteries](https://www.amazon.es/dp/1556437528?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Road to Eleusis: Unveiling the Secret of the Mysteries")
 

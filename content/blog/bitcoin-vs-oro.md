@@ -3,14 +3,15 @@ title: Bitcoin gana al oro como reserva de valor
 subtitle: (Bitcoin VS oro)
 url: https://pau.ninja/bitcoin-vs-oro
 slug: bitcoin-vs-oro
-categories: 
+categories: []
 image: bitcoin-vs-oro.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/11/bitcoin-vs-oro.jpeg
 publishedAt: 2021-11-17T08:55:49.000Z
 modifiedAt: 2024-02-11T06:34:07.000Z
-scrappedAt: 2024-11-04T11:49:19.694Z
+scrappedAt: 2024-11-05T04:31:35.065Z
 audioLink: https://www.ivoox.com/bitcoin-gana-al-oro-como-reserva-valor_md_78782196_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Desde tiempo inmemoriales los inversores nos hemos volcado al oro para protegernos de la inflación pero sobretodo para sobrevivir a la devaluación de la moneda. Una ladrona mucho más efectiva (y sigilosa) que la inflación.

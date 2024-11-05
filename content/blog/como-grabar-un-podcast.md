@@ -3,14 +3,14 @@ title: Grabar un podcast
 subtitle: Lo indispensable y necesario (para todos los niveles)
 url: https://pau.ninja/como-grabar-un-podcast
 slug: como-grabar-un-podcast
-categories: 
+categories: []
 image: grabando-podcast-1.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/grabando-podcast-1.jpeg
 publishedAt: 2021-02-06T08:05:59.000Z
 modifiedAt: 2023-04-12T20:27:45.000Z
-scrappedAt: 2024-11-04T11:55:53.368Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:32:39.581Z
+bibliography: []
+
 ---
 
 Ya sabes [cómo hacer un podcast](./como-hacer-un-podcast/), tienes el [equipo básico](https://pau.ninja/equipo-para-grabar-podcast) y ahora….  toca lo divertido. Lo que has estado esperando. Ponerte los auriculares y escuchar tu propia voz. Que no te de vergüenza este narcisismos de _podcaster_. Es normal…

@@ -3,14 +3,15 @@ title: Con un par de huevos (de gallinas camperas)
 subtitle: La falacia de los huevos... no tan \"felices\" como piensas
 url: https://pau.ninja/huevos-de-gallinas-camperas
 slug: huevos-de-gallinas-camperas
-categories: 
+categories: []
 image: persona-con-un-huevo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/11/persona-con-un-huevo.jpeg
 publishedAt: 2021-11-01T09:18:44.000Z
 modifiedAt: 2023-04-26T16:50:17.000Z
-scrappedAt: 2024-11-04T11:49:26.014Z
+scrappedAt: 2024-11-05T04:31:36.887Z
 audioLink: https://www.ivoox.com/con-par-huevos-de-gallinas-camperas_md_77907451_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Echando la vista atrás, durante esos 6 años en los que no comía carne, si pude mantener mi salud fue por la burrada de huevos que comía.

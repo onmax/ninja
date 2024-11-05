@@ -3,14 +3,15 @@ title: Entrenar pesas en ayunas
 subtitle: Eficiencia para estar bien mamado 🍼💪🏼
 url: https://pau.ninja/entrenar-pesas-en-ayunas
 slug: entrenar-pesas-en-ayunas
-categories: 
+categories: []
 image: hombre-entreno-ayunas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/04/hombre-entreno-ayunas.jpg
 publishedAt: 2021-04-19T15:04:34.000Z
 modifiedAt: 2024-02-28T06:44:04.000Z
-scrappedAt: 2024-11-04T11:55:11.199Z
+scrappedAt: 2024-11-05T04:32:26.057Z
 audioLink: https://www.ivoox.com/entrenar-pesas-ayunas_md_69057724_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 No hace mucho os comentaba mis experiencias con el ayuno intermitente. Ya sabéis que en internet hay que creerse todas las anécdotas de los que escriben como si fueran verdades irrefutables…
@@ -74,7 +75,7 @@ Normal que el suplemento de Leucina sea de los más populares que se compran en 
 
 Bestseller No. 1
 
-[![L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSFNYUXhiMHBpVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDExMA=)](https://www.amazon.es/dpB09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn "L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...")
+[![L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSFNYUXhiMHBpVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzk0NQ=)](https://www.amazon.es/dpB09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn "L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...")
 
 [L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...](https://www.amazon.es/dp/B09H78BDPV?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=leucina%20hsn "L-Leucina de HSN | 240 Tabletas para 2000 mg de Leucina por Dosis Diaria | Aminoácido Esencial en...")
 
@@ -243,7 +244,7 @@ Pero fijaros que son estudios que hacen referencia a individuos con dietas **es
 
 Recordad: cetosis significa que nuestro cuerpo utiliza grasas como combustible principal. Yo utilizo un medidor en sangre, sobretodo las primeras semanas para controlar esto un poco.
 
-[![Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFdGJIRXlSbWRSVkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDExMA=)](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOLL),...")
+[![Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFdGJIRXlSbWRSVkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzk0NQ=)](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOLL),...")
 
 [Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...](https://www.amazon.es/dp/B078SVN12C?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Swiss Point Of Care GK Dual glucosa y cetonas Starter pack | 1x dispositivo de medición (MMOL/L),...")
 
@@ -401,7 +402,7 @@ Ahora ya sabemos que esto es beneficioso porque entonces la síntesis proteica, 
 
 Para aquel entonces LeanGains era «broscience» sin mucha base científica, sólo un poco de sentido común, pero ya se ha respaldado con estudios y ciencia en el libro que publicó su autor.
 
-[![The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaVoyczBRMWhsTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDExMA=)](https://www.amazon.es/dpB07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)")
+[![The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGaVoyczBRMWhsTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzk0NQ=)](https://www.amazon.es/dpB07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)")
 
 [The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)](https://www.amazon.es/dp/B07G3GFLTX?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Leangains Method: The Art of Getting Ripped. Researched, Practiced, Perfected. (English Edition)")
 

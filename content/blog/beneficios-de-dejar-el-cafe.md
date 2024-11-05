@@ -3,14 +3,15 @@ title: Deja de beber café
 subtitle: (beneficios de dejar el café)
 url: https://pau.ninja/beneficios-de-dejar-el-cafe
 slug: beneficios-de-dejar-el-cafe
-categories: 
+categories: []
 image: adicto-al-cafe.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/adicto-al-cafe.jpeg
 publishedAt: 2021-10-05T07:26:14.000Z
 modifiedAt: 2023-02-02T14:43:14.000Z
-scrappedAt: 2024-11-04T11:52:04.551Z
+scrappedAt: 2024-11-05T04:32:04.032Z
 audioLink: https://www.ivoox.com/adiccion-al-cafe-solo-puedo-beber-1-al_md_74168896_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Al igual que el alcohol, el café es una de esas drogas aceptadas por la sociedad.
@@ -217,7 +218,7 @@ Es decir que para los que nos metemos un café por la mañana, a no ser que teng
 
 No afectará nuestra habilidad para quedarnos dormidos, pero sin café la calidad de este sueño es mucho más reparador.
 
-[![Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMGVqRllhalJhZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjUwMw=)](https://www.amazon.es/dp8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
+[![Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMGVqRllhalJhZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTUxNA=)](https://www.amazon.es/dp8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
 
 [Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)](https://www.amazon.es/dp/8412064526?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Por qué dormimos: LA NUEVA CIENCIA DEL SUEÑO (ENSAYO)")
 
@@ -386,7 +387,7 @@ Nada de comprar paquetes de café ya molido.
 
 Bestseller No. 1
 
-[![Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRkxYSXJVV3A1V0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjUwMw=)](https://www.amazon.es/dpB0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano "Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...")
+[![Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRkxYSXJVV3A1V0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTUxNA=)](https://www.amazon.es/dpB0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano "Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...")
 
 [Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...](https://www.amazon.es/dp/B0049U0DMC?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=cafe%20grano "Lavazza, Qualità Oro, Café en Grano Natural, Ideal para la Máquina de Café Espresso, con Notas...")
 
@@ -398,7 +399,7 @@ Lo mejor es consumir la molienda en un día a dos días como máximo, aunque lo 
 
 Ahora mismo rebajadoBestseller No. 1
 
-[![Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGMFNXRklZbXRYUmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjUwMw=)](https://www.amazon.es/dpB07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe "Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B")
+[![Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGMFNXRklZbXRYUmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTUxNA=)](https://www.amazon.es/dpB07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe "Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B")
 
 [Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B](https://www.amazon.es/dp/B07J6JLW11?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=molinillo%20cafe "Bosch - Molinillo de café eléctrico, 180 W, capacidad 75 gramos, negro, TSM6A013B")
 

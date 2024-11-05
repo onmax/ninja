@@ -1,16 +1,17 @@
 ---
-title: La utopía de España: sin capitalismo (no) hay libertad
+title: "La utopía de España: sin capitalismo (no) hay libertad"
 subtitle: ¿España es comunista o capitalista?
 url: https://pau.ninja/espana-es-comunista-o-capitalista
 slug: espana-es-comunista-o-capitalista
-categories: 
+categories: []
 image: capitalista-con-maleta-de-dinero.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/capitalista-con-maleta-de-dinero.jpeg
 publishedAt: 2023-01-22T08:38:38.000Z
 modifiedAt: 2023-09-06T06:22:20.000Z
-scrappedAt: 2024-11-04T11:41:16.928Z
+scrappedAt: 2024-11-05T04:29:27.152Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64344070/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-1-1%2F310494786-44100-2-aa1cb966c0c2c.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Occidente se está yendo poco a poco a la mi3rda.

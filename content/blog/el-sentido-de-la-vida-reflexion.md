@@ -1,16 +1,16 @@
 ---
 title: ¿Por qué es tan difícil encontrar sentido a la vida?
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/el-sentido-de-la-vida-reflexion
 slug: el-sentido-de-la-vida-reflexion
-categories: 
+categories: []
 image: persona-buscando-el-sentido-de-la-vida.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-buscando-el-sentido-de-la-vida.jpg
 publishedAt: 2024-08-30T05:52:03.000Z
 modifiedAt: 2024-10-02T15:16:59.000Z
-scrappedAt: 2024-11-04T11:09:46.906Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:25:53.629Z
+bibliography: []
+
 ---
 
 Del mismo modo que la mayoría dicen ser estoicos _(__en teoría_ cuando su vida está en calma y ordenada), hasta que le sucede algo gordo de verdad (porque entonces sacan a relucir realmente de qué pasta están hechos), lo mismo sucede con la búsqueda del sentido de la vida.

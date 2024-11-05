@@ -3,19 +3,26 @@ title: Anti-inflación
 subtitle: el activo (olvidado) que protege mejor que Bitcoin
 url: https://pau.ninja/como-protegerse-de-la-inflacion
 slug: como-protegerse-de-la-inflacion
-categories: 
+categories: []
 image: persona-se-protege-contra-la-inflacion.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/08/persona-se-protege-contra-la-inflacion.jpeg
 publishedAt: 2023-08-25T08:06:43.000Z
 modifiedAt: 2023-12-22T21:06:33.000Z
-scrappedAt: 2024-11-04T11:34:48.316Z
+scrappedAt: 2024-11-05T04:28:42.581Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/75252498/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-7-30%2F345022144-44100-2-555a9fdc45e94.mp3
-bibliography: 100€
-“Precios E Inflación: Tasa de Variación de La Media Anual Del IPC En España | Statista.” 2022. Statista.‌
-2020\. “Por Qué El Banco de Inglaterra Retiene 31 Toneladas de Lingotes de Oro de Venezuela (Y Cuál Es La Pelea Política Y Judicial Que Genera) – BBC News Mundo.‌
-“IPC Junio 2023. Previsiones Hasta Diciembre 2024.” 2023. Funcas.‌
-"Límite al precio del alquiler de viviendas al 2% en 2023". 2023. La Moncloa
-Bermejo, Inma. 2023. “¿Qué Se Considera Gran Tenedor Con La Nueva Ley de Vivienda?” La Razón.‌
+bibliography:
+  - 100€
+  - "“Precios E Inflación: Tasa de Variación de La Media Anual Del IPC En España
+    | Statista.” 2022. Statista.‌"
+  - 2020\. “Por Qué El Banco de Inglaterra Retiene 31 Toneladas de Lingotes de
+    Oro de Venezuela (Y Cuál Es La Pelea Política Y Judicial Que Genera) – BBC
+    News Mundo.‌
+  - “IPC Junio 2023. Previsiones Hasta Diciembre 2024.” 2023. Funcas.‌
+  - '"Límite al precio del alquiler de viviendas al 2% en 2023". 2023. La
+    Moncloa'
+  - Bermejo, Inma. 2023. “¿Qué Se Considera Gran Tenedor Con La Nueva Ley de
+    Vivienda?” La Razón.‌
+
 ---
 
 Tengo una enemiga que no muchos entienden pero que todo el mundo conoce: se llama inflación.

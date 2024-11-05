@@ -3,14 +3,15 @@ title: 2 años con empresa en Estonia
 subtitle: Así la creé (0% de impuestos y 100% digital)
 url: https://pau.ninja/crear-empresa-en-estonia
 slug: crear-empresa-en-estonia
-categories: 
+categories: []
 image: tarjeta-eresidency.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/tarjeta-eresidency.jpg
 publishedAt: 2020-11-05T09:09:06.000Z
 modifiedAt: 2023-10-06T06:17:18.000Z
-scrappedAt: 2024-11-04T11:56:56.773Z
+scrappedAt: 2024-11-05T04:33:07.424Z
 audioLink: https://www.ivoox.com/2-anos-empresa-estonia_md_56856194_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Han pasado ya algunos años desde que decidí abrir empresa en Estonia.

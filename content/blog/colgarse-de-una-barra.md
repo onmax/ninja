@@ -1,20 +1,31 @@
 ---
 title: La magia de colgarte de una barra 7 minutos al día
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/colgarse-de-una-barra
 slug: colgarse-de-una-barra
-categories: 
+categories: []
 image: persona-colgandose-de-una-barra.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/persona-colgandose-de-una-barra.jpeg
 publishedAt: 2024-03-12T07:13:50.000Z
 modifiedAt: 2024-08-10T19:18:28.000Z
-scrappedAt: 2024-11-04T11:13:43.477Z
+scrappedAt: 2024-11-05T04:27:20.999Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3
-bibliography: University of Helsinki. «Most common shoulder operation is no more beneficial than placebo surgery: One of the most common surgical procedures in the Western world is probably unnecessary, suggests a new study.» ScienceDaily. ScienceDaily, 20 July 2018.
-Mika Paavola, Antti Malmivaara, Simo Taimela, Kari Kanto, Jari Inkinen, Juha Kalske, Ilkka Sinisaari, Vesa Savolainen, Jonas Ranstam, Teppo L N Järvinen. Subacromial decompression versus diagnostic arthroscopy for shoulder impingement: randomised, placebo surgery controlled clinical trial.
-“¿Qué Es El Síndrome de Pinzamiento Del Hombro? | San Diego Hospital, Healthcare.” 2019. Ucsd.edu.
-“Hanging for Shoulder Pain: Expert’s Cure for All Causes – Posture Labs.” 2023. Posture Labs.
-“Hueso Acromion.” 2020. Fisioterapia-Online.com.
+bibliography:
+  - "University of Helsinki. «Most common shoulder operation is no more
+    beneficial than placebo surgery: One of the most common surgical procedures
+    in the Western world is probably unnecessary, suggests a new study.»
+    ScienceDaily. ScienceDaily, 20 July 2018."
+  - "Mika Paavola, Antti Malmivaara, Simo Taimela, Kari Kanto, Jari Inkinen,
+    Juha Kalske, Ilkka Sinisaari, Vesa Savolainen, Jonas Ranstam, Teppo L N
+    Järvinen. Subacromial decompression versus diagnostic arthroscopy for
+    shoulder impingement: randomised, placebo surgery controlled clinical
+    trial."
+  - “¿Qué Es El Síndrome de Pinzamiento Del Hombro? | San Diego Hospital,
+    Healthcare.” 2019. Ucsd.edu.
+  - "“Hanging for Shoulder Pain: Expert’s Cure for All Causes – Posture Labs.”
+    2023. Posture Labs."
+  - “Hueso Acromion.” 2020. Fisioterapia-Online.com.
+
 ---
 
 Antes de bajar de los árboles de la Sabana, nuestros antepasados simios estaban todo el día colgados, aunque bueno… En la actualidad conozco algunos que siguen igual de colgados pero de otra forma.

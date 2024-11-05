@@ -1,30 +1,32 @@
 ---
-title: Testículos: menos tocar, más comer (aumenta tu testosterona)
+title: "Testículos: menos tocar, más comer (aumenta tu testosterona)"
 subtitle: Beneficios de comer testículos de cordero, toro y cerdo
 url: https://pau.ninja/criadillas-testiculos-toro-cordero
 slug: criadillas-testiculos-toro-cordero
-categories: 
+categories: []
 image: persona-comiendo-testiculo-de-toro.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/09/persona-comiendo-testiculo-de-toro.jpeg
 publishedAt: 2022-09-29T08:55:41.000Z
 modifiedAt: 2023-09-16T06:00:38.000Z
-scrappedAt: 2024-11-04T11:42:43.464Z
+scrappedAt: 2024-11-05T04:30:08.833Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/63453994/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-13%2F307384875-44100-2-8aa84e0874e7d.mp3
-bibliography: gr de testículos
-manojos de limoncillo
-juego de mezcla de hierbas sibot
-piezas de chile tailandés opcional
-cucharadas de cebolla verde picada
-pulgares de jengibre en juliana
-piezas cebollas en rodajas
-dientes de ajo machacados y picados
-litros de agua
-cucharaditas de maicena
-cucharaditas de azúcar blanca granulada
-cucharadita de pimienta negra molida
-cucharadas de salsa de pescado patis
-cucharadas de aceite de cocina
-mg
+bibliography:
+  - gr de testículos
+  - manojos de limoncillo
+  - juego de mezcla de hierbas sibot
+  - piezas de chile tailandés opcional
+  - cucharadas de cebolla verde picada
+  - pulgares de jengibre en juliana
+  - piezas cebollas en rodajas
+  - dientes de ajo machacados y picados
+  - litros de agua
+  - cucharaditas de maicena
+  - cucharaditas de azúcar blanca granulada
+  - cucharadita de pimienta negra molida
+  - cucharadas de salsa de pescado patis
+  - cucharadas de aceite de cocina
+  - mg
+
 ---
 
 Hoy empezaré con un poquito de drama…
@@ -304,7 +306,7 @@ Si vas a comer un trozo de testículo cada día, quizás te pueda valer la pena 
 
 Ahora mismo rebajado
 
-[![Ninja Procesador de alimentos 3 en 1, 1200 W, batidora multifunción, 5 programas automáticos, bol...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGS2FGVnNXRWsyZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MTEzNQ=)](https://www.amazon.es/dpB08HSF4FY6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Ninja Procesador de alimentos 3 en 1, 1200 W, batidora multifunción, 5 programas automáticos, bol...")
+[![Ninja Procesador de alimentos 3 en 1, 1200 W, batidora multifunción, 5 programas automáticos, bol...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGS2FGVnNXRWsyZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDcxOA=)](https://www.amazon.es/dpB08HSF4FY6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Ninja Procesador de alimentos 3 en 1, 1200 W, batidora multifunción, 5 programas automáticos, bol...")
 
 [Ninja Procesador de alimentos 3 en 1, 1200 W, batidora multifunción, 5 programas automáticos, bol...](https://www.amazon.es/dp/B08HSF4FY6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Ninja Procesador de alimentos 3 en 1, 1200 W, batidora multifunción, 5 programas automáticos, bol...")
 

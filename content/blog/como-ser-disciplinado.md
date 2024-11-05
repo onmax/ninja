@@ -3,14 +3,15 @@ title: La motivación está sobrevalorada
 subtitle: (cómo ser disciplinado... sin serlo)
 url: https://pau.ninja/como-ser-disciplinado
 slug: como-ser-disciplinado
-categories: 
+categories: []
 image: persona-disciplinada.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/03/persona-disciplinada.jpeg
 publishedAt: 2022-03-25T13:52:33.000Z
 modifiedAt: 2023-08-29T06:05:48.000Z
-scrappedAt: 2024-11-04T11:48:15.529Z
+scrappedAt: 2024-11-05T04:31:05.502Z
 audioLink: https://www.ivoox.com/motivacion-esta-sobrevalorada-heackea-entorno_md_82348518_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Si no tienes motivación para hacer nada… si no tienes motivación ni para estudiar, para vivir, para hacer ejercicio, para adelgazar, para ir al gym o para levantarte de la cama entonces… si te gustaría ser disciplinado y vencer a la pereza de una vez por todo, entonces…
@@ -37,7 +38,7 @@ Quien me hizo levantar el culo y decir «que maldita razón tiene el jodido» fu
 
 Ahora mismo rebajado
 
-[![Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamFsVTBNMVZWVVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjAyOA=)](https://www.amazon.es/dp8418118032?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)")
+[![Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGamFsVTBNMVZWVVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNTE4MQ=)](https://www.amazon.es/dp8418118032?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)")
 
 [Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)](https://www.amazon.es/dp/8418118032?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Hábitos atómicos: Cambios pequeños, resultados extraordinarios (Autoconocimiento)")
 

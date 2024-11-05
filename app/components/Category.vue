@@ -1,5 +1,4 @@
 <script lang="ts" setup>
-import type { Category } from '~~/types/category'
 import { NuxtLink } from '#components'
 
 const { category, asLink, op = 'ff' } = defineProps<{ category: Category, asLink?: boolean, variant?: 'default' | 'secondary' | 'destructive' | 'outline', op: string }>()

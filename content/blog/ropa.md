@@ -3,14 +3,14 @@ title: Ropa minimalista
 subtitle: Cómo (y por qué) simplifiqué mi armario
 url: https://pau.ninja/ropa
 slug: ropa
-categories: 
+categories: []
 image: ropa-minimalista.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2018/01/ropa-minimalista.jpg
 publishedAt: 2019-01-02T14:36:00.000Z
 modifiedAt: 2023-10-02T05:34:48.000Z
-scrappedAt: 2024-11-04T11:57:25.524Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:33:21.048Z
+bibliography: []
+
 ---
 
 Salgo de la ducha, miro el armario y digo: «joder, no tengo nada para vestir». ¿Cómo es posible si está lleno de ropa? Saco cada pantalón y camiseta para intentar combinar, pero no hay manera.
@@ -237,7 +237,7 @@ No soy experto en moda. Pero es de sentido común que usando la memoria el color
 
 Pues sí. Resulta que los pantalones tejanos y la camiseta negra nunca ha pasado de moda y nunca lo estarán. Un modelito que por cierto es el favorito de Zac Efron, un vídeo entrevista que prometo que vi de casualidad en una de esas tardes donde la productividad me pudo.
 
-[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDI0NA=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
+[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyOTg4MA=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
 [Minimalismo práctico: Vivir con menos para "ser más"](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 

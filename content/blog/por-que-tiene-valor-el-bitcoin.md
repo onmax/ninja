@@ -3,14 +3,15 @@ title: Bitcoin NO tiene valor
 subtitle: ¿O sí? una mirada a lo que significa \"valor\"
 url: https://pau.ninja/por-que-tiene-valor-el-bitcoin
 slug: por-que-tiene-valor-el-bitcoin
-categories: 
+categories: []
 image: mirando-valor-bitcoin.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/mirando-valor-bitcoin.jpg
 publishedAt: 2021-02-18T09:26:06.000Z
 modifiedAt: 2024-02-11T06:34:24.000Z
-scrappedAt: 2024-11-04T11:55:43.502Z
+scrappedAt: 2024-11-05T04:32:35.552Z
 audioLink: https://www.ivoox.com/bitcoin-no-tiene-valor_md_65687700_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 > «Es que Pau, ¿cómo voy a depositar mis ahorros o invertir en algo que no puedo sujetar con las manos igual que puedo hacer con el oro?»

@@ -1,16 +1,17 @@
 ---
-title: Storytelling: el arte de contar historias
+title: "Storytelling: el arte de contar historias"
 subtitle: Qué es y cómo aplicar su poder en el marketing
 url: https://pau.ninja/storytelling-para-contar-historias
 slug: storytelling-para-contar-historias
-categories: 
+categories: []
 image: contando-historias.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/02/contando-historias.jpeg
 publishedAt: 2022-04-23T14:37:54.000Z
 modifiedAt: 2023-09-25T14:17:39.000Z
-scrappedAt: 2024-11-04T11:46:19.385Z
+scrappedAt: 2024-11-05T04:31:00.323Z
 audioLink: https://www.ivoox.com/_md_87080658_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hace unos 100.000 años el ser humano empezó a desarrollar el lenguaje.

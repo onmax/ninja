@@ -3,30 +3,60 @@ title: Hay microplásticos hasta en la sopa
 subtitle: (+20 estudios)
 url: https://pau.ninja/microplasticos-donde-se-encuentran
 slug: microplasticos-donde-se-encuentran
-categories: 
+categories: []
 image: persona-consumiendo-microplasticos.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-consumiendo-microplasticos.jpg
 publishedAt: 2024-07-15T05:43:39.000Z
 modifiedAt: 2024-07-15T05:44:20.000Z
-scrappedAt: 2024-11-04T11:11:24.640Z
-audioLink: undefined
-bibliography: Carrington, Damian. 2024. “Microplastics Found in Every Human Testicle in Study.” The Guardian.
-Zhang, Junjie & Wang, Lei & Trasande, Leonardo & Kannan, Kurunthachalam. (2021). Occurrence of Polyethylene Terephthalate and Polycarbonate Microplastics in Infant and Adult Feces.
-afkr221. 2019. “Plastic Ingestion by People Could Be Equating to a Credit Card a Week.” The University of Newcastle, Australia.‌
-“Bottled Water Can Contain Hundreds of Thousands of Nanoplastics.” 2024. Columbia University Mailman School of Public Health.
-“What’s in Your Bottled Water? Study Suggests There May Be Hundreds of Thousands of Tiny Plastic Bits.” 2024. Rutgers.edu.
-Mason SA, Welch VG, Neratko J. Synthetic Polymer Contamination in Bottled Water. Front Chem. 2018 Sep 11;6:407. doi: 10.3389/fchem.2018.00407. PMID: 30255015; PMCID: PMC6141690.
-Grote K, Brüstle F, Vlacil AK. Cellular and Systemic Effects of Micro- and Nanoplastics in Mammals-What We Know So Far. Materials (Basel). 2023 Apr 15;16(8):3123. doi: 10.3390/ma16083123. PMID: 37109957; PMCID: PMC10145381.
-“Microplastics.” 2017. Nationalgeographic.org
-Cox KD, Covernton GA, Davies HL, Dower JF, Juanes F, Dudas SE. Human Consumption of Microplastics. Environ Sci Technol. 2019 Jun 18;53(12):7068-7074. doi: 10.1021/acs.est.9b01517. Epub 2019 Jun 5. Erratum in: Environ Sci Technol. 2020 Sep 1;54(17):10974. PMID: 31184127.
-Napper IE, Thompson RC. Release of synthetic microplastic plastic fibres from domestic washing machines: Effects of fabric type and washing conditions. Mar Pollut Bull. 2016 Nov 15;112(1-2):39-45. doi: 10.1016/j.marpolbul.2016.09.025. Epub 2016 Sep 26. PMID: 27686821.
-Environ. Sci. Technol. 2011, 45, 21, 9175–9179 Publication Date:September 6, 2011 https://doi.org/10.1021/es201811s
-Ragusa A, Svelato A, Santacroce C, Catalano P, Notarstefano V, Carnevali O, Papa F, Rongioletti MCA, Baiocco F, Draghi S, D’Amore E, Rinaldo D, Matta M, Giorgini E. Plasticenta: First evidence of microplastics in human placenta. Environ Int. 2021 Jan;146:106274. doi: 10.1016/j.envint.2020.106274. Epub 2020 Dec 2. PMID: 33395930.
-Leslie HA, van Velzen MJM, Brandsma SH, Vethaak AD, Garcia-Vallejo JJ, Lamoree MH. Discovery and quantification of plastic particle pollution in human blood. Environ Int. 2022 May;163:107199. doi: 10.1016/j.envint.2022.107199. Epub 2022 Mar 24. PMID: 35367073.
-Carrington, Damian. 2022. “Microplastics Detected in Meat, Milk and Blood of Farm Animals.” The Guardian.‌
-Thixton, Susan. 2021. “Plastic in Feed and Food.‌
-Pauly JL, Stegmeier SJ, Allaart HA, Cheney RT, Zhang PJ, Mayer AG, Streck RJ. Inhaled cellulosic and plastic fibers found in human lung tissue. Cancer Epidemiol Biomarkers Prev. 1998 May;7(5):419-28. PMID: 9610792.
-Ranjan, Ved & Joseph, Anuja & Goel, Sudha. (2021). Microplastics and other harmful substances released from disposable paper cups into hot water. Journal of Hazardous Materials. 404. 124118. 10.1016/j.jhazmat.2020.124118.
+scrappedAt: 2024-11-05T04:26:22.397Z
+bibliography:
+  - Carrington, Damian. 2024. “Microplastics Found in Every Human Testicle in
+    Study.” The Guardian.
+  - Zhang, Junjie & Wang, Lei & Trasande, Leonardo & Kannan, Kurunthachalam.
+    (2021). Occurrence of Polyethylene Terephthalate and Polycarbonate
+    Microplastics in Infant and Adult Feces.
+  - afkr221. 2019. “Plastic Ingestion by People Could Be Equating to a Credit
+    Card a Week.” The University of Newcastle, Australia.‌
+  - “Bottled Water Can Contain Hundreds of Thousands of Nanoplastics.” 2024.
+    Columbia University Mailman School of Public Health.
+  - “What’s in Your Bottled Water? Study Suggests There May Be Hundreds of
+    Thousands of Tiny Plastic Bits.” 2024. Rutgers.edu.
+  - "Mason SA, Welch VG, Neratko J. Synthetic Polymer Contamination in Bottled
+    Water. Front Chem. 2018 Sep 11;6:407. doi: 10.3389/fchem.2018.00407. PMID:
+    30255015; PMCID: PMC6141690."
+  - "Grote K, Brüstle F, Vlacil AK. Cellular and Systemic Effects of Micro- and
+    Nanoplastics in Mammals-What We Know So Far. Materials (Basel). 2023 Apr
+    15;16(8):3123. doi: 10.3390/ma16083123. PMID: 37109957; PMCID: PMC10145381."
+  - “Microplastics.” 2017. Nationalgeographic.org
+  - "Cox KD, Covernton GA, Davies HL, Dower JF, Juanes F, Dudas SE. Human
+    Consumption of Microplastics. Environ Sci Technol. 2019 Jun
+    18;53(12):7068-7074. doi: 10.1021/acs.est.9b01517. Epub 2019 Jun 5. Erratum
+    in: Environ Sci Technol. 2020 Sep 1;54(17):10974. PMID: 31184127."
+  - "Napper IE, Thompson RC. Release of synthetic microplastic plastic fibres
+    from domestic washing machines: Effects of fabric type and washing
+    conditions. Mar Pollut Bull. 2016 Nov 15;112(1-2):39-45. doi:
+    10.1016/j.marpolbul.2016.09.025. Epub 2016 Sep 26. PMID: 27686821."
+  - Environ. Sci. Technol. 2011, 45, 21, 9175–9179 Publication Date:September 6,
+    2011 https://doi.org/10.1021/es201811s
+  - "Ragusa A, Svelato A, Santacroce C, Catalano P, Notarstefano V, Carnevali O,
+    Papa F, Rongioletti MCA, Baiocco F, Draghi S, D’Amore E, Rinaldo D, Matta M,
+    Giorgini E. Plasticenta: First evidence of microplastics in human placenta.
+    Environ Int. 2021 Jan;146:106274. doi: 10.1016/j.envint.2020.106274. Epub
+    2020 Dec 2. PMID: 33395930."
+  - "Leslie HA, van Velzen MJM, Brandsma SH, Vethaak AD, Garcia-Vallejo JJ,
+    Lamoree MH. Discovery and quantification of plastic particle pollution in
+    human blood. Environ Int. 2022 May;163:107199. doi:
+    10.1016/j.envint.2022.107199. Epub 2022 Mar 24. PMID: 35367073."
+  - Carrington, Damian. 2022. “Microplastics Detected in Meat, Milk and Blood of
+    Farm Animals.” The Guardian.‌
+  - Thixton, Susan. 2021. “Plastic in Feed and Food.‌
+  - "Pauly JL, Stegmeier SJ, Allaart HA, Cheney RT, Zhang PJ, Mayer AG, Streck
+    RJ. Inhaled cellulosic and plastic fibers found in human lung tissue. Cancer
+    Epidemiol Biomarkers Prev. 1998 May;7(5):419-28. PMID: 9610792."
+  - Ranjan, Ved & Joseph, Anuja & Goel, Sudha. (2021). Microplastics and other
+    harmful substances released from disposable paper cups into hot water.
+    Journal of Hazardous Materials. 404. 124118. 10.1016/j.jhazmat.2020.124118.
+
 ---
 
 Vais a flipar cuando os enteréis de en qué sitios han encontrado microplásticos en el cuerpo humano.

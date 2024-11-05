@@ -3,14 +3,15 @@ title: Inmuebles virtuales
 subtitle: la (nueva) forma de vivir de rentas
 url: https://pau.ninja/como-vivir-de-las-rentas
 slug: como-vivir-de-las-rentas
-categories: 
+categories: []
 image: persona-sujetando-dinero.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/02/persona-sujetando-dinero.jpeg
 publishedAt: 2023-03-25T07:34:00.000Z
 modifiedAt: 2024-05-08T03:18:13.000Z
-scrappedAt: 2024-11-04T11:40:39.812Z
+scrappedAt: 2024-11-05T04:29:16.186Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/67606112/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-30%2F321235126-44100-2-5edf0690b2095.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Vivir de rentas es el sueño español.

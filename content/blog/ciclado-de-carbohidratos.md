@@ -1,16 +1,17 @@
 ---
-title: Carbohidratos: los ciclo cada 2 semanas
+title: "Carbohidratos: los ciclo cada 2 semanas"
 subtitle: El ciclado de carbohidratos para recargar
 url: https://pau.ninja/ciclado-de-carbohidratos
 slug: ciclado-de-carbohidratos
-categories: 
+categories: []
 image: persona-ciclando-hidratos.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/persona-ciclando-hidratos.jpeg
 publishedAt: 2021-10-05T07:59:08.000Z
 modifiedAt: 2023-07-18T07:39:00.000Z
-scrappedAt: 2024-11-04T11:51:34.687Z
+scrappedAt: 2024-11-05T04:31:48.300Z
 audioLink: https://www.ivoox.com/dieta-anabolica-carnivora-ciclo-hidratos_md_78541950_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Aquí va mi confesión: **sigo comiendo carbohidratos**.
@@ -198,7 +199,7 @@ Si nuestras queridas células no responden porque la insulina nos «va mal», co
 
 Esto es lo que se llama «resistencia a la insulina». ¿Y cómo nos volvemos resistentes a la insulina? pues comiendo carbohidratos en acceso, o sea que Goku tenía su peligro con todos esos platos de _noodles_ que se comía.
 
-[![Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU1ucE9RMXBEZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjM2Nw=)](https://www.amazon.es/dpB083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...")
+[![Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU1ucE9RMXBEZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzODgxOA=)](https://www.amazon.es/dpB083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...")
 
 [Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...](https://www.amazon.es/dp/B083NBZTTN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Funko Pop! Animation: Dragon Ball Z - Goku Eating Noodles - Figura de Vinilo Coleccionable - Idea de...")
 
@@ -314,7 +315,7 @@ Pero una persona que ha comido una dieta estándar, necesitará semanas para ada
 
 Bestseller No. 1
 
-[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjM2Nw=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmoll) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
+[![Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVlVVbGlaVE42VFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzODgxOA=)](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmoll) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
 [Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...](https://www.amazon.es/dp/B08XQY74GN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=medidor%20cetonas%20sangre "Go-Keto Ketone Kickstart Set (mmol/l) - Medidor de Cetonas en Sangre, Tiras de Prueba y Accesorios,...")
 
@@ -380,7 +381,7 @@ El medidor de cetonas que comentaba puede ser una buena idea. Que te pinchas con
 
 También vi por internet y las farmacias tiras de orina que la gente decía que no eran muy fiables y si usaban dos tiras distintas les daba un resultado distinto, pero yo encontré unas por Amazon que dan resultados muy similares al medidor de cetonas en sangres.
 
-[![Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTE1GaHdRV3RyYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjM2Nw=)](https://www.amazon.es/dpB08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...")
+[![Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTE1GaHdRV3RyYzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzODgxOA=)](https://www.amazon.es/dpB08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...")
 
 [Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...](https://www.amazon.es/dp/B08P4C2ZS6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tiras de prueba de cetona BOSIKE, kit de 150 tiras de medición de cetosis, medidor preciso y...")
 

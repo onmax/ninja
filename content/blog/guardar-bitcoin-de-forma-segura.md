@@ -3,15 +3,20 @@ title: Bitcoin protegido de torturas, robos y extorsiones
 subtitle: ¿Dónde guardar Bitcoin de forma segura?
 url: https://pau.ninja/guardar-bitcoin-de-forma-segura
 slug: guardar-bitcoin-de-forma-segura
-categories: 
+categories: []
 image: claves-privadas-seguras.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/03/claves-privadas-seguras.jpeg
 publishedAt: 2022-03-20T17:24:24.000Z
 modifiedAt: 2024-02-11T06:33:45.000Z
-scrappedAt: 2024-11-04T11:48:17.042Z
+scrappedAt: 2024-11-05T04:31:07.192Z
 audioLink: https://www.ivoox.com/_md_84907091_wp_1.mp3
-bibliography: días gratuitos y además te avisan: «eh, que se te acaba el periodo gratuito y tocará apoquinar dinerete».
-libros, porque entonces es muy obvio. Seguro que en el momento de contaros esto, alguien ya está programando un robot para buscar cuentas de Goodreads con sólo 24 libros.
+bibliography:
+  - "días gratuitos y además te avisan: «eh, que se te acaba el periodo gratuito
+    y tocará apoquinar dinerete»."
+  - libros, porque entonces es muy obvio. Seguro que en el momento de contaros
+    esto, alguien ya está programando un robot para buscar cuentas de Goodreads
+    con sólo 24 libros.
+
 ---
 
 El auge de Bitcoin está siendo proporcional al auge de personas extorsionadas por haber dicho a los cuatro vientos que tienen Bitcoin.
@@ -99,7 +104,7 @@ Y eso lo digo porque he visto algún caso de esos que compran latas de Redbull o
 
 Bestseller No. 1
 
-[![Cocacola de ocultacion + pegatina/Bote de camuflaje/Lata de ocultación imitación refresco (Coca...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeE1tOU5WellyYUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MDA3NQ=)](https://www.amazon.es/dp/B07V9S1VRJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=lata%20falsa%20escondite "Cocacola de ocultacion + pegatina/Bote de camuflajeLata de ocultación imitación refresco (Coca...")
+[![Cocacola de ocultacion + pegatina/Bote de camuflaje/Lata de ocultación imitación refresco (Coca...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeE1tOU5WellyYUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzg2Ng=)](https://www.amazon.es/dp/B07V9S1VRJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=lata%20falsa%20escondite "Cocacola de ocultacion + pegatina/Bote de camuflajeLata de ocultación imitación refresco (Coca...")
 
 [Cocacola de ocultacion + pegatina/Bote de camuflaje/Lata de ocultación imitación refresco (Coca...](https://www.amazon.es/dp/B07V9S1VRJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=lata%20falsa%20escondite "Cocacola de ocultacion + pegatina/Bote de camuflaje/Lata de ocultación imitación refresco (Coca...")
 

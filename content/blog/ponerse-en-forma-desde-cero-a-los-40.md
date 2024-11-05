@@ -3,16 +3,24 @@ title: El inusual pero eficaz método para ponerte en forma
 subtitle: (incluso con 40 años)
 url: https://pau.ninja/ponerse-en-forma-desde-cero-a-los-40
 slug: ponerse-en-forma-desde-cero-a-los-40
-categories: 
+categories: []
 image: hombre-en-forma-en-casa-desde-cero-a-los-40.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/hombre-en-forma-en-casa-desde-cero-a-los-40.jpg
 publishedAt: 2024-09-28T09:14:01.000Z
 modifiedAt: 2024-10-17T08:09:24.000Z
-scrappedAt: 2024-11-04T11:09:18.454Z
-audioLink: undefined
-bibliography: Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their application to resistance training.» Journal of Strength and Conditioning Research, 24(10), 2857-2872.
-Wackerhage, H., Schoenfeld, B. J., Hamilton, D. L., Lehti, M., & Hulmi, J. J. (2019). «Stimuli and sensors that initiate skeletal muscle hypertrophy following resistance exercise.» Journal of Applied Physiology, 126(1), 30-43.
-Ma, H., & Yu, H. (2019). «The effects of mechanical tension on protein synthesis and muscle growth in different resistance training protocols.» Sports Medicine and Health Science, 1(3), 138-144.
+scrappedAt: 2024-11-05T04:25:39.532Z
+bibliography:
+  - Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their
+    application to resistance training.» Journal of Strength and Conditioning
+    Research, 24(10), 2857-2872.
+  - Wackerhage, H., Schoenfeld, B. J., Hamilton, D. L., Lehti, M., & Hulmi, J.
+    J. (2019). «Stimuli and sensors that initiate skeletal muscle hypertrophy
+    following resistance exercise.» Journal of Applied Physiology, 126(1),
+    30-43.
+  - Ma, H., & Yu, H. (2019). «The effects of mechanical tension on protein
+    synthesis and muscle growth in different resistance training protocols.»
+    Sports Medicine and Health Science, 1(3), 138-144.
+
 ---
 
 _Hoy veremos qué tienen en común las personas que se han puesto en forma desde cero._

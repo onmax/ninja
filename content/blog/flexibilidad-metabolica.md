@@ -1,16 +1,17 @@
 ---
-title: Flexibilidad metabólica: el secreto de la salud perdida
+title: "Flexibilidad metabólica: el secreto de la salud perdida"
 subtitle: Qué es la flexibilidad metabólica
 url: https://pau.ninja/flexibilidad-metabolica
 slug: flexibilidad-metabolica
-categories: 
+categories: []
 image: persona-con-energia-nueva.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/persona-con-energia-nueva.jpeg
 publishedAt: 2021-10-05T07:27:08.000Z
 modifiedAt: 2024-02-07T15:43:59.000Z
-scrappedAt: 2024-11-04T11:51:46.105Z
+scrappedAt: 2024-11-05T04:31:54.384Z
 audioLink: https://www.ivoox.com/santo-grial-del-fitness_md_68401661_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ninjas de la vida creo que lo hemos encontrado.
@@ -360,7 +361,7 @@ Bueno, más o menos, porque son enzimas que resumiendo mucho «funden» la grasa
 
 Bestseller No. 1
 
-[![Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNE1HVlVjR05UU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjMzNA=)](https://www.amazon.es/dpB01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio "Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia")
+[![Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNE1HVlVjR05UU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkxMw=)](https://www.amazon.es/dpB01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio "Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia")
 
 [Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia](https://www.amazon.es/dp/B01M30FKH2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=colageno%20con%20magnesio "Ana María Lajusticia - Caja de 450 comprimidos de colágeno con Magnesio by Ana María La Justicia")
 
@@ -400,7 +401,7 @@ Nuestros ancestros cazaban (altas proteínas y grasas), pero también se encontr
 
 Ahora mismo rebajado
 
-[![Sapiens. De animales a dioses: Breve historia de la humanidad](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdmRGcFRUbGc0UjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjMzNA=)](https://www.amazon.es/dp8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sapiens. De animales a dioses: Breve historia de la humanidad")
+[![Sapiens. De animales a dioses: Breve historia de la humanidad](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdmRGcFRUbGc0UjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkxMw=)](https://www.amazon.es/dp8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sapiens. De animales a dioses: Breve historia de la humanidad")
 
 [Sapiens. De animales a dioses: Breve historia de la humanidad](https://www.amazon.es/dp/8499926223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sapiens. De animales a dioses: Breve historia de la humanidad")
 

@@ -3,14 +3,15 @@ title: Hola rechazo, adiós miedo
 subtitle: Pasos para superar el miedo al rechazo
 url: https://pau.ninja/superar-el-miedo-al-rechazo
 slug: superar-el-miedo-al-rechazo
-categories: 
+categories: []
 image: chica-rechazando.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/09/chica-rechazando.jpeg
 publishedAt: 2021-09-28T06:26:58.000Z
 modifiedAt: 2023-08-29T05:17:57.000Z
-scrappedAt: 2024-11-04T11:54:45.065Z
+scrappedAt: 2024-11-05T04:32:14.868Z
 audioLink: https://www.ivoox.com/hola-rechazo-adios-miedo_md_76032891_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Una de las veces que viví en Suecia hice un reto de psicología social.
@@ -322,7 +323,7 @@ En el libro de Anders Ericsson llamado «Peak» el autor profundiza sobre la pr�
 
 Ahora mismo rebajado
 
-[![Peak: Secrets from the New Science of Expertise](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU1l6ZFdXRmRIZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDA4NA=)](https://www.amazon.es/dp0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise")
+[![Peak: Secrets from the New Science of Expertise](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU1l6ZFdXRmRIZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzMTQyNw=)](https://www.amazon.es/dp0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise")
 
 [Peak: Secrets from the New Science of Expertise](https://www.amazon.es/dp/0544947223?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise")
 

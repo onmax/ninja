@@ -3,14 +3,14 @@ title: Cómo hacer un podcast
 subtitle: 8 consejos que me llevaron a los 2 millones
 url: https://pau.ninja/como-hacer-un-podcast
 slug: como-hacer-un-podcast
-categories: 
+categories: []
 image: persona-grabando-podcast.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/persona-grabando-podcast.jpeg
 publishedAt: 2022-05-17T06:39:01.000Z
 modifiedAt: 2023-10-06T05:29:32.000Z
-scrappedAt: 2024-11-04T11:43:58.688Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:48.227Z
+bibliography: []
+
 ---
 
 Para celebrar que el podcast ha pasado los **dos millones de escuchas** he decidido explicar un poco de las entrañas del funcionamiento.

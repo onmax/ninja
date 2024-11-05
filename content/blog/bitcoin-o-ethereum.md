@@ -3,14 +3,15 @@ title: Si no es Bitcoin… ¿es shitcoin?
 subtitle: ¿Bitcoin o Ethereum? ¿Quizás otras critpomonedas?
 url: https://pau.ninja/bitcoin-o-ethereum
 slug: bitcoin-o-ethereum
-categories: 
+categories: []
 image: grafico-bitcoin-ethereum.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/grafico-bitcoin-ethereum.jpg
 publishedAt: 2021-11-30T08:30:28.000Z
 modifiedAt: 2024-02-11T06:33:51.000Z
-scrappedAt: 2024-11-04T11:49:10.142Z
+scrappedAt: 2024-11-05T04:31:25.363Z
 audioLink: https://www.ivoox.com/si-no-es-bitcoin-es-shitcoin_md_80707456_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Cuando digo que soy un maximialista Bitcoin, no me refiero a que Bitcoin va a ser la única criptomoneda que valga la pena. Me refiero a que es **la única que cumple la función de reserva de valor**. De oro digital.

@@ -3,14 +3,14 @@ title: ¿Bíceps grandes? menos curl, más calistenia
 subtitle: Consejos, rutinas y ejercicios
 url: https://pau.ninja/ejercicios-biceps-calistenia
 slug: ejercicios-biceps-calistenia
-categories: 
+categories: []
 image: atleta-biceps-grandes.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/atleta-biceps-grandes.jpg
 publishedAt: 2022-05-05T09:23:25.000Z
 modifiedAt: 2024-02-05T06:32:44.000Z
-scrappedAt: 2024-11-04T11:46:05.036Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:53.299Z
+bibliography: []
+
 ---
 
 Cuando antes de acostarme hacemos una pose delante del espejo para irnos a dormir felices de ver nuestro cuerpo esculpido, siempre hacemos la pose de bíceps doble.

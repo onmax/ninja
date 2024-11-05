@@ -3,14 +3,15 @@ title: Ser vegano no es sano (ni ético, ni sostenible)
 subtitle: Los argumentos en contra del veganismo
 url: https://pau.ninja/argumentos-en-contra-del-veganismo
 slug: argumentos-en-contra-del-veganismo
-categories: 
+categories: []
 image: fruta-podrida-con-hormigas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/12/fruta-podrida-con-hormigas.jpeg
 publishedAt: 2021-12-13T10:27:09.000Z
 modifiedAt: 2023-07-25T03:15:43.000Z
-scrappedAt: 2024-11-04T11:49:04.001Z
+scrappedAt: 2024-11-05T04:31:21.783Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171578/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266283775-44100-2-241f64ce1f3484e4.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 El otro día me escribió un amigo mío. Este amigo de toda la vida, de la infancia, me comentó que llevaba un par de meses con niebla mental. Que no se podía concentrar y que pensar con claridad se le hacía muy difícil.
@@ -393,7 +394,7 @@ Entonces, ¿para qué quieres poner más cultivos si ya hemos visto que es la p
 
 Claro que una vaca tomará mucho espacio si vive libre. Pero **¿cuánto tiempo tardas en comerte 500kg de carne?** porque esto [es lo que pesa](https://www.canr.msu.edu/news/selling_grass_finished_freezer_beef) una vaca de pasto. Aunque menos que una vaca engordada a propósito y con ética dudosa, mucho más nutricional.
 
-[![Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTWRVSndhWEp6U2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4Mzk3NA=)](https://www.amazon.es/dp1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet")
+[![Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTWRVSndhWEp6U2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyOTIxMA=)](https://www.amazon.es/dp1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet")
 
 [Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet](https://www.amazon.es/dp/1948836912?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sacred Cow: The Case for (Better) Meat: Why Well-Raised Meat Is Good for You and Good for the Planet")
 

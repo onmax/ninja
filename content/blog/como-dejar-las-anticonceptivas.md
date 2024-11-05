@@ -3,34 +3,83 @@ title: Adiós, pastilla anticonceptiva
 subtitle: una verdad difícil de tragar (+20 estudios)
 url: https://pau.ninja/como-dejar-las-anticonceptivas
 slug: como-dejar-las-anticonceptivas
-categories: 
+categories: []
 image: persona-con-pastillas-anticonceptivas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/10/persona-con-pastillas-anticonceptivas.jpeg
 publishedAt: 2023-10-10T04:50:51.000Z
 modifiedAt: 2023-12-22T21:29:49.000Z
-scrappedAt: 2024-11-04T11:16:38.073Z
+scrappedAt: 2024-11-05T04:28:23.019Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/77657203/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-9-24%2F352527710-44100-2-0415736530d9f.mp3
-bibliography: Russell VM, McNulty JK, Baker LR, Meltzer AL. The association between discontinuing hormonal contraceptives and wives’ marital satisfaction depends on husbands’ facial attractiveness. Proc Natl Acad Sci U S A. 2014 Dec 2;111(48):17081-6. doi: 10.1073/pnas.1414784111. Epub 2014 Nov 17. PMID: 25404285; PMCID: PMC4260593.
-Roberts, S. C., Little, A. C., Burriss, R. P., Cobey, K. D., Klapilová, K., Havlíček, J., Jones, B. C., DeBruine, L., & Petrie, M. (2014). Partner Choice, Relationship Satisfaction, and Oral Contraception: The Congruency Hypothesis. Psychological Science, 25(7), 1497-1503.
-Roberts S. Craig, Gosling L. Morris, Carter Vaughan and Petrie Marion 2008MHC-correlated odour preferences in humans and the use of oral contraceptivesProc. R. Soc. B.2752715–2722
-Wenner, Melinda. 2008. “A Tough Pill to Swallow.” Scientific American Mind 19 (6). Springer Nature: 7–7.
-“Colestasis Del Embarazo – Síntomas Y Causas – Mayo Clinic.” 2023. Mayoclinic.org‌
-Dixit SP. Liver and the contraceptive pill. Can J Surg. 1980 May;23(3):222-7, 255. PMID: 6247051.
-Lindberg MC. Hepatobiliary complications of oral contraceptives. J Gen Intern Med. 1992 Mar-Apr;7(2):199-209. doi: 10.1007/BF02598014. PMID: 1336797.
-Travis RC, Key TJ. Oestrogen exposure and breast cancer risk. Breast Cancer Res. 2003;5(5):239-47. doi: 10.1186/bcr628. Epub 2003 Jul 28. PMID: 12927032; PMCID: PMC314432.
-Chlebowski RT, Anderson GL, Gass M, Lane DS, Aragaki AK, Kuller LH, Manson JE, Stefanick ML, Ockene J, Sarto GE, Johnson KC, Wactawski-Wende J, Ravdin PM, Schenken R, Hendrix SL, Rajkovic A, Rohan TE, Yasmeen S, Prentice RL; WHI Investigators. Estrogen plus progestin and breast cancer incidence and mortality in postmenopausal women. JAMA. 2010 Oct 20;304(15):1684-92. doi: 10.1001/jama.2010.1500. PMID: 20959578; PMCID: PMC5142300.
-Moyer AE, Rodin J, Grilo CM, Cummings N, Larson LM, Rebuffé-Scrive M. Stress-induced cortisol response and fat distribution in women. Obes Res. 1994 May;2(3):255-62. doi: 10.1002/j.1550-8528.1994.tb00055.x. PMID: 16353426.
-Skovlund CW, Mørch LS, Kessing LV, Lidegaard Ø. Association of Hormonal Contraception With Depression. JAMA Psychiatry. 2016;73(11):1154–1162. doi:10.1001/jamapsychiatry.2016.2387
-Vesce F, Battisti C, Crudo M. The Inflammatory Cytokine Imbalance for Miscarriage, Pregnancy Loss and COVID-19 Pneumonia. Front Immunol. 2022 Mar 11;13:861245. doi: 10.3389/fimmu.2022.861245. PMID: 35359975; PMCID: PMC8961687.
-Christiansen OB, Nielsen HS, Kolte AM. Inflammation and miscarriage. Semin Fetal Neonatal Med. 2006 Oct;11(5):302-8. doi: 10.1016/j.siny.2006.03.001. Epub 2006 May 6. PMID: 16682265.
-Tersigni, C., D’Ippolito, S., Di Nicuolo, F. et al. Recurrent pregnancy loss is associated to leaky gut: a novel pathogenic model of endometrium inflammation?. J Transl Med 16, 102 (2018).
-Copaci, I., Micu, L. & Voiculescu, M. The role of cytokines in non-alcoholic steatohepatitis. A review. J. Gastrointestin. Liver Dis. 15, 363–373 (2006).
-Braunersreuther, V., Viviani, G. L., Mach, F. & Montecucco, F. Role of cytokines and chemokines in non-alcoholic fatty liver disease. World J.Gastroenterol. 18, 727–735 (2012).
-Manzoor, S., Ganie, M.A., Amin, S. et al. Oral contraceptive use increases risk of inflammatory and coagulatory disorders in women with Polycystic Ovarian Syndrome: An observational study. Sci Rep 9, 10182 (2019).
-C. Gnoth, P. Frank-Herrmann, A. Schmoll, E. Godehardt & G. Freundl (2002) Cycle characteristics after discontinuation of oral contraceptives, Gynecological Endocrinology, 16:4, 307-317, DOI: 10.1080/gye.16.4.307.317
-Kwa M, Plottel CS, Blaser MJ, Adams S. The Intestinal Microbiome and Estrogen Receptor-Positive Female Breast Cancer. J Natl Cancer Inst. 2016 Apr 22;108(8):djw029. doi: 10.1093/jnci/djw029. PMID: 27107051; PMCID: PMC5017946.
-Parida S, Sharma D. The Microbiome-Estrogen Connection and Breast Cancer Risk. Cells. 2019 Dec 15;8(12):1642. doi: 10.3390/cells8121642. PMID: 31847455; PMCID: PMC6952974.
-Palmery M, Saraceno A, Vaiarelli A, Carlomagno G. Oral contraceptives and changes in nutritional requirements. Eur Rev Med Pharmacol Sci. 2013 Jul;17(13):1804-13. PMID: 23852908.
+bibliography:
+  - "Russell VM, McNulty JK, Baker LR, Meltzer AL. The association between
+    discontinuing hormonal contraceptives and wives’ marital satisfaction
+    depends on husbands’ facial attractiveness. Proc Natl Acad Sci U S A. 2014
+    Dec 2;111(48):17081-6. doi: 10.1073/pnas.1414784111. Epub 2014 Nov 17. PMID:
+    25404285; PMCID: PMC4260593."
+  - "Roberts, S. C., Little, A. C., Burriss, R. P., Cobey, K. D., Klapilová, K.,
+    Havlíček, J., Jones, B. C., DeBruine, L., & Petrie, M. (2014). Partner
+    Choice, Relationship Satisfaction, and Oral Contraception: The Congruency
+    Hypothesis. Psychological Science, 25(7), 1497-1503."
+  - Roberts S. Craig, Gosling L. Morris, Carter Vaughan and Petrie Marion
+    2008MHC-correlated odour preferences in humans and the use of oral
+    contraceptivesProc. R. Soc. B.2752715–2722
+  - "Wenner, Melinda. 2008. “A Tough Pill to Swallow.” Scientific American Mind
+    19 (6). Springer Nature: 7–7."
+  - “Colestasis Del Embarazo – Síntomas Y Causas – Mayo Clinic.” 2023.
+    Mayoclinic.org‌
+  - "Dixit SP. Liver and the contraceptive pill. Can J Surg. 1980
+    May;23(3):222-7, 255. PMID: 6247051."
+  - "Lindberg MC. Hepatobiliary complications of oral contraceptives. J Gen
+    Intern Med. 1992 Mar-Apr;7(2):199-209. doi: 10.1007/BF02598014. PMID:
+    1336797."
+  - "Travis RC, Key TJ. Oestrogen exposure and breast cancer risk. Breast Cancer
+    Res. 2003;5(5):239-47. doi: 10.1186/bcr628. Epub 2003 Jul 28. PMID:
+    12927032; PMCID: PMC314432."
+  - "Chlebowski RT, Anderson GL, Gass M, Lane DS, Aragaki AK, Kuller LH, Manson
+    JE, Stefanick ML, Ockene J, Sarto GE, Johnson KC, Wactawski-Wende J, Ravdin
+    PM, Schenken R, Hendrix SL, Rajkovic A, Rohan TE, Yasmeen S, Prentice RL;
+    WHI Investigators. Estrogen plus progestin and breast cancer incidence and
+    mortality in postmenopausal women. JAMA. 2010 Oct 20;304(15):1684-92. doi:
+    10.1001/jama.2010.1500. PMID: 20959578; PMCID: PMC5142300."
+  - "Moyer AE, Rodin J, Grilo CM, Cummings N, Larson LM, Rebuffé-Scrive M.
+    Stress-induced cortisol response and fat distribution in women. Obes Res.
+    1994 May;2(3):255-62. doi: 10.1002/j.1550-8528.1994.tb00055.x. PMID:
+    16353426."
+  - Skovlund CW, Mørch LS, Kessing LV, Lidegaard Ø. Association of Hormonal
+    Contraception With Depression. JAMA Psychiatry. 2016;73(11):1154–1162.
+    doi:10.1001/jamapsychiatry.2016.2387
+  - "Vesce F, Battisti C, Crudo M. The Inflammatory Cytokine Imbalance for
+    Miscarriage, Pregnancy Loss and COVID-19 Pneumonia. Front Immunol. 2022 Mar
+    11;13:861245. doi: 10.3389/fimmu.2022.861245. PMID: 35359975; PMCID:
+    PMC8961687."
+  - "Christiansen OB, Nielsen HS, Kolte AM. Inflammation and miscarriage. Semin
+    Fetal Neonatal Med. 2006 Oct;11(5):302-8. doi: 10.1016/j.siny.2006.03.001.
+    Epub 2006 May 6. PMID: 16682265."
+  - "Tersigni, C., D’Ippolito, S., Di Nicuolo, F. et al. Recurrent pregnancy
+    loss is associated to leaky gut: a novel pathogenic model of endometrium
+    inflammation?. J Transl Med 16, 102 (2018)."
+  - Copaci, I., Micu, L. & Voiculescu, M. The role of cytokines in non-alcoholic
+    steatohepatitis. A review. J. Gastrointestin. Liver Dis. 15, 363–373 (2006).
+  - Braunersreuther, V., Viviani, G. L., Mach, F. & Montecucco, F. Role of
+    cytokines and chemokines in non-alcoholic fatty liver disease. World
+    J.Gastroenterol. 18, 727–735 (2012).
+  - "Manzoor, S., Ganie, M.A., Amin, S. et al. Oral contraceptive use increases
+    risk of inflammatory and coagulatory disorders in women with Polycystic
+    Ovarian Syndrome: An observational study. Sci Rep 9, 10182 (2019)."
+  - "C. Gnoth, P. Frank-Herrmann, A. Schmoll, E. Godehardt & G. Freundl (2002)
+    Cycle characteristics after discontinuation of oral contraceptives,
+    Gynecological Endocrinology, 16:4, 307-317, DOI: 10.1080/gye.16.4.307.317"
+  - "Kwa M, Plottel CS, Blaser MJ, Adams S. The Intestinal Microbiome and
+    Estrogen Receptor-Positive Female Breast Cancer. J Natl Cancer Inst. 2016
+    Apr 22;108(8):djw029. doi: 10.1093/jnci/djw029. PMID: 27107051; PMCID:
+    PMC5017946."
+  - "Parida S, Sharma D. The Microbiome-Estrogen Connection and Breast Cancer
+    Risk. Cells. 2019 Dec 15;8(12):1642. doi: 10.3390/cells8121642. PMID:
+    31847455; PMCID: PMC6952974."
+  - "Palmery M, Saraceno A, Vaiarelli A, Carlomagno G. Oral contraceptives and
+    changes in nutritional requirements. Eur Rev Med Pharmacol Sci. 2013
+    Jul;17(13):1804-13. PMID: 23852908."
+
 ---
 
 Después de que los anticonceptivos orales empezaran a repartirse como caramelos en los 60, empezó una revolución sexual sin precedentes que cambiaría el curso de las relaciones (no) románticas para siempre.

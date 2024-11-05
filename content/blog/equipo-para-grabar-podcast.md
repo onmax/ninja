@@ -3,14 +3,14 @@ title: Equipo básico
 subtitle: Todo lo necesario para grabar podcast
 url: https://pau.ninja/equipo-para-grabar-podcast
 slug: equipo-para-grabar-podcast
-categories: 
+categories: []
 image: mesa-de-podcast.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/mesa-de-podcast.jpg
 publishedAt: 2022-05-17T06:45:44.000Z
 modifiedAt: 2024-10-29T06:20:56.000Z
-scrappedAt: 2024-11-04T11:43:54.311Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:30:47.803Z
+bibliography: []
+
 ---
 
 Una vez sabes [cómo hacer un podcast desde cero](./como-hacer-un-podcast), sabes que necesitarás equipo para grabar en algún momento.
@@ -45,7 +45,7 @@ Porque claro en algún momento de nuestra trayectoria nos tocará gastar algo d
 
 En esto toda la comunidad podcastera esta de acuerdo con que el _Blue Yeti_ es el mejor micrófono para podcast en calidad-precio.
 
-[![Logitech for Creators Blue Yeti Nano Micrófono de condensador USB Premium, Grabación, Streaming,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGcFNFVjFaMU5hTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMg=)](https://www.amazon.es/dpB07W5JK3M6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Logitech for Creators Blue Yeti Nano Micrófono de condensador USB Premium, Grabación, Streaming,...")
+[![Logitech for Creators Blue Yeti Nano Micrófono de condensador USB Premium, Grabación, Streaming,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGcFNFVjFaMU5hTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB07W5JK3M6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Logitech for Creators Blue Yeti Nano Micrófono de condensador USB Premium, Grabación, Streaming,...")
 
 [Logitech for Creators Blue Yeti Nano Micrófono de condensador USB Premium, Grabación, Streaming,...](https://www.amazon.es/dp/B07W5JK3M6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Logitech for Creators Blue Yeti Nano Micrófono de condensador USB Premium, Grabación, Streaming,...")
 
@@ -75,7 +75,7 @@ Aquí no nos valdría lo del Yeti como navaja suiza que lo plantamos en el medio
 
 Ahora mismo rebajado
 
-[![Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRWVWSkdXbGszVVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMg=)](https://www.amazon.es/dpB0002E4Z8M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...")
+[![Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRWVWSkdXbGszVVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB0002E4Z8M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...")
 
 [Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...](https://www.amazon.es/dp/B0002E4Z8M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Shure SM7B - Micrófono dinámico cardioide, Proporciona un Sonido cálido para radiodifusión,...")
 
@@ -103,7 +103,7 @@ Pero claro, un Shure solo, poca cosa podemos hacer.
 
 Amigos ninjas del podcasting, no se puede enchufar directamente al portátil. Necesitamos una «caja negra» que procese ese audio, y aquí entra en juego… la interfaz de audio que mencionaba antes.
 
-[![Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdVFXSXpRM2cwYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMg=)](https://www.amazon.es/dpB07QR73T66?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...")
+[![Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdVFXSXpRM2cwYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB07QR73T66?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...")
 
 [Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...](https://www.amazon.es/dp/B07QR73T66?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Interfaz de audio USB Scarlett 2i2 3.ª gen. de Focusrite para grabar, componer, retransmitir y...")
 
@@ -125,7 +125,7 @@ Lo necesitamos comprar a parte y por suerte cuesta menos de 10€. Pero si compr
 
 Porque sí. Ya que me adentré en las arenas movedizas de los héroes del podcasting, no iba a empezar a escatimar. Quería la experiencia completa. Mover el brazo como si fuera el rabo, la cola de Goku.
 
-[![K&M - 23860 - Soporte para micrófono de sobremesa - negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelZHWnNXRVJ3V1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMg=)](https://www.amazon.es/dpB00AXMM0L2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "K&M - 23860 - Soporte para micrófono de sobremesa - negro")
+[![K&M - 23860 - Soporte para micrófono de sobremesa - negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelZHWnNXRVJ3V1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB00AXMM0L2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "K&M - 23860 - Soporte para micrófono de sobremesa - negro")
 
 [K&M - 23860 - Soporte para micrófono de sobremesa - negro](https://www.amazon.es/dp/B00AXMM0L2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "K&M - 23860 - Soporte para micrófono de sobremesa - negro")
 
@@ -153,7 +153,7 @@ Y pum.
 
 Ahora mismo rebajado
 
-[![Cloud Microphones - CL-1 - Preamplificador para guitarra](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVE1rNU5VbTlCTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMg=)](https://www.amazon.es/dpB004MQSV04?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cloud Microphones - CL-1 - Preamplificador para guitarra")
+[![Cloud Microphones - CL-1 - Preamplificador para guitarra](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGVE1rNU5VbTlCTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB004MQSV04?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cloud Microphones - CL-1 - Preamplificador para guitarra")
 
 [Cloud Microphones - CL-1 - Preamplificador para guitarra](https://www.amazon.es/dp/B004MQSV04?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cloud Microphones - CL-1 - Preamplificador para guitarra")
 
@@ -177,7 +177,7 @@ A ver yo no haría ninguna de estas cosas, pero ya me entendéis…
 
 Vale llegados a este punto teníamos nuestra cajita de interfaz de audio, y ahora esta otra cajita, el preamplificador. Pero claro, lo enchufamos… Y resulta que nos falta **otro cable** XLR macho-hembra. Por suerte esta vez sale más baratito.
 
-[![Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMFpqSjZiUzF1UWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMg=)](https://www.amazon.es/dpB009T7Z5UK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m")
+[![Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMFpqSjZiUzF1UWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB009T7Z5UK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m")
 
 [Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m](https://www.amazon.es/dp/B009T7Z5UK?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Adam Hall Cables 3 STAR DMF 0050 - Cable DMX de XLR macho a XLR hembra 0,5 m")
 
@@ -223,7 +223,7 @@ Al principio metía sólo pantalla negra pero creo que se rompe el propósito de
 
 Como si fuera una webcam pero de buena calidad. Rollo como para hacer streaming aunque sin intención de utilizarla como tal.
 
-[![Sony Alpha 6400 -Cámara evil APS-C, objetivo zoom potente Sony 16-50mm f/3.5-5.6 (Enfoque...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFck5XTkNVMWR6WjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMw=)](https://www.amazon.es/dp/B07MWDP1VD?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sony Alpha 6400 -Cámara evil APS-C, objetivo zoom potente Sony 16-50mm f3.5-5.6 (Enfoque...")
+[![Sony Alpha 6400 -Cámara evil APS-C, objetivo zoom potente Sony 16-50mm f/3.5-5.6 (Enfoque...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFck5XTkNVMWR6WjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dp/B07MWDP1VD?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sony Alpha 6400 -Cámara evil APS-C, objetivo zoom potente Sony 16-50mm f3.5-5.6 (Enfoque...")
 
 [Sony Alpha 6400 -Cámara evil APS-C, objetivo zoom potente Sony 16-50mm f/3.5-5.6 (Enfoque...](https://www.amazon.es/dp/B07MWDP1VD?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sony Alpha 6400 -Cámara evil APS-C, objetivo zoom potente Sony 16-50mm f/3.5-5.6 (Enfoque...")
 
@@ -239,7 +239,7 @@ La capturadora de vídeo USB no deja de ser un pequeño USB, parecido a un lápi
 
 Ahora mismo rebajado
 
-[![Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGbFZ6bFllSGx2ZDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMw=)](https://www.amazon.es/dpB07K3FN5MR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...")
+[![Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGbFZ6bFllSGx2ZDB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB07K3FN5MR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...")
 
 [Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...](https://www.amazon.es/dp/B07K3FN5MR?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Elgato Cam Link 4K, capturadora externa de streaming y grabación, cámara de fotos, de vídeo o...")
 
@@ -253,7 +253,7 @@ Y esto lógicamente va enchufado al portátil pero hace que tengamos que comprar
 
 Sólo lo suficiente para conectar de la capturadora a la cámara.
 
-[![Amazon Basics - Cable Micro HDMI a HDMI, flexible, de 1.8 m, Negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSFpXZDVNek54TWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMw=)](https://www.amazon.es/dpB07KSDB25X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amazon Basics - Cable Micro HDMI a HDMI, flexible, de 1.8 m, Negro")
+[![Amazon Basics - Cable Micro HDMI a HDMI, flexible, de 1.8 m, Negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGSFpXZDVNek54TWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB07KSDB25X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amazon Basics - Cable Micro HDMI a HDMI, flexible, de 1.8 m, Negro")
 
 [Amazon Basics - Cable Micro HDMI a HDMI, flexible, de 1.8 m, Negro](https://www.amazon.es/dp/B07KSDB25X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amazon Basics - Cable Micro HDMI a HDMI, flexible, de 1.8 m, Negro")
 
@@ -267,7 +267,7 @@ Y con esto y un bizcocho…
 
 Bestseller No. 1
 
-[![RLSOCO Funda para Shure SM7dB Micrófono dinámico & MV7+ Podcast Mikrofon - Negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTFlrSk5kM2hUVmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMw=)](https://www.amazon.es/dpB0CPPJPHK5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20shure%20sm7db "RLSOCO Funda para Shure SM7dB Micrófono dinámico & MV7+ Podcast Mikrofon - Negro")
+[![RLSOCO Funda para Shure SM7dB Micrófono dinámico & MV7+ Podcast Mikrofon - Negro](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTFlrSk5kM2hUVmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB0CPPJPHK5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20shure%20sm7db "RLSOCO Funda para Shure SM7dB Micrófono dinámico & MV7+ Podcast Mikrofon - Negro")
 
 [RLSOCO Funda para Shure SM7dB Micrófono dinámico & MV7+ Podcast Mikrofon - Negro](https://www.amazon.es/dp/B0CPPJPHK5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20shure%20sm7db "RLSOCO Funda para Shure SM7dB Micrófono dinámico & MV7+ Podcast Mikrofon - Negro")
 
@@ -275,7 +275,7 @@ Bestseller No. 1
 
 [Comprar en Amazon](https://www.amazon.es/dp/B0CPPJPHK5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=funda%20shure%20sm7db "Comprar en Amazon")
 
-[![Aenllosi Funda Estuche para Sony Alpha 6000/6300/6400/6500/6700Cámara Digital sin Espejo (Solo...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdFRtZHlSRFJZVlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMw=)](https://www.amazon.es/dp/B09SGZNDQ5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aenllosi Funda Estuche para Sony Alpha 6000/6300/6400/65006700Cámara Digital sin Espejo (Solo...")
+[![Aenllosi Funda Estuche para Sony Alpha 6000/6300/6400/6500/6700Cámara Digital sin Espejo (Solo...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGdFRtZHlSRFJZVlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dp/B09SGZNDQ5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aenllosi Funda Estuche para Sony Alpha 6000/6300/6400/65006700Cámara Digital sin Espejo (Solo...")
 
 [Aenllosi Funda Estuche para Sony Alpha 6000/6300/6400/6500/6700Cámara Digital sin Espejo (Solo...](https://www.amazon.es/dp/B09SGZNDQ5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aenllosi Funda Estuche para Sony Alpha 6000/6300/6400/6500/6700Cámara Digital sin Espejo (Solo...")
 
@@ -283,7 +283,7 @@ Bestseller No. 1
 
 [Comprar en Amazon](https://www.amazon.es/dp/B09SGZNDQ5?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Docooler Mochilas para Cámaras, Mochila Fotografia Impermeable con Divisores Extraíble Mochila...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGMk5ESTFLMFZNTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzQzMw=)](https://www.amazon.es/dpB07CTJDYLS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Docooler Mochilas para Cámaras, Mochila Fotografia Impermeable con Divisores Extraíble Mochila...")
+[![Docooler Mochilas para Cámaras, Mochila Fotografia Impermeable con Divisores Extraíble Mochila...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGMk5ESTFLMFZNTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMzMw=)](https://www.amazon.es/dpB07CTJDYLS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Docooler Mochilas para Cámaras, Mochila Fotografia Impermeable con Divisores Extraíble Mochila...")
 
 [Docooler Mochilas para Cámaras, Mochila Fotografia Impermeable con Divisores Extraíble Mochila...](https://www.amazon.es/dp/B07CTJDYLS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Docooler Mochilas para Cámaras, Mochila Fotografia Impermeable con Divisores Extraíble Mochila...")
 

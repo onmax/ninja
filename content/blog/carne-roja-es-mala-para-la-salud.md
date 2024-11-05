@@ -3,14 +3,15 @@ title: La carne roja (no) es mala para la salud
 subtitle: La relación de la carne con la salud
 url: https://pau.ninja/carne-roja-es-mala-para-la-salud
 slug: carne-roja-es-mala-para-la-salud
-categories: 
+categories: []
 image: persona-comiendo-carne-roja.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/01/persona-comiendo-carne-roja.jpeg
 publishedAt: 2023-01-12T07:24:40.000Z
 modifiedAt: 2024-02-07T10:06:26.000Z
-scrappedAt: 2024-11-04T11:41:32.037Z
+scrappedAt: 2024-11-05T04:29:32.847Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58844457/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290305378-44100-2-a61fd94469876.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hace pocos meses el gobierno canadiense y californiano consideraban poner etiquetas de advertencia en los paquetes de carne roja del supermercado.

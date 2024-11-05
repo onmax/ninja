@@ -1,16 +1,17 @@
 ---
-title: El turista perpetuo: o cómo no pagar impuestos (legalmente)
+title: "El turista perpetuo: o cómo no pagar impuestos (legalmente)"
 subtitle: Fiscalidad del ciudadano del mundo
 url: https://pau.ninja/como-no-pagar-impuestos-legalmente
 slug: como-no-pagar-impuestos-legalmente
-categories: 
+categories: []
 image: un-turista-perpetuo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/01/un-turista-perpetuo.jpeg
 publishedAt: 2022-01-24T09:57:05.000Z
 modifiedAt: 2023-09-25T14:27:58.000Z
-scrappedAt: 2024-11-04T11:48:55.100Z
+scrappedAt: 2024-11-05T04:31:17.865Z
 audioLink: https://www.ivoox.com/_md_82069813_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Un proverbio chino dice que «de las 36 maneras de salir de un apuro, **la mejor manera es irse**«.

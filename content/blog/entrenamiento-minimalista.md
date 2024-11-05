@@ -3,27 +3,41 @@ title: Entreno minimalista
 subtitle: o cómo progresar con (mucho) menos
 url: https://pau.ninja/entrenamiento-minimalista
 slug: entrenamiento-minimalista
-categories: 
+categories: []
 image: persona-hace-entrenamiento-minimalista.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-hace-entrenamiento-minimalista.jpeg
 publishedAt: 2024-07-31T05:56:54.000Z
 modifiedAt: 2024-10-06T17:34:21.000Z
-scrappedAt: 2024-11-04T11:11:12.683Z
+scrappedAt: 2024-11-05T04:26:18.065Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/91765091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-16%2F386448478-44100-2-b64316c45118f.mp3
-bibliography: días a la semana: 2 días de fuerza, 1 día de acondicionamiento.
-x 20
-x 20
-x 20
-x 20 (usar bandas o peso para hacerlo más fácil/difícil, según sea necesario)
-x 20
-x 20
-repeticiones EMOM x 10
-reps (aproximadamente 20% de tu máximo)
-reps (aproximadamente 24% de tu máximo)
-Bhasin, S., Storer, T. W., Berman, N., Callegari, C., Clevenger, B., Phillips, J., … & Bunnell, T. J. (1996). The effects of supraphysiologic doses of testosterone on muscle size and strength in normal men. New England Journal of Medicine, 335(1), 1-7. Recuperado de nejm.org.
-Momma H, Kawakami R, Honda T, Sawada SS. Muscle-strengthening activities are associated with lower risk and mortality in major non-communicable diseases: a systematic review and meta-analysis of cohort studies. Br J Sports Med. 2022 Jul;56(13):755-763. doi: 10.1136/bjsports-2021-105061. Epub 2022 Feb 28. PMID: 35228201; PMCID: PMC9209691.
-Ralston GW, Kilgore L, Wyatt FB, Baker JS. The Effect of Weekly Set Volume on Strength Gain: A Meta-Analysis. Sports Med. 2017 Dec;47(12):2585-2601. doi: 10.1007/s40279-017-0762-7. PMID: 28755103; PMCID: PMC5684266.
-Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: A systematic review and meta-analysis. J Sports Sci. 2017 Jun;35(11):1073-1082. doi: 10.1080/02640414.2016.1210197. Epub 2016 Jul 19. PMID: 27433992.
+bibliography:
+  - "días a la semana: 2 días de fuerza, 1 día de acondicionamiento."
+  - x 20
+  - x 20
+  - x 20
+  - x 20 (usar bandas o peso para hacerlo más fácil/difícil, según sea necesario)
+  - x 20
+  - x 20
+  - repeticiones EMOM x 10
+  - reps (aproximadamente 20% de tu máximo)
+  - reps (aproximadamente 24% de tu máximo)
+  - Bhasin, S., Storer, T. W., Berman, N., Callegari, C., Clevenger, B.,
+    Phillips, J., … & Bunnell, T. J. (1996). The effects of supraphysiologic
+    doses of testosterone on muscle size and strength in normal men. New England
+    Journal of Medicine, 335(1), 1-7. Recuperado de nejm.org.
+  - "Momma H, Kawakami R, Honda T, Sawada SS. Muscle-strengthening activities
+    are associated with lower risk and mortality in major non-communicable
+    diseases: a systematic review and meta-analysis of cohort studies. Br J
+    Sports Med. 2022 Jul;56(13):755-763. doi: 10.1136/bjsports-2021-105061. Epub
+    2022 Feb 28. PMID: 35228201; PMCID: PMC9209691."
+  - "Ralston GW, Kilgore L, Wyatt FB, Baker JS. The Effect of Weekly Set Volume
+    on Strength Gain: A Meta-Analysis. Sports Med. 2017 Dec;47(12):2585-2601.
+    doi: 10.1007/s40279-017-0762-7. PMID: 28755103; PMCID: PMC5684266."
+  - "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between
+    weekly resistance training volume and increases in muscle mass: A systematic
+    review and meta-analysis. J Sports Sci. 2017 Jun;35(11):1073-1082. doi:
+    10.1080/02640414.2016.1210197. Epub 2016 Jul 19. PMID: 27433992."
+
 ---
 
 ¿Os habéis dado cuenta de lo que separa a las personas **naturales** con cuerpos potentes?

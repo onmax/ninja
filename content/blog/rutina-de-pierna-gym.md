@@ -3,14 +3,14 @@ title: ¿Piernas o ruedas? Menos sentadillas, más máquinas, mejores patas
 subtitle: (mejores ejercicios y rutina de piernas)
 url: https://pau.ninja/rutina-de-pierna-gym
 slug: rutina-de-pierna-gym
-categories: 
+categories: []
 image: hombre-con-piernas-grandes-y-fuertes.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/hombre-con-piernas-grandes-y-fuertes.jpeg
 publishedAt: 2023-02-13T05:47:28.000Z
 modifiedAt: 2023-03-28T04:18:48.000Z
-scrappedAt: 2024-11-04T11:41:02.598Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:29:23.475Z
+bibliography: []
+
 ---
 
 No «haces» un entrenamiento de piernas… **sobrevives** a un entreno de piernas.

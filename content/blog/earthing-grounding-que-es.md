@@ -1,16 +1,17 @@
 ---
-title: Earthing: desinflamación con los pies en el suelo
+title: "Earthing: desinflamación con los pies en el suelo"
 subtitle: Los beneficios del grounding
 url: https://pau.ninja/earthing-grounding-que-es
 slug: earthing-grounding-que-es
-categories: 
+categories: []
 image: earthing-con-pies-en-el-suelo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/08/earthing-con-pies-en-el-suelo.jpeg
 publishedAt: 2022-08-23T09:07:08.000Z
 modifiedAt: 2023-09-21T05:30:58.000Z
-scrappedAt: 2024-11-04T11:43:09.451Z
+scrappedAt: 2024-11-05T04:30:19.997Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/59423067/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-22%2F292497117-44100-2-7871bf48bb76.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Vi un documental donde una señora india (de plumas, no de puntos) le dijo al invitado que estaba entrando en su tienda «quítate los zapatos o te pondrás malo».
@@ -109,7 +110,7 @@ Pero este medidor es algo distinto al típico para ver los [efectos de las ondas
 
 Ahora mismo rebajado
 
-[![AstroAI AM33D Multímetro Digital de 2000 Cuentas, Polímetro Profesional, Voltímetro, Tester,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMUswcE5kVEZ4Y0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDcxNQ=)](https://www.amazon.es/dpB01ISAMUA6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "AstroAI AM33D Multímetro Digital de 2000 Cuentas, Polímetro Profesional, Voltímetro, Tester,...")
+[![AstroAI AM33D Multímetro Digital de 2000 Cuentas, Polímetro Profesional, Voltímetro, Tester,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMUswcE5kVEZ4Y0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgxOQ=)](https://www.amazon.es/dpB01ISAMUA6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "AstroAI AM33D Multímetro Digital de 2000 Cuentas, Polímetro Profesional, Voltímetro, Tester,...")
 
 [AstroAI AM33D Multímetro Digital de 2000 Cuentas, Polímetro Profesional, Voltímetro, Tester,...](https://www.amazon.es/dp/B01ISAMUA6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "AstroAI AM33D Multímetro Digital de 2000 Cuentas, Polímetro Profesional, Voltímetro, Tester,...")
 
@@ -212,7 +213,7 @@ Una mejor opción que no descarto hacer en el futuro es ponerme unas pulseras an
 
 Ahora mismo rebajado
 
-[![Pulseras Antiestaticas - 3 Pack – Antiestaticos reutilizables pulseras equipadas con conexión a...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGQk56ZEtVMmRxUzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDcxNQ=)](https://www.amazon.es/dpB017164JHA?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Pulseras Antiestaticas - 3 Pack – Antiestaticos reutilizables pulseras equipadas con conexión a...")
+[![Pulseras Antiestaticas - 3 Pack – Antiestaticos reutilizables pulseras equipadas con conexión a...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGQk56ZEtVMmRxUzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzgxOQ=)](https://www.amazon.es/dpB017164JHA?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Pulseras Antiestaticas - 3 Pack – Antiestaticos reutilizables pulseras equipadas con conexión a...")
 
 [Pulseras Antiestaticas - 3 Pack – Antiestaticos reutilizables pulseras equipadas con conexión a...](https://www.amazon.es/dp/B017164JHA?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Pulseras Antiestaticas - 3 Pack – Antiestaticos reutilizables pulseras equipadas con conexión a...")
 

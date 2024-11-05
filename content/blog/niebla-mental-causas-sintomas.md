@@ -1,16 +1,17 @@
 ---
-title: Niebla mental: la peor enemiga de tu concentración
+title: "Niebla mental: la peor enemiga de tu concentración"
 subtitle: Los síntomas, las causas y tratamiento
 url: https://pau.ninja/niebla-mental-causas-sintomas
 slug: niebla-mental-causas-sintomas
-categories: 
+categories: []
 image: persona-con-niebla-mental.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/08/persona-con-niebla-mental.jpeg
 publishedAt: 2022-08-15T07:18:35.000Z
 modifiedAt: 2023-09-21T05:40:33.000Z
-scrappedAt: 2024-11-04T11:43:14.714Z
+scrappedAt: 2024-11-05T04:30:24.143Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58363138/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-8-30%2F288517358-44100-2-13599aa06c1a2.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 A ver si te ha pasado.

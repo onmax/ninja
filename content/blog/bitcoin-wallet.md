@@ -3,14 +3,15 @@ title: Adiós exchange, hola monedero
 subtitle: Mejores carteras, billeteras, wallet para guardar Bitcoin de forma segura
 url: https://pau.ninja/bitcoin-wallet
 slug: bitcoin-wallet
-categories: 
+categories: []
 image: monedero-bitcoin.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/monedero-bitcoin.jpg
 publishedAt: 2021-01-23T08:36:36.000Z
 modifiedAt: 2024-02-11T06:34:30.000Z
-scrappedAt: 2024-11-04T11:56:01.535Z
+scrappedAt: 2024-11-05T04:32:43.363Z
 audioLink: https://www.ivoox.com/adios-exchange-hola-monedero_md_68748509_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Calvo, narizota, pálido, espárrago… Hay mil maneras de llamarme, pero no soy el único que tiene motes.

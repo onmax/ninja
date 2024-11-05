@@ -1,16 +1,17 @@
 ---
-title: El carnívoro culturista: menos carbohidratos, más músculo (en cetosis)
+title: "El carnívoro culturista: menos carbohidratos, más músculo (en cetosis)"
 subtitle: (aumentar masa muscular con la dieta cetogénica)
 url: https://pau.ninja/masa-muscular-sin-carbohidratos
 slug: masa-muscular-sin-carbohidratos
-categories: 
+categories: []
 image: culturista-en-cetosis.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/culturista-en-cetosis.jpeg
 publishedAt: 2022-10-07T10:14:33.000Z
 modifiedAt: 2023-12-15T08:47:50.000Z
-scrappedAt: 2024-11-04T11:42:39.090Z
+scrappedAt: 2024-11-05T04:30:06.651Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/60613301/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-14%2F296930307-44100-2-0dff647d0fd36.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Las probabilidades de que alguien que sigue una dieta carnívora (o si más no cetogénica, que no consume carbohidratos) y que además también haga deporte son muy altas.
@@ -82,7 +83,7 @@ Porque si el cuerpo sólo tiene cetonas y el cerebro necesita glucosa, pues la m
 
 Vamos, que la intención principal de la gluconeogénesis **no es suplir a los músculos, sino al cerebro**. El hígado no tendría tanta capacidad para producir tanta glucosa para los músculos.
 
-[![The Art and Science of Low Carbohydrate Performance](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcVozWmhZbVV6TWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzIyMw=)](https://www.amazon.es/dp0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art and Science of Low Carbohydrate Performance")
+[![The Art and Science of Low Carbohydrate Performance](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcVozWmhZbVV6TWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk0ODA1Mg=)](https://www.amazon.es/dp0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art and Science of Low Carbohydrate Performance")
 
 [The Art and Science of Low Carbohydrate Performance](https://www.amazon.es/dp/0983490716?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Art and Science of Low Carbohydrate Performance")
 

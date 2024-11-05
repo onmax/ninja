@@ -1,51 +1,54 @@
 ---
-title: Sesos crudos: hemos evolucionado comiendo cerebro
+title: "Sesos crudos: hemos evolucionado comiendo cerebro"
 subtitle: (por qué es bueno comer sesos de cordero, cerdo y vaca)
 url: https://pau.ninja/es-bueno-comer-sesos
 slug: es-bueno-comer-sesos
-categories: 
+categories: []
 image: persona-comiendo-sesos.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/09/persona-comiendo-sesos.jpeg
 publishedAt: 2022-09-23T09:25:31.000Z
 modifiedAt: 2024-02-07T09:47:57.000Z
-scrappedAt: 2024-11-04T11:42:47.950Z
+scrappedAt: 2024-11-05T04:30:09.639Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61841613/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-7%2F301697987-44100-2-e719456e6cc56.mp3
-bibliography: minutos
-minutos
-ajo, con piel
-hoja de laurel
-huevos grandes
-taza de pan rallado panko
-litro de aceite para freír
-manojo de perejil, solo las hojas
-lata pequeña de filetes de anchoa, picados
-dientes de ajo, picados o rallados
-cucharada de alcaparras, picadas
-minutos
-minutos
-gramos de sesos (cordero, ternera o cerdo) remojados en cambios de agua y escurridos
-huevos
-cucharadas de mantequilla
-minutos
-minutos
-sesos de cordero
-dientes de ajo machacados
-perejil fresco de hoja plana picado pequeño
-manojo de cilantro fresco picado pequeño
-cucharadita de pimentón dulce
-pizca de pimienta de cayena
-cucharadita de comino molido
-cucharada de jugo de limón
-cucharaditas de vinagre de vino
-minutos
-minutos
-sesos de cordero
-huevos, ligeramente batidos
-minutos
-horas
-huevo grande
-cucharadas de crema espesa o mitad y mitad
-cucharadas de harina para todo uso o equivalente
+bibliography:
+  - minutos
+  - minutos
+  - ajo, con piel
+  - hoja de laurel
+  - huevos grandes
+  - taza de pan rallado panko
+  - litro de aceite para freír
+  - manojo de perejil, solo las hojas
+  - lata pequeña de filetes de anchoa, picados
+  - dientes de ajo, picados o rallados
+  - cucharada de alcaparras, picadas
+  - minutos
+  - minutos
+  - gramos de sesos (cordero, ternera o cerdo) remojados en cambios de agua y
+    escurridos
+  - huevos
+  - cucharadas de mantequilla
+  - minutos
+  - minutos
+  - sesos de cordero
+  - dientes de ajo machacados
+  - perejil fresco de hoja plana picado pequeño
+  - manojo de cilantro fresco picado pequeño
+  - cucharadita de pimentón dulce
+  - pizca de pimienta de cayena
+  - cucharadita de comino molido
+  - cucharada de jugo de limón
+  - cucharaditas de vinagre de vino
+  - minutos
+  - minutos
+  - sesos de cordero
+  - huevos, ligeramente batidos
+  - minutos
+  - horas
+  - huevo grande
+  - cucharadas de crema espesa o mitad y mitad
+  - cucharadas de harina para todo uso o equivalente
+
 ---
 
 Comer sesos, el cerebro de cordero, el cerdo, o hasta la vaca es seguramente una de mis comidas favoritas. Al menos seguro que es mi órgano favorito en cuanto a sabor y palatibilidad. Muy cremoso.

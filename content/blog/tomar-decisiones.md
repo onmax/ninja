@@ -3,14 +3,15 @@ title: La decisión más importante de tu vida
 subtitle: No te fíes de ti mismo al tomar decisiones
 url: https://pau.ninja/tomar-decisiones
 slug: tomar-decisiones
-categories: 
+categories: []
 image: persona-tomando-decision-dificil.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/persona-tomando-decision-dificil.jpeg
 publishedAt: 2022-12-24T09:53:46.000Z
 modifiedAt: 2023-06-12T13:22:39.000Z
-scrappedAt: 2024-11-04T11:41:48.775Z
+scrappedAt: 2024-11-05T04:29:39.466Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/64238251/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-0-30%2F310119409-44100-2-f09dc7ac7c755.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Es de lógica decir que cuanto más racionales sean las decisiones que tomamos, más mejorará nuestra vida.

@@ -1,16 +1,17 @@
 ---
 title: Soy aprendiz de todo… Y maestro de nada
-subtitle: Multipotencial: cuando te gusta todo
+subtitle: "Multipotencial: cuando te gusta todo"
 url: https://pau.ninja/multipotencial
 slug: multipotencial
-categories: 
+categories: []
 image: persona-multipotencial.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/12/persona-multipotencial.jpeg
 publishedAt: 2022-12-28T08:05:00.000Z
 modifiedAt: 2023-06-12T13:28:22.000Z
-scrappedAt: 2024-11-04T11:41:42.409Z
+scrappedAt: 2024-11-05T04:29:37.608Z
 audioLink: https://www.ivoox.com/soy-aprendiz-todo-y-maestro-nada_md_58084475_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Un **multipotencial** es una persona con multitud de intereses ya sean artísticos o intelectuales. Culos de mal asiento que no pueden casarse con una sola pasión. Existen dos tipos de multipotenciales:
@@ -155,7 +156,7 @@ Resulta que no, y para los que quieran expandir más el libro de la chica es una
 
 Ahora mismo rebajado
 
-[![How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcU5HcFhUVGxwYTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzMwMQ=)](https://www.amazon.es/dp0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...")
+[![How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcU5HcFhUVGxwYTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMxMQ=)](https://www.amazon.es/dp0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...")
 
 [How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...](https://www.amazon.es/dp/0062566652?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Be Everything: A Guide for Those Who (Still) Don't Know What They Want to Be When They Grow...")
 
@@ -283,7 +284,7 @@ Todo pseudo-emprendedor se ha leído (al menos) el libro de Tim Ferriss.
 
 Ahora mismo rebajado
 
-[![La semana laboral de 4 horas (Divulgación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcVZ6SjFWV3RNTlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzMwMQ=)](https://www.amazon.es/dp8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La semana laboral de 4 horas (Divulgación)")
+[![La semana laboral de 4 horas (Divulgación)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcVZ6SjFWV3RNTlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMxMQ=)](https://www.amazon.es/dp8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La semana laboral de 4 horas (Divulgación)")
 
 [La semana laboral de 4 horas (Divulgación)](https://www.amazon.es/dp/8490567476?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La semana laboral de 4 horas (Divulgación)")
 

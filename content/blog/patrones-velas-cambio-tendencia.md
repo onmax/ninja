@@ -3,14 +3,14 @@ title: Cambio de tendencia
 subtitle: Los patrones de velas (más fiables) para surfearlo
 url: https://pau.ninja/patrones-velas-cambio-tendencia
 slug: patrones-velas-cambio-tendencia
-categories: 
+categories: []
 image: patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 publishedAt: 2024-04-02T04:40:41.000Z
 modifiedAt: 2024-06-23T05:27:14.000Z
-scrappedAt: 2024-11-04T11:13:25.808Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:27:14.229Z
+bibliography: []
+
 ---
 
 He recopilado los 10 patrones de velas japonesas que acostumbran a indicar con alta fiabilidad que viene un cambio de tendencia, hasta el punto de **acertar en más de un 70% de ocasiones**.
@@ -407,7 +407,7 @@ Ha sido una aventura muy divertida sumergirme en estos datos y sin duda os recom
 
 Ahora mismo rebajado
 
-[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTYwNA=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
+[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNzIxOA=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 [Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 

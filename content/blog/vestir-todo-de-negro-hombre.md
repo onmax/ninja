@@ -3,14 +3,14 @@ title: Vestir (todo) de negro
 subtitle: Una guía para hombres
 url: https://pau.ninja/vestir-todo-de-negro-hombre
 slug: vestir-todo-de-negro-hombre
-categories: 
+categories: []
 image: hombre-vestido-de-negro.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/hombre-vestido-de-negro.jpeg
 publishedAt: 2021-10-28T08:44:06.000Z
 modifiedAt: 2024-01-22T09:13:26.000Z
-scrappedAt: 2024-11-04T11:49:28.365Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:31:37.166Z
+bibliography: []
+
 ---
 
 Es mentira: el color negro no le quede bien a todo el mundo porque… si eres feo de la hostia ningún color te va a hacer más guapo.
@@ -67,7 +67,7 @@ Realmente no hay ninguna regla ni libro escrito, o sea que siempre que la combin
 
 Lo que sí que se acostumbra a hacer en este _look_ es poner la camiseta (totalmente o parcialmente) dentro de los pantalones, para mostrar un cinturón de cuero de calidad.
 
-[![NEWHEY Cinturon Hombre Cuero Cinturones Piel Jeans Cinturón Hombre 32mm Trabajo Clásico 115cm...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGV1dHUmlRekZzY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5Mjk1OQ=)](https://www.amazon.es/dpB08571LBRM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "NEWHEY Cinturon Hombre Cuero Cinturones Piel Jeans Cinturón Hombre 32mm Trabajo Clásico 115cm...")
+[![NEWHEY Cinturon Hombre Cuero Cinturones Piel Jeans Cinturón Hombre 32mm Trabajo Clásico 115cm...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGV1dHUmlRekZzY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzMyNA=)](https://www.amazon.es/dpB08571LBRM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "NEWHEY Cinturon Hombre Cuero Cinturones Piel Jeans Cinturón Hombre 32mm Trabajo Clásico 115cm...")
 
 [NEWHEY Cinturon Hombre Cuero Cinturones Piel Jeans Cinturón Hombre 32mm Trabajo Clásico 115cm...](https://www.amazon.es/dp/B08571LBRM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "NEWHEY Cinturon Hombre Cuero Cinturones Piel Jeans Cinturón Hombre 32mm Trabajo Clásico 115cm...")
 
@@ -93,7 +93,7 @@ Y en el caso de que queramos añadir elegancia y algo de sofisticación al _loo
 
 Ahora mismo rebajado
 
-[![Geox U Brayden 2Fit Abx D, Zapatos para Hombre, Negro (Black), 39 EU](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMkxVaDVkMHN4WVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5Mjk1OQ=)](https://www.amazon.es/dpB00U7COUE8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Geox U Brayden 2Fit Abx D, Zapatos para Hombre, Negro (Black), 39 EU")
+[![Geox U Brayden 2Fit Abx D, Zapatos para Hombre, Negro (Black), 39 EU](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFMkxVaDVkMHN4WVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzMyNA=)](https://www.amazon.es/dpB00U7COUE8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Geox U Brayden 2Fit Abx D, Zapatos para Hombre, Negro (Black), 39 EU")
 
 [Geox U Brayden 2Fit Abx D, Zapatos para Hombre, Negro (Black), 39 EU](https://www.amazon.es/dp/B00U7COUE8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Geox U Brayden 2Fit Abx D, Zapatos para Hombre, Negro (Black), 39 EU")
 
@@ -105,7 +105,7 @@ Botas chukka: mi recomendación buscando el máximo de calidad.
 
 Ahora mismo rebajado
 
-[![Panama Jack Garnock Igloo, Botas Estilo Chelsea Hombre, Negro C002, 45 EU](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFM1RHbEtUMmRNTVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5Mjk1OQ=)](https://www.amazon.es/dpB075NT9GT8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Panama Jack Garnock Igloo, Botas Estilo Chelsea Hombre, Negro C002, 45 EU")
+[![Panama Jack Garnock Igloo, Botas Estilo Chelsea Hombre, Negro C002, 45 EU](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFM1RHbEtUMmRNTVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzMyNA=)](https://www.amazon.es/dpB075NT9GT8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Panama Jack Garnock Igloo, Botas Estilo Chelsea Hombre, Negro C002, 45 EU")
 
 [Panama Jack Garnock Igloo, Botas Estilo Chelsea Hombre, Negro C002, 45 EU](https://www.amazon.es/dp/B075NT9GT8?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Panama Jack Garnock Igloo, Botas Estilo Chelsea Hombre, Negro C002, 45 EU")
 
@@ -141,7 +141,7 @@ Necesitaremos un traje monocromático al completo con el pantalón de vestir, ca
 
 Si tienes presupuesto lo ideal en este caso es que **sea un traje hecho a medida**. Que tire por el lado de ser ajustado.
 
-[![JACK & JONES JACCOLOMBIA Tie Noos Corbata, Negro (Black Detail/Solid), Talla única para Hombre](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQllXSlZSRXRPV2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5Mjk1OQ=)](https://www.amazon.es/dp/B0723BTGPS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "JACK & JONES JACCOLOMBIA Tie Noos Corbata, Negro (Black DetailSolid), Talla única para Hombre")
+[![JACK & JONES JACCOLOMBIA Tie Noos Corbata, Negro (Black Detail/Solid), Talla única para Hombre](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQllXSlZSRXRPV2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyMzMyNA=)](https://www.amazon.es/dp/B0723BTGPS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "JACK & JONES JACCOLOMBIA Tie Noos Corbata, Negro (Black DetailSolid), Talla única para Hombre")
 
 [JACK & JONES JACCOLOMBIA Tie Noos Corbata, Negro (Black Detail/Solid), Talla única para Hombre](https://www.amazon.es/dp/B0723BTGPS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "JACK & JONES JACCOLOMBIA Tie Noos Corbata, Negro (Black Detail/Solid), Talla única para Hombre")
 

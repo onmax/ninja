@@ -1,16 +1,17 @@
 ---
-title: OMAD: el arte de hacer una comida al día
+title: "OMAD: el arte de hacer una comida al día"
 subtitle: Cómo y por qué comer una vez al día
 url: https://pau.ninja/comer-una-vez-al-dia
 slug: comer-una-vez-al-dia
-categories: 
+categories: []
 image: comiendo-de-un-bocado.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/comiendo-de-un-bocado.jpeg
 publishedAt: 2021-10-05T07:26:43.000Z
 modifiedAt: 2024-02-07T14:52:13.000Z
-scrappedAt: 2024-11-04T11:51:53.655Z
+scrappedAt: 2024-11-05T04:31:56.967Z
 audioLink: https://www.ivoox.com/omad-arte-hacer-comida-al_md_72046999_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Varias semanas atrás me di cuenta que había empezado a comer con **menos frecuencia**, y hago énfasis en la palabra «frecuencia» porque esto no significa (para nada) que comiera menos. Ni en cantidad, ni en calorías, ni en nutrientes.

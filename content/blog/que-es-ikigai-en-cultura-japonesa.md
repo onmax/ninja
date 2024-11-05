@@ -1,16 +1,17 @@
 ---
 title: El ikigai (no) es tu propósito de vida
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/que-es-ikigai-en-cultura-japonesa
 slug: que-es-ikigai-en-cultura-japonesa
-categories: 
+categories: []
 image: persona-apasionada.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/05/persona-apasionada.jpeg
 publishedAt: 2023-05-13T05:09:56.000Z
 modifiedAt: 2023-12-03T05:47:02.000Z
-scrappedAt: 2024-11-04T11:39:57.705Z
+scrappedAt: 2024-11-05T04:29:01.552Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/71402979/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-5-1%2F332787039-44100-2-62a26253df252.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Si estás metidos en el desarrollo personal seguro que te suena la palabra «ikigai». Un concepto japonés que occidente ha traducido **erróneamente** como «propósito».

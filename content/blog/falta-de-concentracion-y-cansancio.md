@@ -1,16 +1,17 @@
 ---
-title: Zombies modernos: cansados, sin memoria y con falta de concentración
+title: "Zombies modernos: cansados, sin memoria y con falta de concentración"
 subtitle: (soluciona la falta de memoria y cansancio)
 url: https://pau.ninja/falta-de-concentracion-y-cansancio
 slug: falta-de-concentracion-y-cansancio
-categories: 
+categories: []
 image: persona-con-falta-de-concentracion.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/persona-con-falta-de-concentracion.jpeg
 publishedAt: 2022-10-03T14:19:28.000Z
 modifiedAt: 2023-09-21T05:20:02.000Z
-scrappedAt: 2024-11-04T11:42:41.838Z
+scrappedAt: 2024-11-05T04:30:08.418Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61686434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-5%2F301146823-44100-2-20dd220a8d022.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 No importa con quien hables… la mayoría te dirá que «viven cansada». Les falta capacidad de concentración, memoria, energía y se sienten letárgicos.

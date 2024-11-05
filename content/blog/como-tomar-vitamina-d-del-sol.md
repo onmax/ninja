@@ -1,16 +1,17 @@
 ---
-title: Vitamina del sol: los secretos de empezar (ya) la exposición
+title: "Vitamina del sol: los secretos de empezar (ya) la exposición"
 subtitle: ...una guía de cómo tomar vitamina D del sol
 url: https://pau.ninja/como-tomar-vitamina-d-del-sol
 slug: como-tomar-vitamina-d-del-sol
-categories: 
+categories: []
 image: hombre-calvo-tomando-el-sol.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/hombre-calvo-tomando-el-sol.jpeg
 publishedAt: 2023-03-14T06:33:02.000Z
 modifiedAt: 2023-09-04T15:31:43.000Z
-scrappedAt: 2024-11-04T11:40:46.482Z
+scrappedAt: 2024-11-05T04:29:18.150Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/66788371/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-17%2F318701447-44100-2-0480030ef7f0f.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ha llegado el momento que estábamos esperando. El momento que llevamos avisando desde hace un año, ninjas de la vida.
@@ -182,7 +183,7 @@ Anteriormente ya os había comentado [un truco para ponerse moreno rápidamente]
 
 El truco se trata de usar (no consumir, sino usar) un suplemento líquido de vitamina D3 con el máximo de unidades internacionales posibles. El que compro yo tiene 1.000 por gota (…).
 
-[![Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGM1JEaFJXV0pMVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MzAwNg=)](https://www.amazon.es/dpB07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
+[![Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGM1JEaFJXV0pMVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzc1Nw=)](https://www.amazon.es/dpB07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
 
 [Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...](https://www.amazon.es/dp/B07LFHLK9M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Vitamina D3 en gotas - 5000 U.I. por 5 gotas - 50ml (líquido) en aceite MCT de coco - Altamente...")
 

@@ -3,14 +3,15 @@ title: La anti-lista de la compra del Mercadona
 subtitle: (Verdaderos) alimentos malos para la salud
 url: https://pau.ninja/alimentos-malos-para-la-salud
 slug: alimentos-malos-para-la-salud
-categories: 
+categories: []
 image: asustado-con-lista-de-compra.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/asustado-con-lista-de-compra.jpeg
 publishedAt: 2021-10-13T06:03:41.000Z
 modifiedAt: 2024-02-07T15:51:04.000Z
-scrappedAt: 2024-11-04T11:49:49.942Z
+scrappedAt: 2024-11-05T04:31:47.656Z
 audioLink: https://www.ivoox.com/anti-lista-compra-del-mercadona_md_77222342_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Si utilizáis el buscador para sacar una lista de los alimentos malos para la salud, os encontraréis con artículos que enlazan a menos referencias científicas que pelo tengo en mi cabeza.

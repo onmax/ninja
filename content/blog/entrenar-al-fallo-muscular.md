@@ -1,16 +1,17 @@
 ---
-title: Fallo muscular: el arte de entrenar menos… y ganar más músculo
+title: "Fallo muscular: el arte de entrenar menos… y ganar más músculo"
 subtitle: (cómo gane masa muscular y fuerza entrenando poco)
 url: https://pau.ninja/entrenar-al-fallo-muscular
 slug: entrenar-al-fallo-muscular
-categories: 
+categories: []
 image: persona-llegando-a-fallo-muscular.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/11/persona-llegando-a-fallo-muscular.jpeg
 publishedAt: 2022-11-01T09:42:30.000Z
 modifiedAt: 2023-02-18T08:24:50.000Z
-scrappedAt: 2024-11-04T11:42:19.628Z
+scrappedAt: 2024-11-05T04:29:54.324Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61322666/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2F299683323-44100-2-a60a35126ee1c.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Veréis, este último año me había obsesionado con el gimnasio. No tanto con los resultados (que también, porque para mí es importante estar buenorro delante del espejo), sino con el hábito de estar allí. A modo de práctica de la atención plena (#404).

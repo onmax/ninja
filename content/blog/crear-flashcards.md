@@ -3,14 +3,15 @@ title: Memorízalo todo
 subtitle: mi sistema de flashcards para retener información
 url: https://pau.ninja/crear-flashcards
 slug: crear-flashcards
-categories: 
+categories: []
 image: hacer-flashcards.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/hacer-flashcards.jpeg
 publishedAt: 2024-02-27T10:36:51.000Z
 modifiedAt: 2024-08-10T19:22:26.000Z
-scrappedAt: 2024-11-04T11:14:04.481Z
+scrappedAt: 2024-11-05T04:27:29.402Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85538643/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-17%2F374625181-44100-2-17ce517ad03f9.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ninjas de la vida, libros, vídeos y podcast están genial para aprender, pero seguro que os ha pasado que meses o incluso años más tarde te das cuenta que has olvidado un dato importante que _antes sabías_.

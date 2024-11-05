@@ -3,14 +3,15 @@ title: Mercado sexual
 subtitle: qué (no) buscan las mujeres en un hombre
 url: https://pau.ninja/que-busca-una-mujer-en-un-hombre
 slug: que-busca-una-mujer-en-un-hombre
-categories: 
+categories: []
 image: hombre-seduciendo-a-mujer.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/03/hombre-seduciendo-a-mujer.jpeg
 publishedAt: 2024-01-26T07:32:19.000Z
 modifiedAt: 2024-01-26T08:10:53.000Z
-scrappedAt: 2024-11-04T11:14:47.574Z
+scrappedAt: 2024-11-05T04:27:42.884Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/68030619/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-3-5%2F322365571-44100-2-450fd46d52197.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Aunque nos digan lo contrario, el mercado sexual está completamente guiado por nuestros instintos evolutivos.

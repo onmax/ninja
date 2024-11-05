@@ -1,16 +1,16 @@
 ---
 title: Las mejores cuentas de fondeo de 2024
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/mejores-cuentas-de-fondeo-trading
 slug: mejores-cuentas-de-fondeo-trading
-categories: 
+categories: []
 image: trader-con-las-mejores-cuentas-de-fondeo.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/trader-con-las-mejores-cuentas-de-fondeo.jpg
 publishedAt: 2024-03-09T03:27:37.000Z
 modifiedAt: 2024-07-11T03:46:19.000Z
-scrappedAt: 2024-11-04T11:13:51.196Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:27:23.725Z
+bibliography: []
+
 ---
 
 Si ya sabes [qué son las cuentas de fondeo](./que-son-las-cuentas-de-fondeo) ahora toca elegir las mejores.

@@ -1,16 +1,17 @@
 ---
-title: Viral en TikTok: los secretos de tener 100.000 seguidores
+title: "Viral en TikTok: los secretos de tener 100.000 seguidores"
 subtitle: (cómo crecer y triunfar con contenido corto)
 url: https://pau.ninja/como-hacerse-viral-en-tiktok
 slug: como-hacerse-viral-en-tiktok
-categories: 
+categories: []
 image: usuario-viral-en-tiktok.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/02/usuario-viral-en-tiktok.jpeg
 publishedAt: 2023-02-12T09:07:29.000Z
 modifiedAt: 2023-03-19T18:11:48.000Z
-scrappedAt: 2024-11-04T11:41:05.268Z
+scrappedAt: 2024-11-05T04:29:23.898Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/66363938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2023-2-11%2F317405844-44100-2-b337293adad16.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Todo empezó cuando a finales de septiembre me abrí [mi cuenta de TikTok](https://www.tiktok.com/@pau_ninja) y le dije a Juan (mi amigo y editor audiovisual) que ahora haríamos vídeos cortos como estrategia para llegar a más audiencia al podcast.

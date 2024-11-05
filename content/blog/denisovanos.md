@@ -1,16 +1,17 @@
 ---
-title: La niña Denny: madre neandertal… pero padre denisovano
+title: "La niña Denny: madre neandertal… pero padre denisovano"
 subtitle: ¿Es el hombre de denisova un eslabón perdido?
 url: https://pau.ninja/denisovanos
 slug: denisovanos
-categories: 
+categories: []
 image: denisovanos.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/12/denisovanos.jpeg
 publishedAt: 2021-12-02T07:52:23.000Z
 modifiedAt: 2023-06-26T19:29:01.000Z
-scrappedAt: 2024-11-04T11:49:08.304Z
+scrappedAt: 2024-11-05T04:31:23.861Z
 audioLink: https://www.ivoox.com/nina-denny-madre-neandertal-pero-padre-denisovano_md_79110698_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Durante mucho tiempo pensamos que los neandertales eran humanos inferiores. Prrimitivos. Totalmente estúpidos. Que se movían como un mono o una girafa acabada de nacer.

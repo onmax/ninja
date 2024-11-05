@@ -1,16 +1,17 @@
 ---
-title: Patrón oro: la historia económica «es el futuro»
+title: "Patrón oro: la historia económica «es el futuro»"
 subtitle: (qué es y por qué habrá un retorno en la actualidad)
 url: https://pau.ninja/patron-oro-actualidad
 slug: patron-oro-actualidad
-categories: 
+categories: []
 image: dolar-con-oro.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/dolar-con-oro.jpg
 publishedAt: 2020-11-04T12:39:24.000Z
 modifiedAt: 2023-06-08T15:00:23.000Z
-scrappedAt: 2024-11-04T11:56:59.166Z
+scrappedAt: 2024-11-05T04:33:09.101Z
 audioLink: https://www.ivoox.com/patron-oro-historia-economica-es-futuro_md_53827313_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Nos ha quedado claro por qué el oro es un valor refugio, pero lo que muchos de los que me siguen no saben es que **el oro, pasó a ser refugio porque dejó de ser dinero** y nunca se perdió su confianza en él.

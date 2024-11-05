@@ -3,15 +3,17 @@ title: Subiendo el valor de mi Bitcoin (despacito)
 subtitle: La estrategia Dollar Cost Averaging (DCA) para el largo plazo.
 url: https://pau.ninja/dca-que-es-inversion
 slug: dca-que-es-inversion
-categories: 
+categories: []
 image: bitcoin-y-grafico-estrategico.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/11/bitcoin-y-grafico-estrategico.jpg
 publishedAt: 2021-11-26T09:05:37.000Z
 modifiedAt: 2024-02-11T06:33:56.000Z
-scrappedAt: 2024-11-04T11:49:13.982Z
+scrappedAt: 2024-11-05T04:31:26.925Z
 audioLink: https://www.ivoox.com/subiendo-valor-mi-bitcoin-despacito_md_78916889_wp_1.mp3
-bibliography: de junio
-de febrero
+bibliography:
+  - de junio
+  - de febrero
+
 ---
 
 Si la inversión fuera un juego, sería un juego de rol. Uno de esos largo en el que tienes que calcular cada paso que vas dando para que después no tengas que arrepentirte con un: «joeer, ¿por qué elegí el camino de la derecha y no el de la izquierda? ¡ahora ya es demasiado tarde para ir hacia atrás!».

@@ -3,14 +3,15 @@ title: La droga de Dios
 subtitle: Por qué los viajes psicodélicos parecen experiencias cercanas a la muerte
 url: https://pau.ninja/psicodelicos
 slug: psicodelicos
-categories: 
+categories: []
 image: experiencia-psicodelica.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/experiencia-psicodelica.jpeg
 publishedAt: 2020-11-29T10:35:06.000Z
 modifiedAt: 2023-08-13T08:17:45.000Z
-scrappedAt: 2024-11-04T11:56:33.325Z
+scrappedAt: 2024-11-05T04:32:59.108Z
 audioLink: https://www.ivoox.com/drogas-alucinogenas-o-puerta-a-otra-realidad_md_80277705_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 _Te recomiendo leer esta primera introducción. Me la he trabajado mucho, pero si lo prefieres, puedes saltar más abajo a [la lista de drogas psicodélicas](#Lista_de_tipos_de_drogas_psicodelicas) directamente._
@@ -165,7 +166,7 @@ El [documental](https://www.bbc.co.uk/programmes/p00tcz6w) de la BBC _How Art Ma
 
 Y tanto este documental como los estudios académicos o algunos [artículos](http://thirdmonk.net/knowledge/psychedelics-cave-paintings.html) intentan responder por qué se parecen tanto algunos artistas de las cavernas con los de los sujetos de los _papers_ de investigación de psicodélicos de los años 60.
 
-[![Supernatural: Meetings with the Ancient Teachers of Mankind](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGNlVsVXhTRVpHTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDE5Mg=)](https://www.amazon.es/dp0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Supernatural: Meetings with the Ancient Teachers of Mankind")
+[![Supernatural: Meetings with the Ancient Teachers of Mankind](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGNlVsVXhTRVpHTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzIyOQ=)](https://www.amazon.es/dp0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Supernatural: Meetings with the Ancient Teachers of Mankind")
 
 [Supernatural: Meetings with the Ancient Teachers of Mankind](https://www.amazon.es/dp/0099474158?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Supernatural: Meetings with the Ancient Teachers of Mankind")
 
@@ -244,7 +245,7 @@ Paralelismos del cristianismo y setas mágicas.
 
 Según Allegro la palabra Jesús, venía de la lingüística **sumeria** que significa seta cubierta por el semen de Dios. Y la idea era que la lluvia, que hace que todo crezca, que hace salir setas de un día para otro, eran los fluidos de Dios.
 
-[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDE5Mg=)](https://www.amazon.es/dp0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
+[![The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR1owVXJUMEpFUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzIyOQ=)](https://www.amazon.es/dp0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
 [The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...](https://www.amazon.es/dp/0982556276?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Sacred Mushroom and The Cross: A study of the nature and origins of Christianity within the...")
 
@@ -370,7 +371,7 @@ Saltamos de lo sintético al campo, donde nos encontramos con una especie de cac
 
 Ahora mismo rebajado
 
-[![Puertas de la percepcion: 20 (Pocket)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUGRDdHBUemhUVjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDE5Mg=)](https://www.amazon.es/dp8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Puertas de la percepcion: 20 (Pocket)")
+[![Puertas de la percepcion: 20 (Pocket)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUGRDdHBUemhUVjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzIyOQ=)](https://www.amazon.es/dp8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Puertas de la percepcion: 20 (Pocket)")
 
 [Puertas de la percepcion: 20 (Pocket)](https://www.amazon.es/dp/8435018601?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Puertas de la percepcion: 20 (Pocket)")
 
@@ -500,7 +501,7 @@ Ya no sólo la Ayahuasca, pero las drogas psicodélicas en general.
 
 Ahora mismo rebajado
 
-[![How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU56QlZPRnBVZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDE5Mg=)](https://www.amazon.es/dp0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...")
+[![How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbU56QlZPRnBVZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzIyOQ=)](https://www.amazon.es/dp0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...")
 
 [How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...](https://www.amazon.es/dp/0735224153?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How to Change Your Mind: What the New Science of Psychedelics Teaches Us About Consciousness, Dying,...")
 

@@ -1,16 +1,17 @@
 ---
-title: Pau Ninja: el nacimiento de mi marca personal
+title: "Pau Ninja: el nacimiento de mi marca personal"
 subtitle: Qué es, cómo construirla y mejorarla
 url: https://pau.ninja/como-crear-una-marca-personal
 slug: como-crear-una-marca-personal
-categories: 
+categories: []
 image: creando-marca-personal.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/02/creando-marca-personal.jpg
 publishedAt: 2022-02-16T15:27:21.000Z
 modifiedAt: 2023-09-25T14:26:30.000Z
-scrappedAt: 2024-11-04T11:48:47.269Z
+scrappedAt: 2024-11-05T04:31:17.116Z
 audioLink: https://www.ivoox.com/pau-ninja-nacimiento-mi-marca-personal_md_82811786_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Durante el verano de 2017 compré un dominio que cambió mi vida para siempre.

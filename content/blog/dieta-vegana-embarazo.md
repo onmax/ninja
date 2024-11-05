@@ -1,16 +1,17 @@
 ---
-title: La infertilidad vegana: adiós al embarazo, bebé y hormonas
+title: "La infertilidad vegana: adiós al embarazo, bebé y hormonas"
 subtitle: (incluso una dieta vegetariana es malo para el embarazo)
 url: https://pau.ninja/dieta-vegana-embarazo
 slug: dieta-vegana-embarazo
-categories: 
+categories: []
 image: vegano-infertil.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/09/vegano-infertil.jpeg
 publishedAt: 2022-09-08T09:14:14.000Z
 modifiedAt: 2024-02-28T06:37:35.000Z
-scrappedAt: 2024-11-04T11:42:57.853Z
+scrappedAt: 2024-11-05T04:30:14.975Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/58846698/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-9-10%2F290313978-44100-2-c2486bebe06ba.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 ¿Por qué cada vez hay más cesáreas y infertilidad? Ya son 1 de cada 4 de parejas las que no pueden engendrar. Por esto las clínicas de reproducción asistida crecen a un 5-10% **cada año**.

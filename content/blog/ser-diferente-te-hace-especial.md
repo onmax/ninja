@@ -3,15 +3,18 @@ title: El factor contrarian
 subtitle: o por qué pensar distinto te hará ganar
 url: https://pau.ninja/ser-diferente-te-hace-especial
 slug: ser-diferente-te-hace-especial
-categories: 
+categories: []
 image: persona-diferente-al-resto.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-diferente-al-resto.jpg
 publishedAt: 2024-05-24T04:29:49.000Z
 modifiedAt: 2024-08-10T19:39:46.000Z
-scrappedAt: 2024-11-04T11:12:13.958Z
+scrappedAt: 2024-11-05T04:26:46.594Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/87258205/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-27%2F378884494-44100-2-f4d93901ea44b.mp3
-bibliography: https://x.com/paulkrugman
-“Business Professor’s Investment Firm Loses $100 Billion | News | the Harvard Crimson.” 2024. Thecrimson.com.
+bibliography:
+  - https://x.com/paulkrugman
+  - “Business Professor’s Investment Firm Loses $100 Billion | News | the
+    Harvard Crimson.” 2024. Thecrimson.com.
+
 ---
 
 Ser contrario al resto no es ser diferente _por serlo_, sino que se trata de…

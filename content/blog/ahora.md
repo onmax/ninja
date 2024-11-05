@@ -3,14 +3,14 @@ title: Ahora mismo
 subtitle: Qué estoy haciendo en este momento
 url: https://pau.ninja/ahora
 slug: ahora
-categories: 
+categories: []
 image: ahora.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2018/01/ahora.jpg
 publishedAt: 2020-01-01T04:36:00.000Z
 modifiedAt: 2024-02-21T06:43:05.000Z
-scrappedAt: 2024-11-04T11:57:14.509Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:33:16.249Z
+bibliography: []
+
 ---
 
 _Última actualización: octubre de 2024_

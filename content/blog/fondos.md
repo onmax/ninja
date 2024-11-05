@@ -3,14 +3,16 @@ title: Activo en la cama, pero pasivo en la inversión
 subtitle: Guía de los mejores fondos indexados de 2024
 url: https://pau.ninja/fondos
 slug: fondos
-categories: 
+categories: []
 image: inversion-con-movil.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2019/01/inversion-con-movil.jpg
 publishedAt: 2019-01-03T14:46:00.000Z
 modifiedAt: 2023-09-29T05:46:38.000Z
-scrappedAt: 2024-11-04T11:57:16.159Z
+scrappedAt: 2024-11-05T04:33:16.738Z
 audioLink: https://www.ivoox.com/activo-cama-pero-pasivo-la_md_60836174_wp_1.mp3
-bibliography: – edad que tengo = **% de renta variable**
+bibliography:
+  - – edad que tengo = **% de renta variable**
+
 ---
 
 Vamos a ver como invertir en fondos indexados **de 0 a 100**.

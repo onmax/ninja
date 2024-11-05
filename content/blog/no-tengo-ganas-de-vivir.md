@@ -3,31 +3,82 @@ title: Sin ganas de vivir
 subtitle: o cómo recuperar la felicidad (20 estudios)
 url: https://pau.ninja/no-tengo-ganas-de-vivir
 slug: no-tengo-ganas-de-vivir
-categories: 
+categories: []
 image: deprimido-llorando.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/02/deprimido-llorando.jpeg
 publishedAt: 2024-03-01T07:17:19.000Z
 modifiedAt: 2024-07-13T05:51:20.000Z
-scrappedAt: 2024-11-04T11:13:59.686Z
-audioLink: undefined
-bibliography: GBD 2015 Mortality and Causes of Death Collaborators (8 October 2016). «Global, regional, and national life expectancy, all-cause mortality, and cause-specific mortality for 249 causes of death, 1980-2015: a systematic analysis for the Global Burden of Disease Study 2015». Lancet. 388 (10053): 1459–1544.
-Cibis, Anna; Mergl, Roland; Bramesfeld, Anke; Althaus, David; Niklewski, Günter; Schmidtke, Armin; Hegerl, Ulrich (2012-01-01). «Preference of lethal methods is not the only cause for higher suicide rates in males». Journal of Affective Disorders. 136 (1): 9–16.
-Phillips C. Brain-Derived Neurotrophic Factor, Depression, and Physical Activity: Making the Neuroplastic Connection. Neural Plast. 2017;2017:7260130. doi: 10.1155/2017/7260130. Epub 2017 Aug 8. PMID: 28928987; PMCID: PMC5591905.
-Kious, B.M.; Kondo, D.G.; Renshaw, P.F. Creatine for the Treatment of Depression. Biomolecules 2019, 9, 406. https://doi.org/10.3390/biom9090406
-Lyoo IK, Yoon S, Kim TS, Hwang J, Kim JE, Won W, Bae S, Renshaw PF. A randomized, double-blind placebo-controlled trial of oral creatine monohydrate augmentation for enhanced response to a selective serotonin reuptake inhibitor in women with major depressive disorder. Am J Psychiatry. 2012 Sep;169(9):937-945. doi: 10.1176/appi.ajp.2012.12010009. PMID: 22864465; PMCID: PMC4624319.
-Kris-Etherton PM, Petersen KS, Hibbeln JR, Hurley D, Kolick V, Peoples S, Rodriguez N, Woodward-Lopez G. Nutrition and behavioral health disorders: depression and anxiety. Nutr Rev. 2021 Feb 11;79(3):247-260. doi: 10.1093/nutrit/nuaa025. PMID: 32447382; PMCID: PMC8453603.
-Holmes, Sophie E, Rainer Hinz, Silke Conen, Catherine J Gregory, Julian C Matthews, Jose M Anton-Rodriguez, Alexander Gerhard, and Peter S Talbot. 2018. “Elevated Translocator Protein in Anterior Cingulate in Major Depression and a Role for Inflammation in Suicidal Thinking: A Positron Emission Tomography Study.” Biological Psychiatry 83 (1). Elsevier BV: 61–69. doi:https://doi.org/10.1016/j.biopsych.2017.08.005. ‌
-Paolucci EM, Loukov D, Bowdish DME, Heisz JJ. Exercise reduces depression and inflammation but intensity matters. Biol Psychol. 2018 Mar;133:79-84. doi: 10.1016/j.biopsycho.2018.01.015. Epub 2018 Feb 3. PMID: 29408464.
-Mead MN. Benefits of sunlight: a bright spot for human health. Environ Health Perspect. 2008 Apr;116(4):A160-7. doi: 10.1289/ehp.116-a160. Erratum in: Environ Health Perspect. 2008 May;116(5):A197. PMID: 18414615; PMCID: PMC2290997.
-Blume C, Garbazza C, Spitschan M. Effects of light on human circadian rhythms, sleep and mood. Somnologie (Berl). 2019 Sep;23(3):147-156. doi: 10.1007/s11818-019-00215-x. Epub 2019 Aug 20. PMID: 31534436; PMCID: PMC6751071.
-An M, Colarelli SM, O’Brien K, Boyajian ME. Why We Need More Nature at Work: Effects of Natural Elements and Sunlight on Employee Mental Health and Work Attitudes. PLoS One. 2016 May 23;11(5):e0155614. doi: 10.1371/journal.pone.0155614. PMID: 27214041; PMCID: PMC4877070.
-Molendijk ML, Haffmans JP, Bus BA, Spinhoven P, Penninx BW, Prickaerts J, Oude Voshaar RC, Elzinga BM. Serum BDNF concentrations show strong seasonal variation and correlations with the amount of ambient sunlight. PLoS One. 2012;7(11):e48046. doi: 10.1371/journal.pone.0048046. Epub 2012 Nov 2. PMID: 23133609; PMCID: PMC3487856.
-Tatár P, Tureceková A. Effect of natural sunlight on adrenaline and noradrenaline excretion in man. Exp Clin Endocrinol. 1987 Aug;90(1):126-8. doi: 10.1055/s-0029-1210683. PMID: 3666056.
-Kent ST, McClure LA, Crosson WL, Arnett DK, Wadley VG, Sathiakumar N. Effect of sunlight exposure on cognitive function among depressed and non-depressed participants: a REGARDS cross-sectional study. Environ Health. 2009 Jul 28;8:34. doi: 10.1186/1476-069X-8-34. PMID: 19638195; PMCID: PMC2728098.
-Kent ST, McClure LA, Crosson WL, Arnett DK, Wadley VG, Sathiakumar N. Effect of sunlight exposure on cognitive function among depressed and non-depressed participants: a REGARDS cross-sectional study. Environ Health. 2009 Jul 28;8:34. doi: 10.1186/1476-069X-8-34. PMID: 19638195; PMCID: PMC2728098.
-“Harvardstudy.” 2016.
-Sample, Ian. 2010. “The Price of Happiness? £50,000pa.” The Guardian.
-Grewal, Daisy. 2014. “A Happy Life May Not Be a Meaningful Life.” Scientific American.
+scrappedAt: 2024-11-05T04:27:28.973Z
+bibliography:
+  - "GBD 2015 Mortality and Causes of Death Collaborators (8 October 2016).
+    «Global, regional, and national life expectancy, all-cause mortality, and
+    cause-specific mortality for 249 causes of death, 1980-2015: a systematic
+    analysis for the Global Burden of Disease Study 2015». Lancet. 388 (10053):
+    1459–1544."
+  - "Cibis, Anna; Mergl, Roland; Bramesfeld, Anke; Althaus, David; Niklewski,
+    Günter; Schmidtke, Armin; Hegerl, Ulrich (2012-01-01). «Preference of lethal
+    methods is not the only cause for higher suicide rates in males». Journal of
+    Affective Disorders. 136 (1): 9–16."
+  - "Phillips C. Brain-Derived Neurotrophic Factor, Depression, and Physical
+    Activity: Making the Neuroplastic Connection. Neural Plast.
+    2017;2017:7260130. doi: 10.1155/2017/7260130. Epub 2017 Aug 8. PMID:
+    28928987; PMCID: PMC5591905."
+  - Kious, B.M.; Kondo, D.G.; Renshaw, P.F. Creatine for the Treatment of
+    Depression. Biomolecules 2019, 9, 406. https://doi.org/10.3390/biom9090406
+  - "Lyoo IK, Yoon S, Kim TS, Hwang J, Kim JE, Won W, Bae S, Renshaw PF. A
+    randomized, double-blind placebo-controlled trial of oral creatine
+    monohydrate augmentation for enhanced response to a selective serotonin
+    reuptake inhibitor in women with major depressive disorder. Am J Psychiatry.
+    2012 Sep;169(9):937-945. doi: 10.1176/appi.ajp.2012.12010009. PMID:
+    22864465; PMCID: PMC4624319."
+  - "Kris-Etherton PM, Petersen KS, Hibbeln JR, Hurley D, Kolick V, Peoples S,
+    Rodriguez N, Woodward-Lopez G. Nutrition and behavioral health disorders:
+    depression and anxiety. Nutr Rev. 2021 Feb 11;79(3):247-260. doi:
+    10.1093/nutrit/nuaa025. PMID: 32447382; PMCID: PMC8453603."
+  - "Holmes, Sophie E, Rainer Hinz, Silke Conen, Catherine J Gregory, Julian C
+    Matthews, Jose M Anton-Rodriguez, Alexander Gerhard, and Peter S Talbot.
+    2018. “Elevated Translocator Protein in Anterior Cingulate in Major
+    Depression and a Role for Inflammation in Suicidal Thinking: A Positron
+    Emission Tomography Study.” Biological Psychiatry 83 (1). Elsevier BV:
+    61–69. doi:https://doi.org/10.1016/j.biopsych.2017.08.005. ‌"
+  - "Paolucci EM, Loukov D, Bowdish DME, Heisz JJ. Exercise reduces depression
+    and inflammation but intensity matters. Biol Psychol. 2018 Mar;133:79-84.
+    doi: 10.1016/j.biopsycho.2018.01.015. Epub 2018 Feb 3. PMID: 29408464."
+  - "Mead MN. Benefits of sunlight: a bright spot for human health. Environ
+    Health Perspect. 2008 Apr;116(4):A160-7. doi: 10.1289/ehp.116-a160. Erratum
+    in: Environ Health Perspect. 2008 May;116(5):A197. PMID: 18414615; PMCID:
+    PMC2290997."
+  - "Blume C, Garbazza C, Spitschan M. Effects of light on human circadian
+    rhythms, sleep and mood. Somnologie (Berl). 2019 Sep;23(3):147-156. doi:
+    10.1007/s11818-019-00215-x. Epub 2019 Aug 20. PMID: 31534436; PMCID:
+    PMC6751071."
+  - "An M, Colarelli SM, O’Brien K, Boyajian ME. Why We Need More Nature at
+    Work: Effects of Natural Elements and Sunlight on Employee Mental Health and
+    Work Attitudes. PLoS One. 2016 May 23;11(5):e0155614. doi:
+    10.1371/journal.pone.0155614. PMID: 27214041; PMCID: PMC4877070."
+  - "Molendijk ML, Haffmans JP, Bus BA, Spinhoven P, Penninx BW, Prickaerts J,
+    Oude Voshaar RC, Elzinga BM. Serum BDNF concentrations show strong seasonal
+    variation and correlations with the amount of ambient sunlight. PLoS One.
+    2012;7(11):e48046. doi: 10.1371/journal.pone.0048046. Epub 2012 Nov 2. PMID:
+    23133609; PMCID: PMC3487856."
+  - "Tatár P, Tureceková A. Effect of natural sunlight on adrenaline and
+    noradrenaline excretion in man. Exp Clin Endocrinol. 1987 Aug;90(1):126-8.
+    doi: 10.1055/s-0029-1210683. PMID: 3666056."
+  - "Kent ST, McClure LA, Crosson WL, Arnett DK, Wadley VG, Sathiakumar N.
+    Effect of sunlight exposure on cognitive function among depressed and
+    non-depressed participants: a REGARDS cross-sectional study. Environ Health.
+    2009 Jul 28;8:34. doi: 10.1186/1476-069X-8-34. PMID: 19638195; PMCID:
+    PMC2728098."
+  - "Kent ST, McClure LA, Crosson WL, Arnett DK, Wadley VG, Sathiakumar N.
+    Effect of sunlight exposure on cognitive function among depressed and
+    non-depressed participants: a REGARDS cross-sectional study. Environ Health.
+    2009 Jul 28;8:34. doi: 10.1186/1476-069X-8-34. PMID: 19638195; PMCID:
+    PMC2728098."
+  - “Harvardstudy.” 2016.
+  - Sample, Ian. 2010. “The Price of Happiness? £50,000pa.” The Guardian.
+  - Grewal, Daisy. 2014. “A Happy Life May Not Be a Meaningful Life.” Scientific
+    American.
+
 ---
 
 Hace poco una amiga me dijo que ahora que había dejado el trabajo estaba durmiendo 13 horas al día.
@@ -229,7 +280,7 @@ No es que su libro «El Hombre en Busca de Sentido» me hiciera dar cuenta de lo
 
 Ahora mismo rebajado
 
-[![El Hombre en busca de Sentido (SIN COLECCION)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNGEwOUNkamxTYmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTYzOA=)](https://www.amazon.es/dp8425432022?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Hombre en busca de Sentido (SIN COLECCION)")
+[![El Hombre en busca de Sentido (SIN COLECCION)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNGEwOUNkamxTYmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzY0Nw=)](https://www.amazon.es/dp8425432022?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Hombre en busca de Sentido (SIN COLECCION)")
 
 [El Hombre en busca de Sentido (SIN COLECCION)](https://www.amazon.es/dp/8425432022?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Hombre en busca de Sentido (SIN COLECCION)")
 

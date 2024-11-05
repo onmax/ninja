@@ -3,20 +3,33 @@ title: Espalda «calistética»
 subtitle: Los mejores ejercicios de espalda en calistenia
 url: https://pau.ninja/ejercicios-espalda-calistenia
 slug: ejercicios-espalda-calistenia
-categories: 
+categories: []
 image: persona-con-espalda-de-calistenia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-con-espalda-de-calistenia.jpeg
 publishedAt: 2024-04-05T06:13:03.000Z
 modifiedAt: 2024-08-14T06:44:10.000Z
-scrappedAt: 2024-11-04T11:13:15.553Z
-audioLink: undefined
-bibliography: Lum, D., Barbosa, T. M., & Brett, S. (2020). Isometric strength training benefits on static and dynamic performance: A systematic review. _Strength and Conditioning Journal, 42_(5), 58-70
-Häkkinen, K., & Komi, P. V. (1983). Electromyographic changes during strength training and detraining. Medicine & Science in Sports & Exercise, 15(6), 455-460.
-Gandevia, S. C. (2001). Spinal and supraspinal factors in human muscle fatigue. Physiological Reviews, 81(4), 1725-1789.
-Kamp, J. (2013). Hysterical strength: The untapped potential of human muscle. Medical Hypotheses, 81(4), 524-529.
-Allen, G. M., Gandevia, S. C., & McKenzie, D. K. (1995). Reliability of measurements of muscle strength and voluntary activation using twitch interpolation. Muscle & Nerve, 18(6), 593-600.
-Kubo, K., Kanehisa, H., & Fukunaga, T. (2001). Effects of different duration isometric contractions on tendon elasticity in human quadriceps muscles. _Journal of Physiology, 536_(2), 649-655
-Babault, N., Desbrosses, K., Fabre, M. S., Michaut, A., & Pousson, M. (2006). Neuromuscular fatigue development during maximal concentric and isometric knee extensions. _Journal of Applied Physiology, 100_(3), 780-785
+scrappedAt: 2024-11-05T04:27:10.705Z
+bibliography:
+  - "Lum, D., Barbosa, T. M., & Brett, S. (2020). Isometric strength training
+    benefits on static and dynamic performance: A systematic review. _Strength
+    and Conditioning Journal, 42_(5), 58-70"
+  - Häkkinen, K., & Komi, P. V. (1983). Electromyographic changes during
+    strength training and detraining. Medicine & Science in Sports & Exercise,
+    15(6), 455-460.
+  - Gandevia, S. C. (2001). Spinal and supraspinal factors in human muscle
+    fatigue. Physiological Reviews, 81(4), 1725-1789.
+  - "Kamp, J. (2013). Hysterical strength: The untapped potential of human
+    muscle. Medical Hypotheses, 81(4), 524-529."
+  - Allen, G. M., Gandevia, S. C., & McKenzie, D. K. (1995). Reliability of
+    measurements of muscle strength and voluntary activation using twitch
+    interpolation. Muscle & Nerve, 18(6), 593-600.
+  - Kubo, K., Kanehisa, H., & Fukunaga, T. (2001). Effects of different duration
+    isometric contractions on tendon elasticity in human quadriceps muscles.
+    _Journal of Physiology, 536_(2), 649-655
+  - Babault, N., Desbrosses, K., Fabre, M. S., Michaut, A., & Pousson, M.
+    (2006). Neuromuscular fatigue development during maximal concentric and
+    isometric knee extensions. _Journal of Applied Physiology, 100_(3), 780-785
+
 ---
 
 Si pensamos en cómo entrenar la espalda en casa o al aire libre, usando autocargas o incluso en el gimnasio comercial, lo primero que le viene a la mente son las **dominadas**, ¿verdad?

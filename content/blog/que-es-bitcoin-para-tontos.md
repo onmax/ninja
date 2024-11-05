@@ -3,14 +3,15 @@ title: Bitcoin para tontos
 subtitle: Qué es y cómo funciona
 url: https://pau.ninja/que-es-bitcoin-para-tontos
 slug: que-es-bitcoin-para-tontos
-categories: 
+categories: []
 image: la-persona-con-mas-bitcoins.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/la-persona-con-mas-bitcoins.jpeg
 publishedAt: 2021-02-26T17:00:47.000Z
 modifiedAt: 2024-02-28T06:45:59.000Z
-scrappedAt: 2024-11-04T11:55:33.539Z
+scrappedAt: 2024-11-05T04:32:30.131Z
 audioLink: https://www.ivoox.com/bitcoin-para-tontos_md_66797636_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Dicen que cuando la abuela o el carpintero preguntan por la bolsa (o en este caso por Bitcoin), que es hora de vender y pasar a otra cosa.

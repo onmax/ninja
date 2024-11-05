@@ -3,14 +3,15 @@ title: Mi filosofía minimalista
 subtitle: (qué es y cómo la aplico a mi vida)
 url: https://pau.ninja/minimalista
 slug: minimalista
-categories: 
+categories: []
 image: rocas-en-mar-serena.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/rocas-en-mar-serena.jpg
 publishedAt: 2020-11-09T06:30:12.000Z
 modifiedAt: 2024-01-29T06:27:04.000Z
-scrappedAt: 2024-11-04T11:56:47.900Z
+scrappedAt: 2024-11-05T04:33:04.525Z
 audioLink: https://www.ivoox.com/mi-filosofi-769-a-minimalista_md_54287537_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 La filosofía minimalista es saber identificar aquello que **realmente necesitamos y despojarnos de todo lo demás**.
@@ -133,7 +134,7 @@ A ver. El capitalismo y los objetos en si mismos **no** son malos. Lo que hace d
 
 Es fácil verse envuelto en una espiral de _shopping_ sin darse cuenta. Aquí la función de la filosofía minimalista me incita a preguntarme si lo que estoy apunto de comprar **me aportará algún valor real**.
 
-[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIwNg=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
+[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk0MTgwMA=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
 [Minimalismo práctico: Vivir con menos para "ser más"](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
@@ -287,7 +288,7 @@ Exacto. El problema no estaba en el dinero que **no** tenían, pero en que no t
 
 ¿Y el minimalismo da abundancia? Suena a todo lo opuesto porque suena a «mínimo» a «poco».
 
-[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIwNg=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
+[![Minimalismo práctico: Vivir con menos para 'ser más'](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGUFRuQlRSVmN0ZUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk0MTgwMA=)](https://www.amazon.es/dpB0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
 [Minimalismo práctico: Vivir con menos para "ser más"](https://www.amazon.es/dp/B0793PYSKM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Minimalismo práctico: Vivir con menos para 'ser más'")
 
@@ -443,7 +444,7 @@ Antes comentaba una cita del filósofo Sócrates, hay similitudes en el estoicis
 
 Bestseller No. 1
 
-[![Walden: (Edición 2021)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGS2JFOVRVV0psZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDIwNg=)](https://www.amazon.es/dpB08WJRXBBM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=thoreau%20walden%20espa%C3%B1ol "Walden: (Edición 2021)")
+[![Walden: (Edición 2021)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGS2JFOVRVV0psZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk0MTgwMA=)](https://www.amazon.es/dpB08WJRXBBM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=thoreau%20walden%20espa%C3%B1ol "Walden: (Edición 2021)")
 
 [Walden: (Edición 2021)](https://www.amazon.es/dp/B08WJRXBBM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1&keywords=thoreau%20walden%20espa%C3%B1ol "Walden: (Edición 2021)")
 

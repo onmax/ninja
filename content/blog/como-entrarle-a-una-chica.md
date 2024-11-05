@@ -1,16 +1,17 @@
 ---
-title: Sin milongas: entrarle a una chica (en frío)
+title: "Sin milongas: entrarle a una chica (en frío)"
 subtitle: Cómo entrarle a una chica que no conoces
 url: https://pau.ninja/como-entrarle-a-una-chica
 slug: como-entrarle-a-una-chica
-categories: 
+categories: []
 image: entrarle-a-una-chica.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/entrarle-a-una-chica.jpeg
 publishedAt: 2021-09-28T06:19:27.000Z
 modifiedAt: 2023-08-29T05:20:00.000Z
-scrappedAt: 2024-11-04T11:54:51.592Z
+scrappedAt: 2024-11-05T04:32:18.332Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/52171778/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-4-18%2F266284000-44100-2-36e2b086f169f012.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Esta publicación cubre los **10 primeros segundos de la interacción**. Desde que ves a la chica, sientes que quieres conocerla y cómo hacerlo para ir a hablar con ella.
@@ -73,7 +74,7 @@ Toda la miiierda teórica que leamos en libros sobre desarrollo personal no nos 
 
 Ahora mismo rebajado
 
-[![Todo está jodido: Un libro sobre la esperanza (No ficción)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQ1YyTlZObXR5V0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4MDQwMA=)](https://www.amazon.es/dp8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está jodido: Un libro sobre la esperanza (No ficción)")
+[![Todo está jodido: Un libro sobre la esperanza (No ficción)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGQ1YyTlZObXR5V0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjAwMA=)](https://www.amazon.es/dp8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está jodido: Un libro sobre la esperanza (No ficción)")
 
 [Todo está jodido: Un libro sobre la esperanza (No ficción)](https://www.amazon.es/dp/8417968938?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Todo está jodido: Un libro sobre la esperanza (No ficción)")
 

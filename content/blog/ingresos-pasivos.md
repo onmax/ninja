@@ -3,15 +3,17 @@ title: Mis ingresos pasivos con 6 negocios
 subtitle: (pasos y ejemplos de negocios online)
 url: https://pau.ninja/ingresos-pasivos
 slug: ingresos-pasivos
-categories: 
+categories: []
 image: hombre-trabajando-online.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/hombre-trabajando-online.jpeg
 publishedAt: 2021-10-04T05:26:09.000Z
 modifiedAt: 2023-05-05T15:55:12.000Z
-scrappedAt: 2024-11-04T11:54:35.234Z
+scrappedAt: 2024-11-05T04:32:12.204Z
 audioLink: https://www.ivoox.com/mis-ingresos-pasivos-6-negocios_md_44345770_wp_1.mp3
-bibliography: inicialmente
-**Inversión de tiempo**
+bibliography:
+  - inicialmente
+  - "**Inversión de tiempo**"
+
 ---
 
 Generar ingresos pasivos viene de recoger los beneficios de un **esfuerzo pasado**.
@@ -73,7 +75,7 @@ A los blog nicho les tengo un amor especial porque son los que me hicieron **vi
 
 Una vez se ha llegado a la cumbre de algún tema, se puede decidir **mantener** (acostumbra a generar ingresos pasivos de forma práctica) o **vender**, como he hecho con unas cuantas webs de temáticas que no me motivaba seguir actualizando.
 
-[![Posicionarse en Google (sin tonterías): Guía SEO básica y completa](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTFRHdGliRVZYTFZNdVgxTk1NVFl3WHk1cWNHYz18MTczMDg5NDA3NA=)](https://www.amazon.es/dpB073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Posicionarse en Google (sin tonterías): Guía SEO básica y completa")
+[![Posicionarse en Google (sin tonterías): Guía SEO básica y completa](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTFRHdGliRVZYTFZNdVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkzMQ=)](https://www.amazon.es/dpB073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Posicionarse en Google (sin tonterías): Guía SEO básica y completa")
 
 [Posicionarse en Google (sin tonterías): Guía SEO básica y completa](https://www.amazon.es/dp/B073T29G72?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Posicionarse en Google (sin tonterías): Guía SEO básica y completa")
 

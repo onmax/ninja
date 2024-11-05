@@ -3,14 +3,14 @@ title: Montar un gimnasio en casa
 subtitle: Mi lista de material, precio y ejercicios
 url: https://pau.ninja/montar-gimnasio-en-casa
 slug: montar-gimnasio-en-casa
-categories: 
+categories: []
 image: gimnasio-casero.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/03/gimnasio-casero.jpg
 publishedAt: 2021-03-25T11:59:03.000Z
 modifiedAt: 2024-02-03T06:23:20.000Z
-scrappedAt: 2024-11-04T11:55:15.568Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:32:26.455Z
+bibliography: []
+
 ---
 
 Estoy seguro que durante la pandemia las tiendas online de fitness se forraron.
@@ -133,7 +133,7 @@ Para mí son indispensables pero cuando los pesos empiezan a subir considerablem
 
 Miré por bastantes webs de fitness y las mancuernas ajustables que me salían mejor eran las de Amazon aunque me tardaron una semana bien buena en mandármelas.
 
-[![RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFRWUlZjMEpDY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...")
+[![RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSFRWUlZjMEpDY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...")
 
 [RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...](https://www.amazon.es/dp/B097YGK7V4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RE:SPORT Mancuernas Ajustables 15-30kg - Pesas y Mancuernas de Hierro Fundido con Barra y Discos...")
 
@@ -157,7 +157,7 @@ Son esas mancuernas que girando una ruedecita del extremo, elegimos el peso, y l
 
 Es un concepto muy chulo, y como buen concepto chulo se tiene que pagar bien.
 
-[![Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGYU4xaFRUbEIxT0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...")
+[![Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGYU4xaFRUbEIxT0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...")
 
 [Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...](https://www.amazon.es/dp/B078HDGG7H?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex SelectTech 552i macuerna 2-24 kg (1 mancuerna) Ajustables para Hogar, Adultos Unisex, Rojo,...")
 
@@ -215,7 +215,7 @@ No es para hacerme el fuertote diciendo que me saco un montón de press de banca
 
 Yo busqué uno que se pudiera también declinar (no sólo inclinar) y eso, que aguantara mucho peso. Compré uno por poco más de 110€ y lo usé durante varias semanas.
 
-[![ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdU1GSndSa2hoVTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...")
+[![ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdU1GSndSa2hoVTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...")
 
 [ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...](https://www.amazon.es/dp/B071WPLVGZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Banco de Pesas Musculación Ajustable Plegable Multifuncional Inclinable Reclinable, Banco de...")
 
@@ -321,7 +321,7 @@ Si ya nos dejamos unos 700€ en barra y discos, tiene todo el sentido del mundo
 
 Cuando me cerraron Estonia y volé rápido y corriendo entré en pánico y compré el mejor soporte en relación calidad-precio que encontré por internet.
 
-[![ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGSFNHTllUbWhvYUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...")
+[![ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGSFNHTllUbWhvYUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...")
 
 [ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...](https://www.amazon.es/dp/B07F63NLYG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ISE Soporte Barra Pesas Estante de Barra con Pesas Ajustable, rack musculación Squat Rack Stand Gym...")
 
@@ -388,7 +388,7 @@ Para los que tienen un presupuesto de hasta 1.000€ con esto podemos hacer ya d
 
 Sale mucho más a cuenta comprar una kettlebell ajustable que un juego entero.
 
-[![Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelVtdG1WVVV5ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negrorojo, Talla Única")
+[![Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFelVtdG1WVVV5ZWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negrorojo, Talla Única")
 
 [Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única](https://www.amazon.es/dp/B07X64MXBS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bowflex Selecttech 3.5 - 18 Kg, Kettlebell Unisex Adulto, Negro/rojo, Talla Única")
 
@@ -404,7 +404,7 @@ A este extra hay que añadirlo algo que para mí es vital: la **barra de dominad
 
 Ya sabéis que hay un montón de modelos: de puerta, de pared y hasta de árbol. Yo compré una de pared porque siempre he sido de tener muchos dorsales y de terminar pareciendo un murciélago sin camiseta.
 
-[![ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGUE9EQjRPR2hXVkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...")
+[![ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGUE9EQjRPR2hXVkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...")
 
 [ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...](https://www.amazon.es/dp/B07V66QQ37?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "ONETWOFIT - Barra de Pared con diseño de 6 Agujeros más Estable para Uso en Interiores y...")
 
@@ -418,7 +418,7 @@ Siempre hay esos a los que le da cosa meter cuatro agujeros en la pared así que
 
 Ahora mismo rebajado
 
-[![Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGT2JISkljREYxVGt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...")
+[![Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGT2JISkljREYxVGt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...")
 
 [Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...](https://www.amazon.es/dp/B07SM8VJ6P?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Sportsroyals Power Tower Dip Station Barra de dominadas para gimnasio en casa, equipo de...")
 
@@ -485,7 +485,7 @@ Tuve la suerte que en el último momento vi una empresa alemana en Amazon llamad
 
 El nombre engaña un poco la vista porque parece que dice Amazon y piensas que es la marca blanca de Amazon, pero no lo es y encontré un rack guapísimo, con Multipower (máquina guiada), poleas e incluso estante para ordenar los discos.
 
-[![CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRE0yazFiR2xIT0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...")
+[![CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRE0yazFiR2xIT0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...")
 
 [CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...](https://www.amazon.es/dp/B09LCWH52S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "CAPITAL SPORTS Amazor MasterSmith - Barra dominadas Suelo, Multifuncional, Jaula musculación,...")
 
@@ -499,7 +499,7 @@ Al fin y al cabo es un gimnasio para toda la vida. No quiero ser el tonto que ga
 
 Aún así también hay la opción intermedia, lógicamente de la misma casa y confieso que estuve a punte de tirar por este, porque por poco más de 600€ sale muy a cuenta.
 
-[![Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV2RWbFJZbVp4V2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...")
+[![Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV2RWbFJZbVp4V2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...")
 
 [Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...](https://www.amazon.es/dp/B08P77JSDF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Capital Sports Amazor Pro - Jaula musculación Multifuncional, Power Rack, hasta 500 kg, J-Cups para...")
 
@@ -517,7 +517,7 @@ Uno de los extras más polivalentes que me gustan más son las barras paralelas 
 
 No son nada más ni nada menos que dos barras a unos 90cm del suelo con muchas resistencia para hacer fondos, que es ese ejercicio donde flexionamos los brazos y nuestro cuerpo se va al fondo del infierno.
 
-[![Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFMGEwRnpVekJ3YkZNdVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasiadip station, calistenia,...")
+[![Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFMGEwRnpVekJ3YkZNdVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasiadip station, calistenia,...")
 
 [Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...](https://www.amazon.es/dp/B07ZRZT45T?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Gorletic - Barras Paralelas para ejercicio fondos, Barras de Gimnasia/dip station, calistenia,...")
 
@@ -610,7 +610,7 @@ No importa, porque el trabajo de poleas (o bandas en este caso) se tendría que 
 
 Entrenando la fuerza es 100% necesario que compremos unos cierros para la barra olímpica y no se nos mueva.
 
-[![tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGblYzaHBkbkpHYmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...")
+[![tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGblYzaHBkbkpHYmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...")
 
 [tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...](https://www.amazon.es/dp/B08BFLQM82?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "tmtonmoon 2 Pcs 50mm Mancuernas Abrazaderas Cierre Barra de Pesas Levantamiento de Pesa Barbell...")
 
@@ -624,7 +624,7 @@ Y precisamente para el _hip thrust_ (el empuje de cadera para el culo) es cuand
 
 Ahora mismo rebajado
 
-[![Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeGJHZzRibWh0SzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...")
+[![Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeGJHZzRibWh0SzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...")
 
 [Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...](https://www.amazon.es/dp/B082MSM69J?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Amonax almohadilla barra gimnasio protector, Cuello y Hombros Almohadilla para Sentadillas y Empuje...")
 
@@ -640,7 +640,7 @@ Un accesorio que para mí es imprescindible es el cinturón de lastre para las d
 
 Básicamente es un cinturón abierto con una cadena y mosquetón.
 
-[![HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV1EzaDZSRTFIVmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...")
+[![HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGV1EzaDZSRTFIVmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...")
 
 [HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...](https://www.amazon.es/dp/B06XQZ72KN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "HemeraPhit Pull-up cinturón con Peso Dip cinturón con Cadena Doble D-Ring Levantamiento de Pesas...")
 
@@ -656,7 +656,7 @@ Si la espalda baja tiene que trabajar. Que lo haga.
 
 Para los que no tienen una habitación vieja como la mía, el suelo de goma es una buena adición a los discos de goma. Así doblamos la imposibilidad de romper el suelo.
 
-[![Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGVldraGFWa1kxUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...")
+[![Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TmpGVldraGFWa1kxUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...")
 
 [Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...](https://www.amazon.es/dp/B088GM6RV4?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Esterilla Puzzle Fitness, 20 Piezas Alfombra de Gimnasio para suelo, Expandible Colchonetas Goma...")
 
@@ -666,7 +666,7 @@ Para los que no tienen una habitación vieja como la mía, el suelo de goma es u
 
 Cuando decido descansar, paso de correr totalmente. Es el tipo de cardio que más odio y realmente noto que a mis rodillas no le gusta. Así que tiro siempre de un salto a la cuerda y de combinar tipos de salto, intensidades y demás.
 
-[![Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUk1sQnVVamhLVkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...")
+[![Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGUk1sQnVVamhLVkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...")
 
 [Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...](https://www.amazon.es/dp/B08CBDKR3R?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Xtride Comba Profesional con Mango de Aluminio para Crossfit, Boxeo, MMA, Fitness, HIIT. Cuerda para...")
 
@@ -680,7 +680,7 @@ Pero si hay algo realmente polivalente en los extras son las anillas de madera.
 
 De hecho si os dais cuenta todo lo que son _gadgets_ de gimnasio de calistenia, son los que acostumbran a ser más polivalentes y las anillas de gimnasia dan para mucho.
 
-[![BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGT1dEbFBOMmRhVEV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...")
+[![BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGT1dEbFBOMmRhVEV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...")
 
 [BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...](https://www.amazon.es/dp/B01LX08N45?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BeMaxx Anillas de Gimnasia de Madera | para Entrenamientos gimnásticos | Workout Set con Anclaje...")
 
@@ -700,7 +700,7 @@ El espejo es indispensable para hacer en esa habitación las cosas que no nos at
 
 Yo le dije a mis padres que era para mirar lo correctamente que hago los ejercicios básicos, pero la realidad es que lo uso para sacarme la camiseta durante ejercicios.
 
-[![Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGV2VVTjZOMjVOUWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4NDM0OA=)](https://www.amazon.es/dpB01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm")
+[![Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TWpGV2VVTjZOMjVOUWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNzA5NA=)](https://www.amazon.es/dpB01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm")
 
 [Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm](https://www.amazon.es/dp/B01IDLP84K?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Bath+ by Cosmic B01001005 Espejo, Transparente, 120 x 80 cm")
 

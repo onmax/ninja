@@ -3,14 +3,15 @@ title: ¿Bitcoin es una estafa piramidal?
 subtitle: Desmiento el supuesto esquema ponzi
 url: https://pau.ninja/bitcoin-estafa-piramidal
 slug: bitcoin-estafa-piramidal
-categories: 
+categories: []
 image: bitcoin-estafa-piramidal.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/bitcoin-estafa-piramidal.jpeg
 publishedAt: 2021-01-16T12:22:11.000Z
 modifiedAt: 2024-02-11T06:34:42.000Z
-scrappedAt: 2024-11-04T11:56:10.644Z
+scrappedAt: 2024-11-05T04:32:49.322Z
 audioLink: https://www.ivoox.com/bitcoin-es-estafa-piramidal_md_65072506_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ya sabéis que todo mi capital está en bitcoin, y hasta mis padres lo saben.

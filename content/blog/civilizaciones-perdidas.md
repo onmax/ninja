@@ -3,14 +3,15 @@ title: El enigma de las civilizaciones perdidas
 subtitle: Misterios de la historia universal
 url: https://pau.ninja/civilizaciones-perdidas
 slug: civilizaciones-perdidas
-categories: 
+categories: []
 image: Gobekli-Tepe-de-noche.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2020/11/Gobekli-Tepe-de-noche.jpg
 publishedAt: 2020-11-06T08:03:34.000Z
 modifiedAt: 2023-06-26T19:38:06.000Z
-scrappedAt: 2024-11-04T11:56:54.319Z
+scrappedAt: 2024-11-05T04:33:06.968Z
 audioLink: https://www.ivoox.com/enigma-civilizaciones-perdidas_md_63473251_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hay una hipótesis que pondría de manifiesto que hace unos 12.800 años hubo un evento que cambiaría el rumbo de la vida en la Tierra.
@@ -131,7 +132,7 @@ Una hipótesis que, analizando la roca de la base, defiende que el Esfinge en ve
 
 Con más divulgadores y científicos que se iban apuntando al carro, salieron [nuevos](https://www.nbcnews.com/id/wbna3077390) estudios geólogos actuales que pondrían la Esfinge entre el año 7.000 y 9.000 aC, es decir, a más de 11.000 años de nuestro tiempo.
 
-[![Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcVNtRTFNelZYUVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQxNA=)](https://www.amazon.es/dp1620555255?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization")
+[![Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGcVNtRTFNelZYUVV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzk4Ng=)](https://www.amazon.es/dp1620555255?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization")
 
 [Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization](https://www.amazon.es/dp/1620555255?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Origins of the Sphinx: Celestial Guardian of Pre-Pharaonic Civilization")
 
@@ -284,7 +285,7 @@ Si los Incas sólo nos llevan un milenio, ¿cómo es que cuando construyen encim
 
 En su libro «America Before», el divulgador Graham Hancock nos muestra evidencia de que el continente americano fue uno de los epicentro de este cataclismo del meteorito.
 
-[![America Before: The Key to Earth's Lost Civilization: AS SEEN ON NETFLIX](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGR1MzQmxOVzl5VkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTQxNA=)](https://www.amazon.es/dp1473660572?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "America Before: The Key to Earth's Lost Civilization: AS SEEN ON NETFLIX")
+[![America Before: The Key to Earth's Lost Civilization: AS SEEN ON NETFLIX](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGR1MzQmxOVzl5VkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzk4Ng=)](https://www.amazon.es/dp1473660572?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "America Before: The Key to Earth's Lost Civilization: AS SEEN ON NETFLIX")
 
 [America Before: The Key to Earth's Lost Civilization: AS SEEN ON NETFLIX](https://www.amazon.es/dp/1473660572?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "America Before: The Key to Earth's Lost Civilization: AS SEEN ON NETFLIX")
 

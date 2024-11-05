@@ -3,14 +3,15 @@ title: Método Weinstein
 subtitle: analiza (así) el mercado para hacerte rico
 url: https://pau.ninja/metodo-stan-weinstein
 slug: metodo-stan-weinstein
-categories: 
+categories: []
 image: usa-metodo-stan-weinstein.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/usa-metodo-stan-weinstein.jpeg
 publishedAt: 2024-02-16T07:19:06.000Z
 modifiedAt: 2024-05-21T19:50:33.000Z
-scrappedAt: 2024-11-04T11:14:09.979Z
+scrappedAt: 2024-11-05T04:27:30.225Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/84288722/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F371567579-44100-2-c983a696a732a.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Ninjas de la vida, leer el libro de Stan Weinstein dónde explica su método de inversión, ha sido una de las **mejores decisiones que he podido tomar para mi capital**, patrimonio, futuro y por lo tanto también para mi vida.
@@ -71,7 +72,7 @@ Hasta el punto de que su libro es **el primero que recomendaría a cualquier inv
 
 Ahora mismo rebajado
 
-[![Secretos Para Ganar En Los Mercados Alcistas Y Bajistas](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeFlqbDBjRlZWSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4Mjg5NA=)](https://www.amazon.es/dp8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Secretos Para Ganar En Los Mercados Alcistas Y Bajistas")
+[![Secretos Para Ganar En Los Mercados Alcistas Y Bajistas](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeFlqbDBjRlZWSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyODA4OA=)](https://www.amazon.es/dp8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Secretos Para Ganar En Los Mercados Alcistas Y Bajistas")
 
 [Secretos Para Ganar En Los Mercados Alcistas Y Bajistas](https://www.amazon.es/dp/8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Secretos Para Ganar En Los Mercados Alcistas Y Bajistas")
 
@@ -81,7 +82,7 @@ En español: me han hablado bien de su traducción.
 
 [Comprar en Amazon](https://www.amazon.es/dp/8493622621?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTFdFSmtSRkJuV0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg4Mjg5NA=)](https://www.amazon.es/dp1556236832?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)")
+[![Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTFdFSmtSRkJuV0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyODA4OA=)](https://www.amazon.es/dp1556236832?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)")
 
 [Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)](https://www.amazon.es/dp/1556236832?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Stan Weinstein's Secrets For Profiting in Bull and Bear Markets (PERSONAL FINANCE & INVESTMENT)")
 

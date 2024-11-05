@@ -3,41 +3,88 @@ title: Adiós, carbohidratos
 subtitle: el fraude más adictivo de la historia (la verdad)
 url: https://pau.ninja/la-verdad-sobre-los-carbohidratos
 slug: la-verdad-sobre-los-carbohidratos
-categories: 
+categories: []
 image: persona-con-pan-aprende-verdad-carbohidratos.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/01/persona-con-pan-aprende-verdad-carbohidratos.jpeg
 publishedAt: 2024-01-16T06:26:29.000Z
 modifiedAt: 2024-04-28T11:32:10.000Z
-scrappedAt: 2024-11-04T11:15:09.709Z
+scrappedAt: 2024-11-05T04:27:49.995Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/81440246/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-0-18%2F363928122-44100-2-ccc17cfc03dd6.mp3
-bibliography: Little, Becky. 2018. “When Cigarette Companies Used Doctors to Push Smoking.” HISTORY.
-The New York Times. 2024. “How the Sugar Industry Shifted Blame to Fat (Published 2016).”
-“Aesan – Agencia Española de Seguridad Alimentaria Y Nutrición.” 2024. Aesan.gob.es. ‌
-Grove, Richard H. (1998), «Global Impact of the 1789–93 El Niño», Nature, 393 (6683): 318–19, Bibcode:1998Natur.393..318G, doi:10.1038/30636, S2CID 205000683
-«Last Great Famine in Northern Europe». Environment & Society Portal. Retrieved January 10, 2023.
-Davies, R. W.; Wheatcroft, Stephen G. (2010-01-20). The Industrialisation of Soviet Russia Volume 5: The Years of Hunger. Basingstoke: Palgrave Macmillan. p. 415. doi:10.1057/9780230273979. ISBN 978-0-230-27397-9. OCLC 649384703.
-World. 2020. “The Top 10 Causes of Death.” Who.int. World Health Organization: WHO.
-Gentreau M, Chuy V, Féart C, Samieri C, Ritchie K, Raymond M, Berticat C, Artero S. Refined carbohydrate-rich diet is associated with long-term risk of dementia and Alzheimer’s disease in apolipoprotein E ε4 allele carriers. Alzheimers Dement. 2020 Jul;16(7):1043-1053. doi: 10.1002/alz.12114. Epub 2020 Jun 7. PMID: 32506713.
-“Chapter 3 – Dietary Carbohydrate and Disease.” 2024. Fao.org.
-“Estils de Vida Saludable – En España.” 2015. Sanidad.gob.es.
-James P. Boyle, Amanda A. Honeycutt, K.M. Venkat Narayan, Thomas J. Hoerger, Linda S. Geiss, Hong Chen, Theodore J. Thompson; Projection of Diabetes Burden Through 2050: Impact of changing demography and disease prevalence in the U.S.. Diabetes Care 1 November 2001; 24 (11): 1936–1940.
-“IDF Diabetes Atlas.” 2021. Diabetesatlas.org.
-ANGINOT, Philippe, 2009. Les 3 Ors Blancs. La fabuleuse aventure du sucre, du sel et de la farine. Villeveyrac : Papillon rouge
-Dubuis, Anna. 2015. “Scans on Ancient Romans Who Died in Pompeii Reveal They Had Perfect TEETH.” The Mirror.
-Kearns CE, Schmidt LA, Glantz SA. Sugar Industry and Coronary Heart Disease Research: A Historical Analysis of Internal Industry Documents. _JAMA Intern Med._ 2016;176(11):1680–1685. doi:10.1001/jamainternmed.2016.5394
-“Eat Wild – Health Benefits.” 2023. Eatwild.com
-Ben-Dor, Miki, Raphael Sirtoli and Ran Barkai. “The evolution of the human trophic level during the Pleistocene.” American journal of physical anthropology (2021): n. pag.
-“Evidence for Meat-Eating by Early Humans | Learn Science at Scitable.” 2014. Nature.com.
-Gyorkos A, Baker MH, Miutz LN, Lown DA, Jones MA, Houghton-Rahrig LD. Carbohydrate-restricted Diet and Exercise Increase Brain-derived Neurotrophic Factor and Cognitive Function: A Randomized Crossover Trial. Cureus. 2019 Sep 9;11(9):e5604. doi: 10.7759/cureus.5604. PMID: 31700717; PMCID: PMC6822553.
-“¿Qué Es Neuroplasticidad Y Cómo Aplicarla En Las Empresas?” APD España.  ‌
-Leckie RL, Oberlin LE, Voss MW, Prakash RS, Szabo-Reed A, Chaddock-Heyman L, Phillips SM, Gothe NP, Mailey E, Vieira-Potter VJ, Martin SA, Pence BD, Lin M, Parasuraman R, Greenwood PM, Fryxell KJ, Woods JA, McAuley E, Kramer AF, Erickson KI. BDNF mediates improvements in executive function following a 1-year exercise intervention. Front Hum Neurosci. 2014 Dec 11;8:985. doi: 10.3389/fnhum.2014.00985. PMID: 25566019; PMCID: PMC4263078.
-“Brain Works Kitchen.” 2017. Brain Health Kitchen. ‌
-“Carbohydrates.” 2022. Medlineplus.gov. National Library of Medicine.
-Hanson, Richard W, and Oliver E Owen. 2013. “Gluconeogenesis.” Elsevier EBooks, January, 381–386. doi:https://doi.org/10.1016/b978-0-12-378630-2.00040-2. ‌
-Sarabhai T, Roden M. Hungry for your alanine: when liver depends on muscle proteolysis. J Clin Invest. 2019 Nov 1;129(11):4563-4566. doi: 10.1172/JCI131931. PMID: 31545302; PMCID: PMC6819091.
-Hatazawa Y, Qian K, Gong DW, Kamei Y. PGC-1α regulates alanine metabolism in muscle cells. PLoS One. 2018 Jan 9;13(1):e0190904. doi: 10.1371/journal.pone.0190904. PMID: 29315328; PMCID: PMC5760032.
-Yang J, Chi Y, Burkhardt BR, Guan Y, Wolf BA. Leucine metabolism in regulation of insulin secretion from pancreatic beta cells. Nutr Rev. 2010 May;68(5):270-9. doi: 10.1111/j.1753-4887.2010.00282.x. PMID: 20500788; PMCID: PMC2969169.
-Green MS, Corona BT, Doyle JA, Ingalls CP. Carbohydrate-protein drinks do not enhance recovery from exercise-induced muscle injury. Int J Sport Nutr Exerc Metab. 2008 Feb;18(1):1-18. doi: 10.1123/ijsnem.18.1.1. PMID: 18272930.
+bibliography:
+  - Little, Becky. 2018. “When Cigarette Companies Used Doctors to Push
+    Smoking.” HISTORY.
+  - The New York Times. 2024. “How the Sugar Industry Shifted Blame to Fat
+    (Published 2016).”
+  - “Aesan – Agencia Española de Seguridad Alimentaria Y Nutrición.” 2024.
+    Aesan.gob.es. ‌
+  - "Grove, Richard H. (1998), «Global Impact of the 1789–93 El Niño», Nature,
+    393 (6683): 318–19, Bibcode:1998Natur.393..318G, doi:10.1038/30636, S2CID
+    205000683"
+  - «Last Great Famine in Northern Europe». Environment & Society Portal.
+    Retrieved January 10, 2023.
+  - "Davies, R. W.; Wheatcroft, Stephen G. (2010-01-20). The Industrialisation
+    of Soviet Russia Volume 5: The Years of Hunger. Basingstoke: Palgrave
+    Macmillan. p. 415. doi:10.1057/9780230273979. ISBN 978-0-230-27397-9. OCLC
+    649384703."
+  - "World. 2020. “The Top 10 Causes of Death.” Who.int. World Health
+    Organization: WHO."
+  - "Gentreau M, Chuy V, Féart C, Samieri C, Ritchie K, Raymond M, Berticat C,
+    Artero S. Refined carbohydrate-rich diet is associated with long-term risk
+    of dementia and Alzheimer’s disease in apolipoprotein E ε4 allele carriers.
+    Alzheimers Dement. 2020 Jul;16(7):1043-1053. doi: 10.1002/alz.12114. Epub
+    2020 Jun 7. PMID: 32506713."
+  - “Chapter 3 – Dietary Carbohydrate and Disease.” 2024. Fao.org.
+  - “Estils de Vida Saludable – En España.” 2015. Sanidad.gob.es.
+  - "James P. Boyle, Amanda A. Honeycutt, K.M. Venkat Narayan, Thomas J.
+    Hoerger, Linda S. Geiss, Hong Chen, Theodore J. Thompson; Projection of
+    Diabetes Burden Through 2050: Impact of changing demography and disease
+    prevalence in the U.S.. Diabetes Care 1 November 2001; 24 (11): 1936–1940."
+  - “IDF Diabetes Atlas.” 2021. Diabetesatlas.org.
+  - "ANGINOT, Philippe, 2009. Les 3 Ors Blancs. La fabuleuse aventure du sucre,
+    du sel et de la farine. Villeveyrac : Papillon rouge"
+  - Dubuis, Anna. 2015. “Scans on Ancient Romans Who Died in Pompeii Reveal They
+    Had Perfect TEETH.” The Mirror.
+  - Kearns CE, Schmidt LA, Glantz SA. Sugar Industry and Coronary Heart Disease
+    Research: A Historical Analysis of Internal Industry Documents. _JAMA Intern
+    Med._ 2016;176(11):1680–1685. doi:10.1001/jamainternmed.2016.5394
+  - “Eat Wild – Health Benefits.” 2023. Eatwild.com
+  - "Ben-Dor, Miki, Raphael Sirtoli and Ran Barkai. “The evolution of the human
+    trophic level during the Pleistocene.” American journal of physical
+    anthropology (2021): n. pag."
+  - “Evidence for Meat-Eating by Early Humans | Learn Science at Scitable.”
+    2014. Nature.com.
+  - "Gyorkos A, Baker MH, Miutz LN, Lown DA, Jones MA, Houghton-Rahrig LD.
+    Carbohydrate-restricted Diet and Exercise Increase Brain-derived
+    Neurotrophic Factor and Cognitive Function: A Randomized Crossover Trial.
+    Cureus. 2019 Sep 9;11(9):e5604. doi: 10.7759/cureus.5604. PMID: 31700717;
+    PMCID: PMC6822553."
+  - “¿Qué Es Neuroplasticidad Y Cómo Aplicarla En Las Empresas?” APD España.  ‌
+  - "Leckie RL, Oberlin LE, Voss MW, Prakash RS, Szabo-Reed A, Chaddock-Heyman
+    L, Phillips SM, Gothe NP, Mailey E, Vieira-Potter VJ, Martin SA, Pence BD,
+    Lin M, Parasuraman R, Greenwood PM, Fryxell KJ, Woods JA, McAuley E, Kramer
+    AF, Erickson KI. BDNF mediates improvements in executive function following
+    a 1-year exercise intervention. Front Hum Neurosci. 2014 Dec 11;8:985. doi:
+    10.3389/fnhum.2014.00985. PMID: 25566019; PMCID: PMC4263078."
+  - “Brain Works Kitchen.” 2017. Brain Health Kitchen. ‌
+  - “Carbohydrates.” 2022. Medlineplus.gov. National Library of Medicine.
+  - Hanson, Richard W, and Oliver E Owen. 2013. “Gluconeogenesis.” Elsevier
+    EBooks, January, 381–386.
+    doi:https://doi.org/10.1016/b978-0-12-378630-2.00040-2. ‌
+  - "Sarabhai T, Roden M. Hungry for your alanine: when liver depends on muscle
+    proteolysis. J Clin Invest. 2019 Nov 1;129(11):4563-4566. doi:
+    10.1172/JCI131931. PMID: 31545302; PMCID: PMC6819091."
+  - "Hatazawa Y, Qian K, Gong DW, Kamei Y. PGC-1α regulates alanine metabolism
+    in muscle cells. PLoS One. 2018 Jan 9;13(1):e0190904. doi:
+    10.1371/journal.pone.0190904. PMID: 29315328; PMCID: PMC5760032."
+  - "Yang J, Chi Y, Burkhardt BR, Guan Y, Wolf BA. Leucine metabolism in
+    regulation of insulin secretion from pancreatic beta cells. Nutr Rev. 2010
+    May;68(5):270-9. doi: 10.1111/j.1753-4887.2010.00282.x. PMID: 20500788;
+    PMCID: PMC2969169."
+  - "Green MS, Corona BT, Doyle JA, Ingalls CP. Carbohydrate-protein drinks do
+    not enhance recovery from exercise-induced muscle injury. Int J Sport Nutr
+    Exerc Metab. 2008 Feb;18(1):1-18. doi: 10.1123/ijsnem.18.1.1. PMID:
+    18272930."
+
 ---
 
 ¿Os acordáis cuando los médicos recomendaban fumar?
@@ -334,7 +381,7 @@ Uno de mis libros favoritos en este sentido antes de hacerme carnívoro, fue «
 
 Ahora mismo rebajado
 
-[![Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeE1WcFhha0pRU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTcwOA=)](https://www.amazon.es/dp8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
+[![Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGeE1WcFhha0pRU2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzY2OQ=)](https://www.amazon.es/dp8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
 
 [Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...](https://www.amazon.es/dp/8466334688?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Cerebro de pan: La devastadora verdad sobre los efectos del trigo, el azúcar y los carbohidratos en...")
 

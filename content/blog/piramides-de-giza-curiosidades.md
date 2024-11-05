@@ -3,14 +3,15 @@ title: El código secreto de la Gran Pirámide
 subtitle: Secretos, misterios y curiosidades de Giza
 url: https://pau.ninja/piramides-de-giza-curiosidades
 slug: piramides-de-giza-curiosidades
-categories: 
+categories: []
 image: gran-piramide-de-guiza.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/gran-piramide-de-guiza.jpg
 publishedAt: 2021-03-03T11:11:09.000Z
 modifiedAt: 2023-06-26T19:30:21.000Z
-scrappedAt: 2024-11-04T11:55:18.999Z
+scrappedAt: 2024-11-05T04:32:28.180Z
 audioLink: https://www.ivoox.com/codigo-secreto-gran-piramide_md_67097244_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hoy hablamos de los misterios de una de las construcciones más antiguas del planeta. Una construcción que ha perdurado milenios y que en línea del tiempo está a la par con la estructura megalítica más vieja que hemos encontrado nunca: [Göbekli Tepe](./civilizaciones-perdidas#Gobekli_Tepe) en Turquía.
@@ -533,7 +534,7 @@ Actualmente los egiptólogos más modernos están de acuerdo que los primeros eg
 
 Ahora mismo rebajado
 
-[![The Pyramids of Egypt (Penguin archaeology)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTVJGRkZabGt4WTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTE2MA=)](https://www.amazon.es/dp0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Pyramids of Egypt (Penguin archaeology)")
+[![The Pyramids of Egypt (Penguin archaeology)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGTVJGRkZabGt4WTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1Mzk0Nw=)](https://www.amazon.es/dp0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Pyramids of Egypt (Penguin archaeology)")
 
 [The Pyramids of Egypt (Penguin archaeology)](https://www.amazon.es/dp/0140136347?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Pyramids of Egypt (Penguin archaeology)")
 

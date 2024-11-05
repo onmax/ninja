@@ -3,14 +3,15 @@ title: No volveré a invertir en oro (nunca más)
 subtitle: Opinión de por qué no merece la pena
 url: https://pau.ninja/invertir-en-oro-opiniones
 slug: invertir-en-oro-opiniones
-categories: 
+categories: []
 image: persona-enfadada-con-oro.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/06/persona-enfadada-con-oro.jpeg
 publishedAt: 2022-06-02T09:55:56.000Z
 modifiedAt: 2024-02-06T11:06:38.000Z
-scrappedAt: 2024-11-04T11:43:45.790Z
+scrappedAt: 2024-11-05T04:30:44.012Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54211312/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-30%2F74525de3-8dd2-b174-c2be-a1ce3c0db746.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Cuando empezó la pandemia al inicio de 2020 ya nos empezamos a oler la tostada. No estoy hablando de la recesión inminente temporal que supuso el cisne negro de la pandemia, sino a las **consecuencias nefastas** que tendrían más adelante para los ciudadanos las acciones que tomaron los Bancos Centrales y Estados para «controlar» la crisis.

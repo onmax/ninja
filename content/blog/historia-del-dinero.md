@@ -3,17 +3,19 @@ title: El lenguaje del dinero
 subtitle: (su historia y origen revelan el futuro)
 url: https://pau.ninja/historia-del-dinero
 slug: historia-del-dinero
-categories: 
+categories: []
 image: persona-hablando-de-dinero-y-bitcoin.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/01/persona-hablando-de-dinero-y-bitcoin.jpeg
 publishedAt: 2021-01-07T08:26:44.000Z
 modifiedAt: 2023-10-11T04:58:09.000Z
-scrappedAt: 2024-11-04T11:56:20.556Z
+scrappedAt: 2024-11-05T04:32:51.339Z
 audioLink: https://www.ivoox.com/lenguaje-del-dinero_md_67471018_wp_1.mp3
-bibliography: pepitas = 1 buey
-libras = 1 buey
-pepitas = 1 oveja
-pepita = 10 libras de bronce
+bibliography:
+  - pepitas = 1 buey
+  - libras = 1 buey
+  - pepitas = 1 oveja
+  - pepita = 10 libras de bronce
+
 ---
 
 ¿Por qué deberíamos conocer el origen del dinero si estamos interesados en finanzas personales? ¿no entra esto en la historia universal?

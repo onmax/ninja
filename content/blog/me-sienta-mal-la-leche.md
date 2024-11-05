@@ -1,16 +1,17 @@
 ---
 title: Si te sienta mal la leche… escucha esto
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/me-sienta-mal-la-leche
 slug: me-sienta-mal-la-leche
-categories: 
+categories: []
 image: persona-con-intolerancia-leche.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/11/persona-con-intolerancia-leche.jpeg
 publishedAt: 2022-11-09T18:51:49.000Z
 modifiedAt: 2023-09-21T05:26:05.000Z
-scrappedAt: 2024-11-04T11:42:09.140Z
+scrappedAt: 2024-11-05T04:29:51.074Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61232410/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-26%2F299336114-44100-2-df33067e2a397.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Los que podemos comer lácteos es porque tenemos una **mutación genética** que originalmente los humanos no teníamos. Por esto se llama mutación.

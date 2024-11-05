@@ -3,14 +3,15 @@ title: Invertir NO te salvará de la inflación
 subtitle: (considera la devaluación de la moneda)
 url: https://pau.ninja/devaluacion-de-la-moneda
 slug: devaluacion-de-la-moneda
-categories: 
+categories: []
 image: atracador-robando-dinero.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/02/atracador-robando-dinero.jpeg
 publishedAt: 2021-02-16T11:05:47.000Z
 modifiedAt: 2024-02-07T10:16:20.000Z
-scrappedAt: 2024-11-04T11:55:46.250Z
+scrappedAt: 2024-11-05T04:32:37.124Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/62151381/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-11-13%2F302903440-44100-2-3551a25eca264.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hoy os cuento el cambio de paradigma que sufrió mi cabeza en términos de inversión.

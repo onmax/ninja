@@ -1,16 +1,17 @@
 ---
-title: Adiós al porno: malo para el cerebro (y la vida)
+title: "Adiós al porno: malo para el cerebro (y la vida)"
 subtitle: ¿Por qué es malo ver pornografía?
 url: https://pau.ninja/es-malo-ver-porno
 slug: es-malo-ver-porno
-categories: 
+categories: []
 image: hombre-mirando-pornografia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/10/hombre-mirando-pornografia.jpeg
 publishedAt: 2022-06-26T08:30:28.000Z
 modifiedAt: 2023-09-21T06:20:20.000Z
-scrappedAt: 2024-11-04T11:43:30.055Z
+scrappedAt: 2024-11-05T04:30:33.622Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/54259341/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-6-1%2F21e26302-7109-8205-b090-77a42165199b.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Los de mi época seguramente tendréis unos primeros recuerdos sexuales similares a los míos.

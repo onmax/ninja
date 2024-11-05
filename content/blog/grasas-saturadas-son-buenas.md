@@ -3,14 +3,15 @@ title: Mi médico mintió sobre las grasas saturadas
 subtitle: (son buenas)
 url: https://pau.ninja/grasas-saturadas-son-buenas
 slug: grasas-saturadas-son-buenas
-categories: 
+categories: []
 image: persona-sacando-grasa.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2021/10/persona-sacando-grasa.jpeg
 publishedAt: 2021-10-05T07:26:23.000Z
 modifiedAt: 2023-07-26T12:50:24.000Z
-scrappedAt: 2024-11-04T11:51:59.643Z
+scrappedAt: 2024-11-05T04:32:01.199Z
 audioLink: https://www.ivoox.com/mi-medico-mintio-sobre-grasas-saturadas_md_70083343_wp_1.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Hace poco anunciaba por las redes sociales que llevo un tiempo comiendo **sólo carne**. Que en pocas semanas había empezado a ver beneficios físicos y mentales y como no… un grupillo me saltó a la yugular.
@@ -89,7 +90,7 @@ Este por desgracia ha sido el paradigma que hemos estado siguiendo y hay mucha h
 
 Ahora mismo rebajado
 
-[![Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFeWRtZHFLMjlLY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MjExNw=)](https://www.amazon.es/dp035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet")
+[![Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRFeWRtZHFLMjlLY1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzkyMA=)](https://www.amazon.es/dp035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet")
 
 [Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet](https://www.amazon.es/dp/035846997X?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Carnivore Code: Unlocking the Secrets to Optimal Health by Returning to Our Ancestral Diet")
 

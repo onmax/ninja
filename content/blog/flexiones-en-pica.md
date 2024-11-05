@@ -3,16 +3,18 @@ title: Flexiones en pica
 subtitle: Niveles, pasos y progresiones para flexiones pike
 url: https://pau.ninja/flexiones-en-pica
 slug: flexiones-en-pica
-categories: 
+categories: []
 image: flexiones-en-pica.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/flexiones-en-pica.jpeg
 publishedAt: 2022-05-05T06:18:29.000Z
 modifiedAt: 2023-06-27T17:44:09.000Z
-scrappedAt: 2024-11-04T11:46:06.841Z
-audioLink: undefined
-bibliography: repeticiones
-repeticiones con el tiempo suficiente de descanso de volverte a poner en posición de pica (no descansar)
-repeticiones
+scrappedAt: 2024-11-05T04:30:53.659Z
+bibliography:
+  - repeticiones
+  - repeticiones con el tiempo suficiente de descanso de volverte a poner en
+    posición de pica (no descansar)
+  - repeticiones
+
 ---
 
 - 🟢 **Dificultad:** principiante

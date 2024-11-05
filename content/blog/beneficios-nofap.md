@@ -1,16 +1,17 @@
 ---
-title: NoFap: el arte de dejar de masturbarse
+title: "NoFap: el arte de dejar de masturbarse"
 subtitle: (beneficios del nofap)
 url: https://pau.ninja/beneficios-nofap
 slug: beneficios-nofap
-categories: 
+categories: []
 image: hombre-evitando-masturbacion.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/11/hombre-evitando-masturbacion.jpeg
 publishedAt: 2022-11-21T10:19:11.000Z
 modifiedAt: 2024-10-03T06:49:08.000Z
-scrappedAt: 2024-11-04T11:42:05.362Z
+scrappedAt: 2024-11-05T04:29:47.737Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/61321538/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-10-28%2F299679733-44100-2-06f973d4e39e4.mp3
-bibliography: 
+bibliography: []
+
 ---
 
 Felicidades por haber superado [No Nut November](./no-nut-november-beneficios), ninja de la vida (sueno a NPC de videojuego) (…).

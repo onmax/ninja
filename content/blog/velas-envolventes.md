@@ -1,16 +1,16 @@
 ---
 title: Velas envolventes
-subtitle: 
+subtitle: ""
 url: https://pau.ninja/velas-envolventes
 slug: velas-envolventes
-categories: 
+categories: []
 image: persona-en-envolvente.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-en-envolvente.jpeg
 publishedAt: 2024-05-28T12:24:31.000Z
 modifiedAt: 2024-05-29T08:28:04.000Z
-scrappedAt: 2024-11-04T11:12:03.602Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:26:42.504Z
+bibliography: []
+
 ---
 
 Uno de los [patrones de velas japonesas](./patrones-de-velas-japonesas) más rentables son las **velas envolventes**.

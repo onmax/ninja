@@ -3,14 +3,14 @@ title: Cajas de Darvas
 subtitle: el método de los 2 millones en bolsa durante los 50
 url: https://pau.ninja/cajas-de-darvas
 slug: cajas-de-darvas
-categories: 
+categories: []
 image: cajas-de-darvas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/cajas-de-darvas.jpg
 publishedAt: 2024-04-10T12:04:28.000Z
 modifiedAt: 2024-05-29T13:17:23.000Z
-scrappedAt: 2024-11-04T11:13:05.369Z
-audioLink: undefined
-bibliography: 
+scrappedAt: 2024-11-05T04:27:05.973Z
+bibliography: []
+
 ---
 
 Imagina ganar 2 millones de dólares empezando a invertir con una cuenta de $10.000.
@@ -49,7 +49,7 @@ Cuando no estaba bailando Darvas leía sobre inversión.
 
 De hecho llegó a leer más de 200 libros sobre los mercados y él mismo explicaba que se leía de forma **semanal** un clásico de los mercados:
 
-[![The Battle for Investment Survival: Complete and Unabridged by G. M. Loeb](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGME15MU1RbFpMUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU4NA=)](https://www.amazon.es/dp1617200557?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Battle for Investment Survival: Complete and Unabridged by G. M. Loeb")
+[![The Battle for Investment Survival: Complete and Unabridged by G. M. Loeb](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGME15MU1RbFpMUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MjcwMg=)](https://www.amazon.es/dp1617200557?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Battle for Investment Survival: Complete and Unabridged by G. M. Loeb")
 
 [The Battle for Investment Survival: Complete and Unabridged by G. M. Loeb](https://www.amazon.es/dp/1617200557?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "The Battle for Investment Survival: Complete and Unabridged by G. M. Loeb")
 
@@ -65,7 +65,7 @@ Nicolas Darvas atribuyó sus éxitos de la inversión a ser inspirado por estos 
 
 Quien le inspiró no sólo a escribir sus propios libros, sino a crear su famoso sistema de cajas. Las _cajas de Darvas_.
 
-[![How I Made $2,000,000 in the Stock Market: Now Revised & Updated for the 21st Century](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGU1ZWWnZhV1ptY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU4NA=)](https://www.amazon.es/dp1607964929?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How I Made $2,000,000 in the Stock Market: Now Revised & Updated for the 21st Century")
+[![How I Made $2,000,000 in the Stock Market: Now Revised & Updated for the 21st Century](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGU1ZWWnZhV1ptY0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MjcwMg=)](https://www.amazon.es/dp1607964929?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How I Made $2,000,000 in the Stock Market: Now Revised & Updated for the 21st Century")
 
 [How I Made $2,000,000 in the Stock Market: Now Revised & Updated for the 21st Century](https://www.amazon.es/dp/1607964929?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "How I Made $2,000,000 in the Stock Market: Now Revised & Updated for the 21st Century")
 
@@ -77,7 +77,7 @@ How I Made $2,000,000 in the Stock Market
 
 Ahora mismo rebajado
 
-[![You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFcldXNHJablZUTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDg5MTU4NA=)](https://www.amazon.es/dp0982055676?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...")
+[![You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFcldXNHJablZUTUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MjcwMg=)](https://www.amazon.es/dp0982055676?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...")
 
 [You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...](https://www.amazon.es/dp/0982055676?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "You Can Still Make It In The Market by Nicolas Darvas (the author of How I Made $2,000,000 In The...")
 

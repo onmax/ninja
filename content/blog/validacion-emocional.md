@@ -3,18 +3,31 @@ title: Validar emociones
 subtitle: el arte de empatizar ante la vulnerabilidad
 url: https://pau.ninja/validacion-emocional
 slug: validacion-emocional
-categories: 
+categories: []
 image: pareja-practicando-validacion-emocional.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/08/pareja-practicando-validacion-emocional.jpeg
 publishedAt: 2023-08-25T11:50:00.000Z
 modifiedAt: 2024-05-21T19:42:15.000Z
-scrappedAt: 2024-11-04T11:34:43.910Z
+scrappedAt: 2024-11-05T04:28:40.542Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/83197851/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-1-26%2F368796866-44100-2-39eb4e20313e8.mp3
-bibliography: Kelly JR, Iannone NE, McCarty MK. Emotional contagion of anger is automatic: An evolutionary explanation. Br J Soc Psychol. 2016 Mar;55(1):182-91. doi: 10.1111/bjso.12134. Epub 2015 Dec 14. PMID: 26660907.
-Bastiaansen JA, Thioux M, Keysers C. Evidence for mirror systems in emotions. Philos Trans R Soc Lond B Biol Sci. 2009 Aug 27;364(1528):2391-404. doi: 10.1098/rstb.2009.0058. PMID: 19620110; PMCID: PMC2865077.
-Kornferry. 2016. “New Research Shows Women Are Better at Using Soft Skills Crucial for Effective Leadership and Superior Business Performance, Finds Korn Ferry.”
-Lipman, Victor. 2015. “Are Women Really, as This Major Research Says, Better Managers than Men?” Forbes.
-Seehausen M, Kazzer P, Bajbouj M, Prehn K. Effects of empathic paraphrasing – extrinsic emotion regulation in social conflict. Front Psychol. 2012 Nov 12;3:482. doi: 10.3389/fpsyg.2012.00482. PMID: 23162516; PMCID: PMC3495333.
+bibliography:
+  - "Kelly JR, Iannone NE, McCarty MK. Emotional contagion of anger is
+    automatic: An evolutionary explanation. Br J Soc Psychol. 2016
+    Mar;55(1):182-91. doi: 10.1111/bjso.12134. Epub 2015 Dec 14. PMID:
+    26660907."
+  - "Bastiaansen JA, Thioux M, Keysers C. Evidence for mirror systems in
+    emotions. Philos Trans R Soc Lond B Biol Sci. 2009 Aug
+    27;364(1528):2391-404. doi: 10.1098/rstb.2009.0058. PMID: 19620110; PMCID:
+    PMC2865077."
+  - Kornferry. 2016. “New Research Shows Women Are Better at Using Soft Skills
+    Crucial for Effective Leadership and Superior Business Performance, Finds
+    Korn Ferry.”
+  - Lipman, Victor. 2015. “Are Women Really, as This Major Research Says, Better
+    Managers than Men?” Forbes.
+  - "Seehausen M, Kazzer P, Bajbouj M, Prehn K. Effects of empathic paraphrasing
+    – extrinsic emotion regulation in social conflict. Front Psychol. 2012 Nov
+    12;3:482. doi: 10.3389/fpsyg.2012.00482. PMID: 23162516; PMCID: PMC3495333."
+
 ---
 
 El cerebro es una esponja no sólo de conocimientos racionales y datos, sino también de emociones.
