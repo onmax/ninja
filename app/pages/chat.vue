@@ -1,6 +1,7 @@
 <script setup lang="ts">
 definePageMeta({
   title: 'Chat',
+  middleware: 'auth',
 })
 
 const { loggedIn } = useUserSession()

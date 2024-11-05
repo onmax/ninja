@@ -1,8 +1,5 @@
 <script setup lang="ts">
-useColorMode()
-
-// const { loggedIn, user, session, clear } = useUserSession()
-const { loggedIn, user } = useUserSession()
+const { user } = useUserSession()
 
 const route = useRoute()
 const title = route.meta.title as string || 'Ninja'
@@ -12,7 +9,7 @@ useHead({
   meta: [{ property: 'og:title', content: title }],
 })
 
-const showAside = useLocalStorage('show-aside', true)
+const showAside = useLocalStorage<boolean>('show-aside', true)
 
 const options = [
   // { label: string, href: string, icon: string }}
@@ -58,12 +55,8 @@ const options = [
   <div flex="~" relative h-screen>
     <aside bg="#fafafa" :class="showAside ? 'w-256' : 'w-0'" relative transition-width>
       <div :class="showAside ? 'left-0' : 'left--256'" flex="~ col" absolute h-full w-256 p-16 transition-left>
-        <NuxtLink to="/" relative flex="~ items-center gap-12" p-8>
-          <Icon name="game-icons:running-ninja" bottom--8 shrink-0 text-40 op-40 />
-          <span text-12 tracking-4 uppercase>
-            Ninja
-          </span>
-          <Icon name="game-icons:running-ninja" bottom--8 rotate-y-180 text-40 op-40 />
+        <NuxtLink to="/" p-8>
+          <Logo />
         </NuxtLink>
 
         <div mt-12 flex="~ col gap-4">
@@ -91,25 +84,19 @@ const options = [
           <div text="12 yellow-8" roudned-2 mb-16 bg-yellow-1 px-8 py-4 font-bold>
             Esta plataforma no está asociada con Pau Ninja
           </div>
-          <template v-if="loggedIn">
-            <Dropdown :options>
-              <div flex="~ gap-8" rounded-6>
-                <NuxtImg v-if="user?.avatar" :src="user?.avatar" size-32 rounded-8 />
-                <div flex="~ col items-start">
-                  <span truncate font-semibold lh-none>
-                    {{ user?.username }}
-                  </span>
-                  <span text="12 [#3f3f46]/70" truncate>
-                    {{ user?.email }}
-                  </span>
-                </div>
+          <Dropdown :options>
+            <div flex="~ gap-8" rounded-6>
+              <NuxtImg v-if="user?.avatar" :src="user?.avatar" size-32 rounded-8 />
+              <div flex="~ col items-start">
+                <span truncate font-semibold lh-none>
+                  {{ user?.username }}
+                </span>
+                <span text="12 [#3f3f46]/70" truncate>
+                  {{ user?.email }}
+                </span>
               </div>
-            </Dropdown>
-          </template>
-          <Button v-else href="/auth/discord" variant="outline" text-foreground transition-colors>
-            <Icon name="ph:discord-logo-duotone" scale-120 op-70 />
-            Iniciar sesión con Discord
-          </Button>
+            </div>
+          </Dropdown>
         </div>
       </div>
     </aside>

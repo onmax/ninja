@@ -3,6 +3,7 @@ import type { QueryBuilderWhere } from '@nuxt/content'
 
 definePageMeta({
   title: 'Blog',
+  middleware: 'auth',
 })
 
 const selectedCategory = useRouteQuery<string>('categoria', '')

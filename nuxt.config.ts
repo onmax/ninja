@@ -21,6 +21,7 @@ export default defineNuxtConfig({
     '@nuxt/fonts',
     '@nuxt/icon',
     '@nuxt/test-utils/module',
+    '@vueuse/motion/nuxt',
   ],
 
   css: [
@@ -41,6 +42,10 @@ export default defineNuxtConfig({
         },
       },
     },
+  },
+
+  routeRules: {
+    '/blog/**': { prerender: true },
   },
 
   nitro: {
