@@ -9,6 +9,7 @@ export const postRecord = sqliteTable('post_records', {
   publishedAt: integer('published_at', { mode: 'timestamp' }).notNull(),
   modifiedAt: integer('modified_at', { mode: 'timestamp' }),
   scrappedAt: integer('scrapped_at', { mode: 'timestamp' }).notNull(),
+  category: text().notNull(),
 })
 
 export const chunks = sqliteTable('chunks', {

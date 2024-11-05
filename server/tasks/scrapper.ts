@@ -64,26 +64,38 @@ export default defineTask({
         consola.warn(`We already have ${slug} up-to-date. Skipping...`)
         continue
       }
-      const { content, chunks } = post
+      const { content, chunks, frontmatter } = post
+      const { categories, modifiedAt, publishedAt, scrappedAt } = frontmatter
 
       if (shouldVectorize) {
         const vectors = await hubAI().run('@cf/baai/bge-base-en-v1.5', { text: chunks.map(chunk => chunk.content) }).then(res => res.data!)
 
-        const newPostRecord: NewPostRecord = { modifiedAt: post.frontmatter.modifiedAt, publishedAt: post.frontmatter.publishedAt, scrappedAt: post.frontmatter.scrappedAt, slug }
+        const category = categories.at(0) || 'none'
 
-        let postRecordId = -1
+        const newPostRecord: NewPostRecord = { modifiedAt, publishedAt, scrappedAt, slug, category }
+
+        let postRecord = { id: -1, category: '' }
 
         if (postRecord)
-          postRecordId = await useDrizzle().update(tables.postRecord).set(newPostRecord).where(eq(tables.postRecord.slug, slug)).returning({ id: tables.postRecord.id }).then(res => res.at(0)!.id)
+          postRecord = await useDrizzle().update(tables.postRecord).set(newPostRecord).where(eq(tables.postRecord.slug, slug)).returning({ id: tables.postRecord.id, category: tables.postRecord.category }).then(res => res[0])
         else
-          postRecordId = await useDrizzle().insert(tables.postRecord).values(newPostRecord).returning({ id: tables.postRecord.id }).then(res => res[0].id)
-        if (postRecordId === -1)
-          throw new Error(`error updating post record ${postRecordId}: ${slug}`)
+          postRecord = await useDrizzle().insert(tables.postRecord).values(newPostRecord).returning({ id: tables.postRecord.id, category: tables.postRecord.category }).then(res => res[0])
+        if (postRecord.id === -1)
+          throw new Error(`error updating post record ${postRecord}: ${slug}`)
 
-        await Promise.all(chunks.map((chunk, i) => {
-          const newChunk = { ...chunk, embedding: vectors[i], postRecordId }
-          return useDrizzle().insert(tables.chunks).values(newChunk).returning({ insertedId: tables.chunks.id })
+        const chunkIds = await Promise.all(chunks.map((chunk, i) => {
+          const newChunk = { ...chunk, embedding: vectors[i], postRecordId: postRecord.id }
+          return useDrizzle().insert(tables.chunks).values(newChunk).returning({ id: tables.chunks.id }).then(res => res[0].id)
         }))
+
+        await hubVectorize('chunks').insert(
+          vectors.map((vector, i) => ({
+            id: chunkIds[i],
+            values: vector,
+            namespace: category,
+            metadata: { slug },
+          })),
+        )
       }
 
       consola.info(`Writing ./content/blog/${slug}.md`)

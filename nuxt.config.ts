@@ -37,8 +37,7 @@ export default defineNuxtConfig({
         dimensions: 768, // @cf/baai/bge-base-en-v1.5
         metric: 'cosine',
         metadataIndexes: {
-          filename: 'string',
-          headers: 'string',
+          slug: 'string',
         },
       },
     },

@@ -5,7 +5,7 @@ interface SearchOptions {
 export async function searchChunks(text: string, options: SearchOptions = {}) {
   const { limit = 10 } = options
 
-  const index = hubVectorize('posts')
+  const index = hubVectorize('chunks')
   const queryVector = await hubAI().run('@cf/baai/bge-base-en-v1.5', { text }).then(res => res.data.at(0)!)
   const { matches } = await index.query(queryVector, { topK: limit })
 
