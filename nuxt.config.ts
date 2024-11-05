@@ -32,15 +32,15 @@ export default defineNuxtConfig({
   hub: {
     ai: true,
     database: true,
-    // vectorize: {
-    //   chunks: {
-    //     dimensions: 1024, // @cf/baai/bge-large-en-v1.5
-    //     metric: 'euclidean',
-    //     metadataIndexes: {
-    //       slug: 'string',
-    //     },
-    //   },
-    // },
+    vectorize: {
+      chunks: {
+        dimensions: 1024, // @cf/baai/bge-large-en-v1.5
+        metric: 'euclidean',
+        metadataIndexes: {
+          slug: 'string',
+        },
+      },
+    },
   },
 
   routeRules: {
