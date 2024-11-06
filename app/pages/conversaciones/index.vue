@@ -2,11 +2,11 @@
   <NuxtLayout>
     <article prose>
       <ProseH1>
-        En desarollo...
+        En desarrollo...
       </ProseH1>
 
       <p>
-        En este apartado tengo planeado transcribir las conversaciones que Pau ha tenido con diferentes personas y qué no están en el blog.
+        En este apartado tengo planeado transcribir las conversaciones que Pau ha mantenido con diferentes personas que no están en el blog.
       </p>
 
       <p>

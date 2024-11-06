@@ -3,10 +3,10 @@ definePageMeta({
   middleware: 'auth',
 })
 
-const { page } = useContent()
+const route = useRoute()
 
 const options = [
-  { label: 'Leer original', href: `https://pau.ninja/${page.value.slug}`, icon: 'ph:presentation-duotone' },
+  { label: 'Leer original', href: `https://pau.ninja/${route.params.slug}`, icon: 'ph:presentation-duotone' },
 ]
 </script>
 

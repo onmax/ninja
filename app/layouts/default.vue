@@ -4,9 +4,8 @@ const { user } = useUserSession()
 const { clear: logout } = useUserSession()
 
 const route = useRoute()
-const { page } = useContent()
-const isBlogPost = computed(() => route.path.startsWith('/blog/'))
-const title = route.meta.title as string || page.value?.title
+// const isBlogPost = computed(() => route.path.startsWith('/blog/'))
+const title = route.meta.title as string
 
 if (title) {
   useHead({
@@ -115,12 +114,12 @@ const options = [
           <Icon name="ph:sidebar-simple-duotone" shrink-0 text-16 />
         </button>
         <div mx-0 mr-20 h-16 w-1 shrink-0 bg-border />
-        <template v-if="isBlogPost">
+        <!-- <template v-if="isBlogPost">
           <NuxtLink to="/blog" line-clamp-1 text-foreground font-normal>
             Blog
           </NuxtLink>
           <Icon name="ph:caret-right-bold" relative bottom--2 mx-8 text-10 text-foreground op-70 />
-        </template>
+        </template> -->
         <p line-clamp-1 text-foreground font-normal>
           {{ title }}
         </p>

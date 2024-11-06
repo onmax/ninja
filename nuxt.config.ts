@@ -52,16 +52,15 @@ export default defineNuxtConfig({
     experimental: {
       tasks: true,
     },
+    prerender: {
+      crawlLinks: true,
+    },
   },
 
   watch: ['server/**/*'],
 
   colorMode: {
     classSuffix: '',
-  },
-
-  content: {
-    documentDriven: true,
   },
 
   features: {
