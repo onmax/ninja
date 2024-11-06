@@ -7,7 +7,7 @@ categories: []
 image: persona-usa-reencuadre-en-psicologia.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/persona-usa-reencuadre-en-psicologia.jpg
 publishedAt: 2024-10-17T09:03:34.000Z
-scrappedAt: 2024-11-05T04:25:37.467Z
+scrappedAt: 2024-11-06T11:40:13.203Z
 bibliography:
   - "Tversky, A. & Kahneman, D., 1974. Judgment under Uncertainty: Heuristics
     and Biases. _Science_, 185(4157), pp. 1124-1131"

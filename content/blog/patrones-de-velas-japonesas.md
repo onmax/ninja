@@ -7,7 +7,7 @@ categories: []
 image: persona-aprende-patrones-de-velas-japonesas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/persona-aprende-patrones-de-velas-japonesas.jpeg
 publishedAt: 2024-04-05T04:24:28.000Z
-scrappedAt: 2024-11-05T04:27:12.378Z
+scrappedAt: 2024-11-06T11:28:36.883Z
 bibliography: []
 
 ---
@@ -172,13 +172,13 @@ El que para mí ha sido el mejor libro porque ha utilizado _big data_ analizand
 
 Ahora mismo rebajado
 
-[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzYzMQ=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
+[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzUxNg=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 [Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 La biblia del análisis de datos y los patrones de velas japonesas.
 
-113,91 €
+113,31 €
 
 [Comprar en Amazon](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 

@@ -8,7 +8,7 @@ image: patron-bandera-alcista.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/patron-bandera-alcista.jpeg
 publishedAt: 2024-04-27T04:12:10.000Z
 modifiedAt: 2024-05-31T03:33:47.000Z
-scrappedAt: 2024-11-05T04:27:05.542Z
+scrappedAt: 2024-11-06T11:27:56.133Z
 bibliography: []
 
 ---

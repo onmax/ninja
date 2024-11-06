@@ -8,7 +8,7 @@ image: persona-con-espalda-de-calistenia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-con-espalda-de-calistenia.jpeg
 publishedAt: 2024-04-05T06:13:03.000Z
 modifiedAt: 2024-08-14T06:44:10.000Z
-scrappedAt: 2024-11-05T04:27:10.705Z
+scrappedAt: 2024-11-06T11:28:23.467Z
 bibliography:
   - "Lum, D., Barbosa, T. M., & Brett, S. (2020). Isometric strength training
     benefits on static and dynamic performance: A systematic review. _Strength

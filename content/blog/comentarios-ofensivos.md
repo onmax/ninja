@@ -7,7 +7,7 @@ categories: []
 image: hater-lidia-con-comentarios-ofensivos-en-redes-sociales.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/11/hater-lidia-con-comentarios-ofensivos-en-redes-sociales.jpg
 publishedAt: 2024-11-04T07:58:26.000Z
-scrappedAt: 2024-11-05T04:25:30.028Z
+scrappedAt: 2024-11-06T11:39:30.448Z
 bibliography:
   - Rozin, P., & Royzman, E. B. (2001). Negativity bias, negativity dominance,
     and contagion. Personality and Social Psychology Review, 5(4), 296-320.

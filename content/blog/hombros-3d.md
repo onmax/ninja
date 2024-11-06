@@ -8,7 +8,7 @@ image: persona-con-hombros-3D-en-el-gym.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/04/persona-con-hombros-3D-en-el-gym.jpeg
 publishedAt: 2024-04-28T06:33:57.000Z
 modifiedAt: 2024-08-16T04:35:49.000Z
-scrappedAt: 2024-11-05T04:27:04.702Z
+scrappedAt: 2024-11-06T11:47:23.529Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86059358/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-29%2F375936066-44100-2-1b42d557595d2.mp3
 bibliography:
   - “Ritmo Escapulohumeral | Evaluación de La Discinesia Escapular |SICK

@@ -1,5 +1,7 @@
 <script setup lang="ts">
-defineProps<{ options: { label: string, href: string, icon: string }[] }>()
+import { NuxtLink } from '#components'
+
+defineProps<{ options: { label: string, href?: string, onClick?: () => void, icon: string }[] }>()
 </script>
 
 <template>
@@ -14,17 +16,17 @@ defineProps<{ options: { label: string, href: string, icon: string }[] }>()
           <slot />
         </DropdownMenuLabel> -->
         <DropdownMenuItem
-          v-for="({ icon, label, href }) in options" :key="label"
+          v-for="({ icon, label, href, onClick }) in options" :key="label"
           class="relative flex cursor-default select-none items-center gap-16 rounded-sm px-8 py-6 text-14 outline-none transition-colors data-[disabled]:pointer-events-none hocus:bg-accent hocus:text-accent-foreground data-[disabled]:opacity-50"
         >
-          <NuxtLink :to="href" flex="~ items-center">
+          <component :is="onClick ? 'button' : NuxtLink" :to="onClick ? undefined : href" flex="~ items-center" :external="href?.startsWith('https')" :target="href?.startsWith('https') ? '_blank' : undefined" @click="onClick">
             <div size-24 flex="~ items-center justify-center" rounded-4>
               <Icon :name="icon" size-16 shrink-0 />
             </div>
             <span>
               {{ label }}
             </span>
-          </NuxtLink>
+          </component>
         </DropdownMenuItem>
       </DropdownMenuContent>
     </DropdownMenuPortal>

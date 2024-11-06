@@ -8,7 +8,7 @@ image: persona-con-material-de-calistenia.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/04/persona-con-material-de-calistenia.jpg
 publishedAt: 2024-07-31T06:30:12.000Z
 modifiedAt: 2024-07-31T07:09:29.000Z
-scrappedAt: 2024-11-05T04:26:17.725Z
+scrappedAt: 2024-11-06T11:43:59.782Z
 bibliography: []
 
 ---
@@ -85,7 +85,7 @@ Inconvenientes
 
 Una buena idea en vez del soporte de flexiones pueden ser las _paralettes_, que son lo mismo pero algo más altas. Si tengo que elegir entre los dos tipos, me quedo con las _paralettes_.
 
-[![FRANKOSTA Parallettes (Black - Regulable, 30)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGeFVGVjJkelZDWWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU1NQ=)](https://www.amazon.es/dpB09484CCLQ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "FRANKOSTA Parallettes (Black - Regulable, 30)")
+[![FRANKOSTA Parallettes (Black - Regulable, 30)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGeFVGVjJkelZDWWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQzOA=)](https://www.amazon.es/dpB09484CCLQ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "FRANKOSTA Parallettes (Black - Regulable, 30)")
 
 [FRANKOSTA Parallettes (Black - Regulable, 30)](https://www.amazon.es/dp/B09484CCLQ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "FRANKOSTA Parallettes (Black - Regulable, 30)")
 
@@ -128,7 +128,7 @@ Inconvenientes
 
 Después tenemos las barras paralelas que son muy similares a las _paralletes_, pero más altas y a coste de espacios y menos portabilidad, obvio.
 
-[![RAMASS Barras paralelas Fitness, Dip Station, para Gimnasia Calistenia](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT1JUbDRUVlZWY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU1NQ=)](https://www.amazon.es/dpB07HYD3GPN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RAMASS Barras paralelas Fitness, Dip Station, para Gimnasia Calistenia")
+[![RAMASS Barras paralelas Fitness, Dip Station, para Gimnasia Calistenia](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGT1JUbDRUVlZWY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQzOA=)](https://www.amazon.es/dpB07HYD3GPN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RAMASS Barras paralelas Fitness, Dip Station, para Gimnasia Calistenia")
 
 [RAMASS Barras paralelas Fitness, Dip Station, para Gimnasia Calistenia](https://www.amazon.es/dp/B07HYD3GPN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "RAMASS Barras paralelas Fitness, Dip Station, para Gimnasia Calistenia")
 
@@ -179,7 +179,7 @@ Cuidado aquí porque hay más tipo de barras para colgarnos que barras colgadas 
 
 Lo ideal sería que tuviéramos un techo enormemente alto (o un buen patio) y suficiente espacio, para que en vez de una barra de dominada pudiéramos anclar al suelo un marco. Esto nos permitiría incluso hacer _muscle-ups_ o colgar ahí unas anillas.
 
-[![Marbo Sport Multigimnasia estacionario con Barra de dominadas y estación de inmersión MH-D203 |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFNU1tbDVhVk5wYmxNdVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU1NQ=)](https://www.amazon.es/dpB07MSHQKQ6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Marbo Sport Multigimnasia estacionario con Barra de dominadas y estación de inmersión MH-D203 |...")
+[![Marbo Sport Multigimnasia estacionario con Barra de dominadas y estación de inmersión MH-D203 |...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFNU1tbDVhVk5wYmxNdVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQzOA=)](https://www.amazon.es/dpB07MSHQKQ6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Marbo Sport Multigimnasia estacionario con Barra de dominadas y estación de inmersión MH-D203 |...")
 
 [Marbo Sport Multigimnasia estacionario con Barra de dominadas y estación de inmersión MH-D203 |...](https://www.amazon.es/dp/B07MSHQKQ6?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Marbo Sport Multigimnasia estacionario con Barra de dominadas y estación de inmersión MH-D203 |...")
 
@@ -193,7 +193,7 @@ La mayoría de mortales pero que se hacen un gimnasio de calistenia en casa no t
 
 Lo ideal sería esta barra de gimnasta a dos metros y medio de altura, pero si al igual que a mi ex os falta espacio, no pasa nada porque ya avanzamos mucho colocando la barra de dominadas en el marco de la puerta.
 
-[![Barra de dominadas para marco de la puerta sin tornillos/taladro + guía de entrenamiento - Barra de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcGVVZzRUMlZzU0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU1NQ=)](https://www.amazon.es/dp/B076F74QF2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Barra de dominadas para marco de la puerta sin tornillostaladro + guía de entrenamiento - Barra de...")
+[![Barra de dominadas para marco de la puerta sin tornillos/taladro + guía de entrenamiento - Barra de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGcGVVZzRUMlZzU0V3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQzOA=)](https://www.amazon.es/dp/B076F74QF2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Barra de dominadas para marco de la puerta sin tornillostaladro + guía de entrenamiento - Barra de...")
 
 [Barra de dominadas para marco de la puerta sin tornillos/taladro + guía de entrenamiento - Barra de...](https://www.amazon.es/dp/B076F74QF2?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Barra de dominadas para marco de la puerta sin tornillos/taladro + guía de entrenamiento - Barra de...")
 
@@ -274,7 +274,7 @@ Personalmente me quedo con ambos.
 
 Tanto los cinturones con cadena y lastre, como los chalecos con peso son buenas opciones, pero para algunos ejercicios es mucho mejor utilizar la armilla/chaleco: por ejemplo con cualquier opción de flexión (vertical o horizontal) o hasta ejercicios de piernas.
 
-[![Phantom Athletics - Chaleco para lastre, con distintos pesos, fácil de ajustar, color Chaleco de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMlRuZFViM1ZYVGt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU1NQ=)](https://www.amazon.es/dpB07MTJXGCF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Phantom Athletics - Chaleco para lastre, con distintos pesos, fácil de ajustar, color Chaleco de...")
+[![Phantom Athletics - Chaleco para lastre, con distintos pesos, fácil de ajustar, color Chaleco de...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGMlRuZFViM1ZYVGt3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQzOA=)](https://www.amazon.es/dpB07MTJXGCF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Phantom Athletics - Chaleco para lastre, con distintos pesos, fácil de ajustar, color Chaleco de...")
 
 [Phantom Athletics - Chaleco para lastre, con distintos pesos, fácil de ajustar, color Chaleco de...](https://www.amazon.es/dp/B07MTJXGCF?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Phantom Athletics - Chaleco para lastre, con distintos pesos, fácil de ajustar, color Chaleco de...")
 
@@ -291,7 +291,7 @@ Claro que los cinturones puedes ir añadiendo discos a placer, pero en cambio lo
 
 Para los cinturones, yo pillé uno de ajuste lumbar normal, me fui a la ferretería del pueblo y me vendieron el mosquetón con la cadena de la medida que quería y nunca he tenido ningún problema al respecto.
 
-[![Dip Belt Cinturón Lastre Dominadas de inmersión de Neopreno Con Cadena Para La Adición De Pesa De...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaUsyWXhaVmRZUkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU1NQ=)](https://www.amazon.es/dpB073B792JH?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Dip Belt Cinturón Lastre Dominadas de inmersión de Neopreno Con Cadena Para La Adición De Pesa De...")
+[![Dip Belt Cinturón Lastre Dominadas de inmersión de Neopreno Con Cadena Para La Adición De Pesa De...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGaUsyWXhaVmRZUkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQzOA=)](https://www.amazon.es/dpB073B792JH?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Dip Belt Cinturón Lastre Dominadas de inmersión de Neopreno Con Cadena Para La Adición De Pesa De...")
 
 [Dip Belt Cinturón Lastre Dominadas de inmersión de Neopreno Con Cadena Para La Adición De Pesa De...](https://www.amazon.es/dp/B073B792JH?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Dip Belt Cinturón Lastre Dominadas de inmersión de Neopreno Con Cadena Para La Adición De Pesa De...")
 
@@ -315,7 +315,7 @@ Inconvenientes
 
 Son muy útiles si le estamos dando volumen a nuestros ejercicios de empuje vertical y horizontal. Pensad que cualquier ejercicio que podríamos hacer con las palmas en el suelo, si le metemos unos mangos para flexiones o _paralletes_ el esfuerzo es el mismo pero hay mucho menos estrés en las muñecas.
 
-[![PULLUP & DIP soportes para flexiones con mango ergonómico de madera y acero resistente - Flexiones...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRU4xSkRORU55UjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNDU1NQ=)](https://www.amazon.es/dpB07GCXWN5G?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "PULLUP & DIP soportes para flexiones con mango ergonómico de madera y acero resistente - Flexiones...")
+[![PULLUP & DIP soportes para flexiones con mango ergonómico de madera y acero resistente - Flexiones...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGRU4xSkRORU55UjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQzOA=)](https://www.amazon.es/dpB07GCXWN5G?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "PULLUP & DIP soportes para flexiones con mango ergonómico de madera y acero resistente - Flexiones...")
 
 [PULLUP & DIP soportes para flexiones con mango ergonómico de madera y acero resistente - Flexiones...](https://www.amazon.es/dp/B07GCXWN5G?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "PULLUP & DIP soportes para flexiones con mango ergonómico de madera y acero resistente - Flexiones...")
 

@@ -8,7 +8,7 @@ image: persona-entrena-piernas-con-calistenia.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-entrena-piernas-con-calistenia.jpg
 publishedAt: 2024-08-11T05:37:52.000Z
 modifiedAt: 2024-08-15T04:46:28.000Z
-scrappedAt: 2024-11-05T04:26:06.980Z
+scrappedAt: 2024-11-06T11:43:01.031Z
 bibliography:
   - "Semciw, A. I., et al., 2016. The effects of hip strengthening on pain and
     function in people with hip osteoarthritis: a systematic review and
@@ -455,7 +455,7 @@ Hacerlo limpio y sin asistencia es extremadamente difícil pero por suerte para 
 
 Básicamente se trata de ponerse de rodillas, pero con los pies sujetados en alguna superficie. Yo utilizo una especie de tira que se pone por debajo de la puerta y así puedo poner los pies.
 
-[![Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbWRFNDVlRTFRY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNzAyOA=)](https://www.amazon.es/dpB0BD51DNZW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...")
+[![Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGbWRFNDVlRTFRY2t3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQxNg=)](https://www.amazon.es/dpB0BD51DNZW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...")
 
 [Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...](https://www.amazon.es/dp/B0BD51DNZW?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Nordic Hamstring Curl Strap, Sit-ups Máquina de Entrenamiento de Muslos Piernas Abdominales...")
 

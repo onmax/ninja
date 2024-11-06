@@ -7,7 +7,7 @@ categories: []
 image: trader-usa-medias-moviles.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-usa-medias-moviles.jpeg
 publishedAt: 2024-05-16T08:27:19.000Z
-scrappedAt: 2024-11-05T04:26:53.359Z
+scrappedAt: 2024-11-06T11:46:39.558Z
 bibliography:
   - SMA
   - EMA

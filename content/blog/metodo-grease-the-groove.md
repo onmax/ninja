@@ -8,7 +8,7 @@ image: persona-entrena-con-metodo-grease-the-groove.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/persona-entrena-con-metodo-grease-the-groove.jpg
 publishedAt: 2024-09-23T06:24:31.000Z
 modifiedAt: 2024-09-25T05:43:31.000Z
-scrappedAt: 2024-11-05T04:25:42.417Z
+scrappedAt: 2024-11-06T11:41:00.444Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/53247121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2022-5-9%2F18425111-48f6-011a-1923-07e71c2c6b53.mp3
 bibliography:
   - Enoka, R. M. (2008). Neuromechanics of muscle and motor control. Journal of

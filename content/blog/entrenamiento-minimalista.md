@@ -8,7 +8,7 @@ image: persona-hace-entrenamiento-minimalista.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-hace-entrenamiento-minimalista.jpeg
 publishedAt: 2024-07-31T05:56:54.000Z
 modifiedAt: 2024-10-06T17:34:21.000Z
-scrappedAt: 2024-11-05T04:26:18.065Z
+scrappedAt: 2024-11-06T11:44:06.679Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/91765091/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-16%2F386448478-44100-2-b64316c45118f.mp3
 bibliography:
   - "días a la semana: 2 días de fuerza, 1 día de acondicionamiento."

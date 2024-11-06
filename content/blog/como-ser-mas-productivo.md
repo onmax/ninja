@@ -8,7 +8,7 @@ image: persona-mas-productiva.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/persona-mas-productiva.jpeg
 publishedAt: 2024-06-16T06:04:50.000Z
 modifiedAt: 2024-08-11T17:16:08.000Z
-scrappedAt: 2024-11-05T04:26:33.277Z
+scrappedAt: 2024-11-06T11:45:10.920Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/88779645/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-3%2F382318406-44100-2-e5efc1d6b2e7a.mp3
 bibliography:
   - minutillos es todo lo que necesitas

@@ -7,8 +7,9 @@ categories: []
 image: hombre-practica-retencion-seminal.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/hombre-practica-retencion-seminal.jpg
 publishedAt: 2024-10-03T06:47:40.000Z
-modifiedAt: 2024-11-03T07:56:34.000Z
-scrappedAt: 2024-11-05T04:25:38.789Z
+modifiedAt: 2024-11-05T19:04:26.000Z
+scrappedAt: 2024-11-06T11:40:40.277Z
+audioLink: https://anchor.fm/s/98566448/podcast/play/93422465/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-23%2F388573620-44100-2-4cfcbabda2717.mp3
 bibliography:
   - Kvist, U., & Kjellberg, S. (1982). Deposition of zinc in the epididymal
     spermatozoa and its relation to motility. Andrologia, 14(3), 186-192.

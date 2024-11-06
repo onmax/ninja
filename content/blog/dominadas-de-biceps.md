@@ -8,7 +8,7 @@ image: persona-hace-dominadas-de-biceps.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-hace-dominadas-de-biceps.jpg
 publishedAt: 2024-08-20T05:56:36.000Z
 modifiedAt: 2024-11-01T09:03:41.000Z
-scrappedAt: 2024-11-05T04:25:57.705Z
+scrappedAt: 2024-11-06T11:42:21.349Z
 bibliography:
   - Signorile, J. F., Zink, A. J., & Szwed, S. (2002). A comparative
     electromyographical investigation of muscle utilization patterns using

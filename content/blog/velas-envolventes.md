@@ -8,7 +8,7 @@ image: persona-en-envolvente.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-en-envolvente.jpeg
 publishedAt: 2024-05-28T12:24:31.000Z
 modifiedAt: 2024-05-29T08:28:04.000Z
-scrappedAt: 2024-11-05T04:26:42.504Z
+scrappedAt: 2024-11-06T11:45:51.845Z
 bibliography: []
 
 ---

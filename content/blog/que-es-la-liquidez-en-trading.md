@@ -8,7 +8,7 @@ image: trader-con-liquidez.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/trader-con-liquidez.jpeg
 publishedAt: 2024-07-03T04:39:00.000Z
 modifiedAt: 2024-07-08T08:57:15.000Z
-scrappedAt: 2024-11-05T04:26:27.317Z
+scrappedAt: 2024-11-06T11:44:46.044Z
 bibliography:
   - día
   - horas

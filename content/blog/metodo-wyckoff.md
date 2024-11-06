@@ -8,7 +8,7 @@ image: richard-wyckoff-metodo.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/richard-wyckoff-metodo.jpeg
 publishedAt: 2024-06-14T04:53:51.000Z
 modifiedAt: 2024-07-08T05:14:01.000Z
-scrappedAt: 2024-11-05T04:26:34.926Z
+scrappedAt: 2024-11-06T11:45:19.601Z
 bibliography: []
 
 ---

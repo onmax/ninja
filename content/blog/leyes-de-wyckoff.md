@@ -8,7 +8,7 @@ image: leyes-de-wyckoff.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/leyes-de-wyckoff.jpg
 publishedAt: 2024-04-06T04:20:01.000Z
 modifiedAt: 2024-08-10T19:43:54.000Z
-scrappedAt: 2024-11-05T04:27:07.564Z
+scrappedAt: 2024-11-06T11:28:13.084Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/88395083/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-5-24%2F381510929-44100-2-8978773c4d59c.mp3
 bibliography: []
 
@@ -40,7 +40,7 @@ Explicaciones maravillosas pero debe ser por mi necesidad de que me lo expliquen
 
 Por esto recurrí a… explicármelo a mi mismo. Y a vosotros.
 
-[![La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWlZ6VjBNRTR6TTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzYyNw=)](https://www.amazon.es/dp1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
+[![La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGWlZ6VjBNRTR6TTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzUxMQ=)](https://www.amazon.es/dp1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
 
 [La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)](https://www.amazon.es/dp/1720259321?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "La metodología Wyckoff en profundidad (Curso de Trading e Inversión: Análisis Técnico avanzado)")
 

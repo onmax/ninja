@@ -8,7 +8,7 @@ image: resultados-de-sobrecarga-progresiva-en-gym.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/03/resultados-de-sobrecarga-progresiva-en-gym.jpeg
 publishedAt: 2024-08-02T00:33:06.000Z
 modifiedAt: 2024-10-29T18:20:44.000Z
-scrappedAt: 2024-11-05T04:26:17.328Z
+scrappedAt: 2024-11-06T11:43:51.818Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/92790571/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-9%2F387795720-44100-2-69aeb35daa9f9.mp3
 bibliography:
   - Ahtiainen, J. P., Pakarinen, A., Alen, M., Kraemer, W. J., & Häkkinen, K.

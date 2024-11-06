@@ -8,7 +8,7 @@ image: persona-con-disciplina-y-libertad.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-con-disciplina-y-libertad.jpg
 publishedAt: 2024-09-28T09:40:16.000Z
 modifiedAt: 2024-10-17T17:31:05.000Z
-scrappedAt: 2024-11-05T04:25:39.174Z
+scrappedAt: 2024-11-06T11:40:46.289Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/92684668/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-9-7%2F387662773-44100-2-27ade811a1786.mp3
 bibliography:
   - Duckworth, A. L., & Seligman, M. E. (2005). Self-discipline outdoes IQ in
@@ -71,11 +71,11 @@ Vale la pena que lo exploremos.
 
 ## Descargar libro de disciplina es igual a libertad en PDF
 
-[![Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFNFFYWnpWV2h5TUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNTQ0Mg=)](https://www.amazon.es/dpB08CT4JHTG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)")
+[![Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFNFFYWnpWV2h5TUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM3Ng=)](https://www.amazon.es/dpB08CT4JHTG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)")
 
 [Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)](https://www.amazon.es/dp/B08CT4JHTG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Discipline Equals Freedom: Field Manual Mk1-MOD1 (English Edition)")
 
-15,49 €
+13,99 €
 
 [Comprar en Amazon](https://www.amazon.es/dp/B08CT4JHTG?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 

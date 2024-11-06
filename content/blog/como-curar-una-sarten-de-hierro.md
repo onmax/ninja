@@ -7,7 +7,7 @@ categories: []
 image: como-curar-una-sarten-de-hierro​.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/como-curar-una-sarten-de-hierro​.jpg
 publishedAt: 2024-11-02T04:53:52.000Z
-scrappedAt: 2024-11-05T04:25:30.781Z
+scrappedAt: 2024-11-06T11:39:44.350Z
 bibliography:
   - "% saturado, 9 % omega-3 y 19 % omega-6, lo que permite una polimerización
     rápida y fácil"

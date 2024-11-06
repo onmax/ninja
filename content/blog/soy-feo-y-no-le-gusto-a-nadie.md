@@ -8,7 +8,7 @@ image: soy-feo-y-no-le-gusto-a-nadie.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/soy-feo-y-no-le-gusto-a-nadie.jpg
 publishedAt: 2024-08-25T06:57:59.000Z
 modifiedAt: 2024-10-25T07:00:56.000Z
-scrappedAt: 2024-11-05T04:25:55.721Z
+scrappedAt: 2024-11-06T11:42:05.157Z
 bibliography:
   - Rhodes, 2006. The Evolutionary Psychology of Facial Beauty. Annual Review of
     Psychology, 57(1), 199-226

@@ -8,7 +8,7 @@ image: persona-con-azul-de-metileno.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-con-azul-de-metileno.jpeg
 publishedAt: 2024-03-10T05:56:54.000Z
 modifiedAt: 2024-05-21T19:50:53.000Z
-scrappedAt: 2024-11-05T04:27:23.366Z
+scrappedAt: 2024-11-06T11:29:36.510Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/84431663/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-23%2F371921566-44100-2-e2f4da8d714c4.mp3
 bibliography:
   - "Visarius TM, Stucki JW, Lauterburg BH. Stimulation of respiration by

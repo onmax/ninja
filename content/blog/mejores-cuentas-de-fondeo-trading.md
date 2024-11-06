@@ -8,7 +8,7 @@ image: trader-con-las-mejores-cuentas-de-fondeo.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/trader-con-las-mejores-cuentas-de-fondeo.jpg
 publishedAt: 2024-03-09T03:27:37.000Z
 modifiedAt: 2024-07-11T03:46:19.000Z
-scrappedAt: 2024-11-05T04:27:23.725Z
+scrappedAt: 2024-11-06T11:29:48.939Z
 bibliography: []
 
 ---

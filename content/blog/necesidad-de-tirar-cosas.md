@@ -8,7 +8,7 @@ image: persona-con-necesidad-de-tirar-cosas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/persona-con-necesidad-de-tirar-cosas.jpg
 publishedAt: 2024-10-19T06:29:13.000Z
 modifiedAt: 2024-10-28T15:22:06.000Z
-scrappedAt: 2024-11-05T04:25:33.172Z
+scrappedAt: 2024-11-06T11:40:06.753Z
 bibliography:
   - "Chaplin, L. N., & John, D. R. (2007). Growing up in a material world: Age
     differences in materialism in children and adolescents. Journal of Consumer

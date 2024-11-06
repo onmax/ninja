@@ -9,7 +9,7 @@ import { $fetch } from 'ofetch'
 import TurndownService from 'turndown'
 import { stringify as stringifyYaml } from 'yaml'
 
-const shouldVectorize = false
+const shouldVectorize = true
 const force = true
 
 const debugSlugs: string[] = [
@@ -50,58 +50,66 @@ export default defineTask({
     if (!import.meta.dev)
       throw createError('This task is only available in development mode')
 
-    consola.log('Running Scraper')
+    consola.log('Running Scrapper')
 
     await mkdir(folder, { recursive: true })
     let counter = 0
 
     for await (const postLink of getPosts()) {
       const slug = getSlug(postLink)
-      const postRecord = await useDrizzle().select().from(tables.postRecord).where(eq(tables.postRecord.slug, slug)).get()
-      const alreadyStoredTimestamps = postRecord && !force ? { publishedAt: postRecord?.publishedAt, modifiedAt: postRecord?.modifiedAt } : undefined
-      const post = await parsePost(postLink, { alreadyStoredTimestamps })
-      if (!post) {
-        consola.warn(`We already have ${slug} up-to-date. Skipping...`)
-        continue
+      try {
+        const postRecord = await useDrizzle().select().from(tables.postRecord).where(eq(tables.postRecord.slug, slug)).get()
+        const alreadyStoredTimestamps = postRecord && !force ? { publishedAt: postRecord?.publishedAt, modifiedAt: postRecord?.modifiedAt } : undefined
+        const post = await parsePost(postLink, { alreadyStoredTimestamps })
+        if (!post) {
+          consola.warn(`We already have ${slug} up-to-date. Skipping...`)
+          continue
+        }
+        const { content, chunks, frontmatter } = post
+        const { categories, modifiedAt, publishedAt, scrappedAt } = frontmatter
+
+        if (shouldVectorize) {
+          const category = categories.at(0) || 'none'
+          const newPostRecord: NewPostRecord = { modifiedAt, publishedAt, scrappedAt, slug, category }
+
+          const postRecordExists = !!postRecord?.id
+          consola.info(`Processing ${slug}: ${postRecordExists ? 'updating' : 'inserting'} record and vectors`)
+
+          // Update or insert post record
+          const { id: postRecordId } = postRecordExists
+            ? await useDrizzle().update(tables.postRecord).set(newPostRecord).where(eq(tables.postRecord.slug, slug)).returning({ id: tables.postRecord.id }).then(res => res[0])
+            : await useDrizzle().insert(tables.postRecord).values(newPostRecord).returning({ id: tables.postRecord.id }).then(res => res[0])
+          if (!postRecordId || postRecordId === -1)
+            throw new Error(`Error updating/inserting post record for slug: ${slug}`)
+
+          consola.info(`Post record for ${slug} ${postRecordExists ? 'updated' : 'inserted'}`)
+          // Insert chunks with error handling
+          const storedChunks = await Promise.all(chunks.map(async (chunk, i) => {
+            const storedChunk = await useDrizzle().select().from(tables.chunks).where(and(eq(tables.chunks.headers, chunk.headers!), eq(tables.chunks.content, chunk.content))).get()
+            if (storedChunk) {
+              consola.info(`Headers and content for ${slug} chunk ${i + 1}/${chunks.length} already exist, but content is different. Updating...`)
+              return storedChunk
+            }
+            else {
+              consola.info(`Generating vector for ${slug} chunk ${i + 1}/${chunks.length}`)
+              const vectors = await hubAI().run('@cf/baai/bge-large-en-v1.5', { text: chunks.map(chunk => chunk.content) }).then(res => res.data!)
+              const newChunk = await useDrizzle().insert(tables.chunks).values({ ...chunk, embedding: vectors[i], postRecordId }).returning().then(res => res[0])
+              return newChunk
+            }
+          }))
+
+          await hubVectorize('chunks').upsert(storedChunks.map(({ id, embedding }) => ({ id, values: embedding!, metadata: { slug } })))
+          const filePath = `${folder}/${slug}.md`
+          await writeFile(filePath, content)
+          consola.info(`Successfully processed ${slug}: updated record and vectors. Writed ./content/blog/${slug}.md\n-------------------`)
+        }
+
+        counter++
       }
-      const { content, chunks, frontmatter } = post
-      const { categories, modifiedAt, publishedAt, scrappedAt } = frontmatter
-
-      if (shouldVectorize) {
-        const vectors = await hubAI().run('@cf/baai/bge-large-en-v1.5', { text: chunks.map(chunk => chunk.content) }).then(res => res.data!)
-
-        const category = categories.at(0) || 'none'
-
-        const newPostRecord: NewPostRecord = { modifiedAt, publishedAt, scrappedAt, slug, category }
-
-        let postRecord = { id: -1, category: '' }
-
-        if (postRecord)
-          postRecord = await useDrizzle().update(tables.postRecord).set(newPostRecord).where(eq(tables.postRecord.slug, slug)).returning({ id: tables.postRecord.id, category: tables.postRecord.category }).then(res => res[0])
-        else
-          postRecord = await useDrizzle().insert(tables.postRecord).values(newPostRecord).returning({ id: tables.postRecord.id, category: tables.postRecord.category }).then(res => res[0])
-        if (postRecord.id === -1)
-          throw new Error(`error updating post record ${postRecord}: ${slug}`)
-
-        const chunkIds = await Promise.all(chunks.map((chunk, i) => {
-          const newChunk = { ...chunk, embedding: vectors[i], postRecordId: postRecord.id }
-          return useDrizzle().insert(tables.chunks).values(newChunk).returning({ id: tables.chunks.id }).then(res => res[0].id)
-        }))
-
-        await hubVectorize('chunks').insert(
-          vectors.map((vector, i) => ({
-            id: chunkIds[i],
-            values: vector,
-            namespace: category,
-            metadata: { slug },
-          })),
-        )
+      catch (error) {
+        consola.error(`Failed to process ${slug}:`, error)
+        throw error
       }
-
-      consola.info(`Writing ./content/blog/${slug}.md`)
-      const filePath = `${folder}/${slug}.md`
-      await writeFile(filePath, content)
-      counter++
     }
 
     consola.info(`Scraped ${counter} posts`)

@@ -8,7 +8,7 @@ image: persona-que-establece-metas.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-que-establece-metas.jpeg
 publishedAt: 2024-03-11T09:46:35.000Z
 modifiedAt: 2024-05-21T19:51:25.000Z
-scrappedAt: 2024-11-05T04:27:22.900Z
+scrappedAt: 2024-11-06T11:29:30.683Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/84294926/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-2-20%2F371579650-44100-2-65f57bf780178.mp3
 bibliography:
   - Locke, Edwin & Latham, Gary. (1991). A Theory of Goal Setting & Task

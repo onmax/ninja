@@ -5,7 +5,7 @@
   "packageManager": "pnpm@9.12.3",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --remote",
     "generate": "nuxt generate",
     "preview": "npx nuxthub preview",
     "deploy": "npx nuxthub deploy",

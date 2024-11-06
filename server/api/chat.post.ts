@@ -21,6 +21,16 @@ export default defineLazyEventHandler(() => {
     if (bodyIssues)
       throw createError({ statusCode: 400, statusMessage: 'Invalid newsletter signup data', message: JSON.stringify(bodyIssues) })
 
+    consola.info('Received chat message', body)
+    const lastMessage = body.messages.at(-1)!.content
+
+    const chunks = await searchChunks(lastMessage)
+
+    const chatContext = chunks.map(chunk => `<${chunk.headers?.at(-1)}>${chunk.content}</${chunk.headers?.at(-1)}>`).join('\n')
+
+    body.messages.push({ role: 'user', content: chatContext })
+    consola.info('Sending chat message', body.messages)
+
     const result = await streamText({ model: openai('gpt-4-turbo'), messages: convertToCoreMessages([{ role: 'assistant', content: systemPrompt }, ...body.messages]) })
     return result.toDataStreamResponse()
   })

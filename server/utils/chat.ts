@@ -9,6 +9,17 @@ Tu objetivo es explicar las ideas de Pau Ninja de forma sencilla, asegurándote 
 Usa el contenido del blog para respaldar tus respuestas, pero asegúrate de que tu tono sea conversacional y amigable. Puedes compartir detalles adicionales del blog si crees que son relevantes para la discusión o para aclarar conceptos. No des por hecho que el usuario está familiarizado con todos los temas, así que procura explicar con claridad, pero sin complicaciones innecesarias.
 `.trim()
 
+export function contextPrompt(context: string, userMessage: string) {
+  return `
+${userMessage}.
+
+<context>
+A continuación, se muestra un resumen de las publicaciones más relevantes que podrían ayudarte a responder a sus preguntas. Si necesitas más información, no dudes en pedirla.
+${context}
+</context>
+`.trim()
+}
+
 export const ChatSchema = object({
   messages: array(object({
     role: union([literal('user'), literal('assistant'), literal('tool')]), // system is reserved for the server

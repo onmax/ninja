@@ -8,7 +8,7 @@ image: persona-entrena-fuerza-explosiva.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-fuerza-explosiva.jpg
 publishedAt: 2024-08-22T06:14:49.000Z
 modifiedAt: 2024-09-04T14:07:02.000Z
-scrappedAt: 2024-11-05T04:25:57.378Z
+scrappedAt: 2024-11-06T11:42:13.400Z
 bibliography:
   - "Saxena, S., & Raja, S. (2016). Adrenaline surge and temporary superhuman
     strength: A myth or reality? Journal of Emergencies, Trauma, and Shock,

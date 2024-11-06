@@ -8,7 +8,7 @@ image: persona-entrena-7-dias-a-la-semana.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-7-dias-a-la-semana.jpg
 publishedAt: 2024-08-06T06:16:57.000Z
 modifiedAt: 2024-08-27T04:38:16.000Z
-scrappedAt: 2024-11-05T04:26:11.923Z
+scrappedAt: 2024-11-06T11:43:28.820Z
 bibliography:
   - "Bompa, T.O., & Haff, G.G. (2009). Periodization: Theory and Methodology of
     Training."

@@ -8,7 +8,7 @@ image: fases-del-ayuno-por-horas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/fases-del-ayuno-por-horas.jpg
 publishedAt: 2024-10-27T08:41:17.000Z
 modifiedAt: 2024-10-28T06:23:23.000Z
-scrappedAt: 2024-11-05T04:25:31.242Z
+scrappedAt: 2024-11-06T11:39:51.749Z
 bibliography:
   - Cahill, G.F., 2006. Fuel metabolism in starvation. _Annual Review of
     Nutrition_, 26(1), 1-22

@@ -8,7 +8,7 @@ image: hombre-en-forma-en-casa-desde-cero-a-los-40.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/hombre-en-forma-en-casa-desde-cero-a-los-40.jpg
 publishedAt: 2024-09-28T09:14:01.000Z
 modifiedAt: 2024-10-17T08:09:24.000Z
-scrappedAt: 2024-11-05T04:25:39.532Z
+scrappedAt: 2024-11-06T11:40:53.254Z
 bibliography:
   - Schoenfeld, B. J. (2010). «The mechanisms of muscle hypertrophy and their
     application to resistance training.» Journal of Strength and Conditioning

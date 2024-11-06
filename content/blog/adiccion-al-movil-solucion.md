@@ -7,7 +7,7 @@ categories: []
 image: persona-con-adiccion-al-movil.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/persona-con-adiccion-al-movil.jpg
 publishedAt: 2024-10-23T11:50:27.000Z
-scrappedAt: 2024-11-05T04:25:31.618Z
+scrappedAt: 2024-11-06T11:39:58.623Z
 bibliography:
   - Statista Research Department. (2023). Average daily time spent on mobile
     devices per capita worldwide from 2013 to 2023. _Statista_.
@@ -223,7 +223,7 @@ Pero una de las compras más interesantes que hice la última vez que visité a 
 
 Ahora mismo rebajado
 
-[![BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWVRpMTVNbVExYTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyNjMxNg=)](https://www.amazon.es/dpB0D2NGSF16?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)")
+[![BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGWVRpMTVNbVExYTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1Njc2NQ=)](https://www.amazon.es/dpB0D2NGSF16?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)")
 
 [BOOX Palma 6.13" Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)](https://www.amazon.es/dp/B0D2NGSF16?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "BOOX Palma 6.13' Móvil ePapel Reader 128 GB Android 11 Luz E-Ink Cámara (Negro)")
 

@@ -8,7 +8,7 @@ image: persona-hace-trading-minimalista.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/persona-hace-trading-minimalista.jpg
 publishedAt: 2024-05-26T02:58:56.000Z
 modifiedAt: 2024-10-02T13:15:58.000Z
-scrappedAt: 2024-11-05T04:26:44.349Z
+scrappedAt: 2024-11-06T11:45:58.852Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/90620638/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-7-19%2F384997208-44100-2-c46dbaaf6d573.mp3
 bibliography: []
 

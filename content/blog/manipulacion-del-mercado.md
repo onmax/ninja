@@ -8,7 +8,7 @@ image: manipulacion-del-mercado.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/manipulacion-del-mercado.jpg
 publishedAt: 2024-06-20T05:39:11.000Z
 modifiedAt: 2024-06-20T12:55:37.000Z
-scrappedAt: 2024-11-05T04:26:31.646Z
+scrappedAt: 2024-11-06T11:45:02.448Z
 bibliography: []
 
 ---

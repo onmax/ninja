@@ -8,7 +8,7 @@ image: fases-del-mercado-segun-wyckoff.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/fases-del-mercado-segun-wyckoff.jpeg
 publishedAt: 2024-06-12T07:29:10.000Z
 modifiedAt: 2024-06-20T12:16:59.000Z
-scrappedAt: 2024-11-05T04:26:36.440Z
+scrappedAt: 2024-11-06T11:45:26.896Z
 bibliography: []
 
 ---

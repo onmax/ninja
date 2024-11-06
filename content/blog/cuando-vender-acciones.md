@@ -8,7 +8,7 @@ image: persona-vende-acciones-de-bolsa.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/02/persona-vende-acciones-de-bolsa.jpeg
 publishedAt: 2024-05-05T05:08:52.000Z
 modifiedAt: 2024-08-10T19:46:41.000Z
-scrappedAt: 2024-11-05T04:26:58.485Z
+scrappedAt: 2024-11-06T11:47:01.119Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/89329433/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-6-17%2F383349567-44100-2-56d590ff378ce.mp3
 bibliography: []
 

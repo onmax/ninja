@@ -8,7 +8,7 @@ image: deprimido-llorando.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/02/deprimido-llorando.jpeg
 publishedAt: 2024-03-01T07:17:19.000Z
 modifiedAt: 2024-07-13T05:51:20.000Z
-scrappedAt: 2024-11-05T04:27:28.973Z
+scrappedAt: 2024-11-06T11:30:13.260Z
 bibliography:
   - "GBD 2015 Mortality and Causes of Death Collaborators (8 October 2016).
     «Global, regional, and national life expectancy, all-cause mortality, and
@@ -280,7 +280,7 @@ No es que su libro «El Hombre en Busca de Sentido» me hiciera dar cuenta de lo
 
 Ahora mismo rebajado
 
-[![El Hombre en busca de Sentido (SIN COLECCION)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNGEwOUNkamxTYmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzY0Nw=)](https://www.amazon.es/dp8425432022?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Hombre en busca de Sentido (SIN COLECCION)")
+[![El Hombre en busca de Sentido (SIN COLECCION)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNGEwOUNkamxTYmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA2NTQxNA=)](https://www.amazon.es/dp8425432022?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Hombre en busca de Sentido (SIN COLECCION)")
 
 [El Hombre en busca de Sentido (SIN COLECCION)](https://www.amazon.es/dp/8425432022?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "El Hombre en busca de Sentido (SIN COLECCION)")
 

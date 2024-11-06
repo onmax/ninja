@@ -8,7 +8,7 @@ image: entrenando-con-poco-peso-y-muchas-repeticiones.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/entrenando-con-poco-peso-y-muchas-repeticiones.jpg
 publishedAt: 2024-09-04T08:09:08.000Z
 modifiedAt: 2024-10-24T06:51:41.000Z
-scrappedAt: 2024-11-05T04:25:49.265Z
+scrappedAt: 2024-11-06T11:41:35.704Z
 bibliography:
   - Takada, S., Okita, K., Suga, T., Omokawa, M., Kadoguchi, T., Hirabayashi,
     K., … & Morita, N. (2012). «Low-intensity exercise can increase muscle mass

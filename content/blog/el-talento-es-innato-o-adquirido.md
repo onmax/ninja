@@ -8,7 +8,7 @@ image: persona-con-atencion-deliberada.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/03/persona-con-atencion-deliberada.jpg
 publishedAt: 2024-04-02T04:03:06.000Z
 modifiedAt: 2024-08-10T19:38:58.000Z
-scrappedAt: 2024-11-05T04:27:15.736Z
+scrappedAt: 2024-11-06T11:29:00.017Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86719308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-14%2F377557797-44100-2-77cabaf8edd0c.mp3
 bibliography:
   - "Van Hedger SC, Heald SLM, Nusbaum HC. Absolute pitch can be learned by some
@@ -34,13 +34,13 @@ Me da igual si estamos hablando de un escalador, pianista, trader, gimnasta, esc
 
 En el libro _Peak_ (número uno) el autor Anders Ericsson revelaba con estudios y datos si hay un supuesto gen detrás de esta gente que llegan a sus picos en sus disciplinas.
 
-[![Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU2VuTTNRMUpHVjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzYzNQ=)](https://www.amazon.es/dp8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
+[![Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGU2VuTTNRMUpHVjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzUyMw=)](https://www.amazon.es/dp8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
 
 [Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Número uno: Secretos para ser el mejor en lo que nos propongamos (Conecta)")
 
 [Comprar en Amazon](https://www.amazon.es/dp/8416029814?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Peak: Secrets from the New Science of Expertise (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWJFSkNRbWhaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzYzNQ=)](https://www.amazon.es/dpB011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
+[![Peak: Secrets from the New Science of Expertise (English Edition)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNWJFSkNRbWhaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzUyMw=)](https://www.amazon.es/dpB011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
 
 [Peak: Secrets from the New Science of Expertise (English Edition)](https://www.amazon.es/dp/B011H56MKS?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Peak: Secrets from the New Science of Expertise (English Edition)")
 

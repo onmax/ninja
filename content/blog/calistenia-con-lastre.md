@@ -7,7 +7,7 @@ categories: []
 image: persona-hace-calistenia-con-lastre.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-hace-calistenia-con-lastre.jpg
 publishedAt: 2024-08-31T09:06:05.000Z
-scrappedAt: 2024-11-05T04:25:49.602Z
+scrappedAt: 2024-11-06T11:41:42.935Z
 bibliography:
   - dominadas
   - fondos

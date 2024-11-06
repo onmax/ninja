@@ -8,7 +8,7 @@ image: persona-con-dolor-de-agujetas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-con-dolor-de-agujetas.jpg
 publishedAt: 2024-08-13T06:59:50.000Z
 modifiedAt: 2024-08-13T07:10:24.000Z
-scrappedAt: 2024-11-05T04:26:06.499Z
+scrappedAt: 2024-11-06T11:42:52.581Z
 bibliography:
   - "Cheung, K., Hume, P., & Maxwell, L. (2003). «Delayed onset muscle soreness:
     treatment strategies and performance factors.» Sports Medicine, 33(2),

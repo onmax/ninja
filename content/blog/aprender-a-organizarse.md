@@ -8,7 +8,7 @@ image: persona-aprende-a-organizarse.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-aprende-a-organizarse.jpg
 publishedAt: 2024-07-11T05:35:06.000Z
 modifiedAt: 2024-10-08T17:16:27.000Z
-scrappedAt: 2024-11-05T04:26:24.065Z
+scrappedAt: 2024-11-06T11:44:29.978Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/91321502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-5%2F385858398-44100-2-4a51197bac833.mp3
 bibliography:
   - Zhu, Meng & yang, yang & Hsee, Christopher. (2018). The Mere Urgency Effect.

@@ -8,7 +8,7 @@ image: etfs-apalancados.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/etfs-apalancados.jpg
 publishedAt: 2024-06-28T06:10:41.000Z
 modifiedAt: 2024-06-28T06:25:28.000Z
-scrappedAt: 2024-11-05T04:26:27.677Z
+scrappedAt: 2024-11-06T11:44:53.611Z
 bibliography: []
 
 ---

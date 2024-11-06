@@ -8,7 +8,7 @@ image: persona-entrena-por-tiempo.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-por-tiempo.jpg
 publishedAt: 2024-08-09T12:17:57.000Z
 modifiedAt: 2024-08-17T07:42:09.000Z
-scrappedAt: 2024-11-05T04:26:08.575Z
+scrappedAt: 2024-11-06T11:43:10.971Z
 bibliography:
   - dominadas
   - flexiones
@@ -143,7 +143,7 @@ Otra forma de ilustrar lo que digo son los entrenamientos de densidad que popula
 
 Ahora mismo rebajado
 
-[![Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTmJHRmlUMDlCUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU2OA=)](https://www.amazon.es/dp1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
+[![Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGTmJHRmlUMDlCUlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzQxOQ=)](https://www.amazon.es/dp1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
 
 [Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training](https://www.amazon.es/dp/1594860831?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Muscle Logic: Escalating Density Training Changes The Rules For Maximum-Impact Weight Training")
 

@@ -8,7 +8,7 @@ image: hombre-atractivo-por-practicar-retencion-seminal.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/10/hombre-atractivo-por-practicar-retencion-seminal.jpg
 publishedAt: 2024-10-05T05:40:23.000Z
 modifiedAt: 2024-10-07T07:34:45.000Z
-scrappedAt: 2024-11-05T04:25:38.425Z
+scrappedAt: 2024-11-06T11:40:30.985Z
 bibliography:
   - Lloyd & Meston, 2015. The Role of Sexual Self-Control in Health and
     Well-Being. Sexual and Relationship Therapy, 30(1), 84-95

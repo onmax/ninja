@@ -1,19 +1,28 @@
 <script setup lang="ts">
 const { user } = useUserSession()
 
-const route = useRoute()
-const title = route.meta.title as string || 'Ninja'
+const { clear: logout } = useUserSession()
 
-useHead({
-  title,
-  meta: [{ property: 'og:title', content: title }],
-})
+const route = useRoute()
+const { page } = useContent()
+const isBlogPost = computed(() => route.path.startsWith('/blog/'))
+const title = route.meta.title as string || page.value?.title
+
+if (title) {
+  useHead({
+    title,
+    meta: [{ property: 'og:title', content: title }],
+  })
+}
 
 const showAside = useLocalStorage<boolean>('show-aside', true)
 
 const options = [
   // { label: string, href: string, icon: string }}
-  { label: 'Cerrar sesión', href: '/auth/logout', icon: 'ph:sign-out-duotone' },
+  { label: 'Cerrar sesión', onClick: () => {
+    logout()
+    navigateTo('/')
+  }, icon: 'ph:sign-out-duotone' },
 ]
 </script>
 
@@ -74,7 +83,7 @@ const options = [
             Blog
           </NuxtLink>
 
-          <NuxtLink to="/blog" flex="~ items-center gap-8" un-text="[#3F3F46]" hocus:bg="[#F4F4F5]" rounded-8 p-4>
+          <NuxtLink to="/conversaciones" flex="~ items-center gap-8" un-text="[#3F3F46]" hocus:bg="[#F4F4F5]" rounded-8 p-4>
             <Icon name="ph:chat-dots-duotone" relative />
             Conversaciones
           </NuxtLink>
@@ -101,14 +110,22 @@ const options = [
       </div>
     </aside>
     <div flex-1 of-y-auto>
-      <header flex="~ gap-16 items-center" p-14>
-        <button bg="transparent hocus:accent" aspect-1 size-28 h-max rounded-6 p-4 flex="~ items-center justify-center" @click="showAside = !showAside">
+      <header flex="~ items-center" p-14>
+        <button bg="transparent hocus:accent" flex="~ items-center justify-center" mr-16 aspect-1 size-28 h-max rounded-6 p-4 @click="showAside = !showAside">
           <Icon name="ph:sidebar-simple-duotone" shrink-0 text-16 />
         </button>
-        <div mx-0 h-16 w-1 shrink-0 bg-border />
+        <div mx-0 mr-20 h-16 w-1 shrink-0 bg-border />
+        <template v-if="isBlogPost">
+          <NuxtLink to="/blog" line-clamp-1 text-foreground font-normal>
+            Blog
+          </NuxtLink>
+          <Icon name="ph:caret-right-bold" relative bottom--2 mx-8 text-10 text-foreground op-70 />
+        </template>
         <p line-clamp-1 text-foreground font-normal>
           {{ title }}
         </p>
+        <div flex-1 />
+        <slot name="header-end" />
       </header>
       <main v-bind="$attrs" p-24>
         <slot />

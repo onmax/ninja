@@ -8,7 +8,7 @@ image: trader-dando-soporte-y-resistencia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-dando-soporte-y-resistencia.jpeg
 publishedAt: 2024-05-28T12:49:13.000Z
 modifiedAt: 2024-05-30T05:51:39.000Z
-scrappedAt: 2024-11-05T04:26:38.416Z
+scrappedAt: 2024-11-06T11:45:41.563Z
 bibliography: []
 
 ---

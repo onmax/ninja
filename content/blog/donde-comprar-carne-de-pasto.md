@@ -8,7 +8,7 @@ image: persona-compra-carne-de-pasto.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/persona-compra-carne-de-pasto.jpeg
 publishedAt: 2024-05-07T15:19:31.000Z
 modifiedAt: 2024-08-10T19:23:48.000Z
-scrappedAt: 2024-11-05T04:26:56.826Z
+scrappedAt: 2024-11-06T11:46:54.878Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86671854/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-13%2F377441926-44100-2-ddb437618b99b.mp3
 bibliography: []
 

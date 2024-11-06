@@ -8,7 +8,7 @@ image: persona-vive-del-trading.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/persona-vive-del-trading.jpeg
 publishedAt: 2024-05-01T09:07:37.000Z
 modifiedAt: 2024-07-08T09:02:29.000Z
-scrappedAt: 2024-11-05T04:27:02.940Z
+scrappedAt: 2024-11-06T11:47:14.991Z
 bibliography: []
 
 ---

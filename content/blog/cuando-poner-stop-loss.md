@@ -8,7 +8,7 @@ image: cuando-poner-stop-loss.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/06/cuando-poner-stop-loss.jpg
 publishedAt: 2024-05-24T04:36:06.000Z
 modifiedAt: 2024-07-06T04:06:52.000Z
-scrappedAt: 2024-11-05T04:26:44.700Z
+scrappedAt: 2024-11-06T11:46:05.357Z
 bibliography:
   - Chague, Fernando and De-Losso, Rodrigo and Giovannetti, Bruno, Day Trading
     for a Living? (June 11, 2020).

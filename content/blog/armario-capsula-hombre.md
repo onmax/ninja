@@ -7,8 +7,8 @@ categories: []
 image: hombre-con-armario-capsula.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/hombre-con-armario-capsula.jpg
 publishedAt: 2024-09-21T09:08:45.000Z
-modifiedAt: 2024-10-09T08:27:40.000Z
-scrappedAt: 2024-11-05T04:25:44.256Z
+modifiedAt: 2024-11-06T06:10:11.000Z
+scrappedAt: 2024-11-06T11:41:10.406Z
 bibliography:
   - Hartline, N.L., et al. (2016). «Microfiber Masses Recovered from
     Conventional Machine Washing of New or Aged Garments.» Environmental Science
@@ -46,25 +46,25 @@ Ninja de la vida… Camiseta negra, pantalones, quizás una camisa de leñador d
 
 Si dijeras que todas juntas hacen un trabajo maravilloso para hacerme lucir como una persona a la que que no le importa como viste… En parte tendrías razón, pero ¿y si te dijera que esta es la intención?
 
-En el último par de años he desechado la mayoría de ropa que tenía al darme cuenta que no cumplían con mis estándares de **salud** + **moda** + **productividad**.
+En los últimos años me ha venido [una necesidad de tirar cosas](./necesidad-de-tirar-cosas) haciendo que desechara la mayoría de ropa que tenía cuando me di cuenta que no cumplían con mis estándares de **salud** + **moda** + **productividad**.
 
 Y es que ninjas de la vida, el principio de Pareto (el 20% de energía para obtener el 80% de un buen resultado) también se puede aplicar en nuestro armario.
 
-No me malinterpretéis…
-
-Porque no me refiero a vestir con el mismo tipo de _pseudo_ uniforme cada día como si fuéramos Mark Zuckerberg o Steve Jobs, sino a haber invertido una energía inicial (puntual, una sola vez) en crear un armario base, para después no tener que destinar energía diaria en tomar decisiones que en el fondo sí importan.
+No me malinterpretéis, porque mi intención no es (ni mucho menos) vestir con el mismo tipo de _pseudo_ uniforme cada día como si fuéramos Mark Zuckerberg o Steve Jobs.
 
 ![cómic ropa minimalista](./wp-content/uploads/2021/10comic-minimalista.png)
 
+No… De lo que estoy hablando es invertir una energía inicial (puntual, una sola vez) en crear un armario base, para después no tener que destinar energía diaria en tomar decisiones que en el fondo _sí_ importa.
+
 Tanto psicológicamente, como económicamente, como fisiológicamente ahora que sabemos que cada lavado puede desprendernos millones de microplásticos si no elegimos los materiales correctos.[ref-1](#ref-1){.ref}[ref-2](#ref-2){.ref}[ref-3](#ref-3){.ref}
 
-No es sólo [los alimentos que aumentan la testosterona](./alimentos-aumentan-testosterona) sino el **impacto negativo que tienen los tejidos sintético**, haciéndonos de disruptores endocrinos. Es decir, interrumpiéndonos el uso de ciertas hormonas. Sólo por el hecho de elegir los tejidos, la ropa correcta.
+No es sólo [los alimentos que aumentan la testosterona](./alimentos-aumentan-testosterona) sino el **impacto negativo que tienen los tejidos sintéticos**, haciéndonos de disruptores endocrinos. Es decir, interrumpiéndonos el uso de ciertas hormonas. Sólo por el hecho de elegir los tejidos, la ropa correcta.
 
 Si combinamos salud + eficiencia a la hora de vestir (para no dedicar energía a ello) + un mínimo de estética, era de esperar que algunos termináramos desarrollando nuestro propio **armario cápsula**.
 
-Un armario con ropa de calidad y cómoda que pueda usarse en la mayoría de situaciones y que tengan una buena rotación.
+Un armario con ropa de calidad y cómoda que podamos usarse en la mayoría de situaciones y que tengan una buena rotación.
 
-Es decir: que no haya una prenda que nunca uso que simplemente esté ahí ocupando espacio.
+Es decir: que no haya una prenda que nunca uso que simplemente esté ahí ocupando espacio. Para aprovechar ese principio de Pareto al máximo.
 
 Que es lo que hace la mayoría: comprar ropa que le gusta, y la va acumulando en el armario sin que tenga un propósito o rotación específica.
 
@@ -260,7 +260,7 @@ _Actualizado: octubre de 2024._
 
 #### Mochila
 
-[![QT&QY Mochilas Militares Tácticas Para Hombres Mochila Molle 45L Lage 3 días GYM Bolsa para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdmFGZHhMV1owTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB08QNJ6RGM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "QT&QY Mochilas Militares Tácticas Para Hombres Mochila Molle 45L Lage 3 días GYM Bolsa para...")
+[![QT&QY Mochilas Militares Tácticas Para Hombres Mochila Molle 45L Lage 3 días GYM Bolsa para...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGdmFGZHhMV1owTmt3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB08QNJ6RGM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "QT&QY Mochilas Militares Tácticas Para Hombres Mochila Molle 45L Lage 3 días GYM Bolsa para...")
 
 [QT&QY Mochilas Militares Tácticas Para Hombres Mochila Molle 45L Lage 3 días GYM Bolsa para...](https://www.amazon.es/dp/B08QNJ6RGM?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "QT&QY Mochilas Militares Tácticas Para Hombres Mochila Molle 45L Lage 3 días GYM Bolsa para...")
 
@@ -272,7 +272,7 @@ _Actualizado: octubre de 2024._
 
 Ahora mismo rebajado
 
-[![Casio Reloj Cuarzo Unisex 36.00mm con dial Digital LCD y Correa de Pulsera de Metal Negro...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFd2RrbHVSR3RGVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB07X9VBP7M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Casio Reloj Cuarzo Unisex 36.00mm con dial Digital LCD y Correa de Pulsera de Metal Negro...")
+[![Casio Reloj Cuarzo Unisex 36.00mm con dial Digital LCD y Correa de Pulsera de Metal Negro...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFd2RrbHVSR3RGVUV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB07X9VBP7M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Casio Reloj Cuarzo Unisex 36.00mm con dial Digital LCD y Correa de Pulsera de Metal Negro...")
 
 [Casio Reloj Cuarzo Unisex 36.00mm con dial Digital LCD y Correa de Pulsera de Metal Negro...](https://www.amazon.es/dp/B07X9VBP7M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Casio Reloj Cuarzo Unisex 36.00mm con dial Digital LCD y Correa de Pulsera de Metal Negro...")
 
@@ -282,7 +282,7 @@ Ahora mismo rebajado
 
 #### Calzoncillos de algodón
 
-[![MioRalini 6 Boxershort 100% algodón Artículo: 6 con intervención SET04, Talla: M-5](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSGNFaDNMWGxQYjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB00CJF1U6M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "MioRalini 6 Boxershort 100% algodón Artículo: 6 con intervención SET04, Talla: M-5")
+[![MioRalini 6 Boxershort 100% algodón Artículo: 6 con intervención SET04, Talla: M-5](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TlRGSGNFaDNMWGxQYjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB00CJF1U6M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "MioRalini 6 Boxershort 100% algodón Artículo: 6 con intervención SET04, Talla: M-5")
 
 [MioRalini 6 Boxershort 100% algodón Artículo: 6 con intervención SET04, Talla: M-5](https://www.amazon.es/dp/B00CJF1U6M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "MioRalini 6 Boxershort 100% algodón Artículo: 6 con intervención SET04, Talla: M-5")
 
@@ -290,7 +290,7 @@ Ahora mismo rebajado
 
 [Comprar en Amazon](https://www.amazon.es/dp/B00CJF1U6M?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Kacouni 3 Piezas Calzoncillos Bóxer Hombre Anchos, Tejido 100% Algodón Cómodos Suave Transpirable...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGMFJqQkNLMHh6TjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB0C99G6GMN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kacouni 3 Piezas Calzoncillos Bóxer Hombre Anchos, Tejido 100% Algodón Cómodos Suave Transpirable...")
+[![Kacouni 3 Piezas Calzoncillos Bóxer Hombre Anchos, Tejido 100% Algodón Cómodos Suave Transpirable...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGMFJqQkNLMHh6TjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB0C99G6GMN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kacouni 3 Piezas Calzoncillos Bóxer Hombre Anchos, Tejido 100% Algodón Cómodos Suave Transpirable...")
 
 [Kacouni 3 Piezas Calzoncillos Bóxer Hombre Anchos, Tejido 100% Algodón Cómodos Suave Transpirable...](https://www.amazon.es/dp/B0C99G6GMN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Kacouni 3 Piezas Calzoncillos Bóxer Hombre Anchos, Tejido 100% Algodón Cómodos Suave Transpirable...")
 
@@ -300,7 +300,7 @@ Ahora mismo rebajado
 
 Ahora mismo rebajado
 
-[![Levi's Boxer, Gris (Asphalt), S (Pack de 2) para Hombre](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGd1dFcFhPR0ZWZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB097CDPQKL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Levi's Boxer, Gris (Asphalt), S (Pack de 2) para Hombre")
+[![Levi's Boxer, Gris (Asphalt), S (Pack de 2) para Hombre](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGd1dFcFhPR0ZWZFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB097CDPQKL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Levi's Boxer, Gris (Asphalt), S (Pack de 2) para Hombre")
 
 [Levi's Boxer, Gris (Asphalt), S (Pack de 2) para Hombre](https://www.amazon.es/dp/B097CDPQKL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Levi's Boxer, Gris (Asphalt), S (Pack de 2) para Hombre")
 
@@ -314,7 +314,7 @@ Ahora mismo rebajado
 
 #### Camiseta interior caliente
 
-[![Merino.tech Camiseta Lana Merino Hombre — 100% orgánica de Lana Merino Camiseta Interior Hombre...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGNk1EWkJSbEpIY0ZNdVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB082B7SRFN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Merino.tech Camiseta Lana Merino Hombre — 100% orgánica de Lana Merino Camiseta Interior Hombre...")
+[![Merino.tech Camiseta Lana Merino Hombre — 100% orgánica de Lana Merino Camiseta Interior Hombre...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGNk1EWkJSbEpIY0ZNdVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB082B7SRFN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Merino.tech Camiseta Lana Merino Hombre — 100% orgánica de Lana Merino Camiseta Interior Hombre...")
 
 [Merino.tech Camiseta Lana Merino Hombre — 100% orgánica de Lana Merino Camiseta Interior Hombre...](https://www.amazon.es/dp/B082B7SRFN?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Merino.tech Camiseta Lana Merino Hombre — 100% orgánica de Lana Merino Camiseta Interior Hombre...")
 
@@ -324,7 +324,7 @@ Ahora mismo rebajado
 
 #### Pantalón largo
 
-[![Indicode Pantalones de tela Clio para hombre de algodón 100% | Pantalones casuales hombres, Negro ,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeFkydG1OWEIxSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB0C8V49MWH?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Indicode Pantalones de tela Clio para hombre de algodón 100% | Pantalones casuales hombres, Negro ,...")
+[![Indicode Pantalones de tela Clio para hombre de algodón 100% | Pantalones casuales hombres, Negro ,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFeFkydG1OWEIxSzB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB0C8V49MWH?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Indicode Pantalones de tela Clio para hombre de algodón 100% | Pantalones casuales hombres, Negro ,...")
 
 [Indicode Pantalones de tela Clio para hombre de algodón 100% | Pantalones casuales hombres, Negro ,...](https://www.amazon.es/dp/B0C8V49MWH?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Indicode Pantalones de tela Clio para hombre de algodón 100% | Pantalones casuales hombres, Negro ,...")
 
@@ -338,7 +338,7 @@ Toma una talla menos de la que acostumbras. Aunque Amazon te diga una talla, mej
 
 #### Sandalias
 
-[![Pies Sucios Terra (ss23 10mm Negro 43 EU)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFNWJscGlWVzU0YkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB0C41M43YL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Pies Sucios Terra (ss23 10mm Negro 43 EU)")
+[![Pies Sucios Terra (ss23 10mm Negro 43 EU)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFNWJscGlWVzU0YkV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB0C41M43YL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Pies Sucios Terra (ss23 10mm Negro 43 EU)")
 
 [Pies Sucios Terra (ss23 10mm Negro 43 EU)](https://www.amazon.es/dp/B0C41M43YL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Pies Sucios Terra (ss23 10mm Negro 43 EU)")
 
@@ -348,7 +348,7 @@ Toma una talla menos de la que acostumbras. Aunque Amazon te diga una talla, mej
 
 #### Pantalón corto
 
-[![Aseniza Pantalones Cortos Hombre 100% Algodon Pantalon Corto Pijama Hombre Elástico Verano a...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGMmJrNUdVbGROVlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB09BCPBBGL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aseniza Pantalones Cortos Hombre 100% Algodon Pantalon Corto Pijama Hombre Elástico Verano a...")
+[![Aseniza Pantalones Cortos Hombre 100% Algodon Pantalon Corto Pijama Hombre Elástico Verano a...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGMmJrNUdVbGROVlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB09BCPBBGL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aseniza Pantalones Cortos Hombre 100% Algodon Pantalon Corto Pijama Hombre Elástico Verano a...")
 
 [Aseniza Pantalones Cortos Hombre 100% Algodon Pantalon Corto Pijama Hombre Elástico Verano a...](https://www.amazon.es/dp/B09BCPBBGL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Aseniza Pantalones Cortos Hombre 100% Algodon Pantalon Corto Pijama Hombre Elástico Verano a...")
 
@@ -356,7 +356,7 @@ Toma una talla menos de la que acostumbras. Aunque Amazon te diga una talla, mej
 
 [Comprar en Amazon](https://www.amazon.es/dp/B09BCPBBGL?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Casey Kevin Pantalon Corto Hombre Algodón Cremallera Bolsillos Deporte Gimnasio Pantalón Running...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGVVRuRlNTWEJuUjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB0C4TNRMWZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Casey Kevin Pantalon Corto Hombre Algodón Cremallera Bolsillos Deporte Gimnasio Pantalón Running...")
+[![Casey Kevin Pantalon Corto Hombre Algodón Cremallera Bolsillos Deporte Gimnasio Pantalón Running...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGVVRuRlNTWEJuUjB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB0C4TNRMWZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Casey Kevin Pantalon Corto Hombre Algodón Cremallera Bolsillos Deporte Gimnasio Pantalón Running...")
 
 [Casey Kevin Pantalon Corto Hombre Algodón Cremallera Bolsillos Deporte Gimnasio Pantalón Running...](https://www.amazon.es/dp/B0C4TNRMWZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Casey Kevin Pantalon Corto Hombre Algodón Cremallera Bolsillos Deporte Gimnasio Pantalón Running...")
 
@@ -364,7 +364,7 @@ Toma una talla menos de la que acostumbras. Aunque Amazon te diga una talla, mej
 
 [Comprar en Amazon](https://www.amazon.es/dp/B0C4TNRMWZ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 
-[![Champion Legacy Authentic Pants Pro Jersey Small Logo Bermuda Pantalones Cortos, Azul Marino, M...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFME5uTTJWM3BMYlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB09YMP4MPJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Champion Legacy Authentic Pants Pro Jersey Small Logo Bermuda Pantalones Cortos, Azul Marino, M...")
+[![Champion Legacy Authentic Pants Pro Jersey Small Logo Bermuda Pantalones Cortos, Azul Marino, M...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRFME5uTTJWM3BMYlV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB09YMP4MPJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Champion Legacy Authentic Pants Pro Jersey Small Logo Bermuda Pantalones Cortos, Azul Marino, M...")
 
 [Champion Legacy Authentic Pants Pro Jersey Small Logo Bermuda Pantalones Cortos, Azul Marino, M...](https://www.amazon.es/dp/B09YMP4MPJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Champion Legacy Authentic Pants Pro Jersey Small Logo Bermuda Pantalones Cortos, Azul Marino, M...")
 
@@ -374,7 +374,7 @@ Toma una talla menos de la que acostumbras. Aunque Amazon te diga una talla, mej
 
 Ahora mismo rebajado
 
-[![URBAN CLASSICS Juego de 6 Camisetas para Hombre de Manga Corta, Camisetas de Algodón y Cuello...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFM1lYazJSRGh5Y1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB07TQNPF4S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "URBAN CLASSICS Juego de 6 Camisetas para Hombre de Manga Corta, Camisetas de Algodón y Cuello...")
+[![URBAN CLASSICS Juego de 6 Camisetas para Hombre de Manga Corta, Camisetas de Algodón y Cuello...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpFM1lYazJSRGh5Y1V3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB07TQNPF4S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "URBAN CLASSICS Juego de 6 Camisetas para Hombre de Manga Corta, Camisetas de Algodón y Cuello...")
 
 [URBAN CLASSICS Juego de 6 Camisetas para Hombre de Manga Corta, Camisetas de Algodón y Cuello...](https://www.amazon.es/dp/B07TQNPF4S?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "URBAN CLASSICS Juego de 6 Camisetas para Hombre de Manga Corta, Camisetas de Algodón y Cuello...")
 
@@ -384,7 +384,7 @@ Ahora mismo rebajado
 
 #### Camiseta sin mangas
 
-[![URBAN CLASSICS Camiseta Tirantes Hombre en Algodón, Camiseta sin Mangas Verano, Camiseta Interior,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQldEUmlSMlZoVTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMDk1MzU0Mw=)](https://www.amazon.es/dpB01MRPZSY7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "URBAN CLASSICS Camiseta Tirantes Hombre en Algodón, Camiseta sin Mangas Verano, Camiseta Interior,...")
+[![URBAN CLASSICS Camiseta Tirantes Hombre en Algodón, Camiseta sin Mangas Verano, Camiseta Interior,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGQldEUmlSMlZoVTB3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1NzM4Mw=)](https://www.amazon.es/dpB01MRPZSY7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "URBAN CLASSICS Camiseta Tirantes Hombre en Algodón, Camiseta sin Mangas Verano, Camiseta Interior,...")
 
 [URBAN CLASSICS Camiseta Tirantes Hombre en Algodón, Camiseta sin Mangas Verano, Camiseta Interior,...](https://www.amazon.es/dp/B01MRPZSY7?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "URBAN CLASSICS Camiseta Tirantes Hombre en Algodón, Camiseta sin Mangas Verano, Camiseta Interior,...")
 

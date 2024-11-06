@@ -7,7 +7,7 @@ categories: []
 image: persona-entrena-circuito-de-calistenia.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-entrena-circuito-de-calistenia.jpg
 publishedAt: 2024-08-27T07:05:05.000Z
-scrappedAt: 2024-11-05T04:25:54.150Z
+scrappedAt: 2024-11-06T11:41:58.474Z
 bibliography:
   - flexiones
   - dominadas

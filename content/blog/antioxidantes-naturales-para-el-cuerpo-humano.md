@@ -8,7 +8,7 @@ image: persona-se-cura-con-antioxidantes-naturales-para-el-cuerpo-humano.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/persona-se-cura-con-antioxidantes-naturales-para-el-cuerpo-humano.jpg
 publishedAt: 2024-09-19T05:39:14.000Z
 modifiedAt: 2024-10-10T18:16:54.000Z
-scrappedAt: 2024-11-05T04:25:45.970Z
+scrappedAt: 2024-11-06T11:41:18.100Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/92179852/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-25%2F387030434-44100-2-3de557a0756d3.mp3
 bibliography:
   - "Bjelakovic, G., Nikolova, D., Gluud, L. L., Simonetti, R. G., & Gluud, C.

@@ -8,7 +8,7 @@ image: persona-sin-tiempo-para-el-gimnasio.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-sin-tiempo-para-el-gimnasio.jpg
 publishedAt: 2024-07-29T05:53:18.000Z
 modifiedAt: 2024-10-17T08:38:48.000Z
-scrappedAt: 2024-11-05T04:26:22.105Z
+scrappedAt: 2024-11-06T11:44:14.711Z
 bibliography:
   - "Thompson, W. R. (2017). Worldwide survey of fitness trends for 2018: The
     CREP edition. ACSM’s Health & Fitness Journal, 21(6), 10-19."

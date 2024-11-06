@@ -8,7 +8,7 @@ image: persona-que-no-procrastina.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2023/07/persona-que-no-procrastina.jpeg
 publishedAt: 2024-05-17T04:30:16.000Z
 modifiedAt: 2024-08-10T19:43:02.000Z
-scrappedAt: 2024-11-05T04:26:51.681Z
+scrappedAt: 2024-11-06T11:46:33.320Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/87403434/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-30%2F379232421-44100-2-c2b9e522b7d91.mp3
 bibliography:
   - 2002, CubeSmart, Inc, «‌Social Interruption and the Loss of Productivity».

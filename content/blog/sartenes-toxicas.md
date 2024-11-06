@@ -8,7 +8,7 @@ image: persona-usa-sartenes-toxicas-en-la-cocina.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/11/persona-usa-sartenes-toxicas-en-la-cocina.jpg
 publishedAt: 2024-11-02T05:17:12.000Z
 modifiedAt: 2024-11-02T07:19:14.000Z
-scrappedAt: 2024-11-05T04:25:30.368Z
+scrappedAt: 2024-11-06T11:39:37.470Z
 bibliography:
   - "Lind, L., Salihovic, S., & van Bavel, B. (2012). Circulating levels of
     perfluoroalkyl substances (PFAS) and carotid artery atherosclerosis: The
@@ -271,7 +271,7 @@ Pues lógicamente si el aluminio es malo para la salud, lo será en todas sus fo
 
 Lo mismo con esas sartenes de acero inoxidable que sí, son _en su mayoría_ de acero inoxidable, pero cuidado porque pueden tener **núcleo de aluminio**.
 
-[![Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR2VIZERSQzFaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkyODI5NA=)](https://www.amazon.es/dpB0CZHXHLDJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...")
+[![Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TXpGR2VIZERSQzFaYWt3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1MzAzMQ=)](https://www.amazon.es/dpB0CZHXHLDJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...")
 
 [Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...](https://www.amazon.es/dp/B0CZHXHLDJ?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Tefal Sartén Jamie Oliver Cook Smart 28 cm - Sartén acero inoxidable sin revestimiento, robusta,...")
 

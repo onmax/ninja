@@ -8,7 +8,7 @@ image: persona-busca-alternativa-al-press-banca.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-busca-alternativa-al-press-banca.jpeg
 publishedAt: 2024-08-19T06:01:01.000Z
 modifiedAt: 2024-10-24T05:21:39.000Z
-scrappedAt: 2024-11-05T04:26:03.198Z
+scrappedAt: 2024-11-06T11:42:36.924Z
 bibliography:
   - Keogh, J. W. L., & Winwood, P. W. (2017). The epidemiology of injuries
     across the weight-training sports. Sports Medicine, 47(3), 507-520.

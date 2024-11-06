@@ -8,7 +8,7 @@ image: persona-que-sufre-de-hipotiroidismo.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-que-sufre-de-hipotiroidismo.jpg
 publishedAt: 2024-08-04T07:04:21.000Z
 modifiedAt: 2024-10-29T07:47:45.000Z
-scrappedAt: 2024-11-05T04:26:13.811Z
+scrappedAt: 2024-11-06T11:43:35.212Z
 bibliography:
   - "McKeown NJ, Tews MC, Gossain VV, Shan SM. Hyperthyroidism. Emerg Med Clin
     North Am. 2005; 23: 669-685."

@@ -8,7 +8,7 @@ image: persona-consumiendo-microplasticos.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/persona-consumiendo-microplasticos.jpg
 publishedAt: 2024-07-15T05:43:39.000Z
 modifiedAt: 2024-07-15T05:44:20.000Z
-scrappedAt: 2024-11-05T04:26:22.397Z
+scrappedAt: 2024-11-06T11:44:22.944Z
 bibliography:
   - Carrington, Damian. 2024. “Microplastics Found in Every Human Testicle in
     Study.” The Guardian.

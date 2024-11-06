@@ -8,7 +8,7 @@ image: un-preparacionista-en-Espana.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/un-preparacionista-en-Espana.jpg
 publishedAt: 2024-10-12T07:46:22.000Z
 modifiedAt: 2024-10-15T04:16:33.000Z
-scrappedAt: 2024-11-05T04:25:37.953Z
+scrappedAt: 2024-11-06T11:40:22.888Z
 bibliography:
   - "Ramey, C. H. (2017). Fortresses of Wealth: The Luxury Bunker Market and the
     Hyper-Rich. Journal of Consumer Culture, 17(2), 176-195."

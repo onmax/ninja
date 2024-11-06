@@ -8,7 +8,7 @@ image: trader-inversor-usa-stop-loss.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/05/trader-inversor-usa-stop-loss.jpeg
 publishedAt: 2024-05-18T04:04:17.000Z
 modifiedAt: 2024-05-18T07:03:08.000Z
-scrappedAt: 2024-11-05T04:26:48.516Z
+scrappedAt: 2024-11-06T11:46:26.179Z
 bibliography: []
 
 ---

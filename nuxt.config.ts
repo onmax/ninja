@@ -30,6 +30,7 @@ export default defineNuxtConfig({
 
   // https://hub.nuxt.com/docs/getting-started/installation#options
   hub: {
+    kv: true,
     ai: true,
     database: true,
     vectorize: {
@@ -59,6 +60,10 @@ export default defineNuxtConfig({
     classSuffix: '',
   },
 
+  content: {
+    documentDriven: true,
+  },
+
   features: {
     // For UnoCSS
     inlineStyles: false,
@@ -67,6 +72,7 @@ export default defineNuxtConfig({
   // Env variables - https://nuxt.com/docs/getting-started/configuration#environment-variables-and-private-tokens
   runtimeConfig: {
     openaiApiKey: env.NUXT_OPENAI_API_KEY,
+    discordGuildId: env.NUXT_DISCORD_GUILD_ID,
   },
 
   // https://eslint.nuxt.com

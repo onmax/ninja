@@ -8,7 +8,7 @@ image: persona-quiere-consumir-antioxidantes.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/09/persona-quiere-consumir-antioxidantes.jpg
 publishedAt: 2024-09-12T08:10:20.000Z
 modifiedAt: 2024-10-01T17:18:42.000Z
-scrappedAt: 2024-11-05T04:25:47.603Z
+scrappedAt: 2024-11-06T11:41:26.270Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/92070363/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-8-23%2F386866012-44100-2-656ef6ef860d7.mp3
 bibliography:
   - “Antioxidants Market Size, Share & Value | Global Report \[2032\].” 2024.

@@ -8,7 +8,7 @@ image: persona-con-piernas-que-no-le-crecen.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-con-piernas-que-no-le-crecen.jpeg
 publishedAt: 2024-08-15T07:43:43.000Z
 modifiedAt: 2024-10-28T15:06:50.000Z
-scrappedAt: 2024-11-05T04:26:06.099Z
+scrappedAt: 2024-11-06T11:42:45.352Z
 bibliography:
   - Smith, 2018. The impact of lower body strength on injury prevention in
     athletes. Journal of Sports Science, 36(7), 1012-1020

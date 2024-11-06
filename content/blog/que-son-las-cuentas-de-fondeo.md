@@ -8,7 +8,7 @@ image: trader-con-cuentas-fondeadas.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/07/trader-con-cuentas-fondeadas.jpg
 publishedAt: 2024-07-05T06:39:51.000Z
 modifiedAt: 2024-07-09T03:39:48.000Z
-scrappedAt: 2024-11-05T04:26:25.685Z
+scrappedAt: 2024-11-06T11:44:37.355Z
 bibliography: []
 
 ---

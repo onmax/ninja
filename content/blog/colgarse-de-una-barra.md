@@ -8,7 +8,7 @@ image: persona-colgandose-de-una-barra.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2022/05/persona-colgandose-de-una-barra.jpeg
 publishedAt: 2024-03-12T07:13:50.000Z
 modifiedAt: 2024-08-10T19:18:28.000Z
-scrappedAt: 2024-11-05T04:27:20.999Z
+scrappedAt: 2024-11-06T11:29:23.287Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/85435394/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-3-15%2F374366043-44100-2-4630088e41def.mp3
 bibliography:
   - "University of Helsinki. «Most common shoulder operation is no more

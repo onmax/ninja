@@ -8,7 +8,7 @@ image: patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/patrones-de-velas-japonesas-en-cambio-de-tendencia.jpeg
 publishedAt: 2024-04-02T04:40:41.000Z
 modifiedAt: 2024-06-23T05:27:14.000Z
-scrappedAt: 2024-11-05T04:27:14.229Z
+scrappedAt: 2024-11-06T11:28:53.799Z
 bibliography: []
 
 ---
@@ -407,13 +407,13 @@ Ha sido una aventura muy divertida sumergirme en estos datos y sin duda os recom
 
 Ahora mismo rebajado
 
-[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMDkzNzIxOA=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
+[![Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](./wp-content/plugins/aawp/public/image.php?url=YUhSMGNITTZMeTl0TG0xbFpHbGhMV0Z0WVhwdmJpNWpiMjB2YVcxaFoyVnpMMGt2TkRGNVVuUTJielIyVFV3dVgxTk1NVFl3WHk1cWNHYz18MTczMTA1MjUyMw=)](https://www.amazon.es/dp0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 [Encyclopedia of Candlestick Charts: 332 (Wiley Trading)](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Encyclopedia of Candlestick Charts: 332 (Wiley Trading)")
 
 La biblia del análisis de datos y los patrones de velas japonesas.
 
-113,91 €
+113,31 €
 
 [Comprar en Amazon](https://www.amazon.es/dp/0470182016?tag=pau-ninja-21&linkCode=ogi&th=1&psc=1 "Comprar en Amazon")
 

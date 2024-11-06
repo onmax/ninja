@@ -8,7 +8,7 @@ image: practica-deliberada.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/04/practica-deliberada.jpg
 publishedAt: 2024-04-02T04:53:42.000Z
 modifiedAt: 2024-08-10T19:41:25.000Z
-scrappedAt: 2024-11-05T04:27:13.830Z
+scrappedAt: 2024-11-06T11:28:45.987Z
 audioLink: https://anchor.fm/s/98566448/podcast/play/86774742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2024-4-15%2F377693696-44100-2-f4b383200498a.mp3
 bibliography:
   - “Ben Franklin Taught Himself to Write with a Few Clever Tricks | the

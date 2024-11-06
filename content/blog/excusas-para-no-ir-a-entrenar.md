@@ -8,7 +8,7 @@ image: persona-pone-excusas-para-no-ir-a-entrenar.jpg
 imageUrl: https://pau.ninja/wp-content/uploads/2024/08/persona-pone-excusas-para-no-ir-a-entrenar.jpg
 publishedAt: 2024-08-02T05:36:40.000Z
 modifiedAt: 2024-08-02T05:40:06.000Z
-scrappedAt: 2024-11-05T04:26:15.501Z
+scrappedAt: 2024-11-06T11:43:42.638Z
 bibliography:
   - Stults-Kolehmainen, M. A., & Sinha, R. (2014). The effects of stress on
     physical activity and exercise. Sports Medicine, 44(1), 81-121.
